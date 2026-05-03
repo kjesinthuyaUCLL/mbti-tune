@@ -1,0 +1,821 @@
+#,Song,Artist,BPM,Camelot,Energy,Added At,Duration,Popularity,Genres,Album,Album Date,Dance,Acoustic,Instrumental,Valence,Speech,Live,Loud (Db),Key,Time Signature,Spotify Track Id,ISRC
+1,"Diet Mountain Dew","Lana Del Rey",88,3A,70,2022-12-10,03:42,79,"","Born To Die - The Paradise Edition",2012-01-01,60,28,0,53,0,40,-6,A#/B♭ Minor,4,2vtmY2mSccRzKGjtcHSzI3,GBUM71111528
+2,"Columbia","Quevedo",100,7B,71,2023-08-22,03:06,67,"","Columbia",2023-07-07,67,37,0,26,0,10,-6,F Major,4,6XbtvPmIpyCbjuT0e8cQtp,BK4DA2310533
+3,"qué le pasa conmigo?","Nicki Nicole,Rels B",97,3B,58,2023-06-03,02:47,55,"argentine trap, urbano latino, trap latino","qué le pasa conmigo?",2023-04-19,83,31,1,73,0,0,-6,C♯/D♭ Major,4,4TrYGTVgWOe2s3ZPn5qFTa,UYB282300006
+4,"MONACO","Bad Bunny",139,9A,62,2023-10-22,04:27,87,"reggaeton, trap latino, latin, urbano latino","nadie sabe lo que va a pasar mañana",2023-10-13,79,15,0,13,0,50,-5,E Minor,4,4MjDJD8cW7iVeWInc2Bdyj,QMFME2364182
+5,"Sweater Weather","The Neighbourhood",124,6B,81,2021-12-20,04:00,93,"","I Love You.",2013-04-22,61,5,2,40,0,10,-3,A#/B♭ Major,4,2QjOHCTQ1Jl3zawyYOpxh6,USSM11300080
+6,"Brooklyn Baby","Lana Del Rey",108,3B,66,2022-12-10,05:51,85,"","Ultraviolence (Deluxe)",2014-01-01,40,54,0,9,0,10,-7,C♯/D♭ Major,4,1NZs6n6hl8UuMaX0UC0YTz,GBUM71402169
+7,"Why'd You Only Call Me When You're High?","Arctic Monkeys",92,10B,63,2021-12-20,02:41,87,"indie, garage rock","AM",2013-09-09,69,5,0,80,0,10,-6,D Major,4,086myS9r57YsLbJpU0TgK9,GBCEL1300370
+8,"Do I Wanna Know?","Arctic Monkeys",85,7B,53,2021-12-20,04:32,89,"indie, garage rock","AM",2013-09-09,55,19,0,41,0,20,-8,F Major,4,5FVd6KXrgO9B3JPmC8OPst,GBCEL1300362
+9,"wish you were gay","Billie Eilish",118,9B,35,2021-12-20,03:41,75,"","WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,85,39,0,28,20,70,-10,G Major,4,3Fj47GNK2kUF0uaEDgXLaD,USUM71900767
+10,"Honeypie","JAWNY",115,4A,69,2021-12-20,02:15,80,"bedroom pop","For Abby",2020-10-27,74,6,0,94,0,10,-4,F Minor,4,6FfLg6FFqhCsrFOaHIGkg0,GBKPL1946902
+11,"Oh No!","MARINA",127,8B,90,2021-12-27,03:02,73,"","The Family Jewels",2009-07-15,77,5,0,96,0,20,-4,C Major,4,4sNwdacKyi2S26WrRtNama,GBFFS0900127
+12,"Are You Satisfied?","MARINA",124,8B,73,2021-12-27,03:21,66,"","The Family Jewels",2009-07-15,67,32,0,80,0,0,-5,C Major,4,411Hvulc0PrGQLOHljTYed,GBFFS0900114
+13,"Hermit the Frog","MARINA",122,8B,68,2021-12-20,03:35,66,"","The Family Jewels",2009-07-15,61,24,0,49,0,20,-5,C Major,4,4Zcz6saEkOII3PlXd9gN3o,GBFFS0900117
+14,"Mowgli's Road","MARINA",146,3A,81,2022-03-04,03:12,46,"","The Family Jewels",2009-07-15,62,1,0,66,0,30,-7,A#/B♭ Minor,4,7GSt1wQIumbnBcx3Fc6oxS,GBFFS0900113
+15,"Dark Red","Steve Lacy",172,2B,78,2021-12-20,02:53,3,"","Dark Red",2017-02-20,60,45,0,78,0,10,-4,F#/G♭ Major,4,37y7iDayfwm3WXn5BiAoRk,GBKPL1778015
+16,"Let You Break My Heart Again","Laufey,Philharmonia Orchestra",77,10B,14,2022-12-08,04:29,80,"opera, classical, orchestral","Let You Break My Heart Again",2021-08-13,30,97,11,12,0,10,-15,D Major,4,709p9UGPAuyImWf1Z3vjRo,TCAFR2175884
+17,"Misery","Maroon 5",103,9A,81,2022-01-16,03:36,68,"pop","Hands All Over (Revised International Standard version)",2010-00-00,70,0,0,73,0,20,-5,E Minor,4,0RZyUsKfiC7MtiGKatCtGc,USUM71015280
+18,"Arms Tonite","Mother Mother",140,12B,65,2022-03-23,03:36,1,"","O My Heart",2008-09-23,69,10,0,32,0,10,-4,E Major,4,1rRwwqteLePmi70PGaC8ah,CAL450882110
+19,"Wrecking Ball","Mother Mother",97,9B,80,2022-12-13,03:14,0,"","O My Heart",2008-09-23,66,19,0,28,0,30,-4,G Major,4,2y51QpLzI5qbWfCcSx9Tu1,CAL450882109
+20,"Softcore","The Neighbourhood",94,8A,57,2022-02-16,03:26,87,"","Hard To Imagine The Neighbourhood Ever Changing",2018-11-02,57,5,0,37,0,20,-6,A Minor,4,2K7xn816oNHJZ0aVqdQsha,USSM11800523
+21,"Reflections","The Neighbourhood",114,10A,59,2022-01-28,04:04,88,"","Hard To Imagine The Neighbourhood Ever Changing",2018-11-02,65,11,5,54,0,10,-7,B Minor,4,2xql0pid3EUwW38AsywxhV,USSM11800527
+22,"You Get Me So High","The Neighbourhood",88,6A,88,2022-05-11,02:33,82,"","Hard To Imagine The Neighbourhood Ever Changing",2018-11-02,55,19,8,39,0,10,-6,G Minor,4,7zwn1eykZtZ5LODrf7c0tS,USSM11707131
+23,"Backstabber","Kesha",160,9B,94,2022-03-04,03:06,72,"","Animal (Expanded Edition)",2010-01-01,60,7,0,83,10,30,-2,G Major,4,4GRFzKI7jTZ3kbMfouc7bn,USRC10900741
+24,"A Pearl","Mitski",85,4B,64,2024-02-02,02:36,71,"","Be the Cowboy",2018-08-17,30,5,2,22,0,10,-4,G#/A♭ Major,4,7fd3aMiuwHWKsTdZafjOfZ,USJ5G1815004
+25,"Nobody","Mitski",117,8B,72,2022-05-27,03:13,76,"","Be the Cowboy",2018-08-17,40,7,0,49,0,0,-5,C Major,4,2P5yIMu2DNeMXTyOANKS6k,USJ5G1815009
+26,"Washing Machine Heart","Mitski",106,11B,82,2022-03-23,02:08,83,"","Be the Cowboy",2018-08-17,61,1,51,57,0,40,-4,A Major,4,3jjsRKEsF42ccXf8kWR3nu,USJ5G1815012
+27,"Cake","Melanie Martinez",157,4B,66,2022-05-27,03:19,74,"","Cry Baby (Deluxe Edition)",2015-08-14,52,38,0,29,0,20,-6,G#/A♭ Major,4,5H3TCfiw0CQTX1XU7A9TXM,USAT21502464
+28,"Pacify Her","Melanie Martinez",158,8A,59,2021-12-20,03:40,76,"","Cry Baby (Deluxe Edition)",2015-08-14,58,5,0,37,0,20,-6,A Minor,4,360Wr96ywrCQq4kTAJ8Pq6,USAT21501941
+29,"Heart Burn","SUNMI",122,11A,66,2022-08-22,03:13,0,"k-pop","Heart Burn",2022-06-29,84,3,0,78,0,0,-5,F#/G♭ Minor,4,4JmbtS0Muijl37KP9lDscy,KRMIM2236311
+30,"MOONLIGHT","TWICE",116,4A,70,2022-08-22,03:39,56,"k-pop","Formula of Love: O+T=<3",2021-11-12,81,2,0,96,0,0,-5,F Minor,4,14k4ALBLN2FjtELYDcQUoi,US5TA2100099
+31,"Attention","NewJeans",105,3A,65,2022-08-22,03:00,77,"k-pop","NewJeans 1st EP 'New Jeans'",2022-08-01,81,24,0,70,0,0,-4,A#/B♭ Minor,4,2pIUpMhHL6L9Z5lnKxJJr9,USA2P2230221
+32,"Hype Boy","NewJeans",100,9A,94,2022-12-29,02:59,78,"k-pop","NewJeans 1st EP 'New Jeans'",2022-08-01,59,27,0,78,20,20,-3,E Minor,4,0a4MMyCrzT0En247IhqZbD,USA2P2230222
+33,"Silent Cry","Stray Kids",104,4A,88,2023-01-16,03:29,64,"k-pop, noise music","NOEASY",2021-08-23,69,14,0,59,0,20,-3,F Minor,4,5kBJH5gU89axZDauhfddpy,US5TA2100073
+34,"Sorry, I Love You","Stray Kids",100,3B,66,2022-12-12,02:57,60,"k-pop, noise music","NOEASY",2021-08-23,74,36,0,60,0,20,-5,C♯/D♭ Major,4,5kkOHHTccylnkYxDRgDWMs,US5TA2100072
+35,"Out of Time","The Weeknd",93,5A,76,2022-11-24,03:34,78,"","Dawn FM",2022-01-06,65,26,0,84,0,30,-4,C Minor,4,2SLwbpExuoBDZBpjfefCtV,USUG12106689
+36,"Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)","Stray Kids",88,5B,60,2022-08-22,03:39,59,"k-pop, noise music","ODDINARY",2022-03-18,42,10,0,35,0,0,-4,D#/E♭ Major,4,2LzRBroL4J9pXLf1Nsen4s,US5TA2200031
+37,"Poker Face","Lady Gaga",119,12B,81,2023-03-18,03:57,86,"art pop, pop","The Fame",2008-01-01,85,12,0,77,0,10,-5,E Major,4,1QV6tiMFM6fSOKOGLMHYYg,USUM70824409
+38,"Bloody Mary","Lady Gaga",100,8A,63,2022-11-27,04:04,76,"art pop, pop","Born This Way (International Special Edition Version)",2011-05-23,59,1,0,44,0,10,-6,A Minor,4,53jnnqFSRGMDB9ADrNriCA,USUM71106449
+39,"Alejandro","Lady Gaga",99,10A,80,2023-02-22,04:34,78,"art pop, pop","The Fame Monster (Deluxe Edition)",2009-11-05,62,0,0,36,0,30,-7,B Minor,4,1HHeOs6zRdF8Ck58easiAY,USUM70905526
+40,"The Other Woman","Lana Del Rey",112,6A,47,2022-06-19,03:01,76,"","Ultraviolence (Deluxe)",2014-01-01,26,82,25,18,0,30,-6,G Minor,4,1KuVEZR4xuQVNr1KkanAV4,GBUM71402106
+41,"West Coast","Lana Del Rey",123,11A,59,2022-12-04,04:16,84,"","Ultraviolence (Deluxe)",2014-01-01,53,19,2,46,0,0,-8,F#/G♭ Minor,4,5Y6nVaayzitvsD5F7nr3DV,GBUM71402081
+42,"Romantic Homicide","d4vd",132,2B,54,2022-11-23,02:12,85,"","Romantic Homicide",2022-07-20,57,45,1,22,0,30,-11,F#/G♭ Major,4,1xK59OXxi2TAAAbmZK0kBL,QZMEM2232831
+43,"Liquid Smooth","Mitski",114,6A,34,2022-11-24,02:49,0,"","Lush",2012-01-31,36,84,0,12,0,10,-9,G Minor,3,3UChNf9rb9hJZvOcU9HCTb,uscgh1222956
+44,"Bubblegum Bitch","MARINA",158,5A,86,2022-12-10,02:34,81,"","Electra Heart (Deluxe)",2012-04-27,50,0,0,61,0,10,-5,C Minor,4,6IbnUaczZBT34DhaD6S18F,GBFFS1200008
+45,"Rosa Pastel","Belanova",128,10A,62,2022-11-30,03:05,50,"latin pop","Sólo Chicas",2020-09-18,81,2,1,68,0,30,-7,B Minor,4,5PazwHXOIXEu80tYjx8bQF,MXF110500232
+46,"#BrooklynBloodPop!","SyKo",132,12A,81,2021-12-20,02:25,2,"hyperpop","#BrooklynBloodPop!",2020-07-27,69,2,0,51,10,30,-4,C♯/D♭ Minor,4,7K9Z3yFNNLv5kwTjQYGjnu,QZK6Q2049800
+47,"Telephones","Vacations",75,10B,45,2022-09-30,03:32,82,"","Changes",2018-00-00,53,0,3,18,0,10,-9,D Major,4,0JIMT9gzLIIz0esKLyjbKf,SEYOK1814657
+48,"Nothing Without You","The Weeknd",110,3B,63,2022-12-10,03:18,59,"","Starboy",2016-11-25,57,6,0,19,0,0,-8,C♯/D♭ Major,4,57qiTKh8bVX0VtfUNTQqhw,USUG11601009
+49,"Stargirl Interlude","The Weeknd,Lana Del Rey",90,4A,47,2022-12-10,01:51,79,"","Starboy",2016-11-24,72,35,9,43,0,10,-13,F Minor,4,5gDWsRxpJ2lZAffh5p7K0w,USUG11600986
+50,"I Feel It Coming","The Weeknd,Daft Punk",93,5A,82,2022-12-10,04:29,79,"french house, electronic, electro","Starboy",2016-11-25,77,43,0,59,10,0,-6,C Minor,4,3dhjNA0jGA8vHBQ1VdD6vV,USUG11601012
+51,"False Alarm","The Weeknd",174,1A,68,2022-12-10,03:40,64,"","Starboy",2016-11-25,52,3,0,19,0,10,-6,G#/A♭ Minor,4,4oeaIftdpT3JuZLcCkKmVE,USUG11600975
+52,"Die For You","The Weeknd",134,12A,53,2022-12-10,04:20,86,"","Starboy",2016-11-24,59,11,0,51,0,10,-7,C♯/D♭ Minor,4,2LBqCSwhJGcFQeTHMVGwy3,USUG11600995
+53,"Sidewalks","The Weeknd,Kendrick Lamar",150,12A,72,2022-12-10,03:51,70,"hip hop, west coast hip hop","Starboy",2016-11-25,54,15,0,62,0,30,-5,C♯/D♭ Minor,4,4h90qkbnW1Qq6pBhoPvwko,USUG11601003
+54,"Starboy","The Weeknd,Daft Punk",186,9B,59,2022-11-18,03:50,91,"french house, electronic, electro","Starboy",2016-11-25,68,14,0,49,20,10,-7,G Major,4,7MXVkk9YMctZqd1Srtv4MB,USUG11600976
+55,"Secrets","The Weeknd",110,8B,77,2022-12-10,04:25,66,"","Starboy",2016-11-25,66,2,0,76,0,40,-6,C Major,4,00NAQYOP4AmWR549nnYJZu,USUG11601000
+56,"Nothing Compares - Bonus Track","The Weeknd",132,3B,58,2022-12-10,03:42,62,"","After Hours (Deluxe)",2020-03-20,53,0,4,4,0,20,-9,C♯/D♭ Major,4,6utQlfLooYsUkq5xUg3vxt,USUG11904288
+57,"Freak (feat. REI AMI)","Sub Urban,REI AMI",180,6A,45,2022-11-30,03:14,70,"","Thrill Seeker",2020-03-13,62,43,0,41,50,50,-12,G Minor,4,5jkbw3FDS3bSSb4oLKYbjf,USWB12000170
+58,"i'm yours","Isabel LaRosa",111,4A,71,2022-11-24,02:25,77,"","i'm yours",2022-10-28,40,20,0,64,0,40,-7,F Minor,4,37vVp2sWHuuIBOSl1NswP6,USRC12203917
+59,"Doin' Time","Lana Del Rey",145,6A,56,2022-12-10,03:22,79,"","Norman Fucking Rockwell!",2019-08-30,64,40,0,52,0,0,-11,G Minor,4,0Oqc0kKFsQ6MhFOLBNZIGX,GBUM71903894
+60,"Let It Go","The Neighbourhood",150,4A,79,2022-12-10,03:17,59,"","I Love You.",2013-04-22,49,2,0,28,0,20,-5,F Minor,4,6cWpj6c5pNZYEk5KYjNBji,USSM11206333
+61,"Cry Baby","The Neighbourhood",108,9A,66,2022-12-10,03:55,78,"","Wiped Out!",2015-10-30,58,0,0,34,0,10,-5,E Minor,4,0EfsDEYaSjGYd66Pr881nq,USSM11506744
+62,"Prey","The Neighbourhood",115,8A,78,2022-12-10,04:42,68,"","Wiped Out!",2015-10-30,52,3,0,20,0,0,-5,A Minor,4,38kjFXYgPvtuXCPbHPMGte,USSM11506743
+63,"Leaving Tonight","The Neighbourhood",120,8A,68,2022-12-10,03:23,56,"","I'm Sorry...",2013-05-08,56,1,0,21,0,10,-5,A Minor,4,0p8dPSu0ZGzGYbOhWwenXS,USSM11204645
+64,"Baby Came Home","The Neighbourhood",113,8B,55,2022-12-10,03:46,51,"","I'm Sorry...",2013-05-08,64,2,0,28,0,10,-6,C Major,4,2Ww3E6lvG1zmWlWnMRak76,USSM11204646
+65,"Fallen Star","The Neighbourhood",75,3A,55,2022-12-10,03:44,76,"","Fallen Star",2021-10-01,60,7,10,44,0,10,-6,A#/B♭ Minor,4,60F6pgM6H6miNr5AmjxwjL,ZZOPM2110941
+66,"Wicked Games","The Weeknd",114,11B,59,2022-12-10,05:23,70,"","Trilogy",2012-11-13,66,1,0,32,0,30,-5,A Major,4,6VwBbL8CzPiC4QV66ay7oR,USUM71211686
+67,"The Morning","The Weeknd",120,11A,55,2022-12-10,05:12,68,"","Trilogy",2012-11-13,66,32,0,19,0,10,-8,F#/G♭ Minor,4,6u0dQik0aif7FQlrhycG1L,USUM71212071
+68,"High For This","The Weeknd",75,10A,40,2022-12-10,04:07,67,"","Trilogy",2012-11-13,24,74,0,7,10,0,-9,B Minor,4,5fohLPNqO6TqwrZ7BoUWUT,USUM71212055
+69,"I Wanna Be Yours","Arctic Monkeys",68,5A,42,2022-12-10,03:03,92,"indie, garage rock","AM",2013-09-09,46,14,2,48,0,10,-9,C Minor,4,5XeFesFbtLpXzIVDNQP22n,GBCEL1300373
+70,"R U Mine?","Arctic Monkeys",97,11A,76,2022-12-10,03:21,83,"indie, garage rock","AM",2013-09-09,29,1,0,62,0,30,-6,F#/G♭ Minor,4,2AT8iROs4FQueDv2c8q2KE,GBCEL1300363
+71,"Snap Out Of It","Arctic Monkeys",130,4A,64,2022-12-10,03:13,81,"indie, garage rock","AM",2013-09-09,73,25,0,87,0,10,-6,F Minor,4,0NdTUS4UiNYCNn5FgVqKQY,GBCEL1300371
+72,"Arabella","Arctic Monkeys",180,10B,56,2022-12-10,03:27,77,"indie, garage rock","AM",2013-09-09,58,2,0,51,0,20,-7,D Major,4,7nzsY8vlnKdvGOEE0rjAXZ,GBCEL1300365
+73,"Stop The World I Wanna Get Off With You","Arctic Monkeys",95,11A,73,2022-12-10,03:11,71,"indie, garage rock","Why'd You Only Call Me When You're High?",2013-09-02,66,5,0,53,0,10,-7,F#/G♭ Minor,4,2QUlMbvD9bL8wHqfsoqoet,GBCEL1300397
+74,"Can't Feel My Face","The Weeknd",108,8A,77,2022-12-10,03:33,84,"","Beauty Behind The Madness",2015-08-28,71,11,0,58,0,10,-6,A Minor,4,22VdIZQfgXJea34mQxlt81,USUG11500741
+75,"Acquainted","The Weeknd",101,6A,48,2022-12-10,05:48,75,"","Beauty Behind The Madness",2015-08-28,37,48,0,25,0,0,-10,G Minor,4,7uJH0YdSZL6psjxI6Xy08b,USUG11500919
+76,"Often","The Weeknd",134,6A,63,2022-12-10,04:09,81,"","Beauty Behind The Madness",2015-08-28,57,22,0,7,0,10,-10,G Minor,4,4PhsKqMdgMEUSstTDAmMpg,USUG11401323
+77,"bellyache","Billie Eilish",100,9A,57,2022-12-10,02:59,79,"","Bellyache",2017-02-24,70,46,7,41,10,40,-9,E Minor,4,51NFxnQvaosfDDutk0tams,USUM71615103
+78,"Hawái - Remix","Maluma,The Weeknd",180,11A,79,2022-12-10,03:20,62,"reggaeton, latin, urbano latino, ","Hawái (Remix)",2020-11-05,77,11,0,61,30,10,-3,F#/G♭ Minor,4,0GzuHFG4Ql6DoyxFRnIk3F,USSD12000526
+79,"Save Your Tears","The Weeknd",118,8B,83,2022-04-03,03:35,87,"","After Hours",2020-03-20,68,2,0,64,0,50,-5,C Major,4,5QO79kh1waicV47BqGRL3g,USUG12000658
+80,"Heartless","The Weeknd",170,3A,75,2022-12-10,03:18,79,"","After Hours",2020-03-20,54,2,0,25,10,10,-6,A#/B♭ Minor,4,6bnF93Rx87YqUBLSgjiMU8,USUG11904007
+81,"After Hours","The Weeknd",109,4A,57,2022-12-10,06:01,83,"","After Hours",2020-03-20,66,8,1,14,0,10,-6,F Minor,4,2p8IUWQDrpjuFltbdgLOag,USUG12000586
+82,"In Your Eyes","The Weeknd",100,6A,72,2022-12-10,03:57,78,"","After Hours",2020-03-20,67,0,0,72,0,0,-5,G Minor,4,7szuecWAPwGoV1e5vGu8tl,USUG12000657
+83,"Blinding Lights","The Weeknd",171,3B,73,2022-12-10,03:20,90,"","After Hours",2020-03-20,51,0,0,33,0,0,-6,C♯/D♭ Major,4,0VjIjW4GlUZAMYd2vXMi3b,USUG11904206
+84,"Try Me","The Weeknd",92,1A,68,2022-12-10,03:41,72,"","My Dear Melancholy,",2018-03-30,45,60,0,11,0,10,-6,G#/A♭ Minor,4,4ppTAJUbNXELZcoUaL90wo,USUG11800562
+85,"Hurt You","The Weeknd,Gesaffelstein",184,4A,72,2022-12-10,03:50,72,"","My Dear Melancholy,",2018-03-30,48,26,0,36,10,10,-7,F Minor,4,6QdnKD1zwEgyOWtkrdzlOF,USUG11800566
+86,"Wasted Times","The Weeknd",123,3A,68,2022-12-10,03:40,68,"","My Dear Melancholy,",2018-03-30,55,61,0,29,0,10,-6,A#/B♭ Minor,4,7DKS0rX27cCEPsK0R6tFWS,USUG11800564
+87,"I Was Never There","The Weeknd,Gesaffelstein",113,6B,74,2022-12-10,04:01,83,"","My Dear Melancholy,",2018-03-30,32,14,0,16,0,10,-4,A#/B♭ Major,4,1cKHdTo9u0ZymJdPGSh6nq,USUG11800570
+88,"Call Out My Name","The Weeknd",134,3B,59,2022-11-10,03:48,85,"","My Dear Melancholy,",2018-03-30,46,17,0,17,0,30,-5,C♯/D♭ Major,3,09mEdoA6zrmBPgTEN5qXmN,USUG11800560
+89,"God is a woman","Ariana Grande",145,3B,66,2022-12-10,03:17,80,"pop","Sweetener",2018-08-17,60,2,0,27,0,20,-6,C♯/D♭ Major,4,5OCJzvD7sykQEKHH7qAC3C,USUM71808574
+90,"no tears left to cry","Ariana Grande",122,8A,71,2024-01-05,03:25,81,"pop","Sweetener",2018-08-17,70,4,0,35,0,20,-6,A Minor,4,2qT1uLXPVPzGgFOx4jtEuo,USUM71805289
+91,"That's What I Like","Bruno Mars",134,3B,56,2022-12-10,03:26,92,"","24K Magic",2016-11-18,85,1,0,86,0,0,-5,C♯/D♭ Major,4,0KKkJNfGyhkQ5aFogxQAPU,USAT21602948
+92,"Might Not","Belly,The Weeknd",134,3B,56,2022-12-10,03:44,64,"","Up For Days",2015-11-20,79,32,0,32,0,10,-5,C♯/D♭ Major,4,5e9aFSdnkQUrm5y8Dhw0qN,CACA61500009
+93,"motive (with Doja Cat)","Ariana Grande,Doja Cat",117,3A,74,2022-12-10,02:47,74,"pop, ","Positions",2020-10-30,79,7,0,66,0,10,-6,A#/B♭ Minor,4,5GkQIP5mWPi4KZLLXeuFTT,USUM72020425
+94,"positions","Ariana Grande",144,8B,80,2022-12-10,02:52,80,"pop","Positions",2020-10-30,74,47,0,68,0,0,-5,C Major,4,35mvY5S1H3J2QZyna3TFe0,USUM72019412
+95,"TASTE (Lee Know, Hyunjin, Felix)","Stray Kids",140,11A,62,2023-05-18,03:36,68,"k-pop, noise music","MAXIDENT",2022-10-07,63,6,0,12,0,20,-6,F#/G♭ Minor,4,05ib88vsMeLfwlAfrZyz99,US5TA2200106
+96,"Into You","Ariana Grande",108,11B,73,2022-12-10,04:04,84,"pop","Dangerous Woman",2016-04-01,62,2,0,37,10,10,-6,A Major,4,76FZM38RC8XaAjJ77CVTNe,USUM71601827
+97,"Side To Side","Ariana Grande,Nicki Minaj",159,11A,74,2022-12-10,03:46,83,"pop, ","Dangerous Woman",2016-04-01,65,5,0,61,20,20,-6,F#/G♭ Minor,4,44ONERBHALxftQNWq6dmyd,USUM71602107
+98,"Love Me Harder","Ariana Grande,The Weeknd",99,12A,71,2022-12-10,03:56,87,"pop, ","My Everything (Deluxe)",2014-08-22,49,1,0,24,0,0,-4,C♯/D♭ Minor,4,5J4ZkQpzMUFojo1CtAZYpn,USUM71409728
+99,"Naked","Doja Cat",111,9B,86,2024-03-01,03:43,50,"","Planet Her (Deluxe)",2021-06-27,73,37,0,54,20,10,-6,G Major,4,7E01yTzdhlzS4H4rH2k7HH,USRC12101533
+100,"Woman","Doja Cat",108,4A,76,2024-01-05,02:52,85,"","Planet Her",2021-06-25,82,9,0,88,0,10,-4,F Minor,4,6Uj1ctrBOjOas8xZXGqKk4,USRC12101532
+101,"You Right","Doja Cat,The Weeknd",129,4B,62,2022-12-10,03:06,0,"","You Right",2021-06-24,83,2,0,44,0,0,-6,G#/A♭ Major,4,0IakguBBeTUsAILmugkEam,USRC12100544
+102,"Need to Know","Doja Cat",130,3B,61,2023-04-03,03:30,81,"","Planet Her",2021-06-25,66,30,0,19,0,0,-7,C♯/D♭ Major,4,3Vi5XqYrmQgOYBajMWSvCi,USRC12101120
+103,"Get Into It (Yuh)","Doja Cat",92,1A,66,2024-01-05,02:18,73,"","Planet Her",2021-06-25,91,32,0,79,10,0,-6,G#/A♭ Minor,4,0W6I02J9xcqK8MtSeosEXb,USRC12101535
+104,"Te Felicito","Shakira,Rauw Alejandro",174,7B,64,2022-12-17,02:52,71,"latin pop, reggaeton, urbano latino, trap latino, latin","Te Felicito",2022-04-21,70,23,0,57,30,0,-5,F Major,4,2rurDawMfoKP4uHyb2kJBt,USQX92201764
+105,"Maze of Memories","Stray Kids",130,3A,70,2023-04-09,02:55,51,"k-pop, noise music","Clé 1 : MIROH",2019-03-25,70,19,0,9,20,10,-4,A#/B♭ Minor,4,2RuDEoJwqAmQknGXf9tnOL,US5TA1900037
+106,"PANTIES Y BRASIERES","Rauw Alejandro,Daddy Yankee",107,3B,89,2023-04-04,03:17,62,"reggaeton, urbano latino, trap latino, latin","PANTIES Y BRASIERES",2023-01-26,76,34,0,41,0,10,-3,C♯/D♭ Major,4,0fADaWdT3obxk7zvHS18VY,USSD12201175
+107,"CORAZÓN DESPEINADO","Rauw Alejandro",170,3B,87,2023-02-12,03:27,66,"reggaeton, urbano latino, trap latino, latin","SATURNO",2023-01-24,64,18,0,70,20,60,-4,C♯/D♭ Major,4,6yNIT5iO7lUGOFDLG5CPJC,USSD12201172
+108,"NO ME SUELTES","Rauw Alejandro",112,4B,66,2023-06-21,02:42,70,"reggaeton, urbano latino, trap latino, latin","SATURNO",2023-01-24,88,15,0,76,0,0,-7,G#/A♭ Major,4,7xDBtwxsife3u8luqSbSPR,USSD12201161
+109,"RON COLA","Rauw Alejandro,Subelo NEO",94,8A,68,2023-03-25,03:06,64,"reggaeton, urbano latino, trap latino, latin, ","SATURNO",2023-01-24,74,42,0,48,10,10,-5,A Minor,4,5S8i9p2xS8M8pFqfZMbMzI,USSD12201168
+110,"DEJAU'","Rauw Alejandro,Playero",107,4A,81,2022-12-24,03:02,0,"reggaeton, urbano latino, trap latino, latin","SATURNO",2022-11-11,81,8,1,57,0,40,-2,F Minor,4,3FwGsdOHEGS8kvhycQdzsy,USSD12201171
+111,"Tarot","Bad Bunny,JHAYCO",114,10A,68,2022-12-24,03:57,81,"reggaeton, trap latino, latin, urbano latino","Un Verano Sin Ti",2022-05-06,80,2,0,42,0,60,-4,B Minor,4,41oY4WCTj5kccfesTVFnvN,QM6MZ2214881
+112,"Andrea","Bad Bunny,Buscabulla",103,12A,62,2023-04-06,05:39,80,"reggaeton, trap latino, latin, urbano latino, latin indie","Un Verano Sin Ti",2022-05-06,80,76,0,45,30,10,-10,C♯/D♭ Minor,4,44XjoNvtwevktFKjvVe1vH,QM6MZ2214893
+113,"Ojitos Lindos","Bad Bunny,Bomba Estéreo",80,2A,69,2023-10-08,04:18,86,"reggaeton, trap latino, latin, urbano latino, latin alternative, electrocumbia","Un Verano Sin Ti",2022-05-06,65,8,0,27,0,50,-6,D#/E♭ Minor,4,3k3NWokhRRkEPhCzPmV8TW,QM6MZ2214888
+114,"Moscow Mule","Bad Bunny",100,4A,67,2022-12-24,04:05,86,"reggaeton, trap latino, latin, urbano latino","Un Verano Sin Ti",2022-05-06,80,29,0,29,0,10,-5,F Minor,4,6Xom58OOXk2SoU711L2IXO,QM6MZ2214875
+115,"Me Porto Bonito","Bad Bunny,Chencho Corleone",92,12A,71,2022-12-24,02:58,85,"reggaeton, trap latino, latin, urbano latino","Un Verano Sin Ti",2022-05-06,91,9,0,43,0,0,-5,C♯/D♭ Minor,4,6Sq7ltF9Qa7SNFBsV5Cogx,QM6MZ2214877
+116,"Good Old-Fashioned Lover Boy - Remastered 2011","Queen",97,5B,46,2023-01-08,02:53,69,"classic rock, rock, glam rock","A Day At The Races (Deluxe Edition 2011 Remaster)",1976-12-10,54,58,0,39,0,0,-7,D#/E♭ Major,4,1n7xFAY4xoPeqRvrkzAtsw,GBUM71029614
+117,"Connected (Bang Chan)","Stray Kids,Bang Chan",102,9B,79,2022-12-23,02:51,59,"k-pop, noise music, ","SKZ-REPLAY",2022-12-21,75,14,0,32,10,20,-5,G Major,4,3vGSv4l4czTve9jZoYeIWk,US5TA2200162
+118,"Drive (Bang Chan, Lee Know)","Stray Kids,Bang Chan,Lee Know",90,6A,70,2022-12-23,02:44,63,"k-pop, noise music, ","SKZ-REPLAY",2022-12-21,62,31,0,62,0,20,-4,G Minor,4,0hLvtmoexLKl14LrzxOYRt,US5TA2200184
+119,"Gato de Noche","Ñengo Flow,Bad Bunny",94,4B,66,2022-12-24,03:47,70,"reggaeton, trap latino, latin, urbano latino","Gato de Noche",2022-12-22,89,17,0,61,10,30,-4,G#/A♭ Major,4,54ELExv56KCAB4UP9cOCzC,QMFMF2216359
+120,"Here With Me","d4vd",132,12B,47,2023-01-04,04:02,5,"","Here With Me",2022-09-22,57,53,0,29,0,10,-8,E Major,4,78Sw5GDo6AlGwTwanjXbGh,QZMEM2209263
+121,"Loba","Shakira",122,9B,71,2023-01-03,03:09,2,"latin pop","She Wolf (Expanded Edition)",2009-00-00,85,40,5,78,0,0,-8,G Major,4,1fPCGREltHJuV3axEPydLp,USSM10903531
+122,"Feliz Cumpleaños Ferxxo","Feid",95,7B,55,2023-03-18,02:36,66,"reggaeton, urbano latino","Feliz Cumpleaños Ferxxo",2022-08-19,87,10,0,57,0,20,-6,F Major,4,3kUq4sBcmxhnOtNysZ9yrp,USUM72215366
+123,"Umi","Rojuu,Carzé",75,8B,78,2023-01-08,02:38,0,"hyperpop","Roku Roku",2021-01-15,70,12,2,85,0,10,-6,C Major,4,5gwTxSGO05hoDp59dr4mzo,QMFMF2023059
+124,"Typa Girl","BLACKPINK",132,10B,63,2023-01-04,02:59,68,"k-pop","BORN PINK",2022-09-16,92,6,0,52,0,60,-6,D Major,4,0L8LOav65XwLjCLS11gNPD,KRA402200021
+125,"Bones","Imagine Dragons",114,4A,74,2023-01-08,02:45,77,"","Bones",2022-03-11,77,2,0,57,0,0,-4,F Minor,4,0HqZX76SFLDz2aW8aiqi7G,USUM72201759
+126,"Baby","Nicki Nicole",120,5A,68,2023-06-20,02:44,46,"argentine trap","Parte de Mí",2021-10-28,80,56,0,88,0,10,-5,C Minor,4,37oaImGdDkQgIIUZDvFGdr,UYB282100020
+127,"Sabe","Nicki Nicole,Rauw Alejandro",93,4A,62,2023-06-20,02:57,49,"argentine trap, reggaeton, urbano latino, trap latino, latin","Sabe",2021-10-26,79,10,0,77,10,10,-4,F Minor,4,0lQk4UhEVDnOH5vYH0vgHM,UYB282100015
+128,"The Tortoise and the Hare","Stray Kids",154,10A,85,2023-01-16,03:44,58,"k-pop, noise music","IN LIFE",2020-09-14,67,6,16,18,10,20,-8,B Minor,4,1Zv6xilw5El5P6frlNnYcH,US5TA2000096
+129,"Break My Heart","Dua Lipa",113,9A,73,2023-02-07,03:41,81,"pop","Future Nostalgia",2020-03-27,73,17,0,47,0,30,-3,E Minor,4,017PF4Q3l4DBUiWoXk4OWT,GBAHT1901303
+130,"Tell Me","Wonder Girls",127,11A,93,2023-02-06,03:39,0,"k-pop","2 Different Tears",2010-05-15,81,11,0,96,0,20,-5,F#/G♭ Minor,4,62x5q8OrmPpmlA8PpjrQt3,US5TA1000025
+131,"DLMLU","Stray Kids",140,5A,76,2023-04-02,03:14,58,"k-pop, noise music","THE SOUND",2023-02-22,55,1,0,38,0,30,-3,C Minor,4,6e7SWgyx1EsEHmdDlsrbth,JPU902300210
+132,"Todo De Ti","Rauw Alejandro",128,2A,72,2023-04-04,03:19,80,"reggaeton, urbano latino, trap latino, latin","VICE VERSA",2021-12-10,78,30,0,34,0,0,-4,D#/E♭ Minor,4,3rdAz1fbUfZxYgaCviYhRo,USSD12100202
+133,"METALLICA","Yung Beef",174,12A,82,2023-03-22,03:48,60,"neoperreo","El Plugg 2",2021-04-15,59,10,1,58,10,30,-4,C♯/D♭ Minor,4,4XeqABCbUqyznqTgB8Ckzj,USUYG1364026
+134,"Swim","Chase Atlantic",120,4B,54,2023-02-21,03:48,86,"","Chase Atlantic",2017-10-04,67,27,0,8,0,0,-6,G#/A♭ Major,4,3M0lSi5WW79CXQamgSBIjx,USWB11701711
+135,"Shut Up And Drive","Rihanna",133,3B,83,2023-01-25,03:32,74,"","Good Girl Gone Bad: Reloaded",2008-06-02,73,0,13,74,0,20,-5,C♯/D♭ Major,4,4Tn2llBm1g0UlWctmgPL8Z,USUM70734703
+136,"moment","Vierre Cloud",171,2B,86,2023-03-05,02:09,69,"breakcore","moment",2019-12-19,54,4,16,52,0,10,-7,F#/G♭ Major,4,5K9tfeoiztw94dyWzF39jq,QM42K1931856
+137,"Teacher's Pet","Melanie Martinez",141,6A,79,2023-02-21,04:01,76,"","K-12",2019-09-06,69,27,0,53,0,10,-6,G Minor,3,5o5akY9xnEk6lpMkD8RwD9,USAT21902535
+138,"Yonaguni","Bad Bunny",180,3B,65,2023-03-18,03:26,82,"reggaeton, trap latino, latin, urbano latino","Yonaguni",2021-06-04,64,28,0,44,10,10,-5,C♯/D♭ Major,4,2JPLbjOn0wPCngEot2STUS,QM6P42169803
+139,"Whenever, Wherever","Shakira",108,12A,83,2023-02-24,03:16,79,"latin pop","Laundry Service",2001-11-13,79,24,0,87,0,20,-5,C♯/D♭ Minor,4,2lnzGkdtDj5mtlcOW2yRtG,NLB630100324
+140,"Born To Die","Lana Del Rey",86,9A,63,2023-04-18,04:45,80,"","Born To Die - The Paradise Edition",2012-01-01,43,22,0,38,0,20,-7,E Minor,4,4Ouhoi2lAhrLJKFzUqEzwl,GBUM71111120
+141,"Coco Chanel","Eladio Carrion,Bad Bunny",140,2A,71,2023-03-25,03:28,75,"trap latino, urbano latino, reggaeton, latin","3MEN2 KBRN",2023-03-17,86,14,0,69,10,0,-6,D#/E♭ Minor,4,0PB0O24JqAuNdOAFVJljMS,QM4TX2344391
+142,"Paparazzi","Lady Gaga",115,4A,69,2024-01-05,03:28,82,"art pop, pop","The Fame",2008-01-01,76,11,0,40,0,0,-4,F Minor,4,02XnQdf7sipaKBBHixz3Zp,USUM70824408
+143,"LoveGame","Lady Gaga",105,11A,68,2023-03-28,03:36,77,"art pop, pop","The Fame",2008-01-01,89,1,0,84,0,30,-6,F#/G♭ Minor,4,0eH2eHURaXUP15D8gQlfjx,USUM70824404
+144,"DÁKITI","Bad Bunny,JHAYCO",110,9A,57,2023-04-04,03:25,81,"reggaeton, trap latino, latin, urbano latino","EL ÚLTIMO TOUR DEL MUNDO",2020-11-27,73,40,0,14,0,10,-10,E Minor,4,4MzXwWMhyBbmu6hOcLVD49,QMFME2004132
+145,"Dangerous Woman","Ariana Grande",134,9A,60,2023-03-28,03:55,81,"pop","Dangerous Woman",2016-04-01,66,5,0,29,0,30,-5,E Minor,3,3nef5W8jTkXrOKgCu4kmq7,USUM71601826
+146,"Monster","Lady Gaga",120,8A,80,2023-04-15,04:09,72,"art pop, pop","The Fame Monster (Deluxe Edition)",2009-11-05,70,0,0,65,0,40,-5,A Minor,4,2WgyOP8Z1D6GQYumCwH4Dk,USUM70918597
+147,"Collision","Stray Kids",150,5B,78,2023-06-02,02:37,66,"k-pop, noise music","5-STAR",2023-06-02,73,22,0,54,0,20,-4,D#/E♭ Major,4,2vukoriV9e7oyOojN1NtsB,US5TA2300040
+148,"FNF","Stray Kids",127,9A,81,2023-06-02,02:51,60,"k-pop, noise music","5-STAR",2023-06-02,73,2,0,39,0,20,-3,E Minor,4,7LQvpgaadSh74HzYAjOisA,US5TA2300041
+149,"Blah Blah Blah","Kesha,3OH!3",120,6B,83,2023-06-04,02:52,0,"","Animal",2010-00-00,75,8,0,53,10,40,-3,A#/B♭ Major,4,0rlTAl25usHDCFxw5T08dA,USRC10900738
+150,"Born This Way","Lady Gaga",124,1B,83,2023-06-03,04:20,75,"art pop, pop","Born This Way (International Special Edition Version)",2011-05-23,59,0,0,49,10,30,-5,B Major,4,30XU4suKzCeoCK9YFzdufg,USUM71100638
+151,"Rara Vez","Milo j,Taiu",120,4A,71,2023-05-12,02:08,83,"argentine trap","Rara Vez",2023-02-08,84,18,0,96,10,30,-5,F Minor,4,7MVIfkyzuUmQ716j8U7yGR,ARUM72300004
+152,"LA FAMA","ROSALÍA,The Weeknd",136,5A,30,2023-05-25,03:08,78,"latin, ","MOTOMAMI",2022-03-18,77,95,0,81,0,10,-8,C Minor,4,6Y46tOTRhkBamosyuWa6YX,USSM12107750
+153,"Those Eyes","New West",120,12B,35,2023-05-11,03:40,79,"","Those Eyes",2019-05-10,59,71,0,25,0,30,-8,E Major,3,50x1Ic8CaXkYNvjmxe3WXy,TCAEE1990215
+154,"Se va 1 llegan 2","Nicki Nicole",125,7A,53,2023-06-20,02:23,47,"argentine trap","ALMA",2023-05-18,73,72,0,46,0,10,-6,D Minor,4,0K6DNAyidju52N6vKWNTyH,UYB282300022
+155,"Smooth Operator - Single Version","Sade",119,8A,58,2023-05-04,04:18,84,"","The Best of Sade",1994-10-31,73,24,0,96,0,0,-7,A Minor,4,1Hv1VTm8zeOeybub15mA2R,GBBBM8400016
+156,"WHERE SHE GOES","Bad Bunny",144,8A,80,2023-06-03,03:51,79,"reggaeton, trap latino, latin, urbano latino","WHERE SHE GOES",2023-05-18,65,14,63,23,0,10,-4,A Minor,4,7ro0hRteUMfnOioTFI5TG1,QM6P42334528
+157,"Love Me Like This","NMIXX",97,1A,81,2023-06-09,03:08,65,"k-pop","expérgo",2023-03-20,80,1,0,66,0,0,-4,G#/A♭ Minor,4,6P3CtlzTKLxcNYGOS3es8m,US5TA2200195
+158,"Hasta Que Dios Diga","Anuel AA,Bad Bunny",174,4B,77,2023-06-03,04:06,81,"reggaeton, trap latino, urbano latino, latin","Emmanuel",2020-05-29,69,46,0,86,10,20,-5,G#/A♭ Major,4,06s3QtMJVXw1AJX3UfvZG1,QM4TX2084345
+159,"Heart To Heart","Mac DeMarco",150,1A,14,2023-06-03,03:31,83,"indie, lo-fi indie","Here Comes The Cowboy",2019-05-10,90,67,35,64,10,10,-16,G#/A♭ Minor,4,7EAMXbLcL0qXmciM5SwMh2,QZG4T1900008
+160,"I'm Unhappy","aespa",82,7B,66,2023-06-20,03:25,54,"k-pop","MY WORLD - The 3rd Mini Album",2023-05-08,68,15,0,33,10,10,-4,F Major,4,6fzio74FGqFFsenYkbGPzR,KRA302300148
+161,"Enamorado tuyo","El Cuarteto De Nos",96,12A,83,2023-09-05,04:19,78,"cuarteto, argentine rock, latin rock, rock en español","Porfiado",2012-04-27,61,0,0,67,0,10,-4,C♯/D♭ Minor,4,35LdDKNMwvKftENaj1WIwF,ARF111200009
+162,"Bad Blood","Taylor Swift",170,9B,80,2023-08-01,03:31,73,"","1989",2014-01-01,65,9,0,30,10,10,-6,G Major,4,0TvQLMecTE8utzoNmvXRbK,USCJY1431369
+163,"Style","Taylor Swift",95,9B,79,2023-08-01,03:51,85,"","1989 (Deluxe)",2014-01-01,59,0,0,49,0,10,-6,G Major,4,0ug5NqcwcFR2xrfTkc7k8e,USCJY1431319
+164,"Blank Space","Taylor Swift",96,7B,70,2023-07-27,03:51,85,"","1989 (Deluxe)",2014-01-01,76,10,0,57,0,0,-5,F Major,4,1u8c2t2Cy7UBoG4ArRcF5g,USCJY1431309
+165,"Dile a El","Rauw Alejandro",90,9A,59,2023-06-03,03:29,78,"reggaeton, urbano latino, trap latino, latin","Afrodisíaco",2020-11-13,78,38,0,26,0,10,-4,E Minor,4,13Tbv4nflNxg9kYBIbJnd9,USSD12000491
+166,"Red Lights (Bang Chan, Hyunjin)","Stray Kids",128,10A,74,2023-11-30,03:09,73,"k-pop, noise music","NOEASY",2021-08-23,71,18,0,34,0,60,-4,B Minor,4,0LatE4S9UtCDwIdGQsFFKL,US5TA2100076
+167,"eyes don't lie","Isabel LaRosa",125,1A,77,2024-08-07,02:30,75,"","eyes don't lie",2023-07-07,56,2,0,26,10,0,-9,G#/A♭ Minor,4,2GWCZJWundoYi5IloWIgTX,USRC12301495
+168,"No Time To Die","Billie Eilish",71,9A,22,2023-07-09,04:02,77,"","No Time To Die",2020-02-13,34,92,1,5,0,0,-13,E Minor,4,73SpzrcaHk0RQPFP73vqVR,USUM72002771
+169,"Genius (feat. Sia, Diplo, and Labrinth)","Sia,Diplo,Labrinth,LSD",159,10A,62,2023-05-11,03:33,77,"moombahton, dance pop","LABRINTH, SIA & DIPLO PRESENT... LSD",2019-04-12,60,8,0,56,10,10,-5,B Minor,4,4xigPf2sigSPmuFH3qCelB,USQX91800798
+170,"Arena y Sal","Omar Montes,SAIKO,Tunvao",118,4A,78,2023-06-21,02:54,61,"flamenco, flamenco urbano, flamenco pop, ","Arena y Sal",2023-05-18,72,60,0,76,0,10,-6,F Minor,4,5iilNoD56jD3FJ3bM9tMP0,USSD12300239
+171,"Sexo Virtual","Rauw Alejandro",180,4B,74,2023-06-21,03:28,71,"reggaeton, urbano latino, trap latino, latin","VICE VERSA",2021-12-10,70,33,0,43,10,0,-3,G#/A♭ Major,4,1lV3QHHMAQt0Kc1ioZq2MP,USSD12100294
+172,"Desenfocao'","Rauw Alejandro",140,4B,65,2023-06-21,02:50,80,"reggaeton, urbano latino, trap latino, latin","VICE VERSA",2021-12-10,71,15,0,27,0,10,-4,G#/A♭ Major,4,2CEf2gU5ZJamLXa3NrgAvA,USSD12100298
+173,"Algo Mágico","Rauw Alejandro",100,1B,61,2023-06-21,04:21,70,"reggaeton, urbano latino, trap latino, latin","Algo Mágico",2020-06-25,68,76,0,61,0,10,-4,B Major,4,0zlnHTHiBQ68ZCAmTw5ozm,USSD12000187
+174,"SUPERNOVA","SAIKO",176,3A,68,2023-06-03,03:10,60,"","SUPERNOVA",2023-04-19,50,6,0,26,10,60,-7,A#/B♭ Minor,4,0zY2rypOdM8xmsf4tUyafF,QM6MZ2302420
+175,"Nada","Cazzu,Lyanno,Rauw Alejandro,Dalex",99,11A,54,2023-06-21,05:05,73,"argentine trap, trap latino, turreo, reggaeton, urbano latino, latin","Error 93",2019-06-03,90,34,0,36,10,30,-8,F#/G♭ Minor,4,7DOh0tBGnyMt6C5OO7o8Yq,QM6N21901839
+176,"Savage","Bahari",98,2A,43,2023-07-04,02:44,64,"","Savage",2018-04-20,72,87,0,44,0,10,-7,D#/E♭ Minor,4,7pPciGaYxP2FsFQCIBDEhb,US3DF1804975
+177,"...Baby One More Time","Britney Spears",93,5A,70,2023-03-21,03:31,86,"pop","...Baby One More Time (Digital Deluxe Version)",1999-01-12,76,20,0,91,0,40,-6,C Minor,4,3MjUtNVVq3C8Fn0MP3zhXa,USJI19810404
+178,"Your Eyes","Stray Kids",130,10B,53,2023-06-22,03:16,53,"k-pop, noise music","Your Eyes",2022-06-01,78,17,0,59,0,20,-6,D Major,4,25nbyqD4oqWU0RaXuAc74t,JPU902201760
+179,"Awkward Silence","Stray Kids",200,3A,89,2023-07-08,03:15,55,"k-pop, noise music","SKZ2020",2020-03-18,57,10,0,73,20,10,-3,A#/B♭ Minor,4,2mBtKEUCZVh9BTDhlj5OiW,US5TA1800062
+180,"Hey Lover!","Wabie",117,12B,74,2023-07-23,02:42,69,"bedroom pop","Cyclones and Hey Lover",2019-06-19,59,1,0,52,0,30,-10,E Major,4,7rC3P7tpWriaC4hYWKwGQd,QZFYZ1923384
+181,"XOXO (Kisses Hugs)","6arelyhuman,horrormovies,Pixel Hood",118,10A,94,2023-08-14,02:10,0,"hyperpop","XOXO (Kisses Hugs)",2022-09-19,59,3,0,83,0,10,-2,B Minor,4,7ezCLOpKZ2mg5FBLpWtsvg,SE6XW2283148
+182,"K-POP","Travis Scott,Bad Bunny,The Weeknd",121,4A,62,2023-07-23,03:05,70,"rap, reggaeton, trap latino, latin, urbano latino, ","K-POP",2023-07-21,81,4,0,54,0,60,-6,F Minor,4,5L3ecxQnQ9qTBmnLQiwf0C,USSM12305652
+183,"Enchanted","Taylor Swift",82,4B,62,2023-07-19,05:52,71,"","Speak Now (Deluxe Package)",2010-01-01,54,7,0,23,0,10,-4,G#/A♭ Major,4,3sqrvkNC6IPTIXvvbx9Arw,USCJY1003663
+184,"Chronosaurus","Stray Kids",200,10B,87,2023-07-07,03:18,50,"k-pop, noise music","Clé 1 : MIROH",2019-03-25,50,26,0,39,10,10,-4,D Major,4,3C516RGJ7ADQpL04Nzhfjz,US5TA1900039
+185,"19","Stray Kids",105,6B,65,2023-07-09,03:25,49,"k-pop, noise music","Clé 1 : MIROH",2019-03-25,78,39,0,40,10,0,-5,A#/B♭ Major,4,2Xc08tEA2sQsunrkLeJJ2D,US5TA1900040
+186,"Zorra","Bad Gyal",176,1B,65,2023-08-04,03:06,60,"neoperreo","Zorra",2019-12-12,64,68,0,74,10,0,-7,B Major,4,0OP1RzrglC008kj79Httv3,USUM71914779
+187,"Chulo pt.2","Bad Gyal,Tokischa,Young Miko",97,4A,88,2023-08-04,03:39,68,"neoperreo, dembow, trap latino","Chulo pt.2",2023-06-22,85,6,0,56,10,0,-3,F Minor,4,0J9g1MMJDhyvOb3NWckHMm,USUM72305143
+188,"Lover","Taylor Swift",69,9B,54,2024-01-05,03:41,85,"","Lover",2019-08-23,36,49,0,45,0,10,-8,G Major,4,1dGr1c8CrMLDpV6mPbImSI,USUG11901473
+189,"The Man","Taylor Swift",110,8B,66,2023-07-27,03:10,78,"","Lover",2019-08-23,78,8,0,63,0,0,-5,C Major,4,3RauEVgRgj1IuWdJ9fDs70,USUG11901474
+190,"Daylight","Taylor Swift",150,8B,50,2023-11-11,04:53,81,"","Lover",2019-08-23,56,81,0,27,0,0,-10,C Major,4,1fzAuUVbzlhZ1lJAx9PtY6,USUG11901486
+191,"London Boy","Taylor Swift",158,3B,71,2023-11-30,03:10,72,"","Lover",2019-08-23,70,2,0,56,0,10,-7,C♯/D♭ Major,4,1LLXZFeAHK9R4xUramtUKw,USUG11901481
+192,"Cruel Summer","Taylor Swift",170,11B,70,2024-01-05,02:58,89,"","Lover",2019-08-23,55,12,0,56,10,10,-6,A Major,4,1BxfuPKGuaTgP7aM0Bbdwr,USUG11901472
+193,"ME! (feat. Brendon Urie of Panic! At The Disco)","Taylor Swift,Brendon Urie,Panic! At The Disco",182,8B,83,2023-11-30,03:13,74,"emo","Lover",2019-08-23,61,3,0,73,0,10,-4,C Major,4,2Rk4JlNc2TPmZe2af99d45,USUG11901494
+194,"Say Yes To Heaven","Lana Del Rey",100,11A,35,2023-08-23,03:29,86,"","Say Yes To Heaven",2023-05-19,49,68,17,14,0,10,-12,F#/G♭ Minor,4,6GGtHZgBycCgGBUhZo81xe,GBUM72304301
+195,"Taco Truck x VB","Lana Del Rey",158,8A,37,2024-01-03,05:53,62,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,38,59,14,4,0,10,-12,A Minor,4,79wgotDiVZml9PiTtNtYBA,GBUM72206771
+196,"Peppers (feat. Tommy Genesis)","Lana Del Rey,Tommy Genesis",157,9A,53,2023-08-07,04:08,68,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,48,62,15,37,10,10,-12,E Minor,4,2Rlso2ZNV0PaWwUYeeBYxx,GBUM72206770
+197,"Let The Light In (feat. Father John Misty)","Lana Del Rey,Father John Misty",132,11B,44,2024-01-06,04:38,78,"","Did you know that there's a tunnel under Ocean Blvd",2023-03-24,34,39,0,20,0,10,-10,A Major,4,4qG7hWhljsqqENL5PaLA2z,GBUM72206754
+198,"Paint The Town Red","Doja Cat",100,7B,54,2023-09-11,03:51,78,"","Paint The Town Red",2023-08-04,87,27,0,73,10,0,-9,F Major,4,2IGMVunIBsBLtEQyoI1Mu7,USRC12300907
+199,"HEARTBEAT","Isabel LaRosa",121,10B,73,2023-08-22,02:04,63,"","HEARTBEAT",2022-08-26,54,10,0,34,0,40,-7,D Major,4,6nStBZGqGgTR87MrBpNza0,USRC12202781
+200,"CRY FOR ME","TWICE",145,6B,69,2022-08-22,03:24,69,"k-pop","CRY FOR ME",2020-12-18,70,5,0,42,0,0,-5,A#/B♭ Major,4,2xtP8RNbo2BEMzLX7tK7aq,US5TA2000173
+201,"All The Stars (with SZA) - From  Black Panther: The Album ","Kendrick Lamar,SZA",97,4B,63,2023-09-06,03:52,91,"hip hop, west coast hip hop, r&b","Black Panther The Album Music From And Inspired By",2018-02-09,70,6,0,56,0,0,-5,G#/A♭ Major,4,3GCdLUSnKSMJhs4Tj6CV3s,USUM71713947
+202,"Company","Justin Bieber",95,9A,80,2023-09-03,03:28,86,"","Purpose (Deluxe)",2015-11-13,56,13,0,42,0,0,-5,E Minor,4,61uyGDPJ06MkxJtHgPmuyO,USUM71516762
+203,"Don’t Blame Me","Taylor Swift",136,8A,53,2023-07-27,03:56,83,"","reputation",2017-11-10,62,11,0,19,0,0,-7,A Minor,4,1R0a2iXumgCiFb7HEZ7gUE,USCJY1750006
+204,"Cinnamon Girl","Lana Del Rey",92,11A,34,2023-09-11,05:00,89,"","Norman Fucking Rockwell!",2019-08-30,29,81,41,14,0,10,-11,F#/G♭ Minor,5,2mdEsXPu8ZmkHRRtAdC09e,GBUM71903147
+205,"What Was I Made For? [From The Motion Picture  Barbie ]","Billie Eilish",79,8B,8,2023-07-27,03:42,85,"","What Was I Made For? [From The Motion Picture  Barbie ]",2023-07-13,39,95,0,11,0,10,-18,C Major,4,6wf7Yu7cxBSPrRlWeSeK0Q,USUM72307484
+206,"Mi Lova","Bad Gyal,Myke Towers",94,4B,83,2023-09-11,03:40,55,"neoperreo, reggaeton, trap latino, urbano latino","Mi Lova",2023-07-07,76,30,0,66,10,10,-4,G#/A♭ Major,4,6qUfKsUPGERMdhOwPIqhsS,USUM72309102
+207,"Attention","Doja Cat",88,10B,57,2023-09-11,04:37,59,"","Attention",2023-06-16,76,12,3,42,20,10,-8,D Major,4,11xC6P3iKYpFThT6Ce1KdG,USRC12301102
+208,"Shirt","SZA",120,2A,51,2023-09-06,03:01,69,"r&b","SOS",2022-12-09,85,23,0,57,10,0,-8,D#/E♭ Minor,4,2wSTnntOPRi7aQneobFtU4,USRC12203632
+209,"Young And Beautiful","Lana Del Rey",114,10A,42,2023-09-11,03:56,89,"","Young And Beautiful",2013-01-01,32,26,0,15,0,10,-9,B Minor,4,2nMeu6UenVvwUktBCpLMK9,GBUM71301823
+210,"Virgen","Adolescent's Orquesta",91,4B,78,2023-09-15,04:31,0,"salsa, merengue","Ahora Más Que Nunca",2002-05-07,66,72,0,72,0,10,-5,G#/A♭ Major,4,6srBp90EwADKAF7PorGiUC,TCADZ1805132
+211,"Cazzu: Bzrp Music Sessions, Vol. 32/66","Bizarrap,Cazzu",131,6A,47,2023-09-28,02:26,60,"argentine trap, trap latino, urbano latino, turreo","Cazzu: Bzrp Music Sessions, Vol. 32/66",2020-08-05,89,39,9,59,0,0,-9,G Minor,4,1MZqHpFyB4j5tFCFNvURou,UYB282001006
+212,"UN PREVIEW","Bad Bunny",95,3B,81,2023-09-27,02:45,70,"reggaeton, trap latino, latin, urbano latino","UN PREVIEW",2023-09-25,79,4,0,37,0,20,-3,C♯/D♭ Major,4,63ui2w3QJBp8xx0c1MJB2Z,QMFME2329236
+213,"older","Isabel LaRosa",68,2A,51,2023-09-20,02:17,76,"","older",2023-09-15,47,8,0,42,0,0,-7,D#/E♭ Minor,4,75c2zaSdDBSX0A8Jyvm4fO,USRC12302056
+214,"Earned It (Fifty Shades Of Grey)","The Weeknd",120,7A,29,2023-09-23,04:37,61,"","Beauty Behind The Madness",2015-08-28,66,41,0,41,0,0,-8,D Minor,3,2uv4moS862MAZcntQfurpz,USUG11500924
+215,"Chemtrails Over The Country Club","Lana Del Rey",201,9A,28,2023-11-09,04:31,0,"","Chemtrails Over The Country Club",2021-01-11,33,88,0,43,0,10,-13,E Minor,3,1PZDyestTVydtHpaIcfUJg,GBUM72006081
+216,"PLAYING WITH FIRE","BLACKPINK",97,9A,76,2023-10-08,03:17,74,"k-pop","SQUARE TWO",2016-11-01,71,4,0,68,0,10,-4,E Minor,4,7qmvLmX9tyaTiBAVNI6YEn,KRA401600236
+217,"Lovesick Girls","BLACKPINK",128,2B,71,2023-10-08,03:14,72,"k-pop","THE ALBUM",2020-10-02,65,1,0,45,0,0,-6,F#/G♭ Major,4,4Ws314Ylb27BVsvlZOy30C,KRA402000136
+218,"Mad Hatter","Melanie Martinez",92,4B,69,2023-10-01,03:21,71,"","Cry Baby (Deluxe Edition)",2015-08-14,57,2,0,58,0,10,-5,G#/A♭ Major,4,5gWtkdgdyt5bZt9i6n3Kqd,USAT21501943
+219,"Play Date","Melanie Martinez",124,7B,73,2023-10-01,02:59,80,"","Cry Baby (Deluxe Edition)",2015-08-14,68,61,0,45,0,20,-5,F Major,4,4DpNNXFMMxQEKl7r0ykkWA,USAT21502465
+220,"Tag, You're It","Melanie Martinez",115,4A,84,2023-10-01,03:09,73,"","Cry Baby (Deluxe Edition)",2015-08-14,56,24,2,38,0,10,-6,F Minor,4,3u1FiuSpfsgVnekEMXgMwJ,USAT21501939
+221,"X ESO BB","Jere Klein,Nicki Nicole",100,8B,62,2023-09-27,03:13,62,"reggaeton chileno, chilean mambo, chilean trap, mambo, rkt, reggaeton, argentine trap","X ESO BB",2023-08-10,76,21,0,58,10,10,-8,C Major,4,3nr6dW6yGOd6UX3KOpkbMZ,UYB282393001
+222,"3rd Eye","Stray Kids",140,4A,73,2024-02-17,04:03,53,"k-pop, noise music","SKZ2021",2021-12-23,68,25,0,38,20,10,-5,F Minor,4,26TIfStHIKPlgzr4PkTB0i,US5TA2100126
+223,"Hands up!","6arelyhuman,kets4eki,Pixel Hood",153,12A,88,2023-10-01,02:15,0,"hyperpop, nightcore","Sassy Scene",2023-03-03,54,0,0,75,10,20,-3,C♯/D♭ Minor,4,0Vqaw7CxyURWaRI9gNJthb,QZTB32254226
+224,"Side To Side","Ariana Grande,Nicki Minaj",159,11A,72,2023-10-08,03:46,68,"pop, ","Dangerous Woman",2016-05-20,64,2,0,62,20,20,-6,F#/G♭ Minor,4,4HeCFqiB1rBqGqvE10rF1a,USUM71602107
+225,"34+35","Ariana Grande",110,8B,59,2023-10-08,02:53,78,"pop","Positions",2020-10-30,83,24,0,49,0,20,-6,C Major,4,6Im9k8u9iIzKMrmV7BWtlF,USUM72020423
+226,"7 rings","Ariana Grande",140,12A,32,2022-12-10,02:58,86,"pop","thank u, next",2019-02-08,78,59,0,33,30,0,-11,C♯/D♭ Minor,4,6ocbgoVGwYJhOv1GgI9NsF,USUM71900110
+227,"thank u, next","Ariana Grande",107,3B,65,2024-01-05,03:27,84,"pop","thank u, next",2019-02-08,72,23,0,41,0,10,-6,C♯/D♭ Major,4,3e9HZxeyfWwjeyPAMmWSSQ,USUM71819361
+228,"break up with your girlfriend, i'm bored","Ariana Grande",170,4A,55,2023-10-08,03:10,77,"pop","thank u, next",2019-02-08,73,4,0,34,0,10,-5,F Minor,4,4kV4N9D1iKVxx1KLvtTpjS,USUM71900409
+229,"La Oportunidad","Rauw Alejandro",130,1A,50,2023-09-27,04:15,64,"reggaeton, urbano latino, trap latino, latin","La Oportunidad",2017-03-03,78,75,0,23,0,10,-6,G#/A♭ Minor,4,3WvVLW5vG7A3rFNHvbb4pt,QM4TX1710562
+230,"Rules","Doja Cat",144,9B,72,2024-01-05,03:07,73,"","Hot Pink",2019-11-07,65,17,0,69,10,10,-5,G Major,4,1TMWcbxL5YF8rKsFHv5hAP,USRC11902867
+231,"Say So","Doja Cat",111,10A,67,2024-03-01,03:57,80,"","Hot Pink",2019-11-07,79,26,0,78,10,0,-5,B Minor,4,3Dv1eDb0MEgF93GpLXlucZ,USRC11903454
+232,"Streets","Doja Cat",90,1B,46,2023-09-06,03:46,85,"","Hot Pink",2019-11-07,75,21,4,19,0,30,-8,B Major,4,60ynsPSSKe6O3sfwRnIBRf,USRC11903460
+233,"Dance The Night","Dua Lipa",110,10A,85,2023-10-03,02:56,71,"pop","Barbie The Album",2023-07-21,67,2,0,78,0,30,-5,B Minor,4,11C4y2Yz1XbHmaQwO06s9f,USAT22305730
+234,"China","Anuel AA,Daddy Yankee,KAROL G,Ozuna,J Balvin",105,9B,81,2023-11-04,05:01,77,"reggaeton, trap latino, urbano latino, latin","Emmanuel",2020-05-29,79,8,0,61,0,0,-4,G Major,4,0KkIkfsLEJbrcIhYsCL7L5,QM6P41952433
+235,"PERRO NEGRO","Bad Bunny,Feid",96,7B,78,2023-10-15,02:42,83,"reggaeton, trap latino, latin, urbano latino","nadie sabe lo que va a pasar mañana",2023-10-13,91,9,0,35,20,10,-2,F Major,4,7iQXYTyuG13aoeHxGG28Nh,QMFME2364199
+236,"FINA","Bad Bunny,Young Miko",95,3B,72,2023-10-18,03:36,77,"reggaeton, trap latino, latin, urbano latino","nadie sabe lo que va a pasar mañana",2023-10-13,85,9,0,40,30,10,-5,C♯/D♭ Major,4,3nNmRE0DxHC6ZaKkrpUumS,QMFME2364183
+237,"Bugambilia","Nasa Histoires",90,6A,78,2023-10-08,03:09,70,"","Bugambilia",2023-07-21,59,42,0,58,0,10,-7,G Minor,4,5hXCTV8OCsNak8OVry7yzM,QZNJX2306089
+238,"Cover Me","Stray Kids",174,4B,74,2023-11-10,03:11,68,"k-pop, noise music","ROCK-STAR",2023-11-10,47,10,0,18,0,0,-4,G#/A♭ Major,3,5dUjBnP5zrWpWA5RGrr73g,US5TA2300154
+239,"Diles","Bad Bunny,Ozuna,Farruko,Arcángel,Ñengo Flow,DJ Luian,Mambo Kingz",118,7A,56,2023-10-08,04:46,86,"reggaeton, trap latino, latin, urbano latino","Diles",2016-08-26,81,11,0,29,0,20,-6,D Minor,4,6C1RD7YQVvt3YQj0CmuTeu,QZS1Z1600275
+240,"Ride","Lana Del Rey",94,8B,69,2024-05-03,04:49,70,"","Born To Die - The Paradise Edition",2012-01-01,37,13,0,19,0,30,-6,C Major,4,7yFMhCJOsH7khgpdnyrZAZ,GBUM71205878
+241,"Cola","Lana Del Rey",110,12A,67,2023-10-27,04:20,67,"","Born To Die - The Paradise Edition",2012-01-01,30,7,0,12,0,50,-6,C♯/D♭ Minor,4,3I5azi0831uNpYQsfYsW7G,GBUM71205883
+242,"Yayo","Lana Del Rey",72,2A,20,2023-10-27,05:21,55,"","Born To Die - The Paradise Edition",2012-01-01,51,93,0,14,0,20,-13,D#/E♭ Minor,4,2rldjI2fK6nYwlMgaITluf,GBUM71205885
+243,"Radio","Lana Del Rey",75,10B,86,2023-09-27,03:34,75,"","Born To Die - The Paradise Edition",2012-01-01,42,19,0,20,0,10,-5,D Major,4,3taCbWWTilb7eNMsAzOBq4,GBUM71111570
+244,"Lolita","Lana Del Rey",136,5A,95,2023-10-16,03:40,61,"","Born To Die - The Paradise Edition",2012-01-01,49,7,0,13,10,30,-4,C Minor,4,4MDpkzAyG2X0dmtOU0ZESX,GBUM71111606
+245,"Carmen","Lana Del Rey",100,12A,43,2024-05-20,04:08,63,"","Born To Die - The Paradise Edition",2012-01-01,52,10,0,4,0,10,-10,C♯/D♭ Minor,4,1FaHPLv48VjsTkPCQOH7bv,GBUM71111529
+246,"Dark Paradise","Lana Del Rey",120,12A,65,2023-11-07,04:03,74,"","Born To Die - The Paradise Edition",2012-01-01,60,10,0,43,0,10,-8,C♯/D♭ Minor,4,6qqdFWe7C4LsBjWbXQdsHA,GBUM71111561
+247,"Gods & Monsters","Lana Del Rey",190,1A,73,2023-12-05,03:57,61,"","Born To Die - The Paradise Edition",2012-01-01,35,0,0,34,0,20,-6,G#/A♭ Minor,4,4uhSo9cVBVpdDCNxf4MBaP,GBUM71205884
+248,"Million Dollar Man","Lana Del Rey",66,2B,59,2023-10-27,03:51,65,"","Born To Die - The Paradise Edition",2012-01-01,38,48,0,51,0,10,-6,F#/G♭ Major,4,7LQKuOaqJrNgVIGLFnfvdn,GBUM71111558
+249,"Summertime Sadness","Lana Del Rey",112,12A,65,2024-01-06,04:25,86,"","Born To Die - The Paradise Edition",2012-01-01,56,5,0,24,0,10,-7,C♯/D♭ Minor,4,3BJe4B8zGnqEdQPMvfVjuS,GBUM71111565
+250,"This Is What Makes Us Girls","Lana Del Rey",138,7A,84,2023-11-15,03:58,60,"","Born To Die - The Paradise Edition",2012-01-01,53,9,4,44,0,20,-7,D Minor,4,1Lw2xRuW5fcieRPfoskgog,GBUM71111605
+251,"I'm a Mess","Bebe Rexha",97,10A,69,2023-10-17,03:15,72,"","Expectations",2018-06-22,63,0,0,22,0,0,-6,B Minor,4,04ZTP5KsCypmtCmQg5tH9R,USWB11800739
+252,"Sad Girl","Lana Del Rey",119,7B,59,2023-10-03,05:17,80,"","Ultraviolence (Deluxe)",2014-01-01,35,54,7,26,0,10,-8,F Major,4,11MyiSGZSYSmhhqwGUTtAq,GBUM71402107
+253,"Cruel World","Lana Del Rey",122,4A,51,2023-10-21,06:39,65,"","Ultraviolence (Deluxe)",2014-01-01,33,27,0,18,0,10,-6,F Minor,4,6ayKgleoMF26lvU1Z7wVm7,GBUM71402167
+254,"Ultraviolence","Lana Del Rey",79,8B,54,2023-10-16,04:11,81,"","Ultraviolence (Deluxe)",2014-01-01,14,28,0,9,0,10,-7,C Major,3,1y3r6RXiJZNBV1EI0NggpS,GBUM71402015
+255,"Money Power Glory","Lana Del Rey",137,1A,53,2024-01-05,04:30,66,"","Ultraviolence (Deluxe)",2014-01-01,35,58,0,29,0,30,-7,G#/A♭ Minor,5,7Ms58r8G6Y0r1XLtpwoGxN,GBUM71402109
+256,"Pretty When You Cry","Lana Del Rey",109,3A,55,2023-09-11,03:54,78,"","Ultraviolence (Deluxe)",2014-01-01,51,40,0,20,0,20,-7,A#/B♭ Minor,4,6PnluwP0fjGnpIBsqTdUTq,GBUM71402191
+257,"Snow On The Beach (feat. More Lana Del Rey)","Taylor Swift,Lana Del Rey",110,11A,40,2023-10-21,03:49,72,"","Midnights (The Til Dawn Edition)",2023-05-26,66,80,0,27,0,10,-11,F#/G♭ Minor,4,4zmKGsrXjLmljb5fTaBTot,USUG12302773
+258,"Off To The Races","Lana Del Rey",160,9A,72,2024-02-17,04:59,38,"","Born To Die",2011-01-01,39,6,0,13,0,40,-6,E Minor,4,2zltAwjiW6O9fpsMl13F6i,GBUM71111530
+259,"National Anthem","Lana Del Rey",85,5A,90,2023-09-27,03:50,47,"","Born To Die (Deluxe Version)",2011-01-01,54,56,0,43,20,10,-6,C Minor,4,4YQEdFq6g95OrdksihaMgZ,GBUM71111567
+260,"High By The Beach","Lana Del Rey",132,10A,49,2023-11-02,04:17,70,"","Honeymoon",2015-09-18,54,24,1,10,0,10,-11,B Minor,4,7g3htkaLz4ETFn0cifwM3y,GBUM71502978
+261,"Salvatore","Lana Del Rey",118,10A,31,2023-10-25,04:41,83,"","Honeymoon",2015-09-18,30,68,0,12,0,10,-10,B Minor,4,21qg0IBZf8R12qHd9A3AA4,GBUM71503927
+262,"Art Deco","Lana Del Rey",148,10A,46,2023-10-01,04:55,80,"","Honeymoon",2015-09-18,28,54,22,6,0,10,-11,B Minor,5,5jqNQZBwbZWQXPWfo0ygZF,GBUM71503925
+263,"Love","Lana Del Rey",99,6B,37,2023-12-12,04:32,70,"","Lust For Life",2017-07-21,53,49,0,23,0,10,-11,A#/B♭ Major,4,2Kerz9H9IejzeIpjhDJoYG,GBUM71604605
+264,"Cherry","Lana Del Rey",94,1A,53,2023-10-25,03:00,75,"","Lust For Life",2017-07-21,45,5,0,34,0,30,-9,G#/A♭ Minor,3,1Ym6aMuT5bliaZMC67AmPp,GBUM71702621
+265,"Heroin","Lana Del Rey",119,10A,41,2023-10-27,05:55,62,"","Lust For Life",2017-07-21,35,56,1,10,0,10,-9,B Minor,4,7lSdUlVf8k6kxklKkskb1m,GBUM71702624
+266,"In My Feelings","Lana Del Rey",90,10B,67,2023-10-27,03:58,69,"","Lust For Life",2017-07-21,54,6,6,31,0,10,-6,D Major,4,269xqcgGTN9PlivhUkOLhX,GBUM71702623
+267,"White Mustang","Lana Del Rey",115,11A,46,2023-10-27,02:44,78,"","Lust For Life",2017-07-21,66,46,0,22,0,10,-9,F#/G♭ Minor,4,6eygbzyL6hY8jFQTARDuo9,GBUM71702622
+268,"Lust For Life (with The Weeknd)","Lana Del Rey,The Weeknd",100,5A,66,2023-12-02,04:24,72,"","Lust For Life",2017-07-21,50,60,0,26,0,30,-9,C Minor,4,0mt02gJ425Xjm7c3jYkOBn,GBUM71701127
+269,"Line Without a Hook","Ricky Montgomery",190,4B,65,2023-11-04,04:09,81,"","Montgomery Ricky",2016-04-01,43,26,0,51,0,20,-5,G#/A♭ Major,3,5NvOZCjZaGGGL597exlQWv,USA2P1624696
+270,"Creepin' (with The Weeknd & 21 Savage)","Metro Boomin,The Weeknd,21 Savage",98,12A,61,2023-10-08,03:41,82,"","HEROES & VILLAINS",2022-12-02,72,39,0,16,0,0,-6,C♯/D♭ Minor,4,2dHHgzDwk4BJdRwy9uXhTO,USUG12208791
+271,"Aprovechame BB","vf7,Young Miko",170,3A,78,2023-11-01,03:12,41,"trap latino","Aprovechame BB",2022-10-14,75,23,0,86,0,10,-3,A#/B♭ Minor,4,29VflI9cjsWbGfEkvu0Tyk,QMDA62222716
+272,"Agora Hills","Doja Cat",123,1A,67,2023-12-02,04:25,77,"","Scarlet",2023-09-22,75,23,0,39,10,10,-6,G#/A♭ Minor,4,7dJYggqjKo71KI9sLzqCs8,USRC12301954
+273,"tu fan","mafalda cardenal",84,3B,43,2023-10-21,04:00,1,"","tu fan",2023-05-26,59,40,0,41,0,20,-5,C♯/D♭ Major,3,0tLXkjxahQsnZkKP2GXXf6,QZMZ92325070
+274,"vampire","Olivia Rodrigo",137,7B,53,2023-10-19,03:39,5,"","vampire",2023-06-30,48,15,0,32,0,20,-6,F Major,4,3k79jB4aGmMDUQzEwa46Rz,USUG12304091
+275,"Butterflies","Stray Kids",80,8B,71,2023-10-29,03:10,57,"k-pop, noise music","Social Path / Super Bowl -Japanese ver.-",2023-09-06,77,21,0,83,0,10,-3,C Major,4,3Oi8I8awZsuJtSEOGHuOXf,JPU902303291
+276,"4419","Stray Kids",86,2B,83,2023-11-26,03:13,50,"k-pop, noise music","Mixtape",2018-01-08,57,39,0,66,0,0,-3,F#/G♭ Major,4,06LuB4b0rexIz3lWgZXTTf,US5TA1800006
+277,"You Don't Own Me (feat. G-Eazy)","SAYGRACE,G-Eazy",186,9B,64,2023-12-15,03:21,74,"","FMA",2016-07-01,33,16,0,26,0,0,-6,G Major,3,6KI1ZpZWYAJLvmVhCJz65G,USRC11500344
+278,"One Of The Girls (with JENNIE, Lily Rose Depp)","The Weeknd,JENNIE,Lily-Rose Depp",85,4B,64,2023-11-01,04:04,92,"k-pop, ","The Idol Episode 4 (Music from the HBO Original Series)",2023-06-23,26,4,0,19,0,10,-6,G#/A♭ Major,4,7CyPwkp0oE8Ro9Dd5CUDjW,USUG12303881
+279,"Fill The Void (with Lily Rose Depp, Ramsey)","The Weeknd,Lily-Rose Depp,Ramsey",151,4A,39,2024-01-05,03:05,72,"","The Idol Episode 4 (Music from the HBO Original Series)",2023-06-23,25,29,0,8,0,10,-9,F Minor,4,010ZkIVv6Ay5vqqHVCCiKB,USUG12303883
+280,"Ella No Es Tuya - Remix","Rochy RD,Myke Towers,Nicki Nicole",97,2B,61,2023-11-01,03:38,67,"dembow, reggaeton, trap latino, urbano latino, argentine trap","Ella No Es Tuya (Remix)",2021-02-03,59,39,0,96,20,60,-4,F#/G♭ Major,4,5YYW3yRktprLRr47WK219Y,USSD12100003
+281,"Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)","The Weeknd,Playboi Carti,Madonna",99,3B,67,2023-10-08,03:35,83,"rage rap, ","Popular (Music from the HBO Original Series)",2023-06-02,85,5,0,85,10,50,-6,C♯/D♭ Major,4,6WzRpISELf3YglGAh7TXcG,USUG12303876
+282,"Lovers Rock","TV Girl",105,4A,87,2024-01-05,03:33,88,"","French Exit",2014-06-05,56,0,1,57,0,10,-5,F Minor,4,6dBUzqjtbnIa1TwYbyw5CM,USHM21438143
+283,"NO PIENSO LLAMAR","Soge Culebra,Quevedo,GARABATTO",170,6B,56,2023-11-30,03:18,54,"","NO PIENSO LLAMAR",2023-10-06,68,18,0,58,10,10,-5,A#/B♭ Major,4,3xE3TyeIxL24IstPdy5IBv,ES5152300790
+284,"Gimme More","Britney Spears",113,10B,84,2024-01-05,04:11,86,"pop","Blackout",2007-10-25,79,25,0,38,0,0,-3,D Major,4,6ic8OlLUNEATToEFU3xmaH,USJI10700609
+285,"Oops!...I Did It Again","Britney Spears",95,12A,83,2024-01-05,03:31,84,"pop","Oops!... I Did It Again",2000-05-16,75,30,0,89,0,30,-5,C♯/D♭ Minor,4,6naxalmIoLFWR0siv8dnQQ,USJI10000100
+286,"I'll Do It","Heidi Montag",113,3B,88,2024-01-05,03:30,72,"","Superficial",2010-01-11,83,1,54,62,0,0,-4,C♯/D♭ Major,4,3RpCFxfsccNPDTWd3ALMaB,US2RS0910019
+287,"Lost in the Fire (feat. The Weeknd)","Gesaffelstein,The Weeknd",101,10B,67,2022-11-24,03:22,82,"","Hyperion",2019-03-08,66,9,0,17,0,10,-12,D Major,4,2vXKRlJBXyOcvZYTdNeckS,USQX91803314
+288,"DILUVIO","Rauw Alejandro",95,8A,80,2023-11-30,03:17,80,"reggaeton, urbano latino, trap latino, latin","PLAYA SATURNO",2023-07-07,85,34,0,68,0,20,-4,A Minor,4,2kz1YOhJiNubjigR1gB1VX,USSD12300302
+289,"PICARDÍA","Rauw Alejandro,Junior H",174,10B,66,2023-07-22,03:35,64,"reggaeton, urbano latino, trap latino, latin, corridos tumbados, corrido, corridos bélicos, sad sierreño, sierreño, música mexicana, banda","PLAYA SATURNO",2023-07-07,62,9,0,63,10,40,-4,D Major,4,05OnZaYopHpb0z7ktT2FIF,USSD12300296
+290,"HOY AQUÍ","Rauw Alejandro",92,5B,78,2023-11-30,03:07,64,"reggaeton, urbano latino, trap latino, latin","PLAYA SATURNO",2023-07-07,76,59,0,53,0,10,-2,D#/E♭ Major,4,2jMt8GoQ4RGxAIMvWJyWeL,USSD12300299
+291,"bad idea right?","Olivia Rodrigo",130,11B,88,2023-10-08,03:04,80,"","GUTS",2023-09-08,63,0,0,81,10,0,-4,A Major,4,3IX0yuEVvDbnqUwMBB3ouC,USUG12304094
+292,"Can I Call You Tonight?","Dayglow",130,11B,84,2024-01-05,04:38,77,"indie rock","Fuzzybrain",2019-11-14,64,13,91,50,0,40,-7,A Major,4,61OJxhoY3Ix50rYVKo8zRK,TCADL1825079
+293,"Perdón","Camila",186,3A,54,2023-11-08,04:24,73,"latin pop","Elypse",2014-06-03,29,20,0,22,0,0,-6,A#/B♭ Minor,3,2LgGkK27qwPG4ls3OsNmuj,MXF011400120
+294,"Enamórate","Nicki Nicole,Bad Gyal",95,8B,75,2023-11-16,02:27,55,"argentine trap, neoperreo","Enamórate",2023-11-14,58,34,0,66,0,10,-4,C Major,4,332fAqelC3Uik91QPxPcB8,UYB282300054
+295,"La Trampa es Ley","LIT killah",118,2B,71,2023-09-28,02:21,57,"argentine trap, trap latino, trap, urbano latino","La Trampa es Ley",2022-02-10,60,24,0,63,10,20,-6,F#/G♭ Major,4,5Us3svqTvNAdnQfEYfoL5g,USWL12200119
+296,"My Love Mine All Mine","Mitski",114,11B,31,2023-09-30,02:17,87,"","The Land Is Inhospitable and So Are We",2023-09-15,50,87,14,12,0,10,-15,A Major,4,3vkCueOmm7xQDoJ17W1Pm3,USJ5G2335007
+297,"BENDICIONES","Bad Bunny",144,1B,58,2023-09-28,02:35,63,"reggaeton, trap latino, latin, urbano latino","LAS QUE NO IBAN A SALIR",2020-05-10,83,4,0,84,0,10,-10,B Major,4,2CoMYp2uIKsT09nreEZnZn,QM6N22010811
+298,"Buenas","Quevedo,SAIKO",88,4B,76,2023-09-27,03:12,48,"","Buenas",2023-09-22,63,25,0,43,0,10,-5,G#/A♭ Major,4,4sDpxaulErbJ9NBaJDC7cJ,BK4DA2318657
+299,"SI TE PEGAS","Rauw Alejandro,Miguel Bosé",115,10A,83,2023-11-30,03:03,58,"reggaeton, urbano latino, trap latino, latin, latin pop","PLAYA SATURNO",2023-07-07,90,42,0,56,0,10,-3,B Minor,4,7kyLtcgYgQPrXkxtAb72iY,USSD12300303
+300,"CELEBRANDO","Rauw Alejandro,Ivy Queen",100,9A,83,2024-01-25,03:27,56,"reggaeton, urbano latino, trap latino, latin","PLAYA SATURNO",2023-07-07,82,13,0,30,0,40,-2,E Minor,4,4KrNCWx08dZr11kGIUHuuX,USSD12300300
+301,"CUANDO BAJE EL SOL","Rauw Alejandro",100,11B,76,2023-11-30,02:46,61,"reggaeton, urbano latino, trap latino, latin","PLAYA SATURNO",2023-07-07,79,33,0,57,0,30,-2,A Major,4,4OVHxReloGwGriqVFF2M79,USSD12300292
+302,"Meddle About","Chase Atlantic",160,9A,80,2024-01-13,03:23,79,"","Meddle About",2014-12-25,38,0,1,37,0,30,-6,E Minor,4,5fVl28RgREvxVtGSf9OsbK,GBMA21404437
+303,"Clandestino","Shakira,Maluma",166,12A,82,2024-01-24,03:51,72,"latin pop, reggaeton, latin, urbano latino","Clandestino",2018-06-08,77,39,0,88,10,30,-4,C♯/D♭ Minor,4,7DrluKkTviBwCc8AV3VGmf,USQX91801065
+304,"FΛSHION","Britney Manson",120,6B,65,2024-01-05,02:26,2,"","FΛSHION",2023-08-11,75,0,0,25,0,70,-6,A#/B♭ Major,4,4YQgOgIElFtEvwJQ9ArWL7,RUB862300027
+305,"CELOS","Myke Towers,J Balvin",174,5A,83,2023-10-08,02:49,52,"reggaeton, trap latino, urbano latino, latin","LA VIDA ES UNA",2023-03-23,69,15,0,71,10,0,-3,C Minor,4,63TolxqG0C6bNh23Ht4jHf,USWL12300011
+306,"Veneno","Delaossa,KIDDO,J.Moods",92,2B,72,2023-12-24,04:18,64,"flamenco, flamenco urbano, ","La Tour Liffee",2020-06-04,64,62,0,71,10,0,-4,F#/G♭ Major,4,5BopknbHSxEm9Ohcs4IbGu,QZHZ32052793
+307,"Skyfall","Adele",76,5A,55,2023-07-25,04:46,86,"soft pop","Skyfall",2012-10-04,35,42,0,8,0,10,-7,C Minor,4,6VObnIkLVruX4UVyxWhlqm,GBBKS1200164
+308,"Once Upon a Dream - From  Maleficent  / Pop Version","Lana Del Rey",120,7B,27,2023-12-06,03:23,70,"","Once Upon a Dream (from  Maleficent ) [Original Motion Picture Soundtrack]",2014-01-01,29,66,2,17,0,10,-17,F Major,3,3liiZRlJxa8GeLUgWMoIeu,USWD11467130
+309,"intoxicao","Emilia,Nicki Nicole",94,10A,64,2023-10-08,02:48,59,"argentine trap","Tú crees en mí?",2022-05-31,93,21,0,85,0,0,-3,B Minor,4,67Wqby5IjOMMpIYwqmCYOG,USSD12200284
+310,"Dead To Me","Kali Uchis",119,9A,76,2022-03-15,03:19,77,"","Isolation",2018-04-06,68,43,0,43,0,10,-4,E Minor,4,6LOZws7T3jqZz78unPgFF9,GBUM71801115
+311,"Cúrame","Rauw Alejandro",102,8A,63,2023-09-28,02:44,77,"reggaeton, urbano latino, trap latino, latin","VICE VERSA",2021-12-10,77,58,0,26,0,10,-4,A Minor,4,1FlL8ycld6uVDDyhV7P5FA,USSD12100296
+312,"Slow Down","Chase Atlantic",130,6B,79,2023-12-12,03:32,2,"","Paradise EP",2016-12-20,48,2,0,26,0,20,-4,A#/B♭ Major,4,5lT5IZWW3JQErXELJpQgJ9,AUBEC1933728
+313,"Mucha Data","Cazzu",135,4B,52,2023-09-28,02:34,68,"argentine trap, trap latino, turreo","Error 93",2019-06-03,70,19,0,33,30,0,-7,G#/A♭ Major,4,57x0IGrEHEdoy5QMBlcitJ,QM6N21901829
+314,"Friends","Chase Atlantic",107,10A,61,2024-01-26,03:50,85,"","Nostalgia - EP",2015-02-21,33,1,0,8,0,10,-6,B Minor,3,7uDUb37h7Xdhza1eWMkoJv,GBLFP1508173
+315,"Where Have You Been","Rihanna",128,5A,85,2024-01-05,04:02,84,"","Talk That Talk",2011-11-18,72,0,2,44,0,20,-6,C Minor,4,5WQQIDU3HRaMyPkob8mpFb,USUM71118074
+316,"Luxurious","Gwen Stefani",131,8B,73,2024-01-05,04:24,65,"","Love. Angel. Music. Baby.",2004-11-12,81,15,0,67,0,10,-4,C Major,4,69xZrRwScYMhlCMcxrF958,USIR10400848
+317,"Can't Remember to Forget You (feat. Rihanna)","Shakira,Rihanna",138,10A,81,2024-01-05,03:26,81,"latin pop, ","Shakira. (Expanded Edition) [Spanish Version]",2014-03-13,69,12,0,82,0,10,-4,B Minor,4,7o1Pm9jpH0wFpN5g793Lnq,USRC11301790
+318,"If U Seek Amy","Britney Spears",130,9A,59,2024-01-05,03:36,76,"pop","Circus (Deluxe Version)",2008-12-02,72,2,0,54,0,0,-7,E Minor,4,2hdy9Wt9qp7M7d0U3ossu2,USJI10801329
+319,"Circus","Britney Spears",115,11A,73,2024-01-05,03:12,81,"pop","Circus (Deluxe Version)",2008-12-02,79,15,0,76,0,0,-5,F#/G♭ Minor,4,7jk7gqyEonmVVYahZN5zhW,USJI10801081
+320,"Deja vu","Prince Royce,Shakira",124,11B,79,2023-08-21,03:16,62,"bachata, latin, latin pop","El Dorado",2017-05-26,79,53,0,90,0,30,-4,A Major,4,5clmffOxeckeJ2e3GMy6UZ,USSD11600438
+321,"Chantaje (feat. Maluma)","Shakira,Maluma",102,1A,77,2024-01-07,03:15,84,"latin pop, reggaeton, latin, urbano latino","El Dorado",2017-05-26,85,19,0,91,0,10,-3,G#/A♭ Minor,4,6mICuAdrwEjh6Y6lroV2Kg,USSD11600299
+322,"Obsessed","Mariah Carey",86,3A,47,2024-01-05,04:02,83,"christmas","Memoirs of an imperfect Angel (International Version)",2009-09-29,74,5,0,37,0,80,-6,A#/B♭ Minor,4,5EGPf0nqO7vEIwsOX6Er98,USUM70973055
+323,"El Pañuelo","Romeo Santos,ROSALÍA",130,4B,71,2024-01-21,03:54,57,"bachata, latin","El Pañuelo",2022-08-30,84,5,0,66,0,20,-4,G#/A♭ Major,4,3c7H5RL3H6jFgDTbMxGBe9,USSD12200878
+324,"yes, and?","Ariana Grande",119,3A,78,2024-01-19,03:34,31,"pop","yes, and?",2024-01-18,79,17,0,81,0,10,-7,A#/B♭ Minor,4,6VFMpSq7A5tAn0JrM7sP27,USUM72400101
+325,"Shameless","Camila Cabello",130,9A,65,2024-01-13,03:39,59,"","Shameless",2019-09-05,38,2,0,9,0,10,-5,E Minor,4,3UYiU57SMiAS5LqolhHJw1,USSM11905431
+326,"Houdini","Dua Lipa",117,8A,79,2024-01-05,03:05,12,"pop","Houdini",2023-11-09,74,0,0,87,0,0,-5,A Minor,4,4OMJGnvZfDvsePyCwRGO7X,GBAHT2301246
+327,"MALAMENTE - Cap.1: Augurio","ROSALÍA",98,4A,48,2024-01-21,02:29,50,"latin","MALAMENTE (Cap.1: Augurio)",2018-05-30,90,56,1,52,0,0,-5,F Minor,4,5zOAudPQIs5U8zP6LQGHmH,ES5021800275
+328,"Va Va Voom","Nicki Minaj",127,4B,84,2024-01-29,03:03,74,"","Pink Friday ... Roman Reloaded (Deluxe)",2012-01-01,65,6,1,71,0,20,-3,G#/A♭ Major,4,2jATUzETZL49e6SywauZKE,USCM51200109
+329,"Lovumba","Daddy Yankee",121,10A,93,2023-10-03,03:38,73,"reggaeton, latin","Prestige",2012-01-01,73,4,0,93,0,30,-5,B Minor,4,6oyl7ELfrMqXLhGmIjXY9R,USNPD1200026
+330,"Limbo","Daddy Yankee",125,9B,87,2024-02-04,03:44,79,"reggaeton, latin","Prestige",2012-01-01,81,8,0,92,0,0,-4,G Major,4,3pDhN3qB33AOPhQEkUCaWt,USNPD1200128
+331,"OHMAMI","Chase Atlantic",126,3A,72,2024-01-26,03:46,64,"","OHMAMI",2021-06-25,63,5,0,40,10,20,-6,A#/B♭ Minor,4,2zVaxB54fNngkbWs5uZnla,US5262124147
+332,"COSAS QUE NO TE DIJE","SAIKO",100,10B,67,2023-11-30,03:44,79,"","COSAS QUE NO TE DIJE",2021-09-17,62,56,0,21,0,10,-4,D Major,4,5xSt1wxZobFcLzHrFakv6z,ES5152100862
+333,"LUNA","Feid,ATL Jacob",100,6A,86,2024-01-05,03:16,86,"reggaeton, urbano latino, ","FERXXOCALIPSIS",2023-12-01,77,13,0,45,10,10,-3,G Minor,4,7bywjHOc0wSjGGbj04XbVi,USUM72318216
+334,"QUIZÁS SI QUIZÁS NO","Alvaro Diaz,Quevedo",174,4A,77,2024-01-05,03:23,53,"","QUIZÁS SI QUIZÁS NO",2023-11-24,65,6,0,62,0,30,-5,F Minor,4,3WQhuJnlOTV9RiDZx2tDFF,USUM72316846
+335,"Dancing Queen","ABBA",101,11B,87,2024-01-05,03:50,87,"","Arrival",1976-00-00,54,36,0,75,0,70,-7,A Major,4,0GjEhVFGZW8afUYGChu3Rr,SEAYD7601020
+336,"YOU.","Stray Kids",170,8A,97,2023-11-26,01:18,47,"k-pop, noise music","I am YOU",2018-10-22,51,1,0,24,20,30,-5,A Minor,4,3BJvGfUfRwXGbqQcIJOeDO,US5TA1800089
+337,"bloodline","Ariana Grande",152,7A,67,2024-01-17,03:36,82,"pop","thank u, next",2019-02-08,76,8,0,64,0,20,-5,D Minor,4,2hloaUoRonYssMuqLCBLTX,USUM71900399
+338,"No Te Quieren Conmigo","Gaby Music,Lunay,Luar La L",98,2B,65,2024-01-21,04:12,70,"reggaeton, trap latino","No Te Quieren Conmigo",2023-12-15,76,36,0,58,0,20,-5,F#/G♭ Major,4,3Cx4BsDd4q0GCVBJ5CAw2K,USUM72315218
+339,"Sci-Fi","Tainy,Rauw Alejandro",100,12A,92,2024-01-25,03:18,52,"reggaeton, urbano latino, trap latino, latin","Sci-Fi",2022-07-21,66,22,0,38,0,30,-2,C♯/D♭ Minor,4,5hF1rSgXQ4EPdWdYb8E6q0,USA2P2229414
+340,"DONDE SE APRENDE A QUERER?","Mora",170,4B,52,2024-02-04,02:24,73,"urbano latino, trap latino, reggaeton","ESTRELLA",2023-08-28,72,56,0,78,30,10,-10,G#/A♭ Major,4,0sfk352FO8bJUjWjIsyzSR,QMDA62341721
+341,"LALA","Myke Towers",92,3B,74,2023-11-01,03:17,82,"reggaeton, trap latino, urbano latino","LA VIDA ES UNA",2023-03-23,71,7,0,61,0,10,-4,C♯/D♭ Major,4,7ABLbnD53cQK00mhcaOUVG,USWL12300002
+342,"In My Dreams","Red Velvet",101,3B,54,2024-01-25,03:24,61,"k-pop","‘The ReVe Festival 2022 - Feel My Rhythm’",2022-03-21,65,22,1,18,0,0,-5,C♯/D♭ Major,3,4ubg38wkWizzLsQwLuE6rM,KRA302200062
+343,"GODS","League of Legends,NewJeans",146,2A,77,2024-02-03,03:40,10,"k-pop","GODS",2023-10-04,59,1,0,49,0,20,-6,D#/E♭ Minor,4,210JJAa9nJOgNa0YNrsT5g,QZH6S1900802
+344,"Heavy Metal Lover","Lady Gaga",116,3B,65,2024-02-03,04:12,68,"art pop, pop","Born This Way (International Special Edition Version)",2011-05-23,60,0,14,69,0,20,-8,C♯/D♭ Major,4,1UmrspTydTpzWfYqWUKXLg,USUM71106454
+345,"Government Hooker","Lady Gaga",120,9B,80,2024-02-04,04:14,64,"art pop, pop","Born This Way (Special Edition)",2011-01-01,66,0,5,51,0,60,-7,G Major,4,4KZAsdL0PeGvmPbSr0hyG4,USUM71106436
+346,"Elastic Heart","Sia",130,11B,79,2024-02-04,04:17,80,"","1000 Forms Of Fear",2014-07-04,42,1,0,50,0,10,-5,A Major,4,6kwAbEjseqBob48jCus7Sz,USRC11400976
+347,"HACIENDO QUE ME AMAS","Bad Bunny",170,3A,41,2024-01-15,03:37,76,"reggaeton, trap latino, latin, urbano latino","EL ÚLTIMO TOUR DEL MUNDO",2020-11-27,58,87,0,41,0,10,-7,A#/B♭ Minor,4,26QApq0cuO9brJigr0C0W4,QMFME2066843
+348,"Juro Que","ROSALÍA",82,10A,50,2024-01-21,02:50,52,"latin","Juro Que",2020-01-23,65,85,0,63,10,30,-7,B Minor,4,3ZwQCZ2LuYwuQ6R1p1CJ3w,USSM12000212
+349,"Say It Right","Nelly Furtado",117,3B,87,2024-01-05,03:43,85,"","Loose",2006-01-01,87,5,0,81,10,0,-6,C♯/D♭ Major,4,2aI21FnmY7TJVKeMaoQZ0t,USUM70603368
+350,"SI SABE FERXXO","Blessd,Feid",96,1A,83,2024-02-04,02:32,57,"reggaeton, urbano latino","SI SABE FERXXO",2024-01-24,73,1,0,49,10,0,-2,G#/A♭ Minor,4,2B1S3g2M4qObq4pTzuEYGD,QZZ3N2400002
+351,"REINA","Mora,SAIKO",168,6B,58,2024-02-04,03:31,68,"urbano latino, trap latino, reggaeton, ","ESTRELLA",2023-08-28,72,63,0,76,0,0,-7,A#/B♭ Major,4,0QRHOAeU8JRaVVn3UoZBih,QMDA62341722
+352,"Manos Rotas","DELLAFUENTE,Morad",94,9A,59,2024-02-04,02:48,72,"flamenco urbano, flamenco, ","Manos Rotas",2023-11-16,73,39,6,24,20,10,-6,E Minor,4,3BFh8rR6aMexy7ELu2UQy3,QMFMF2333158
+353,"Physical","Dua Lipa",147,8B,84,2024-02-04,03:13,62,"pop","Physical",2020-01-30,65,1,0,75,0,10,-4,C Major,4,5px6upUHM3fhOP621Edp4V,GBAHT1901298
+354,"Del Mar","Ozuna,Doja Cat,Sia",110,2B,64,2024-02-04,03:34,68,"reggaeton, trap latino, latin, urbano latino, ","ENOC",2020-09-04,76,2,0,54,0,10,-6,F#/G♭ Major,4,5cpJFiNwYyWwFLH0V6B3N8,USXDR2000586
+355,"Monotonía","Shakira,Ozuna",132,5A,70,2024-02-04,02:38,69,"latin pop, reggaeton, trap latino, latin, urbano latino","Monotonía",2022-10-19,87,42,0,82,0,20,-4,C Minor,4,6G12ZafqofSq7YtrMqUm76,USQX92204791
+356,"Tacones Rojos","Sebastian Yatra",123,10A,86,2023-10-08,03:09,71,"colombian pop, reggaeton","Tacones Rojos",2021-10-22,75,8,0,93,0,10,-4,B Minor,4,0Be7sopyKMv8Y8npsUkax2,USUM72119612
+357,"Emperor's New Clothes","Panic! At The Disco",94,3B,90,2024-02-04,02:38,69,"emo","Death of a Bachelor",2016-01-15,56,0,0,65,0,0,-5,C♯/D♭ Major,4,3px2rAPu74ltbkf9eZsZ8h,USAT21503476
+358,"Once More to See You","Mitski",93,11B,41,2024-05-01,03:00,70,"","Puberty 2",2016-06-17,54,16,1,35,0,10,-14,A Major,4,3NE5nGm06kB8QQbQqJaOke,USJ5G1612303
+359,"Hallucinate","Dua Lipa",122,3A,69,2024-02-04,03:28,68,"pop","Future Nostalgia",2020-03-27,63,3,0,63,10,0,-5,A#/B♭ Minor,4,1nYeVF5vIBxMxfPoL0SIWg,GBAHT1901301
+360,"WANNABE","ITZY",122,11A,91,2024-02-17,03:11,71,"k-pop","IT'z ME",2020-03-09,81,1,0,64,0,10,-4,F#/G♭ Minor,4,4pspYVQGFHLPEFgQPD1J7e,US5TA2000006
+361,"La_Original.mp3","Emilia,TINI",128,4A,81,2024-02-17,02:20,70,"argentine trap, latin pop",".mp3",2023-11-03,83,8,0,91,0,10,-3,F Minor,4,6Es8Sk3xe1HiJ2MXCfHHwR,USSD12300584
+362,"Hero's Soup","Stray Kids",172,9A,56,2024-02-17,03:32,50,"k-pop, noise music","I am YOU",2018-10-22,60,31,0,9,0,20,-8,E Minor,4,5kEmWjiwh7Ox1FrPTSygvv,US5TA1800092
+363,"Norman fucking Rockwell","Lana Del Rey",78,7B,20,2024-02-08,04:08,74,"","Norman Fucking Rockwell!",2019-08-30,22,97,6,14,0,0,-13,F Major,1,3RIgHHpnFKj5Rni1shokDj,GBUM71903153
+364,"Don't Start Now","Dua Lipa",124,10A,79,2024-02-04,03:03,75,"pop","Don't Start Now",2019-10-31,79,1,0,68,0,10,-5,B Minor,4,6WrI0LAC5M1Rw2MnX2ZvEg,GBAHT1901121
+365,"WHO?","Stray Kids",85,7B,84,2024-02-17,01:44,48,"k-pop, noise music","I am WHO",2018-08-06,34,4,0,39,0,20,-4,F Major,4,0VCTvog2ACYgV2aLD0gWwL,US5TA1800056
+366,"She's Crazy but She's Mine","Alex Sparrow",120,5A,76,2024-02-05,03:39,70,"","She's Crazy but She's Mine",2015-10-02,69,1,0,85,0,20,-3,C Minor,4,2p3QvyvrdHGntOeBwQNJQP,SE5Z21800101
+367,"I'm Gonna Show You Crazy","Bebe Rexha",90,10B,54,2024-02-05,03:27,62,"","I'm Gonna Show You Crazy",2014-12-19,47,8,0,34,0,30,-7,D Major,4,5LtNBCM2ve0SxP0dlRVvMu,USWB11403646
+368,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)","Sevdaliza,Villano Antillano,Tokischa",140,4A,72,2024-05-12,02:38,78,"neoperreo, dembow","Ride Or Die, Pt. 2",2024-04-18,77,9,0,55,0,10,-7,F Minor,4,5oYVxFt2k4SkVp6wzVsFWN,NLE3U2400002
+369,"Pa Ti Estoy","Ozuna,Anuel AA,Chris Jedi",162,5B,81,2024-02-04,03:26,75,"reggaeton, trap latino, latin, urbano latino","Cosmo",2023-11-17,79,15,0,90,0,10,-3,D#/E♭ Major,4,3j5zNcb0aSk7dx3W3mAKzw,QMFMF2307765
+370,"Vocation","Ozuna,David Guetta",125,1A,83,2024-02-04,03:04,44,"reggaeton, trap latino, latin, urbano latino, edm","Vocation",2023-11-16,75,7,0,44,0,10,-3,G#/A♭ Minor,4,70xKqgJOnicN4OsIB6hOXU,QMFMF2307766
+371,"You Were Beautiful","DAY6",168,4A,62,2024-02-26,04:43,66,"k-rock, k-pop","SUNRISE",2017-06-07,46,6,0,41,0,10,-3,F Minor,4,3FR2yqZsG07NhXz7uPyUyC,US5TA1700019
+372,"Smells Like Teen Spirit","Nirvana",117,3B,91,2024-02-04,05:01,87,"grunge, rock","Nevermind (Remastered)",1991-09-26,50,0,0,72,0,10,-5,C♯/D♭ Major,4,4CeeEOM32jQcH3eN9Q2dGj,USGF19942501
+373,"L'altra dimensione","Måneskin",111,4A,84,2024-04-25,02:06,68,"","Il ballo della vita",2018-10-26,72,52,0,54,0,20,-2,F Minor,4,36ONZ2CvV8KsLPapNPGTqa,ITB001800484
+374,"Drunk-Dazed","ENHYPEN",133,4A,87,2024-01-19,03:13,77,"k-pop","BORDER : CARNIVAL",2021-04-26,60,0,0,45,0,0,-5,F Minor,4,1wcr8DjnN59Awev8nnKpQ4,USA2P2108330
+375,"FAKE LOVE","BTS",78,7A,72,2024-02-25,04:02,82,"k-pop","Love Yourself 轉 'Tear'",2018-05-18,56,0,0,35,0,30,-5,D Minor,4,6m1TWFMeon7ai9XLOzdbiR,QM4TX1817912
+376,"Still With You","Jung Kook",88,12A,47,2024-03-01,03:59,81,"k-pop","Still With You",2020-06-05,53,9,0,34,0,80,-7,C♯/D♭ Minor,4,0eFMbKCRw8KByXyWBw8WO7,QM6N22094716
+377,"Give Me","Bad Gyal",105,9A,79,2024-01-27,02:45,49,"neoperreo","La Joia",2024-01-26,85,9,0,43,0,10,-5,E Minor,4,3vy66ZlrCcrCR74ix1E5vb,USUM72317278
+378,"Perdió Este Culo","Bad Gyal",93,10B,86,2024-02-04,02:39,67,"neoperreo","La Joia",2024-01-26,62,14,0,45,0,30,-3,D Major,4,1bmIRafMOhUKsnZE7haw2u,USUM72317584
+379,"Illusion","Dua Lipa",127,1A,76,2024-04-16,03:08,5,"pop","Illusion",2024-04-11,68,2,0,72,0,0,-5,G#/A♭ Minor,4,59xD5osEFsaNt5PXfIKUnX,GBAHT2400114
+380,"Cool for the Summer","Demi Lovato",114,4A,61,2024-02-17,03:34,85,"","Confident",2015-01-01,58,0,0,34,0,10,-6,F Minor,4,3uwnnTQcHM1rDqSfA4gQNz,USHR11536621
+381,"Angelina","Tommy Genesis",140,3A,41,2024-02-16,02:10,50,"","Angelina",2023-08-09,89,15,0,58,0,10,-8,A#/B♭ Minor,4,4d1GZHzLa51BDMW8LO9BlW,QM4DW1548468
+382,"Training Season","Dua Lipa",123,4A,59,2024-02-16,03:29,75,"pop","Training Season",2024-02-15,81,3,0,66,0,10,-4,F Minor,4,6Qb7YsAqH4wWFUMbGsCpap,GBAHT2301078
+383,"DESATAAA","Ovy On The Drums,Myke Towers,SAIKO",107,8A,87,2024-04-17,03:17,57,"reggaeton, trap latino, urbano latino, ","DESATAAA",2024-03-13,83,20,0,74,0,0,-2,A Minor,4,2vh03XeMmNRwxiAztk01Pe,USWL12400679
+384,"boyfriend (with Social House)","Ariana Grande,Social House",190,3A,80,2024-03-29,03:06,81,"pop, ","boyfriend",2019-08-02,40,12,0,70,40,10,-4,A#/B♭ Minor,4,0Ryd8975WihbObpp5cPW1t,USUG11902591
+385,"Not Mine","DAY6",85,12A,60,2024-03-01,03:15,48,"k-rock, k-pop","The Book of Us : Entropy",2019-10-22,60,10,0,65,0,0,-3,C♯/D♭ Minor,4,09vCm1gYxlBSi6ijArnczi,US5TA1900091
+386,"Mi Buen Amor","Mon Laferte,Bunbury",99,9B,54,2024-03-21,03:47,82,"latin alternative, rock en español, latin rock, mexican rock","La Trenza",2017-04-27,40,56,0,27,0,10,-5,G Major,3,28UP90XhjCovLtieduYr9P,MXUM71700642
+387,"Gata Only","FloyyMenor,Cris MJ",100,1A,50,2024-04-10,03:42,85,"reggaeton chileno, chilean trap, chilean mambo, reggaeton","Gata Only",2024-02-02,79,45,0,67,0,0,-8,G#/A♭ Minor,4,6XjDF6nds4DE2BBbagZol6,QZL382406049
+388,"Stay Alive (Prod. SUGA of BTS)","Jung Kook",130,7A,76,2024-07-02,03:30,73,"k-pop","Stay Alive (Prod. SUGA of BTS)",2022-02-11,51,30,0,50,0,10,-6,D Minor,4,7CAdT0HdiQNlt1C7xk2hep,USA2P2203296
+389,"curita","Young Miko",102,7A,78,2024-04-12,02:25,54,"trap latino","att.",2024-04-05,81,11,0,63,0,50,-5,D Minor,4,0hov8wwPTkbfw50h3V7x92,QZXD92300013
+390,"HEAVEN AND BACK","Chase Atlantic",194,3A,79,2024-01-26,04:08,77,"","PHASES",2019-06-28,31,9,9,53,0,0,-6,A#/B♭ Minor,4,1JdQibdvxgcrB8Rv1KFndw,QMRSZ1900604
+391,"Santa","Rvssian,Rauw Alejandro,Ayra Starr",100,2A,71,2024-04-16,03:13,74,"trap latino, dancehall, reggaeton, urbano latino, latin, afrobeats, afrobeat, afropop, afro r&b, afropiano, afro soul","Santa",2024-04-04,73,32,0,65,10,10,-5,D#/E♭ Minor,4,5bi0gh89wRuH2OgjdAKFsb,USSD12400112
+392,"Besalo","El Alfa,Rauw Alejandro",147,9A,79,2024-02-16,02:43,72,"dembow, urbano latino, latin, reggaeton, trap latino","El Androide",2020-05-15,77,39,0,61,0,10,-2,E Minor,4,2PUdyEnqZUh3zICKE4Fu8N,USDY42003201
+393,"Favorite","Isabel LaRosa",97,3A,65,2024-04-19,02:13,73,"","Favorite",2024-03-29,73,0,0,63,0,0,-5,A#/B♭ Minor,4,3QJsSWa0Xo8MfaRn1gr4Be,USRC12400507
+394,"GODLESS WOMAN","Gun Boi Kaz",120,4A,47,2024-03-03,02:42,0,"","GODLESS WOMAN",2023-11-17,69,11,0,37,0,10,-12,F Minor,4,515UNbW1DxLKwES5myqSoy,QZTBC2395310
+395,"more than friends","Isabel LaRosa",74,11A,67,2024-03-21,02:27,58,"","YOU FEAR THE GOD THAT LOVES YOU",2023-03-24,50,3,0,30,0,10,-6,F#/G♭ Minor,4,3QwlKiTMoOzXvOpzvCMUH6,USRC12300405
+396,"Algo Muy Raro","Morad",134,9A,64,2024-02-04,03:09,50,"","Algo Muy Raro",2024-01-22,87,41,0,54,20,0,-7,E Minor,4,1iolp9g0bzkeryDL4t2ub0,QM4TW2434492
+397,"LET THE WORLD BURN","Chris Grey",93,4A,56,2024-04-21,02:43,81,"dark r&b","LET THE WORLD BURN",2024-03-08,38,13,0,25,0,10,-7,F Minor,4,1De425SCFJULIHbcmeebUw,QZZ662445642
+398,"Мой мармеладный (Speed Up)","Katya Lel",144,1A,77,2024-04-29,03:08,0,"","Мой мармеладный (Speed Up)",2023-05-03,71,2,0,96,0,10,-4,G#/A♭ Minor,4,6qNHJwdMhNZzyJ7yTDU8zD,RUA1D2343517
+399,"3D (feat. Jack Harlow)","Jung Kook,Jack Harlow",108,3B,82,2024-02-25,03:21,77,"k-pop, ","3D : The Remixes",2023-10-02,85,3,0,89,10,0,-3,C♯/D♭ Major,4,01qFKNWq73UfEslI0GvumE,USA2P2346470
+400,"Ingobernable","C. Tangana,Gipsy Kings,Nicolas Reyes,Tonino Baliardo",105,11A,76,2024-04-26,03:07,70,"flamenco, flamenco pop, flamenco urbano","El Madrileño",2021-02-26,71,20,0,74,0,0,-6,F#/G♭ Minor,4,3SK45LddxlEkzI8OWO9Eyo,ES5022100004
+401,"Blood Sweat & Tears","BTS",93,5A,89,2024-02-25,03:37,78,"k-pop","Wings",2016-10-10,58,2,0,61,10,30,-4,C Minor,4,2u54HNQamwFuOMLSuhSRom,KRA381601892
+402,"La Seine - Extrait de la bande originale un monstre à Paris","Vanessa Paradis,-M-",113,7A,67,2024-05-19,02:47,65,"variété française, chanson, french pop, french house","Best Of & Variations",2019-11-29,74,43,0,40,0,10,-8,D Minor,4,4B6XjmOWI55np7y4MUTXDu,FR86U1100001
+403,"Tinnitus (Wanna be a rock)","TOMORROW X TOGETHER",100,4A,73,2024-05-20,02:37,67,"k-pop","The Name Chapter: TEMPTATION",2023-01-27,90,18,0,79,10,0,-6,F Minor,4,0f0SbtoKGe41cX5LzlnX6X,USA2P2243434
+404,"Addicted to You","Shakira",126,8B,81,2024-05-22,02:27,80,"latin pop","Sale el Sol",2010-10-19,89,4,14,97,0,0,-6,C Major,4,4zy1s9GnxWsNzZp1688euA,USSD11000366
+405,"Tutank’mon","Alan Sutton y las criaturitas de la ansiedad",108,10B,61,2024-05-11,02:32,67,"cuarteto","Algo Tiene Que Cambiar",2023-05-19,61,7,0,84,0,10,-7,D Major,4,6KDSrToeuM3UGiqEB1qNRN,ARAYA2300001
+406,"Perfecta","Miranda!",170,8B,73,2024-05-19,03:45,79,"latin pop","El Templo del Pop",2008-04-01,65,18,0,84,0,30,-5,C Major,4,09QfIIP4NUx4A3thmovb2o,ARF840700407
+407,"Don","Miranda!",120,2B,74,2024-05-19,03:03,77,"latin pop","El Templo del Pop",2008-04-01,82,2,0,96,0,0,-5,F#/G♭ Major,4,0WajUW5XINeraP2w0F3F8E,ARF840400173
+408,"Traición","Miranda!",132,8A,90,2024-05-19,03:01,67,"latin pop","El Templo del Pop",2008-04-01,77,4,0,86,0,0,-4,A Minor,4,6c0RkVllf6V7FPy1EUCclz,ARF840400182
+409,"New Jeans","NewJeans",134,9A,72,2024-05-20,01:48,79,"k-pop","NewJeans 'Super Shy'",2023-07-07,81,51,0,53,0,10,-6,E Minor,4,6rdkCkjk6D12xRpdMXy0I2,USA2P2330067
+410,"House Of Balloons / Glass Table Girls","The Weeknd",89,8B,71,2024-05-20,06:45,75,"","Trilogy",2012-11-13,65,1,1,32,0,30,-5,C Major,4,50iiDJGpAPdr2VTrz999XA,USUM71212069
+411,"ADIVINO","Myke Towers,Bad Bunny",118,3A,85,2024-05-31,04:38,73,"reggaeton, trap latino, urbano latino, latin","ADIVINO",2024-04-25,79,17,0,52,0,10,-2,A#/B♭ Minor,4,0LZy30mVmxqUpdQmaXKXBd,USWL12401327
+412,"REAL GANGSTA LOVE","Trueno",97,9A,64,2024-06-25,02:25,76,"argentine trap","EL ÚLTIMO BAILE",2024-05-23,83,39,0,57,0,30,-5,E Minor,4,1pymWRCuZfCd0zdiBJo0Hj,US66W2401066
+413,"Se Preparó","Ozuna",171,3B,82,2024-02-04,03:08,84,"reggaeton, trap latino, latin, urbano latino","Odisea",2017-08-25,74,22,0,69,0,30,-4,C♯/D♭ Major,4,1m69ELEgE6k5ZWsap40ozt,USXDR1700552
+414,"Síguelo Bailando","Ozuna",98,8A,66,2024-06-25,03:46,73,"reggaeton, trap latino, latin, urbano latino","Odisea",2017-08-25,86,17,0,63,0,0,-7,A Minor,4,5Y9fnynLlIvqtM710MHzfz,USXDR1700560
+415,"My Time","BTS",100,5A,64,2024-05-26,03:54,68,"k-pop","MAP OF THE SOUL : 7",2020-02-21,67,15,0,66,0,0,-5,C Minor,4,0YJFlxeHMUr9MxSDQVuQJA,QM4TX2001947
+416,"ON","BTS",106,8A,82,2024-05-26,04:06,75,"k-pop","MAP OF THE SOUL : 7",2020-02-21,58,12,0,44,10,30,-5,A Minor,4,0fZRNhPJ4AGmwY7rkpdbqK,QM4TX2001949
+417,"Filter","BTS",110,3A,76,2024-05-26,03:00,69,"k-pop","MAP OF THE SOUL : 7",2020-02-21,78,2,0,86,0,10,-5,A#/B♭ Minor,4,4bZZVcgWWMWPBwzTTp642w,QM4TX2001946
+418,"Black Swan","BTS",147,7A,76,2024-02-02,03:18,67,"k-pop","Black Swan",2020-01-17,72,14,0,49,0,10,-5,D Minor,4,6wH3AP7b01vpzKYRJhreMy,QM4TW2013921
+419,"Troublemaker (feat. Flo Rida)","Olly Murs,Flo Rida",106,5A,86,2024-05-04,03:05,76,"","Right Place Right Time (Expanded Edition)",2012-11-26,76,2,0,97,0,10,-4,C Minor,4,6s8nHXTJVqFjXE4yVZPDHR,GBARL1201891
+420,"La vaguelette","HOYO-MiX,Cécilia Cara",110,5A,31,2024-05-05,02:29,59,"soundtrack, ","Genshin Impact - La vaguelette (Original Game Soundtrack)",2023-11-13,50,35,0,11,0,30,-9,C Minor,4,2BaGvcAlSSQE8zNLXM4VGv,DGA0L2373345
+421,"Moves Like Jagger","Maroon 5,Christina Aguilera",128,10A,75,2024-05-01,03:22,72,"pop, ","Singles",2015-09-25,72,1,0,60,0,30,-4,B Minor,4,1r299qCKBLgUS9XJ9m1kEx,USUM71109132
+422,"Lose My Breath (Feat. Charlie Puth)","Stray Kids,Charlie Puth",133,4A,71,2024-05-10,02:46,66,"k-pop, noise music, soft pop","Lose My Breath (Feat. Charlie Puth)",2024-05-10,82,17,0,59,10,10,-5,F Minor,4,2DXavoWAmIHlrECHPM1Vca,US5TA2400074
+423,"Mamichula - con Nicki Nicole","Trueno,Nicki Nicole,Bizarrap,Taiu,tatool",92,9A,68,2024-04-24,03:39,75,"argentine trap, trap latino, urbano latino","Atrevido",2020-07-23,70,58,0,35,0,10,-6,E Minor,4,0TUW9faHNaBmi89wsYGp9y,ARRWN2000010
+424,"Love Again","Dua Lipa",116,10A,67,2024-06-12,04:18,79,"pop","Future Nostalgia",2020-03-27,66,0,0,47,0,10,-5,B Minor,4,4rPkN1FMzQyFNP9cLUGIIB,GBAHT1901302
+425,"Gitana (feat. Bryartz)","Pablo Chill-E,Bryartz",105,11A,71,2024-06-25,03:41,69,"chilean trap, reggaeton chileno, chilean mambo, mambo, argentine trap, urbano latino","Los Gangsters Tambien Lloran",2024-03-29,77,4,8,52,10,20,-3,F#/G♭ Minor,4,4mnpgUTLYMs3XFpqTWxVyA,USLD91757183
+426,"bye","Ariana Grande",110,7A,65,2024-03-14,02:44,75,"pop","eternal sunshine",2024-03-08,61,20,0,45,0,10,-5,D Minor,4,1Rweq7vNjK4kZBbGrmxQsl,USUM72317269
+427,"the boy is mine","Ariana Grande",98,6A,63,2024-06-20,02:53,78,"pop","eternal sunshine",2024-03-08,80,16,0,45,0,0,-6,G Minor,4,0Lmbke3KNVFXtoH2mMSHCw,USUM72317268
+428,"eternal sunshine","Ariana Grande",160,11B,50,2024-03-15,03:30,73,"pop","eternal sunshine",2024-03-08,65,53,0,35,10,10,-7,A Major,4,3RwWW7KeVhHGayYJgUL5eZ,USUM72317272
+429,"Mala Mujer","C. Tangana",101,5A,73,2024-06-25,03:42,68,"","Mala Mujer",2017-05-26,84,24,0,47,10,0,-5,C Minor,4,6puxHBNwu2Nmm7uD3Rd2MP,ES5021701596
+430,"Army Dreamers","Kate Bush",144,9A,7,2024-07-06,02:58,72,"art pop, baroque pop, art rock","Never for Ever",1980-09-08,68,74,0,32,0,0,-22,E Minor,3,6OmdWLjlx4BIDGEO8BZlqH,GBAYE8000334
+431,"Please don’t…","K.Will",95,10A,69,2024-07-08,03:32,58,"k-ballad, soundtrack","The 3rd Album Part.1",2012-10-11,70,44,0,49,0,30,-6,B Minor,4,5dh87xGcp4YqDFBc86Mh47,KRA381202073
+432,"I Like It","Stray Kids",145,4A,85,2024-07-19,02:28,76,"k-pop, noise music","ATE",2024-07-19,80,6,0,47,0,10,-3,F Minor,4,04A4WyCRyHQ8Nb3u3IsfzH,US5TA2400142
+433,"Forever Young","Alphaville",137,8A,48,2024-07-24,03:46,85,"synthpop","Forever Young",1984-00-00,49,42,0,33,0,20,-9,A Minor,4,4S1VYqwfkLit9mKVY3MXoo,DEA629260150
+434,"Can You Feel The Love Tonight","Elton John",122,6B,37,2024-07-24,04:00,59,"","Love Songs",1995-11-06,30,82,0,15,0,10,-9,A#/B♭ Major,4,67HKtdqchK0rmODxsBeWT8,USAMP9400001
+435,"BOOMBAYAH","BLACKPINK",125,4A,84,2024-08-01,04:00,77,"k-pop","SQUARE ONE",2016-08-08,66,0,0,40,0,50,-3,F Minor,4,13MF2TYuyfITClL1R2ei6e,KRA401600169
+436,"I Bet on Losing Dogs","Mitski",82,11B,49,2024-08-02,02:50,81,"","Puberty 2",2016-06-17,40,0,0,41,0,10,-10,A Major,4,2Co0IjcLTSHMtodwD4gzfg,USJ5G1612306
+437,"Prayer X","King Gnu",174,1B,58,2024-08-02,03:17,49,"j-pop, anime, j-rock","Prayer X",2018-08-10,49,45,0,39,10,20,-7,B Major,4,6VvXSjTQMP6eInrjz4kq2W,JPU901802251
+438,"FREEDOM","BLUE ENCOUNT",102,10A,93,2024-08-02,04:01,40,"anime, j-rock, j-pop","FREEDOM",2018-11-21,47,0,0,25,0,20,-3,B Minor,4,2bHdWI2uCxPJIAACBQLsgm,JPU901803159
+439,"found & lost","Survive Said The Prophet",104,12A,99,2024-08-02,03:08,43,"anime, j-rock","found & lost",2018-08-01,53,0,0,32,0,30,-2,C♯/D♭ Minor,4,6p6gnTZSUmF9hdIRlhgB4X,JPP301800365
+440,"RED","Survive Said The Prophet",108,7B,69,2024-08-02,04:13,49,"anime, j-rock","RED",2018-12-12,45,2,0,42,0,30,-5,F Major,4,5pz5S3ZqMPnd8or4IGUVho,JPU901803813
+441,"SLASH (From “Deadpool & Wolverine”)","Stray Kids",160,3B,72,2024-08-07,03:11,59,"k-pop, noise music","SLASH (From “Deadpool & Wolverine”)",2024-07-23,68,1,0,41,20,10,-5,C♯/D♭ Major,4,2MKGrYH1PyPAUKu2Sl8IaT,US5TA2400155
+442,"3 PECADOS DESPUES…","Milo j",111,3B,38,2024-08-17,01:58,77,"argentine trap","166",2024-07-11,78,40,0,54,10,0,-9,C♯/D♭ Major,3,16iLGYXMiLUhvqTEIu4pKB,UYB282480146
+443,"BADGYAL","SAIKO,JC Reyes,Dei V",95,4B,94,2024-08-17,04:13,70,"trap latino, urbano latino","SAKURA",2024-04-26,60,11,0,71,0,20,-1,G#/A♭ Major,4,3ng8tfwvzR4BBwa9yaMms6,QM4TX2482887
+444,"New Woman (feat. ROSALÍA)","LISA,ROSALÍA",141,9B,85,2024-08-17,02:59,70,"k-pop, latin","New Woman (feat. ROSALÍA)",2024-08-15,48,9,0,31,20,0,-5,G Major,5,7ov3TDp5D00Rnu5R1viX4w,USRC12402243
+445,"No Ponga Excusas","Cris MJ",100,11A,51,2024-08-17,02:44,72,"reggaeton chileno, chilean trap, chilean mambo, reggaeton","No Ponga Excusas",2024-06-20,61,39,29,60,10,10,-8,F#/G♭ Minor,4,21hsqOOUfdSjHi3SVz8oyv,QM6P42448975
+446,"Bound 2","Kanye West",149,3B,67,2024-08-17,03:49,85,"rap","Yeezus",2013-06-18,37,14,0,31,0,10,-3,C♯/D♭ Major,4,3sNVsP50132BTNlImLx70i,USUM71307523
+447,"BIRDS OF A FEATHER","Billie Eilish",105,10B,51,2024-08-20,03:30,94,"","HIT ME HARD AND SOFT",2024-05-17,75,20,6,44,0,10,-10,D Major,4,6dOtVTDdiauQNBQEDOtlAB,USUM72401994
+448,"Freak","Doja Cat",117,9B,72,2024-08-26,04:44,78,"","Freak",2020-08-07,69,10,0,37,0,10,-6,G Major,3,3aA6xB0tOilDDX17fIJ0Bl,USRC12002580
+449,"Freak","Lana Del Rey",94,4A,43,2024-08-26,04:55,70,"","Honeymoon",2015-09-18,29,27,0,11,0,30,-10,F Minor,4,3sYDVtqO35oRSOIMx7dOqR,GBUM71503929
+450,"La Santa","Bad Bunny,Daddy Yankee",93,3B,87,2024-08-30,03:26,81,"reggaeton, trap latino, latin, urbano latino","YHLQMDLG",2020-02-29,74,3,0,59,0,0,-5,C♯/D♭ Major,4,69vlMrzHwATKzupwNcUPyK,QM4TX2030933
+451,"A Tu Merced","Bad Bunny",92,8B,79,2024-08-30,02:55,79,"reggaeton, trap latino, latin, urbano latino","YHLQMDLG",2020-02-29,86,17,0,89,0,10,-5,C Major,4,4r9jkMEnArtWGH2rL2FZl0,QM4TX2030959
+452,"PELIGROSA","FloyyMenor",100,11A,44,2024-08-30,02:14,76,"reggaeton chileno","PELIGROSA",2024-07-12,78,32,0,84,0,0,-9,F#/G♭ Minor,4,5PCGEfALcpGtURIuTqvX0R,QZNMT2414551
+453,"Die With A Smile","Lady Gaga,Bruno Mars",158,11A,59,2024-08-30,04:11,91,"art pop, pop, ","Die With A Smile",2024-08-16,52,31,0,54,0,10,-8,F#/G♭ Minor,3,2plbrEY59IikOBgBGLjaoe,USUM72409273
+454,"Otaku Hot Girl","Megan Thee Stallion",158,8B,76,2024-09-06,02:38,65,"","MEGAN",2024-06-28,76,7,0,51,0,10,-3,C Major,4,6saYisCUAZXc505blie9kZ,USAT22405476
+455,"Wanna Be (with Megan Thee Stallion)","GloRilla,Megan Thee Stallion",135,3B,63,2024-09-06,02:36,73,"","Ehhthang Ehhthang",2024-04-05,92,2,0,41,30,10,-5,C♯/D♭ Major,4,7mOC6phfrfz3jfigg1aGsE,USUM72403374
+456,"Me and My Husband","Mitski",172,3B,64,2024-09-09,02:17,73,"","Be the Cowboy",2018-08-17,50,5,0,77,0,30,-5,C♯/D♭ Major,4,3pANfZVFdtuVnJsE6xa5Ox,USJ5G1815007
+457,"Fiebre - Prod. King DouDou","Bad Gyal",98,9B,72,2024-09-22,04:07,16,"neoperreo","Slow Wine Mixtape",2016-11-11,42,27,0,24,0,20,-6,G Major,4,5xtxxuIqInrLDSfjA6Co3o,ES71G1637592
+458,"Dancing In The Flames","The Weeknd",117,3B,73,2024-11-05,03:40,75,"","Dancing In The Flames",2024-09-13,55,0,0,16,0,0,-6,C♯/D♭ Major,4,7z7kvUQGwlC6iOl7vMuAr9,USUG12405844
+459,"Booty","C. Tangana,Becky G",103,3B,77,2024-11-06,02:53,61,"reggaeton, latin","Booty",2018-10-24,83,2,0,72,0,0,-4,C♯/D♭ Major,4,4W3FJapn5CD6Fnrlfj4HFe,ES5021800937
+460,"Consume (feat. Goon Des Garcons)","Chase Atlantic,GOON DES GARCONS*",146,8A,71,2024-11-07,04:27,78,"","Chase Atlantic",2017-10-04,56,7,0,43,10,20,-5,A Minor,4,0X2bh8NVQ8svDQIn2AdCbW,USWB11701710
+461,"La Nave del Olvido","José José",94,8A,31,2024-11-08,03:35,72,"bolero, bacardi","La Nave del Olvido",1998-00-00,32,76,0,47,0,10,-9,A Minor,3,2pOyQcM91HM3tZEiwZCraG,MXF019201201
+462,"DIABLA","Los Diozes",174,3A,59,2024-11-08,03:37,16,"","HOTEL MALIGNO",2024-10-17,54,79,0,72,50,60,-8,A#/B♭ Minor,4,00EWeXw1RLUwCMw8pxtXAE,QZWFJ2477312
+463,"黄昏のBAY CITY","Junko Yagami",115,8A,84,2024-11-10,04:10,60,"city pop, kayōkyoku, j-pop","黄昏のBAY CITY",1983-11-21,78,50,0,84,0,30,-5,A Minor,4,4wUQvovMEkByMvZNCecZ9v,JPTE08372300
+464,"SHYNESS BOY","Anri",120,12A,78,2024-11-10,03:16,61,"city pop, j-pop, kayōkyoku","Timely!!",1983-12-05,77,14,0,87,0,10,-5,C♯/D♭ Minor,3,7KYzARBusZhyZ6jygZDmVr,JPFL08310280
+465,"El Perdedor","Maluma",174,5A,73,2024-11-21,03:27,82,"reggaeton, latin, urbano latino","Pretty Boy, Dirty Boy",2015-10-30,70,43,0,88,10,10,-5,C Minor,4,1iEwyiSLAunPR6uouANE0O,USSD11500323
+466,"Revolú","Rauw Alejandro,Feid",196,11B,69,2024-11-21,03:35,67,"reggaeton, urbano latino, trap latino, latin","Cosa Nuestra",2024-11-15,73,6,0,44,10,10,-4,A Major,4,4lqJsJd7kqWVvamQ4aFHA8,USQX92403911
+467,"MY LOVE","FloyyMenor,Lewis Somes",100,11B,56,2024-11-21,02:52,62,"reggaeton chileno","MY LOVE",2024-11-14,64,10,0,38,0,20,-6,A Major,4,2ajOfRsIVgVO4pmjeCPIzp,QZNMX2455819
+468,"AEAO","Dynamicduo,DJ Premier",153,10B,76,2024-11-21,05:16,75,"k-rap, k-pop, east coast hip hop","A Giant Step",2014-07-16,45,6,0,58,10,10,-6,D Major,4,3TPvrMAd1hbPRXuHCRX0Pl,KRA381208477
+469,"+57","KAROL G,Feid,DFZM,Ovy On The Drums,J Balvin,Maluma,Ryan Castro,Blessd",92,12A,71,2024-11-21,04:58,80,"reggaeton, latin, urbano latino","+57",2024-11-08,85,22,0,69,10,10,-4,C♯/D♭ Minor,4,3mg9jYNC1NihbthlglzrWP,USUG12407854
+470,"CASI ALGO","Blessd,Ovy On The Drums",91,9B,83,2024-11-21,02:43,60,"reggaeton, urbano latino","CASI ALGO",2024-09-05,68,51,0,47,0,40,-5,G Major,4,6tuLAQURf4P97dD750iTaJ,QZZ3N2400075
+471,"Goteras","Omar Montes,JC Reyes",96,11A,82,2024-11-21,03:36,64,"flamenco, flamenco urbano, flamenco pop, ","Goteras",2024-06-27,63,41,0,35,0,10,-3,F#/G♭ Minor,4,4sykJxUsqdXZRqRv1J9fEQ,USSD12400408
+472,"Juguete","Yan Block,NTG,SAIKO,SHB",98,10B,56,2024-11-21,03:23,70,"dembow, ","Juguete",2024-10-31,75,16,23,12,0,10,-9,D Major,4,4z46E3coZuv7TeGawEd4Ze,QMDA72414635
+473,"PIÉNSALO","Junior H",98,7A,54,2024-11-21,04:00,84,"corridos tumbados, corrido, corridos bélicos, sad sierreño, sierreño, música mexicana, banda","$AD BOYZ 4 LIFE II",2023-10-05,72,45,0,36,0,20,-8,D Minor,3,4ZOkfHC38nxSeSqzGE5HFr,QZ9QQ2300731
+474,"Luna llena","Beny Jr",62,10B,60,2024-11-21,02:49,68,"drill","Anti Social Cool Kid",2024-02-15,67,62,0,74,20,0,-5,D Major,4,6mnfGyPzbzSe8olYGM44pU,QM4TW2490810
+475,"Después De La 1","Cris MJ,FloyyMenor,LOUKI",100,11A,58,2024-11-21,02:57,76,"reggaeton chileno, chilean trap, chilean mambo, reggaeton","MJ",2024-09-12,81,3,2,53,0,0,-5,F#/G♭ Minor,4,6PhRhocBXP4y7NpciGmzra,QMBZ92494825
+476,"Khé?","Rauw Alejandro,Romeo Santos",156,9B,63,2024-11-21,03:26,84,"reggaeton, urbano latino, trap latino, latin, bachata","Cosa Nuestra",2024-11-15,69,33,0,47,10,0,-5,G Major,4,1YYfyJ2yCvGFCxwjsIqEK9,USQX92403929
+477,"Qué Pasaría...","Rauw Alejandro,Bad Bunny",105,9A,56,2024-11-16,03:11,89,"reggaeton, urbano latino, trap latino, latin","Cosa Nuestra",2024-11-15,83,53,0,34,20,10,-6,E Minor,4,0l0vcZMU7AOeQmUIREoI2U,USQX92404984
+478,"Una Velita","Bad Bunny",114,9A,83,2024-11-21,03:59,61,"reggaeton, trap latino, latin, urbano latino","Una Velita",2024-09-19,57,72,1,13,10,10,-7,E Minor,4,059qzhNaJb8tsqpdl2bHfF,QMDA62421239
+479,"Just the Two of Us","Grover Washington, Jr.,Bill Withers",95,3A,43,2024-02-04,07:23,75,"soul jazz, smooth jazz, soul","Winelight",1980-00-00,74,45,36,60,0,0,-15,A#/B♭ Minor,4,5fdNHVZHbWB1AaXk4RBGVD,USEE10900522
+480,"El Farsante","Ozuna",120,2B,70,2024-11-24,03:53,81,"reggaeton, trap latino, latin, urbano latino","Odisea",2017-08-25,74,20,0,32,0,20,-4,F#/G♭ Major,4,5EId1m4DNwTf3at31w8bPJ,USXDR1700562
+481,"不完全モノクローグ","Tomohisa Sako",133,4A,94,2024-11-27,04:03,34,"anime","さこともベスト",2019-05-29,36,0,0,56,20,10,-5,F Minor,4,60le8PnRHNCkjGSQ2JEs03,JPU901803495
+482,"Drive (Bang Chan, Lee Know)","Stray Kids",90,6A,71,2024-11-27,02:44,37,"k-pop, noise music","SKZ-REPLAY",2022-12-21,62,30,0,61,0,20,-4,G Minor,4,5cYxIgus2eOBdifCeM6Nkh,US5TA2200184
+483,"Ma Meilleure Ennemie (from the series Arcane League of Legends)","Arcane,Stromae,Pomme",88,9A,60,2024-12-03,02:27,76,"score, french pop","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,68,0,0,37,10,20,-8,E Minor,4,2LwsunYgfRoqyIsNtgOCQx,USA2P2459602
+484,"Enemy (with JID) - from the series Arcane League of Legends","Imagine Dragons,JID,Arcane,League of Legends",77,10A,78,2024-12-03,02:53,80,"score, ","Mercury - Acts 1 & 2",2022-07-01,73,24,0,56,20,40,-4,B Minor,4,3CIyK1V4JEJkg02E4EJnDl,USUM72119916
+485,"Wasteland (from the series Arcane League of Legends)","Arcane,Royal & the Serpent",139,7B,32,2024-12-03,02:41,66,"score, ","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,43,83,0,19,0,10,-10,F Major,3,5r9OlaHzqlOKkFAv0q5Gm3,USA2P2459607
+486,"Solo Pienso En Ti (feat. De La Ghetto & Justin Quiles)","Paulo Londra,De La Ghetto,Justin Quiles",130,3B,70,2024-12-09,04:28,66,"argentine trap, trap latino, reggaeton, urbano latino","Homerun",2019-05-23,86,10,0,59,0,10,-5,C♯/D♭ Major,4,3H9GDhVVTlmFQSmpt51qiP,USWL11900128
+487,"You See Big Girl / T:T","Sawano Hiroyuki",87,6A,68,2024-12-09,05:59,65,"anime, soundtrack","TV Anime  Attack on Titan Season 2  (Original Soundtrack)",2017-06-07,19,1,88,23,0,10,-8,G Minor,4,4dHOnPucB5VBYq3gjRtYy9,JPPC01700989
+488,"Guns for Hire (from the series Arcane League of Legends)","Woodkid,Arcane,League of Legends",140,2A,30,2024-12-11,03:46,62,"score, ","Guns for Hire (from the series Arcane League of Legends)",2021-11-13,25,29,0,11,0,10,-8,D#/E♭ Minor,4,38x5NsjgoLaYCnhAghHdyo,QZH6S1900388
+489,"The Line (from the series Arcane League of Legends)","Arcane,Twenty One Pilots",143,8A,47,2024-12-13,03:12,75,"score, ","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,56,26,0,32,0,0,-10,A Minor,4,1QJbDTZAO8rpGOMG4UahFM,USA2P2459604
+490,"Railway (Bang Chan)","Stray Kids",118,9A,77,2024-12-13,02:53,70,"k-pop, noise music","HOP",2024-12-13,53,2,0,20,0,10,-4,E Minor,4,4vNhzQfgfWIzOxbB8HfIHa,US5TA2400328
+491,"Hold my hand (HAN)","Stray Kids",160,7B,99,2024-12-13,02:59,69,"k-pop, noise music","HOP",2024-12-13,52,0,0,47,40,30,-3,F Major,4,6U9CTAof4KBnyzDt8OYY75,US5TA2400334
+492,"Fantastic (from the series Arcane League of Legends)","Arcane,King Princess",106,7B,64,2024-12-18,03:04,66,"score, ","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,56,0,0,29,0,10,-7,F Major,4,071uK6V3dKj3BMNNzTEyRu,USA2P2459603
+493,"SI NO ES CONTIGO","Cris MJ",100,4A,63,2024-12-27,02:36,80,"reggaeton chileno, chilean trap, chilean mambo, reggaeton","SI NO ES CONTIGO",2024-05-23,76,9,23,78,0,20,-6,F Minor,4,5Uptvz6j1sjDKxidAcnH2L,QM6N22466972
+494,"Pose","Daddy Yankee",117,1B,88,2024-12-28,03:37,2,"reggaeton, latin","Talento de Barrio",2008-08-12,81,4,0,47,0,30,-4,B Major,4,7MmVXDISr1AEsJTjNiAlMG,QM7281713563
+495,"Remember Me (from the series Arcane League of Legends)","Arcane,d4vd",131,5A,59,2025-01-05,02:02,67,"score, ","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,48,13,39,37,0,20,-8,C Minor,4,2fQwoYSzWzChmIB2zZwrGL,USA2P2459595
+496,"Sucker (from the series Arcane League of Legends)","Arcane,Marcus King",148,1A,75,2025-01-05,03:44,68,"score, modern blues, blues rock","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,48,2,0,57,0,10,-6,G#/A♭ Minor,4,0osQqNcvhl7pD6FtjOcT9T,USA2P2459590
+497,"To Ashes and Blood (from the series Arcane League of Legends)","Arcane,Woodkid",85,2B,70,2025-01-06,04:05,68,"score, ","Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",2024-11-23,48,1,4,29,0,10,-7,F#/G♭ Major,4,1NzNNQuppVgVYrm2hvrPK2,USA2P2459593
+498,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)","Lil Wayne,Wiz Khalifa,Imagine Dragons,X Ambassadors,Logic,Ty Dolla $ign",169,8A,79,2025-01-08,04:03,79,"rap, hip hop, trap soul","Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",2016-06-24,50,26,0,74,30,60,-4,A Minor,4,4dASQiO1Eoo3RJvt74FtXB,USAT21601893
+499,"Real Man","beabadoobee",130,3A,75,2025-01-22,02:40,79,"bedroom pop","This Is How Tomorrow Moves",2024-08-09,56,64,0,44,0,10,-6,A#/B♭ Minor,4,0OpC8hRrbsh24taKOsQBEX,GBK3W2402964
+500,"Like Him (feat. Lola Young)","Tyler, The Creator,Lola Young",96,9A,56,2025-01-10,04:38,85,"","CHROMAKOPIA",2024-10-28,39,29,0,19,0,10,-7,E Minor,3,6jbYpRPTEFl1HFKHk1IC0m,USQX92405794
+501,"P*RNSTAR","Nessa Barrett",100,11B,82,2025-01-20,02:29,74,"","AFTERCARE",2024-11-15,59,13,1,16,10,30,-5,A Major,4,0IVAYMUDvpzFxIEuGc71SM,USWB12404159
+502,"Womanizer","Britney Spears",139,1B,70,2025-01-20,03:44,83,"pop","Circus (Deluxe Version)",2008-12-02,72,7,0,24,0,0,-5,B Major,4,4fixebDZAVToLbUCuEloa2,USJI10800838
+503,"miau","Young Cister",86,1B,74,2025-01-19,03:05,77,"chilean trap, reggaeton chileno, chilean mambo","miau",2024-06-14,59,9,0,80,0,0,-5,B Major,4,5osSgKDiyrzhLjsEABO6c9,CLPP22400066
+504,"No. 1 Party Anthem","Arctic Monkeys",115,8B,70,2024-12-07,04:03,87,"indie, garage rock","AM",2013-09-09,51,33,9,60,0,10,-6,C Major,4,5TTGoX70AFrTvuEtqHK37S,GBCEL1300367
+505,"Milele","Lorena Gomez,Dariel Ventura",138,2B,47,2025-01-22,02:27,37,"","Mufasa: El Rey León (Banda Sonora Original en Castellano)",2024-12-13,51,71,0,29,0,10,-8,F#/G♭ Major,4,0GK247ndbFgMjBoxGBj7Yj,USWD12435080
+506,"Di que eres tú","Génesis de Jesús,Linda Rodrigo",75,6B,32,2025-01-22,02:27,33,"","Mufasa: El Rey León (Banda Sonora Original en Castellano)",2024-12-13,59,85,0,48,0,10,-12,A#/B♭ Major,4,5pcSMlLUo5APYEyQYk0zuw,USWD12435084
+507,"DtMF","Bad Bunny",136,6A,13,2025-01-24,03:57,97,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,63,18,22,3,0,0,-27,G Minor,4,3sK8wGT43QFpWrvNQsrQya,QMFMF2447070
+508,"BAILE INoLVIDABLE","Bad Bunny",119,6B,0,2025-01-24,06:07,96,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,17,19,79,22,0,10,-46,A#/B♭ Major,3,2lTm559tuIvatlT1u0JYG2,QMFMF2447057
+509,"NUEVAYoL","Bad Bunny",138,2B,20,2025-01-24,03:03,95,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,14,27,100,12,10,20,-20,F#/G♭ Major,4,5TFD2bmFKGhoCRbX61nXY5,QMFMF2447055
+510,"VOY A LLeVARTE PA PR","Bad Bunny",106,9B,60,2025-01-24,02:36,91,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,15,92,45,0,0,40,-35,G Major,3,59D4DOkspUbWyMmbAPQkxZ,QMFMF2447056
+511,"WELTiTA","Bad Bunny,Chuwi",96,9A,30,2025-01-24,03:07,85,"reggaeton, trap latino, latin, urbano latino, ","DeBÍ TiRAR MáS FOToS",2025-01-05,46,87,33,36,60,30,-32,E Minor,3,5WEF0icHWmAZBBMglBd599,QMFMF2447059
+512,"PERFuMITO NUEVO","Bad Bunny,RaiNao",120,8B,3,2025-01-24,03:20,83,"reggaeton, trap latino, latin, urbano latino, ","DeBÍ TiRAR MáS FOToS",2025-01-05,51,100,98,56,0,10,-34,C Major,1,1Q9Efnm5csdCMFynISxL2x,QMFMF2447058
+513,"VeLDÁ","Bad Bunny,Omar Courtz,Dei V",102,3B,98,2025-01-24,03:55,89,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,61,29,0,3,10,40,-19,C♯/D♭ Major,3,7d6yK8v8J484SWH5prIQiE,QMFMF2447060
+514,"EL CLúB","Bad Bunny",111,3A,61,2025-01-24,03:42,81,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,52,46,0,26,0,10,-5,A#/B♭ Minor,4,0iKo4pNNjHHdKUcFARlfCa,QMFME2462255
+515,"KETU TeCRÉ","Bad Bunny",111,4B,28,2025-01-24,04:10,81,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,27,2,49,8,0,10,-32,G#/A♭ Major,3,4c2Pc0NrfkesPR0jff6q3F,QMFMF2447062
+516,"BOKeTE","Bad Bunny",125,3B,7,2025-01-24,03:35,81,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,40,19,96,3,0,10,-33,C♯/D♭ Major,4,79x7xtoCLpf6l32Zz6mWo4,QMFMF2447063
+517,"KLOuFRENS","Bad Bunny",107,3B,13,2025-01-24,03:19,88,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,33,70,71,31,10,10,-32,C♯/D♭ Major,4,4MUrUT38U98olfnyzMBCzm,QMFMF2447064
+518,"TURiSTA","Bad Bunny",91,4B,12,2025-01-24,03:10,82,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,36,46,7,32,50,10,-30,G#/A♭ Major,3,7tCuCjhxzjX2XCz4JiiAsp,QMFMF2447065
+519,"CAFé CON RON","Bad Bunny,Los Pleneros de la Cresta",96,11B,15,2025-01-24,03:48,86,"reggaeton, trap latino, latin, urbano latino, ","DeBÍ TiRAR MáS FOToS",2025-01-05,33,15,0,4,0,40,-27,A Major,4,6VNXmo59yDYgcwLS17UNAW,QMFMF2447066
+520,"PIToRRO DE COCO","Bad Bunny",98,9B,67,2025-01-24,03:26,79,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,64,25,0,54,0,10,-5,G Major,4,14QaXYIK3K3QPtezqxRRPN,QMFMF2447067
+521,"LO QUE LE PASÓ A HAWAii","Bad Bunny",83,1B,0,2025-01-24,03:49,81,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,9,25,0,7,0,20,-54,B Major,4,1Hg0e997pObvZ91w1FCPFk,QMFMF2447068
+522,"EoO","Bad Bunny",64,3A,46,2025-01-24,03:24,94,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,36,75,86,18,0,0,-30,A#/B♭ Minor,4,6J5kc12BW5HuP3d7C3vvx8,QMFMF2447069
+523,"LA MuDANZA","Bad Bunny",174,9B,93,2025-01-24,03:33,83,"reggaeton, trap latino, latin, urbano latino","DeBÍ TiRAR MáS FOToS",2025-01-05,56,98,94,97,0,10,-6,G Major,3,3G7agPwWfcORnWCAGMDOpm,QMFMF2447071
+524,"Silla","Yailin la Mas Viral,Puyalo Pantera",86,8B,62,2025-01-26,02:21,23,"dembow","Silla",2024-12-20,83,0,0,78,20,10,-5,C Major,3,4n3OzPpoNDyHKKu7AeMV5P,QZSYP2416876
+525,"EL CLúB","Bad Bunny",111,3A,61,2025-01-26,03:42,64,"reggaeton, trap latino, latin, urbano latino","EL CLúB",2024-12-05,52,46,0,26,0,10,-5,A#/B♭ Minor,4,3zOgFY5kpQ6p2cwPIquZks,QMFME2462255
+526,"DONDE TE ESCONDES?","Yapi,Robinson",124,2B,65,2025-01-28,02:14,64,"latin afrobeats, ","DONDE TE ESCONDES?",2025-01-16,49,18,0,78,10,0,-6,F#/G♭ Major,3,7DiNJqM6uyiYqqWX1wsqxG,BK4DA2500895
+527,"Corazón Puro","Rvfv,Morad,Rels B",105,3A,70,2025-01-28,03:46,1,"flamenco urbano, flamenco, urbano latino, trap latino","Corazón Puro",2025-01-24,79,14,20,63,10,20,-7,A#/B♭ Minor,4,1yNYyCDT267YVxs5qSmnYZ,ES71G2500880
+528,"Parte & Choke","Jombriel,Alex Krack,Jøtta",117,4A,65,2025-01-28,03:25,72,"salsa choke, rkt","Parte & Choke",2024-11-05,73,1,0,88,30,10,-4,F Minor,5,0STW8nw4lNN4TEQ8KmNer6,QZW9K2470856
+529,"Triple Impacto","Beny Jr,Julianno Sosa",108,9A,74,2025-01-28,03:18,0,"drill, chilean trap, reggaeton chileno, chilean mambo, mambo","Champions Street League",2024-12-30,79,66,0,65,0,10,-4,E Minor,4,28uKuAQpVIB9mTr3BLGu66,QMFMF2456978
+530,"Yo sé","Yan Block,TORRRES",136,4A,46,2025-01-28,02:09,83,"","Yo sé",2024-05-23,72,68,0,63,10,10,-10,F Minor,4,5DdLSEyKh8zgCrJq2hFj92,QM6N22474397
+531,"HALO","Quevedo,La Pantera",100,10A,79,2025-01-28,03:01,60,"","HALO",2024-11-20,83,28,0,62,0,10,-5,B Minor,4,5ufdUMpR5urDWj8LbsomJi,ES03H2400010
+532,"SE FUE","Moncho Chavea,Morad",119,3A,74,2025-01-28,02:56,41,"flamenco, flamenco urbano, flamenco pop, ","SE FUE",2024-12-19,79,48,1,38,10,0,-4,A#/B♭ Minor,4,1QAvmMUR9gDtKr9OCtCzh1,ESUM72402063
+533,"Te Regalo","Rels B,J Abecia",119,9A,52,2025-01-28,02:27,72,"urbano latino, trap latino, flamenco urbano, flamenco","Te Regalo",2024-12-04,61,39,0,51,10,10,-6,E Minor,5,2318Aoqig6HS9YkHGlAm8T,UYB282476733
+534,"Lo Que Tiene","Morad,Beny Jr,Rvfv",100,3B,77,2025-01-28,04:19,75,"drill, flamenco urbano, flamenco","Lo Que Tiene",2024-03-08,76,35,0,38,0,10,-5,C♯/D♭ Major,4,6RqD0fpAaKEZvQd0QrTj7j,QM4TX2442925
+535,"Q U E V A S H A C E R H O Y ?","Omar Courtz,De La Rose",155,11A,68,2025-01-28,03:44,84,"","PRIMERA MUSA",2024-09-20,56,10,0,39,20,10,-6,F#/G♭ Minor,4,0Sr7ssScx54yxdM2ols7nW,USNPW2400899
+536,"444","Yan Block,Panda Black",119,12A,61,2025-01-28,02:55,83,"","444",2024-04-04,44,15,0,22,0,10,-8,C♯/D♭ Minor,5,1o4xkdBe0RjSf2u6VXi4OI,QM4TX2494300
+537,"Espresso","Sabrina Carpenter",104,8B,78,2025-01-28,02:55,88,"pop","Short n' Sweet",2024-08-23,70,13,0,71,0,20,-5,C Major,4,2HRqTpkrJO5ggZyyK6NPWz,USUM72403305
+538,"tv off (feat. lefty gunplay)","Kendrick Lamar,Lefty Gunplay",100,11A,53,2025-01-28,03:40,85,"hip hop, west coast hip hop, mexican hip hop","GNX",2024-11-22,86,8,0,55,20,40,-7,F#/G♭ Minor,4,0aB0v4027ukVziUGwVGYpG,USUG12408493
+539,"Disease","Lady Gaga",101,10A,92,2025-01-29,03:49,69,"art pop, pop","Disease",2024-10-25,56,5,0,50,10,40,-3,B Minor,4,19KlZwqlT3fguP2BeHF1Q1,USUM72407015
+540,"History Maker","DEAN FUJIOKA",67,11B,67,2025-02-07,03:10,14,"anime","History Maker",2016-10-07,40,10,0,46,0,0,-4,A Major,4,3QjIdDDKoZRyfWDKZC4Ayb,JPJ221600936
+541,"Abracadabra","Lady Gaga",126,3A,91,2025-02-07,03:43,79,"art pop, pop","Abracadabra",2025-02-03,68,1,0,63,0,20,-3,A#/B♭ Minor,4,5ZLUm9eab8y3tqQ1OhQSHI,USUM72412581
+542,"WILDFLOWER","Billie Eilish",148,11A,25,2025-02-09,04:21,92,"","HIT ME HARD AND SOFT",2024-05-17,47,61,0,13,0,10,-12,F#/G♭ Minor,4,3QaPy1KgI7nu9FJEQUgn6h,USUM72401993
+543,"CHIHIRO","Billie Eilish",110,9B,43,2025-02-09,05:03,87,"","HIT ME HARD AND SOFT",2024-05-17,70,14,88,52,0,0,-13,G Major,4,7BRD7x5pt8Lqa1eGYC4dzj,USUM72401988
+544,"The Abyss (feat. Lana Del Rey)","The Weeknd,Lana Del Rey",85,5A,40,2025-02-13,04:42,75,"","Hurry Up Tomorrow",2025-01-31,19,23,0,6,0,10,-9,C Minor,4,5ZDKPFRZC6QlJpf8bCIXTs,USUG12501144
+545,"Wake Me Up (feat. Justice)","The Weeknd,Justice",111,3B,51,2025-02-13,05:08,70,"french house, new rave","Hurry Up Tomorrow",2025-01-31,60,0,0,18,0,50,-9,C♯/D♭ Major,4,5673WA8EEUSPx1ir26lhGW,USUG12501128
+546,"Cry For Me","The Weeknd",120,6A,65,2025-02-13,03:44,81,"","Hurry Up Tomorrow",2025-01-31,65,9,0,42,0,60,-6,G Minor,4,3AWDeHLc88XogCaCnZQLVI,USUG12501129
+547,"São Paulo (feat. Anitta)","The Weeknd,Anitta",127,4A,66,2025-02-13,05:01,85,"brazilian pop, funk pop, brazilian funk, funk carioca","Hurry Up Tomorrow",2025-01-31,54,4,0,55,0,50,-7,F Minor,4,7DY756WOLyOz2Xnhw4EFiC,USUG12405846
+548,"I Can't Wait To Get There","The Weeknd",146,12A,44,2025-02-13,03:08,65,"","Hurry Up Tomorrow",2025-01-31,65,54,0,12,0,10,-10,C♯/D♭ Minor,4,0bcZ7xN9IcjSNxLerzR2yl,USUG12501138
+549,"Timeless (feat Playboi Carti)","The Weeknd,Playboi Carti",120,10A,78,2025-02-13,04:16,90,"rage rap","Hurry Up Tomorrow",2025-01-31,77,7,0,60,0,10,-5,B Minor,4,0FIDCNYYjNvPVimz5icugS,USUG12406536
+550,"Drive","The Weeknd",152,5A,56,2025-02-13,03:08,63,"","Hurry Up Tomorrow",2025-01-31,58,17,0,23,0,10,-7,C Minor,4,6i5fDaCzwxRrZtuvvcqoIf,USUG12501143
+551,"Red Terror","The Weeknd",80,3B,33,2025-02-13,03:51,61,"","Hurry Up Tomorrow",2025-01-31,27,43,0,16,0,50,-11,C♯/D♭ Major,3,717s9KFmHhyy5t3xkStS56,USUG12501145
+552,"Without a Warning","The Weeknd",88,12A,51,2025-02-13,04:57,66,"","Hurry Up Tomorrow",2025-01-31,27,16,0,7,0,60,-8,C♯/D♭ Minor,4,6n6GfXu4i22rdsmRKe2eIn,USUG12501146
+553,"STYX HELIX","MYTH & ROID",123,11B,86,2025-02-19,04:49,61,"anime, j-rock, j-pop","eYe's",2017-04-26,59,4,0,33,0,0,-5,A Major,4,2tcSz3bcJqriPg9vetvJLs,JPD731600476
+554,"asphyxia","Cö shu Nie",82,7B,91,2025-02-21,02:54,62,"anime, j-rock, j-pop","PURE",2019-12-11,18,5,0,39,10,20,-3,F Major,4,3f3FDZajRpcLQGln7OZqdi,JPU901800781
+555,"それは小さな光のような","Sayuri",144,6A,96,2025-02-21,04:32,52,"anime, j-pop, j-rock","それは小さな光のような-special edition",2016-02-24,49,11,0,35,0,0,1,G Minor,3,7FOeR1X65DEG4KjpVhNC4Z,JPU901600117
+556,"Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)","Maluma,Trap Capos,Noriel,Bryant Myers,Juhn",130,11A,55,2025-02-23,04:38,83,"reggaeton, latin, urbano latino, trap latino, trap, dembow","Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",2016-10-07,77,10,0,10,0,10,-6,F#/G♭ Minor,4,0JoHqmlqE0W0i9prt6kcHR,USSD11600232
+557,"SI NO ES CONTIGO - REMIX","Cris MJ,Kali Uchis,JHAYCO",100,8B,74,2025-02-23,04:14,78,"reggaeton chileno, chilean trap, chilean mambo, reggaeton, trap latino, urbano latino","SI NO ES CONTIGO (REMIX)",2024-10-17,73,5,0,68,0,10,-4,C Major,4,4MAv7MqIlcaTBHGiUXIWiw,QMDA62497238
+558,"Bing Bong","Yailin la Mas Viral,Puyalo Pantera",134,3A,80,2025-02-23,02:03,30,"dembow","Bing Bong",2024-11-06,92,1,0,78,10,20,-5,A#/B♭ Minor,4,6s9PpYbExKlHuJ8JMyep21,QZSYP2434454
+559,"A Mí","Rels B",95,3B,55,2025-02-23,03:29,81,"urbano latino, trap latino","A Mí",2019-02-21,85,24,7,52,20,0,-6,C♯/D♭ Major,4,7MmrcXVA7A5zZ2CbDuGHNa,QM4TW1987698
+560,"Nena Maldición (feat. Lenny Tavárez)","Paulo Londra,Lenny Tavárez",119,2B,53,2025-02-23,03:47,79,"argentine trap, trap latino, reggaeton, urbano latino","Homerun",2019-05-23,57,19,0,37,0,10,-7,F#/G♭ Major,4,77dMSg2VHi2wwXjXNrmcrZ,USWL11801231
+561,"Problemón","Alvaro Diaz,Rauw Alejandro",92,6B,74,2025-02-23,03:12,72,"reggaeton, urbano latino, trap latino, latin","Felicilandia",2021-10-29,71,27,0,37,0,10,-4,A#/B♭ Major,4,1mSviQV9iQnGSRyvTIuxAj,USUM72118879
+562,"Una Noche en Medellín","Cris MJ",96,3A,55,2025-02-23,02:33,82,"reggaeton chileno, chilean trap, chilean mambo, reggaeton","Una Noche en Medellín",2022-01-21,87,9,0,83,0,0,-5,A#/B♭ Minor,4,0lREs0EdgrMQQKw00yx0Ct,QM4TW2218961
+563,"X (feat. Maluma & Ozuna) - Remix","Nicky Jam,J Balvin,Maluma,Ozuna",180,8A,70,2025-02-23,03:56,83,"reggaeton, latin, urbano latino, trap latino","X (feat. Maluma & Ozuna) [Remix]",2018-06-29,66,6,0,74,10,0,-5,A Minor,4,6JjPBQfI2Y8nIjnm65X6Pw,USSD11800257
+564,"QUE PRETENDES","J Balvin,Bad Bunny",93,3A,79,2025-02-23,03:42,82,"reggaeton, latin, trap latino, urbano latino","OASIS",2019-06-28,64,3,0,93,20,30,-4,A#/B♭ Minor,4,25ZAibhr3bdlMCLmubZDVt,USUM71912318
+565,"PONTE LOKITA","Katteyes,Kidd Voodoo,Swift 047",98,6A,73,2025-02-23,03:03,72,"reggaeton chileno, chilean trap","PONTE LOKITA",2025-02-14,77,27,0,79,0,0,-4,G Minor,4,0Lahr7sUDdtYnX3n3KobR6,QM4TX2509249
+566,"Eres Mía","Romeo Santos",123,11A,73,2025-02-23,04:10,84,"bachata, latin","Fórmula, Vol. 2 (Deluxe Edition)",2014-02-25,84,40,0,90,0,20,-4,F#/G♭ Minor,4,6I86RF3odBlcuZA9Vfjzeq,USSD11300464
+567,"Nostálgico","Rvssian,Rauw Alejandro,Chris Brown",98,8A,85,2025-02-23,03:29,77,"trap latino, dancehall, reggaeton, urbano latino, latin, r&b","Nostálgico",2021-09-08,73,17,0,60,0,20,-3,A Minor,4,2BEcap3xJtmiPaHKyfQi4e,USSD12100318
+568,"flashes","RØZ,Yng Lvcas",130,7B,75,2025-02-24,03:05,74,"electro corridos, reggaeton mexa, reggaeton, dembow belico","flashes",2024-10-25,79,30,0,41,0,10,-5,F Major,4,6ciaJyxPG3OueX32rd57jA,QMDA62489237
+569,"Impacto","Enjambre,Denise Gutiérrez",109,12A,70,2025-02-27,03:56,74,"mexican indie, rock en español, mexican rock, latin indie, latin rock, latin alternative","El Segundo Es Felino",2008-00-00,69,27,0,68,0,10,-6,C♯/D♭ Minor,4,5agpMV7rvg7Hf8IiX5kQXe,MX2260900016
+570,"The Winner Takes It All","ABBA",126,2B,79,2025-03-03,04:54,87,"","Super Trouper",1980-00-00,45,57,0,52,0,0,-7,F#/G♭ Major,4,3oEkrIfXfSh9zGnE7eBzSV,SEAYD8001020
+571,"Mai","Videoclub",105,7A,65,2025-03-17,03:37,69,"french indie pop, french pop","Euphories",2021-01-29,62,39,0,32,0,30,-10,D Minor,4,2qRMnItMLesizxbPqIwcSm,FR9W11926635
+572,"كلام عينيه","Sherine",132,12A,76,2025-03-17,03:55,72,"egyptian pop, sholawat, khaleeji","نساى",2018-10-24,57,5,0,75,0,10,-5,C♯/D♭ Minor,4,6g95dK7o7vVh8ZCnDAseU5,EGA071800047
+573,"APAGA EL CEL","FloyyMenor,Lewis Somes",100,8A,50,2025-03-17,03:04,68,"reggaeton chileno","APAGA EL CEL",2024-05-17,70,27,0,48,0,0,-8,A Minor,4,4yyCGGdTVaYG17vhsrUPoL,QZMWW2484259
+574,"Demasiadas Mujeres","C. Tangana",126,8A,45,2025-03-17,02:33,73,"","El Madrileño",2021-02-26,66,13,0,36,30,0,-7,A Minor,4,3GaGWoU1KfVqgl7vnRHP55,ES5022000710
+575,"KISS OF DEATH（Produced by HYDE）","Mika Nakashima",122,7B,91,2025-03-17,04:10,53,"j-pop, anime, j-r&b","雪の華15周年記念ベスト盤 BIBLE",2019-01-30,54,0,0,19,0,30,-3,F Major,4,5KAI6nfg3wQRmtwJ0PPaEW,JPU901704127
+576,"Mi Cantar","Helen De Quiroga,Jose Javier Serrano,Henar Perez",89,6A,54,2025-03-26,02:54,34,"","Lo Mejor De El Rey León (Best Of Lion King)",2011-01-01,45,48,0,31,10,30,-8,G Minor,3,4kMXYjU5IdBpLzXW3qkKMA,USWD10525744
+577,"Uno Más","Chorus - The Lion King 2: Simba's Pride",102,10A,46,2025-03-26,02:38,35,"","Lo Mejor De El Rey León (Best Of Lion King)",2011-01-01,56,14,0,33,0,10,-10,B Minor,4,4xVKq6gwfZCUPF1GbGfWku,USWD10525745
+578,"Triunfará el Amor","Geraldine Larrosa,Ferran Gonzalez",84,11B,33,2025-03-26,02:56,28,"","Lo Mejor De El Rey León (Best Of Lion King)",2011-01-01,26,86,0,12,0,0,-10,A Major,5,00cTfokkf0LdGFEczNI21a,USWD10525746
+579,"Red Swan","YOSHIKI,HYDE",132,6B,78,2025-03-30,04:23,68,"anime, j-rock, visual kei","Red Swan",2018-10-03,28,5,0,15,0,30,-5,A#/B♭ Major,4,0zvN9oq95bIEQjvfcdeZlX,JPPC01801674
+580,"Truman (HAN & Felix)","Stray Kids",155,10B,90,2025-04-03,03:15,71,"k-pop, noise music","Mixtape : dominATE",2025-03-21,61,12,0,57,10,40,-3,D Major,4,4DEbsCe0w8CrwdMm8WpdzO,US5TA2500013
+581,"ESCAPE (Bang Chan & Hyunjin)","Stray Kids",154,8A,91,2025-04-03,03:11,71,"k-pop, noise music","Mixtape : dominATE",2025-03-21,49,1,0,32,10,0,-3,A Minor,4,5v6c5XtD3zKPvgUknF7h9K,US5TA2500014
+582,"Love Story","Indila",96,3A,26,2025-04-05,05:16,81,"french pop","Mini World",2014-01-01,38,82,0,33,0,0,-12,A#/B♭ Minor,3,6nGeLlakfzlBcFdZXteDq7,FRUM71400048
+583,"Once Upon a December","Christy Altomare",174,10A,29,2025-04-09,02:59,0,"musicals","Anastasia (Original Broadway Cast Recording)",2017-06-09,17,92,0,7,0,0,-12,B Minor,4,3jMy7ITBiLgVwC15RBK9Hp,QMQYB1709707
+584,"Duvet","bôa",93,10A,89,2025-04-09,03:23,86,"","Twilight",2001-03-21,58,19,0,71,0,0,-9,B Minor,4,42qNWdLKCI41S4uzfamhFM,USCGJ0659337
+585,"American Boy","Estelle,Kanye West",118,8B,73,2025-04-09,04:44,85,"rap","Shine",2008-03-28,69,17,0,52,30,0,-3,C Major,4,6etwirSInfuJrSOlogS6Sh,USAT20706210
+586,"Sway","Michael Bublé",126,7A,64,2025-04-12,03:08,75,"christmas","Michael Bublé",2003-00-00,71,75,0,74,0,0,-6,D Minor,4,2ajUl8lBLAXOXNpG4NEPMz,USRE10201551
+587,"Always Forever","Cults",163,4B,74,2025-04-14,03:43,79,"","Static",2013-10-15,17,0,28,36,0,20,-6,G#/A♭ Major,4,2enPRFda84VE2wtI8c86Uf,USSM11303912
+588,"This Side of Paradise","Coyote Theory",158,11B,66,2025-04-14,04:02,79,"","Color",2011-06-20,31,43,0,32,0,10,-6,A Major,4,79EkGysjP2dL5GdpeQjRxT,QMW9F1100003
+589,"Video Games","Lana Del Rey",73,11A,25,2025-04-14,04:41,80,"","Born To Die - The Paradise Edition",2012-01-01,24,81,0,18,0,0,-10,F#/G♭ Minor,5,0fBSs3fRoh1yJcne77fdu9,GBUM71111621
+590,"Careless Whisper","George Michael",153,7A,64,2025-04-15,05:00,78,"","Ladies & Gentlemen",1998-11-09,57,14,0,79,0,20,-9,D Minor,4,5WDLRQ3VCdVrKw0njWe5E5,GBBBM8402006
+591,"Ma Meilleure Ennemie ft. Coldplay","Stromae,Pomme,Coldplay,Elyanna,Arcane,League of Legends",88,10B,66,2025-04-19,03:21,69,"french pop, score, ","Ma Meilleure Ennemie ft. Coldplay",2025-04-04,58,1,0,40,10,30,-7,D Major,4,1ZHvGQZNz6HLbxhAtu7pin,USA2P2513335
+592,"Ushubaby","Beny Jr",100,3A,65,2025-04-25,02:50,65,"drill","Hopefully im doing well",2024-08-26,81,42,0,45,10,10,-5,A#/B♭ Minor,4,4T79XgBQJi9JfMZ62PaGWB,QMBZ92452267
+593,"Te Voy a Esperar (feat. Belinda)","Juan Magán,Belinda",129,6B,78,2025-05-02,03:13,32,"reggaeton, latin, latin pop","Juan Magan Presenta Electro Latino",2013-01-02,69,33,0,65,0,20,-7,A#/B♭ Major,4,5DskxnsNhM5QSKHBisSbyE,ES5021200371
+594,"Maneater","Nelly Furtado",133,2B,78,2025-05-05,04:18,86,"","Loose",2006-01-01,80,3,0,79,0,10,-5,F#/G♭ Major,4,4wH4dJgrsxONID6KS2tDQM,USUM70601449
+595,"California Gurls","Katy Perry,Snoop Dogg",125,8B,76,2025-05-09,03:54,77,"pop, g-funk, west coast hip hop, gangster rap, old school hip hop, hip hop, rap","Teenage Dream: The Complete Confection",2012-03-12,79,0,0,43,0,10,-4,C Major,4,6tS3XVuOyu10897O3ae7bi,USCA21001135
+596,"Ms. Jackson","Outkast",95,9A,81,2025-05-09,04:30,85,"southern hip hop, hip hop","Stankonia",2000-10-31,84,14,0,61,20,0,-6,E Minor,4,0I3q5fE6wg7LIfHGngUTnV,USLF20000357
+597,"Genie In a Bottle","Christina Aguilera",176,3B,80,2025-05-10,03:37,84,"","Christina Aguilera (Expanded Edition)",1999-00-00,63,21,0,91,10,10,-7,C♯/D♭ Major,4,11mwFrKvLXCbcVGNxffGyP,USRC19900032
+598,"Eric's Decision","Alan Menken",86,7A,22,2025-05-12,02:21,32,"","The Little Mermaid (Original Motion Picture Soundtrack)",2023-05-19,17,88,74,4,0,10,-16,D Minor,4,5xmwvUyYqYaiucwJvFwIq1,USWD12321020
+599,"Vanessa's Trick","Alan Menken",119,2A,28,2025-05-12,01:03,49,"","The Little Mermaid (Original Motion Picture Soundtrack)",2023-05-19,23,68,0,4,0,10,-12,D#/E♭ Minor,3,3tMQKPLplBCDdOgdsZn0SZ,USWD12321021
+600,"Beauty and the Beast","Emma Thompson",88,6A,23,2025-05-15,03:19,54,"musicals","Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",2017-03-10,21,80,0,10,0,10,-13,G Minor,4,0sXJUHfwsocaJaLM5osoWX,USWD11778854
+601,"Something There","Emma Watson,Dan Stevens,Ewan McGregor,Ian McKellen,Emma Thompson,Nathan Mack,Gugu Mbatha-Raw",123,8B,32,2025-05-15,02:54,52,"musicals, ","Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",2017-03-10,45,90,0,48,0,20,-13,C Major,4,77JhqIuQjqzVmkRTUcm9ji,USWD11778852
+602,"A Dream Is a Wish Your Heart Makes","Lily James",139,12B,7,2025-05-17,02:00,57,"musicals","Cinderella (Original Motion Picture Soundtrack)",2015-01-01,27,95,0,20,0,0,-18,E Major,5,3s6nfqfT6kyLBT10vs0M4l,USWD11569822
+603,"Healing Incantation - From  Tangled /Soundtrack Version","Mandy Moore",168,1B,3,2025-05-17,00:54,58,"","Tangled",2010-01-01,37,92,0,35,0,10,-23,B Major,3,75VVIB2x1h6BfxD2PqOO57,USWD11054901
+604,"Trash Magic","For K",120,7A,17,2025-05-22,05:15,0,"","Cherry Cola",2023-07-31,76,82,1,28,0,10,-16,D Minor,4,62PTSIy3Y23c4TNeLRnm21,QZXLZ2365385
+605,"Mia & Sebastian’s Theme","Justin Hurwitz",117,11B,19,2025-05-23,01:38,72,"score","La La Land (Original Motion Picture Soundtrack)",2016-12-09,48,98,93,11,0,10,-16,A Major,3,1Vk4yRsz0iBzDiZEoFMQyv,USUG11600660
+606,"Boy's a liar Pt. 2","PinkPantheress,Ice Spice",133,7B,81,2025-05-25,02:11,77,"bedroom pop, ","Heaven knows",2023-11-10,70,25,0,86,0,20,-8,F Major,4,5CCr8msaN3MhgqBoa9yWhH,GBAYE2300015
+607,"Naughty Girl","Beyoncé",100,11A,47,2025-05-25,03:28,73,"","Dangerously In Love",2003-03-10,73,25,0,64,0,10,-9,F#/G♭ Minor,4,0CPLnPUUHh44vAzDSM5ZlR,USSM10305418
+608,"Moonlight","Kali Uchis",137,6A,72,2025-05-25,03:07,76,"","Moonlight",2023-02-24,64,48,0,89,0,10,-6,G Minor,4,2i2gDpKKWjvnRTOZRhaPh2,USUM72219486
+609,"HIGHEST IN THE ROOM","Travis Scott",76,6A,43,2025-05-25,02:55,84,"rap","HIGHEST IN THE ROOM",2019-10-04,60,5,0,6,0,20,-9,G Minor,4,3eekarcy7kvN4yt5ZFzltW,USSM11904276
+610,"telepatía","Kali Uchis",84,10A,52,2025-05-25,02:40,85,"","Sin Miedo (del Amor y Otros Demonios) ∞",2020-12-04,65,11,0,55,0,20,-9,B Minor,4,6tDDoYIxWvMLTdKpjFkc1B,GBUM72005748
+611,"SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)","Amaarae,Kali Uchis,MOLIY",110,12A,52,2025-05-29,03:24,77,"alté, afrobeats, afro r&b","SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",2021-09-16,87,43,0,32,0,10,-8,C♯/D♭ Minor,4,09gysnJpfQ3ublBmJDfcEC,US23A1540104
+612,"Beautiful Liar","Beyoncé,Shakira",92,4B,75,2025-05-29,03:19,73,"latin pop","B'Day Deluxe Edition",2007-05-29,76,1,0,42,0,10,-4,G#/A♭ Major,4,2HWWNoWEEEECwZhAiLg7ib,USSM10700448
+613,"Hollaback Girl","Gwen Stefani",110,3A,92,2025-05-29,03:19,74,"","Love. Angel. Music. Baby.",2004-11-12,93,35,0,90,0,0,-2,A#/B♭ Minor,4,0eqH0ALoDQevq59YcQ53KE,USIR10400847
+614,"What You Waiting For?","Gwen Stefani",136,7B,95,2025-05-29,03:41,68,"","Love. Angel. Music. Baby.",2004-11-12,68,5,0,73,0,30,-3,F Major,4,0ny5zITdmyNwyTPVzRGscU,USIR10400692
+615,"Rich Girl","Gwen Stefani,Eve",98,6A,75,2025-05-29,03:56,76,"","Love. Angel. Music. Baby.",2004-11-12,86,3,0,76,0,20,-3,G Minor,4,2oxtQ84p1j5GmyzmD50Lq0,USIR10400846
+616,"Promiscuous","Nelly Furtado,Timbaland",114,3A,97,2025-05-29,04:02,89,"","Loose",2006-01-01,81,6,0,87,0,10,-6,A#/B♭ Minor,4,2gam98EZKrF9XuOkU13ApN,USUM70603473
+617,"Get Back","Britney Spears",117,4B,90,2025-05-29,03:50,64,"pop","Blackout",2007-10-25,77,34,0,70,0,10,-4,G#/A♭ Major,4,59Xb5YkZ1AFrMD19T6cKr8,USJI10700753
+618,"Material Girl","Madonna",137,8B,88,2025-05-31,04:00,51,"","Celebration (double disc version)",2009-09-18,74,34,0,98,0,10,-3,C Major,4,22sLuJYcvZOSoLLRYev1s5,USWB10903617
+619,"National Anthem","Lana Del Rey",85,5A,90,2025-05-31,03:50,69,"","Born To Die - The Paradise Edition",2012-01-01,53,53,0,44,20,10,-6,C Minor,4,7cNz65PfCatRXoX7QtqM2A,GBUM71111567
+620,"Resentia","Pablo Chill-E",95,3B,69,2025-06-01,03:20,76,"chilean trap, reggaeton chileno, chilean mambo, mambo, argentine trap, urbano latino","Los Gangsters Tambien Lloran",2024-03-29,75,16,0,81,0,10,-6,C♯/D♭ Major,4,2ANtIUI9cipWNI685VdlZb,USLD91757180
+621,"RS6","DYSTINCT,Morad",124,8B,59,2025-06-01,03:48,63,"moroccan pop, ","RS6",2025-05-09,93,6,0,52,0,0,-5,C Major,4,6EqhAlO3OAirPbd1kwIbBX,NL2BN2500025
+622,"Callaita","Bad Bunny,Tainy",176,10B,63,2025-06-01,04:10,81,"reggaeton, trap latino, latin, urbano latino","Un Verano Sin Ti",2022-05-06,61,60,0,25,30,20,-5,D Major,4,71wFwRo8xGc4lrcyKwsvba,QM6N21919851
+623,"LA CANCIÓN","J Balvin,Bad Bunny",176,9B,65,2025-06-02,04:02,90,"reggaeton, latin, trap latino, urbano latino","OASIS",2019-06-28,76,15,0,43,30,10,-6,G Major,4,0fea68AdmYNygeTGI4RC18,USUM71911618
+624,"Es un Secreto","Plan B",95,11A,77,2025-06-02,03:12,84,"reggaeton","House of Pleasure",2010-07-20,84,12,0,49,0,0,-5,F#/G♭ Minor,4,3KZCP2StVGdWkOKyRZNWA4,USB271010155
+625,"Por Que Te Demoras?","Plan B",96,7A,79,2025-06-02,03:11,78,"reggaeton","House of Pleasure",2010-07-20,89,4,0,93,0,0,-6,D Minor,4,6URNgz911jj10KXTFtevcS,USB271010152
+626,"Lilith","Saint Avangeline",110,8B,39,2025-06-02,04:15,69,"","Gardener of Eden",2022-04-22,42,17,47,4,0,10,-9,C Major,4,4RF4iaYoM1XBbdvmC6zRtD,QZHN62208603
+627,"Ethereal","Txmy",79,3B,40,2025-06-05,02:48,72,"","Ethereal",2023-10-22,10,91,63,28,0,30,-13,C♯/D♭ Major,4,7gymMiUpp1AOYR5EiRDDrO,QMANG2217233
+628,"Love Potions","BJ Lips,princess paparazzi",122,1B,83,2025-06-16,02:53,78,"","Cum n Cocaine",2021-08-02,66,9,0,45,0,20,-6,B Major,4,4yMMsS5QaEcsHZkKwdEyLv,QZDA62275136
+629,"Juno","Sabrina Carpenter",131,7B,73,2025-06-16,03:43,85,"pop","Short n' Sweet",2024-08-23,63,5,0,64,0,20,-4,F Major,4,21B4gaTWnTkuSh77iWEXdS,USUM72404107
+630,"Taste","Sabrina Carpenter",113,5B,91,2025-06-16,02:37,88,"pop","Short n' Sweet",2024-08-23,67,10,0,72,0,30,-4,D#/E♭ Major,4,5G2f63n7IPVPPjfNIGih7Q,USUM72404100
+631,"Apocalypse","Cigarettes After Sex",94,7B,47,2025-06-16,04:50,89,"dream pop","Cigarettes After Sex",2017-06-09,37,2,46,17,0,10,-9,F Major,4,1oAwsWBovWRIp7qLMGPIet,USBQU1700034
+632,"Sweet","Cigarettes After Sex",96,2B,51,2025-06-16,04:51,84,"dream pop","Cigarettes After Sex",2017-06-09,45,36,82,11,0,10,-9,F#/G♭ Major,4,2KhrPRV0V1FS2l4eQMJUWt,USBQU1700036
+633,"Sunsetz","Cigarettes After Sex",75,8A,48,2025-06-16,03:34,85,"dream pop","Cigarettes After Sex",2017-06-09,41,5,80,14,0,10,-9,A Minor,4,0yuAWlxq59xT3agQ965OxE,USBQU1700033
+634,"God Knows I Tried","Lana Del Rey",81,4A,43,2025-06-16,04:40,61,"","Honeymoon",2015-09-18,40,85,3,11,0,10,-8,F Minor,3,5R65WfxdtxpTNSIloTfIdM,GBUM71503924
+635,"AURORA","Mora,De La Rose",112,10A,85,2025-06-17,03:12,69,"urbano latino, trap latino, reggaeton, ","AURORA",2025-05-17,57,31,0,38,0,10,-3,B Minor,4,4UHXMDRuuL07rnFEmSgBEG,QM6P42540023
+636,"Esclava (E) - Remix","Bryant Myers,Anonimus,Almighty,Anuel AA",120,5B,65,2025-06-24,04:41,15,"trap latino, reggaeton, urbano latino, trap, latin","Esclava (E) [Remix]",2016-01-01,65,33,0,55,20,30,-7,D#/E♭ Major,4,0fOjPUdkQjLH0aoGa5p5h4,TCACN1672578
+637,"Temperature","Sean Paul",125,5A,60,2025-06-24,03:36,86,"dancehall","The Trinity",2005-09-27,95,11,0,82,0,0,-5,C Minor,4,0k2GOhqsrxDTAbFFSdNJjT,USAT20505520
+638,"Paradisus-Paradoxum","MYTH & ROID",100,7B,91,2025-06-25,03:51,61,"anime, j-rock, j-pop","eYe's",2017-04-26,39,3,0,32,10,10,-4,F Major,4,3CrYQaVrFUppSElxRwNHJK,JPD731600703
+639,"back to friends","sombr",93,3B,72,2025-06-26,03:19,91,"","back to friends",2024-12-27,44,0,0,24,0,0,-2,C♯/D♭ Major,4,0FTmksd2dxiE5e3rWyJXs6,USWB12405502
+640,"Tell Ur Girlfriend","Lay Bankz",135,9B,74,2025-07-02,02:04,5,"jersey club","Tell Ur Girlfriend",2024-02-07,87,9,0,61,20,0,-5,G Major,4,3lMzT16MjAKKXF7pSZn13B,QZZ4J2400019
+641,"Manchild","Sabrina Carpenter",123,9B,69,2025-07-02,03:33,87,"pop","Manchild",2025-06-05,73,12,0,81,0,30,-5,G Major,4,42UBPzRMh5yyz0EDPr6fr1,USUM72504354
+642,"Me Rehúso","Danny Ocean",105,3B,80,2025-07-04,03:25,79,"reggaeton","Me Rehúso",2016-09-16,74,2,0,43,0,0,-6,C♯/D♭ Major,4,6De0lHrwBfPfrhorm9q1Xl,USWL11700128
+643,"La Romana","Bad Bunny,El Alfa",126,8B,73,2025-07-04,05:00,78,"reggaeton, trap latino, latin, urbano latino, dembow","X 100PRE",2018-12-23,65,3,0,33,10,0,-5,C Major,4,1khmgu0pveJbkbpbkyvcQv,QM7281884731
+644,"Neverita","Bad Bunny",122,6B,50,2025-07-04,02:53,82,"reggaeton, trap latino, latin, urbano latino","Un Verano Sin Ti",2022-05-06,88,7,0,43,0,10,-8,A#/B♭ Major,4,31i56LZnwE6uSu3exoHjtB,QM6MZ2214882
+645,"UN PREVIEW","Bad Bunny",95,3B,82,2025-07-04,02:45,70,"reggaeton, trap latino, latin, urbano latino","nadie sabe lo que va a pasar mañana",2023-10-13,80,4,0,33,0,20,-3,C♯/D♭ Major,4,5ixdmTpCmH5diBA1j154wN,QMFME2329236
+646,"DEJAU'","Rauw Alejandro,Playero",107,4A,81,2025-07-04,03:02,67,"reggaeton, urbano latino, trap latino, latin","SATURNO",2023-01-24,81,8,1,57,0,40,-2,F Minor,4,2aCbaVxzJctzRCde49qLGC,USSD12201171
+647,"LOKERA","Rauw Alejandro,Lyanno,Brray",102,10A,83,2025-07-04,03:17,78,"reggaeton, urbano latino, trap latino, latin","SATURNO",2023-01-24,84,21,0,58,0,0,-3,B Minor,4,1aUq8rjW1EwkAkMri4VfJy,USSD12200700
+648,"Si No Le Contesto","Plan B",95,12A,76,2025-07-04,03:41,79,"reggaeton","House of Pleasure",2010-07-20,85,10,0,53,0,10,-5,C♯/D♭ Minor,4,6NdKkfo7o6IH1Op0jsBDjN,USB271010154
+649,"OKI DOKI","KAROL G",106,7B,76,2025-07-04,02:23,70,"reggaeton, latin, urbano latino","MAÑANA SERÁ BONITO (BICHOTA SEASON)",2023-08-11,83,16,0,62,0,20,-4,F Major,4,601dhwn8qc31FrSlMu5wEf,USUG12305254
+650,"CHAPA","Yailin la Mas Viral,Puyalo Pantera",140,8B,51,2025-07-04,02:00,23,"dembow","CHAPA",2024-10-04,90,28,0,53,20,0,-6,C Major,4,4uFYkBaLGIhBaLT9KbhyPt,QZS7J2461388
+651,"Happy Birthday","Tempo,El Alfa",122,4B,77,2025-07-04,02:35,70,"latin hip hop, reggaeton, dembow, urbano latino, latin","Happy Birthday",2021-12-09,65,17,0,91,20,30,-5,G#/A♭ Major,4,0XkGuccSfq43beHberZYKz,QZHZ42258403
+652,"Linda","Tokischa,ROSALÍA",115,10B,75,2025-07-04,02:24,65,"dembow, neoperreo, latin","Linda",2021-09-01,89,7,0,71,10,10,-3,D Major,4,1ahCrpeTt94LL7y1aXw0Y8,USSD12100649
+653,"Muñekita (with El Alfa & JT)","Kali Uchis,El Alfa,JT",112,8B,82,2025-07-04,03:39,62,"dembow, urbano latino, latin, ","Muñekita (with El Alfa & JT)",2023-08-04,78,7,0,55,10,20,-3,C Major,4,4PzxlHzDM3bDafkHjg1XCX,USUM72311229
+654,"DORA","FARIANA,El Alfa",121,9B,97,2025-07-04,02:42,53,"dembow, urbano latino, latin","DORA",2024-03-14,67,15,11,82,0,0,-3,G Major,4,4ODeRUFrGLtoSdtcSF13eS,QM4TX2443952
+655,"SexyBack (feat. Timbaland)","Justin Timberlake,Timbaland",117,6A,58,2025-07-04,04:02,87,"","FutureSex/LoveSounds",2006-09-12,97,6,0,96,0,0,-6,G Minor,4,0O45fw2L5vsWpdsOdXwNAR,USJI10600269
+656,"LATINA FOREVA","KAROL G",98,12A,74,2025-07-04,02:39,82,"reggaeton, latin, urbano latino","Tropicoqueta",2025-06-20,81,1,0,57,0,0,-3,C♯/D♭ Minor,4,2KrQbq3aqGOFGnkTKnN2XA,USUG12502629
+657,"Loca (feat. El Cata)","Shakira,El Cata",112,8A,69,2025-07-04,03:03,78,"latin pop, mambo, merengue","Sale el Sol",2010-10-19,80,34,0,92,0,0,-6,A Minor,4,42k1KeBehAd83lrGt1okiC,USSD11000332
+658,"Se Toca","luhe,Norac",176,4A,58,2025-07-04,02:35,61,"","Se Toca",2023-12-28,52,64,0,39,0,0,-10,F Minor,4,37XPYOnM5w9rchx8oNvVyo,QZNWZ2450233
+659,"Can't Take My Eyes off You","Frankie Valli",124,12B,78,2025-07-04,03:23,82,"doo-wop","Solo",1967-00-00,58,51,0,56,0,0,-7,E Major,4,0bfvHnWWOeU1U5XeKyVLbW,USRH11000238
+660,"Between the Sheets","The Isley Brothers",84,8A,38,2025-07-04,05:40,63,"motown, quiet storm, soul, classic soul, funk, northern soul","Between the Sheets",1983-08-21,72,66,0,57,10,0,-13,A Minor,4,3ApIYu95WxjzpQCnsLBbrv,USSM19915051
+661,"Hollow","Stray Kids",106,8A,68,2025-07-04,03:29,59,"k-pop, noise music","Hollow",2025-06-18,70,10,0,32,10,0,-6,A Minor,4,1OTFPeqLtvNhOd3LpeBMne,JPU902502006
+662,"Always Love featuring Hyunjin (Stray Kids)","d4vd,Hyunjin",142,4A,47,2025-07-07,03:18,68,"","Always Love featuring Hyunjin (Stray Kids)",2025-06-27,36,43,0,40,0,10,-9,F Minor,4,1WKafez8TM4dVYlSsxi6dS,USUM72506682
+663,"How It’s Done","HUNTR/X,EJAE,AUDREY NUNA,REI AMI,KPop Demon Hunters Cast",160,10B,86,2025-07-10,02:56,86,"k-pop","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,60,1,0,61,10,30,-3,D Major,4,3RXUgPNIbUgFxsDWuBQEt6,QZ8BZ2513508
+664,"Soda Pop","Saja Boys,Andrew Choi,Neckwav,Danny Chung,KEVIN WOO,samUIL Lee,KPop Demon Hunters Cast",126,8B,85,2025-07-10,02:30,87,"k-pop","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,84,8,0,76,0,0,-4,C Major,4,02sy7FAs8dkDNYsHp4Ul3f,QZ8BZ2513509
+665,"Golden","HUNTR/X,EJAE,AUDREY NUNA,REI AMI,KPop Demon Hunters Cast",123,9A,69,2025-07-10,03:14,94,"k-pop","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,65,10,0,10,0,10,-4,E Minor,3,1CPZ5BxNNd0n0nF4Orb9JS,QZ8BZ2513510
+666,"Takedown","HUNTR/X,EJAE,AUDREY NUNA,REI AMI,KPop Demon Hunters Cast",140,12A,85,2025-07-10,03:02,85,"k-pop","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,73,4,0,71,10,20,-4,C♯/D♭ Minor,4,0MHStU0muAIEMbwdnebYu2,QZ8BZ2513511
+667,"Free","Rumi,Jinu,KPop Demon Hunters Cast,EJAE,Andrew Choi",140,3B,56,2025-07-10,03:07,83,"k-pop, ","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,65,23,0,44,0,10,-6,C♯/D♭ Major,4,5DxDLsW6PsLz5gkwC7Mk5S,QZ8BZ2513513
+668,"Your Idol","Saja Boys,Andrew Choi,Neckwav,Danny Chung,KEVIN WOO,samUIL Lee,KPop Demon Hunters Cast",90,10A,84,2025-07-10,03:11,85,"k-pop","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,68,13,0,36,0,20,-4,B Minor,4,1I37Zz2g3hk9eWxaNkj031,QZ8BZ2513512
+669,"What It Sounds Like","HUNTR/X,EJAE,AUDREY NUNA,REI AMI,KPop Demon Hunters Cast",121,12A,71,2025-07-21,04:10,86,"k-pop","KPop Demon Hunters (Soundtrack from the Netflix Film)",2025-06-20,51,5,0,35,0,30,-4,C♯/D♭ Minor,4,5sBDrrtLGbV64QJnEqfjer,QZ8BZ2513514
+670,"Feather","Sabrina Carpenter",124,11A,69,2025-07-16,03:05,84,"pop","emails i can’t send fwd:",2023-03-17,79,7,0,83,0,10,-4,F#/G♭ Minor,4,2Zo1PcszsT9WQ0ANntJbID,USUM72301876
+671,"Preso","José José",111,11A,43,2025-07-16,03:46,73,"bolero, bacardi","Gracias",1981-11-05,54,75,0,39,0,20,-8,F#/G♭ Minor,4,6HlIwEASZhw0cO2YtzxQ8f,MXF019901557
+672,"La Mentira","Luis Miguel",164,4B,44,2025-07-16,03:46,78,"mariachi, bolero, latin pop, ranchera, villancicos","Romance",1991-11-19,38,67,0,44,0,0,-12,G#/A♭ Major,4,3wogsSWyEEu5eVgLqUqySF,USWI19600105
+673,"Química Mayor","Mon Laferte",81,9B,50,2025-07-16,03:51,74,"latin alternative","1940 Carmen",2021-10-29,56,46,0,36,0,10,-7,G Major,3,1G9wM0DIuyxn0m0QeENIkl,MXUM72102966
+674,"CRAZY","LE SSERAFIM",130,10A,90,2025-07-10,02:44,78,"k-pop","CRAZY (Party Remixes 1)",2024-09-02,80,1,0,53,10,10,-2,B Minor,4,4gxEY3Mh5FZZDAJAKPNrCS,USA2P2449061
+675,"Secreto De Amor","Joan Sebastian",97,10B,48,2025-07-16,04:33,75,"ranchera, banda, mariachi, grupera, norteño, música mexicana","Secreto De Amor",2000-04-05,57,76,0,62,0,10,-7,D Major,4,47PiSg7z5qjUyEGKN4I1g7,MXF360034920
+676,"ALAMBRE PúA","Bad Bunny",120,2B,84,2025-07-17,02:26,68,"reggaeton, trap latino, latin, urbano latino","ALAMBRE PúA",2025-07-14,75,16,0,48,0,10,-5,F#/G♭ Major,4,0WDvsKwqhn9alx29Z80DmG,QMDA62559939
+677,"Afraid","The Neighbourhood",84,11A,70,2025-07-26,04:11,80,"","I Love You.",2013-04-22,46,1,31,36,0,30,-6,F#/G♭ Minor,4,7brQHA2CgQpcMBiOlfiXYb,USSM11300889
+678,"Bed Chem","Sabrina Carpenter",95,10A,73,2025-08-17,02:51,84,"pop","Short n' Sweet",2024-08-23,74,7,0,68,0,10,-6,B Minor,4,1UHS8Rf6h5Ar3CDWRd3wjF,USUM72319094
+679,"Busy Woman","Sabrina Carpenter",117,9B,76,2025-08-17,03:06,84,"pop","Short n' Sweet (Deluxe)",2025-02-14,73,17,0,90,0,10,-5,G Major,4,0b0Dz0Gi86SVdBxYeiQcCP,USUM72413907
+680,"Good Graces","Sabrina Carpenter",126,7B,76,2025-08-17,03:05,78,"pop","Short n' Sweet",2024-08-23,76,33,0,73,0,10,-5,F Major,4,102YUQbYmwdBXS7jwamI90,USUM72404102
+681,"Culpable O No - Miénteme Como Siempre","Luis Miguel",70,8B,37,2025-08-20,03:57,79,"mariachi, bolero, latin pop, ranchera, villancicos","Busca Una Mujer",1988-11-25,54,4,0,25,0,0,-14,C Major,4,7BwxbmYFy0l3ROHDjV2c14,USWI18800034
+682,"El Amar y el Querer","José José",66,8A,37,2025-08-20,03:54,78,"bolero, bacardi","Reencuentro",1977-05-07,42,75,0,17,0,10,-12,A Minor,4,7wUt1v2ddVqPayC8EKDp5P,MXF018800047
+683,"Tu Misterioso Alguien","Miranda!",116,7B,79,2025-08-20,04:04,73,"latin pop","Miranda Es Imposible!",2009-07-25,67,3,0,68,0,10,-6,F Major,4,5BaWu0bYT7XPaIYyXJOZvJ,ARF840900708
+684,"Cien años","Pedro Infante",104,9B,17,2025-08-20,03:32,70,"ranchera, mariachi, bolero, música mexicana","15 Inmortales de Pedro Infante",1998-00-00,55,91,0,61,0,10,-15,G Major,4,760r2LXNtMaHDKMQ5wkXbi,MXF160100062
+685,"Deslocado","NAPA",76,2B,46,2025-08-24,02:59,75,"","Deslocado",2025-03-10,57,15,0,41,0,10,-8,F#/G♭ Major,4,31CsSZ9KlQmEu0JvWSkM3j,PTUM72500004
+686,"Focus","Ariana Grande",100,2B,88,2025-08-25,03:31,68,"pop","Focus",2015-10-30,67,27,0,80,20,40,-6,F#/G♭ Major,4,1cdzfFjEbUbgTm5nv3FgXR,USUM71516960
+687,"Confident","Justin Bieber,Chance the Rapper",134,4A,56,2025-08-25,04:08,92,"","Journals",2014-05-13,74,11,0,89,10,20,-5,F Minor,4,3JsydWaf2Ev4ehaLUjj3SY,USUM71319306
+688,"Ladybug PV","^QueenRahana^",129,7B,62,2025-08-26,03:26,44,"","Ladybug PV",2022-10-08,64,30,0,55,0,10,-12,F Major,4,3ORAsGknc2ZpKRYdjXp7Jr,QZPLS2250887
+689,"Tears","Sabrina Carpenter",113,8B,88,2025-08-29,02:40,88,"pop","Man’s Best Friend",2025-08-29,70,2,0,49,0,0,-5,C Major,4,42VUCXerQ5qTr4Qp6PhKo4,USUM72504355
+690,"Gabriela","KATSEYE",146,9B,75,2025-08-29,03:17,91,"k-pop","Gabriela",2025-06-20,65,18,0,62,0,30,-5,G Major,4,1xOqGUkyxGQRdCvGpvWKmL,USUM72503465
+691,"Golden Brown - Slowed Down Version","The Stranglers",157,5A,42,2025-09-02,04:08,82,"proto-punk, new wave","Golden Brown",1981-12-28,53,14,6,42,0,10,-13,C Minor,3,612bl0KHzyyxEhPzuMqM6e,GBAYE2500725
+692,"The Dead Dance","Lady Gaga",123,9B,84,2025-09-05,03:48,75,"art pop, pop","The Dead Dance",2025-09-03,57,2,0,24,0,0,-5,G Major,4,3NFs3XUduzBfvc5Bx1gmzh,USUM72407034
+693,"Milkshake","Kelis",113,3B,77,2025-09-13,03:02,75,"","Tasty",2003-01-01,88,1,3,76,0,20,-6,C♯/D♭ Major,4,26wpcLqBHEfOL00i1rdbun,USAR10301131
+694,"Killshot","Magdalena Bay",99,9A,53,2025-09-19,03:56,71,"","A Little Rhythm and a Wicked Feeling",2020-03-13,73,0,0,37,0,0,-6,E Minor,4,0LJTfmgOMvlLd0u4HU9twm,QMBZ91920866
+695,"Chicago","Michael Jackson",176,6A,76,2025-09-19,04:05,86,"","XSCAPE",2014-05-09,61,8,0,55,10,10,-3,G Minor,4,5BKKy9fIJL5uM9fz1SnqyP,USSM11401745
+696,"make you mine","Madison Beer",123,11A,64,2025-09-19,03:41,76,"","make you mine",2024-02-09,53,22,1,49,0,20,-6,F#/G♭ Minor,4,48vIfHaK7by6x0T6ucpODL,USSM12400758
+697,"Love You Like A Love Song","Selena Gomez & The Scene",117,12A,68,2025-09-19,03:08,85,"","When The Sun Goes Down",2011-01-01,86,8,0,92,0,0,-4,C♯/D♭ Minor,4,0laYHRpNTS6i8FXdupHkJ4,USHR11132668
+698,"Meet Me Halfway","Black Eyed Peas",130,10A,63,2025-09-19,04:44,83,"","THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",2009-01-01,80,0,0,40,0,30,-7,B Minor,4,3F9ByoUqu31xU0I3G5xfVg,USUM70967700
+699,"fantasmas","HUMBE",163,8B,39,2025-09-19,04:47,72,"","fantasmas",2023-11-17,34,62,0,33,0,20,-7,C Major,3,16OhThzklXn3xI3iNzcIus,MXH912300041
+700,"Passing Memories - Genshin Impact's 4th Anniversary English Theme Song","HOYO-MiX,Faouzia",77,1B,50,2025-09-20,03:39,46,"soundtrack, ","Genshin Impact - Passing Memories",2024-09-28,21,46,0,16,0,10,-6,B Major,4,0Ny1hQdPAyNH57J6qbr9aq,DGA0L2460397
+701,"Nobody’s Son","Sabrina Carpenter",174,10B,74,2025-09-20,03:02,85,"pop","Man’s Best Friend",2025-08-29,45,34,0,65,0,0,-5,D Major,4,4SRShYMtFIGgnOU7iBicMH,USUM72504443
+702,"Lover Girl","Laufey",88,1B,45,2025-09-27,02:44,81,"","A Matter of Time",2025-08-22,66,84,0,90,10,0,-7,B Major,4,4nwjvcUjV7cexhwA40Bh5i,QM6N22553527
+703,"When Did You Get Hot?","Sabrina Carpenter",89,7B,67,2025-09-27,02:25,87,"pop","Man’s Best Friend",2025-08-29,70,23,0,57,10,30,-5,F Major,4,0je57Uq5eTk1wrPzn9sWbl,USUM72504446
+704,"The Road Not Taken - Genshin Impact Animated Short  The Road Not Taken  Original Soundtrack","HOYO-MiX,Aimer",127,11B,30,2025-10-04,02:30,44,"soundtrack, anime, j-pop, j-rock","Genshin Impact - The Road Not Taken (Original Game Soundtrack)",2024-05-25,38,76,0,24,0,10,-9,A Major,4,13ZiVkjad58eXSASbOFqwB,FRX872425085
+705,"Get It Sexyy","Sexyy Red",145,4A,64,2025-10-15,02:28,73,"","In Sexyy We Trust",2024-05-24,81,10,0,53,20,10,-6,F Minor,4,6UmKnXmG7VmYqFnmSPOfRj,QZSYP2454435
+706,"Lights Down Low (feat. Waka Flocka Flame)","Maejor,Waka Flocka Flame",155,6A,86,2025-10-15,03:06,77,"","Lights Down Low (feat. Waka Flocka Flame)",2012-03-23,72,7,0,67,0,0,-3,G Minor,4,0hkR93a0LriV2CQUhSXw3h,USRC11200140
+707,"The Less I Know The Better","Tame Impala",117,12B,74,2025-10-15,03:36,91,"neo-psychedelic, indie","Currents",2015-07-17,64,1,1,79,0,10,-4,E Major,4,6K4t31amVTZDgR3sKmwUJJ,AUUM71500303
+708,"You Know I'm No Good","Amy Winehouse",103,11B,50,2025-10-25,04:17,70,"","Back To Black (Deluxe Edition)",2006-00-00,69,1,0,80,0,0,-14,A Major,4,0DMRKqrpd0QO4RWiEdMib0,GBUM70603488
+709,"Ayo Technology","50 Cent,Justin Timberlake,Timbaland",140,1A,78,2025-10-27,04:07,82,"old school hip hop, east coast hip hop, ","Curtis",2007-01-01,63,8,0,42,10,0,-5,G#/A♭ Minor,4,36Hwcla06Q5BCr59CL0sBp,USUM70735445
+710,"HEAVY LOVE - Slowed & Reverbed","ODECORE,Odetari",100,3B,68,2025-10-27,02:46,61,"hyperpop","HEAVY LOVE (ODECORE MIX)",2025-02-11,30,1,0,4,0,30,-5,C♯/D♭ Major,4,4uEcFKhpIqp68PNNyZQlV8,QZZ4J2500050
+711,"Me Mareo","Kidd Voodoo,JC Reyes",100,8A,38,2025-10-31,02:48,73,"reggaeton chileno, chilean trap, ","Me Mareo",2025-06-19,79,25,0,91,0,10,-9,A Minor,4,0F1svfSx95E3qDBySn719G,QMBZ92544193
+712,"Revolú","Rvfv",96,4B,85,2025-10-31,03:20,62,"flamenco urbano, flamenco","Revolú",2025-08-08,72,21,0,64,0,0,-5,G#/A♭ Major,4,0PLEcRTmhL9By2KMTqLbzz,ES75E2509658
+713,"QLOO*","Young Cister,Kreamly",118,4A,79,2025-10-31,02:26,81,"chilean trap, reggaeton chileno, chilean mambo","QLOO*",2025-05-22,71,29,0,66,10,30,-5,F Minor,4,2mdrVnxEnPR6iFijakkxQS,CLPP22500021
+714,"De las 2 (feat. Bad Bunny & Arcángel)","Trap Capos,Noriel,Bad Bunny,Arcángel",120,1A,70,2025-11-01,04:20,80,"trap latino, trap, dembow, reggaeton, latin, urbano latino","Trap Capos II",2018-04-13,74,71,0,41,10,0,-5,G#/A♭ Minor,4,4DS7HoqrKq1dDjeYOKBlu9,USSD11800083
+715,"Talento","Yan Block,Panda Black",140,9B,65,2025-11-01,02:30,83,"","Talento",2025-09-18,71,51,0,73,0,10,-8,G Major,4,7sChwC2NZjGc2Kdni3hlDg,QMDA72575168
+716,"St. Tropez Party Girl","Steeeh",91,1B,62,2025-11-13,03:34,35,"","St. Tropez Party Girl",2023-06-13,69,3,3,64,0,10,-10,B Major,4,3BRVR4UGI25iFoypCZYmNf,QZTAS2231809
+717,"My Endeavour","Ruby Roberts",176,8B,82,2025-11-27,04:05,60,"","My Endeavour",2025-07-23,42,6,0,42,0,30,-5,C Major,3,0Kf2FvTEVMj94zMNEF3zKN,GXGNZ2500004
+718,"The Fate of Ophelia","Taylor Swift",124,7B,60,2025-11-25,03:46,96,"","The Life of a Showgirl",2025-10-03,73,27,0,52,0,10,-5,F Major,4,53iuhJlwXhSER5J2IYYv1W,USUG12506436
+719,"Fame is a Gun","Addison Rae",138,2A,40,2025-11-15,03:03,88,"","Addison",2025-06-06,69,17,0,41,0,10,-7,D#/E♭ Minor,4,7B3BwNecBhKvNwSMOOl7Gk,USSM12501572
+720,"Diet Pepsi","Addison Rae",150,6B,56,2025-11-15,02:49,81,"","Addison",2025-06-06,67,50,1,82,0,10,-7,A#/B♭ Major,4,6ouhsRJ7gExB7LCYjITk4Y,USSM12405456
+721,"Aquamarine","Addison Rae",112,6A,83,2025-11-15,02:42,71,"","Addison",2025-06-06,57,8,3,69,0,10,-8,G Minor,4,3kDO0ttXrVCWbKCS3sQeC1,USSM12406242
+722,"lacy","Olivia Rodrigo",78,5B,37,2025-11-21,02:57,82,"","GUTS",2023-09-08,40,82,0,43,0,10,-8,D#/E♭ Major,4,6QT6j7rKt7Vk3IuV2AUO9W,USUG12304095
+723,"Creep","Radiohead",92,9B,43,2025-11-19,03:58,93,"art rock, alternative rock","Pablo Honey",1993-02-22,52,1,0,10,0,10,-10,G Major,4,70LcF31zb1H0PyJoS1Sx1r,GBAYE9200070
+724,"I can't do this (Super Slowed)","K3NT4!",184,10B,95,2025-12-19,03:38,57,"","I can't do this (Remixes)",2023-09-15,36,71,84,10,10,20,-3,D Major,4,6WxyHppTx0Mn48dSF4AfoZ,QM3DF2295293
+725,"Feel Good Inc.","Gorillaz,De La Soul",139,2B,71,2025-11-26,03:42,91,"jazz rap, east coast hip hop","Demon Days",2005-05-23,82,1,0,77,10,60,-7,F#/G♭ Major,4,0d28khcov6AiegSCpG5TuT,GBAYE0500172
+726,"Writing on the Wall","Will Stetson",204,12A,51,2025-11-26,04:32,60,"vocaloid","Writing on the Wall",2023-09-23,32,37,0,46,0,20,-9,C♯/D♭ Minor,3,5rxbkKhHOLYTRe066svNMI,QZTAZ2306840
+727,"Good Luck, Babe!","Chappell Roan",117,10A,58,2025-11-29,03:38,90,"","Good Luck, Babe!",2024-04-05,70,5,0,79,0,0,-6,B Minor,4,0WbMK4wrZ1wFSty9F7FCgu,USUG12401967
+728,"Everything Is Romantic","Orchestra Club",75,5A,52,2025-11-27,02:21,76,"","Everything Is Romantic",2025-10-22,24,8,19,6,0,30,-6,C Minor,1,7250RSp7sakMDZoeXuywlx,QT6E62511218
+729,"Sparks","Coldplay",103,3B,27,2025-12-17,03:47,90,"","Parachutes",2000-07-10,37,75,5,17,0,10,-11,C♯/D♭ Major,3,7D0RhFcb3CrfPuTJ0obrod,GBAYE0000569
+730,"SPECIALZ","King Gnu",117,11A,89,2025-12-03,03:53,72,"j-pop, anime, j-rock","THE GREATEST UNKNOWN",2023-11-29,56,6,0,60,0,30,-5,F#/G♭ Minor,4,5oQpH1uuZte4axR411rIlN,JPU902304724
+731,"青のすみか","Tatsuya Kitani",152,3B,89,2025-12-03,03:16,69,"anime, j-pop, j-rock","ROUNDABOUT",2024-01-10,48,1,0,65,20,30,-5,C♯/D♭ Major,4,3zbKiko8V3u2yn1RcT8xBZ,JPU902302107
+732,"LOST IN PARADISE","ALI,AKLO",122,11A,92,2025-12-03,05:28,65,"anime, j-pop, j-rap, j-r&b","MUSIC WORLD",2023-01-25,65,9,0,75,0,0,-4,F#/G♭ Minor,4,7ywfu5Bo7wKZW2WMwLpSOg,JPU902002384
+733,"Claw Marks","panicbaby",78,5A,37,2025-12-17,02:35,61,"","Claw Marks",2025-07-22,44,51,0,27,0,10,-11,C Minor,4,6QsXgv4TR4luZN0omMH5Di,DEZC62505003
+734,"La Perla","ROSALÍA,Yahritza Y Su Esencia",147,12B,34,2025-12-15,03:15,87,"latin, sad sierreño, música mexicana","LUX",2025-11-07,65,91,0,43,0,10,-6,E Major,3,4oVO4fGNRRvEn0CRuFO4qv,USSM12504035
+735,"Snowman","Sia",105,3B,52,2025-12-17,02:45,76,"","Everyday Is Christmas (Deluxe Edition)",2018-11-01,72,43,0,34,0,0,-6,C♯/D♭ Major,3,7uoFMmxln0GPXQ0AcCBXRq,USAT21704212
+736,"Summer Wine","Namocuk",67,9B,65,2025-11-22,04:55,0,"","Violets",2006-10-29,31,52,0,50,0,70,-11,G Major,4,53z2sJ2CAXg4Aj8P2pioik,QZTAW2223147
+737,"Because Of You","Miss Rey",144,5A,30,2025-11-22,04:25,0,"","Because Of You",2022-09-07,67,80,0,44,0,0,-10,C Minor,3,6MIGlDrGY7HmA3vljoxzFE,QZNWV2264670
+738,"No One Noticed","The Marías",98,9B,34,2025-12-17,03:56,90,"bedroom pop","Submarine",2024-05-31,71,55,8,46,0,10,-11,G Major,4,3siwsiaEoU4Kuuc9WKMUy5,USAT22307579
+739,"Hotel Room","FLVCKKA,Sleezy O,Maury",95,1A,80,2025-12-19,02:53,71,"neoperreo, reggaeton mexa","Hotel Room",2025-09-05,84,10,0,84,0,20,-5,G#/A♭ Minor,4,7sSDJUkOWcNyDMPs8Epg6t,QT5M22515856
+740,"From The Start","Laufey",81,3B,34,2025-12-23,02:49,88,"","Bewitched",2023-09-08,55,89,0,83,0,10,-10,C♯/D♭ Major,4,43iIQbw5hx986dUEZbr3eN,QMDA62312093
+741,"ANYTHING BUT LOVE","Tate McRae",148,3B,73,2025-12-29,02:27,79,"","SO CLOSE TO WHAT??? (deluxe)",2025-11-21,62,24,0,53,0,30,-5,C♯/D♭ Major,4,66tlRqExpkn4kRyuxelzs5,USRC12502272
+742,"Dardos","Romeo Santos,Prince Royce",127,7B,73,2026-01-02,04:03,88,"bachata, latin","Better Late Than Never",2025-11-28,74,22,0,66,0,10,-5,F Major,4,5SudOD9R1Of6CsJVWZy6CQ,USSD12500703
+743,"Music To Watch Boys To","Lana Del Rey",132,12A,49,2026-01-04,04:50,75,"","Honeymoon",2015-09-18,40,71,0,13,0,20,-8,C♯/D♭ Minor,4,34rRFl0bz9PocxWuO2ca5J,GBUM71502979
+744,"LOQUITA","JC Reyes,Slayter",120,8A,73,2026-01-15,02:30,72,"","LOQUITA",2025-11-05,78,42,0,68,10,40,-5,A Minor,4,0Jep4PtPjGk8IIrAP4W8Rz,BK4DA2556458
+745,"LOKENECESITAS","SAIKO,Omar Courtz",180,6A,86,2026-01-15,03:20,64,"","LOKENECESITAS",2025-06-12,41,4,0,57,0,10,-2,G Minor,4,58DGexVv1NdVbkiudUNi1Z,USQX92503267
+746,"locket theme","Madison Beer",130,10B,41,2026-01-16,01:28,63,"","locket",2026-01-16,47,70,0,26,0,40,-6,D Major,4,7jTivrWVYkjTXUS9DnUOfK,USSM12503871
+747,"bad enough","Madison Beer",136,5B,59,2026-01-16,03:42,71,"","locket",2026-01-16,50,17,0,22,0,30,-6,D#/E♭ Major,4,01aNqddaggrPJYUIdRApRD,USSM12503873
+748,"bittersweet","Madison Beer",110,7B,62,2026-01-16,03:22,77,"","locket",2026-01-16,63,74,0,18,0,20,-7,F Major,4,6vDVu9IM9s8L8XMQ1c1Yti,USSM12503876
+749,"YSL","8belial,yyy891,JOHNNYFUU",115,6A,66,2026-01-16,03:40,66,"neoperreo, ","YSL",2025-10-30,68,14,0,17,0,20,-6,G Minor,4,2f9KKPKgASUYZqo1JBJuFO,BK4DA2552801
+750,"11:11","JayVi",126,3A,86,2026-01-16,02:53,2,"","11:11",2026-01-10,69,6,14,54,0,0,-7,A#/B♭ Minor,4,0uBLZcJWiPA7jkluZtMr7E,QZDA42651614
+751,"angel wings","Madison Beer",143,8B,66,2026-01-16,04:04,66,"","locket",2026-01-16,52,35,0,46,0,20,-7,C Major,4,5NZPt2NB5YVpVxbIYFXeAg,USSM12503872
+752,"Know Who You Are","Auli'i Cravalho,Vai Mahina,Olivia Foa'i,Opetaia Foa'i,Matthew Ineleo,Disney",124,10A,13,2026-01-19,01:12,50,"","Vaiana (English Version/Original Motion Picture Soundtrack/Deluxe Edition)",2016-11-18,26,95,7,10,0,10,-20,B Minor,5,4bTZtlI8FeqZnT5Tch32WK,USWD11677864
+753,"Songcord Opening","Simon Franglen",112,8A,11,2026-01-19,01:58,48,"","Avatar: The Way of Water (Original Score)",2022-12-20,22,77,5,10,0,10,-21,A Minor,4,2yD04FF45W6ArE817HqYEX,USHR12244994
+754,"Songcord Chapter","Simon Franglen",58,8A,10,2026-01-19,02:10,44,"","Avatar: The Way of Water (Original Score)",2022-12-20,11,69,0,6,0,30,-20,A Minor,4,13LaLDVx3Sy33vBMpkWOiz,USHR12245079
+755,"The Songcord","Zoe Saldana",116,8A,14,2026-01-19,03:19,45,"","Avatar: The Way of Water (Original Score)",2022-12-20,22,77,0,6,0,30,-19,A Minor,1,46GMY9DgpOd1uUjZI2jXLU,USHR12245016
+756,"Dream As One","Miley Cyrus",135,7B,31,2026-01-19,03:21,54,"","Avatar: Fire and Ash (Original Motion Picture Soundtrack)",2025-12-05,57,54,0,41,0,10,-9,F Major,4,1vULfYJtt4JeE3DoCSqCPT,USSM12509552
+757,"Love Me","JMSN",81,3A,33,2026-01-20,04:33,78,"","Love Me",2023-07-19,62,23,0,43,0,70,-10,A#/B♭ Minor,4,28sawWzfucjbahooUtyrZx,TCAHE2389725
+758,"Oh My Angel","Bertha Tillman",95,8B,36,2026-01-22,02:22,38,"","Bertha Tillman",1962-04-16,45,84,0,23,0,20,-8,C Major,3,0sVfjtLTDWLgXEy7GOFibl,QT6632536839
+759,"Sports car","Tate McRae",107,10A,82,2026-01-25,02:45,86,"","So Close To What",2025-02-20,86,5,0,89,0,10,-4,B Minor,4,5UJbgR4XF4y1DvbkxEqe8S,USRC12403580
+760,"TIT FOR TAT","Tate McRae",84,1A,67,2026-01-25,02:57,81,"","SO CLOSE TO WHAT??? (deluxe)",2025-11-21,62,15,0,54,10,20,-5,G#/A♭ Minor,4,1dByUyyoRKL99fJJ6VCQzb,USRC12502004
+761,"Revolving door","Tate McRae",148,2B,74,2026-01-25,03:00,84,"","So Close To What",2025-02-21,45,35,0,18,20,10,-6,F#/G♭ Major,4,541sN2qNfIlllGn9nGOQoC,USRC12403577
+762,"It's ok I'm ok","Tate McRae",115,12A,53,2026-01-25,02:36,81,"","So Close To What",2025-02-21,75,1,0,37,0,0,-8,C♯/D♭ Minor,4,3OfqwyE7RrZrtuxCRixfII,USRC12402692
+763,"run for the hills","Tate McRae",130,4B,86,2026-01-25,02:23,82,"","THINK LATER",2023-12-08,54,50,0,32,0,10,-3,G#/A♭ Major,4,51hyZpbJlIgZIaX3TtMxmu,USRC12302981
+764,"exes","Tate McRae",137,4A,57,2026-01-25,02:39,82,"","THINK LATER",2023-12-08,82,17,0,61,0,10,-7,F Minor,4,4E63weMCaNZuGPEFMnuEi8,USRC12302756
+765,"Femme Fatale","Mon Laferte",184,3A,39,2026-02-02,04:10,69,"latin alternative","FEMME FATALE",2025-10-24,31,79,0,31,0,10,-7,A#/B♭ Minor,3,2T5ELHiRW8pGcWyJaurFgJ,USSD12500479
+766,"Tu Falta De Querer","Mon Laferte",130,6B,48,2026-02-02,04:38,84,"latin alternative","Mon Laferte (Vol. 1)",2015-08-21,39,3,1,44,0,10,-8,A#/B♭ Major,3,4skuEIloXWuxxgekKupkEH,MXUM71502002
+767,"Amárrame","Mon Laferte,Juanes",180,4A,67,2026-02-02,03:27,83,"latin alternative, latin pop, colombian pop, rock en español","La Trenza",2017-04-27,56,25,0,78,0,10,-5,F Minor,4,3EK4tGkSiO5xvvB5sM4tln,MXUM71602718
+768,"Si Tú Me Quisieras","Mon Laferte",210,7B,75,2026-02-02,03:22,80,"latin alternative","Mon Laferte (Vol. 1)",2015-08-21,32,46,0,62,10,30,-6,F Major,4,7EySX8ldJHoeWjJhJyZ8Tq,MXUM71502004
+769,"Amor Completo","Mon Laferte",176,12B,42,2026-02-02,04:01,78,"latin alternative","Mon Laferte (Vol. 1)",2015-08-21,39,66,0,35,0,10,-9,E Major,3,00kIWJu9IHiQ6i0qJAU0Z9,MXUM71502000
+770,"Supermercado","Mon Laferte",156,10B,60,2026-02-02,03:34,75,"latin alternative","1940 Carmen",2021-10-29,54,19,0,39,0,0,-6,D Major,4,7L72ZKa8nvYc0SvrYkhoux,MXUM72102963
+771,"Otra Noche de Llorar","Mon Laferte",98,11B,37,2026-02-02,03:39,72,"latin alternative","FEMME FATALE",2025-10-24,62,64,0,40,0,10,-7,A Major,3,4oP6sZWbkC3fJghTsyOgkZ,USSD12500057
+772,"Melancolía","Mon Laferte",170,10B,52,2026-02-02,03:50,72,"latin alternative","FEMME FATALE",2025-10-24,39,46,0,27,0,10,-7,D Major,3,5r9xrWqBtkiSFeEBk4VibB,USSD12500487
+773,"Tormento","Mon Laferte",73,8A,39,2026-02-05,04:36,69,"latin alternative","Mon Laferte (Vol. 1)",2015-08-21,48,21,0,29,0,20,-8,A Minor,3,0pR6N68RkIGKxitlTqraZ3,MXUM71501996
+774,"Est-ce que tu m'aimes ? - Pilule bleue","GIMS",120,10B,85,2026-02-07,03:57,79,"french rap, french r&b, french pop, pop urbaine","Mon coeur avait raison",2015-08-28,78,24,0,60,0,20,-3,D Major,4,3a9TMd2Yrza6HXqqlfMtfy,FR7U61400632
+775,"Fly Love","Jamie Foxx",116,9A,29,2026-02-14,02:39,62,"","It's a Music Match",2023-03-03,59,79,0,35,0,0,-13,E Minor,4,6P2769Z4TC9TT1XL2yGzfh,USFM91100005
+776,"yes baby","Madison Beer",134,9B,87,2026-02-14,02:55,70,"","locket",2026-01-16,55,0,5,46,0,10,-6,G Major,4,2uvLpXs8bZAjee0l3KNnhx,USSM12503835
+777,"for the night","Madison Beer",103,8A,36,2026-02-14,03:08,62,"","locket",2026-01-16,63,81,0,32,0,10,-10,A Minor,4,5XnfNWIuyArQU732bZ6Nj1,USSM12503883
+778,"healthy habit","Madison Beer",101,5B,33,2026-02-14,01:56,62,"","locket",2026-01-16,41,81,0,19,0,10,-9,D#/E♭ Major,3,3jYZFB7ohoWPuZ5wLhZkuk,USSM12503874
+779,"you're still everything","Madison Beer",94,3B,33,2026-02-14,03:29,69,"","locket",2026-01-16,47,93,0,24,0,10,-9,C♯/D♭ Major,4,13T1nG7nwaoF8EUUwAQnlp,USSM12503875
+780,"complexity","Madison Beer",145,3B,84,2026-02-14,02:37,64,"","locket",2026-01-16,54,20,0,39,0,20,-6,C♯/D♭ Major,4,7zyYU4vIzdgs4wNTOpwKfA,USSM12503877
+781,"nothing at all","Madison Beer",162,7B,51,2026-02-14,03:08,61,"","locket",2026-01-16,37,78,0,23,0,10,-6,F Major,4,1DzjKKWbPIOo2afjAufLNi,USSM12503879
+782,"Fuera Del Planeta (Remix)","Eloy,Randy Nota Loca,Zion,Jowell & Randy",95,4A,84,2026-02-14,03:42,80,"reggaeton, urbano latino","Fuera Del Planeta (Remix)",2019-03-18,79,25,0,80,0,30,-5,F Minor,4,3IAmbUs1NB8XwfhNYUXuLA,TCAES2017149
+783,"Sign of the Times","Harry Styles",120,7B,60,2026-02-14,05:40,92,"","Harry Styles",2017-05-12,52,3,0,22,0,10,-5,F Major,4,5Ohxk2dO5COHF1krpoPigN,USSM11703595
+784,"ROSITA","Tainy,Rauw Alejandro,JHAYCO",192,4A,73,2026-02-20,04:05,77,"reggaeton, urbano latino, trap latino, latin","ROSITA",2026-02-19,48,16,0,44,30,0,-4,F Minor,4,4HyPxBQDLUnY3w7gukITrW,USA2P2609072
+785,"FOREVER TU GANTEL","Omar Courtz,Ñengo Flow",83,4A,71,2026-02-20,03:46,86,"reggaeton, trap latino","POR SI MAÑANA NO ESTOY",2026-02-19,81,15,0,72,20,50,-4,F Minor,4,1YAWMfsmduIrpqrjP45pFn,QM4TW2642193
+786,"WHAT U NEED? (SexPlaylist 2)","Omar Courtz,Myke Towers",125,3A,61,2026-02-20,04:25,82,"reggaeton, trap latino, urbano latino","POR SI MAÑANA NO ESTOY",2026-02-19,74,36,0,40,0,0,-5,A#/B♭ Minor,4,7jnSlMG2jKJmKvAWxufk2I,QM4TW2642323
+787,"White Feather Hawk Tail Deer Hunter","Lana Del Rey",68,1B,39,2026-02-20,03:54,76,"","White Feather Hawk Tail Deer Hunter",2026-02-17,40,91,44,25,0,30,-11,B Major,4,7IM4xK4W4n06UAV48ZXMup,GBUM72600976
+788,"The Cut That Always Bleeds","Conan Gray",136,8B,41,2026-02-20,03:51,83,"","Kid Krow",2020-03-20,49,59,0,25,0,0,-6,C Major,4,7wTqEW5nrMhvyEhEyTnOMd,USUM71924260
+789,"because i liked a boy","Sabrina Carpenter",147,1B,59,2026-02-20,03:16,80,"pop","emails i can't send",2022-07-15,39,36,0,16,30,10,-7,B Major,4,32FhTAAjKZaBein150o3Px,USUM72210695
+790,"Amén","Cruz Cafuné",184,6B,41,2026-02-20,03:11,51,"","Amén",2017-02-09,68,14,0,41,30,10,-13,A#/B♭ Major,4,15GaOxUUGdgjXNwRYBtZxT,USCGH1760004
+791,"CONEJITA PLAYBOY","Metrika,Came Beats",170,5A,82,2026-02-20,02:18,48,"neoperreo, ","JANE DOE IN THE DREAM HOUSE",2026-01-15,73,44,0,81,10,10,-3,C Minor,4,7i1FtYA6fHykC4CiHY1Ift,USA2P2567377
+792,"UNA BIMBO POR MADRID","Metrika,D.Basto",100,4B,76,2026-02-20,02:15,56,"neoperreo","JANE DOE IN THE DREAM HOUSE",2026-01-15,67,1,0,48,10,10,-7,G#/A♭ Major,4,6ccAIVGiwh5DsVMEdc14oS,USA2P2600857
+793,"STILETTO O CUADRÁS","Metrika,D.Basto",168,4B,92,2026-02-20,02:52,60,"neoperreo","JANE DOE IN THE DREAM HOUSE",2026-01-15,51,2,0,60,10,10,-4,G#/A♭ Major,4,0PJWk9tLX9GI4rtYuVVtBp,USA2P2600858
+794,"VIRGEN PUTITA","Metrika,D.Basto",95,9A,89,2026-02-20,02:56,47,"neoperreo","JANE DOE IN THE DREAM HOUSE",2026-01-15,74,4,0,20,0,20,-4,E Minor,4,35DWRck5Ihb8PIC7S2KyFW,BK4DA2558632
+795,"RIDIN","Tokischa",96,9A,72,2026-02-20,02:00,56,"dembow, neoperreo","RIDIN",2026-01-29,76,16,0,47,0,0,-7,E Minor,4,4D8EhdAPBtxxXWTwajdblG,USWL12600065
+796,"MUSEO","Rauw Alejandro",109,8B,45,2026-02-20,04:15,71,"reggaeton, urbano latino, trap latino, latin","TRAP CAKE VOL. 2",2022-02-25,79,76,0,32,0,10,-7,C Major,4,6WfxIJKmYRSpsBJv0tEAKX,USSD12200111
+797,"Romeo y Julieta","Eladio Carrion,Quevedo",83,12A,69,2026-02-20,03:26,65,"trap latino, urbano latino, ","DON KBRN",2025-04-03,41,11,0,9,10,20,-5,C♯/D♭ Minor,4,4hY6swYPVeFVKFaormmzez,QM6N22513631
+798,"TOTO DE LOCA","Metrika",100,12A,82,2026-02-20,03:00,59,"neoperreo","Neofita",2025-05-09,87,10,0,36,0,10,-6,C♯/D♭ Minor,4,1BHscyZF6ZHx534gxTsjPe,QZMZ92518975
+799,"Princesa","Ñejo,Feid",93,4A,66,2026-02-20,03:08,54,"reggaeton, urbano latino","Princesa",2025-10-02,89,3,0,89,0,10,-4,F Minor,4,0CyZIh9olFTztxvyHJ4LwP,USWL12504866
+800,"WIFE MATERIAL*","Young Cister,Rvfv",100,1A,84,2026-02-20,03:34,52,"chilean trap, reggaeton chileno, chilean mambo, flamenco urbano, flamenco","WIFE MATERIAL*",2025-10-02,69,8,0,42,0,10,-3,G#/A♭ Minor,4,2rRf0QyHyweHJgWw7pgT7p,CLPP22500078
+801,"Netflixxx","Brytiago,Bad Bunny",135,11A,61,2026-02-20,03:38,1,"trap latino, reggaeton, urbano latino, trap, latin","Netflixxx",2017-06-30,71,71,0,58,10,10,-6,F#/G♭ Minor,4,5gFAT2DbEt4TOMXyAMEixG,QM6N21722775
+802,"ETA - RMX","ROA,De La Rose,Luar La L,Yan Block,Omar Courtz",88,3A,74,2026-02-20,07:42,75,"trap latino, ","Private Suite (Vol. 2)",2024-12-13,61,44,0,56,20,10,-5,A#/B♭ Minor,4,3YrTrs2hJbLklaBdhr4TrH,USUM72414044
+803,"American wedding","grxped",147,10B,49,2026-02-23,04:04,23,"","American wedding",2025-07-17,38,17,0,64,20,30,-18,D Major,4,6Wqst4XRuOfR2smnNpzf7o,QZVEM2579863
+804,"David","Lorde",80,8B,27,2026-02-23,03:24,75,"","Virgin",2025-06-27,44,92,0,35,0,10,-10,C Major,4,6ghDayhHeBXAP4OOnnrFW9,NZUM72500030
+805,"Promise","Laufey",76,7B,11,2026-02-24,03:54,83,"","Bewitched",2023-09-08,26,94,0,9,0,0,-17,F Major,4,08PdFBcXzpkn1cWNgmKqhn,QMDA62312092
+806,"How Deep Is Your Love","Calvin Harris,Disciples",122,10A,87,2026-02-28,03:32,80,"edm, house","How Deep Is Your Love",2015-07-17,74,4,0,34,0,30,-4,B Minor,4,22mek4IiqubGD9ctzxc69s,GBARL1500704
+807,"Wicked Game","Chris Isaak",112,11B,30,2026-03-15,04:49,86,"","Heart Shaped World",1989-06-13,66,68,1,36,0,0,-18,A Major,4,7w5AOd6HrDIHewHfpABEss,USRE19900989
+808,"よあけのうた - Yoake no uta","jo0ji",150,8B,69,2026-03-16,03:19,71,"anime, j-pop","よあけのうた - Yoake no uta - JUJUTSU KAISEN The Culling Game part1 Ending Theme Song",2026-01-10,53,28,0,41,0,0,-5,C Major,4,5EiVeDviICNBtdhZwGxp0Z,JPU902504636
+809,"Feeling Good","Michael Bublé",115,3B,55,2026-03-19,03:57,73,"christmas","It's Time",2005-02-08,54,53,0,48,0,10,-7,C♯/D♭ Major,3,1AM8QdDFZMq6SrrqUnuQ9P,USRE10401889
+810,"Beast (feat. Waka Flocka)","Mia Martina,Waka Flocka Flame",135,4B,50,2026-03-23,03:09,79,"","Beast (feat. Waka Flocka)",2015-04-07,71,7,0,26,0,30,-7,G#/A♭ Major,4,3mMjFf10PfJyvHHTyQYYdj,CACA61400032
+811,"Me Estas Tentando","Wisin & Yandel",116,8A,92,2026-04-03,03:49,79,"reggaeton, urbano latino","La Revolucion (Deluxe)",2009-01-01,81,28,0,77,0,30,-3,A Minor,4,7JVIiaJPFiZypYSOMREhhA,USUM70838313
+812,"Guaya Guaya","Don Omar",92,9B,87,2026-04-03,03:13,80,"reggaeton, urbano latino","The Last Don II",2015-06-16,79,1,0,70,10,0,-2,G Major,4,79zvVrn65ksbiGQxrtV4I5,USUM71411582
+813,"Dracula","Tame Impala",115,2A,73,2026-04-05,03:25,87,"neo-psychedelic, indie","Dracula",2025-09-26,42,3,0,61,0,30,-4,D#/E♭ Minor,4,709ZIqPHyFOpx2QdjmeWAM,USQX92504223
+814,"(When You Gonna) Give It Up to Me - Radio Version","Sean Paul,Keyshia Cole",96,4B,76,2026-04-07,04:03,93,"dancehall, r&b","(When You Gonna) Give It Up to Me",2006-09-30,71,7,0,72,20,0,-3,G#/A♭ Major,4,5nEdwtSv0qqeE0l4o1lR4q,USAT20615165
+815,"Stateside + Zara Larsson","PinkPantheress,Zara Larsson",123,2B,66,2026-04-08,03:04,97,"bedroom pop, ","Fancy Some More?",2025-10-10,68,7,0,85,0,20,-6,F#/G♭ Major,4,1DwscornXpj8fmOmYVlqZt,GBAYE2501217
+816,"Again (feat. XXXTENTACION)","Noah Cyrus,XXXTENTACION",120,8A,74,2026-04-09,03:13,84,"emo rap","Again (feat. XXXTENTACION)",2017-09-22,66,19,0,20,0,10,-4,A Minor,4,2S2od3hT7ceytw7d1pTRuE,QM33K1700076
+817,"愛について〜Eros〜","Taku Matsushiba,Jin Oki",104,9B,71,2026-04-18,02:16,40,"anime, j-rock, japanese classical","Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION",2016-12-21,43,6,5,55,0,30,-7,G Major,3,4zUb0xOVlMqBFKNeAEpS0y,JPT551600931
+818,"Out Like a Light","The Honeysticks,Ricky Montgomery,Caleb Hurst",126,1B,46,2026-04-19,04:16,56,"","Out Like a Light",2017-06-16,52,16,0,35,0,0,-8,B Major,3,78rXjWfGsZVCY4JodrVq0i,USQY51754031
+819,"Les","Childish Gambino",103,12A,67,2026-04-21,05:17,88,"","Camp",2011-11-15,54,1,0,13,0,20,-7,C♯/D♭ Minor,4,7ghKr0pCYyPPyp7t1FH8k4,USYAH1100353
+820,"My All","Mariah Carey",108,6A,32,2026-04-25,03:50,77,"christmas","Butterfly",1997-09-16,61,73,0,11,0,0,-10,G Minor,4,3RSpK5Y0y5tl25qvssrwJ6,USSM19701965
