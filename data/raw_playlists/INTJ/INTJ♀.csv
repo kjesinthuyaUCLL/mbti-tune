@@ -1,0 +1,295 @@
+#,Song,Artist,BPM,Camelot,Energy,Added At,Duration,Popularity,Genres,Album,Album Date,Dance,Acoustic,Instrumental,Valence,Speech,Live,Loud (Db),Key,Time Signature,Spotify Track Id,ISRC
+1,"Genesis","Grimes",166,3A,68,2021-02-15,04:15,0,"art pop","Visions",2012-03-12,61,8,7,23,0,20,-7,A#/B♭ Minor,4,48p1tayyXF3eh8E3Y4pXmK,CA21O1200002
+2,"Too Afraid to Love You","The Black Keys",137,10A,68,2021-02-15,03:24,45,"blues rock, garage rock, modern blues, rock","Brothers",2010-05-18,53,2,0,54,0,10,-6,B Minor,4,1comODdI862K7ei34XZRa4,USNO11000083
+3,"I Can't Handle Change","Roar",186,7B,44,2021-02-15,03:18,2,"","I Can't Handle Change",2010-03-14,25,4,0,39,0,10,-8,F Major,3,0I1eFRytp4XRhLCjT6tZm7,USHM81020595
+4,"Breezeblocks","alt-J",75,7B,64,2021-02-15,03:47,0,"indie, indie rock","An Awesome Wave",2012-05-28,61,12,0,26,0,10,-7,F Major,4,3Wu6MhnZuLuzfH5wFC2g9i,GBZUZ1200067
+5,"Psycho Killer","Talking Heads",123,10B,40,2021-02-15,04:20,78,"new wave, post-punk","Talking Heads '77",1977-09-16,72,6,0,94,0,10,-12,D Major,4,7dSCxR4LqkmxoBrq9MzVSD,USWB19900858
+6,"No Wind Resistance!","Kinneret",140,12A,49,2021-02-15,03:18,0,"","DMZ",2019-06-28,69,23,0,47,0,10,-12,C♯/D♭ Minor,4,78Vm1H6bT8WQyPNyx7HBhP,QZFYX1935392
+7,"Slip","Elliot Moss",64,5A,28,2021-02-15,04:58,0,"","Highspeeds",2015-04-28,72,75,0,35,0,10,-10,C Minor,4,0OY2KqGxYAUizKfjwsPrbp,QMES51350017
+8,"Let It Happen","Tame Impala",125,12A,88,2021-02-15,07:47,87,"neo-psychedelic, indie","Currents",2015-07-17,60,0,3,58,0,10,-6,C♯/D♭ Minor,4,2X485T9Z5Ly0xyaghN73ed,AUUM71500292
+9,"Lonely","Noah Cyrus",122,7B,28,2021-02-15,02:24,61,"","THE END OF EVERYTHING",2020-05-15,53,80,0,34,0,0,-8,F Major,4,6U1iuA5QfzYRPJxvdcxqtf,USQX91902251
+10,"Genius (feat. Sia, Diplo, and Labrinth)","Sia,Diplo,Labrinth,LSD",159,10A,62,2021-02-16,03:33,77,"moombahton, dance pop","LABRINTH, SIA & DIPLO PRESENT... LSD",2019-04-12,60,8,0,56,10,10,-5,B Minor,4,4xigPf2sigSPmuFH3qCelB,USQX91800798
+11,"Elephant","Tame Impala",123,8A,55,2021-02-25,03:31,75,"neo-psychedelic, indie","Lonerism",2012-01-01,60,56,16,53,0,20,-7,A Minor,4,6qZjm61s6u8Ead9sWxCDro,AUUM71200495
+12,"Human","Sevdaliza",98,6B,17,2021-02-27,03:12,0,"","Ison",2017-04-26,54,25,3,16,0,20,-12,A#/B♭ Major,4,4LIIWJjlXMftVKMQWUrxKO,NLE3U1500017
+13,"Harder, Better, Faster, Stronger","Daft Punk",123,11A,72,2021-02-27,03:46,77,"french house, electronic, electro","Discovery",2001-03-12,82,4,0,69,10,30,-9,F#/G♭ Minor,4,5W3cjX2J3tjhG8zb6u0qHn,GBDUW0000059
+14,"Pumped Up Kicks","Foster The People",128,4A,71,2021-03-12,03:59,87,"","Torches",2011-05-23,73,14,12,97,0,10,-6,F Minor,4,7w87IxuO7BDcJ3YUqCyMTT,USSM11002931
+15,"Disciples","Tame Impala",127,7B,87,2021-03-13,01:48,66,"neo-psychedelic, indie","Currents",2015-07-17,66,8,92,80,0,40,-5,F Major,4,2gNfxysfBRfl9Lvi9T3v6R,AUUM71500297
+16,"Nobody","Mitski",117,8B,72,2021-03-15,03:13,0,"","Be the Cowboy",2018-08-17,40,8,0,49,0,0,-5,C Major,4,6bTn1ovliI0OkjUNkiMBJq,USJ5G1815009
+17,"Strange Little Girl","The Stranglers",126,8B,32,2021-03-17,02:41,0,"proto-punk, new wave","Greatest Hits 1977-1990",1990-11-16,63,86,23,24,0,10,-16,C Major,4,7jSEKSSKtl3o12RAoFpOUh,GBBBN0009176
+18,"Mystery Girl","Housecall",135,9B,91,2021-03-17,02:56,44,"","Mystery Girl",2018-07-11,64,1,2,74,0,0,-7,G Major,4,07NE8Em6ofFaB2nWyAoVPi,USHM81811013
+19,"New Person, Same Old Mistakes","Tame Impala",152,4B,81,2021-03-17,06:03,85,"neo-psychedelic, indie","Currents",2015-07-17,47,27,1,49,0,0,-7,G#/A♭ Major,4,52ojopYMUzeNcudsoz7O9D,AUUM71500302
+20,"Supermassive Black Hole","Muse",120,9B,92,2021-03-17,03:32,84,"alternative rock, rock","Black Holes and Revelations",2006-06-28,67,5,1,78,0,0,-4,G Major,4,3lPr8ghNDBLc2uZovNyLs9,GBAHT0500593
+21,"Feels Like We Only Go Backwards","Tame Impala",150,7A,90,2021-03-17,03:12,80,"neo-psychedelic, indie","Lonerism",2012-01-01,30,3,64,49,0,10,-2,D Minor,4,0LtOwyZoSNZKJWHqjzADpW,AUUM71200493
+22,"You Don't Own Me","Lesley Gore",95,10B,41,2021-03-17,02:30,0,"","Lesley Gore Sings Of Mixed-Up Hearts",1963-11-01,48,70,0,68,0,70,-10,D Major,3,5E1pngWasYW2Y6OjV6WMUs,USPR36309035
+23,"Comfortably Numb - 2011 Remastered Version","Pink Floyd",127,10A,31,2021-03-17,06:19,3,"progressive rock, psychedelic rock, classic rock, art rock, rock","The Wall (Remastered)",1979-11-30,48,15,22,18,0,10,-15,B Minor,4,7Fg4jpwpkdkGCvq1rrXnvx,GBN9Y1100113
+24,"Comme Des Garçons (Like The Boys)","Rina Sawayama",119,8B,72,2021-03-17,03:01,57,"","SAWAYAMA",2020-04-17,72,2,0,65,10,40,-4,C Major,4,43bYs8QkPdCdy5esfnmU1T,GBK3W1901218
+25,"Poker Face","Lady Gaga",119,12B,81,2021-03-17,03:57,86,"art pop, pop","The Fame",2008-01-01,85,12,0,77,0,10,-5,E Major,4,1QV6tiMFM6fSOKOGLMHYYg,USUM70824409
+26,"Dreamer - Compound Version","Charli xcx,Starrah,RAYE",140,5A,63,2021-03-17,03:58,48,"hyperpop, art pop, ","Number 1 Angel",2017-03-10,58,3,0,30,0,60,-6,C Minor,4,7Coulic7di20MlW1bEytkQ,GBAHS1700246
+27,"Burning Pile","Mother Mother",140,7B,76,2021-03-17,04:22,2,"","O My Heart",2008-09-23,52,6,0,17,0,10,-4,F Major,4,0zMAvsQmaQ4DGsmXtKixpn,CAL450882102
+28,"Line Without a Hook","Ricky Montgomery",190,4B,65,2021-03-17,04:09,0,"","Montgomery Ricky",2016-04-08,43,26,0,51,0,20,-5,G#/A♭ Major,3,5jvgec3P4jyoZUPTy2pWDR,USA2P1624696
+29,"Traffic Lights","Oceans Ahead,Kali Rea",116,12A,84,2021-03-17,02:36,0,"","Traffic Lights",2020-03-13,94,22,0,54,10,10,-4,C♯/D♭ Minor,4,4Wmi9YUyrXpHrI7IzpxmDk,QZFZ52001412
+30,"You Spin Me Round (Like a Record)","Dead Or Alive",128,11A,94,2021-03-17,03:19,4,"hi-nrg, synthpop","Youthquake",1985-03-26,57,3,10,97,0,50,-8,F#/G♭ Minor,4,7uHO4AmKtyGa5v5fsElGoC,GBBBM8502013
+31,"Under Pressure - Remastered 2011","Queen,David Bowie",114,10B,71,2021-03-17,04:08,84,"classic rock, rock, glam rock, art rock","Hot Space (2011 Remaster)",1982-05-03,67,43,0,46,0,10,-8,D Major,4,2fuCquhmrzHpu5xcA1ci9x,GBUM71029622
+32,"Breathe Deeper","Tame Impala",105,10A,85,2021-03-17,06:12,74,"neo-psychedelic, indie","The Slow Rush",2020-02-14,66,2,0,50,0,10,-5,B Minor,4,3LbZIhU0smEU5SUnxod4j4,AUUM71900929
+33,"Enjoy the Silence","Depeche Mode",113,5A,84,2021-03-17,04:15,78,"new wave, synthpop, darkwave","The Singles 86-98",1998-09-28,66,20,0,75,0,0,-6,C Minor,4,6WK9dVrRABMkUXFLNlgWFh,GBAJH9800146
+34,"Feel Good Inc.","Gorillaz,De La Soul",139,2B,71,2021-03-17,03:42,91,"jazz rap, east coast hip hop","Demon Days",2005-05-23,82,1,0,77,10,60,-7,F#/G♭ Major,4,0d28khcov6AiegSCpG5TuT,GBAYE0500172
+35,"Tighten Up","The Black Keys",109,11A,71,2021-03-17,03:31,0,"blues rock, garage rock, modern blues, rock","Brothers (Deluxe Edition)",2010-10-18,46,0,0,58,0,40,-6,F#/G♭ Minor,4,3smAYCIyUKT0uiw4HMpIJl,USNO11000078
+36,"Old Yellow Bricks","Arctic Monkeys",135,8B,84,2021-03-21,03:13,67,"indie, garage rock","Favourite Worst Nightmare",2007-04-22,66,0,0,76,0,0,-4,C Major,4,5KGbRvZyVyKP2AEJMHErB4,GBCEL0700073
+37,"The Adults Are Talking","The Strokes",165,7B,75,2021-03-27,05:09,85,"garage rock, indie rock, alternative rock","The New Abnormal",2020-04-10,59,1,11,65,0,30,-6,F Major,4,5ruzrDWcT0vuJIOMW7gMnW,USRC11902726
+38,"I Don't Love Anyone (but You're Not Just Anyone)","Peter Doherty",102,2A,51,2021-03-27,03:26,0,"","Hamburg Demonstrations",2016-12-02,63,14,1,20,0,10,-9,D#/E♭ Minor,4,5KeoEDoWymkEuFXr7Pn9GC,GB5KW1601889
+39,"Think","Aretha Franklin",110,2B,75,2021-03-27,02:18,51,"soul, motown, classic soul","Soul Queen",2007-10-29,69,37,0,91,0,60,-6,F#/G♭ Major,4,0jkBzn7J5jc889TYxwvXy6,USAT29902238
+40,"Michelle","Sir Chloe",116,12B,44,2021-03-27,03:34,0,"","Party Favors",2020-10-23,37,8,0,11,0,10,-5,E Major,3,48rZVgAGm0OlbbxjikCpqm,QZDA41967250
+41,"Verbatim","Mother Mother",78,9B,58,2021-03-27,02:48,1,"","Touch Up",2007-05-08,83,31,0,49,30,10,-7,G Major,4,266Vb7ItE3o1q8HdJ9QOvn,CAL450793908
+42,"Oblivion","Grimes",156,10B,53,2021-03-27,04:11,0,"art pop","Visions",2012-03-12,70,12,90,49,0,0,-9,D Major,4,2RtNSM8cPCAOZ5bvQbW6y3,CA21O1200003
+43,"Fitzpleasure","alt-J",144,11B,59,2021-03-27,03:39,0,"indie, indie rock","An Awesome Wave",2012-05-28,59,14,0,36,0,10,-7,A Major,4,2UcvadWJXH3jQ3lJRA8RRu,GBZUZ1100059
+44,"Strange Boy (Bonus Track)","The Shacks",172,8B,68,2021-03-27,03:26,0,"","The Shacks EP",2016-10-28,31,31,0,50,0,10,-6,C Major,4,0MH7zN6hUMLZoy08KGuGOV,QZ2L61600069
+45,"Jungle","Emma Louise",126,6A,64,2021-03-27,03:22,0,"","Vs Head Vs Heart",2013-03-22,70,46,18,70,0,10,-9,G Minor,4,5sAYqcQTEQbTbxdcqI4b8v,AUM221100014
+46,"Social Cues","Cage The Elephant",132,11B,91,2021-03-27,03:39,68,"","Social Cues",2019-04-19,67,1,0,93,0,10,-3,A Major,4,1KuVdyg8d6NlRhbpHxg5UF,USRC11803824
+47,"Evil Woman","Electric Light Orchestra",120,8A,62,2021-03-27,04:36,63,"art rock, soft rock","Face the Music",1975-10-01,68,46,0,74,0,20,-7,A Minor,4,777NOXupZkFdg8zlPMoVqc,USSM10600994
+48,"Broken","Lund",134,8B,58,2021-03-27,03:20,69,"emo rap","Broken",2020-04-17,83,6,0,15,0,10,-2,C Major,4,4W8sUeokQKfHt1uTXp0Jq0,QM42K1605263
+49,"Woman","Harry Styles",136,2A,65,2021-03-27,04:38,67,"","Harry Styles",2017-05-12,62,2,0,38,0,20,-5,D#/E♭ Minor,4,33bURv895AN4FkBvgFo2dx,USSM11703960
+50,"Man's World","MARINA",110,4A,71,2021-03-27,03:27,0,"","Man's World",2020-11-18,50,40,0,23,0,0,-6,F Minor,4,2XWusA74Rg68E23sVOfBlK,USAT22001218
+51,"Nightcall","Kavinsky",91,8A,87,2021-03-27,04:18,76,"synthwave, french house","Nightcall",2010-00-00,53,1,1,36,0,40,-5,A Minor,4,0U0ldCRmgCqhVvD6ksG63j,FRS710900410
+52,"Louise","TV Girl",116,8B,92,2021-03-27,03:14,0,"","French Exit",2014-06-05,73,17,1,92,0,30,-5,C Major,4,0jRDNrCKo3vEKyiuQfSVLW,ushm21438137
+53,"As the World Caves In","Matt Maltese",124,6B,45,2021-04-04,03:38,69,"","As the World Caves In",2017-03-06,33,37,0,18,0,20,-5,A#/B♭ Major,4,4JE6agBLHGA5TaF6FlqfBD,GBAHS1700229
+54,"Washing Machine Heart","Mitski",106,11B,82,2021-04-08,02:08,0,"","Be the Cowboy",2018-08-17,62,1,49,58,0,40,-4,A Major,4,4Ys8jQvZOISzmp34BsImRf,USJ5G1815012
+55,"Chamber Of Reflection","Mac DeMarco",131,1B,56,2021-04-10,03:51,1,"indie, lo-fi indie","Salad Days",2014-04-01,54,26,91,51,0,10,-9,B Major,4,1MJ5f5EYBC92ADD6xcz7nb,QMMZN1300568
+56,"Animal","Sir Chloe",83,9B,46,2021-05-02,02:40,0,"","Party Favors",2020-10-23,50,41,0,34,0,10,-6,G Major,4,1iBljl6IFBU6OkUMJVKMbn,QZDA71914491
+57,"Little Dark Age","MGMT",98,2B,71,2021-05-02,04:59,80,"indie","Little Dark Age",2018-02-09,71,1,0,62,0,10,-6,F#/G♭ Major,4,2Y0iGXY6m6immVb2ktbseM,USSM11707035
+58,"Killer Queen - Remastered 2011","Queen",117,6B,65,2021-05-02,02:59,71,"classic rock, rock, glam rock","Sheer Heart Attack (Deluxe Remastered Version)",1974-11-08,54,38,0,61,0,10,-6,A#/B♭ Major,4,7GqWnsKhMtEW0nzki5o0d8,GBUM71029606
+59,"Consideration","Rihanna,SZA",145,6A,58,2021-05-02,02:41,0,"r&b","ANTI",2016-01-28,88,4,0,78,0,0,-2,G Minor,4,0WgBb7XgdtbUW0GlYel9mH,QM5FT1600113
+60,"Here","Alessia Cara",120,8B,82,2021-05-02,03:19,70,"","Know-It-All (Deluxe)",2016-03-11,38,8,0,33,10,0,-4,C Major,4,664gdARxaClFsoF5SXKOws,USUM71506251
+61,"Where Is My Mind? - 2007 Remaster","Pixies",81,12B,44,2021-05-02,03:54,80,"alternative rock","Surfer Rosa (2007 Remaster)",1988-03-21,52,2,0,25,0,0,-14,E Major,4,7wCmS9TTVUcIhRalDYFgPy,GBAFL0700145
+62,"Back To Black","Amy Winehouse",123,6B,73,2021-05-02,04:00,82,"","Back To Black",2006-10-27,49,12,0,34,0,10,-3,A#/B♭ Major,4,30FURVTCpbKyykjSEQzGkH,GBUM70604698
+63,"Verbatim","Mother Mother",78,9B,58,2021-05-02,02:48,0,"","Touch Up",2007-05-08,83,31,0,49,30,10,-7,G Major,4,0THzsgFeDDpEElsRxyJBZB,CAL450793908
+64,"Oh Ana","Mother Mother",128,7B,53,2021-05-02,03:17,0,"","Touch Up",2007-05-08,51,67,0,34,0,10,-7,F Major,4,2ag28zkxul9hTpi5ksQLRp,CAL450793904
+65,"Hayloft","Mother Mother",96,8A,92,2021-05-02,03:01,0,"","O My Heart",2008-09-23,53,0,0,49,0,40,-3,A Minor,4,2ZPw5uyVI5m1nSvjQYmf3j,CAL450882108
+66,"Babooshka","Kate Bush",107,4A,44,2021-05-02,03:29,61,"art pop, baroque pop, art rock","Never for Ever",1980-09-08,47,74,0,29,0,0,-9,F Minor,4,53Mz9H5UvWMQUXHZnaZYKQ,GBAYE8000069
+67,"Do I Wanna Know?","Arctic Monkeys",85,7B,53,2021-05-03,04:32,89,"indie, garage rock","AM",2013-09-09,55,19,0,41,0,20,-8,F Major,4,5FVd6KXrgO9B3JPmC8OPst,GBCEL1300362
+68,"Devil Eyes","Hippie Sabotage",99,12A,40,2021-05-03,02:11,78,"","Providence",2016-02-05,39,70,41,20,10,30,-9,C♯/D♭ Minor,5,7MiZjKawmXTsTNePyTfPyL,US7SR1600006
+69,"Stargirl Interlude","The Weeknd,Lana Del Rey",90,4A,47,2021-09-24,01:51,79,"","Starboy",2016-11-24,72,35,9,43,0,10,-13,F Minor,4,5gDWsRxpJ2lZAffh5p7K0w,USUG11600986
+70,"Independent Women, Pt. 1","Destiny's Child",98,11A,60,2021-05-03,03:41,66,"","Survivor",2001-05-01,73,36,0,93,20,10,-4,F#/G♭ Minor,4,69XUpOpjzDKcfdxqZebGiI,USSM10013276
+71,"UCKERS","Shygirl",98,9A,56,2021-05-03,01:55,38,"hyperpop","UCKERS",2019-06-12,77,1,1,50,0,30,-7,E Minor,4,1tZAEXxVr3W1XHPQZslOEI,UKQNV1900059
+72,"505","Arctic Monkeys",140,8B,87,2021-05-04,04:13,88,"indie, garage rock","Favourite Worst Nightmare",2007-04-22,53,0,0,25,0,0,-6,C Major,4,0BxE4FqsDD1Ot4YuBXwAPp,GBCEL0700074
+73,"Bad","Michael Jackson",114,4B,87,2021-05-04,04:07,58,"","HIStory - PAST, PRESENT AND FUTURE - BOOK I",1995-06-16,80,1,24,34,0,0,-5,G#/A♭ Major,4,3FvQH46A4B37eNHjooIXcu,USSM18700002
+74,"Loner","Kali Uchis",120,12A,68,2021-05-09,03:32,14,"","Por Vida",2015-02-04,72,87,12,51,0,30,-6,C♯/D♭ Minor,4,6m6R6O2BOZDCNymhJ45spI,QM8DG1400271
+75,"She's My Collar (feat. Kali Uchis)","Gorillaz,Kali Uchis",140,1B,82,2021-05-13,03:29,80,"","Humanz (Deluxe)",2017-04-28,73,1,8,46,0,10,-6,B Major,4,3lIxtCaROdRDuTnNBDm3n2,GBAYE1700176
+76,"Snap Out Of It","Arctic Monkeys",130,4A,64,2021-05-27,03:13,81,"indie, garage rock","AM",2013-09-09,73,25,0,87,0,10,-6,F Minor,4,0NdTUS4UiNYCNn5FgVqKQY,GBCEL1300371
+77,"Arabella","Arctic Monkeys",180,10B,56,2021-05-28,03:27,77,"indie, garage rock","AM",2013-09-09,58,2,0,51,0,20,-7,D Major,4,7nzsY8vlnKdvGOEE0rjAXZ,GBCEL1300365
+78,"Murders","Miracle Musical",144,10A,41,2021-09-24,03:42,61,"","Hawaii: Part II",2012-12-12,34,87,43,26,0,10,-10,B Minor,4,0AFydkgl5Creero3gNjqvF,TCACB1435453
+79,"Oh No!","MARINA",127,8B,90,2021-06-01,03:02,73,"","The Family Jewels",2009-07-15,77,5,0,96,0,20,-4,C Major,4,4sNwdacKyi2S26WrRtNama,GBFFS0900127
+80,"Devil's Advocate","The Neighbourhood",98,10A,68,2021-06-03,03:06,71,"","Chip Chrome & The Mono-Tones",2020-09-25,66,3,14,86,0,50,-8,B Minor,4,4XfI7M5gLwEY84gYiH4RDD,USSM12003781
+81,"Why'd You Only Call Me When You're High?","Arctic Monkeys",92,10B,63,2021-06-15,02:41,87,"indie, garage rock","AM",2013-09-09,69,5,0,80,0,10,-6,D Major,4,086myS9r57YsLbJpU0TgK9,GBCEL1300370
+82,"Take Care Of Business","Nina Simone",103,7A,49,2021-06-22,02:05,51,"vocal jazz, soul jazz, soul, jazz, blues","I Put A Spell On You",1965-06-01,65,75,0,74,0,10,-9,D Minor,4,2YwjSPeznyCvkUYvqKbXa9,USPR36560024
+83,"Dead To Me","Kali Uchis",119,9A,76,2021-06-30,03:19,77,"","Isolation",2018-04-06,68,43,0,43,0,10,-4,E Minor,4,6LOZws7T3jqZz78unPgFF9,GBUM71801115
+84,"Trouble","Cage The Elephant",78,8B,62,2021-06-30,03:45,73,"","Tell Me I'm Pretty",2015-12-18,47,39,0,30,0,10,-6,C Major,4,5n0CTysih20NYdT2S0Wpe8,USRC11502826
+85,"Shine A Little Light","The Black Keys",111,1A,72,2021-06-30,03:16,61,"blues rock, garage rock, modern blues, rock"," Let's Rock ",2019-06-28,44,2,0,52,0,0,-7,G#/A♭ Minor,4,365TSrFPqM66giaxJuafR3,USNO11900064
+86,"Knee Socks","Arctic Monkeys",98,10A,54,2021-07-03,04:17,78,"indie, garage rock","AM",2013-09-09,67,12,0,59,0,30,-8,B Minor,4,2LGdO5MtFdyphi2EihANZG,GBCEL1300372
+87,"Black Sheep - Brie Larson Vocal Version","Metric,Brie Larson",124,10A,60,2021-07-09,04:54,76,"","Black Sheep (Brie Larson Vocal Version)",2010-00-00,46,0,0,17,0,0,-6,B Minor,4,60TThBDrPpek5k520l0W0L,USA172092020
+88,"Solitude Is Bliss","Tame Impala",104,9A,85,2021-07-21,03:55,60,"neo-psychedelic, indie","InnerSpeaker",2010-05-21,59,1,0,63,0,10,-5,E Minor,4,2a2MbiJN2skOxohykOVcss,AUUM71000136
+89,"Solitude","M83",122,5A,31,2021-07-21,06:03,50,"","Junk",2016-04-08,35,7,49,9,0,10,-8,C Minor,4,49xgzcmtmEnsEDWSOMYWoD,GB55H1600007
+90,"Lovely Head","Goldfrapp",109,4A,41,2021-07-26,03:49,0,"trip hop, electroclash, art pop","Felt Mountain",2000-09-10,48,68,94,5,0,10,-10,F Minor,4,2YxXBLWd39JelHf6LhxZ2o,GBAJH0000082
+91,"Bad Friend","Rina Sawayama",95,4B,72,2021-07-26,03:28,45,"","SAWAYAMA",2020-04-17,55,22,0,45,0,30,-4,G#/A♭ Major,4,1ApN1loxlt0rzRFc8iETw7,GBK3W1901229
+92,"Sad Girl","Lana Del Rey",119,7B,59,2021-07-26,05:17,57,"","Ultraviolence",2014-01-01,35,54,7,26,0,10,-8,F Major,4,29RfrpHC12SyrPW1ozqdWz,GBUM71402107
+93,"Solitaire","MARINA",109,6A,44,2021-07-26,04:37,39,"","Froot",2015-03-13,63,77,0,20,0,10,-11,G Minor,4,4eU7lxV6m9wULReRRtGaZ8,GBAHS1400460
+94,"Cool Cat - Remastered 2011","Queen",74,11B,40,2021-07-30,03:29,72,"classic rock, rock, glam rock","Hot Space (2011 Remaster)",1982-05-03,82,30,0,84,10,10,-10,A Major,4,7nhWtCc3v6Vem80gYPlppQ,GBUM71103440
+95,"Venus Fly Trap","MARINA",135,8A,86,2021-08-02,02:38,56,"","Ancient Dreams In A Modern Land",2021-06-11,59,9,0,52,0,30,-4,A Minor,4,6h7AmUi3ghBeEfsZygAxOd,USAT22101675
+96,"Bang Bang Bang Bang","Sohodolls",94,3A,58,2021-08-04,03:01,64,"","Ribbed Music For The Numb Generation",2007-09-24,73,52,0,37,0,10,-7,A#/B♭ Minor,4,1MPMUZopRX9DFx3HXToTKG,GBHGV0700025
+97,"Don't Stop Me Now - Remastered 2011","Queen",156,7B,87,2021-08-05,03:29,85,"classic rock, rock, glam rock","Jazz (2011 Remaster)",1978-11-10,56,5,0,61,10,70,-5,F Major,4,5T8EDUDqKcs6OSOwEsfqG7,GBUM71029610
+98,"Oh My God","Sevdaliza",90,5B,36,2021-08-06,03:14,42,"","Shabrang",2020-08-28,66,18,0,25,0,10,-9,D#/E♭ Major,4,6OhkOasd2Mume69b87jwbN,NLE3U2000001
+99,"Mount Everest","Labrinth",88,5A,43,2021-08-06,02:37,80,"","Imagination & the Misfit Kid",2019-11-22,49,24,7,44,20,0,-7,C Minor,4,1ZdhOMWyFR8Iv9eylMGYg2,GBHMU1800032
+100,"Paparazzi","Lady Gaga",115,4A,69,2021-08-06,03:28,82,"art pop, pop","The Fame",2008-01-01,76,11,0,40,0,0,-4,F Minor,4,02XnQdf7sipaKBBHixz3Zp,USUM70824408
+101,"(I Can't Get No) Satisfaction - Mono","The Rolling Stones",136,11B,84,2021-08-08,03:42,54,"classic rock, rock","Hot Rocks 1964-1971",1971-12-20,73,0,15,83,0,10,-9,A Major,4,5FKkbyGm42hw1y08l2knlO,USA176510160
+102,"Still (Remix)","DJ RusLan",111,5A,80,2021-08-08,03:19,0,"dubstep, chillstep","Still (Remix)",2013-05-28,72,44,0,55,0,20,-7,C Minor,4,4D75bbLCyaX8X0QcR4XDa1,TCABO1332289
+103,"Lost In Yesterday","Tame Impala",183,3B,84,2021-08-09,04:09,73,"neo-psychedelic, indie","The Slow Rush",2020-02-14,57,3,0,75,10,10,-4,C♯/D♭ Major,3,5JWPUEov2wlX7c0jhYZpeB,AUUM71900932
+104,"Me, Myself & I","G-Eazy,Bebe Rexha",112,5A,67,2021-08-09,04:11,82,"","When It's Dark Out",2015-12-04,76,2,0,39,10,10,-7,C Minor,4,40YcuQysJ0KlGQTeGUosTC,USRC11502210
+105,"Whiteout","Warpaint",117,8A,75,2021-08-09,04:42,0,"dream pop","Heads Up",2016-09-23,69,36,28,68,0,10,-7,A Minor,4,41D0xpS9ClHkBirerj8Dqs,GBCVZ1600026
+106,"Carolina","Harry Styles",122,9A,67,2021-08-14,03:09,66,"","Harry Styles",2017-05-12,62,0,0,46,0,10,-4,E Minor,4,3Dwq1oiOFys6Sxr5SslmXw,USSM11703954
+107,"The Four Seasons: Concerto No. 2 in G Minor, RV 315  L'estate  (summer): III. Presto","Antonio Vivaldi,Adrian Chandler,La Serenissima",157,9B,49,2021-08-16,02:47,65,"baroque, classical, concerto, early music","Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina'",2015-09-04,34,83,91,47,0,10,-15,G Major,3,1Ojz92vyPK4fJ5K8RVnV5u,GBELX1506024
+108,"NDA","Billie Eilish",85,4B,37,2021-08-21,03:15,75,"","Happier Than Ever",2021-07-30,77,34,53,55,0,10,-10,G#/A♭ Major,4,38GBNKZUhfBkk3oNlWzRYd,USUM72105935
+109,"Cold Cold Cold","Cage The Elephant",136,7B,79,2021-08-26,03:34,70,"","Tell Me I'm Pretty",2015-12-18,55,2,0,72,0,0,-6,F Major,4,1Q3t9fWvHUXKsMmpD2XpUu,USRC11502825
+110,"Look What You Made Me Do","Taylor Swift",128,8A,71,2021-08-30,03:31,79,"","reputation",2017-11-10,77,20,0,51,10,10,-6,A Minor,4,1P17dC1amhFzptugyAO7Il,USCJY1750000
+111,"Looks That Kill","Mötley Crüe",136,8B,95,2021-08-31,04:09,1,"glam metal, glam rock, hard rock","Shout At The Devil",1983-00-00,49,0,1,73,0,10,-6,C Major,4,5uRN4EmPA7BWs5f4xsIl0Z,USBY29900160
+112,"you should see me in a crown","Billie Eilish",150,12B,53,2021-09-01,03:00,77,"","WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,68,46,22,32,10,10,-10,E Major,4,3XF5xLJHOQQRbWya6hBp7d,USUM71810049
+113,"Never Wanted To Dance","Mindless Self Indulgence",92,10B,75,2021-09-05,03:08,0,"","If",2008-04-29,57,1,0,71,10,20,-4,D Major,4,3nM1EJJ80pJGiG32WFfJxc,US2420809916
+114,"Heartbreaker","Pat Benatar",156,4A,59,2021-09-11,03:29,67,"aor","In The Heat Of The Night",1979-01-01,46,28,0,88,0,0,-11,F Minor,4,22ML0MuFKfw16WejbxsLOy,USCH38400033
+115,"Blue Monday '88","New Order",130,9B,89,2021-09-12,04:04,70,"new wave, synthpop, post-punk, madchester","The Best of New Order",1994-01-01,68,0,38,95,0,0,-8,G Major,4,31MOjWj3CT3dCQsMV2b8Wu,GBANP9400071
+116,"The Look","Metronomy",85,8A,54,2021-09-13,04:37,75,"new rave, alternative dance","The English Riviera",2011-04-11,64,62,4,50,0,0,-8,A Minor,4,6zfczP87XO2SxWlQtnjFNa,GBMVH1100040
+117,"Problems","Mother Mother",104,3B,85,2021-09-21,03:27,0,"","Eureka",2011-03-15,63,1,3,53,0,10,-4,C♯/D♭ Major,4,0mFSV2Bawz8i9wnlc9eYme,CAL451028707
+118,"People Are Strangers","Zella Day",68,10A,53,2021-09-22,02:59,29,"","Where Does The Devil Hide",2020-08-28,48,53,0,46,0,10,-7,B Minor,4,2jdFoO9VOC7imqaQPC3DS3,USC4R2007455
+119,"ALL I WANT IS YOU","The Martians",87,9B,71,2021-09-27,03:53,0,"","ALL I WANT IS YOU",2020-12-24,64,32,0,59,0,0,-6,G Major,4,1VA1rxy7iy2zvICjWkWuIX,QZPLR2001080
+120,"When You Die","MGMT",141,10A,94,2021-10-04,04:23,65,"indie","Little Dark Age",2018-02-09,65,9,2,50,0,10,-5,B Minor,4,3td69vL9Py7Ai9wfXYnvji,USSM11707036
+121,"She's Lonely","Bill Withers",130,6A,41,2021-10-06,05:16,22,"soul","Making Music",1975-11-08,46,29,2,9,0,0,-13,G Minor,4,0j7v09qthN0N9BNti8AiQl,USSM10903676
+122,"Venus","Shocking Blue",128,10A,76,2021-10-09,03:07,71,"nederpop","At Home",1969-00-00,69,46,3,96,0,0,-6,B Minor,4,0Z3xhSOhrawLV81YdiDiiJ,NLC286900001
+123,"Me and Your Mama","Childish Gambino",118,7B,43,2021-10-20,06:19,2,""," Awaken, My Love! ",2016-12-02,55,1,4,24,0,0,-13,F Major,3,31tf1qEai5o5f4r66Kd0pU,USYAH1600102
+124,"O Green World","Gorillaz",123,8B,77,2021-10-29,04:35,66,"","Demon Days",2005-05-23,67,0,91,86,0,10,-8,C Major,4,4hNPMfFHauPIbOKvdYqFt7,GBAYE0500171
+125,"DARE (feat. Shaun Ryder & Roses Gabor)","Gorillaz,Shaun Ryder,Roses Gabor",120,10A,89,2021-11-02,04:04,83,"","Demon Days",2005-05-23,76,2,9,97,0,30,-6,B Minor,4,4Hff1IjRbLGeLgFgxvHflk,GBAYE0500178
+126,"Anyone","Demi Lovato",86,1B,39,2021-11-04,03:47,54,"","Dancing With The Devil…The Art of Starting Over",2021-04-02,58,88,0,32,0,10,-6,B Major,5,3XabMu0mJaQmrqz57UkEZI,USUM72001315
+127,"Heavydirtysoul","Twenty One Pilots",130,6A,87,2021-11-06,03:54,74,"","Blurryface",2015-05-15,61,0,0,39,0,30,-6,G Minor,4,7i9763l5SSfOnqZ35VOcfy,USAT21500596
+128,"Shy","Leon Bridges",92,1A,50,2021-11-14,03:14,60,"retro soul","Good Thing",2018-05-04,80,28,0,83,0,10,-5,G#/A♭ Minor,4,407qAIie8sIEgquKD1AAd2,USSM11800492
+129,"Alpha Venom","Sophie Hunger",91,12A,91,2021-12-05,03:22,12,"","Halluzinationen",2020-09-04,49,8,0,47,10,60,-6,C♯/D♭ Minor,4,3PCSC6P9dBxqM5L63cQujF,CHD582000005
+130,"She Makes President","Sophie Hunger",179,10B,42,2021-12-06,03:36,32,"","Molecules",2018-08-31,50,77,37,4,0,10,-11,D Major,4,0pc1ufUCK9pz6vRpUPZlUQ,CHD581800001
+131,"These Boots Are Made For Walkin'","Nancy Sinatra",83,11B,39,2021-12-12,02:46,1,"","Boots",1966-03,74,48,0,39,0,10,-12,A Major,4,2nwCO1PqpvyoFIvq3Vrj8N,USASE0500005
+132,"MAMMAMIA","Måneskin",142,12A,68,2021-12-13,03:06,64,"","MAMMAMIA",2021-10-08,77,0,0,79,0,10,-3,C♯/D♭ Minor,4,78SCmQ8A7KQSMdkem2SwBP,ITB002100961
+133,"Captain","Danitsa",75,8B,76,2021-12-14,03:04,44,"","Ego",2017-11-24,83,10,0,49,40,0,-4,C Major,4,77m6A2GbLorgaLnSxGa32S,FRX201777202
+134,"Bitch","Allie X",85,4B,64,2021-12-15,03:27,0,"","Collxtion I",2015-12-04,61,1,48,8,0,10,-5,G#/A♭ Major,4,1CVQ8euBNROz7KDPeNqwWE,CA8OU1500007
+135,"Susie Save Your Love","Allie X,Mitski",74,3A,60,2021-12-15,03:58,0,"","Cape God",2020-02-21,65,0,0,77,0,0,-7,A#/B♭ Minor,4,32tUYhAygMdx9XxFxxj3It,GBKPL1975990
+136,"Gunshot","Lykke Li",107,5A,62,2022-01-14,03:24,52,"","I Never Learn",2014-04-25,52,8,0,35,0,0,-6,C Minor,4,5mSjJvTv9l5X2CblEa2ehN,SE22U1400106
+137,"Lust To Love","The Go-Go's",159,7A,84,2022-01-14,04:04,37,"new wave","Beauty And The Beat",1981-01-01,52,47,0,51,0,0,-7,D Minor,4,1eyKBZ3cxTmYCpdzt6Gl5S,USAM18104331
+138,"Hermit the Frog","MARINA",122,8B,68,2022-02-12,03:35,66,"","The Family Jewels",2009-07-15,61,24,0,49,0,20,-5,C Major,4,4Zcz6saEkOII3PlXd9gN3o,GBFFS0900117
+139,"Pitch the Baby","Cocteau Twins",178,6A,82,2022-02-16,03:14,65,"dream pop, shoegaze, gothic rock","Heaven or Las Vegas",1990-09-17,48,44,32,98,0,50,-7,G Minor,4,1DXD0wVXXHwUYo9AXbcMMI,GBAFL9000063
+140,"Body","Mother Mother",148,3A,63,2022-02-26,03:33,1,"","O My Heart",2008-09-23,60,13,0,47,0,30,-4,A#/B♭ Minor,4,0VmREvheUiN0xgM5fJYQqp,CAL450882106
+141,"Chick Habit (From  Death Proof )","Izzy Bardot",135,9A,93,2022-02-28,02:18,25,"","Tarantino Unchained",2013-11-04,63,17,0,72,0,20,-4,E Minor,4,5ByGzw1ZRpXdlWPdXylAAh,NLG620534277
+142,"Time of the Season","The Zombies",117,9A,70,2022-02-28,03:34,0,"baroque pop, psychedelic rock","Time of the Season",1967-11-11,54,13,0,68,0,20,-7,E Minor,4,6im4Ks6SWUqwTGp7Cft1e7,GBCBS6732269
+143,"Dealer","Lana Del Rey",130,5A,59,2022-03-01,04:34,74,"","Blue Banisters",2021-10-22,60,32,0,38,0,10,-6,C Minor,4,7iqQz931tn59mK6IZ3knRx,GBUM72104279
+144,"The Name Game - From  American Horror Story: Asylum ","American Horror Story Cast,Jessica Lange",165,5A,90,2022-03-04,02:17,42,"","The Name Game (From  American Horror Story: Asylum )",2012-01-15,80,14,0,96,0,0,-4,C Minor,4,0KDn1sQyUdgD4X1LYlEbTe,USFM91300001
+145,"West End Girls","Pet Shop Boys",113,9A,91,2022-03-09,04:00,64,"synthpop, new wave","Discography - Complete Singles Collection",1998-03-31,63,3,2,64,0,20,-10,E Minor,4,5Dqik1P9toCJTLj5rEm78s,GBAYE8500031
+146,"Another Brick In The Wall - 2001 Remastered Version","Pink Floyd",104,8B,46,2022-03-12,04:01,0,"progressive rock, psychedelic rock, classic rock, art rock, rock","A Collection Of Great Dance Songs",1981-11-01,70,6,0,78,0,0,-12,C Major,4,7pmNNEJcBcODkrPHEIf7Cy,GBDJQ0100002
+147,"Судно (Борис Рыжий)","Molchat Doma",160,3B,75,2022-03-22,02:21,74,"post-punk, darkwave, cold wave, gothic rock","Этажи",2018-09-07,48,70,86,47,0,10,-4,C♯/D♭ Major,4,1SHB1hp6267UK9bJQUxYvO,AEA0D1846146
+148,"Creep","Radiohead",92,9B,43,2022-03-30,03:58,93,"art rock, alternative rock","Pablo Honey",1993-02-22,52,1,0,10,0,10,-10,G Major,4,70LcF31zb1H0PyJoS1Sx1r,GBAYE9200070
+149,"Something In The Way","Nirvana",105,4B,20,2022-04-07,03:52,71,"grunge, rock","Nevermind (Remastered)",1991-09-26,43,75,26,7,0,10,-13,G#/A♭ Major,4,1nFtiJxYdhtFfFtfXBv06s,USGF19942512
+150,"Strict Machine","Goldfrapp",126,2B,59,2022-04-10,03:51,0,"trip hop, electroclash, art pop","Black Cherry",2003-04-28,63,2,16,45,0,10,-8,F#/G♭ Major,4,5kNbpvJ5b6R9Zqfm6c9sIX,GBAJH0300036
+151,"All Eyes On Me","Bo Burnham",127,2B,42,2022-04-20,05:02,0,"comedy","Inside (The Songs)",2021-06-10,35,73,0,14,0,0,-10,F#/G♭ Major,4,3rV5y8rcQrwRt9fWGLmjOQ,USA2P2122078
+152,"Leni (Crystal Castles vs GoodBooks)","GoodBooks,Crystal Castles",120,11A,64,2022-04-24,04:16,69,"witch house, electroclash, new rave, alternative dance","Control Freaks (The Remixes)",2021-11-18,64,6,0,55,0,0,-7,F#/G♭ Minor,4,6slWUMiyoNNWcQGu6tkTlH,TCAFX2138511
+153,"Sextape","Deftones",90,7B,63,2022-04-24,04:01,82,"nu metal, alternative metal, rap metal, rock, shoegaze","Diamond Eyes",2010-04-30,37,0,8,10,0,10,-6,F Major,4,1EryAkZ0VHstC6haIxVBiE,USRE11000115
+154,"I’m Tired (with Zendaya) - Bonus Track","Labrinth,Zendaya",132,5A,13,2022-04-29,03:07,66,"","I’m Tired (with Zendaya) - Bonus Track",2022-02-28,38,65,0,19,0,0,-11,C Minor,4,6LtHYDgYHRCHoKK3snfr2w,USQX92200588
+155,"Drink Before the War","Sinéad O'Connor",124,1A,27,2022-05-01,05:23,0,"","Lion and the Cobra",1987-11-04,51,54,0,10,0,10,-12,G#/A♭ Minor,4,2fgsTIpGlD5odlua0y7gIQ,GBAYK8700074
+156,"PRIDE.","Kendrick Lamar",139,9A,54,2022-05-01,04:35,82,"hip hop, west coast hip hop","DAMN.",2017-04-14,67,8,0,37,0,10,-7,E Minor,4,6IZvVAP7VPPnsGX6bvgkqg,USUM71703084
+157,"Please Please Please Let Me Get What I Want - 2005 Remaster","Deftones",191,10B,84,2022-05-02,02:04,67,"nu metal, alternative metal, rap metal, rock, shoegaze","Covers",2011-04-16,11,0,41,15,0,10,-5,D Major,3,4HpIh5wWfkq5sSuCLLSwYR,USMV20500178
+158,"Smells Like Teen Spirit","Nirvana",117,3B,91,2022-05-02,05:01,12,"grunge, rock","Nevermind (Deluxe Edition)",1991-09-26,50,0,0,72,0,10,-5,C♯/D♭ Major,4,1f3yAtsJtY87CTmM8RLnxf,USGF19942501
+159,"Brain Damage - 2011 Remastered Version","Pink Floyd",134,10B,18,2022-05-10,03:45,1,"progressive rock, psychedelic rock, classic rock, art rock, rock","The Dark Side Of The Moon (2011 Remastered Version)",1973-03-01,32,6,18,26,0,40,-18,D Major,4,7EUEl5wJb8VI777UAUvRnH,GBN9Y1100140
+160,"Smooth Criminal - 2012 Remaster","Michael Jackson",118,4B,98,2022-05-12,04:17,78,"","Bad 25th Anniversary",2012-09-18,85,25,47,60,0,30,-4,G#/A♭ Major,4,2bCQHF9gdG5BNDVuEIEnNk,USSM11204989
+161,"Jealous","Eyedress",93,8A,92,2022-05-13,02:02,44,"","Jealous",2019-12-06,47,0,85,70,0,40,-10,A Minor,4,1aXV8GrmQLvgoFtBPERP7E,GBMYF1900115
+162,"Psychotic Girl","The Black Keys",81,7A,48,2022-05-14,04:10,54,"blues rock, garage rock, modern blues, rock","Attack & Release",2008-04-01,74,46,32,49,0,0,-9,D Minor,4,2mFnxVS2wZpqntPzZB17O1,USNO10750897
+163,"I'm a Man","Black Strobe",130,10A,80,2022-05-15,04:33,54,"electroclash","Burn Your Own Church",2007-06-25,73,0,72,82,10,0,-8,B Minor,4,5GfhZx3vzANh2z1mbjMR2K,GBBKU0700015
+164,"King","Florence + The Machine",106,11A,45,2022-05-16,04:40,64,"baroque pop","Dance Fever",2022-05-13,73,14,0,9,0,10,-8,F#/G♭ Minor,4,31ABtQJdfloNaGz7ZhXaN5,GBUM72108021
+165,"Tear You Apart","She Wants Revenge",153,12A,73,2022-05-21,04:44,2,"darkwave, gothic rock","She Wants Revenge",2005-01-01,58,0,0,54,0,40,-7,C♯/D♭ Minor,4,3urJUvRhgMrwydaTQFVEg9,USUM70503877
+166,"Personal Jesus","Depeche Mode",130,1B,74,2022-05-22,04:55,68,"new wave, synthpop, darkwave","Violator (Deluxe)",1990-03-19,68,14,21,36,0,10,-8,B Major,4,2wUlYDGGXlSvm2NkGj0Qio,GBAJH0600289
+167,"Rhinestone Eyes","Gorillaz",93,1A,70,2022-06-04,03:20,78,"","Plastic Beach",2010-03-05,68,9,0,85,0,0,-6,G#/A♭ Minor,4,1foMv2HQwfQ2vntFf9HFeG,GBAYE1000017
+168,"Change (In the House of Flies)","Deftones",142,6A,85,2022-06-06,04:59,83,"nu metal, alternative metal, rap metal, rock, shoegaze","White Pony",2000-00-00,27,0,0,18,0,10,-5,G Minor,4,51c94ac31swyDQj9B3Lzs3,USMV20000039
+169,"Vienna","Billy Joel",125,6B,50,2022-06-12,03:34,85,"soft rock","The Stranger (Legacy Edition)",1977-00-00,53,66,0,31,0,0,-7,A#/B♭ Major,4,4U45aEWtQhrm8A5mxPaFZ7,USSM17700373
+170,"One More Hour","Tame Impala",102,12B,40,2022-06-13,07:12,76,"neo-psychedelic, indie","The Slow Rush",2020-02-14,65,11,11,32,0,10,-9,E Major,4,0mO6oS60RST2sWmN2FKknP,AUUM71900935
+171,"Telescope","Cage The Elephant",94,8B,48,2022-06-21,03:48,59,"","Melophobia",2013-10-08,59,27,0,18,0,10,-5,C Major,4,5dyfHe3tR7wyzfuNo0uu3Y,USRC11301162
+172,"Terrified","Childish Gambino",140,5A,40,2022-06-24,04:15,0,""," Awaken, My Love! ",2016-12-02,47,43,57,10,0,10,-12,C Minor,4,5MKSl2ZHsImt0wOfBAs87U,USYAH1600109
+173,"4ÆM","Grimes",93,6A,91,2022-06-24,04:30,41,"art pop","4ÆM",2019-12-13,48,1,29,12,0,20,-4,G Minor,4,2fjp9VUrb0I5I1t2fNOrUt,GBAFL1900406
+174,"Kerosene!","Yves Tumor",131,6A,75,2022-07-05,05:05,0,"","Heaven To A Tortured Mind",2020-04-03,51,0,0,30,0,10,-7,G Minor,4,1Kjw0LwdniCWran4PxJqPQ,GBBPW1900280
+175,"Better By Myself","Hey Violet",97,11A,72,2022-07-08,03:14,45,"","Better By Myself",2019-04-12,70,6,0,89,0,10,-7,F#/G♭ Minor,4,77ixMBo91onYG37mAZiaUj,USUG11900503
+176,"Cheri Cheri Lady","Modern Talking",114,6B,62,2022-07-11,03:46,82,"europop, italo disco, eurodance","Let's Talk About Love",1985-00-00,68,46,1,85,0,30,-14,A#/B♭ Major,4,2aEuA8PSqLa17Y4hKPj5rr,DEC738500001
+177,"Bad Company - 2015 Remaster","Bad Company",114,4B,47,2022-07-20,04:48,67,"classic rock, aor, southern rock, hard rock","Bad Company (Deluxe)",1974-00-00,55,49,18,44,0,0,-11,G#/A♭ Major,4,36vTL8WP4ZoD1bbUaW0V3E,USAT21405163
+178,"Ancient Dreams in a Modern Land","MARINA",138,3A,79,2022-07-21,03:26,63,"","Ancient Dreams In A Modern Land",2021-06-11,58,2,0,64,0,30,-5,A#/B♭ Minor,4,1R1ihosU2CSEaSw8e5ZF6E,USAT22101355
+179,"Dark Red","Steve Lacy",172,2B,78,2022-07-21,02:53,3,"","Dark Red",2017-02-20,60,45,0,78,0,10,-4,F#/G♭ Major,4,37y7iDayfwm3WXn5BiAoRk,GBKPL1778015
+180,"A Pearl","Mitski",85,4B,64,2022-07-21,02:36,71,"","Be the Cowboy",2018-08-17,30,5,2,22,0,10,-4,G#/A♭ Major,4,7fd3aMiuwHWKsTdZafjOfZ,USJ5G1815004
+181,"NEW MAGIC WAND","Tyler, The Creator",140,4A,73,2022-07-21,03:15,78,"","IGOR",2019-05-17,62,10,0,46,10,60,-5,F Minor,4,0fv2KH6hac06J86hBUTcSf,USQX91901115
+182,"Jobless Monday","Mitski",100,7B,44,2022-07-21,02:06,62,"","Bury Me At Makeout Creek",2014-11-11,43,0,1,20,0,10,-11,F Major,4,3ngZf8e29zHlW4gNMQb6IR,USA2B1511607
+183,"I Am Not a Robot","MARINA",120,10B,49,2022-07-21,03:35,53,"","The Family Jewels",2009-07-15,67,57,0,49,0,10,-5,D Major,4,0fiPpwBPIaxxydn4KzX9Tc,GBFFS0900122
+184,"Take Me To Church","Hozier",129,9A,66,2022-07-21,04:01,85,"","Hozier",2014-09-19,57,64,0,44,0,10,-5,E Minor,4,3dYD57lRAUcMHufyqn9GcI,IEACJ1300031
+185,"Numb","MARINA",119,8B,45,2022-07-21,04:16,45,"","The Family Jewels",2009-07-15,50,42,0,24,0,0,-5,C Major,4,1nvPNYcP9c9ND8yqAlJ6Q4,GBFFS0900118
+186,"Lady Grinning Soul - 2013 Remaster","David Bowie",93,12B,56,2022-08-01,03:55,57,"glam rock, art rock","Aladdin Sane (2013 Remaster)",1973-04-13,37,3,0,17,0,0,-8,E Major,4,3ZFurUI2qESabUHHyIlxa8,USJT11300010
+187,"Your Best American Girl","Mitski",77,9B,26,2022-08-14,03:32,0,"","Puberty 2",2016-06-17,36,2,1,13,0,20,-10,G Major,4,172rW45GEnGoJUuWfm1drt,USJ5G1612305
+188,"Devil I Know","Allie X",91,3B,54,2022-08-14,02:52,0,"","Cape God",2020-02-21,51,2,0,38,0,0,-6,C♯/D♭ Major,4,4GSqiK9YdVNhilXMFtCiQB,GBKPL1975993
+189,"Normal Girl","SZA",76,8B,53,2022-08-23,04:13,76,"r&b","Ctrl",2017-06-09,62,27,0,36,10,10,-7,C Major,4,5fQBa4wkmq28xpSLOQ202K,USRC11701128
+190,"Should've Been Me","Mitski",90,7A,63,2022-09-02,03:11,62,"","Laurel Hell",2022-02-04,51,1,0,57,0,10,-7,D Minor,4,5FQ9NDyx3KZXhovWWq4Gxo,USJ5G2125009
+191,"First Love/Late Spring","Mitski",100,8B,54,2022-09-02,04:38,77,"","Bury Me At Makeout Creek",2014-11-11,45,0,1,10,0,20,-8,C Major,4,3sslYZcFKtUvIEWN9lADgr,USA2B1511604
+192,"Nobody Home - 2011 Remastered Version","Pink Floyd",106,8B,11,2022-09-03,03:22,0,"progressive rock, psychedelic rock, classic rock, art rock, rock","The Wall (Remastered)",1979-11-30,34,63,22,6,0,10,-24,C Major,4,3kM50GD76NgPWaTfKKKTz3,GBN9Y1100110
+193,"Why Won't They Talk To Me?","Tame Impala",130,9B,87,2022-09-09,04:46,62,"neo-psychedelic, indie","Lonerism",2012-01-01,52,55,3,17,0,0,-5,G Major,4,6IM45SqAURH6PrvziDs1RQ,AUUM71200492
+194,"no friends","mazie",82,5A,36,2022-09-23,01:45,0,"","the rainbow cassette",2021-08-25,67,37,0,60,0,30,-9,C Minor,4,3sn9wuO5D2n2zxIlPDqnRL,QZ93L2015031
+195,"How Soon Is Now? - 2011 Remaster","The Smiths",191,1B,93,2022-09-26,06:48,75,"new wave, madchester, jangle pop","Hatful of Hollow",1984-00-00,40,0,12,73,0,0,-7,B Major,4,1YrnDTqvcnUKxAIeXyaEmU,GBCRL1100068
+196,"Just","Radiohead",176,6A,77,2022-09-27,03:54,76,"art rock, alternative rock","The Bends",1995-03-13,29,0,1,36,0,0,-7,G Minor,4,1dyTcli07c77mtQK3ahUZR,GBAYE9400060
+197,"Cherry-coloured Funk","Cocteau Twins",90,10B,65,2022-10-02,03:12,73,"dream pop, shoegaze, gothic rock","Heaven or Las Vegas",1990-09-17,49,0,0,34,0,10,-6,D Major,4,37pKTyMwalomKCZjxTc2QZ,GBAFL9000062
+198,"La femme à la peau bleue","Vendredi sur Mer",100,10A,56,2022-10-10,03:26,58,"french indie pop, french pop","Premiers émois",2019-03-22,67,50,52,28,0,30,-7,B Minor,4,3t9AQbyfGnVbe3xuTg9PEX,FR9W11602534
+199,"Government Hooker","Lady Gaga",120,9B,80,2022-10-11,04:14,68,"art pop, pop","Born This Way (International Special Edition Version)",2011-05-23,66,0,5,51,0,60,-7,G Major,4,6LGwEHsFbxt7BgDwGXqFgj,USUM71106436
+200,"Be Quiet and Drive (Far Away)","Deftones",93,3B,97,2022-10-14,04:59,82,"nu metal, alternative metal, rap metal, rock, shoegaze","Around the Fur",1997-10-27,21,0,83,17,0,30,-5,C♯/D♭ Major,4,4Uiw0Sl9yskBaC6P4DcdVD,USMV29700147
+201,"Charcoal Baby","Blood Orange",183,6A,46,2022-10-16,04:02,69,"art pop","Negro Swan",2018-08-24,62,14,0,51,0,10,-8,G Minor,4,3bBmpVl9rQKJsFFGLFilIS,GBCEL1800202
+202,"Dazed and Confused - 1990 Remaster","Led Zeppelin",87,10B,55,2022-10-20,06:26,65,"classic rock, rock, hard rock, rock and roll","Led Zeppelin",1969-01-12,27,4,1,43,0,10,-10,D Major,3,6hu1f1cXSw7OAqhpSQ2zDy,USAT29900537
+203,"Come As You Are","Nirvana",120,9A,82,2022-10-29,03:38,8,"grunge, rock","Nevermind (Deluxe Edition)",1991-09-26,50,0,0,54,0,0,-6,E Minor,4,0MKGH8UMfCnq5w7nG06oM5,USGF19942503
+204,"The Red Means I Love You","Madds Buckley",79,10B,30,2022-10-29,03:53,0,"","The Red Means I Love You",2021-02-24,28,9,0,19,0,0,-12,D Major,4,5pLbM4PU1wZyMvoQyEAorp,QZDA42138146
+205,"It Almost Worked","TV Girl",141,11B,89,2022-10-29,02:32,0,"","The Night in Question: French Exit Outtakes",2020-05-01,67,30,35,68,0,0,-4,A Major,4,0Cs2n2GojQtYMVpZh7UCd7,usdy42073308
+206,"Daria (Official MTV Theme)","Splendora",198,6B,37,2022-10-29,00:49,39,"riot grrrl","Daria (Official MTV Theme)",1997-03-03,22,1,0,79,0,70,-21,A#/B♭ Major,4,7yvtSXjSS9hKa8l3UwRKWT,QZD7E1800173
+207,"Plastic Beach (feat. Mick Jones and Paul Simonon)","Gorillaz,Mick Jones,Paul Simonon",184,8B,89,2022-10-30,03:47,68,"aor, ","Plastic Beach",2010-03-05,54,0,2,50,0,0,-5,C Major,4,2nZ33CKRbgpJQJJQKHuGXb,GBAYE1000012
+208,"Eleanor Rigby - Remastered 2009","The Beatles",138,9A,28,2022-10-31,02:06,72,"classic rock, psychedelic rock","Revolver (Remastered)",1966-08-05,58,94,0,81,0,30,-9,E Minor,4,5GjPQ0eI7AgmOnADn1EO6Q,GBAYE0601494
+209,"Doin' Time","Lana Del Rey",145,6A,69,2022-11-03,03:21,0,"","Doin' Time",2019-05-17,62,34,0,45,0,0,-6,G Minor,4,0cLS7FslBJgsuWwJNRnPWB,GBUM71902490
+210,"Lust for a Vampyr","I Monster",96,3B,50,2022-11-27,04:33,2,"","A Dense Swarm of Ancient Stars",2009-03-16,59,0,19,40,0,40,-13,C♯/D♭ Major,4,3KWQwppcl2EpUfbq3LXmt0,GBYTP0800010
+211,"Hayloft","Mother Mother",96,8A,92,2022-12-10,03:01,3,"","O My Heart",2008-09-23,53,0,0,49,0,40,-3,A Minor,4,2kS6td1yvmpNgZTt1q5pQq,CAL450882108
+212,"Eyes Without A Face - Remastered 1999","Billy Idol",86,11B,65,2022-12-10,04:57,66,"","Greatest Hits",2001-01-01,55,1,22,55,0,10,-10,A Major,4,3HCah9Waf9Jby9gLIWN4MI,USCH39900056
+213,"Angel Of Small Death & The Codeine Scene","Hozier",93,12B,64,2022-12-23,03:39,64,"","Hozier",2014-09-19,37,21,0,37,0,10,-6,E Major,4,1SCXzqKZdif5b33POmzwI4,IEACJ1400140
+214,"Break Stuff","Limp Bizkit",109,4B,88,2023-01-08,02:46,86,"nu metal, rap metal, alternative metal, rap rock","Significant Other",1999-00-00,43,1,0,62,10,10,-7,G#/A♭ Major,4,5cZqsjVs6MevCnAkasbEOX,USIR19902309
+215,"Is It True","Tame Impala",118,8B,66,2023-01-09,03:59,79,"neo-psychedelic, indie","The Slow Rush",2020-02-14,73,0,35,66,0,10,-5,C Major,4,6RZmhpvukfyeSURhf4kZ0d,AUUM71900933
+216,"Crazy Girls","TOOPOOR",90,4A,66,2023-01-13,03:14,0,"","Crazy Girls",2019-02-08,66,4,0,48,0,70,-4,F Minor,4,7LA7ku2quKzvscCSR5wra1,UKELY1800162
+217,"Them Changes","Thundercat",82,4B,56,2023-01-16,03:08,73,"","Drunk",2017-02-24,66,54,0,70,0,10,-9,G#/A♭ Major,4,7CH99b2i1TXS5P8UUyWtnM,US25X1090547
+218,"Can't Be Tamed","Miley Cyrus",117,10A,91,2023-01-22,02:48,67,"","Can't Be Tamed",2010-06-18,63,3,0,74,10,20,-3,B Minor,4,2r6DdaSbkbwoPzuK6NjLPn,USHR11024938
+219,"Lady Don't Tek No","Latyrx",97,4B,58,2023-01-28,03:36,42,"","The Muzappers Mixes",1997-00-00,90,6,0,85,20,0,-5,G#/A♭ Major,4,4viJ2v79wqS4R4YVBCF2wv,QM4TX1863678
+220,"Molly","Mindless Self Indulgence",160,4A,81,2023-01-28,01:44,0,"","Tighter",2011-04-26,68,1,1,81,20,30,-5,F Minor,4,1kTZ1aERsOBTrihsDdGFNn,US2421119806
+221,"NO","Meghan Trainor",92,12A,80,2023-01-28,03:33,80,"","Thank You (Deluxe Version)",2017-05-12,56,1,0,66,20,70,-4,C♯/D♭ Minor,4,0l0CvurVUrr2w3Jj1hOVFc,USSM11600935
+222,"Wallflower","Sevdaliza",161,4A,57,2023-02-25,03:01,26,"","Shabrang",2020-08-28,65,3,0,30,0,10,-8,F Minor,4,2SXOk7lEgdyBasLD61YJK3,NLE3U2000008
+223,"People Are Strange","The Doors",119,9A,47,2023-03-09,02:10,74,"psychedelic rock, classic rock, acid rock","Strange Days",1967-09-25,70,69,0,76,0,30,-9,E Minor,4,1Jmqubf9kGkWeYQXQKImL5,USEE19900740
+224,"Gilded Lily","Cults",62,10A,57,2023-03-25,03:32,76,"","Offering",2022-10-26,40,47,0,15,0,50,-7,B Minor,4,3Z0qLOS0cqWKPHXkbTXmNF,USQX92206420
+225,"Under The Table","Fiona Apple",120,8B,49,2023-04-10,03:21,52,"art pop","Fetch The Bolt Cutters",2020-04-17,64,30,0,55,0,20,-8,C Major,4,12WhIX6MvI93bS3wPSStSY,USSM12001952
+226,"Paper Bag","Fiona Apple",141,8B,45,2023-04-10,03:39,67,"art pop","When The Pawn...",1999-11-09,71,72,0,84,0,10,-10,C Major,3,0IVkP59yJ9GFF6B7IrvrxA,USSM19910365
+227,"Never Felt So Alone","Labrinth",98,7B,41,2023-04-21,02:40,70,"","Never Felt So Alone",2023-04-07,44,50,0,36,0,30,-4,F Major,3,2NbsBSshscKIPRG3kwBbfo,USSM12302165
+228,"Digital Silence","Peter McPoland",90,3A,97,2023-04-30,03:18,62,"","Digital Silence",2023-04-07,31,8,0,45,10,20,-1,A#/B♭ Minor,4,6cJSXxvl9l94huIUIqsEQo,USSM12302063
+229,"She's A Lady","Tom Jones",120,10B,88,2023-05-01,02:54,70,"","Tom Jones Sings She's A Lady",1971-05-01,51,21,0,62,10,20,-9,D Major,4,5JnHzjo25FY1fMQMQVOawB,GBF077121420
+230,"Purge The Poison","MARINA",140,8B,82,2023-05-22,03:16,42,"","Purge The Poison",2021-04-14,58,5,0,54,0,0,-5,C Major,4,1sy0mqUBREJx0A89UsIkIl,USAT22101363
+231,"Sonne","Rammstein",75,9A,92,2023-05-24,04:32,80,"industrial metal, metal, industrial rock, industrial","Mutter",2001-04-02,51,1,0,31,0,40,-5,E Minor,4,3gVhsZtseYtY1fMuyYq06F,DEN120003766
+232,"My Own Summer (Shove It)","Deftones",72,3B,78,2023-06-09,03:34,84,"nu metal, alternative metal, rap metal, rock, shoegaze","Around the Fur",1997-10-27,44,0,21,37,0,10,-4,C♯/D♭ Major,4,1158ckiB5S4cpsdYHDB9IF,USMV29700142
+233,"Your Woman","White Town",103,4A,61,2023-06-20,04:19,2,"","Women In Technology",1997-02-24,82,3,68,80,0,10,-9,F Minor,4,4ACxa9buEUnOdYEoPcnMpi,GBAYE9600116
+234,"Family Tree","Ethel Cain",96,7B,34,2023-07-12,07:10,62,"southern gothic","Preacher’s Daughter",2022-05-12,24,12,2,8,0,10,-10,F Major,4,5l79pLYX6NwTa6FiT8Eoyo,GBKPL2294754
+235,"Hey There Lonely Girl","Eddie Holman",94,11B,32,2023-09-17,03:36,53,"northern soul, philly soul, classic soul, motown","I Love You",1969-01-01,39,69,0,34,0,0,-11,A Major,3,1MI8aQJAoaYhIaVNz5giKB,USMC16946886
+236,"I Know It's Over - 2011 Remaster","The Smiths",113,8B,42,2023-09-19,05:49,75,"new wave, madchester, jangle pop","The Queen Is Dead",1986-06-16,41,8,0,40,0,20,-11,C Major,3,3M2bD9SMYnJIPdrTKUnBd3,GBCRL1100048
+237,"SPECIAL (feat. Nekfeu & Fousheé)","Laylow,Nekfeu,Fousheé",71,3A,52,2023-09-19,03:51,56,"french rap, moroccan rap, indie r&b","L'Étrange Histoire de Mr.Anderson",2021-07-16,67,19,0,41,10,20,-9,A#/B♭ Minor,4,11HLDMuPD3wh88XHw4udKO,FRDN42100160
+238,"Bunny Is A Rider","Caroline Polachek",110,11A,66,2023-09-19,03:13,55,"art pop","Desire, I Want To Turn Into You",2023-02-14,80,7,0,43,0,10,-7,F#/G♭ Minor,4,40tRJ8bMkIkXh8vhHKQsoX,QMBZ92173180
+239,"Valerie","TV Girl",102,8B,92,2023-09-19,04:42,59,"","The Night in Question: French Exit Outtakes",2020-05-01,80,20,40,95,10,30,-4,C Major,4,1DPjbMypYp80indlQFWlya,USDY42073306
+240,"Плак-Плак","IC3PEAK",158,7B,66,2023-09-24,03:23,54,"witch house","До Свидания",2020-04-24,52,35,0,22,10,10,-9,F Major,4,2dc4D84XqZ9MCD3R2TjXoc,QM6MZ2019108
+241,"Rinsed","Dean Blunt,TYSON",92,5B,48,2023-10-24,01:46,68,"uk r&b","Rinsed",2023-03-03,66,76,0,76,0,10,-8,D#/E♭ Major,4,7HXkG71tnUPgjeMEP9688d,UKQNV2300026
+242,"Tokyo Rose","Idle Eyes",115,9A,50,2023-12-06,03:50,40,"new wave, darkwave","Idle Eyes",1984-00-00,80,5,0,64,0,10,-13,E Minor,4,7jdX7EE6VhpgnNTB7Ug2Zf,USJ3V0961994
+243,"Souk Eye","Gorillaz",124,7A,85,2023-12-16,04:34,63,"","The Now Now",2018-06-29,64,43,71,83,0,10,-8,D Minor,4,4fjzDf54eBNOlW45mNe14U,GBAYE1800417
+244,"Myself","Bazzi",196,8A,56,2024-01-28,02:47,67,"","COSMIC",2018-04-12,75,47,0,90,0,0,-6,A Minor,4,5YLHLxoZsodDWjqSgjhBf3,USAT21801524
+245,"Kill V. Maim","Grimes",134,10A,95,2024-02-29,04:06,62,"art pop","Art Angels",2015-11-06,58,1,8,46,0,10,-2,B Minor,4,3WXhshrs1fzwF3rQE399Gq,GBAFL1500150
+246,"She Wolf","Shakira",122,9B,69,2024-03-01,03:08,5,"latin pop","She Wolf (Expanded Edition)",2009-00-00,87,28,2,87,0,20,-7,G Major,4,4cS2HQ6jK80vqdY9ofpztx,USSM10903570
+247,"Test & Recognise - Flume Re-work","Seekae,Flume",110,4B,58,2024-03-03,05:03,1,"future bass","Test & Recognise (Remixes)",2014-08-14,54,19,0,29,0,10,-9,G#/A♭ Major,4,24BYTj1tb5ovZcnIbtdTYD,AUFF01400535
+248,"I'm Deranged","David Bowie",140,4A,88,2024-03-10,04:31,0,"glam rock, art rock","1. Outside (The Nathan Adler Diaries: A Hyper Cycle) [Expanded Edition]",1995-09-26,56,1,0,64,0,0,-9,F Minor,4,71EAUWoX6EjdJ2AmBKSB7N,USRF30000042
+249,"You Could Be More As You Are","Saâda Bonaire",110,8B,52,2024-03-28,05:56,0,"","Saâda Bonaire",2013-11-12,97,14,1,96,10,0,-10,C Major,4,4SbUpy4BzSFKnH0eD1AyZI,SEYOK1832281
+250,"Keep Your Eyes Peeled","ULTRA SUNN",124,5B,84,2024-04-22,03:50,56,"darkwave, cold wave, ebm, post-punk, gothic rock","Keep Your Eyes Peeled",2020-07-17,55,2,44,47,0,10,-8,D#/E♭ Major,4,28KF83Qxd3raEAEjG1Rj0E,SEYOK2035725
+251,"No Scrubs","Unlike Pluto,Joanna Jones",73,12A,78,2024-04-27,03:21,0,"musicals","No Scrubs",2017-07-14,46,16,0,31,20,30,-5,C♯/D♭ Minor,4,5nYX0UoGDNyikiecl8jLFz,TCADD1790282
+252,"Тоска","Molchat Doma",160,11B,58,2024-04-29,03:09,65,"post-punk, darkwave, cold wave, gothic rock","Этажи",2018-09-07,39,24,90,37,0,10,-5,A Major,4,0sMra9TqwOskuvn4eR11n3,AEA0D1846144
+253,"Pain","Boy Harsher",128,10B,92,2024-05-02,07:19,0,"darkwave, cold wave, post-punk, ebm, gothic rock, deathrock, synthpop","Lesser Man EP",2014-00-00,72,4,60,79,0,10,-5,D Major,4,13HYthybjhM3iyWcfl8VcN,GB9TP1501926
+254,"Mount Everest","Labrinth",89,5A,43,2024-05-16,02:37,1,"","Mount Everest",2019-06-21,46,23,8,43,20,0,-7,C Minor,4,18wCJcoFmXZ0jfrFhF6cYS,GBHMU1800032
+255,"Bored","Deftones",80,10B,54,2024-05-29,04:05,68,"nu metal, alternative metal, rap metal, rock, shoegaze","Adrenaline",1995-00-00,37,0,9,31,0,20,-7,D Major,4,0PicuPCfXDJyyRtOR1ukGW,USMV29500022
+256,"Me and the Devil","Soap&Skin",89,9B,45,2024-06-05,03:05,79,"","Sugarbread",2013-03-11,58,49,1,22,0,10,-7,G Major,4,0wrWxW18WK2MkrfDpRHkyh,BEP011300085
+257,"Everything In Its Right Place","Radiohead",124,4A,46,2024-07-20,04:11,76,"art rock, alternative rock","Kid A",2000-10-02,30,71,5,6,0,10,-11,F Minor,5,2kRFrWaLWiKq48YYVdGcm8,GBAYE0000810
+258,"Angel","Massive Attack,Horace Andy",107,9B,31,2024-07-20,06:19,81,"trip hop, downtempo, roots reggae, dub, reggae, rocksteady, lovers rock, ragga","Mezzanine",1998-01-01,71,2,81,7,0,0,-11,G Major,4,7uv632EkfwYhXoqf8rhYrg,GBAAA9800327
+259,"Cherry Blossom Girl","Air",75,12A,76,2024-07-20,03:39,65,"trip hop, downtempo","Talkie Walkie",2004-01-26,44,36,96,50,0,10,-8,C♯/D♭ Minor,4,4m8ttWM8IKXyhpv89E867J,FRS630300090
+260,"Doin' Time","Sublime",81,9B,76,2024-08-23,04:13,75,"reggae rock, ska punk, ska","Sublime",1996-07-30,71,4,0,55,0,10,-5,G Major,4,4eamJr2k9YDH8j58RSTmSc,USUM70605191
+261,"Consideration","Rihanna,SZA",145,6A,58,2024-09-19,02:41,72,"r&b","ANTI (Deluxe)",2016-01-28,89,4,0,79,0,0,-2,G Minor,4,6t90Z9XkdsHD8xMxro6KRP,QM5FT1600113
+262,"Born Slippy (Nuxx) - Radio Edit","Underworld",140,6B,97,2024-11-06,04:24,66,"big beat, electronica","Born Slippy (Nuxx) [Radio Edit]",1995-01-01,54,0,13,35,0,10,-8,A#/B♭ Major,4,3bUNyRrTFJDd4mqvUcb1Aa,GBCGL9800026
+263,"Headlock","Imogen Heap",120,6A,37,2024-11-24,03:35,2,"","Speak for Yourself",2005-07-18,81,80,0,81,0,10,-11,G Minor,4,7vTENp2sLS3sPY5z4npYNr,GBJPX0500001
+264,"Never Is a Promise","Fiona Apple",117,8B,19,2024-12-31,05:54,48,"art pop","Tidal",1996-07-23,33,91,2,19,0,10,-13,C Major,4,6fxVwgRXQgTI3AZiuQlJst,USSM19600950
+265,"chucking it","Dean Blunt,Nova Varnrable",110,7A,59,2024-12-31,01:40,49,"","chucking it",2024-07-10,69,31,0,61,0,10,-6,D Minor,4,6wv0uzDg6tXI24ReURQmCG,UKQNV2400062
+266,"Rebel Yell","Billy Idol",166,9A,86,2025-01-24,04:48,79,"","Rebel Yell",1983-11-01,53,0,0,49,0,30,-5,E Minor,4,4TIJ7zSBNejpoIPaWpWRKc,USCH38400024
+267,"Paranoid - 2009 Remaster","Black Sabbath",163,9A,69,2025-02-13,02:47,81,"metal, heavy metal, rock, stoner rock, doom metal, hard rock","Paranoid",1970-09-18,42,0,1,33,0,10,-10,E Minor,4,3Jnxngdff0lVu2rza1GVx6,GBAJE7000057
+268,"Firestarter","The Prodigy",142,1B,95,2025-05-08,04:39,69,"big beat, breakbeat","The Fat of the Land",1997-06-30,55,0,36,36,0,20,-5,B Major,4,79CUrU5o2KAVDTNm4x3eGU,GBBKS9700080
+269,"Hole in the Earth","Deftones",206,11A,94,2025-05-25,04:09,70,"nu metal, alternative metal, rap metal, rock, shoegaze","Saturday Night Wrist",2006-10-25,14,0,6,30,20,30,-4,F#/G♭ Minor,3,5Bpc360LNUScK53FrM8nvB,USMV20600261
+270,"Sugar","System Of A Down",131,3B,89,2025-05-27,02:33,64,"nu metal, metal, alternative metal, rap metal, rock","System Of A Down",1998-06-30,45,0,0,59,20,20,-3,C♯/D♭ Major,4,1Ym3JWJG8HFJU2NbXavZ6a,USSM19800759
+271,"Bloody Mother Fucking Asshole","Martha Wainwright",176,10B,42,2025-07-01,03:13,0,"singer-songwriter","Martha Wainwright (Special Edition)",2005-00-00,37,40,0,24,0,10,-5,D Major,3,6jXrlEipTpnPbvbRi56iJV,GBGFB0500035
+272,"The Wind","PJ Harvey",110,10A,66,2025-07-01,04:01,55,"art pop, singer-songwriter, alternative rock","Is This Desire?",1998-01-01,66,14,74,69,0,0,-11,B Minor,4,3CHfuMoubpCT39PBTvAWk9,GBAAN9800304
+273,"Baby Boy","Childish Gambino",200,7A,36,2025-07-18,06:22,59,""," Awaken, My Love! ",2016-12-02,54,11,56,70,0,0,-10,D Minor,3,3icv5yfawQSwRPwVvBdHas,USYAH1600110
+274,"Late Nights & Heartbreak","Hannah Williams,The Affirmations",86,9B,41,2025-08-22,04:15,66,"retro soul, ","Late Nights & Heartbreak",2016-11-11,45,66,0,15,0,20,-7,G Major,4,1wL95zlNus1YDeDc3UO7e0,ITG581600023
+275,"Play Dead","Björk,David Arnold",77,3A,66,2025-09-29,03:57,44,"art pop, trip hop, soundtrack","Greatest Hits",2002-11-04,51,0,6,40,0,0,-7,A#/B♭ Minor,4,0OwMBaWRYmAAN48DcLZSeS,GBBTF0200131
+276,"You Don't Know Me","Jax Jones,RAYE",124,10A,66,2025-11-03,03:33,67,"","You Don't Know Me",2016-12-09,88,16,0,69,10,10,-6,B Minor,4,1rFMYAZxBoAKSzXI54brMu,GBUM71606456
+277,"Love You to Death","Type O Negative",111,2B,74,2025-11-04,07:08,67,"gothic metal, gothic rock, doom metal","October Rust (Special Edition)",1996-08-19,42,36,8,28,0,0,-7,F#/G♭ Major,4,58RDwkonFMOkoytBtIQetc,NLA329680043
+278,"Enjoy the Silence - Live at O2 World - Berlin, Germany","Depeche Mode",113,5A,92,2025-11-04,06:44,50,"new wave, synthpop, darkwave","DMBX5",2004-04-02,61,1,2,31,0,90,-5,C Minor,4,162jEBRb6zCOiaWaCiqK3B,GBAJH0400103
+279,"Carnival","Natalie Merchant",188,11A,48,2025-11-04,06:01,59,"singer-songwriter","Tigerlily",1995-00-00,60,20,10,80,0,0,-11,F#/G♭ Minor,4,4QXhRjZacZ1gZUeL7Ukktw,USEE19574030
+280,"Never Let Me Down Again","Depeche Mode",106,7A,93,2026-01-12,04:20,65,"new wave, synthpop, darkwave","The Singles 86-98",1998-09-28,58,28,3,77,0,10,-4,D Minor,4,3QqONU0GW4byIClquChyf0,GBAJH9800141
+281,"Unfinished Sympathy - 2012 Mix/Master","Massive Attack,Shara Nelson",114,9B,84,2026-01-12,05:08,70,"trip hop, downtempo, acid jazz, uk r&b","Blue Lines (2012 Mix/Master)",1991-06-10,59,4,21,70,0,60,-8,G Major,4,0j5FJJOmmnXPd0XajFWkMF,GBAAA1200649
+282,"It's No Good","Depeche Mode",99,3A,76,2026-01-13,05:58,67,"new wave, synthpop, darkwave","Ultra (Deluxe)",1997-04-14,60,1,5,18,0,0,-6,A#/B♭ Minor,4,7HDWE2Ib7cjkhzULV4K8y3,GBAJH0602714
+283,"Teardrop","Massive Attack,Elizabeth Fraser",77,10A,42,2026-01-13,05:30,76,"trip hop, downtempo","Mezzanine",1998-01-01,62,2,50,22,0,10,-9,B Minor,4,67Hna13dNDkZvBpTXRIaOJ,GBAAA9800322
+284,"Protection","Massive Attack,Tracey Thorn",168,12B,42,2026-01-13,07:51,62,"trip hop, downtempo, ","Protection",1994-09-26,58,2,12,74,0,0,-13,E Major,4,3kKVqFF4pv4EXeQe428zl2,GBAAA9400365
+285,"Mother","Danzig",148,10A,76,2026-01-13,03:24,75,"horror punk","Danzig",1988-01-01,37,1,0,34,0,0,-9,B Minor,4,7txxAtOMwLLnQTpKeBL6bp,USSM18800169
+286,"When I'm Small","Phantogram",92,6B,76,2026-01-24,04:09,75,"","Eyelid Movies",2010-00-00,65,19,10,42,0,10,-4,A#/B♭ Major,4,3y1EzRl5UEQxxd1f6Bv2aN,USBS51300075
+287,"Rollin' (Air Raid Vehicle)","Limp Bizkit",96,3B,93,2026-02-05,03:33,85,"nu metal, rap metal, alternative metal, rap rock","Chocolate Starfish And The Hot Dog Flavored Water",2000-10-17,60,1,0,71,10,20,-3,C♯/D♭ Major,4,3IV4swNduIRunHREK80owz,USIR10001170
+288,"Take A Look Around","Limp Bizkit",102,1B,85,2026-02-05,05:21,82,"nu metal, rap metal, alternative metal, rap rock","Chocolate Starfish And The Hot Dog Flavored Water",2000-10-17,43,2,31,50,0,0,-6,B Major,4,2avKuMN2QXkaG9vvHa2JLt,USIR10000604
+289,"Lonely Day","System Of A Down",113,1A,80,2026-02-05,02:47,85,"nu metal, metal, alternative metal, rap metal, rock","Hypnotize",2005-11-22,47,36,0,22,0,10,-3,G#/A♭ Minor,3,1VNWaY3uNfoeWqb5U8x2QX,USSM10505340
+290,"I Just Wasn't Made For These Times","The Beach Boys",188,6B,57,2026-03-06,03:21,52,"baroque pop","Pet Sounds",1966-05-16,21,45,0,34,0,0,-7,A#/B♭ Major,4,7Jljbi0t6TIusvUm3HnCAb,USCA29600664
+291,"Cat People (Putting Out Fire)","David Bowie",118,5A,68,2026-03-10,06:41,55,"glam rock, art rock","A New Career in a New Town (1977 - 1982)",2017-09-29,70,8,0,36,0,0,-9,C Minor,4,5vLI1yIuny3x4OLZ38Rrn2,USJT10500039
+292,"Them Bones (2022 Remaster)","Alice In Chains",165,11B,95,2026-04-11,02:29,74,"grunge, post-grunge","Dirt (2022 Remaster)",1992-09-29,16,2,0,34,0,30,-5,A Major,1,4A065x9kJt955eGVqf813g,USSM19200799
+293,"Play Dead - Tim Simenon 7  Remix","Björk,David Arnold",77,3A,48,2026-04-20,04:00,60,"art pop, trip hop, soundtrack","Play Dead",1993-10-11,51,0,10,39,0,10,-12,A#/B♭ Minor,4,732341mjCR7zodzYa5IEQf,GBBTF9300274
+294,"Worthy","The Home Team",125,3B,91,2026-04-22,03:11,65,"pop punk","The Crucible of Life (Deluxe Edition)",2025-06-13,61,0,0,68,0,30,-4,C♯/D♭ Major,4,0OTWo2VieF1YTC8OHrV0fF,QM24S2502195
