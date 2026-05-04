@@ -56,7 +56,7 @@ class MBTIPredictor(nn.Module):
     Uses pretrained encoder + custom classification heads
     """
     def __init__(self, encoder, input_dim, hidden_dim=64, dropout=0.3):
-        super(MBITIPredictor, self).__init__()
+        super(MBTIPredictor, self).__init__()
         
         # Freeze encoder initially (will be unfrozen later for fine-tuning)
         self.encoder = encoder
