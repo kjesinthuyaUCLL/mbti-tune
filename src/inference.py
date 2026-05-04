@@ -2,77 +2,64 @@ import torch
 import numpy as np
 import os
 import joblib
-from src.model import MusicAutoencoder, MBTIPredictor
+import json
+import pickle
+from src.model import PlaylistClassifier, PretrainedEncoder
 
 def load_model_and_scaler():
-    """Load the trained PyTorch model and the StandardScaler"""
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    
-    # Check for cuda
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    
-    # Load Scaler
-    scaler_path = os.path.join(base_dir, 'models', 'scaler.pkl')
-    # fallback to scaler_new or others if scaler.pkl doesn't exist
-    if not os.path.exists(scaler_path):
-        scaler_path = os.path.join(base_dir, 'models', 'scaler_aggregated.pkl')
-        
-    scaler = joblib.load(scaler_path)
-    
-    # Reconstruct Model Architecture
-    # input_dim is 45 based on features.json
-    input_dim = 45 
-    
-    encoder = MusicAutoencoder(input_dim=input_dim).encoder
-    model = MBTIPredictor(encoder=encoder, input_dim=input_dim)
-    
-    # Load weights
-    model_path = os.path.join(base_dir, 'models', 'final_mbti_model.pt')
-    if not os.path.exists(model_path):
-        model_path = os.path.join(base_dir, 'models', 'model_state_dict.pt')
-        
-    # Load state dict handling CPU/GPU mismatch
-    # Trusted local checkpoint; PyTorch 2.6 defaults weights_only=True and can reject pickled objects.
-    model.load_state_dict(
-        torch.load(model_path, map_location=device, weights_only=False),
-        strict=False
-    )
-    model.to(device)
-    model.eval()
-    
-    return model, scaler, device
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    # Load feature list
+    features_path = os.path.join(base_dir, "models", "pretrain_features.json")
+    with open(features_path, "r") as f:
+        feature_cols = json.load(f)
+    input_dim = len(feature_cols)
+
+    # Load scaler
+    scaler_path = os.path.join(base_dir, "models", "pretrain_scaler.pkl")
+    with open(scaler_path, "rb") as f:
+        scaler = pickle.load(f)
+
+    # Load encoder
+    encoder = PretrainedEncoder(input_dim=input_dim)
+    encoder_weights = os.path.join(base_dir, "models", "encoder_114k_weights.pth")
+    state = torch.load(encoder_weights, map_location=device)
+    encoder.layers.load_state_dict(state)
+    encoder.to(device)
+    encoder.eval()
+
+    # Load playlist classifier
+    classifier = PlaylistClassifier(encoder)
+    classifier_weights = os.path.join(base_dir, "models", "playlist_classifier_best.pth")
+    classifier.load_state_dict(torch.load(classifier_weights, map_location=device))
+    classifier.to(device)
+    classifier.eval()
+
+    return classifier, scaler, device, feature_cols
+
 
 def predict_mbti(features_vector, model, scaler, device):
-    """
-    Given a 1x45 numpy array of features, scale it and predict MBTI percentages.
-    Returns dictionary with E, N, T, J percentages.
-    """
-    # Scale features
-    scaled_features = scaler.transform(features_vector)
-    
-    # Convert to tensor
-    tensor_features = torch.tensor(scaled_features, dtype=torch.float32).to(device)
-    
-    # Predict
+    """Scale 1×42 feature vector and predict MBTI percentages."""
+    scaled = scaler.transform(features_vector)
+    x = torch.tensor(scaled, dtype=torch.float32).to(device)
+
     with torch.no_grad():
-        outputs = model(tensor_features)
-        # outputs are already passed through sigmoid in MBTIPredictor (or not?)
-        # Let's check src/model.py. In MBTIPredictor forward: e = torch.sigmoid(...)
-        # So outputs are already 0-1.
-        percentages = outputs[0].cpu().numpy()
-        
+        preds = torch.sigmoid(model(x)).cpu().numpy()[0]
+
     return {
-        'E': float(percentages[0]),
-        'N': float(percentages[1]),
-        'T': float(percentages[2]),
-        'J': float(percentages[3])
+        "E": float(preds[0]),
+        "N": float(preds[1]),
+        "T": float(preds[2]),
+        "J": float(preds[3])
     }
 
-def get_mbti_type(predictions):
-    """Convert percentages to 4-letter MBTI type"""
-    mbti = ""
-    mbti += "E" if predictions['E'] > 0.5 else "I"
-    mbti += "N" if predictions['N'] > 0.5 else "S"
-    mbti += "T" if predictions['T'] > 0.5 else "F"
-    mbti += "J" if predictions['J'] > 0.5 else "P"
-    return mbti
+
+def get_mbti_type(pred):
+    """Convert percentages to MBTI letters."""
+    return (
+        ("E" if pred["E"] > 0.5 else "I") +
+        ("N" if pred["N"] > 0.5 else "S") +
+        ("T" if pred["T"] > 0.5 else "F") +
+        ("J" if pred["J"] > 0.5 else "P")
+    )
