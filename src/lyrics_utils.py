@@ -1,5 +1,3 @@
-# src/lyrics_utils.py
-
 import requests
 from langdetect import detect
 import google.generativeai as genai
@@ -51,8 +49,13 @@ Lyrics:
         return None
 
 
-def build_lyrics_context(tracks, limit=3):
-    context = []
+def build_lyrics_context(tracks, limit=20):
+    """
+    NEW BEHAVIOR:
+    - Check songs in order (latest first)
+    - Return ONLY the first song that has lyrics
+    - Provide both summary + mood interpretation
+    """
 
     for name, artist in tracks[:limit]:
         lyrics = get_lyrics_lrclib(name, artist)
@@ -67,7 +70,25 @@ def build_lyrics_context(tracks, limit=3):
 
         summary = translate_and_summarize(lyrics)
 
-        if summary:
-            context.append(f"{name} - {artist} ({lang})\n{summary}\n")
+        if not summary:
+            continue
 
-    return "\n".join(context) if context else "No lyrics found."
+        personality_context = f"{name} - {artist} ({lang})\n{summary}\n"
+
+        mood_prompt = f"""
+Based on the emotional themes in this song summary, describe the listener's
+probable current mood in 3–5 sentences. Avoid generic statements.
+
+Song Summary:
+{summary}
+"""
+
+        try:
+            mood_resp = MODEL.generate_content(mood_prompt)
+            mood_context = mood_resp.text.strip()
+        except:
+            mood_context = "Mood analysis unavailable."
+
+        return personality_context, mood_context
+
+    return "No lyrics found.", "Mood unavailable."

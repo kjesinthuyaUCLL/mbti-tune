@@ -1,5 +1,3 @@
-# src/spotify_utils.py
-
 import os
 import pandas as pd
 import numpy as np
@@ -9,23 +7,15 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ---------------- CONFIG ----------------
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
-# Fallback dataset (pretrain data)
 DATASET_PATH = os.path.join(
-    BASE_DIR,
-    "data",
-    "raw",
-    "pretrain",
-    "spotify_tracks.csv"
+    BASE_DIR, "data", "raw", "pretrain", "spotify_tracks.csv"
 )
 
-# Spotify key/mode are numeric: key ∈ [0..11], mode ∈ {0,1}
-KEYS = list(range(12))   # 0..11
-MODES = [0, 1]           # 0=minor, 1=major
+KEYS = list(range(12))
+MODES = [0, 1]
 
-# ---------------- AUTH ----------------
 def get_spotify_oauth():
     return SpotifyOAuth(
         client_id=os.getenv("SPOTIFY_CLIENT_ID"),
@@ -34,45 +24,42 @@ def get_spotify_oauth():
         scope="user-top-read"
     )
 
-# ---------------- FALLBACK DATASET ----------------
+def get_artist_genres(sp, artist_id):
+    try:
+        artist = sp.artist(artist_id)
+        return artist.get("genres", [])
+    except:
+        return []
+
 def load_fallback_dataset():
-    df = pd.read_csv(DATASET_PATH)
-    df = df.dropna()
-    return df
+    try:
+        df = pd.read_csv(DATASET_PATH)
+        df = df.dropna()
+        return df
+    except Exception as e:
+        print("Fallback dataset load failed:", e)
+        return None
 
-# ---------------- SHARED FEATURE AGGREGATION ----------------
-NUMERIC_COLS_LIVE = [
+NUMERIC_COLS = [
     "danceability", "energy", "loudness", "speechiness",
     "acousticness", "instrumentalness", "liveness",
     "valence", "tempo"
 ]
 
-NUMERIC_COLS_DATASET = [
-    "danceability", "energy", "loudness", "speechiness",
-    "acousticness", "instrumentalness", "liveness",
-    "valence", "tempo"
-]
-
-def _aggregate_numeric(df, numeric_cols):
+def _aggregate_numeric(df):
     agg = {}
-    for col in numeric_cols:
+    for col in NUMERIC_COLS:
         if col not in df.columns:
+            agg[f"{col}_mean"] = 0.0
+            agg[f"{col}_stdev"] = 0.0
             continue
-        col_mean = float(df[col].mean())
-        col_std = float(df[col].std() or 0.0)
-        agg[f"{col}_mean"] = col_mean
-        agg[f"{col}_stdev"] = col_std
+        agg[f"{col}_mean"] = float(df[col].mean())
+        agg[f"{col}_stdev"] = float(df[col].std() or 0.0)
     return agg
 
 def _aggregate_key_mode(df):
-    """
-    Build key_mode_<key>_<mode> counts, where:
-    - key in [0..11]
-    - mode in {0,1}
-    """
     agg = {}
 
-    # Ensure key/mode exist and are ints
     if "key" not in df.columns or "mode" not in df.columns:
         for k in KEYS:
             for m in MODES:
@@ -90,81 +77,47 @@ def _aggregate_key_mode(df):
 
     counts = df["key_mode_idx"].value_counts().to_dict()
 
-    # Initialize all to 0
     for k in KEYS:
         for m in MODES:
             agg[f"key_mode_{k}_{m}"] = 0
 
-    # Fill observed counts
     for k, v in counts.items():
         agg[k] = int(v)
 
     return agg
 
-# ---------------- FEATURE BUILDER (DATASET MODE) ----------------
-def build_features_from_dataset(df):
-    """
-    Build aggregated features from the fallback dataset.
-    Schema matches pretrain_features.json:
-    - <numeric>_mean, <numeric>_stdev
-    - key_mode_<key>_<mode>
-    - track_count
-    """
+def build_features(df):
     agg = {}
-
-    # numeric stats
-    agg.update(_aggregate_numeric(df, NUMERIC_COLS_DATASET))
-
-    # key/mode counts
+    agg.update(_aggregate_numeric(df))
     agg.update(_aggregate_key_mode(df))
-
-    # track count
     agg["track_count"] = int(len(df))
-
     return agg
 
-# ---------------- FEATURE BUILDER (LIVE SPOTIFY AUDIO FEATURES) ----------------
-def build_features_from_audio_features(df):
-    """
-    Build aggregated features from Spotify audio_features.
-    Same schema as dataset mode.
-    """
-    agg = {}
-
-    # numeric stats
-    agg.update(_aggregate_numeric(df, NUMERIC_COLS_LIVE))
-
-    # key/mode counts
-    agg.update(_aggregate_key_mode(df))
-
-    # track count
-    agg["track_count"] = int(len(df))
-
-    return agg
-
-# ---------------- MAIN PIPELINE ----------------
 def fetch_user_data(token_info, feature_cols, limit=20):
-    """
-    Returns:
-      - final_vector: np.array shape (1, len(feature_cols))
-      - tracks: list[(track_name, artist_name)]
-      - top_artists: list[str]
-    """
     sp = spotipy.Spotify(auth=token_info["access_token"])
 
-    top_tracks = sp.current_user_top_tracks(limit=limit, time_range="medium_term")
+    try:
+        top_tracks = sp.current_user_top_tracks(limit=limit, time_range="medium_term")
+    except Exception as e:
+        print("Error fetching top tracks:", e)
+        return None, None, None, None
 
     if not top_tracks or not top_tracks.get("items"):
-        return None, None, None
+        return None, None, None, None
 
-    track_ids, track_names, artists = [], [], []
+    track_ids, track_names, artists, genres = [], [], [], []
 
     for item in top_tracks["items"]:
         track_ids.append(item["id"])
         track_names.append(item["name"])
-        artists.append(item["artists"][0]["name"])
 
-    # ---------------- TRY SPOTIFY AUDIO FEATURES ----------------
+        artist_obj = item["artists"][0]
+        artist_name = artist_obj["name"]
+        artist_id = artist_obj["id"]
+
+        artists.append(artist_name)
+        genres.append(get_artist_genres(sp, artist_id))
+
     audio_features = []
     try:
         for i in range(0, len(track_ids), 100):
@@ -172,19 +125,25 @@ def fetch_user_data(token_info, feature_cols, limit=20):
             if batch:
                 audio_features.extend([f for f in batch if f])
     except Exception as e:
-        print("Spotify API failed → switching to dataset fallback:", e)
+        print("Spotify audio_features failed:", e)
 
-    # ---------------- FALLBACK TO DATASET ----------------
-    if not audio_features:
-        df = load_fallback_dataset()
-        # sample a reasonable subset
-        df = df.sample(min(len(df), 2000), random_state=42)
-        agg = build_features_from_dataset(df)
-    else:
+    agg = None
+
+    if audio_features:
         df = pd.DataFrame(audio_features)
-        agg = build_features_from_audio_features(df)
+        if len(df) > 0:
+            agg = build_features(df)
 
-    # ---------------- BUILD FEATURE VECTOR ----------------
+    if agg is None:
+        df = load_fallback_dataset()
+        if df is not None and len(df) > 0:
+            df = df.sample(min(len(df), 2000), random_state=42)
+            agg = build_features(df)
+
+    if agg is None:
+        print("No valid audio features from Spotify or fallback dataset.")
+        return None, None, None, None
+
     final_vector = np.array(
         [[agg.get(col, 0.0) for col in feature_cols]],
         dtype=np.float32
@@ -193,4 +152,4 @@ def fetch_user_data(token_info, feature_cols, limit=20):
     top_artists = list(pd.Series(artists).value_counts().head(3).index)
     tracks = list(zip(track_names, artists))
 
-    return final_vector, tracks, top_artists
+    return final_vector, tracks, top_artists, genres

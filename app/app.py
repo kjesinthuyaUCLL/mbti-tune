@@ -10,7 +10,7 @@ load_dotenv()
 
 # Configure Gemini
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-gemini_model = genai.GenerativeModel("models/gemini-2.5-flash")
+gemini_model = genai.GenerativeModel("gemini-2.5-flash")
 
 # Ensure src is in path
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -73,13 +73,8 @@ st.markdown("""
 st.markdown('<div class="title-gradient">MBTI Tune</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Discover your psychological type through your Spotify listening habits.</div>', unsafe_allow_html=True)
 
-# Load feature names (42 features)
-try:
-    with open(os.path.join("models", "pretrain_features.json"), 'r') as f:
-        feature_cols = json.load(f)
-except FileNotFoundError:
-    st.error("⚠️ Missing 'pretrain_features.json' in models/.")
-    st.stop()
+# Load model, scaler, device, and EXACT feature_cols
+model, scaler, device, feature_cols = load_model_and_scaler()
 
 # Spotify OAuth Setup
 oauth = get_spotify_oauth()
@@ -95,6 +90,7 @@ token_info = st.session_state.get('token_info', None)
 if not token_info:
     token_info = oauth.get_cached_token()
 
+# Login screen
 if not token_info:
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
@@ -109,28 +105,44 @@ else:
 
     if st.button("Start AI Analysis"):
         with st.spinner("Fetching your top tracks and audio features..."):
-            features_vector, tracks, top_artists = fetch_user_data(token_info, feature_cols)
+            features_vector, tracks, top_artists, genres = fetch_user_data(token_info, feature_cols)
 
         if features_vector is None:
-            st.error("Not enough Spotify data found. Listen to more music!")
+            st.error("Not enough Spotify data found or audio features unavailable. Try again later.")
         else:
+
+            # ---------------- TOP 5 SONGS ----------------
+            st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+            st.subheader("🎧 Your Top 5 Most-Listened Songs")
+
+            for i, ((name, artist), g) in enumerate(zip(tracks[:5], genres[:5]), start=1):
+                genre_text = ", ".join(g) if g else "Unknown genre"
+                st.markdown(f"""
+                    **{i}. {name}**  
+                    Artist: *{artist}*  
+                    Genres: *{genre_text}*
+                    ---
+                """)
+
+            st.markdown('</div>', unsafe_allow_html=True)
+
+            # ---------------- LYRICS + MOOD ----------------
             col_res, col_lyrics = st.columns([1, 1])
 
-            # LYRICS SECTION
             with col_lyrics:
                 st.markdown('<div class="glass-card">', unsafe_allow_html=True)
-                st.subheader("🎵 Lyrics Meaning Analysis (Translated + Summarized)")
-                with st.spinner("Analyzing your top songs..."):
-                    lyrics_context = build_lyrics_context(tracks, limit=3)
-                    st.text_area("Song Summaries", lyrics_context, height=250, disabled=True)
+                st.subheader("🎵 Lyrics Meaning Analysis")
+                with st.spinner("Analyzing your latest meaningful song..."):
+                    lyrics_context, mood_context = build_lyrics_context(tracks)
+                    st.text_area("Song Summary", lyrics_context, height=250, disabled=True)
+                    st.text_area("Current Mood Interpretation", mood_context, height=200, disabled=True)
                 st.markdown('</div>', unsafe_allow_html=True)
 
-            # MBTI SECTION
+            # ---------------- MBTI PREDICTION ----------------
             with col_res:
                 st.markdown('<div class="glass-card">', unsafe_allow_html=True)
                 st.subheader("🧠 PyTorch Prediction")
                 with st.spinner("Running Deep Neural Network..."):
-                    model, scaler, device, _ = load_model_and_scaler()   # FIXED: do NOT overwrite feature_cols
                     percentages = predict_mbti(features_vector, model, scaler, device)
                     mbti_type = get_mbti_type(percentages)
 
@@ -142,7 +154,7 @@ else:
                         st.progress(percentages[dim])
                 st.markdown('</div>', unsafe_allow_html=True)
 
-            # GEMINI SECTION
+            # ---------------- GEMINI BREAKDOWN ----------------
             st.markdown('<div class="glass-card">', unsafe_allow_html=True)
             st.subheader("✨ Gemini Psychological Breakdown")
             with st.spinner("Generating personalized insights..."):

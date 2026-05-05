@@ -18,18 +18,27 @@ def load_model_and_scaler():
 
     # Load scaler
     scaler_path = os.path.join(base_dir, "models", "pretrain_scaler.pkl")
-    with open(scaler_path, "rb") as f:
-        scaler = pickle.load(f)
+    scaler = joblib.load(scaler_path)
 
-    # Load encoder
+    # -------------------------------
+    # Load encoder (with key remapping)
+    # -------------------------------
     encoder = PretrainedEncoder(input_dim=input_dim)
+
     encoder_weights = os.path.join(base_dir, "models", "encoder_114k_weights.pth")
-    state = torch.load(encoder_weights, map_location=device)
-    encoder.layers.load_state_dict(state)
+    raw_state = torch.load(encoder_weights, map_location=device)
+
+    fixed_state = {}
+    for k, v in raw_state.items():
+        fixed_state[f"encoder.{k}"] = v
+
+    encoder.load_state_dict(fixed_state)
     encoder.to(device)
     encoder.eval()
 
+    # -------------------------------
     # Load playlist classifier
+    # -------------------------------
     classifier = PlaylistClassifier(encoder)
     classifier_weights = os.path.join(base_dir, "models", "playlist_classifier_best.pth")
     classifier.load_state_dict(torch.load(classifier_weights, map_location=device))
