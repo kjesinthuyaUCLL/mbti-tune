@@ -1,28 +1,29 @@
+# src/spotify_utils.py
+
 import os
-import json
-import spotipy
 import pandas as pd
 import numpy as np
+import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
 
 load_dotenv()
 
 # ---------------- CONFIG ----------------
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+
+# Fallback dataset (pretrain data)
 DATASET_PATH = os.path.join(
-    os.path.dirname(os.path.dirname(__file__)),
-    "data/raw/pretrain/spotify_tracks.csv"
+    BASE_DIR,
+    "data",
+    "raw",
+    "pretrain",
+    "spotify_tracks.csv"
 )
 
-KEY_MAPPING = {
-    0: "C", 1: "C#/Db", 2: "D", 3: "D#/Eb", 4: "E", 5: "F",
-    6: "F#/Gb", 7: "G", 8: "G#/Ab", 9: "A", 10: "A#/Bb", 11: "B"
-}
-
-MODE_MAPPING = {
-    0: "minor",
-    1: "major"
-}
+# Spotify key/mode are numeric: key ∈ [0..11], mode ∈ {0,1}
+KEYS = list(range(12))   # 0..11
+MODES = [0, 1]           # 0=minor, 1=major
 
 # ---------------- AUTH ----------------
 def get_spotify_oauth():
@@ -36,47 +37,119 @@ def get_spotify_oauth():
 # ---------------- FALLBACK DATASET ----------------
 def load_fallback_dataset():
     df = pd.read_csv(DATASET_PATH)
-
-    # clean missing values
     df = df.dropna()
-
     return df
 
-# ---------------- FEATURE BUILDER (DATASET MODE) ----------------
-def build_features_from_dataset(df):
+# ---------------- SHARED FEATURE AGGREGATION ----------------
+NUMERIC_COLS_LIVE = [
+    "danceability", "energy", "loudness", "speechiness",
+    "acousticness", "instrumentalness", "liveness",
+    "valence", "tempo"
+]
+
+NUMERIC_COLS_DATASET = [
+    "danceability", "energy", "loudness", "speechiness",
+    "acousticness", "instrumentalness", "liveness",
+    "valence", "tempo"
+]
+
+def _aggregate_numeric(df, numeric_cols):
+    agg = {}
+    for col in numeric_cols:
+        if col not in df.columns:
+            continue
+        col_mean = float(df[col].mean())
+        col_std = float(df[col].std() or 0.0)
+        agg[f"{col}_mean"] = col_mean
+        agg[f"{col}_stdev"] = col_std
+    return agg
+
+def _aggregate_key_mode(df):
+    """
+    Build key_mode_<key>_<mode> counts, where:
+    - key in [0..11]
+    - mode in {0,1}
+    """
     agg = {}
 
-    numeric_cols = [
-        "danceability", "energy", "loudness", "speechiness",
-        "acousticness", "instrumentalness", "liveness",
-        "valence", "tempo"
-    ]
+    # Ensure key/mode exist and are ints
+    if "key" not in df.columns or "mode" not in df.columns:
+        for k in KEYS:
+            for m in MODES:
+                agg[f"key_mode_{k}_{m}"] = 0
+        return agg
 
-    for col in numeric_cols:
-        agg[f"{col}_mean"] = float(df[col].mean())
-        agg[f"{col}_stdev"] = float(df[col].std() or 0)
+    df = df.copy()
+    df["key"] = df["key"].astype(int)
+    df["mode"] = df["mode"].astype(int)
 
-    # key-mode encoding
-    df["key_mode"] = df.apply(
-        lambda r: f"{KEY_MAPPING.get(int(r['key']), 'C')}{MODE_MAPPING.get(int(r['mode']), 'major')}_count",
+    df["key_mode_idx"] = df.apply(
+        lambda r: f"key_mode_{int(r['key'])}_{int(r['mode'])}",
         axis=1
     )
 
-    key_counts = df["key_mode"].value_counts().to_dict()
+    counts = df["key_mode_idx"].value_counts().to_dict()
 
-    for k in KEY_MAPPING.values():
-        for m in MODE_MAPPING.values():
-            agg[f"{k}{m}_count"] = 0
+    # Initialize all to 0
+    for k in KEYS:
+        for m in MODES:
+            agg[f"key_mode_{k}_{m}"] = 0
 
-    for k, v in key_counts.items():
-        agg[k] = v
+    # Fill observed counts
+    for k, v in counts.items():
+        agg[k] = int(v)
 
-    agg["track_count"] = len(df)
+    return agg
+
+# ---------------- FEATURE BUILDER (DATASET MODE) ----------------
+def build_features_from_dataset(df):
+    """
+    Build aggregated features from the fallback dataset.
+    Schema matches pretrain_features.json:
+    - <numeric>_mean, <numeric>_stdev
+    - key_mode_<key>_<mode>
+    - track_count
+    """
+    agg = {}
+
+    # numeric stats
+    agg.update(_aggregate_numeric(df, NUMERIC_COLS_DATASET))
+
+    # key/mode counts
+    agg.update(_aggregate_key_mode(df))
+
+    # track count
+    agg["track_count"] = int(len(df))
+
+    return agg
+
+# ---------------- FEATURE BUILDER (LIVE SPOTIFY AUDIO FEATURES) ----------------
+def build_features_from_audio_features(df):
+    """
+    Build aggregated features from Spotify audio_features.
+    Same schema as dataset mode.
+    """
+    agg = {}
+
+    # numeric stats
+    agg.update(_aggregate_numeric(df, NUMERIC_COLS_LIVE))
+
+    # key/mode counts
+    agg.update(_aggregate_key_mode(df))
+
+    # track count
+    agg["track_count"] = int(len(df))
 
     return agg
 
 # ---------------- MAIN PIPELINE ----------------
 def fetch_user_data(token_info, feature_cols, limit=20):
+    """
+    Returns:
+      - final_vector: np.array shape (1, len(feature_cols))
+      - tracks: list[(track_name, artist_name)]
+      - top_artists: list[str]
+    """
     sp = spotipy.Spotify(auth=token_info["access_token"])
 
     top_tracks = sp.current_user_top_tracks(limit=limit, time_range="medium_term")
@@ -93,55 +166,23 @@ def fetch_user_data(token_info, feature_cols, limit=20):
 
     # ---------------- TRY SPOTIFY AUDIO FEATURES ----------------
     audio_features = []
-
     try:
         for i in range(0, len(track_ids), 100):
             batch = sp.audio_features(track_ids[i:i+100])
             if batch:
                 audio_features.extend([f for f in batch if f])
-
     except Exception as e:
         print("Spotify API failed → switching to dataset fallback:", e)
 
     # ---------------- FALLBACK TO DATASET ----------------
     if not audio_features:
         df = load_fallback_dataset()
-
-        # sample similar size to user tracks
-        df = df.sample(min(len(df), 2000))
-
+        # sample a reasonable subset
+        df = df.sample(min(len(df), 2000), random_state=42)
         agg = build_features_from_dataset(df)
-
     else:
         df = pd.DataFrame(audio_features)
-
-        numeric_cols = [
-            "danceability", "energy", "loudness", "speechiness",
-            "acousticness", "instrumentalness", "liveness",
-            "valence", "tempo", "mode"
-        ]
-
-        agg = {}
-
-        for col in numeric_cols:
-            agg[f"{col}_mean"] = float(df[col].mean())
-            agg[f"{col}_stdev"] = float(df[col].std() or 0)
-
-        df["key_mode"] = df.apply(
-            lambda r: f"{KEY_MAPPING[r['key']]}{MODE_MAPPING[r['mode']]}_count",
-            axis=1
-        )
-
-        key_counts = df["key_mode"].value_counts().to_dict()
-
-        for k in KEY_MAPPING.values():
-            for m in MODE_MAPPING.values():
-                agg[f"{k}{m}_count"] = 0
-
-        for k, v in key_counts.items():
-            agg[k] = v
-
-        agg["track_count"] = len(df)
+        agg = build_features_from_audio_features(df)
 
     # ---------------- BUILD FEATURE VECTOR ----------------
     final_vector = np.array(

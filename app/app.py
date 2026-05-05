@@ -8,10 +8,9 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
-# Configure Gemini once
+# Configure Gemini
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-gemini_model = genai.GenerativeModel("gemini-1.5-flash-latest")
-
+gemini_model = genai.GenerativeModel("models/gemini-2.5-flash")
 
 # Ensure src is in path
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -74,7 +73,7 @@ st.markdown("""
 st.markdown('<div class="title-gradient">MBTI Tune</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Discover your psychological type through your Spotify listening habits.</div>', unsafe_allow_html=True)
 
-# 1. Load the new feature names list (42 features)
+# Load feature names (42 features)
 try:
     with open(os.path.join("models", "pretrain_features.json"), 'r') as f:
         feature_cols = json.load(f)
@@ -82,7 +81,7 @@ except FileNotFoundError:
     st.error("⚠️ Missing 'pretrain_features.json' in models/.")
     st.stop()
 
-# 2. Spotify OAuth Setup
+# Spotify OAuth Setup
 oauth = get_spotify_oauth()
 
 # Handle OAuth redirect
@@ -102,10 +101,7 @@ if not token_info:
         st.markdown('<div class="glass-card" style="text-align:center;">', unsafe_allow_html=True)
         st.write("Connect your Spotify account to let our PyTorch AI analyze your audio features and lyrics.")
         auth_url = oauth.get_authorize_url()
-        st.markdown(
-            f'<a href="{auth_url}" target="_self"><button>Log in with Spotify</button></a>',
-            unsafe_allow_html=True
-        )
+        st.markdown(f'<a href="{auth_url}" target="_self"><button>Log in with Spotify</button></a>', unsafe_allow_html=True)
         st.markdown('</div>', unsafe_allow_html=True)
 
 else:
@@ -113,7 +109,6 @@ else:
 
     if st.button("Start AI Analysis"):
         with st.spinner("Fetching your top tracks and audio features..."):
-            # UPDATED: pass feature_cols into fetch_user_data
             features_vector, tracks, top_artists = fetch_user_data(token_info, feature_cols)
 
         if features_vector is None:
@@ -121,6 +116,7 @@ else:
         else:
             col_res, col_lyrics = st.columns([1, 1])
 
+            # LYRICS SECTION
             with col_lyrics:
                 st.markdown('<div class="glass-card">', unsafe_allow_html=True)
                 st.subheader("🎵 Lyrics Meaning Analysis (Translated + Summarized)")
@@ -129,11 +125,12 @@ else:
                     st.text_area("Song Summaries", lyrics_context, height=250, disabled=True)
                 st.markdown('</div>', unsafe_allow_html=True)
 
+            # MBTI SECTION
             with col_res:
                 st.markdown('<div class="glass-card">', unsafe_allow_html=True)
                 st.subheader("🧠 PyTorch Prediction")
                 with st.spinner("Running Deep Neural Network..."):
-                    model, scaler, device, feature_cols = load_model_and_scaler()
+                    model, scaler, device, _ = load_model_and_scaler()   # FIXED: do NOT overwrite feature_cols
                     percentages = predict_mbti(features_vector, model, scaler, device)
                     mbti_type = get_mbti_type(percentages)
 
@@ -145,6 +142,7 @@ else:
                         st.progress(percentages[dim])
                 st.markdown('</div>', unsafe_allow_html=True)
 
+            # GEMINI SECTION
             st.markdown('<div class="glass-card">', unsafe_allow_html=True)
             st.subheader("✨ Gemini Psychological Breakdown")
             with st.spinner("Generating personalized insights..."):
