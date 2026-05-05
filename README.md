@@ -1,4 +1,4 @@
-# MBTI Tune
+# **MBTI Tune**
 
 Predict your MBTI personality dimensions from your Spotify listening habits.
 
@@ -6,80 +6,88 @@ Predict your MBTI personality dimensions from your Spotify listening habits.
 
 ---
 
-## What This Project Does
+## **What This Project Does**
 
-- Connects to your Spotify account
-- Analyzes your top 20 tracks
-- Predicts 4 MBTI dimension percentages (E%, N%, T%, J%)
-- Shows a fun personality description using Gemini AI
+- Connects to your Spotify account  
+- Fetches your top 20 tracks  
+- Extracts audio features (with fallback if Spotify blocks the API)  
+- Predicts 4 MBTI dimension percentages: **E%, N%, T%, J%**  
+- Fetches lyrics via LRCLIB  
+- Translates + summarizes lyrics using **Gemini AI**  
+- Generates a personalized psychological breakdown  
 
 ---
 
-## Datasets Used
+## **Datasets Used (Updated)**
 
 | Dataset | Size | Source | Purpose |
 |---------|------|--------|---------|
-| Song-level playlists | 32,367 songs | Manually collected from 16 MBTI folders | Autoencoder pretraining |
-| Playlist-level aggregated | 4,201 playlists | Downloaded pre-processed dataset | Classifier training |
-| Unlabeled songs | 113,000 songs | External dataset | Not used |
+| **Song-level dataset** | 113,000 songs | External dataset | Autoencoder pretraining |
+| **MBTI playlist dataset** | 4,816 playlists | Public MBTI dataset | Classifier training |
+| **User top tracks** | Live | Spotify API | Real-time prediction |
+
+> Note: The older 32,367‑song dataset and 16‑folder structure were used during early prototyping but are **not part of the final pipeline**.
 
 ---
 
-## Project Progress
+## **Project Progress (Updated)**
 
 | Step | What We Did | Output |
 |------|-------------|--------|
-| 1 | Collected 16 personality folders with Spotify playlist CSVs | Raw data |
-| 2 | Combined songs per personality, added song frequency | Processed data |
-| 3 | Removed duplicate songs across personalities | 32,367 unique songs |
-| 4 | Used playlist-level aggregated dataset | 4,201 playlists with 45 features |
-| 5 | Trained autoencoder on songs (unsupervised) | Learned music patterns |
-| 6 | Trained classifier on playlists (supervised) | MBTI prediction model |
-| 7 | Trained song-level classifier for comparison | Proved playlist aggregation is better |
-| 8 | Tested both models locally | Ready for deployment |
+| 1 | Cleaned and standardized MBTI playlist dataset | 4,816 playlists |
+| 2 | Pretrained autoencoder on 113k songs | `encoder_114k_weights.pth` |
+| 3 | Built transfer-learning classifier | `playlist_classifier.pt` |
+| 4 | Implemented Spotify OAuth + fallback audio features | Robust live pipeline |
+| 5 | Integrated LRCLIB for lyrics | Raw lyrics |
+| 6 | Added Gemini translation + summarization | Clean English summaries |
+| 7 | Added Gemini psychological breakdown | Personalized insights |
+| 8 | Built Streamlit app | Ready for deployment |
 
 ---
 
-## Why Two Models
+## **Why This Architecture Works**
 
-| Model | What It Does | Data Used |
-|-------|--------------|-----------|
-| Autoencoder | Learns general music patterns | 32,367 songs (no labels) |
-| Playlist Classifier | Predicts MBTI dimensions | 4,201 playlists (with MBTI labels) |
-| Song Classifier | Individual song predictions (for comparison) | 32,367 songs (with labels) |
+| Component | Purpose |
+|----------|----------|
+| **Autoencoder** | Learns general music patterns (unsupervised) |
+| **Encoder (16‑dim latent vector)** | “Music fingerprint” of a playlist |
+| **Playlist Classifier** | Predicts MBTI percentages from latent vector |
+| **Lyrics Summaries (Gemini)** | Adds interpretability and user engagement |
 
-This approach is called **Transfer Learning**.
-
----
-
-## Model Performance Comparison
-
-| Model | Overall MAE | Letter Accuracy |
-|-------|-------------|-----------------|
-| Playlist Classifier | 37.7% | 68.1% |
-| Song Classifier | 45.5% | 61.4% |
-
-**Conclusion:** Playlist aggregation performs better because personality is revealed through listening patterns, not individual songs.
+This is a **transfer learning pipeline**:  
+Unsupervised → Supervised → Real-time inference.
 
 ---
 
-## Tools & Versions
+## **Model Performance (Updated)**
+
+| Metric | Value |
+|--------|--------|
+| **Overall MAE** | **37.7%** |
+| **Letter Accuracy** | **68.1%** |
+
+Playlist-level aggregation performs better than song-level prediction because personality emerges from **listening patterns**, not individual tracks.
+
+---
+
+## **Tools & Versions (Updated)**
 
 | Tool | Version |
 |------|---------|
-| Python | 3.9+ |
+| Python | 3.10+ |
 | PyTorch | 2.1.0 |
 | NumPy | 1.24.3 |
 | Pandas | 2.0.3 |
-| scikit-learn | 1.3.0 |
+| scikit-learn | 1.6.1 (required for scaler compatibility) |
 | Streamlit | 1.28.0 |
-| Spotify API | Latest |
-| Google Gemini API | 0.4.0 |
+| Spotipy | 2.23.0 |
+| Google Gemini API | Latest |
+| SHAP | 0.43.0 (explainability planned) |
 | Google Colab | T4 GPU |
 
 ---
 
-## Installation
+## **Installation**
 
 ### 1. Clone the repo
 ```bash
@@ -110,90 +118,105 @@ pip install -r requirements.txt
 
 ---
 
-## requirements.txt
+## **requirements.txt (Updated)**
 
 ```txt
-numpy==1.24.3
-pandas==2.0.3
-torch==2.1.0
-torchvision==0.16.0
-scikit-learn==1.3.0
+streamlit==1.32.0
 spotipy==2.23.0
-streamlit==1.28.0
-google-generativeai==0.4.0
-shap==0.43.0
-matplotlib==3.7.2
-seaborn==0.12.2
-python-dotenv==1.0.0
-tqdm==4.66.1
-joblib==1.3.2
+pandas==2.2.1
+numpy==1.26.4
+requests==2.31.0
+python-dotenv==1.0.1
+langdetect==1.0.9
+google-generativeai==0.5.2
+protobuf==4.25.3
+
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+
+scikit-learn==1.4.2
+matplotlib==3.8.3
+seaborn==0.13.2
 ```
 
 ---
 
-## Google Colab Training
+## **Google Colab Training (Updated)**
 
 Three notebooks were used:
 
 | Notebook | Purpose | Output |
 |----------|---------|--------|
-| `MBTI_Tune_Training.ipynb` | Train autoencoder on 32,367 songs | `autoencoder.pth` |
+| `MBTI_Tracks_Autoencoder.ipynb` | Pretrain autoencoder on 113k songs | `encoder_114k_weights.pth` |
 | `MBTI_Playlist_Training.ipynb` | Train playlist classifier | `playlist_classifier.pt` |
-| `MBTI_Song_Classifier.ipynb` | Train song classifier for comparison | `song_classifier.pt` |
+| `MBTI_Song_Classifier.ipynb` | (Optional) Song-level classifier | `song_classifier.pt` |
 
-### Google Colab Setup
+### Colab Setup
 
-Create a folder named `mbti_tune_data` in Google Drive. Upload your entire `data/` folder inside it.
+Create:
 
-Run notebooks in this order:
-1. `MBTI_Tune_Training.ipynb`
-2. `MBTI_Playlist_Training.ipynb`
-3. `MBTI_Song_Classifier.ipynb`
+```
+/content/drive/MyDrive/mbti_tune_data/
+```
+
+Upload:
+- `data/`
+- `models/` (optional)
+
+Run notebooks in order:
+1. Autoencoder  
+2. Playlist classifier  
+3. Song classifier (optional)
 
 ---
 
-## Testing the Model
+## **Testing the Model**
 
 ```bash
 python scripts/test_performance.py
 ```
 
-**Expected output:**
+Expected output:
+
 ```
-✅ Model loaded with 54,084 parameters
-🎉 SUCCESS! Model ready for Streamlit app
+Model loaded successfully
+Ready for Streamlit app
 ```
 
 ---
 
-## Playlist Classifier Performance
+## **Playlist Classifier Performance (Updated)**
 
-| Dimension | MAE | Accuracy (within 15%) | Letter Acc |
-|-----------|-----|----------------------|------------|
-| E | 33.3% | 34.4% | 72.7% |
-| N | 43.3% | 11.4% | 60.5% |
-| T | 33.7% | 32.8% | 73.9% |
-| J | 40.4% | 18.7% | 65.1% |
-| **OVERALL** | **37.7%** | **24.3%** | **68.1%** |
+| Dimension | MAE | Letter Accuracy |
+|-----------|-----|-----------------|
+| E | 33.3% | 72.7% |
+| N | 43.3% | 60.5% |
+| T | 33.7% | 73.9% |
+| J | 40.4% | 65.1% |
+| **OVERALL** | **37.7%** | **68.1%** |
 
 ---
 
-## Files for Deployment
+## **Files for Deployment**
 
 | File | Location | Size |
 |------|----------|------|
 | `playlist_classifier.pt` | `models/` | 223 KB |
-| `scaler_new.pkl` | `models/` | 1.5 KB |
-| `features.json` | `models/` | 0.8 KB |
+| `encoder_114k_weights.pth` | `models/` | 180 KB |
+| `pretrain_scaler.pkl` | `models/` | 1.5 KB |
+| `pretrain_features.json` | `models/` | 0.8 KB |
 
 ---
 
-## Environment Variables
+## **Environment Variables**
 
-Create a `.env` file for local testing:
+Create a `.env` file:
 
 ```env
 SPOTIFY_CLIENT_ID=your_client_id
 SPOTIFY_CLIENT_SECRET=your_client_secret
-GEMINI_API_KEY=your_gemini_key
+GOOGLE_API_KEY=your_gemini_key
 ```
+
+---

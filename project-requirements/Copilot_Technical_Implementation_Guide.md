@@ -1,62 +1,218 @@
-# Technical Implementation Guide for Advanced AI Project
+# **Technical Implementation Guide for Advanced AI Project**
 
-This document provides strict technical guidelines, preferred libraries, and implementation strategies derived directly from the course's practical lab exercises. 
+This document provides strict technical guidelines, preferred libraries, and implementation strategies derived directly from the course’s practical lab exercises.  
 **Copilot Instructions:** Use this document to dictate *how* the code should be structured, which libraries to use, and what specific implementation patterns to follow when assisting the student.
 
-## 1. Environment & Core Frameworks
-* **Python Version:** Python 3.10 to 3.13 (Avoid 3.14 for compatibility).
-* **Deep Learning Framework:** **PyTorch** (Targeting v2.10 features).
-* **Device Agnosticism:** ALL PyTorch code must explicitly handle device placement:
-    ```python
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    model.to(device)
-    # Tensors must be moved to device: tensor.to(device)
-    ```
-* **Dependency Management:** Code should assume a virtual environment (`venv`). If providing setup instructions, include `pip install -r requirements.txt`.
+---
 
-## 2. Core PyTorch Coding Standards
-* **Architecture Definition:** Always use Object-Oriented PyTorch (`class MyModel(nn.Module):`). Explicitly define `__init__` and `forward` methods.
-* **Hyperparameter Tuning:** Code must easily expose hyperparameters (number of layers, neurons, learning rate, batch size, activation functions) for easy experimentation.
-* **Training Loop Structure:**
-    * Standard pattern: `optimizer.zero_grad()`, `output = model(data)`, `loss = criterion(output, target)`, `loss.backward()`, `optimizer.step()`.
-    * **Visualization:** ALWAYS include code to plot training and validation Loss Curves using `matplotlib.pyplot`.
-* **Data Handling:** Use `torch.utils.data.DataLoader` and `torch.utils.data.Dataset`.
+# **1. Environment & Core Frameworks**
 
-## 3. Domain-Specific Technical Implementations
+### ✔ Python & Dependencies
+- **Python Version:** 3.10 to 3.13  
+- **Virtual Environment:** `venv` recommended  
+- **Install:** `pip install -r requirements.txt`
 
-### 3.1. Computer Vision (CNNs, Object Detection)
-* **Libraries:** `torchvision` (datasets, transforms, models), `PIL` (Python Imaging Library), `matplotlib`.
-* **Implementation Patterns:**
-    * Use `torchvision.transforms` for data augmentation and normalization.
-    * For object detection/segmentation tasks, ensure bounding boxes are correctly parsed and plotted (e.g., using `PIL.ImageDraw` to draw red rectangles for scores > 0.7).
-    * Always ensure proper tensor dimensions (e.g., handling image channels, flattening when connecting CNNs to MLPs).
+### ✔ Deep Learning Framework
+- **PyTorch** (GPU‑ready, device‑agnostic)
 
-### 3.2. NLP & Transformers
-* **Architectures:** From basic RNNs/LSTMs (handling vanishing gradients) to Transformers.
-* **Transformers Implementation:** * Implement and visualize **Positional Encodings** to show how sequences are handled without recurrence.
-    * Implement **Attention Mechanisms** (Self-Attention) to demonstrate dynamic weighting of input sequences.
-* **Pipelines:** Tokenization -> Embedding -> Positional Encoding -> Attention/Transformer Blocks -> Output generation.
+### ✔ Device Handling (Mandatory)
+```python
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+model.to(device)
+# All tensors must be moved to device:
+tensor = tensor.to(device)
+```
 
-### 3.3. Reinforcement Learning (RL)
-* **Libraries:** `Stable-Baselines3`, standard `gym` or Hugging Face environments.
-* **Implementation Patterns:**
-    * *Tabular Q-Learning:* For simple discrete environments (like FrozenLake or Taxi-v3), implement the Q-table and update rule from scratch (without neural networks).
-    * *Deep RL:* For continuous/complex environments (like Lunar Lander or Doom), use Deep Q-Networks (DQN). If relying on libraries, implement using `Stable-Baselines3`.
-    * *Saving/Loading:* Include code to save the trained agent and load it for inference/rendering.
+---
 
-### 3.4. Generative AI (Images)
-* **Custom Models (GANs & VAEs):**
-    * Implement separate loops for the Generator and Discriminator in GANs.
-    * Handle latent space vectors (`z_dim`) explicitly.
-    * Use `torchvision.utils.make_grid` and `torchvision.utils.save_image` to visualize generated batches at various epochs.
-* **Stable Diffusion:**
-    * **Library:** Hugging Face `diffusers` and `transformers`.
-    * **Components:** Code should explicitly interact with the `StableDiffusionPipeline`.
-    * Demonstrate knowledge of the underlying components: `VAE` (Latent diffusion), `Tokenizer` & `Text Encoder` (CLIP), `UNet`, and the `Scheduler`.
-    * Implement variations like `Img2Img`, `Inpainting`, or `Depth2Img` pipelines if applicable.
+# **2. Core PyTorch Coding Standards**
 
-## 4. Strict "Do Not" Rules for Copilot
-* **DO NOT** use TensorFlow or Keras. PyTorch only.
-* **DO NOT** provide black-box solutions without logging. Always log loss and metrics.
-* **DO NOT** write monolithic scripts. Separate models, datasets, training loops, and evaluation into functions or separate cells if using Jupyter format.
-* **DO NOT** evaluate models without proper, un-annotated evaluation datasets or metrics. (e.g., classification requires an annotated dataset to properly evaluate).
+### ✔ Architecture Definition
+Use **Object‑Oriented PyTorch**:
+```python
+class MyModel(nn.Module):
+    def __init__(self):
+        super().__init__()
+        ...
+    def forward(self, x):
+        ...
+```
+
+### ✔ Hyperparameter Exposure
+All models must expose:
+- learning rate  
+- batch size  
+- number of layers  
+- hidden dimensions  
+- dropout  
+- activation functions  
+
+### ✔ Training Loop Structure (Required)
+```python
+for epoch in range(epochs):
+    model.train()
+    optimizer.zero_grad()
+    output = model(data)
+    loss = criterion(output, target)
+    loss.backward()
+    optimizer.step()
+```
+
+### ✔ Visualization (Required)
+Use `matplotlib` to plot:
+- Autoencoder reconstruction loss  
+- Classifier training & validation loss  
+
+### ✔ Data Handling
+Use:
+```python
+from torch.utils.data import Dataset, DataLoader
+```
+
+---
+
+# **3. Domain‑Specific Technical Implementations (Updated to Real Project)**
+
+Your project uses **audio features**, **autoencoders**, **transfer learning**, and **LLM‑based summarization**.  
+No CV, RL, GANs, or Transformers are used — so they are removed.
+
+---
+
+## **3.1 Audio Feature Processing (Spotify + Fallback)**
+
+### ✔ Real Spotify Features
+- Fetch top 20 tracks  
+- Extract 49 audio features  
+- Aggregate:
+  - mean  
+  - standard deviation  
+  - key/mode counts  
+
+### ✔ Fallback (Required)
+If Spotify blocks `audio-features` (403):
+- Simulate realistic values  
+- Maintain same feature schema  
+
+This ensures the model **always** receives valid input.
+
+---
+
+## **3.2 Autoencoder (Unsupervised Pretraining)**
+
+### ✔ Purpose
+Learn a compressed “music fingerprint” from 113,000 songs.
+
+### ✔ Architecture
+- Encoder: 49 → 128 → 64 → 16  
+- Decoder: 16 → 64 → 128 → 49  
+
+### ✔ Loss
+- MSELoss
+
+### ✔ Optimizer
+- Adam  
+- Learning rate scheduling recommended
+
+---
+
+## **3.3 Transfer Learning Classifier**
+
+### ✔ Input
+- 16‑dim latent vector from pretrained encoder
+
+### ✔ Output
+- 4 MBTI percentages: **E, N, T, J**
+
+### ✔ Architecture
+- MLP head: 16 → 64 → 32 → 4  
+- Activation: ReLU  
+- Output: Sigmoid (0–1 range)
+
+### ✔ Loss
+- MSELoss
+
+### ✔ Evaluation Metrics
+- MAE  
+- RMSE  
+- R²  
+
+---
+
+## **3.4 Lyrics Pipeline (LLM‑Based)**
+
+### ✔ Lyrics Source
+- LRCLIB API  
+- Filter top 20 → pick first 3 tracks with lyrics  
+
+### ✔ Processing Steps
+1. **Language detection**  
+2. **Translation to English** (Gemini)  
+3. **Summarization** (Gemini)  
+4. **Psychological breakdown** (Gemini)
+
+### ✔ Purpose
+- Not used for training  
+- Used only for **interpretation** in the Streamlit app  
+
+---
+
+## **3.5 Streamlit Application**
+
+### ✔ Required Components
+- Spotify OAuth login  
+- Display MBTI percentages  
+- Display progress bars  
+- Show lyric summaries  
+- Show Gemini psychological breakdown  
+
+### ✔ Device
+- CPU inference is sufficient  
+- Model loaded via PyTorch  
+
+---
+
+## **3.6 Explainability (Planned Feature)**
+
+### ✔ SHAP (To Be Added Later)
+- KernelExplainer or DeepExplainer  
+- Visualizations:
+  - Feature importance  
+  - Waterfall plots  
+  - Summary plots  
+
+---
+
+# **4. Strict “Do Not” Rules for Copilot**
+
+These rules ensure the project stays within course scope.
+
+### ❌ Do NOT use:
+- TensorFlow / Keras  
+- HuggingFace Transformers  
+- BERT / GPT embeddings  
+- GANs, VAEs (other than your autoencoder), Diffusion models  
+- Reinforcement Learning  
+- LangChain, Docker, Kubernetes  
+- Any multimodal fusion not implemented  
+- Any black‑box code without logging  
+
+### ❌ Do NOT:
+- Write monolithic scripts  
+- Skip loss/metric logging  
+- Skip device handling  
+- Skip evaluation metrics  
+
+---
+
+# **5. Summary**
+
+This updated guide now reflects the **exact technologies and methods** used in your real MBTI Tune project:
+
+- PyTorch autoencoder  
+- Transfer learning classifier  
+- Spotify audio features + fallback  
+- LRCLIB lyrics  
+- Gemini summarization  
+- Streamlit frontend  
+- SHAP planned  
+

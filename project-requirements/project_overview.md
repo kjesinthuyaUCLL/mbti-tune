@@ -1,56 +1,127 @@
-# Comprehensive Project Overview & Rubric Alignment: MBTI Tune
+# **Comprehensive Project Overview & Rubric Alignment: MBTI Tune (Updated)**
 
-## 1. Course Project Requirements Overview
-* **Project Duration:** ~60 hours per student.
-* **Team Size:** Individual or Pair (Angela and Marwa)[cite: 2].
-* **Core Scope:** Be an AI-driven solution that applies advanced machine learning techniques beyond basic supervised learning.
-* **Technology Mandate:** Must use at least one advanced technology (e.g., LLMs, Computer Vision, Reinforcement Learning, Multimodal models, Image Generation) and a relevant, new-to-you technology (e.g., PyTorch, TensorFlow).
-* **Data:** Work with realistic data (curated dataset or real-world input).
-* **Deliverables:**
-  * **Code Repository (GitHub):** Well-structured with clear documentation and a README (setup instructions, project overview).
-  * **Technical Report (~2 pages):** Simple, straightforward overview including Introduction, Data, Model & Methods, Results & Evaluation, Contributions, and Challenges/Future Work. GenAI can be used for proofreading, but the core technical input must be original.
-
----
-
-## 2. Project Status Update: MBTI Tune[cite: 2]
-
-**Group Members:** Angela and Marwa[cite: 2]
-
-### General Idea & Scope[cite: 2]
-* The project is an advanced multimodal Al application predicting a person's Myers-Briggs Type Indicator (MBTI) based on Spotify listening habits[cite: 2].
-* It uses a Multi-modal Deep Neural Network that simultaneously processes numerical audio features and NLP embeddings from song lyrics, replacing traditional basic classifiers[cite: 2].
-
-### Investigated Technologies & Al Architecture[cite: 2]
-* **Deep Learning Framework:** Custom Neural Network built in PyTorch (or TensorFlow/Keras)[cite: 2].
-* **Dual-Branch Input System:**[cite: 2]
-  * **Branch 1 (Numerical):** A Dense Neural Network (DNN) processing standardized Spotify audio features (danceability, energy, valence, etc.) from the user's top 20 tracks[cite: 2].
-  * **Branch 2 (NLP/Textual):** Uses the Genius API to fetch lyrics and a pre-trained Transformer model (e.g., BERT via Hugging Face) to extract semantic text embeddings[cite: 2].
-* **Fusion and Classification:** Outputs from both branches are concatenated and passed through fully connected layers to predict the 16 MBTI classes[cite: 2].
-* **Generative LLM Integration:** Uses Google Gemini API (or OpenAI API) to generate a personalized psychological breakdown explaining the connection between music taste and cognitive functions, based on predicted MBTI, top genres, and lyrics sentiment[cite: 2].
-
-### Data Collection & Prototyping[cite: 2]
-* **Foundational Dataset:** 4,816 playlists with 49 columns of average audio features labeled by MBTI type[cite: 2].
-* **Live Data Pipeline:** Uses Python scripts and the Spotipy library to authenticate users via Spotify API and fetch top tracks, ensuring live data matches the training format[cite: 2].
-
-### Challenges & Advanced Solutions[cite: 2]
-* **Data Augmentation:** Fetching lyrics via Genius API to train the NLP branch; alternative includes extracting feature vectors from track titles/artist metadata using pre-trained LLMs if API rate limits are an issue[cite: 2].
-* **Class Imbalance:** Addressing the overrepresentation of certain MBTI types (e.g., INFPs over ESTJs) using SMOTE or custom class weights in the PyTorch loss function[cite: 2].
-* **Explainability:** Implementing confusion matrices and Explainable AI (SHAP values) to interpret Neural Network decisions based on specific audio features or lyric sentiments[cite: 2].
-
-### Deployment[cite: 2]
-* **Frontend:** Streamlit for Spotify OAuth login and interactive results display[cite: 2].
-* **Hosting:** Final PyTorch model and app deployed on Hugging Face Spaces for a complete MLOps pipeline[cite: 2].
+## **1. Course Project Requirements Overview**
+* **Project Duration:** ~60 hours per student.  
+* **Team Size:** Individual or Pair (Angela and Marwa).  
+* **Core Scope:** Build an AI‑driven solution using advanced machine learning techniques beyond basic supervised learning.  
+* **Technology Mandate:** Must use at least one advanced technology (e.g., LLMs, Computer Vision, Reinforcement Learning, Multimodal models, Image Generation) and a new‑to‑you technology (e.g., PyTorch).  
+* **Data:** Must use realistic, real‑world data.  
+* **Deliverables:**  
+  * **GitHub Repository** with clean code and documentation  
+  * **Technical Report (~2 pages)**  
+  * **15‑minute Oral Defense**  
 
 ---
 
-## 3. Rubric Alignment Strategy
+## **2. Project Status Update: MBTI Tune (Updated to Real Implementation)**
 
-To achieve the highest grades, the MBTI Tune project targets the "Excellent" criteria across all grading categories[cite: 3].
+**Group Members:** Angela and Marwa
 
-| Rubric Criteria[cite: 3] | Target Score[cite: 3] | How MBTI Tune Achieves This |
-| :--- | :--- | :--- |
-| **Technical Depth**[cite: 3] | 2 / 2 points[cite: 3] | Integrates advanced AI techniques (Multi-modal Deep Neural Networks, BERT text embeddings, and Generative LLMs)[cite: 2], going well beyond basic machine learning models[cite: 3]. |
-| **Implementation**[cite: 3] | 3 / 3 points[cite: 3] | Will deliver clean, efficient, and well-documented code[cite: 3] structured into an end-to-end MLOps pipeline featuring Spotipy, PyTorch, and Streamlit on Hugging Face Spaces[cite: 2]. |
-| **Analysis and Evaluation**[cite: 3] | 2 / 2 points[cite: 3] | Goes beyond numerical evaluation by providing meaningful assessment and interpretation[cite: 3] through confusion matrices and Explainable AI (SHAP values) to map features to predictions[cite: 2]. |
-| **Innovation and Creativity**[cite: 3] | 2 / 2 points[cite: 3] | Presents a novel and original idea[cite: 3] by fusing Spotify audio metrics with semantic lyric embeddings into a dual-branch neural network to predict psychological types[cite: 2]. |
-| **Defense**[cite: 3] | 3 / 3 points[cite: 3] | Will provide a clear, well-organized, and complete presentation with excellent answers to technical questions during the final defense[cite: 3]. |
+### **General Idea & Scope**
+MBTI Tune is an AI application that predicts a user’s Myers‑Briggs personality dimensions (E, N, T, J) based on their Spotify listening habits.  
+The system combines:
+
+- **Numerical audio features** from Spotify  
+- **Unsupervised representation learning** via a PyTorch autoencoder  
+- **Transfer learning** for MBTI prediction  
+- **LLM‑based lyric summarization** for interpretability  
+
+This replaces traditional shallow classifiers with a modern deep learning pipeline.
+
+---
+
+## **Investigated Technologies & AI Architecture (Updated)**
+
+### **Deep Learning Framework**
+- Fully implemented in **PyTorch**  
+- GPU‑ready training loops  
+- Modular architecture (autoencoder + classifier)
+
+### **Model Architecture (Real Implementation)**
+
+#### **1. Autoencoder (Unsupervised Pretraining)**
+- Trained on **113,000 songs**  
+- Learns a compressed **16‑dimensional “music fingerprint”**  
+- Architecture:  
+  - Encoder: 49 → 128 → 64 → 16  
+  - Decoder: 16 → 64 → 128 → 49  
+
+#### **2. Transfer Learning Classifier**
+- Input: 16‑dim latent vector  
+- Output: 4 MBTI percentages (E, N, T, J)  
+- Architecture: 16 → 64 → 32 → 4  
+- Loss: MSE  
+- Optimizer: Adam  
+
+#### **3. Lyrics Interpretation (LLM‑Based)**
+- Lyrics fetched via **LRCLIB**  
+- Gemini used for:  
+  - Language detection  
+  - Translation  
+  - Summarization  
+  - Psychological breakdown  
+
+> Lyrics are **not** used for training — only for interpretability.
+
+#### **4. Live Data Pipeline**
+- Spotify OAuth  
+- Fetch top 20 tracks  
+- Extract audio features  
+- **Fallback simulation** when Spotify blocks audio‑features API  
+- Aggregate → Encoder → Classifier  
+
+---
+
+## **Data Collection & Prototyping (Updated)**
+
+### **Foundational Dataset**
+- **113,000 songs** with 49 audio features  
+- Used for autoencoder pretraining  
+
+### **MBTI Dataset**
+- **4,816 playlists** labeled with MBTI types  
+- Used for supervised fine‑tuning  
+
+### **Live User Data**
+- Spotify top tracks fetched in real time  
+- Ensures predictions reflect actual listening habits  
+
+---
+
+## **Challenges & Advanced Solutions (Updated)**
+
+### **1. Spotify API Limitations**
+- Spotify often blocks `audio-features` → implemented **robust fallback simulation**  
+- Ensures consistent model input  
+
+### **2. Missing Lyrics**
+- LRCLIB used instead of Genius  
+- Filter top 20 → pick first 3 tracks with lyrics  
+
+### **3. Multilingual Lyrics**
+- Gemini translation ensures consistent English summaries  
+
+### **4. Overfitting**
+- Dropout + transfer learning  
+- Latent bottleneck reduces noise  
+
+### **5. Explainability**
+- SHAP explainability **planned**  
+- Will show which audio features influence each MBTI dimension  
+
+---
+
+## **3. Rubric Alignment Strategy (Updated)**
+
+To achieve the highest grades, MBTI Tune targets the “Excellent” criteria across all categories.
+
+| **Rubric Criteria** | **Target Score** | **How MBTI Tune Achieves This (Updated)** |
+|---------------------|------------------|-------------------------------------------|
+| **Technical Depth** | 2 / 2 | Uses advanced AI techniques: autoencoder pretraining, transfer learning, multi‑output regression, and LLM‑based summarization. |
+| **Implementation** | 3 / 3 | Clean PyTorch code, modular architecture, Streamlit UI, Spotify OAuth, fallback logic, and Gemini integration. |
+| **Analysis & Evaluation** | 2 / 2 | Regression metrics (MAE, RMSE, R²), loss curves, and planned SHAP explainability. |
+| **Innovation & Creativity** | 2 / 2 | Novel idea: predicting personality from music using compressed audio representations + LLM‑based lyric interpretation. |
+| **Defense** | 3 / 3 | Clear architecture, strong justification for design choices, and interpretable outputs via Gemini summaries. |
+
+---
+
