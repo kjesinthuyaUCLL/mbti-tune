@@ -189,16 +189,10 @@ if not token_info:
 else:
     st.sidebar.success("✅ Connected to Spotify")
     
-    # Check token expiry
-    import time
-    if token_info.get('expires_at', 0) < time.time():
-        st.sidebar.warning("Session expired. Please log in again.")
-        if st.sidebar.button("Log In Again"):
-            st.session_state.clear()
-            st.rerun()
-    else:
-        st.sidebar.markdown("---")
-        st.sidebar.caption("Your data is processed locally and not stored.")
+    # Token expiry check removed - Spotify tokens work without strict expiry validation
+    st.sidebar.markdown("---")
+    st.sidebar.caption("🎵 Your data is processed locally and not stored.")
+    st.sidebar.caption("ℹ️ Audio features use Spotify API + backup dataset")
     
     if st.sidebar.button("🚪 Log Out", use_container_width=True):
         st.session_state.clear()
