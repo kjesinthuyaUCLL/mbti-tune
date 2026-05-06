@@ -49,17 +49,19 @@ Lyrics:
         return None
 
 
-def build_lyrics_context(tracks, limit=20):
+def build_lyrics_context(tracks, limit=20, needed=3):
     """
-    NEW BEHAVIOR:
-    - Check songs in order (latest first)
-    - Return ONLY the first song that has lyrics
-    - Provide both summary + mood interpretation
+    Returns:
+    - summaries: list of up to 3 song summaries
     """
+
+    summaries = []
 
     for name, artist in tracks[:limit]:
-        lyrics = get_lyrics_lrclib(name, artist)
+        if len(summaries) >= needed:
+            break
 
+        lyrics = get_lyrics_lrclib(name, artist)
         if not lyrics:
             continue
 
@@ -69,26 +71,12 @@ def build_lyrics_context(tracks, limit=20):
             lang = "unknown"
 
         summary = translate_and_summarize(lyrics)
-
         if not summary:
             continue
 
-        personality_context = f"{name} - {artist} ({lang})\n{summary}\n"
+        summaries.append(f"{name} - {artist} ({lang})\n{summary}")
 
-        mood_prompt = f"""
-Based on the emotional themes in this song summary, describe the listener's
-probable current mood in 3–5 sentences. Avoid generic statements.
+    if not summaries:
+        return ["No lyrics found."]
 
-Song Summary:
-{summary}
-"""
-
-        try:
-            mood_resp = MODEL.generate_content(mood_prompt)
-            mood_context = mood_resp.text.strip()
-        except:
-            mood_context = "Mood analysis unavailable."
-
-        return personality_context, mood_context
-
-    return "No lyrics found.", "Mood unavailable."
+    return summaries

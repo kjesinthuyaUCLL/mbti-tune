@@ -73,8 +73,16 @@ st.markdown("""
 st.markdown('<div class="title-gradient">MBTI Tune</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Discover your psychological type through your Spotify listening habits.</div>', unsafe_allow_html=True)
 
-# Load model, scaler, device, and EXACT feature_cols
+# Load model, scaler, device, and feature_cols
 model, scaler, device, feature_cols = load_model_and_scaler()
+
+# MBTI index mapping
+idx_to_type = {
+    0: "ENFJ", 1: "ENFP", 2: "ENTJ", 3: "ENTP",
+    4: "ESFJ", 5: "ESFP", 6: "ESTJ", 7: "ESTP",
+    8: "INFJ", 9: "INFP", 10: "INTJ", 11: "INTP",
+    12: "ISFJ", 13: "ISFP", 14: "ISTJ", 15: "ISTP"
+}
 
 # Spotify OAuth Setup
 oauth = get_spotify_oauth()
@@ -111,47 +119,69 @@ else:
             st.error("Not enough Spotify data found or audio features unavailable. Try again later.")
         else:
 
-            # ---------------- TOP 5 SONGS ----------------
-            st.markdown('<div class="glass-card">', unsafe_allow_html=True)
-            st.subheader("🎧 Your Top 5 Most-Listened Songs")
+            # ---------------- TOP 5 SONGS (SMALLER + ABOVE BOTH COLUMNS) ----------------
+            st.markdown('<div class="glass-card" style="height: 260px; overflow-y: auto;">', unsafe_allow_html=True)
+            st.subheader("🎧 Your Top 5 Songs")
 
             for i, ((name, artist), g) in enumerate(zip(tracks[:5], genres[:5]), start=1):
                 genre_text = ", ".join(g) if g else "Unknown genre"
                 st.markdown(f"""
                     **{i}. {name}**  
-                    Artist: *{artist}*  
-                    Genres: *{genre_text}*
-                    ---
-                """)
+                    *{artist}*  
+                    _{genre_text}_
+                    <hr style="opacity:0.1;">
+                """, unsafe_allow_html=True)
 
             st.markdown('</div>', unsafe_allow_html=True)
 
-            # ---------------- LYRICS + MOOD ----------------
-            col_res, col_lyrics = st.columns([1, 1])
+            # ---------------- TWO SIDE-BY-SIDE COLUMNS ----------------
+            col_lyrics, col_res = st.columns([1, 1])
 
+            # ---------------- LYRICS + MOOD ----------------
             with col_lyrics:
-                st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                st.markdown('<div class="glass-card" style="height: 500px; overflow-y: auto;">', unsafe_allow_html=True)
                 st.subheader("🎵 Lyrics Meaning Analysis")
-                with st.spinner("Analyzing your latest meaningful song..."):
-                    lyrics_context, mood_context = build_lyrics_context(tracks)
-                    st.text_area("Song Summary", lyrics_context, height=250, disabled=True)
-                    st.text_area("Current Mood Interpretation", mood_context, height=200, disabled=True)
+
+                with st.spinner("Analyzing your top songs..."):
+                    summaries = build_lyrics_context(tracks)
+
+                    for i, summary in enumerate(summaries, start=1):
+                        st.markdown(f"### Song {i}")
+                        st.text_area("Summary", summary, height=150, disabled=True)
+                        st.write("---")
+
                 st.markdown('</div>', unsafe_allow_html=True)
+
 
             # ---------------- MBTI PREDICTION ----------------
             with col_res:
-                st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                st.markdown('<div class="glass-card" style="height: 500px; overflow-y: auto;">', unsafe_allow_html=True)
                 st.subheader("🧠 PyTorch Prediction")
+
                 with st.spinner("Running Deep Neural Network..."):
-                    percentages = predict_mbti(features_vector, model, scaler, device)
-                    mbti_type = get_mbti_type(percentages)
+                    result = predict_mbti_v3(features_vector, model, scaler, device, feature_cols, idx_to_type)
+                    mbti_type = result["mbti"]
 
                     st.markdown(f'<div class="mbti-highlight">{mbti_type}</div>', unsafe_allow_html=True)
-
                     st.write("---")
-                    for dim in ["E", "N", "T", "J"]:
-                        st.write(f"**{dim}**: {percentages[dim]*100:.1f}%")
-                        st.progress(percentages[dim])
+
+                    # Gradient bars
+                    gradient_css = """
+                    <style>
+                    .gradient-bar {{
+                        height: 20px;
+                        width: 100%;
+                        border-radius: 10px;
+                        background: linear-gradient(90deg, #1DB954 {pct}%, #8A2BE2 {pct}%);
+                    }}
+                    </style>
+                    """
+
+                    for label in ["E/I", "S/N", "T/F", "J/P"]:
+                        pct = result[label]
+                        st.write(f"**{label}**: {pct:.1f}%")
+                        st.markdown(gradient_css.format(pct=pct), unsafe_allow_html=True)
+
                 st.markdown('</div>', unsafe_allow_html=True)
 
             # ---------------- GEMINI BREAKDOWN ----------------
@@ -159,7 +189,7 @@ else:
             st.subheader("✨ Gemini Psychological Breakdown")
             with st.spinner("Generating personalized insights..."):
                 breakdown = generate_personality_breakdown(
-                    mbti_type, percentages, top_artists, lyrics_context
+                    mbti_type, result, top_artists, summaries
                 )
                 st.write(breakdown)
             st.markdown('</div>', unsafe_allow_html=True)
