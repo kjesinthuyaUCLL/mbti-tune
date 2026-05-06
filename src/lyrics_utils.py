@@ -1,82 +1,63 @@
 import requests
-from langdetect import detect
+import time
+import urllib.parse
 import google.generativeai as genai
-from dotenv import load_dotenv
-import os
-
-load_dotenv()
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-
-MODEL = genai.GenerativeModel("gemini-2.5-flash")
 
 
-def get_lyrics_lrclib(track_name, artist_name, retries=3, timeout=15):
-    url = "https://lrclib.net/api/search"
-    params = {"track_name": track_name, "artist_name": artist_name}
-
-    for attempt in range(1, retries + 1):
-        try:
-            r = requests.get(url, params=params, timeout=timeout)
-            r.raise_for_status()
-            data = r.json()
-
-            for track in data:
-                if track.get("plainLyrics"):
-                    return track["plainLyrics"]
-
-            return None
-
-        except Exception as e:
-            print(f"Lyrics API error (attempt {attempt}/{retries}):", e)
-            if attempt == retries:
-                return None
-
-
-def translate_and_summarize(text):
-    prompt = f"""
-Translate the following lyrics to English (if needed), then summarize the meaning
-and emotional themes in 3–4 sentences. Do NOT quote the lyrics.
-
-Lyrics:
-{text}
-"""
-
-    try:
-        resp = MODEL.generate_content(prompt)
-        return resp.text.strip()
-    except Exception as e:
-        print("Gemini translation/summarization error:", e)
-        return None
-
-
-def build_lyrics_context(tracks, limit=20, needed=3):
+def build_lyrics_context(tracks, needed=3):
     """
+    Fetch lyrics from LRCLIB API and summarize with Gemini.
+    
+    Args:
+        tracks: List of (track_name, artist_name) tuples
+        needed: Number of tracks to process
+    
     Returns:
-    - summaries: list of up to 3 song summaries
+        List of summary strings
     """
-
+    model = genai.GenerativeModel("gemini-1.5-flash")
     summaries = []
-
-    for name, artist in tracks[:limit]:
+    
+    for name, artist in tracks[:needed]:  # Only process up to needed
         if len(summaries) >= needed:
             break
-
-        lyrics = get_lyrics_lrclib(name, artist)
-        if not lyrics:
-            continue
-
+            
         try:
-            lang = detect(lyrics)
-        except:
-            lang = "unknown"
+            # URL encode parameters
+            encoded_name = urllib.parse.quote(name)
+            encoded_artist = urllib.parse.quote(artist)
+            
+            url = f"https://lrclib.net/api/search?track_name={encoded_name}&artist_name={encoded_artist}"
+            response = requests.get(url, timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                if data and len(data) > 0 and "plainLyrics" in data[0]:
+                    lyrics = data[0]['plainLyrics']
+                    # Truncate extremely long lyrics (Gemini has context limits)
+                    if len(lyrics) > 3000:
+                        lyrics = lyrics[:3000]
+                    
+                    prompt = f"""You are a music psychologist. Analyze these lyrics and provide ONLY a 2-sentence summary of the main themes and emotional tone.
 
-        summary = translate_and_summarize(lyrics)
-        if not summary:
-            continue
+Song: {name} by {artist}
+Lyrics: {lyrics}
 
-        summaries.append(f"{name} - {artist} ({lang})\n{summary}")
-
-    if not summaries:
-        return ["No lyrics found."]
-
+Summary:"""
+                    
+                    summary = model.generate_content(prompt).text
+                    summaries.append(f"{name}: {summary}")
+                else:
+                    summaries.append(f"{name}: Lyrics not found in database")
+            else:
+                summaries.append(f"{name}: Could not fetch lyrics (HTTP {response.status_code})")
+                
+        except requests.exceptions.Timeout:
+            summaries.append(f"{name}: Request timeout")
+        except Exception as e:
+            summaries.append(f"{name}: Error - {str(e)}")
+        
+        # Small delay to avoid rate limiting
+        time.sleep(0.5)
+    
     return summaries

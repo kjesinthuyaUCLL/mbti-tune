@@ -1,60 +1,57 @@
-import os
-from dotenv import load_dotenv
 import google.generativeai as genai
-
-load_dotenv()
-
-API_KEY = os.getenv("GOOGLE_API_KEY")
-if not API_KEY:
-    print("⚠️ GOOGLE_API_KEY is not set in .env – Gemini features will fail.")
-else:
-    genai.configure(api_key=API_KEY)
-
-GEMINI_MODEL_NAME = "gemini-2.5-flash"
-
-
-def _get_model():
-    try:
-        return genai.GenerativeModel(GEMINI_MODEL_NAME)
-    except Exception as e:
-        print("Gemini model init error:", e)
-        return None
 
 
 def generate_personality_breakdown(mbti_type, result, top_artists, summaries):
     """
-    summaries = list of 1–3 song summaries
+    Generate a fun, engaging personality analysis using Gemini.
+    
+    Args:
+        mbti_type: The predicted MBTI type (e.g., "INTJ")
+        result: The prediction result dict from predict_mbti()
+        top_artists: List of top artists
+        summaries: List of lyrics summaries
+    
+    Returns:
+        str: Gemini-generated analysis
     """
+    model = genai.GenerativeModel("gemini-1.5-flash")
+    
+    # Extract axis preferences safely
+    axis_stats = []
+    for axis in ["E/I", "S/N", "T/F", "J/P"]:
+        if axis in result:
+            letter, prob = result[axis]
+            axis_stats.append(f"{axis}: {letter} ({prob*100:.1f}%)")
+    
+    stats_text = "\n".join(axis_stats) if axis_stats else "No axis data available"
+    
+    # Handle empty artists list
+    artists_text = ", ".join(top_artists[:5]) if top_artists else "various artists"
+    
+    # Handle empty summaries
+    summaries_text = "\n".join(summaries) if summaries else "No lyrics data available"
+    
+    prompt = f"""You are "MBTI Tune", an AI music psychologist. Analyze this user's personality based on their Spotify listening habits.
 
-    model = _get_model()
-    if model is None:
-        return "⚠️ Gemini model could not be initialized."
+MBTI Type: {mbti_type}
+Axis Preferences:
+{stats_text}
 
-    combined_summaries = "\n\n---\n\n".join(summaries)
+Top Artists: {artists_text}
 
-    prompt = f"""
-You are an AI psychologist analyzing personality from music.
+Lyrics Themes:
+{summaries_text}
 
-MBTI Prediction:
-- Type: {mbti_type}
-- E/I: {result['E/I']:.1f}%
-- S/N: {result['S/N']:.1f}%
-- T/F: {result['T/F']:.1f}%
-- J/P: {result['J/P']:.1f}%
+Write a 3-paragraph analysis with this structure:
+1. **Musical Fingerprint** (2 sentences): What their artist choices reveal about their personality
+2. **The Roast** (2 sentences): Playfully call out their listening patterns with humor
+3. **The Insight** (2 sentences): One actionable observation about how their music taste reflects their MBTI type
 
-Top Artists: {', '.join(top_artists) if top_artists else 'Unknown'}
-
-Song Summaries (3 songs max):
-{combined_summaries}
-
-Write a fun, insightful, slightly roasted psychological breakdown (3–4 paragraphs).
-Reference their artists and the themes in these summaries.
-Avoid generic MBTI boilerplate; tie your reasoning to the music.
+Keep the tone fun, engaging, and slightly witty. Use emojis sparingly (max 3 total). Do not use markdown headers - just write paragraphs.
 """
-
+    
     try:
-        resp = model.generate_content(prompt)
-        return resp.text or "⚠️ Gemini returned an empty response."
+        response = model.generate_content(prompt)
+        return response.text
     except Exception as e:
-        print("Gemini error:", e)
-        return "⚠️ Gemini API error while generating the breakdown."
+        return f"🎵 *Analysis temporarily unavailable.* Based on your music, you appear to be an {mbti_type} type. Your listening preferences show a preference for {stats_text}. Try again later for a full analysis!"
