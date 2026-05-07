@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 
+
 class SongAutoencoder(nn.Module):
     """Matches Architecture from Notebook 1"""
     def __init__(self, input_dim: int = 9, latent_dim: int = 32):
@@ -41,25 +42,34 @@ class PlaylistLSTMEncoder(nn.Module):
     def forward(self, x, mask=None):
         if mask is not None:
             lengths = mask.sum(dim=1).long().cpu()
-            x = nn.utils.rnn.pack_padded_sequence(x, lengths, batch_first=True, enforce_sorted=False)
-            _, (h_n, _) = self.lstm(x)
+            packed = nn.utils.rnn.pack_padded_sequence(x, lengths, batch_first=True, enforce_sorted=False)
+            _, (h_n, _) = self.lstm(packed)
         else:
             _, (h_n, _) = self.lstm(x)
         return self.fc(h_n[-1])
 
 
 class MBTIClassifier(nn.Module):
-    """Matches Architecture from Notebook 3"""
-    def __init__(self, input_dim: int = 45, hidden_dim: int = 128, num_classes: int = 16):
+    """
+    MBTI Classifier - Matches the trained model from Notebook 3
+    Architecture: input_dim → 64 → 32 → 16 → 16
+    """
+    def __init__(self, input_dim: int, num_classes: int = 16):
         super().__init__()
         self.net = nn.Sequential(
-            nn.Linear(input_dim, hidden_dim),
+            nn.Linear(input_dim, 64),
+            nn.BatchNorm1d(64),
             nn.ReLU(),
-            nn.Dropout(0.2),
-            nn.Linear(hidden_dim, hidden_dim),
+            nn.Dropout(0.3),
+            nn.Linear(64, 32),
+            nn.BatchNorm1d(32),
             nn.ReLU(),
-            nn.Dropout(0.2),
-            nn.Linear(hidden_dim, num_classes)
+            nn.Dropout(0.3),
+            nn.Linear(32, 16),
+            nn.BatchNorm1d(16),
+            nn.ReLU(),
+            nn.Dropout(0.15),
+            nn.Linear(16, num_classes)
         )
 
     def forward(self, x):
