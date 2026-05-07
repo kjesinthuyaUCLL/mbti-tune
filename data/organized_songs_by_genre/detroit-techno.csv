@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Omar S,Messier Sixty Eight,2ChJB7au0ZWAAG470dsFjf,11,2017,detroit-techno,0.832,0.806,6,-9.652,0,0.138,0.0336,0.57,0.315,0.612,120.022,209879,4
+Moodymann,Pitch Black City Reunion,5ME2hsWdQihJ9NwBEbDVho,24,2018,detroit-techno,0.54,0.56,8,-12.758,1,0.0423,0.466,0.785,0.106,0.313,115.955,521745,4
+Orlando Voorn,Deep City,0HX3pldVAnjqy8gBBLCpo0,5,2008,detroit-techno,0.62,0.841,3,-10.203,0,0.0424,0.157,0.358,0.126,0.356,139.651,409467,4
+DJ 3000,Penny for your Thoughts,1jVL5yJVneL2RfDCBSAeRp,0,2009,detroit-techno,0.836,0.56,2,-12.234,1,0.0719,0.0207,0.718,0.359,0.901,114.993,251920,4
+Ryan Elliott,The Introduction,0SiUjUQzkapWwjCVRIlMBX,1,2019,detroit-techno,0.747,0.53,7,-14.713,1,0.0948,0.649,0.88,0.107,0.32,133.008,341484,4
+Orlando Voorn,I Love You,04RzflKW3OUF52hcBGRsJR,0,2021,detroit-techno,0.792,0.482,1,-8.707,1,0.046,0.292,0.403,0.0845,0.692,99.498,232225,4
+Robert Hood,Minimal Minded,6gVWSIyTy4EUdYpCp8UOOS,1,2014,detroit-techno,0.807,0.731,0,-11.58,0,0.0905,0.00307,0.805,0.0889,0.0383,129.06,467453,4
+Ataxia,Island Earth,2S5oHajpPOvTE6T1cTy6VX,0,2019,detroit-techno,0.79,0.77,8,-8.793,0,0.0417,0.000203,0.913,0.0941,0.231,126.001,403000,4
+DJ 3000,Coat of Arms - Orlando Voorn Remix,07ySO0lfPnkJ6Sl0PL72FL,0,2010,detroit-techno,0.706,0.927,7,-11.072,1,0.0627,0.00405,0.752,0.197,0.714,126.024,397240,3
+Inner City,Big Fun - Original 12'' Mix,75reTe08CZWoH2xvo4nAUS,3,2022,detroit-techno,0.738,0.808,10,-9.772,0,0.0522,0.0493,0.741,0.036,0.832,120.248,461560,4
+DJ 3000,Bounce,70hZkckYUvSY7jWXPVAjvq,0,2013,detroit-techno,0.738,0.932,7,-7.421,1,0.0464,0.000373,0.891,0.164,0.737,123.995,381067,4
+Eric Cloutier,Heuristic,3CYPs6dtNVeSaTKSTYvL1d,7,2018,detroit-techno,0.711,0.703,4,-14.913,1,0.0488,0.00921,0.882,0.0973,0.148,129.011,360501,4
+Drexciya,Soul of the Sea,1FjRFW06sFavpmXi7nQI5n,11,2002,detroit-techno,0.724,0.575,7,-14.686,1,0.0508,0.0935,0.851,0.42,0.192,129.175,271747,4
+Dantiez,Let Me Breathe,1jVTVpUiZa6BImFKMWjjVD,0,2021,detroit-techno,0.826,0.834,1,-9.806,1,0.125,0.000872,0.866,0.0897,0.379,128.03,334285,4
+Orlando Voorn,Esaps X,0Z2b5Hjdvo7GJYyVQlHgF4,0,2021,detroit-techno,0.589,0.641,1,-12.115,1,0.0321,0.0368,0.736,0.107,0.526,137.012,346000,5
+Jay Denham,Jack Lite,4HwRTbjqXcrBqC0hFQFUbs,0,2020,detroit-techno,0.532,0.9,9,-7.969,1,0.042,0.000215,0.672,0.174,0.174,131.964,415912,4
+Inner City,Believe - Kevin & Dantiez RAW Club Mix,2hHIr8TUWvRimWjwx3Cv9R,0,2019,detroit-techno,0.729,0.932,0,-7.137,1,0.0516,0.000674,0.0789,0.0667,0.537,125.002,323948,4
+Robert Hood,Protein Valve 1 - Re-Plant,6Ssl7duUCxBjuDTtxY2wR2,0,2014,detroit-techno,0.79,0.823,7,-10.675,1,0.0891,0.178,0.797,0.0717,0.0397,131.076,351726,4
+Robert Hood,Drive (The Age Of Automation),7a3QDVbXBM8zKgP0LvgGc9,11,2012,detroit-techno,0.801,0.726,11,-10.827,0,0.0596,0.000195,0.933,0.105,0.248,128.004,354993,4
+FIT Siegel,Cycle Blue,5vGbOzl2zhFCH09f77xBAC,5,2019,detroit-techno,0.744,0.744,1,-10.566,1,0.0466,0.000639,0.88,0.0841,0.236,120.008,454280,4
+Orlando Voorn,Secret Sociey - Steve Lorenz Remix,63SXOuvNmQMu1dfRn1nyyl,0,2018,detroit-techno,0.888,0.412,8,-20.568,1,0.189,0.41,0.9,0.118,0.482,127.913,455925,4
+Orlando Voorn,Positive Vibes,58Y169ghQ6IpubqS1SMSP7,3,2019,detroit-techno,0.71,0.878,6,-6.608,0,0.039,0.00012,0.866,0.0549,0.809,131.014,426870,4
+Orlando Voorn,Ruggedness,3Pl9iigLWRXXNbbSZx2Jao,0,2019,detroit-techno,0.605,0.975,8,-3.854,1,0.11,0.023,0.658,0.172,0.479,93.508,360351,4
+D'Marc Cantu,Mozaic,7EEu3VzinCMidco8SmrB25,0,2017,detroit-techno,0.666,0.765,11,-12.036,0,0.0382,0.00204,0.845,0.126,0.209,112.984,373805,4
+Omar S,Bread Over Bed,1oQ3ZeVziQn3302diECtk4,8,2020,detroit-techno,0.811,0.899,7,-8.484,0,0.0662,0.00328,0.914,0.0975,0.491,122.961,361492,4
+DJ 3000,Indigo,3MKOjykXJ2ARNMqDVU4ZLE,0,2013,detroit-techno,0.681,0.871,5,-7.414,0,0.0392,0.101,0.867,0.324,0.421,123.994,483639,4
+Terrence Parker,Nothing Can Separate Me from the Love of God,6M6ipBqpNE8EERzCYOrWBp,1,2017,detroit-techno,0.849,0.766,7,-5.96,1,0.132,0.0334,0.0114,0.0613,0.898,120.028,540000,4
+Eddie Fowlkes,Blow,6aTC6pKPQBNCu1A1YyqYjA,5,2023,detroit-techno,0.788,0.988,1,-4.645,1,0.0374,2.93e-06,0.846,0.0997,0.435,130.021,216020,4
+Robert Hood,In Basements - Original Mix,2t6IVJMkgzAh81r5Bgbgd5,0,2009,detroit-techno,0.669,0.809,8,-10.861,1,0.0839,0.000185,0.867,0.0656,0.184,135.376,440455,4
+DJ 3000,Tolerance Is Freedom,6CzE7Dgm2yPtpYq4u3UhO1,0,2007,detroit-techno,0.802,0.42,7,-14.41,1,0.0493,0.509,0.106,0.0943,0.685,102.018,166480,4
+Robert Hood,Resurrection,6i6sFpnV2bCRfWmRy1qlV7,1,2009,detroit-techno,0.787,0.961,7,-9.582,1,0.044,0.492,0.958,0.0963,0.3,135.874,424770,4
+Fabrice Lig,Another Trip,66RQjnmAEl0AwqHnSGW26L,0,2021,detroit-techno,0.681,0.967,6,-7.613,0,0.135,4.85e-06,0.926,0.0693,0.475,139.844,332903,4
+Seth Troxler,Satisfy,5r59TWGNIi9nMnu2p9VYJB,2,2005,detroit-techno,0.787,0.561,11,-12.921,1,0.0759,0.000345,0.895,0.0984,0.415,126.009,322023,4
+Derrick May,Another Kaos Beyond Kaos,3frnCVXTeupKdUUJtniIzt,9,2013,detroit-techno,0.796,0.526,1,-13.176,1,0.0857,0.0182,0.687,0.0974,0.473,130.159,49947,4
+Orlando Voorn,Hiding In The Deep - Paul Donton Deeper Mix,15yVBPLbROQRPVzDCG7GPw,0,2020,detroit-techno,0.81,0.438,11,-13.156,0,0.054,0.00158,0.929,0.101,0.199,122.0,412500,4
+Robert Hood,Nothing Stops Detroit,5nNJEUFkgZB0olDGybR59S,32,2020,detroit-techno,0.702,0.867,10,-8.143,0,0.0568,4.7e-05,0.925,0.179,0.262,129.94,393439,4
+Robert Hood,The Core,3aUkuFy16mw0icxn8AD2fa,0,2011,detroit-techno,0.753,0.66,5,-18.083,0,0.11,0.187,0.951,0.0983,0.349,147.898,234160,4
+Kevin Saunderson,Behold - Extended Mix,58cPeXW3sPyYrGQBPOPjHH,0,2017,detroit-techno,0.696,0.96,10,-7.413,0,0.0388,0.000674,0.908,0.0687,0.121,123.997,435506,4
+Orlando Voorn,Internal Destinations - Infinite Mix,1Ga8LsdcXEpGaQRgDLRdmv,0,2019,detroit-techno,0.579,0.437,0,-14.37,0,0.0357,0.463,0.926,0.146,0.195,125.04,412572,4
+Sean Deason,Ode to Detroit,05LZ9oIZXovhfqymN8vwEh,0,2013,detroit-techno,0.5,0.414,1,-17.286,0,0.0459,0.151,0.95,0.104,0.459,119.888,430000,4
+Dantiez,Get Up - Vangelis Kostoxenakis Remix,1NuYGK3xxnpPEqmgIDVo01,0,2016,detroit-techno,0.798,0.957,1,-6.653,1,0.1,0.00099,0.909,0.0643,0.491,122.0,442131,4
+Fabrice Lig,Meet U In Brooklyn,53bmZ7HdLcEDtINnhUH4aa,0,2011,detroit-techno,0.905,0.454,11,-9.705,0,0.154,0.0523,0.718,0.0836,0.726,120.026,474587,4
+Terrence Parker,Gift of Goodbye - Claas Reimer Remix,1jrtNipb1DlRGKGWYKHy7h,0,2013,detroit-techno,0.81,0.49,0,-9.305,1,0.0727,0.001,0.914,0.0975,0.464,124.015,356137,4
+Orlando Voorn,The Reality,67kzaIemH0U7QeIji4uud3,0,2021,detroit-techno,0.871,0.454,9,-10.665,1,0.0654,0.137,0.0125,0.0613,0.158,118.008,368898,4
+Kenny Larkin,Bass Mode,4GoiEPeBYHdgVDASiKUflh,2,2008,detroit-techno,0.804,0.361,10,-9.481,0,0.114,0.00346,0.945,0.113,0.404,126.035,334640,4
+Theo Parrish,It's Out of Your Control,7ivwqVx0p9P5Xt5mBdGTmz,4,2022,detroit-techno,0.663,0.654,4,-9.572,1,0.039,0.00535,0.467,0.0755,0.208,119.97,570885,4
+Jeff Mills,Incoming,5PF7EhBY057CquULM9P7Sw,9,2017,detroit-techno,0.557,0.888,11,-15.208,0,0.0518,0.0129,0.909,0.14,0.31,138.289,204360,4
+DJ 3000,Hotel Oasiz - Robert Hood Remix,1rkZj4SbFpU2B920yT4hkl,0,2012,detroit-techno,0.607,0.914,6,-8.854,1,0.0434,0.00248,0.457,0.282,0.14,121.963,618133,4
+Population One,Computer Rights,6tVRdI30CZJQmIKDqHVRYu,0,2012,detroit-techno,0.638,0.662,7,-12.141,1,0.0972,0.0388,0.814,0.226,0.531,125.985,306914,4
+Plastikman,Disconnect,3uoBhxyPNP5tCxMojnNQNO,1,2016,detroit-techno,0.716,0.249,1,-17.298,1,0.0468,0.662,0.941,0.122,0.0397,111.842,295760,4
+Terrence Parker,The Sabbath - DJ Steve Crawford Remix,2gIIgW63SpsfRgypBPnq92,0,2019,detroit-techno,0.749,0.835,1,-6.085,1,0.066,0.0554,0.714,0.0917,0.741,124.011,522587,4
+Sean Deason,Seduction,1q04Flp6B9QqtBE3stwtAV,0,2008,detroit-techno,0.665,0.563,7,-15.726,1,0.0371,0.00618,0.897,0.0678,0.851,128.167,439240,4
+Fabrice Lig,Back to DCB,2JnsTJ8tGFAtyTHj3f2W28,0,2001,detroit-techno,0.694,0.803,1,-9.108,0,0.053,0.000693,0.863,0.0827,0.424,135.476,382962,4
+Population One,My Own Shadow,7FH7dELxV5AB6oZbCcLFoO,0,2014,detroit-techno,0.642,0.58,4,-14.709,0,0.0354,0.121,0.385,0.108,0.228,125.985,330296,4
+The Martian,Doubtful Recognition,5X4cOQjHBCijWaGVDmWyIY,0,2021,detroit-techno,0.798,0.443,10,-13.738,0,0.256,0.007,0.0,0.0908,0.386,154.913,210583,4
+Robert Hood,Face In The Water,3VpwwjJWxPYFak2WzUwHbY,8,2020,detroit-techno,0.795,0.613,0,-13.395,1,0.0787,0.397,0.832,0.0735,0.401,125.997,342564,4
+Aux 88,Kyoto Station,3LbhZfpmkzrexqc0oob2sR,0,2010,detroit-techno,0.631,0.866,0,-13.157,0,0.0636,0.00928,0.565,0.0531,0.228,127.008,304480,4
+Stacey Pullen,The Hunt for Din Dah,1t6pvnHJmp3hen9vYzLfjW,4,2016,detroit-techno,0.735,0.961,9,-8.95,0,0.0453,0.00629,0.924,0.13,0.636,124.003,482232,4
+Omar S,Annoying Mumbling Alkaholik,0AqjMyBqLX3g2EHdHCuXTA,6,2017,detroit-techno,0.748,0.72,8,-13.085,0,0.0342,0.000314,0.881,0.351,0.6,120.967,507263,4
+Kenny Larkin,Groove,15ZVK7G0a8Ar2UA7uFFAzX,4,2021,detroit-techno,0.785,0.529,11,-15.359,0,0.0497,0.00112,0.823,0.0601,0.886,134.038,322840,4
+K-Hand,Noon - Midnight Mix,0EORcml7fHcB76AxHaGOFj,1,2019,detroit-techno,0.647,0.989,4,-5.134,0,0.0782,0.0845,0.685,0.077,0.518,136.253,301467,4
+Eric Cloutier,Gossamer,2fZ78GZ63KPRWmuN2N8i0i,0,2016,detroit-techno,0.761,0.815,0,-10.213,1,0.0777,0.0668,0.885,0.128,0.546,121.022,334488,4
+Carl Craig,The Melody - Ishmael Ensemble Remix,295spZHG57Sr3KMyeQiFfF,22,2018,detroit-techno,0.404,0.564,6,-12.161,0,0.0344,0.221,0.922,0.0624,0.302,123.003,384987,4
+DJ 3000,Until it's Gone,4KvCnOoAY05tbmK4YkWjGv,0,2016,detroit-techno,0.683,0.647,1,-10.683,1,0.0407,0.0001,0.935,0.124,0.542,128.004,390059,4
+Underground Resistance,Motherfucking Terrorbitch,72gid9WFoFUMn6IZdom9P6,0,2017,detroit-techno,0.51,0.894,6,-10.294,1,0.0527,0.000183,0.841,0.333,0.296,102.452,235440,4
+John Norman,Colder Than Mars,3Pkzb3RUQIqcU5nsO9aHxy,0,2018,detroit-techno,0.804,0.585,0,-11.571,1,0.108,0.0628,0.959,0.15,0.0469,128.036,371309,4
+DJ 3000,Equatorial Soil - Antennasia Remix,1xhBMjSBSQtQyHG1WpZMgV,0,2011,detroit-techno,0.552,0.873,2,-8.215,1,0.0946,0.0214,0.694,0.113,0.237,129.965,243692,4
+Underground Resistance,My Ya Ya (feat. Fix) - Mixed,45chY1G7OJhz0sH1tBiySq,0,2017,detroit-techno,0.817,0.786,11,-10.128,0,0.0473,0.000677,0.838,0.118,0.309,122.989,171683,4
+Jay Daniel,Bubble Cougar,20K9H71PpzOW13Can2Jy97,1,2013,detroit-techno,0.796,0.277,10,-24.088,0,0.195,0.086,0.896,0.147,0.614,119.507,457973,4
+Model 500,OFI - Edited Version,2izYLLDYBthOSIDuxQyp20,0,2011,detroit-techno,0.801,0.792,1,-6.107,0,0.0443,0.0222,0.464,0.0877,0.659,134.041,228206,4
+Kevin Saunderson,Foundation,0lPWyUuSPxWAgYowgVO1Oe,3,2017,detroit-techno,0.684,0.68,10,-8.872,0,0.0387,0.0307,0.829,0.158,0.122,124.975,203669,4
+Terrence Parker,Real Love - Slave Key Mix,5X5ZPLOEJIXEFp1iOikxoA,1,2018,detroit-techno,0.752,0.547,6,-12.002,1,0.0426,0.000463,0.833,0.174,0.623,121.077,384399,4
+Aux 88,We are The Future - The Advent Mix,7vMe7ZsVdNDfmDJ4qnus96,0,2008,detroit-techno,0.774,0.788,10,-8.188,0,0.0397,1.74e-05,0.85,0.0916,0.66,135.003,345077,4
+DJ 3000,Darjeeling Sun - Gary Martin 12inch Extended Mix,514aU4qVAMuXR1fPl3UgVA,0,2010,detroit-techno,0.817,0.736,10,-12.213,0,0.0776,0.00563,0.9,0.051,0.631,128.003,331349,4
+Fanon Flowers,Turgite,02nKQAz03OMrKwQtYVOyg6,0,2018,detroit-techno,0.761,0.76,1,-13.161,1,0.0572,0.583,0.85,0.108,0.117,128.005,366348,1
+Ataxia,Time Original - Mixed,46rLfwAbvMFxf56eBn0L2M,5,2018,detroit-techno,0.788,0.375,1,-22.405,1,0.0701,0.0543,0.837,0.105,0.409,125.011,298625,4
+Kevin Saunderson,Good Life - Matt Smallwood Extended Remix,3RJi3HMctfBQXqm4Jv6DBz,15,2013,detroit-techno,0.796,0.929,11,-5.098,0,0.0574,0.0042,0.85,0.123,0.483,123.986,421935,4
+James T. Cotton,Octopus,47YLoU6dxSLybnSMfAoGq6,0,2010,detroit-techno,0.795,0.646,7,-10.652,1,0.0717,1.18e-05,0.89,0.0964,0.759,126.287,212057,4
+Juan Atkins,I Love You,6VVpsgGCZC8ACxr5Yq7qVk,7,2013,detroit-techno,0.593,0.729,9,-10.98,0,0.0381,1.28e-05,0.558,0.098,0.32,119.97,444440,4
+Ryan Crosson,Panama,2tVmz4MQvrOS6tL4i5u8nw,0,2020,detroit-techno,0.751,0.626,0,-12.951,1,0.0444,0.00014,0.889,0.375,0.383,124.988,420633,4
+Terrence Parker,Sheryl I Love You - TP's Acoustic Love Mix,4WYDyo6v58xDWunOdoeB85,0,2021,detroit-techno,0.683,0.256,9,-12.779,0,0.0376,0.369,0.00132,0.0896,0.568,124.984,436140,4
+Model 500,Starlight - Convextion Remix,5vFAVzuxV890MGom2WyXCa,6,2008,detroit-techno,0.559,0.741,8,-11.771,0,0.0437,0.648,0.943,0.168,0.0834,119.938,533803,4
+Orlando Voorn,The Booming System - Chris Colburn Remix,014hmDnnH7LdjK35G0yteA,0,2014,detroit-techno,0.791,0.71,1,-8.097,1,0.0502,1.09e-05,0.926,0.101,0.0799,128.021,364219,4
+Aux 88,Winter In Japan - Dance Mix,0caBZYJn3LFDTUtMjalYmP,1,2010,detroit-techno,0.79,0.823,11,-4.759,0,0.0808,0.00129,0.945,0.0711,0.511,130.037,295385,4
+Terrence Parker,So Beautiful,5HYMKarOlqUVzfwtqlKNQo,1,2019,detroit-techno,0.739,0.689,10,-7.785,1,0.0624,0.00364,0.893,0.0983,0.752,124.003,436489,4
+Fabrice Lig,Escape From Nowhere - Franco Mento Organic Mix,5djRFnw1jnYSIgVkIz57VD,0,2003,detroit-techno,0.831,0.68,4,-7.586,0,0.191,0.0275,0.827,0.0478,0.762,129.979,268120,4
+Octave One,Empower - Original Mix,1a3xqnHcLEw4hGSqH2cgAZ,5,2008,detroit-techno,0.773,0.844,4,-9.865,0,0.0956,0.00921,0.868,0.117,0.187,132.061,394505,4
+Surgeon,Raw Trax 6,1WYK94MW4G6d4yJzRNYG2R,1,2019,detroit-techno,0.904,0.932,1,-8.705,0,0.108,0.128,0.811,0.0979,0.0381,134.21,314926,4
+Dantiez,The Funk Baby - Original Mix,7xvrTkNxRw5IEP19taMKxg,0,2018,detroit-techno,0.685,0.957,4,-5.537,0,0.0787,0.000269,0.848,0.0527,0.514,125.029,364800,4
+Aril Brikha,Deeparture in Time,3LsKOvlCI0oHNXz2FjwVwb,7,2011,detroit-techno,0.483,0.724,8,-10.7,1,0.0673,0.0553,0.91,0.098,0.216,125.866,630987,4
+Kenny Larkin,Glob - Ben Klock Remix 1,7bHbH9vm8CyySycWWuVIkJ,0,2013,detroit-techno,0.854,0.667,10,-12.485,0,0.118,0.00798,0.937,0.0584,0.552,125.008,404720,4
+Robert Hood,Go,6QNY4K4zsnQZ01h0IyPzO3,2,2018,detroit-techno,0.699,0.937,1,-8.208,1,0.0493,8.05e-06,0.954,0.119,0.0444,127.011,305505,4
+DJ 3000,Doldrums,6OuuNOVIEy2g8LBAKqM8Q6,0,2007,detroit-techno,0.713,0.262,7,-22.801,0,0.0579,0.187,0.354,0.112,0.26,138.012,76707,3
+Orlando Voorn,Moments in Darkness,4YvndxdJjJvrdzpHak6xpS,0,2013,detroit-techno,0.624,0.87,10,-7.142,0,0.222,0.32,0.427,0.0432,0.452,123.919,435484,4
+Aril Brikha,More Human,2vEjIgiwmifegA1yo3ttfq,5,2007,detroit-techno,0.776,0.727,10,-14.97,0,0.0739,0.15,0.93,0.0906,0.643,130.052,423400,4
+Omar S,S.E.X - Mack & Bewick Remix,55hFwwAgU8WeLTl8UCfog5,2,2017,detroit-techno,0.832,0.66,6,-11.969,1,0.0463,0.000332,0.91,0.103,0.827,120.982,248059,4
+Dantiez,Red Room,1guCg3jJIYTDhfa35oWYV7,19,2016,detroit-techno,0.799,0.72,2,-8.036,1,0.0541,5.3e-05,0.234,0.461,0.141,125.017,400579,4
+Aril Brikha,Prisma,2nOApsl8Oksuf3pbRrWYQO,6,2020,detroit-techno,0.8,0.864,6,-12.815,1,0.0639,0.00106,0.91,0.0717,0.35,124.999,424520,4
+Omar S,Don't Let Dis Be Hapnin!!,4REhDspHcsTrpnOiHUX6Y3,1,2017,detroit-techno,0.705,0.623,7,-11.491,1,0.0704,0.00163,0.818,0.136,0.186,122.027,488333,4
+Omar S,Oops,5nPJQq0cOvm4DHajqYQkCr,10,2020,detroit-techno,0.779,0.988,11,-6.281,0,0.0482,0.00114,0.854,0.082,0.613,122.008,360786,4
+Terrence Parker,Finally (feat. Reno Ka) - Backroom Mix,2tUUXj33RC3XsasK47yevx,1,2014,detroit-techno,0.804,0.541,11,-7.903,1,0.063,0.000303,0.0187,0.224,0.458,121.985,428163,4
+Terrence Parker,Takin My Time - Radio Edit,78SrUgF7dxC1fohph5JAmn,0,2020,detroit-techno,0.861,0.809,10,-8.699,1,0.0455,0.000624,0.0468,0.0752,0.73,124.492,238225,4
+Ryan Crosson,Take Back,7blpje67CXMb6hz3DrTh1d,0,2014,detroit-techno,0.801,0.389,7,-11.309,1,0.0724,0.0136,0.934,0.0968,0.759,128.011,298349,4
+Ryan Crosson,I Love My Lonely,5syv6z9cZpCGUjR7RUnmVs,0,2020,detroit-techno,0.794,0.667,10,-13.74,0,0.0598,0.000538,0.881,0.103,0.428,125.011,549120,4
+K-Hand,Eternal,7AxOH2qgqD0ArsG8mGkX71,1,2018,detroit-techno,0.729,0.758,1,-12.886,0,0.0656,0.153,0.926,0.0974,0.396,135.006,309773,4
+Jay Denham,Whispers,7qr6y0h0AhwDvFtaHnDwNq,0,2008,detroit-techno,0.573,0.593,10,-14.477,0,0.049,0.177,0.927,0.0833,0.478,130.037,369547,4
+Aril Brikha,Porto Colom - Original Mix,6MtV68Tg48BhUaSVWx0V9e,1,2011,detroit-techno,0.801,0.965,10,-10.965,0,0.0428,0.000244,0.853,0.0727,0.377,124.98,576000,4
+Orlando Voorn,Cosmic Memories,1AkufX9Uxz7fQmWHEO7dYp,0,2021,detroit-techno,0.761,0.882,10,-8.85,0,0.0505,0.0197,0.918,0.0777,0.331,130.007,405000,4
+Surgeon,SXDF-NB1006-2,1VZRykgMz9uVUKtYvcH8Xa,4,2016,detroit-techno,0.8,0.942,6,-6.803,1,0.0601,0.0336,0.385,0.0876,0.78,127.98,404100,4
+DJ 3000,Marauder,1yTd6cJv7wPmUFSnmSJHG6,0,2008,detroit-techno,0.795,0.966,1,-10.038,1,0.0451,0.0262,0.869,0.0635,0.0459,132.017,360277,4
+Surgeon,Eight Wrathful Deities,0IMTBgZ6vKaKs4GKn4D1Ne,5,2018,detroit-techno,0.446,0.97,1,-10.526,1,0.0581,0.285,0.864,0.106,0.422,134.016,336241,4
+Fabrice Lig,Sad Circuit,08c79augImDvJldOXIXTo5,0,2018,detroit-techno,0.621,0.943,2,-7.656,1,0.0801,0.00108,0.219,0.382,0.368,119.905,322500,4
+K-Hand,Workout,1A9XStYa7tfTcISPheTdjQ,1,2020,detroit-techno,0.577,0.979,8,-7.986,1,0.052,0.000236,0.839,0.252,0.68,136.99,268484,4
+DJ 3000,Darjeeling Sun,1g8zkj6yKrcYmQrnhXOtOe,0,2009,detroit-techno,0.709,0.587,10,-11.052,0,0.04,5.25e-06,0.847,0.0363,0.0845,128.004,303379,4
+Surgeon,Krautrock Version,0cSKD0lnSPmSO0tRRoZco2,2,2010,detroit-techno,0.786,0.841,11,-11.64,0,0.0357,0.00681,0.961,0.0712,0.389,134.288,328865,4
+DJ 3000,Outnumbered,4DnQ2GNfWVZGMVe9befIGu,0,2019,detroit-techno,0.696,0.642,11,-11.077,0,0.0487,3.52e-05,0.84,0.107,0.0626,131.964,409659,4
+DJ 3000,Funkin Rhythm,4tmKa2dYH54UEuAQEivZff,0,2014,detroit-techno,0.812,0.738,2,-8.132,1,0.0645,6.05e-05,0.914,0.0498,0.193,123.021,458520,4
+Terrence Parker,Your Music,4oD8BW59sXppeV6ahzb40y,8,2023,detroit-techno,0.738,0.879,5,-6.933,0,0.0336,0.03,0.000588,0.0676,0.892,124.978,466907,4
+Basic Bastard,Razorsharp,7JngIBtUeYUCZ1786QO865,0,2007,detroit-techno,0.899,0.733,11,-7.376,1,0.0372,0.000961,0.721,0.105,0.581,127.011,319223,4
+Ryan Crosson,Voice Mouth Face,5DnWIpERmlQJf5f0YPlWRo,0,2022,detroit-techno,0.508,0.709,10,-10.874,1,0.0581,0.172,0.812,0.195,0.0792,201.991,385655,4
+Dantiez,Get Yourself Together - Instrumental Mix,0U90jMYzriSWW1DN6rQIvF,0,2021,detroit-techno,0.811,0.977,7,-7.48,1,0.0751,0.0016,0.911,0.0557,0.525,126.017,442623,4
+Terrence Parker,The Sabath,3VOg4k1YDbZ9DNYTkoK0xe,0,2017,detroit-techno,0.498,0.785,1,-6.309,1,0.0392,0.587,0.664,0.117,0.181,123.99,439053,4
+K-Hand,Riverfront,7lVRFdfpdrflPizNpxTF5P,0,2019,detroit-techno,0.672,0.998,10,-2.403,1,0.0746,0.00429,0.848,0.301,0.309,131.506,351840,4
+Terrence Parker,I Just Make Music - Terrence Parker's Acid Boogie Mix,2DrbQqJXG0FIWa06SA4Ytv,0,2018,detroit-techno,0.81,0.673,0,-8.044,1,0.0572,0.000223,0.878,0.0328,0.952,122.993,456133,4
+Omar S,Buggin Out,5P4mevAaNF6fk3JI7doRtx,11,2017,detroit-techno,0.812,0.381,11,-11.66,1,0.077,0.000753,0.893,0.0598,0.832,123.0,454809,3
+DJ 3000,Merchants of Identity (The Marketplace),4S3QPijrHy0PfgK8C8nyOp,0,2006,detroit-techno,0.839,0.781,6,-10.745,0,0.132,0.216,0.829,0.0711,0.545,114.984,210507,4
+Terrence Parker,GOD HE Is (feat. Kelly Gunn) - Terrence Parker Heavenly Mix,2gbDj9AW7lTPyg7fb6fatf,0,2014,detroit-techno,0.638,0.894,11,-4.015,1,0.04,0.00112,0.0578,0.0372,0.82,121.974,426573,4
+Drexciya,Anti Vapour Waves,0tpcmNOxt6CrsC1dTvbTyY,8,2012,detroit-techno,0.658,0.908,11,-11.575,0,0.0513,0.217,0.82,0.0737,0.732,137.891,210183,4
+Terrence Parker,Token - Terrence Parker Remix Dub,4abj4A1WcZAlJk068O4gBT,0,2020,detroit-techno,0.764,0.708,7,-7.309,0,0.035,0.0131,0.26,0.105,0.493,119.991,469461,4
+Aril Brikha,Arcane,2otrHueeivwkYxKgwRvRoo,5,2020,detroit-techno,0.774,0.721,9,-13.342,0,0.0527,0.121,0.922,0.112,0.332,125.986,460736,4
+Octave One,Mid-Heaven - Original Mix,7vkDzwA4HDj2UFEsyKyWZk,2,2008,detroit-techno,0.805,0.88,8,-9.012,0,0.0459,9.08e-06,0.938,0.121,0.101,128.006,386507,4
+Fabrice Lig,Dirty Cat,7K5FXvVbjtxSK16cQrkorG,15,2023,detroit-techno,0.793,0.738,10,-7.279,0,0.0908,0.000185,0.862,0.0768,0.344,129.002,304400,4
+Kevin Saunderson,One Nation,7ygTdMWOt9OrP6dFHbBuEc,15,2016,detroit-techno,0.608,0.918,9,-6.135,0,0.0413,0.000588,0.866,0.108,0.668,127.978,202058,4
+Fanon Flowers,Vultures Circling Pt 1 - Original Mix,6vpepiF28GeS5cxJyvZ1Di,0,2014,detroit-techno,0.766,0.823,2,-7.993,1,0.123,0.501,0.91,0.11,0.145,125.033,430080,4
+Random Noise Generation,Rock My Soul,382MwzpshvqE5f3sp8nyQG,0,2005,detroit-techno,0.924,0.634,11,-10.424,0,0.0877,0.00217,0.921,0.0941,0.346,130.009,356720,4
+Aril Brikha,Life Like,2eQlmqtJDT8hnn7SmwM3fM,2,2007,detroit-techno,0.755,0.773,10,-9.506,0,0.0498,0.0293,0.805,0.0833,0.758,130.035,347913,4
+K-Hand,Are You Dreaming,7h5gE6umsBoZazFcywWYYY,1,2020,detroit-techno,0.649,0.785,9,-4.348,0,0.0489,6.56e-05,0.304,0.346,0.463,123.01,343661,4
+Scan 7,Deep Roots,5sIFva7YxQLcvMnVfSmo5a,1,2019,detroit-techno,0.798,0.853,8,-10.397,0,0.0508,0.0702,0.866,0.0584,0.878,127.002,416125,4
+Moodymann,Got Me Coming Back Rite Now,2cajeskL0nRif1vxyOb8Hi,12,2018,detroit-techno,0.798,0.708,1,-9.858,1,0.0566,0.00421,0.0339,0.101,0.074,102.025,354407,4
+D'Marc Cantu,Get Lifted,1dclJsnXwI32dyPlu6AfKW,0,2017,detroit-techno,0.572,0.539,4,-13.249,0,0.0507,0.163,0.954,0.116,0.204,189.996,293071,4
+Fabrice Lig,Fresh and Funky,3k4DCe5P288s6vrwHMPT75,0,2018,detroit-techno,0.67,0.764,0,-6.425,1,0.0548,0.00197,0.0278,0.126,0.514,111.944,279000,4
+Aril Brikha,Gres,3mm9kH4wX4b2kiBA9ATpbs,4,2007,detroit-techno,0.782,0.537,8,-12.907,0,0.0571,0.0157,0.878,0.0961,0.14,130.037,405600,4
+Dantiez,Get Down - Extended Mix,4F4WcEznt3Di0SKb2MAYtI,0,2020,detroit-techno,0.753,0.945,1,-6.161,1,0.045,0.000299,0.72,0.0612,0.642,123.009,405854,4
+Juan Atkins,Session 1 - Pacou Edit,3xYlriAt1u9IspAQTmm3UI,3,2005,detroit-techno,0.704,0.96,11,-12.546,0,0.0499,0.00322,0.958,0.111,0.542,136.046,255987,4
+Omar S,Gunup Runup,3nKy74B6LE1J6CjeHO5m2P,3,2017,detroit-techno,0.748,0.746,1,-18.058,1,0.134,0.101,0.115,0.0627,0.455,119.823,312774,4
+Theo Parrish,Trust (Ss Translation),0krZMw0Gk2OzMPVtthGUIr,2,2017,detroit-techno,0.783,0.413,4,-14.851,0,0.158,0.135,0.636,0.0932,0.386,120.004,589653,4
+Ataxia,Mascara,7k2newtPX5JJDL5RPwLn6O,0,2019,detroit-techno,0.803,0.946,8,-7.223,0,0.051,1.64e-06,0.929,0.11,0.534,126.001,339130,4
+D'Marc Cantu,Try Me,7udc7FvCBsOkEPAym6XnTN,1,2012,detroit-techno,0.783,0.931,6,-5.402,0,0.082,0.00288,0.925,0.141,0.287,127.994,390385,4
+Orlando Voorn,Artificial Intelligence - Dj Hyperman Remix,0j6NkL6Xj0lahwoWg5X4Fa,0,2018,detroit-techno,0.639,0.892,10,-6.774,0,0.0335,3.5e-06,0.882,0.0883,0.147,124.981,408960,4
+Surgeon,Discipline,4ASY2pgiWd7X0P4HXgMEvT,3,2000,detroit-techno,0.765,0.863,7,-12.467,1,0.0449,0.0294,0.885,0.108,0.365,133.994,301816,4
+Surgeon,Black Jackal Throwbacks,7iAf0F7fpy9i8MN3fbBlbO,0,2011,detroit-techno,0.494,0.784,10,-12.352,0,0.0593,0.00662,0.926,0.674,0.157,134.179,705760,4
+DJ 3000,Mariner,2i3eqFCeWaN1iIDSXv3aQF,0,2020,detroit-techno,0.798,0.83,11,-6.632,0,0.0464,0.00619,0.926,0.087,0.187,126.014,412099,4
+K-Hand,Move - Kay E Dub,0XtYuhuzni7mcsMWfzEbMT,1,2020,detroit-techno,0.805,0.696,1,-7.408,1,0.0733,0.00759,0.893,0.0649,0.563,123.224,288891,4
+Orlando Voorn,Solar System - Original Mix,5pkdo30mfi9gxOg3twjvrh,0,2018,detroit-techno,0.746,0.696,11,-9.354,0,0.0654,0.0041,0.826,0.27,0.418,124.791,353761,4
+Basic Bastard,Space Rider - Original Mix,5Z4CpgDvA6e7ffOgCRHY0j,0,2016,detroit-techno,0.676,0.781,7,-9.988,1,0.0387,0.000605,0.929,0.083,0.63,135.254,342115,4
+Inner City,Do Me Right - The Lisa Marie Vocal Experience,0mX09L58cZ16mgJemuhIgA,0,2022,detroit-techno,0.729,0.96,9,-4.56,0,0.0755,0.00648,0.31,0.035,0.687,127.074,459067,4
+Terrence Parker,God is Love - Original Mix,7vS6eoNO71nD6MxffzWqxn,0,2017,detroit-techno,0.802,0.498,2,-11.125,1,0.0741,0.000482,0.869,0.106,0.309,120.007,467511,4
+Population One,Rush Hour - 20th Anniversary Mix,35nqzetERq4rvvJnD1E65A,0,2018,detroit-techno,0.429,0.942,0,-9.948,1,0.0614,0.000283,0.984,0.0506,0.498,126.993,332723,1
+Seth Troxler,Relationship,4ugai2sZFjNihTHnzZTXUg,4,2008,detroit-techno,0.805,0.358,2,-19.8,1,0.0712,0.644,0.935,0.0717,0.178,125.012,430080,4
+Claude Young,Last Shuttle To Skylab,0rmSbxA43xewoIGmSlcGXh,0,2019,detroit-techno,0.291,0.572,3,-15.635,0,0.0406,0.148,0.918,0.225,0.11,123.928,403548,4
+DJ 3000,Prowler,7CXV9FxdRIa818yERvPwMO,0,2004,detroit-techno,0.797,0.524,10,-16.964,0,0.0738,1.77e-05,0.885,0.11,0.278,130.001,325296,4
+Seth Troxler,Hurt (feat. Matthew Dear),0OHH5GsgNoE9eJRjJHNRRc,14,2009,detroit-techno,0.551,0.48,1,-8.867,1,0.0915,0.0376,0.749,0.108,0.72,120.978,366550,4
+Theo Parrish,Drive,5qbfRraRy2F1cOOmCnKBzK,5,2014,detroit-techno,0.668,0.798,1,-11.956,1,0.0406,0.0136,0.94,0.432,0.0362,128.055,650053,4
+Fabrice Lig,Escape From Nowhere - Franco Mento Destructive Mix,6gHpHpGieYhdY4faBgkr6l,0,2003,detroit-techno,0.665,0.908,10,-4.965,0,0.272,0.0902,0.304,0.114,0.223,179.965,191333,4
+Jay Denham,The Pulse - Means & Ends Noir Mix,3tJjdaSM4Oclt45nnZYQQ5,0,2011,detroit-techno,0.8,0.504,1,-11.541,1,0.0744,0.143,0.913,0.0844,0.13,121.008,430434,4
+Ataxia,Love On - Original Mix,2Ny4fGoqUkuXot5cCMMywn,0,2013,detroit-techno,0.769,0.567,7,-10.685,1,0.08,0.00803,0.476,0.0222,0.323,118.491,470384,4
+Orlando Voorn,Super Soul - Original Mix,6Vva0NwA3PxV45vJ3pv2zs,0,2020,detroit-techno,0.757,0.711,10,-12.28,0,0.0536,0.345,0.904,0.0873,0.749,124.013,348671,4
+Jeff Mills,The Drive Home,53dWjYBxCqsp1DGkgGWmAq,8,2019,detroit-techno,0.426,0.62,0,-10.532,0,0.0294,0.0229,0.873,0.229,0.557,106.003,452413,4
+Eddie Fowlkes,Track 10,26OhG92aD1qznGFtrhzX2Z,0,2021,detroit-techno,0.764,0.656,1,-13.585,1,0.0651,8.75e-05,0.885,0.0939,0.735,128.02,356787,4
+Fabrice Lig,Sweet remembers,6Fu9OAQOMxsEc9Fk2o1id2,0,2002,detroit-techno,0.78,0.88,6,-10.668,0,0.095,0.000727,0.854,0.0532,0.222,136.902,197427,4
+Orlando Voorn,Spread My Wings,2a1Zbx1jO2haLnDI0vRNMm,0,2020,detroit-techno,0.769,0.384,8,-11.531,0,0.0522,0.0462,0.704,0.112,0.396,113.033,342000,4
+Omar S,Light Year Flight,14goe3eatdriXSzo8ySgTg,1,2019,detroit-techno,0.805,0.848,11,-12.052,0,0.0812,0.000318,0.961,0.0428,0.962,130.007,389922,4
+Surgeon,"Convenience Trap, Pt. 3",2MEB5NcJKL7YrLefWJNwV0,1,2017,detroit-techno,0.729,0.881,11,-9.791,0,0.0416,6.21e-05,0.873,0.0918,0.143,130.017,334546,3
+Rhythim Is Rhythim,Kaos - Juice Bar Mix,6Z7r5i701qY3LkdQv4ZVKZ,3,2017,detroit-techno,0.782,0.801,11,-10.583,0,0.0676,0.000627,0.793,0.0853,0.816,133.747,357500,4
+Surgeon,Those Who Do Not,6Kp7mh71LJi1By4yyh92uH,4,2011,detroit-techno,0.601,0.468,10,-14.289,1,0.311,0.00303,0.914,0.111,0.188,130.032,471335,4
+Ataxia,Last Midi On Earth,6F1h0q2pzZsQHW7ljRVM8V,0,2018,detroit-techno,0.711,0.787,6,-7.959,0,0.102,0.037,0.637,0.0835,0.629,131.01,183206,4
+D'Marc Cantu,Without Shape,0yNgUkpWoPKZlVlvzTkXAW,0,2021,detroit-techno,0.543,0.895,6,-14.388,1,0.0606,4.82e-06,0.9,0.231,0.697,124.955,401019,4
+Theo Parrish,Electric Alleycat - Mixed,4dzbjFKV1q5WEwPmUyzHzX,3,2014,detroit-techno,0.539,0.545,2,-12.309,1,0.129,0.0594,0.889,0.135,0.649,203.675,165813,4
+Omar S,Poor Food,4rNeT7e7x0NGMRPQZqnTiK,1,2017,detroit-techno,0.806,0.638,4,-14.787,0,0.0555,0.111,0.955,0.0977,0.367,130.005,552269,4
+DJ 3000,Uppercut,4mxBq7U6RWOUs8o2wJ8JcH,0,2017,detroit-techno,0.806,0.857,10,-9.62,1,0.0536,0.00325,0.879,0.0776,0.744,130.004,387692,4
+Drexciya,Mantaray,0Yniil1A2xCMvI0zUtMmWm,9,2013,detroit-techno,0.831,0.711,1,-9.886,1,0.0995,0.0059,0.875,0.0784,0.696,143.353,190873,4
+D'Marc Cantu,Light Speed Funk,057ZgK0j7QxjTaxicngLnH,0,2017,detroit-techno,0.773,0.886,1,-11.458,1,0.0905,0.0387,0.87,0.106,0.736,110.008,353584,4
+Derrick May,A Relic Long Ago,3FAdVejOB2j1EO0pCPGyDf,30,2013,detroit-techno,0.59,0.889,3,-8.892,1,0.0625,0.000445,0.891,0.162,0.424,134.52,61520,4
+Ryan Crosson,Snake Oil - Original Mix,2M8xWhizRxHzpyA0RdpSUh,0,2018,detroit-techno,0.798,0.674,6,-12.396,0,0.0721,0.000529,0.884,0.085,0.528,124.001,480280,4
+Kenny Larkin,Groove - Original Mix,470ViWFnBHHE3cPwgnHwna,0,2014,detroit-techno,0.785,0.612,11,-13.033,0,0.0472,0.00058,0.861,0.0679,0.849,134.02,322443,4
+Dantiez,Other Side,5rupheT8MeyGJri9dvufLK,0,2014,detroit-techno,0.794,0.939,1,-6.685,0,0.0456,0.000286,0.898,0.0807,0.14,125.001,407040,4
+Terrence Parker,Tonights The Nite - Original Mix,13wz4dgTSNfnORTpP74twz,1,2013,detroit-techno,0.823,0.882,2,-9.45,1,0.0503,0.000264,0.0939,0.0276,0.603,123.08,397897,4
+DJ 3000,On the Edge of Love - Mix 2,1af4GoICha9engyvlupSTw,0,2011,detroit-techno,0.819,0.833,7,-14.608,1,0.0842,0.000399,0.885,0.129,0.0707,128.001,423587,4
+Robert Hood,Thought Process,2xFcGZWrkNDC8qjWVwu5xl,2,2017,detroit-techno,0.798,0.923,7,-9.484,1,0.0484,0.000227,0.946,0.111,0.0384,125.998,337227,4
+Random Noise Generation,Humanic Bridge - Transition,7vdu1lkpKL3ngbsblq15ZT,0,2005,detroit-techno,0.793,0.188,8,-17.488,1,0.181,0.0197,0.953,0.107,0.0814,180.004,63427,4
+K-Hand,Cpop,5xJ3xLyNT80zcpuqBvIdou,0,2019,detroit-techno,0.796,0.983,9,-1.68,0,0.0998,0.0985,0.931,0.107,0.661,128.072,346907,4
+Carl Craig,Suspiria,3kN6xEX254D9uJh9UnxPSu,6,2007,detroit-techno,0.387,0.544,5,-13.538,1,0.0569,3.2e-06,0.924,0.332,0.206,105.165,245147,4
+Robert Hood,The Pace - Mixed,3ZDShAVcrBORyH6NLlNOvv,24,2011,detroit-techno,0.809,0.74,9,-17.032,0,0.121,0.576,0.93,0.131,0.44,123.558,138853,4
+Drexciya,Aqua Jujidsu,55A1oAOjZSYxAAWPKLvWRf,6,2012,detroit-techno,0.643,0.91,2,-13.339,1,0.0708,0.00291,0.888,0.595,0.596,153.484,178432,4
+Ataxia,Pine Island,5b1tc71B20B0w8FgcfPNKz,1,2022,detroit-techno,0.598,0.71,3,-8.21,0,0.167,0.000577,0.911,0.0389,0.966,219.85,390853,4
+Octave One,Through Darkness - Original Mix,0W5o6QnKoqM9g2IjSLys65,1,2008,detroit-techno,0.832,0.853,11,-7.714,0,0.0885,0.0114,0.208,0.095,0.205,130.055,369423,4
+Derrick May,To Be or Not to Be,4gaBYE4aun0x0xQklBVHQj,4,2013,detroit-techno,0.696,0.87,4,-14.241,1,0.0584,0.00546,0.871,0.287,0.713,136.293,414093,4
+Cybotron,Clear - Louderbach All This Space Mix,2WInXs9vEVmpsdcKWC2OEA,3,2007,detroit-techno,0.734,0.514,1,-11.464,1,0.0478,0.00109,0.612,0.177,0.112,122.03,373440,4
+Theo Parrish,Fallen Funk,0A943YMePnrkZ6NgQhMalo,4,2014,detroit-techno,0.697,0.81,11,-7.919,0,0.0684,0.00611,0.89,0.112,0.602,117.47,598053,4
+Orlando Voorn,The Right Way - Brian Busto Underwater on Acid Dub,32BUXK28NnZO3GtXv0X9gg,0,2021,detroit-techno,0.777,0.684,1,-12.751,0,0.0575,0.0033,0.883,0.106,0.499,130.009,408250,4
+Carl Craig,So What - Doorly Mix,5VEByAzR9eBUpX0APrXZ3q,1,2016,detroit-techno,0.854,0.768,6,-8.519,0,0.0538,0.00839,0.164,0.0543,0.419,123.013,396750,4
+Orlando Voorn,Never Knew - Morgan Anson & Luke Neptune mix,0cEfsThDkdJRXNGvl5zYOh,0,2020,detroit-techno,0.755,0.811,1,-10.465,0,0.0492,0.00799,0.804,0.0524,0.464,124.013,302081,4
+Orlando Voorn,Artificial Intelligence - Auton Remix,6lbWOfnEr6zuPuLeNF5hkN,0,2018,detroit-techno,0.795,0.322,1,-17.936,1,0.0938,0.00136,0.876,0.0996,0.179,120.008,424000,4
+Fabrice Lig,Wind of Freeland,0zhlxF56hSCcI7GcyQ1BPS,0,2001,detroit-techno,0.782,0.648,7,-6.416,1,0.0969,0.00366,0.894,0.0375,0.833,132.839,343680,4
+DJ 3000,Youdaone,3ZY7BOHC7iH18A72BJySto,0,2012,detroit-techno,0.817,0.835,2,-7.149,1,0.0832,0.00509,0.883,0.174,0.527,123.97,392903,4
+Jay Denham,Come On,1MPpB19oeUUQdMocUYbiN5,0,2008,detroit-techno,0.656,0.92,11,-7.916,1,0.0474,0.00503,0.789,0.348,0.759,132.998,381213,4
+Orlando Voorn,Miss You - Original Mix,5V56LK3bS8bI21Wb0uFK6y,0,2018,detroit-techno,0.893,0.551,10,-10.589,1,0.0708,0.00353,0.932,0.1,0.815,117.97,480010,4
+Orlando Voorn,Unpredictable Love - Original Mix,3l40THRX6EamHHiyajI6Ix,0,2011,detroit-techno,0.736,0.753,10,-11.037,0,0.0441,7e-05,0.885,0.0994,0.217,127.01,688543,4
+ONYVAA,Retroreflective,4IrVDAagZq9SDUeWtP06vH,4,2020,detroit-techno,0.703,0.997,11,-5.483,1,0.0704,0.000881,0.867,0.0685,0.169,137.027,310812,3
+Terrence Parker,Finally - Planet-E Remix,6HP0aZFaztVh4J5SW267BL,2,2014,detroit-techno,0.762,0.714,11,-7.314,1,0.0428,0.000822,0.0919,0.0548,0.562,122.003,350100,4
+Theo Parrish,Lost Keys,2aAzlo8vUQrOdkli5tln2T,14,2021,detroit-techno,0.802,0.491,5,-15.706,0,0.0756,0.000344,0.924,0.0374,0.279,114.032,699586,4
+Seth Troxler,"Panic, Stop. Repeat!",00g0iQp54pVyFyCDsFteN0,16,2009,detroit-techno,0.766,0.572,4,-10.621,0,0.0515,0.0312,0.819,0.185,0.34,127.992,481133,4
+Scan 7,Direct Effect - Teste Remix,4gwY2hXhETszsqzRewry75,0,2016,detroit-techno,0.678,0.546,4,-17.028,0,0.0545,0.366,0.867,0.11,0.0307,130.004,293654,4
+Fabrice Lig,Pgm 400,2tRMtEmHEaZo9sbAMrhhBY,0,2002,detroit-techno,0.725,0.644,0,-10.888,1,0.0387,0.167,0.862,0.111,0.428,128.914,431613,4
+Eddie Fowlkes,Hold Me Down,52qX2t86zggYpVpe9J8BPI,2,2021,detroit-techno,0.808,0.718,1,-10.37,1,0.0446,0.000398,0.936,0.0879,0.74,127.006,393154,4
+Kenny Larkin,You Are,7dJDI88aFUZGbGObp7VBaX,1,2008,detroit-techno,0.776,0.839,4,-9.442,0,0.0535,0.00348,0.427,0.0624,0.108,133.993,293653,4
+Population One,The Jazz Student,662Kogph4PONQdHMsThm8W,0,2014,detroit-techno,0.567,0.492,6,-16.225,1,0.0396,0.187,0.769,0.104,0.269,124.012,398832,4
+Inner City,We All Move Together - Album Mix,5bdh7s1mGPfiBh2Thxlxsu,21,2020,detroit-techno,0.656,0.884,2,-6.923,1,0.0768,0.00272,0.0441,0.126,0.394,125.98,352600,4
+Robert Hood,Assembly,4TTmACVbzLkFo9WmDMmvgW,1,2012,detroit-techno,0.825,0.303,11,-12.622,0,0.229,0.496,0.305,0.114,0.346,92.027,254919,4
+Ataxia,Three Point Oh,2QVk0IjMTmAf5hQcyU99Gd,0,2019,detroit-techno,0.807,0.878,9,-7.996,1,0.0488,0.0141,0.863,0.0868,0.124,126.009,398095,4
+Fabrice Lig,Returnelle,2klpvXxCoRXTqlA8oePvo1,0,2017,detroit-techno,0.695,0.913,1,-8.95,1,0.0553,1.53e-05,0.718,0.0863,0.156,125.019,297625,4
+Orlando Voorn,Tronics,4SpOhoXvByrlVEob2Uon6k,0,2020,detroit-techno,0.606,0.818,1,-9.337,1,0.038,0.00229,0.929,0.0385,0.578,135.004,347750,4
+Omar S,My Naffew Randy,5cBCQJtvj9PThDtnLx6HM4,4,2017,detroit-techno,0.77,0.469,1,-11.896,1,0.0547,0.00041,0.785,0.0929,0.391,119.988,395651,4
+D'Marc Cantu,Fractal,5bc369sYTiWFLpcxX6Rp6r,0,2011,detroit-techno,0.724,0.711,2,-8.679,1,0.0401,0.000494,0.87,0.101,0.465,119.999,386027,4
+Orlando Voorn,Trigger - Orlando Voorn Treshold Remix,4IMNJQSKx3EKis2ZfCVnMn,0,2006,detroit-techno,0.608,0.744,6,-10.322,1,0.0419,0.00262,0.909,0.0625,0.309,131.011,381069,4
+Orlando Voorn,No Fear - Raffaele Attanasio's Insane Remix,7gJhjpXejtwygm3BpnrsKH,0,2012,detroit-techno,0.252,0.716,4,-11.451,0,0.0645,0.00353,0.834,0.198,0.0326,189.055,446346,3
+Surgeon,"Midnight Club Tracks II, Pt. 2",44Ycmx7s0eB45OZTTWcEC3,3,2001,detroit-techno,0.378,0.999,2,-4.002,1,0.084,0.0328,0.948,0.239,0.105,133.956,315223,4
+Ryan Crosson,Don't Look Further,3lJ4mpFaeLu35pREAIcSux,2,2010,detroit-techno,0.798,0.571,9,-9.425,1,0.0486,0.00526,0.898,0.125,0.551,127.006,397413,4
+John Norman,Space Modulator - Original mix,4LYZ3mecduy539Yq2uN1Qy,0,2017,detroit-techno,0.799,0.86,0,-5.645,1,0.0481,0.000618,0.865,0.0891,0.19,128.004,492264,4
+Jeff Mills,Homage,5Cl4jnLuWbB0oXFm26bqXT,10,2021,detroit-techno,0.563,0.884,1,-9.667,1,0.0521,0.0257,0.799,0.282,0.518,116.038,317311,4
+Kevin Saunderson,Future (feat. Inner City) - DJ Chus In Stereo Mix,0ifO1Ownj7Tkz66E6VSXjQ,3,2012,detroit-techno,0.703,0.876,2,-7.869,1,0.0509,0.000503,0.836,0.0887,0.566,126.007,521442,4
+Inner City,Good Luck - Sure Is Pure Extended Remix,6rUHJt9NlkCZ85k63KWiOa,0,2017,detroit-techno,0.729,0.734,11,-7.926,0,0.054,0.000459,0.374,0.0226,0.604,123.996,497904,4
+Aril Brikha,Leaving Me,7a7QxuVfI4gWjYU3zyMBJC,9,2007,detroit-techno,0.589,0.791,3,-9.488,0,0.0397,0.047,0.632,0.124,0.23,130.054,619840,4
+Orlando Voorn,Subliminal,0zsNAMRibtGjtUqcIiGWPY,0,2020,detroit-techno,0.677,0.408,1,-10.454,0,0.0396,0.0175,0.929,0.138,0.63,135.987,375000,4
+Rhythim Is Rhythim,Sinister,4G9WGAZzGHEVasdllxqjFv,7,2020,detroit-techno,0.792,0.924,11,-10.171,0,0.0687,0.000318,0.935,0.0503,0.78,132.594,397800,4
+Omar S,Cry Me a River,68Vux2MhPEGvSo9zfwdQy7,1,2017,detroit-techno,0.864,0.559,1,-10.188,1,0.0591,0.000666,0.92,0.105,0.443,124.39,383442,4
+Ryan Crosson,Close To Danger,0KTHV3MTit7xadj2Dr9kQ6,0,2014,detroit-techno,0.798,0.833,9,-11.251,1,0.0634,0.000235,0.911,0.1,0.145,124.002,436582,4
+Robert Hood,Black Technician - DirtTech UR Remix,4c3t2thxyaxmL327nyppA9,0,2013,detroit-techno,0.774,0.718,2,-8.104,1,0.0648,0.00714,0.628,0.268,0.679,109.926,185917,4
+Theo Parrish,Falling Up - Remastered,1UrKe9avyiJ5SldD22UXKo,0,2013,detroit-techno,0.861,0.638,6,-10.099,1,0.0729,0.248,0.904,0.116,0.504,115.947,755548,4
+Inner City,Do You Love What You Feel 2018 - Inner City & House Of Virus Instrumental Mix,6brQT5UQQp3xUazP9Emmql,0,2018,detroit-techno,0.706,0.971,4,-6.492,0,0.0481,0.00759,0.92,0.207,0.451,124.016,176129,4
+Omar S,Dumpster Graves,1qp5TjkJT3k1wkA2lR0BSG,8,2017,detroit-techno,0.786,0.714,9,-10.344,0,0.0595,0.000726,0.908,0.101,0.269,119.956,292217,4
+Orlando Voorn,Big Room - Ortin Cam Remix,4NuHFKYFcyKFoTDa4Zwcdw,0,2014,detroit-techno,0.753,0.53,1,-11.174,1,0.0475,0.0046,0.884,0.112,0.035,127.997,421976,4
+Orlando Voorn,The Dancer - Luigi Seija Mix,1ku8dkLihx1up98QvwiaKG,0,2021,detroit-techno,0.769,0.617,1,-8.277,1,0.051,0.00019,0.947,0.123,0.279,128.005,427875,4
+Fabrice Lig,Master Funkster,0S3uXerzpmTfncClGAtXac,0,2020,detroit-techno,0.795,0.962,0,-9.12,1,0.0774,0.0237,0.857,0.102,0.792,127.987,360856,4
+Orlando Voorn,The Right Way,6GzX1NCdQN8EVdlpaivvzx,0,2021,detroit-techno,0.834,0.587,1,-8.596,1,0.0459,0.0546,0.687,0.0807,0.466,121.988,383875,4
+Blake Baxter,Let's Take It Back - Original Version,5NWinQrkEHEuhub7pkk0PT,0,2009,detroit-techno,0.783,0.604,5,-14.17,1,0.0596,0.1,0.527,0.151,0.508,123.996,371613,4
+Drexciya,Living On the Edge,6mJhVsBysvARb46HZanr2w,9,2013,detroit-techno,0.802,0.798,10,-11.517,0,0.0774,0.00876,0.0182,0.108,0.643,122.392,213843,4
+Scan 7,Toxicity,3ALNOk92ZLG7X43oW6AzFW,1,2021,detroit-techno,0.773,0.877,1,-9.843,0,0.0592,0.000178,0.909,0.0733,0.54,136.003,367413,4
+Fabrice Lig,Minetism,2CIYnifa3zJ8C6D4bY9y27,0,2014,detroit-techno,0.797,0.666,0,-9.154,1,0.0471,0.0318,0.925,0.1,0.178,133.891,302857,4
+K-Hand,Emotional Content,1Afo48H8DEgIE8uVPQ0DNC,2,2020,detroit-techno,0.751,0.966,4,-7.117,1,0.0569,0.167,0.953,0.0767,0.897,126.011,354421,4
+Seth Troxler,Satisfy - Original Mix,4exbE5sXA3bWe4NdzZ8F5u,11,2018,detroit-techno,0.772,0.575,11,-13.485,1,0.0751,0.000641,0.916,0.0968,0.391,126.009,320971,4
+DJ 3000,Defiant - Kiko Remix,4VSU1paFuZR7taASQmLtmZ,0,2012,detroit-techno,0.803,0.613,1,-9.037,1,0.0776,0.0173,0.9,0.0593,0.17,125.004,422400,4
+Robert Hood,The Bond We Formed,6RIH2JoYLlDcCMIFoKZynQ,4,2017,detroit-techno,0.7,0.839,6,-10.608,1,0.075,5.83e-05,0.911,0.128,0.287,127.999,394600,4
+Orlando Voorn,Awaken,7MewQmtSsIkUsHSJAtWiPO,0,2013,detroit-techno,0.647,0.739,9,-8.401,0,0.124,0.000244,0.929,0.0522,0.436,124.025,368781,4
+Robert Hood,Chroma Light,3GnUL81K4TV9zEym72YykI,19,2021,detroit-techno,0.731,0.675,4,-10.425,0,0.0637,0.0085,0.883,0.071,0.21,130.004,337463,4
+Orlando Voorn,No Fear - Original Mix,4gD1o2lXktzQUOsO5oKymA,0,2012,detroit-techno,0.66,0.858,1,-6.793,1,0.0532,0.00241,0.000194,0.11,0.259,126.015,488266,4
+Omar S,Can't Explain - Omar S & TroiAlexis House Mix,3ih6E2CTaUGD9Brv97R29J,22,2022,detroit-techno,0.912,0.386,8,-12.107,1,0.16,0.00677,3.29e-06,0.049,0.607,124.129,212230,4
+Dantiez,Mouth House,4Xs1ba6J6GAbJBQGS4i1Yn,0,2020,detroit-techno,0.794,0.887,7,-9.432,1,0.127,0.00495,0.871,0.11,0.715,118.999,360641,4
+DJ 3000,Wake it Up,7elcu5F6LnMOFPS7aoLCWX,2,2013,detroit-techno,0.801,0.874,8,-12.397,1,0.0426,0.000324,0.774,0.123,0.579,125.988,408393,4
+Omar S,Give It to Me (Rick Wilhite Remix),3pxl2ydS6NNZXiNnmknVmB,1,2017,detroit-techno,0.877,0.889,10,-15.782,0,0.0479,0.000613,0.916,0.0956,0.743,119.987,384894,4
+Orlando Voorn,Soul Society - Vocal,7bz6i4bLdXMQeu6jPRvelR,0,2021,detroit-techno,0.815,0.793,11,-5.553,0,0.0659,0.000152,0.595,0.13,0.506,119.979,400696,4
+Orlando Voorn,Artificial Intelligence - Polliwog Remix,7woGBSzdMhERtuZNQyQfDc,0,2018,detroit-techno,0.684,0.834,7,-11.933,1,0.0432,0.174,0.884,0.118,0.0848,126.009,365714,4
+Eddie Fowlkes,Dat Track,0ILUo9jgwRmvaEclx5iq4N,0,2021,detroit-techno,0.833,0.802,6,-15.498,0,0.115,0.000125,0.962,0.0764,0.63,136.041,351387,4
+Population One,The Move - Orlando Voorn Remix,0XN2kfti5BJJGiTCgzj024,0,2017,detroit-techno,0.614,0.749,10,-14.396,0,0.0597,0.155,0.932,0.111,0.489,128.005,448942,4
+Fabrice Lig,La ronde des funky bugs,69EC7PMlZGF8dKAyqxzvCd,0,2007,detroit-techno,0.793,0.637,11,-7.687,0,0.245,0.113,0.665,0.129,0.59,131.839,456000,4
+Population One,The Test,0pLKRgtztyWDoDet7QNvH9,0,2014,detroit-techno,0.749,0.323,7,-16.919,1,0.109,0.534,0.929,0.236,0.363,125.852,308587,5
+DJ 3000,Meridian - Mark Broom Remix,7BMk6UXWu0F6agL12cmBx5,0,2010,detroit-techno,0.795,0.945,6,-7.864,0,0.0437,6.68e-05,0.874,0.0801,0.0664,126.003,418987,4
+Omar S,Air of the Day,2DIra3lteTdthq3pjjSQQ8,11,2017,detroit-techno,0.548,0.831,9,-5.455,0,0.0751,0.00457,0.917,0.105,0.35,122.013,370538,4
+Ataxia,The Rickaverse - Original Mix,3ItkBUGJ5zqsxcYlZCONGl,0,2017,detroit-techno,0.753,0.877,1,-7.565,1,0.041,0.000198,0.888,0.0902,0.229,127.992,450058,4
+Scan 7,4 Types of People - DJ Mourad Carthage Remix,0QGSwSQwvUCMAjrQ37itMx,0,2010,detroit-techno,0.712,0.83,10,-7.302,0,0.0512,0.0675,0.68,0.0671,0.636,131.996,450395,4
+Terrence Parker,Haazy Day - W. Jeremy Remix,2csWUg2zbTGcGfWNDlFM5R,0,2016,detroit-techno,0.805,0.559,0,-15.169,1,0.0793,0.0198,0.832,0.0367,0.742,124.005,500681,4
+Dantiez,Day N’ Nite,50GQZjNV4G3FxiuZ8SKMvu,2,2021,detroit-techno,0.794,0.853,5,-9.631,1,0.0595,0.00145,0.582,0.0648,0.371,125.014,349680,4
+Ryan Crosson,A Doglike,6u8Tv8Ufwb6lAcB8JviPo5,0,2008,detroit-techno,0.795,0.793,7,-11.284,1,0.0566,0.01,0.896,0.24,0.0745,125.01,453120,4
+Scan 7,Smooth Scan,2ibZJjwdnjw1ju8zX5LjHH,1,2019,detroit-techno,0.687,0.9,4,-8.211,0,0.0487,0.00671,0.873,0.108,0.561,130.004,414811,4
+Aril Brikha,A New Breed,20JHFbwmyNhIh0C5tsy5xA,3,2020,detroit-techno,0.806,0.514,10,-13.457,0,0.145,0.00374,0.907,0.0731,0.664,124.992,431777,4
+Theo Parrish,What You Gonna Ask For - Dego,79D1gWUL04fImvO1jlVhOG,13,2019,detroit-techno,0.789,0.84,4,-8.457,0,0.061,0.178,0.0396,0.0602,0.697,120.076,607122,4
+DJ 3000,Voyager,7wXTwUMzosZOttN5ACKOxe,0,2017,detroit-techno,0.807,0.863,0,-11.062,1,0.0719,0.00106,0.941,0.113,0.66,128.004,390169,4
+Robert Hood,Saved by the Fire,12jYN5vVgO0RQiKWsnQRAa,1,2010,detroit-techno,0.56,0.762,2,-9.652,1,0.0769,0.0783,0.959,0.0785,0.157,120.075,416200,4
+Omar S,Smash,4BibY0D6zg7g2o0EXjHXaX,9,2017,detroit-techno,0.75,0.714,8,-10.793,1,0.0405,0.00545,0.914,0.106,0.323,120.529,319872,4
+Drexciya,Dr. Blowfins' Black Storm Stabilizing Spheres,2RgZyBsD8UKBfywWFJ0Mtt,12,2002,detroit-techno,0.757,0.77,7,-12.408,1,0.0395,2.09e-06,0.898,0.126,0.234,129.52,372933,4
+Eddie Fowlkes,Warwick,4mAf0BJxRanjgYyB2T1Jzy,1,2021,detroit-techno,0.836,0.881,8,-10.943,0,0.0663,0.0203,0.883,0.0556,0.844,127.112,394900,4
+Scan 7,No Enemy no table,7CqeeC577wMU93lRB3tugC,10,2019,detroit-techno,0.694,0.928,8,-10.082,0,0.0692,9.17e-05,0.921,0.32,0.786,130.005,413999,4
+Omar S,Just Ask the Lonely,6E3LpH76ktj2DfR12AWhzn,15,2017,detroit-techno,0.814,0.731,10,-9.879,1,0.0549,0.000629,0.873,0.324,0.288,121.005,626240,4
+Eddie Fowlkes,Pandemic One,5Jv1QHvIdZ9fP5Z0MYMQVz,0,2020,detroit-techno,0.826,0.629,0,-8.654,0,0.0898,0.0787,0.00196,0.0944,0.337,127.995,349818,4
+Terrence Parker,Cry 4 U - Sheryl's Authentic Love Festival Mix,1cujLidspTsFX6ET93zkBH,4,2022,detroit-techno,0.638,0.921,8,-4.456,1,0.0343,0.000462,0.0013,0.204,0.755,125.016,496164,4
+Orlando Voorn,The Booming System - Chris Colburn Bonus Remix,0T3N53YpyySvc8ORVOo19C,0,2014,detroit-techno,0.791,0.71,1,-8.097,1,0.0502,1.09e-05,0.926,0.101,0.0799,128.021,364219,4
+DJ 3000,Concord - Original Mix,7vyNAn8P6XmFGGyo6Hi5iK,0,2013,detroit-techno,0.767,0.872,9,-8.721,1,0.0817,0.0728,0.883,0.166,0.432,126.016,401027,4
+Robert Hood,The Grey Area,1N0KNmZycxSl4w7j4rGxuo,2,2014,detroit-techno,0.699,0.661,10,-12.761,0,0.0439,0.00157,0.922,0.128,0.153,134.248,661401,4
+Jeff Mills,A Tale from the Parallel Universe,2gKffHSIa7Rz4gqo7O5dDU,7,2017,detroit-techno,0.559,0.971,11,-7.106,1,0.039,2.88e-05,0.667,0.0609,0.547,122.813,288471,4
+Carl Craig,Twilight - Live In Paris,0hdMAIpAMrGp9Fxc5wBXj0,2,2007,detroit-techno,0.711,0.301,5,-13.825,0,0.0604,0.29,0.864,0.0733,0.505,81.141,435462,5
+Terrence Parker,I Love The Way U Hold Me - TP's Bangin' House Re-Edit,4M6IO6IFrQFm4bwhTrLxgI,9,2017,detroit-techno,0.699,0.894,1,-7.038,1,0.0493,0.00194,0.552,0.0363,0.865,122.048,363286,4
+Blake Baxter,Let's Take It Back - Radio Edit,7LAJeRM2YPzbHXPztjefQ0,0,2009,detroit-techno,0.772,0.675,5,-11.707,1,0.0446,0.082,0.809,0.0939,0.335,123.997,254691,4
+Kevin Saunderson,Cry For The Future - Extended Mix,3MReIyfFWFaDhmlaLdVWEQ,0,2017,detroit-techno,0.631,0.976,1,-6.893,1,0.0464,0.000211,0.935,0.0234,0.619,123.98,403763,4
+Ryan Crosson,Artists Have Bad Haircuts - Original Mix,01Zkmar2EZ4xf6tgij2Ddn,0,2009,detroit-techno,0.807,0.61,7,-14.208,1,0.159,0.000705,0.851,0.0972,0.379,126.004,354480,4
+Terrence Parker,Act A Fool - Original Mix,57ZfFjtd964aG2KZIUHHBc,0,2021,detroit-techno,0.881,0.58,6,-11.478,0,0.0625,0.0085,0.31,0.0716,0.773,118.846,391202,4
+Stacey Pullen,Feel It - Nice & Smoove Mix,2G47wxOVbsHVmi0ikiet2R,0,2021,detroit-techno,0.803,0.887,9,-7.372,1,0.0716,7.47e-05,0.817,0.0357,0.916,125.994,398023,4
+Dantiez,Monster - Ali Wood Remix,0kjTUgI2up6WaSJoUAPtRT,2,2014,detroit-techno,0.837,0.525,10,-11.196,0,0.078,0.00124,0.907,0.0889,0.343,125.031,386000,4
+Jay Denham,Dreams,4Xh1soNmIi9184oKmE5qXK,0,2021,detroit-techno,0.624,0.739,1,-9.282,1,0.0347,0.00197,0.807,0.305,0.303,133.006,442105,4
+Kevin Saunderson,Good Life - Pig & Dan Less Is More Extended Dub,45mlU8prSaed1zQ8nKBV2X,2,2013,detroit-techno,0.76,0.758,4,-9.726,0,0.0746,9.14e-05,0.924,0.0729,0.0976,125.995,527419,4
+D'Marc Cantu,068,05FaaWLBi7izzPD1TcFopj,0,2019,detroit-techno,0.64,0.666,1,-12.431,1,0.0479,0.000277,0.849,0.0975,0.046,117.993,436963,4
+Ataxia,Serves Madness,3vdrT0xq6g9VvyAGuxFlsi,0,2019,detroit-techno,0.802,0.715,8,-10.581,0,0.0757,1.6e-05,0.947,0.111,0.973,130.022,332930,4
+Drexciya,You Don't Know,5vPd4IfJFMFwSXjj3Jx9jI,17,2013,detroit-techno,0.79,0.591,10,-11.371,0,0.0517,8.18e-06,0.845,0.0789,0.309,129.145,354326,4
+DJ 3000,Get It - Chambray Remix,1aECdf2UTcdwqlPyxEKNRj,0,2017,detroit-techno,0.778,0.839,8,-7.449,1,0.118,0.00109,0.024,0.072,0.173,126.002,400467,4
+DJ 3000,Survivor,4aXElG7AMw8hliBNVFKLyO,0,2020,detroit-techno,0.805,0.936,2,-5.435,1,0.0404,4.21e-05,0.848,0.347,0.544,124.009,476120,4
+Orlando Voorn,Lost In Cycles,3x2w0Hkg027AkKH9lyMwVm,0,2020,detroit-techno,0.748,0.682,10,-11.257,0,0.0907,0.0184,0.808,0.117,0.502,136.001,396625,4
+Aux 88,Music is Your Medicine - Original Mix,53nesanGGqnqiukLlj7mYb,2,2013,detroit-techno,0.621,0.508,8,-10.415,1,0.0514,0.00428,0.459,0.136,0.772,124.014,420500,4
+Eddie Fowlkes,Wo Wo Booty,55oMOrB6gcjmEBrSz8XUEp,0,2020,detroit-techno,0.828,0.922,4,-9.09,1,0.0839,0.00207,0.917,0.109,0.375,128.013,390000,4
+Carl Craig,Televised Green Smoke,4E00IuWmJ7g1bCXxRI2xvT,0,2022,detroit-techno,0.708,0.448,0,-13.805,0,0.0561,0.00107,0.907,0.145,0.741,121.024,375893,4
+Aril Brikha,Winter,4ylCfT8BJtONvlFGER53NA,0,2019,detroit-techno,0.66,0.641,11,-12.733,0,0.046,0.0686,0.857,0.0871,0.831,130.997,452215,4
+Fabrice Lig,Do You Like Cookies - DJ Funk & DJ Amar Rough Remix,72kKr812SZ3EyrJ9NG5Tfn,0,2020,detroit-techno,0.76,0.75,1,-9.374,1,0.042,0.0515,0.908,0.0873,0.352,129.992,358356,4
+Kenny Larkin,Amethyst,0aoLrSGxBZxtAiuK3J03qq,7,2021,detroit-techno,0.534,0.358,0,-18.836,0,0.0417,0.459,0.77,0.112,0.346,134.041,476360,4
+Ryan Crosson,Spray Painted Flowers - Jorge Savoretti Remix,2kwWVbkark8MK7BGkgNfuI,0,2008,detroit-techno,0.793,0.535,7,-11.474,1,0.0866,0.000501,0.514,0.219,0.323,125.02,476103,4
+Omar S,Secrets,5omaUbSYZjiLZsCxn21Tcw,2,2019,detroit-techno,0.801,0.618,8,-12.338,0,0.0507,0.416,0.0996,0.11,0.833,135.174,136041,4
+DJ 3000,Day Dreaming,46Qc8Uem01mLk5qCZcl802,0,2009,detroit-techno,0.776,0.687,0,-9.137,1,0.0597,0.0533,0.756,0.34,0.837,129.001,163376,4
+Scan 7,Burdens Down - TP's Main Radio Edit,359WZx3bUWQhsN2VAQZNLg,0,2017,detroit-techno,0.752,0.867,3,-9.125,0,0.037,0.00129,0.0902,0.306,0.878,129.995,209815,4
+Orlando Voorn,Format Feelings - Original mix,49FYRPaMKFYxKz6uDdJNI2,0,2018,detroit-techno,0.724,0.935,7,-8.278,1,0.0738,0.00499,0.867,0.0911,0.147,123.852,534194,4
+Fabrice Lig,X-Slaves Who Changed the World - Eddie Niguel Re-Vision,3v3N7qyuigF1jYpVrBiomG,0,2007,detroit-techno,0.795,0.847,11,-8.062,1,0.0667,0.000728,0.725,0.0323,0.644,122.011,425375,4
+Orlando Voorn,Rush,7dZLCrRuxg27tQCb8Vq6IW,0,2018,detroit-techno,0.782,0.962,10,-8.708,0,0.0474,0.0365,0.906,0.102,0.844,135.988,388000,4
+Terrence Parker,Finally (feat. Reno Ka) - Terrence Parker Glorified Mix,3aPIFi9eCTwn4lxXSB88l9,0,2014,detroit-techno,0.727,0.757,6,-6.657,0,0.0371,0.00907,0.0609,0.133,0.969,121.988,461679,4
+LOS HERMANOS,Tres,1MjV9wpycOdU0AMuPHugUO,1,2009,detroit-techno,0.771,0.88,5,-12.617,1,0.039,0.00819,0.931,0.111,0.909,144.239,133027,4
+Scan 7,Thoughts,6CtYo9ZSVq7RXHst2xrPfz,0,2022,detroit-techno,0.909,0.447,7,-13.668,1,0.116,0.00327,0.621,0.115,0.587,130.031,473469,4
+Orlando Voorn,Energetic Bliss - Berry Mix,0oV0rH7QlgrwCk5fGZMfSJ,0,2019,detroit-techno,0.794,0.635,1,-11.936,1,0.0536,0.00368,0.875,0.11,0.351,129.993,379999,4
+Plastikman,Ethnik - Paco Osuna Remix,4t4jsF5zuBLiDXn7I3oKJY,1,2009,detroit-techno,0.722,0.734,11,-8.438,0,0.0484,2.32e-05,0.62,0.115,0.153,124.993,585600,4
+Surgeon,Anti Inferno,6EVe61KYcsB3eW11vUinrF,1,2005,detroit-techno,0.67,0.869,7,-6.012,1,0.043,0.000137,0.792,0.406,0.133,138.009,340760,4
+Drexciya,The Countdown Has Begun,3yDRmusu4Br0zzfdSzEGeH,7,2013,detroit-techno,0.766,0.98,11,-10.674,0,0.0518,0.00341,0.921,0.105,0.46,124.306,187196,4
+Robert Hood,Still Hear - Los Hermanos Remix,6rlonLg3grvvSaqdSKgtMA,1,2006,detroit-techno,0.767,0.864,11,-14.846,0,0.0771,0.000257,0.864,0.0777,0.564,135.987,409280,4
+LOS HERMANOS,My Mothers Guitarra,2qdJ4PwrrANS2glHW7ZHOy,0,2008,detroit-techno,0.782,0.772,4,-14.066,0,0.0455,0.0577,0.927,0.0835,0.756,131.761,239787,4
+Orlando Voorn,Angles - Lex Loofah's Confuzion Mix,4sDdpxttgl1OkIaBw4j94e,0,2010,detroit-techno,0.809,0.935,1,-6.81,1,0.0576,2.46e-05,0.922,0.0778,0.376,123.021,423133,4
+D'Marc Cantu,I Want to Ride,3vNsyz2SB9JJ2ONnF9UjWC,0,2011,detroit-techno,0.725,0.75,11,-9.479,0,0.0424,0.115,0.937,0.109,0.317,118.996,447898,4
+Robert Hood,Hectic,4c9gv8OPnZ1Y8KI7DfITw6,12,2022,detroit-techno,0.645,0.776,0,-9.866,1,0.034,0.00199,0.95,0.112,0.0514,133.993,381192,5
+Drexciya,Nautilus 12,6lxkSyeW0uTFTrIx4CkmrJ,5,2013,detroit-techno,0.659,0.929,4,-8.769,0,0.0833,0.00263,0.57,0.0918,0.402,137.132,168558,4
+Innerzone Orchestra,Bug In The Bassbin - Ben Vedren's Grasshopper Remix,19K7k5PxVMvW5cumrHZ4or,5,2012,detroit-techno,0.758,0.791,11,-9.018,0,0.0384,0.104,0.868,0.108,0.701,125.451,653000,3
+Terrence Parker,Selah Interlude,6vmN22EM4y5DiEynjT5LPL,0,2014,detroit-techno,0.53,0.58,4,-10.098,0,0.0291,0.0478,0.531,0.215,0.657,111.958,177082,4
+Robert Hood,Black Technician - UR Mad Mike Remix,7rLwtEqzJbJM0G1xJ1KpqW,2,2013,detroit-techno,0.799,0.408,1,-15.045,0,0.0677,0.00798,0.894,0.139,0.0335,121.986,422000,4
+Fabrice Lig,Scaraboogie - Exclusive 2021 Club Version,0G9LepNik6JwiugMKGNyZq,0,2007,detroit-techno,0.707,0.663,6,-5.812,0,0.0372,0.000822,0.78,0.0658,0.901,125.976,481750,4
+Jay Denham,Heaven Only Knows,0rsehze9JXA3vCr1HRkS10,0,2008,detroit-techno,0.609,0.935,0,-7.486,1,0.0464,4.47e-05,0.557,0.172,0.812,137.006,400427,4
+K-Hand,Messenger,24ypNRmxIsPzy4jzgbwrsz,1,2018,detroit-techno,0.664,0.486,4,-14.715,1,0.0488,0.0158,0.609,0.318,0.446,135.012,444267,4
+Kevin Saunderson,Good Life,7ujY3rsQDYlkyhAu4OhE3V,11,2016,detroit-techno,0.646,0.815,4,-7.717,0,0.0416,0.24,0.00457,0.127,0.786,126.005,182860,4
+Surgeon,Hunger,0XJWZCl0YjI745W7NwOriM,2,2000,detroit-techno,0.779,0.883,2,-12.659,1,0.0561,0.00843,0.866,0.106,0.146,133.998,280091,4
+Octave One,Nicolette - Original Mix,1gzXeIa3aazhGmgRdRRJvF,2,2008,detroit-techno,0.725,0.879,5,-7.687,0,0.0805,0.0278,0.927,0.0986,0.625,122.87,273893,4
+Surgeon,Rule by Law,7CwLLEUnISFGlN6B6PZjMq,2,2003,detroit-techno,0.691,0.945,1,-4.125,1,0.0357,0.00156,0.881,0.0475,0.149,134.02,455552,4
+Heartthrob,Confession,2d98nIGt865FQsz8TtHbQE,1,2008,detroit-techno,0.783,0.496,1,-13.616,1,0.0509,0.0701,0.86,0.0442,0.134,124.985,663348,4
+Drexciya,Song of the Green Whale,3WRniJSuxmXDboLzRjfxa7,11,2002,detroit-techno,0.756,0.583,4,-10.82,0,0.0564,0.0475,0.791,0.108,0.164,122.556,299707,4
+Inner City,Believe (AR287),2h10dUNHshyMYA4j0IJYpE,0,2019,detroit-techno,0.689,0.891,11,-8.135,0,0.0415,0.023,3.57e-05,0.119,0.712,124.979,153625,4
+Surgeon,"Don't Give Way to Fear, Pt. 1",0P31KUJ3xVqKCVJP6JrYmU,2,2003,detroit-techno,0.619,0.93,9,-5.313,1,0.0607,8.01e-05,0.916,0.101,0.327,134.0,488744,4
+Omar S,Confess to U - The Three Stooges of Hamtramck Mix,4nguM4nDTKWhOPijTHeJZb,2,2017,detroit-techno,0.86,0.478,10,-11.172,0,0.171,0.0192,0.692,0.0492,0.44,118.422,330118,4
+K-Hand,Everybody - Tommy Largo Remix,4AQ5tXQiMsgjrAY5zIzgEf,4,2018,detroit-techno,0.837,0.825,9,-8.161,1,0.0622,0.0186,0.867,0.0675,0.667,124.016,496090,4
+DJ 3000,Sensation,5RrPDcN6M5NX8fRp7rwqm3,0,2013,detroit-techno,0.803,0.574,6,-10.888,0,0.123,0.000296,0.921,0.135,0.0409,123.991,406439,4
+Psyche/BFC,Andromeda,3L3rLtP6bYBfuAiQnFQuUF,5,2013,detroit-techno,0.795,0.769,9,-8.371,0,0.0569,0.351,0.857,0.0473,0.799,126.978,303999,4
+Drexciya,700 Million Light Years from Earth,2puFk0s4cvgjtApDXgF6pg,10,2002,detroit-techno,0.696,0.444,0,-13.222,1,0.0465,4.35e-05,0.155,0.0481,0.771,125.094,314227,4
+Omar S,Outer Jass Authority,4O4mvc3gZvhep2kwQO0pdY,7,2022,detroit-techno,0.772,0.475,7,-11.986,1,0.0942,0.00786,0.73,0.0684,0.479,124.077,403880,4
+DJ 3000,Illyrian - Original Mix,14NSUf1mW9e4deClTd3mSr,0,2019,detroit-techno,0.798,0.988,0,-7.672,0,0.0435,0.115,0.892,0.0755,0.358,127.995,399604,4
+Fabrice Lig,Last Judgment,6snE3VspsQZ9enmzUxhvBw,0,2008,detroit-techno,0.655,0.97,6,-4.082,1,0.0596,0.225,0.866,0.11,0.913,131.87,396754,4
+Orlando Voorn,In Da Jungle - Chocolate Puma Miami Cut,5FWpNb8P7XX4kxXdtsTw1D,2,2018,detroit-techno,0.807,0.876,11,-3.431,1,0.0775,0.0077,0.719,0.0952,0.193,127.016,289357,4
+Dantiez,Climax - Extended Mix,0Cm15Kha9DbXAcqm8AVbJd,0,2019,detroit-techno,0.735,0.722,1,-7.356,1,0.0522,0.0154,0.0191,0.254,0.374,125.004,384497,4
+Ryan Crosson,Say So,5Cpj2Sgv6hpQrh5zam6Um1,0,2006,detroit-techno,0.802,0.868,10,-8.749,0,0.0572,0.000136,0.894,0.111,0.444,130.011,310820,4
+Aux 88,Dragon Fly,610QbLI6QIhiaxbTT7x8pE,0,2010,detroit-techno,0.814,0.912,9,-4.926,0,0.133,0.00742,0.848,0.578,0.329,130.004,349773,4
+Inner City,Back Together Again - Mark Taylor Urban Version,0tfSuiSU9KA6ic9mcflUIt,0,2022,detroit-techno,0.649,0.981,8,-5.555,1,0.0929,0.00647,0.000271,0.0321,0.632,120.146,231227,4
+Terrence Parker,Alarm the Sound - Tiefschwarz Remix,6izSM268qDc1oQJmgPrYdQ,0,2017,detroit-techno,0.723,0.707,11,-10.209,0,0.109,3.16e-05,0.366,0.107,0.609,123.979,346360,4
+Orlando Voorn,Never Knew - Orlando Voorn Remix,7cAfXP6Kqls1tCrcOFL0qb,0,2020,detroit-techno,0.723,0.671,6,-9.468,1,0.044,0.0204,0.75,0.0876,0.656,123.988,391628,4
+Orlando Voorn,Wiggle,3JFGmI9AXTkwT9lwVPIFFZ,0,2013,detroit-techno,0.61,0.894,6,-9.012,1,0.0374,0.000102,0.591,0.105,0.507,131.991,381899,4
+DJ 3000,Anjani,1bNY70VhHMaLVug7lulMbH,0,2014,detroit-techno,0.802,0.544,11,-9.55,0,0.0529,0.000816,0.908,0.0487,0.0616,126.004,401296,4
+Random Noise Generation,Refraction - Original Mix,4xHIBhuBAhdqGvu0ffUEOH,3,2018,detroit-techno,0.738,0.805,3,-12.087,0,0.0615,7.1e-06,0.929,0.0377,0.601,126.999,349080,4
+Carl Craig,At Les - Christian Smith's Tronic Treatment Remix,2CSFc9dcCi9k4UBViOUxw6,11,2010,detroit-techno,0.775,0.567,1,-9.848,1,0.0404,0.0293,0.905,0.109,0.276,126.01,581940,4
+Terrence Parker,Finally (feat. Reno Ka) - Louie Vega's Dance Ritual Mix,7CPGeKhhCyKM3cMjGZOvMI,12,2014,detroit-techno,0.851,0.571,11,-8.143,1,0.0425,0.00295,0.191,0.108,0.556,122.0,599999,4
+D'Marc Cantu,Shoot the fish,7LSufwlsBaziKe8oHI2iCa,0,2011,detroit-techno,0.733,0.957,11,-6.231,1,0.0464,2.16e-05,0.86,0.188,0.586,114.996,326250,4
+Robert Hood,Who Taught You Math,4Cg03GyW6gQTnsWYtHootS,4,2002,detroit-techno,0.799,0.547,5,-14.724,0,0.0717,0.109,0.917,0.0747,0.519,133.145,375400,4
+Inner City,Big Fun (Remastered) - E-Dancer Dub Mix,0RCxsLesq4R2jkALSFGpCE,0,2017,detroit-techno,0.631,0.952,6,-6.21,1,0.039,0.00134,0.797,0.0584,0.6,123.987,379355,4
+Terrence Parker,Nothing Holding Us Back,4cRL3GC7bNzPrnqGziVy5a,13,2023,detroit-techno,0.736,0.686,0,-5.403,1,0.0352,0.00352,0.00777,0.059,0.568,124.986,464678,4
+Heartthrob,Setting Up,5AkSy5qAO9OhHjUppZ2TEm,1,2010,detroit-techno,0.671,0.408,10,-12.898,0,0.0411,0.0162,0.933,0.11,0.226,124.985,461422,4
+K-Hand,Downinchicago,28HmSvOEqzMSq4RXULR6x0,0,2020,detroit-techno,0.866,0.756,10,-8.859,0,0.118,0.0102,0.848,0.0943,0.12,117.01,426558,4
+Robert Hood,Pneuma,0lO4bkv0LCXcalHyxXN3rm,2,2017,detroit-techno,0.662,0.634,6,-10.539,1,0.058,1.94e-05,0.879,0.0925,0.0395,126.013,402702,4
+Orlando Voorn,Proxima Centauri,4DltzTJtCl30QzlCik8jAW,0,2021,detroit-techno,0.771,0.973,1,-9.426,1,0.0451,9.15e-06,0.866,0.164,0.304,133.98,319589,4
+FIT Siegel,Tonite - DD Mix,6DK5uxVhSrGp2pBGX0VEVB,1,2012,detroit-techno,0.703,0.882,10,-7.676,0,0.0374,0.000333,0.705,0.109,0.569,119.971,401369,4
+Surgeon,Leadership Contest,2LWdAHrrnt3FeLg63jEicW,16,2023,detroit-techno,0.704,0.965,7,-9.531,1,0.0546,0.00268,0.81,0.109,0.0463,133.961,393883,4
+Orlando Voorn,Takadakadina - Original Mix,2D2BtK51zKaQHPITTiqOIC,0,2012,detroit-techno,0.807,0.803,8,-8.819,1,0.0349,0.000117,0.00608,0.244,0.473,119.988,370782,4
+Suburban Knight,Nocturbulous,72taBnra8GsROZDH4dHIZ8,19,2009,detroit-techno,0.565,0.885,2,-10.129,1,0.0644,0.000282,0.814,0.183,0.633,135.813,169933,4
+Derrick May,Drama,6X3i2cpXXxr0DgMM6CeVlf,6,2013,detroit-techno,0.786,0.917,1,-7.897,1,0.127,0.0101,0.853,0.152,0.688,131.02,265813,4
+Orlando Voorn,Monring Dawn - Hi-Tech Soul Mix,30eApMwV6yIEdo6mVanAjJ,0,2014,detroit-techno,0.639,0.607,6,-14.526,1,0.039,0.242,0.87,0.154,0.764,129.99,458260,3
+Omar S,Groove-On,5jfaoBYoeobNSMfb9FVeYq,1,2017,detroit-techno,0.771,0.558,2,-11.883,1,0.0763,9.08e-05,0.922,0.0782,0.575,120.142,361654,4
+Surgeon,The Primary Clear Light,5frmBEW0aDWXjtkgSRsNVq,13,2018,detroit-techno,0.737,0.776,1,-13.456,1,0.0554,0.0479,0.878,0.101,0.109,127.994,351050,4
+Orlando Voorn,Confidence - Makaja Gonzales Remix,5108AODRaLru7a5S5HBlf5,0,2018,detroit-techno,0.776,0.739,2,-9.327,1,0.141,0.00415,0.914,0.0673,0.0961,128.026,407017,4
+Derrick May,"Daymares, It Is What It Is",2zGwA60byxEWlt4FeVxwet,17,2013,detroit-techno,0.711,0.937,2,-7.809,1,0.0587,0.000287,0.945,0.121,0.966,127.059,397613,4
+Kevin Saunderson,Into The Future,5nlhgLnP6bzvZF70XoBvKx,11,2017,detroit-techno,0.636,0.959,1,-6.47,1,0.0396,0.000136,0.861,0.118,0.38,124.99,195840,4
+Drexciya,Powers of the Deep,1qlUkYNrsRjabmUnTRAE0n,10,2002,detroit-techno,0.782,0.327,6,-11.88,1,0.0895,8.62e-05,0.695,0.112,0.199,128.635,342133,4
+Terrence Parker,Finally - Louie Vega's Dance Ritual Mix,116Q9JGAN9gaRGQPFOI1YI,0,2013,detroit-techno,0.851,0.571,11,-8.143,1,0.0426,0.00296,0.2,0.108,0.556,121.998,599999,4
+Eddie Fowlkes,Something Special E,1I1nmDROL1lg3KQWWBB34m,3,2013,detroit-techno,0.803,0.654,7,-10.101,1,0.0636,0.00029,0.183,0.0435,0.619,121.024,432721,4
+Claude Young,Samba,4PNvhwthKyO4b355fLSvsK,1,2000,detroit-techno,0.672,0.977,2,-9.592,1,0.0479,4.63e-06,0.907,0.0583,0.513,134.997,329827,4
+Aril Brikha,More Restrained,2FWGtZjzkBeclzYk7Z2rGj,4,2020,detroit-techno,0.795,0.567,8,-15.406,0,0.0478,0.255,0.937,0.0836,0.144,128.993,397874,3
+Aux 88,Electro Planetary Acknowedgments Part 1,3bapOmcmyVw32segzpnO0L,3,2007,detroit-techno,0.556,0.718,3,-12.085,0,0.0651,0.00204,0.0119,0.114,0.2,199.996,352811,4
+Robert Hood,Idea,7IXjBgFRq9V3uVFPGKCU3P,7,2017,detroit-techno,0.794,0.788,6,-11.819,1,0.0601,0.00509,0.945,0.108,0.188,129.965,388835,4
+DJ 3000,Waiting in the Dark - Aux 88 Remix,6Wj2U0KFMuNGcrUysSY6RF,1,2022,detroit-techno,0.603,0.861,1,-4.855,1,0.04,0.000942,0.873,0.111,0.341,134.976,369787,4
+Underground Resistance,Toxic Broadcast,6JcdTZ63O5MN3FNxjsRiBO,7,2008,detroit-techno,0.761,0.434,1,-16.418,1,0.0487,0.0274,0.863,0.114,0.257,124.183,141720,4
+Scan 7,Thank You Lord - Original Mix,62lkqLkUalOvReg2uWncYc,0,2017,detroit-techno,0.754,0.685,1,-10.076,0,0.0783,0.000745,0.253,0.0963,0.666,126.037,381732,4
+Orlando Voorn,Artificial Intelligence - Herman Hertz Remix,6B6g5egsUYCYOXFREzgYph,0,2018,detroit-techno,0.735,0.735,1,-12.384,1,0.0485,0.000425,0.92,0.129,0.613,125.011,324480,4
+Derrick May,Feel Surreal Ends the Feel Surreal,6u8sdgLvXgDWWapRKOpm9O,14,2013,detroit-techno,0.64,0.376,8,-16.315,1,0.0533,0.00228,0.000398,0.101,0.692,126.366,59720,4
+Seth Troxler,Muse,7zw1ErjmEjeGd4PrOv4nA3,4,2008,detroit-techno,0.816,0.431,1,-14.81,1,0.0548,0.11,0.916,0.111,0.191,123.995,403092,4
+Surgeon,"Convenience Trap, Pt. 1",3T3W7T94TEZHsf0TaFIIKL,3,2017,detroit-techno,0.792,0.822,10,-11.28,0,0.0407,0.0109,0.963,0.117,0.607,130.045,359752,4
+Kevin Saunderson,Feel The Mood - Extended Mix,7zJtVQdbCCptkNaPn7xZCa,1,2017,detroit-techno,0.541,0.919,7,-6.967,1,0.0349,0.000179,0.89,0.089,0.725,123.988,374561,4
+K-Hand,Somebody,3SuxukwpYDhW3fxqPsfdYq,1,2020,detroit-techno,0.799,0.833,7,-6.186,1,0.0632,9.06e-05,0.852,0.048,0.479,135.548,285048,4
+Omar S,Nite's over Compton,5ID2ZOUHuSVlzli4JaFInn,13,2017,detroit-techno,0.807,0.348,0,-15.206,1,0.0798,0.484,0.946,0.132,0.13,115.99,416473,4
+DJ 3000,Escapia - Ambivalent Remix,6rEL9bj1Hvw18qEqvv4U0P,0,2018,detroit-techno,0.798,0.76,11,-10.571,0,0.066,0.007,0.912,0.122,0.111,129.007,454345,4
+Aux 88,Shadow Dancing - Original Mix,6iGUoh198iWLelhWuB40Vp,0,2010,detroit-techno,0.785,0.566,5,-8.252,0,0.149,0.000512,0.766,0.109,0.241,128.0,376875,4
+Model 500,Starlight - Deepchord Mix,6DibpXSjbTwBYNY0i7oG1h,15,2008,detroit-techno,0.684,0.478,6,-18.885,0,0.128,0.129,0.885,0.117,0.0386,118.94,734550,4
+Claude Young,Detroit By Night,4yx4bNZFjNZ71PUwNCYolQ,1,2005,detroit-techno,0.64,0.877,5,-14.896,0,0.044,0.563,0.818,0.0872,0.0863,124.996,410600,4
+Orlando Voorn,Hydro Tech,3sTxuOmHr0wxE3i6MOVJIr,0,2020,detroit-techno,0.79,0.477,7,-8.409,1,0.104,0.184,0.914,0.101,0.408,130.803,499366,4
+DJ 3000,Unfazed,5BNbVm8uO5zPe6iIRuFngp,0,2017,detroit-techno,0.795,0.846,1,-9.698,1,0.051,0.0589,0.875,0.102,0.534,128.996,336490,4
+Tres Demented,Brainfreeze - Len Faki Hardspace Mix,1fuyHUv2TohdBHniAO6Uoi,7,2019,detroit-techno,0.66,0.752,10,-8.644,0,0.0442,0.000208,0.852,0.147,0.138,127.005,408189,4
+DJ 3000,Hit the Floor,2OiSP3T7vJzPWUC2YOc5UZ,0,2013,detroit-techno,0.771,0.833,6,-8.561,1,0.0637,0.00297,0.873,0.124,0.291,123.994,354000,4
+Kevin Saunderson,Just Want Another Chance - John Tejada Remix,6frUmrBTIa82iDqP8j0XI6,5,2009,detroit-techno,0.808,0.615,3,-9.077,0,0.056,0.0135,0.903,0.107,0.631,126.011,401280,4
+Carl Craig,C-Beams Glitter,3546TOoOLTHy5p1xrlSNA7,9,2017,detroit-techno,0.516,0.431,0,-18.657,1,0.0698,0.00374,0.746,0.14,0.354,123.033,119363,5
+Fabrice Lig,Cosmic Beauty,2gXTfNVyYUJkVKv3bZCyDg,0,2018,detroit-techno,0.924,0.796,1,-7.26,1,0.155,0.0764,0.485,0.0583,0.76,99.989,303707,4
+Robert Hood,Superman,7pBuAlxr3Ixpg3uPfg5kZ3,0,2014,detroit-techno,0.731,0.979,11,-9.402,1,0.0558,0.00151,0.876,0.0969,0.556,138.788,444453,4
+Fabrice Lig,Mr. Wa,3n6zIPmzPJRh5B5FdjyMeX,0,2020,detroit-techno,0.817,0.699,4,-9.54,0,0.0535,0.00186,0.635,0.148,0.73,127.997,316537,4
+Model 500,No Ufo's - Moodymann Remix,7ITNAAdKmDFMqkNscS5LYx,6,2017,detroit-techno,0.852,0.826,5,-7.148,0,0.0745,0.0251,0.0465,0.149,0.508,123.014,484047,4
+Orlando Voorn,Angles - Vakama's Beal Fierste Mix,7FDvFJODXX6jTOt8elGXKL,0,2009,detroit-techno,0.345,0.922,11,-5.566,0,0.117,0.0161,0.849,0.0975,0.845,123.984,439520,4
+Jay Denham,Jackulate - Original Mix,6q1Tiw6FuEmjYpgKxJNcfL,0,2013,detroit-techno,0.623,0.573,1,-14.547,1,0.0509,0.00567,0.886,0.169,0.0359,126.006,413455,4
+Orlando Voorn,Dungeon 1 - Original Mix,6MmWtV4TwMu53Ln7ZfUHAx,0,2018,detroit-techno,0.788,0.913,10,-11.871,0,0.0685,0.522,0.915,0.109,0.217,131.016,360916,4
+DJ 3000,Pipas Poem,5pkezQT78LqEuotAIWlf6A,0,2006,detroit-techno,0.673,0.505,6,-9.063,0,0.0524,0.000146,0.919,0.0217,0.732,176.074,204243,4
+Scan 7,4 Types of People - Original Mix,754t0kbgyA4psL7YkDMWwq,1,2010,detroit-techno,0.801,0.811,5,-8.61,0,0.077,0.00717,0.000607,0.0705,0.864,128.014,311453,4
+Robert Hood,Protein Valve - Edit 2,1PpsNGDYxCVvbRsMe7t5VD,4,2014,detroit-techno,0.833,0.909,0,-8.907,1,0.0463,0.523,0.857,0.0735,0.214,132.057,367173,4
+Jay Denham,Faces - 2016 Remastered,1oKq2VRYy9efAUQ4yVtWyg,0,2000,detroit-techno,0.69,0.995,4,-5.44,0,0.0848,0.00318,0.931,0.133,0.0735,137.936,345000,4
+Derrick May,Phantom Lurks,5hbdtgKHy27J6bmsGTeehJ,4,2013,detroit-techno,0.715,0.646,6,-14.831,0,0.0509,0.0393,0.0345,0.139,0.758,130.563,72533,4
+Plastikman,Disconnect - Mix Cut,3BHYgfW4OYm3nzIROk10yz,3,2017,detroit-techno,0.653,0.469,11,-14.201,1,0.0347,0.0127,0.919,0.22,0.203,126.959,136053,4
+Cybotron,Threshold,6pU9arMMETKXhDmUzvixqx,20,2004,detroit-techno,0.618,0.943,1,-4.629,0,0.0569,0.000128,0.834,0.183,0.935,164.819,360200,4
+DJ 3000,Hajde - Original Mix,4wYpiyHLY0wTNyF95v2irM,0,2018,detroit-techno,0.801,0.901,2,-7.619,1,0.0508,0.00195,0.826,0.0791,0.0562,126.986,389291,4
+Aux 88,Voice Modulation,4IUASplpJkkUolBR5Yanq6,3,2009,detroit-techno,0.807,0.725,1,-8.164,1,0.0604,0.00045,0.77,0.0629,0.946,120.002,263961,4
+Surgeon,"Waiting for Me, Pt. 3",1a34nxNXfCrDeBOD10YtRb,0,2000,detroit-techno,0.723,0.781,7,-11.353,1,0.0654,4.29e-06,0.902,0.0948,0.483,134.021,300887,4
+Orlando Voorn,Paper Jam - Remix,0qWTATKKLavINiVOyqqFHO,0,2018,detroit-techno,0.946,0.451,10,-14.661,0,0.0569,0.00773,0.824,0.117,0.714,122.009,511475,4
+Orlando Voorn,Essence of House,2aLF42cSBtJONTIZFwsZDY,0,2014,detroit-techno,0.613,0.939,5,-9.406,0,0.0462,0.105,0.84,0.131,0.684,136.005,486869,4
+Orlando Voorn,Boomerang (Exclusive Download Only),7aMHvsDACQA57jQTE2CrBj,0,2019,detroit-techno,0.797,0.987,2,-7.006,1,0.0787,0.0456,0.865,0.088,0.548,133.08,528384,4
+Kevin Saunderson,Idyllic - Mixed,1l1DXcKct13p67vGoS0BEQ,0,2018,detroit-techno,0.649,0.852,11,-9.293,1,0.0449,0.000138,0.878,0.109,0.286,124.001,340641,4
+Orlando Voorn,Everyday Desires - Terry Francis Dirty Frog Remix,0SonchqyfE2UX7q6IRKZTC,0,2021,detroit-techno,0.771,0.765,1,-8.112,1,0.057,0.00383,0.849,0.128,0.775,121.002,447120,4
+Aril Brikha,Groove La Chord - Deetron Remix,5u0U246kRTmtQad4FVHBao,0,2017,detroit-techno,0.727,0.804,0,-10.164,0,0.0391,0.00955,0.0915,0.0848,0.344,126.059,487387,4
+Surgeon,Raw Trax 2,77Nt3UTdhRdUlnugadskf3,6,2019,detroit-techno,0.785,0.843,6,-5.383,1,0.209,0.00889,0.433,0.0969,0.364,133.976,374899,4
+DJ 3000,Without Fear,0J7sM9S0leH2JVDznM2Wfz,0,2020,detroit-techno,0.804,0.794,9,-13.047,0,0.0619,0.00149,0.779,0.0782,0.324,128.005,422578,4
+Omar S,Odawa,6lupw3PDn4xRuDSa638eBw,3,2018,detroit-techno,0.886,0.534,2,-13.449,1,0.0993,0.0172,0.925,0.0485,0.826,120.015,452510,4
+LOS HERMANOS,Resurrection,611sxAOfMhTPebcFGaDhvc,4,2005,detroit-techno,0.779,0.866,10,-16.447,0,0.0461,0.0539,0.908,0.0977,0.763,135.032,302480,4
+Robert Hood,Trade,7JLrkpQQpjHlKtEcV82xkl,1,2004,detroit-techno,0.767,0.617,6,-14.385,0,0.157,0.461,0.855,0.112,0.52,131.948,408840,4
+Theo Parrish,Original Weirdo,7l5IuwbttZ2aEg6Qg7IjFT,2,2022,detroit-techno,0.535,0.821,1,-8.86,1,0.096,0.000592,0.943,0.0816,0.548,135.652,411384,4
+Jay Denham,Drama Queen - Original Mix,57ikvvEIU4SiBTq8gvfAGI,0,2010,detroit-techno,0.688,0.613,2,-11.874,1,0.0718,0.000111,0.89,0.118,0.0575,128.006,319518,4
+Aril Brikha,Embrace,7uQWqkOCBkbI1MmtAAYVHD,13,2011,detroit-techno,0.794,0.678,4,-12.777,0,0.0842,0.0106,0.91,0.112,0.232,121.847,422347,4
+Galaxy 2 Galaxy,The Theory - Mind Mix,4FvP0Ldfhouzs0togmtO4E,13,2005,detroit-techno,0.301,0.818,6,-9.883,0,0.0381,0.104,0.901,0.226,0.62,119.787,149360,4
+Random Noise Generation,The Reckoning - Original Mix,7KQHorrXkIkCxkood6mMcX,0,2008,detroit-techno,0.699,0.943,1,-3.693,1,0.0383,0.00106,0.855,0.0883,0.345,128.901,363600,3
+Kenny Larkin,Siren,2FOqmoEuJkqpyKGssB8Hls,1,2008,detroit-techno,0.637,0.548,0,-13.659,1,0.0712,0.0177,0.626,0.0886,0.288,121.097,80440,4
+Suburban Knight,Predator's Language,3LU1Qd8HUuxZhElJUD63zS,2,2006,detroit-techno,0.532,0.791,1,-14.079,1,0.0379,0.19,0.801,0.0732,0.159,133.029,344213,4
+Terrence Parker,Unconditional,14DfB5sgPdbdY6gwr5MKqO,1,2017,detroit-techno,0.824,0.534,4,-8.847,0,0.0964,0.00328,0.676,0.125,0.376,120.008,439986,4
+Fabrice Lig,Deep Future - Past Interlude,07FrDVlQuOZtS48UBzStHp,0,2018,detroit-techno,0.913,0.349,11,-10.5,1,0.256,0.441,0.742,0.119,0.0831,120.024,48000,4
+Theo Parrish,It's Out of Your Control - Instrumental Dub,1Y8ihZf5NX7tAdAWB5CJ5e,0,2022,detroit-techno,0.694,0.648,4,-10.418,1,0.0444,0.00488,0.916,0.111,0.193,119.987,621711,4
+Omar S,In My City,28QCVfgv3VtRI6Ut1PNnvL,13,2020,detroit-techno,0.844,0.919,3,-4.771,0,0.047,0.00121,0.925,0.174,0.567,125.031,387481,4
+Aux 88,Pocket Radio,3NuMbzCmRDArWAqpCAfn6Z,2,2012,detroit-techno,0.697,0.676,1,-11.81,1,0.044,0.000183,0.875,0.354,0.393,120.088,152000,4
+Seth Troxler,Hurt - Martinez Dark Soul Remix,2YjlGvjLL6lQ7l48hEZKgl,1,2012,detroit-techno,0.884,0.7,8,-7.25,0,0.174,0.0084,0.832,0.082,0.203,120.986,668058,4
+Jay Denham,Reasons - 2016 Remastered,45c4OBZd1NByn4P93XI8aQ,0,2000,detroit-techno,0.757,0.978,1,-5.909,1,0.0737,0.0117,0.945,0.0904,0.0523,137.949,339250,4
+Inner City,Living In A Dream (ARNXT007),3c2HwPdZlpOvPoQEh81CYR,0,2020,detroit-techno,0.573,0.945,6,-7.103,1,0.0502,0.000336,0.000314,0.65,0.534,125.031,224527,4
+Omar S,1993,4tkzj544tGv4DwYfqflzw8,7,2020,detroit-techno,0.796,0.468,1,-12.553,1,0.0597,0.00113,0.884,0.0884,0.124,127.988,443873,4
+Aril Brikha,Tundra - Original Mix,18QDw3hCsKrkPDyTme2kEJ,3,2011,detroit-techno,0.749,0.862,5,-11.073,0,0.0476,0.0206,0.912,0.0312,0.896,125.995,406000,4
+K-Hand,Party Time,0oMzZAJ9uJjjiwoUfuyKe7,2,2019,detroit-techno,0.975,0.426,9,-9.465,0,0.0632,0.0639,0.0373,0.257,0.541,126.98,309680,4
+Orlando Voorn,One Day,4MgvNsHZfM7s6LmGDQjBFc,2,2019,detroit-techno,0.853,0.894,1,-6.756,1,0.0852,8.34e-05,0.456,0.0435,0.392,117.005,377556,4
+ONYVAA,Toro - Mattia Trani mix,1Nt8xmxEtw8DgYP5R2nNRV,3,2020,detroit-techno,0.717,0.741,6,-6.294,1,0.0462,0.000124,0.728,0.101,0.556,134.002,360826,3
+Sean Deason,Confusion,18zsTQnSmhdDieyLsemVET,0,2008,detroit-techno,0.686,0.536,0,-19.3,1,0.155,0.00869,0.928,0.0996,0.234,125.566,439787,4
+ONYVAA,LXD,6SfCtdWm1Hi1ZUGzM8s2DJ,17,2021,detroit-techno,0.575,0.844,7,-7.849,1,0.0506,8.78e-05,0.92,0.0958,0.4,139.982,337004,4
+Ataxia,The Formulator,0o327w90Yoh271GjfYKLzU,0,2022,detroit-techno,0.644,0.703,0,-11.428,1,0.0463,0.00697,0.896,0.132,0.265,130.022,346493,4
+Inner City,Whatcha Gonna Do With My Lovin' - Master Reese Meltdown Mix,43NZztWu45qb7odH5NSuCB,0,2022,detroit-techno,0.722,0.622,6,-15.484,0,0.0769,0.0108,0.313,0.151,0.694,104.906,304400,4
+Robert Hood,Shadows,1fjEqgLOazxk7zM6cgVwFU,8,2021,detroit-techno,0.621,0.861,1,-9.576,1,0.0439,0.000182,0.9,0.113,0.484,127.925,322360,4
+Omar S,Aaayoooooo,0JfBHNZVWZaS7O131eYV7L,10,2022,detroit-techno,0.837,0.823,4,-9.997,0,0.0657,0.00322,0.926,0.0689,0.292,128.0,312867,4
+D'Marc Cantu,Transmogrification,5IlqxJWEPj3Uuh0R53Zdv3,0,2011,detroit-techno,0.696,0.855,11,-7.881,1,0.0455,0.000284,0.927,0.104,0.543,127.009,340103,4
+Omar S,Boot Hill,09vWnptvyejSTjG1RNTH5O,1,2017,detroit-techno,0.831,0.584,11,-9.672,0,0.0741,0.191,0.000862,0.133,0.978,113.526,78655,4
+DJ 3000,Grote Gracht Guitar,64sTWt4R60HeUCxAil0SkT,0,2010,detroit-techno,0.835,0.666,7,-5.477,1,0.046,0.262,0.878,0.092,0.387,115.005,262720,4
+Orlando Voorn,Ride The Wave,50FhcZbavoYGt7cXRs3Px0,0,2021,detroit-techno,0.618,0.793,5,-13.266,0,0.035,0.125,0.885,0.0972,0.674,142.004,352554,4
+Terrence Parker,Token - Original R&b Vocal Mix,6EwbvUGrY1xVf31eXi5Nx2,0,2020,detroit-techno,0.876,0.474,0,-8.952,0,0.0591,0.117,2.96e-05,0.106,0.74,110.004,211639,4
+Drexciya,Sighting in the Abyss,6onTu7GF3SssaAbRAnIP4L,25,2013,detroit-techno,0.671,0.901,1,-8.675,1,0.057,0.0313,0.0413,0.14,0.962,124.289,127410,4
+Terrence Parker,Gift of Goodbye - Sebastian Phillip & Jakob Ryther Remix,277lomNpviOixlnL4pxfDl,0,2013,detroit-techno,0.876,0.51,11,-14.703,0,0.158,0.00502,0.777,0.103,0.173,123.002,444886,4
+Ryan Crosson,Hopskotch - Bruno Pronsato Rmx,5RCNRxoFiFOTw8DvLMrMVF,0,2007,detroit-techno,0.784,0.392,10,-8.275,0,0.148,0.142,0.887,0.0808,0.239,124.037,333600,4
+Ryan Crosson,Head Above Water - Mixed,3wOneiAjgvGX9y3W2MG0TC,2,2013,detroit-techno,0.799,0.629,10,-10.728,0,0.0523,0.0168,0.445,0.176,0.36,121.662,405427,4
+Orlando Voorn,Spread My Wings - Topology Eleonora's Falcon Tribal Remix,3icaNtpG87iI9DtcrDYgEz,0,2020,detroit-techno,0.732,0.37,9,-17.917,1,0.0471,0.0376,0.881,0.0959,0.226,123.994,311936,4
+Drexciya,Digital Tsunami,18BFlr6gE1AdhM94iLKdjE,21,2002,detroit-techno,0.75,0.667,6,-10.493,0,0.0503,3.64e-05,0.858,0.124,0.174,147.433,382133,4
+Terrence Parker,Open Up Your Spirit (feat. Merachka) - TP's Deeep Detroit Heat Remix,1q93c8BiOYZhOQh4wXJboi,0,2014,detroit-techno,0.764,0.668,1,-7.515,0,0.0677,0.0417,0.126,0.231,0.941,119.983,483788,4
+ONYVAA,Lucid,3MrfPG6AI0KagNOvRSFvfQ,25,2021,detroit-techno,0.664,0.906,9,-8.509,0,0.0737,0.000366,0.902,0.126,0.0765,138.017,364273,4
+Surgeon,"Bland Ambition, Pt. 1",7Bl9QvZkpLTznjPgPOleJV,1,2016,detroit-techno,0.59,0.87,11,-9.488,0,0.109,0.00607,0.912,0.324,0.0289,130.015,386251,4
+Fabrice Lig,No Judgment - Laurent Maldo & Jules Wells Remix,2ekhMcQGZpeTxSvyUWt16l,0,2014,detroit-techno,0.699,0.918,9,-7.255,0,0.0393,0.00194,0.52,0.077,0.744,125.991,383588,4
+Aux 88,Clones,7GDpzsyHLv6NVJ9tC528qz,5,2007,detroit-techno,0.444,0.799,7,-10.938,1,0.0722,4.11e-05,0.695,0.0235,0.197,179.792,357409,5
+Fabrice Lig,Healing,5WXTZZlqzFCD7zeR5Z91kb,0,2022,detroit-techno,0.8,0.643,1,-9.068,1,0.172,0.0917,0.00201,0.0615,0.772,126.96,264787,4
+Model 500,Starlight - Echospace Unreleased Mix,0EgviF3SRYuARt8IwCMWMo,26,2008,detroit-techno,0.703,0.576,10,-14.954,0,0.0428,0.00025,0.829,0.11,0.617,125.019,429943,4
+DJ 3000,Bukurosh Maleso - Deviant Remix,3tNNvAwSGDoo7DMkavmCl2,0,2012,detroit-techno,0.741,0.613,11,-12.904,0,0.0497,0.000468,0.556,0.0835,0.0389,127.012,415748,4
+Basic Bastard,Cycle Funk - Original Mix,0gzcnMKKbQmRh6h1QqQlSu,0,2016,detroit-techno,0.728,0.767,5,-8.96,0,0.0406,0.00591,0.792,0.111,0.962,129.281,311350,4
+Blake Baxter,Tenth Planet - Kevin Saunderson Reese You No Remix,4HQWgdbQJvl7J6zWFAaC7t,5,2019,detroit-techno,0.735,0.908,3,-8.156,0,0.0576,0.00114,0.821,0.124,0.666,126.009,200802,4
+DJ 3000,Waiting in the Dark,6cBw8SvphvvMTSuldRxSbc,0,2022,detroit-techno,0.771,0.314,10,-4.613,1,0.0581,0.000804,0.894,0.0742,0.558,134.018,375733,4
+Inner City,Believe - Kevin & Dantiez Groove Dub Mix,4QktlNXAWmyputAK7JLJDJ,0,2019,detroit-techno,0.768,0.961,0,-7.541,1,0.0555,0.0011,0.852,0.0711,0.358,125.0,354562,4
+Ryan Crosson,Bogart's Corner,3qaYtLvUmgUoK78rJft6jI,0,2016,detroit-techno,0.808,0.658,1,-10.807,1,0.0694,0.000113,0.912,0.0806,0.699,128.0,435526,4
+Robert Hood,The Workers of Iniquity,3rhif3EfYBgn3ArPrOxSPV,1,2010,detroit-techno,0.796,0.477,7,-11.697,1,0.0607,0.0987,0.935,0.0841,0.315,122.041,380867,4
+Omar S,Ganymede,22XHNVrxwhNBsbFam4b2k3,4,2017,detroit-techno,0.806,0.679,1,-11.858,1,0.0613,0.00356,0.87,0.0924,0.0357,122.651,474140,4
+Omar S,S.E.X - A.O.L Remix,6H5Wa3UJs0NSyEgmwMtWrY,5,2017,detroit-techno,0.776,0.63,6,-7.838,1,0.047,0.015,0.873,0.0549,0.962,120.993,368921,4
+Cybotron,Clear,05WyQh1zs6qsqtS1y89qh7,1,2021,detroit-techno,0.802,0.637,11,-13.008,0,0.0624,0.000231,0.831,0.587,0.336,125.284,294533,4
+Orlando Voorn,Meditation 4 All - Alexander Kowalski Remix,6WfagNt9LBgCLS8PXyEwtZ,0,2021,detroit-techno,0.56,0.541,2,-12.786,0,0.04,0.0883,0.918,0.111,0.107,127.982,559334,4
+Orlando Voorn,Give me What I Need - Original Mix,07yZtebHmPNzDXiI0BSr4p,0,2014,detroit-techno,0.864,0.475,1,-11.141,1,0.117,0.0799,0.917,0.131,0.157,125.012,519732,4
+Orlando Voorn,No Fear - A.Paul Remix,3vmhxCoGNOHQWEsHxj2yoN,0,2012,detroit-techno,0.864,0.638,5,-11.652,1,0.0746,0.219,0.814,0.111,0.0233,127.004,302362,4
+Eddie Fowlkes,Deep Groove,1EClvkTqTBX6MsdFWo9zSQ,0,2021,detroit-techno,0.948,0.462,1,-16.023,1,0.188,0.00562,0.416,0.0973,0.145,123.989,375560,4
+Robert Hood,Ignite A War,4kk3Y5mlIGIX8sQBLEUyxn,7,2020,detroit-techno,0.769,0.613,11,-8.605,0,0.0355,0.00021,0.936,0.151,0.87,130.97,398897,4
+Jay Daniel,Brainz,3esANbVw7d4WmMyQVfEbxC,1,2013,detroit-techno,0.805,0.819,1,-10.384,1,0.0774,0.000561,0.92,0.0996,0.658,122.974,238985,4
+Orlando Voorn,Feelings,3Pc9kdNtFXAOLAzPYwdXCF,1,2018,detroit-techno,0.781,0.856,7,-7.942,1,0.0883,0.00172,0.804,0.116,0.361,124.08,476642,4
+Theo Parrish,Evidence Of The Fifth Green Foot - Long,45widsiUmyfH9XLK7seWTG,9,2019,detroit-techno,0.837,0.423,6,-17.646,1,0.0837,0.000432,0.922,0.131,0.29,114.697,678827,4
+Inner City,Good Life (Remastered) - Dub Mix,0ozXhfC003hRqEvNkhSATf,11,2017,detroit-techno,0.72,0.956,4,-4.283,0,0.0516,0.000467,0.678,0.0381,0.616,122.989,364878,4
+Dantiez,Nemesis,3rzkFqkXNEZxhcTZon9nXY,0,2022,detroit-techno,0.714,0.877,11,-6.966,0,0.0652,0.00115,0.886,0.0939,0.3,123.987,356129,4
+Orlando Voorn,Das Minimal Fonk - Carmelo Carone Mix,455ILYgSxC42L0bNbIuUx3,0,2011,detroit-techno,0.589,0.823,10,-9.551,0,0.0509,0.0269,0.767,0.0925,0.55,123.005,452683,4
+Stacey Pullen,Circus Act - SP Retool ReRemix,3tsbo8AoTTJCcKZmx7NSg8,0,2021,detroit-techno,0.701,0.885,1,-6.705,1,0.0484,3e-05,0.415,0.106,0.197,123.967,418996,4
+Population One,March On,49wDStnOBp2r5S0deg2ECN,0,2012,detroit-techno,0.891,0.324,8,-14.727,0,0.212,0.611,0.911,0.111,0.401,119.805,341733,4
+Omar S,Amalthea,3jpbqXO1oUxEZfEpS5CgjD,11,2017,detroit-techno,0.803,0.871,0,-5.464,1,0.0645,0.00283,0.732,0.269,0.571,121.001,441574,4
+DJ 3000,Yahia,3bgM0KL9O3lcFYD1GwyUR2,0,2014,detroit-techno,0.803,0.773,7,-10.56,1,0.064,0.000165,0.943,0.0632,0.131,122.983,440987,4
+Omar S,Over You Too,0pPXrVCVqtPNxo8XUqHDKN,3,2017,detroit-techno,0.813,0.411,4,-15.035,0,0.119,0.00369,0.913,0.0585,0.534,120.01,687895,4
+K-Hand,Beyond The Sun,0q463MQybOQgZBqcG2X1kx,0,2020,detroit-techno,0.732,0.913,7,-9.735,1,0.0553,0.00805,0.929,0.135,0.759,136.003,326966,4
+Sean Deason,Absolution,5PYLWRBsuUoWsEMto7k5kC,0,2008,detroit-techno,0.695,0.919,1,-9.405,1,0.0409,0.00491,0.863,0.0973,0.898,124.161,483307,4
+Aril Brikha,To Begin,1YpTi3hqddd0nND662gCfZ,0,2007,detroit-techno,0.787,0.905,11,-10.843,0,0.0548,0.161,0.911,0.0779,0.766,129.0,449329,4
+Kevin Saunderson,Pump The Move - Tomio Uedas Floored Extended Remix,1sSU7ZcS7CsxLOLyRQ2Pz0,1,2014,detroit-techno,0.619,0.842,11,-8.769,0,0.0537,4.57e-05,0.898,0.056,0.521,127.961,409431,4
+Fabrice Lig,The Power of a City - Club Version-2021 remastered,3vRNeX1YyN7yZTSzttr617,0,2007,detroit-techno,0.703,0.767,0,-8.17,1,0.0904,0.000937,0.0421,0.0451,0.784,132.022,512493,4
+Carl Craig,Science Fiction,5ldHYQGsx6PV1ZpliYUBV1,5,2007,detroit-techno,0.32,0.855,5,-10.483,0,0.0539,1.55e-06,0.898,0.351,0.31,173.315,339973,5
+Population One,Out Of Control,5IRTFP31a4mVW1zImRDuMu,3,2014,detroit-techno,0.927,0.55,1,-13.551,1,0.092,0.000267,0.675,0.0985,0.104,121.984,309685,4
+K-Hand,Good Love - Dub Mix,0D0taHp2sufch0xS7LsusK,0,2020,detroit-techno,0.551,0.89,9,-6.695,0,0.0882,0.0628,0.809,0.112,0.53,125.048,301719,4
+Robert Hood,Fiber,31srFysD4RsK9Br1ZenkZE,4,2022,detroit-techno,0.802,0.884,10,-10.392,0,0.0536,0.00144,0.772,0.13,0.441,135.375,255422,4
+Sean Deason,Grüv,2A50AAkqoXruvwVmeeW5Dx,0,2013,detroit-techno,0.811,0.403,11,-17.207,0,0.0604,0.000564,0.926,0.112,0.208,119.996,266000,4
+Theo Parrish,Satisfunktion,2Iodf5RsmUXXxPEbngMv4L,0,2007,detroit-techno,0.867,0.26,7,-20.79,1,0.202,0.373,0.716,0.149,0.39,93.701,297693,4
+Aux 88,Groove Theory,2jsb4eLBmGvO5VQnrCYu6l,0,2010,detroit-techno,0.783,0.756,7,-9.855,1,0.0593,0.000124,0.885,0.108,0.122,132.994,318440,4
+FIT Siegel,Tonite - OG Mix,2IJog673EmkVd8IXF8OHYl,10,2012,detroit-techno,0.797,0.928,3,-4.749,0,0.0585,0.0924,0.00463,0.091,0.916,119.997,398519,4
+Population One,All Of A Sudden,3F8svt82vKiE6MClIi2g6v,0,2014,detroit-techno,0.648,0.709,10,-17.663,0,0.0348,0.456,0.952,0.128,0.396,126.013,434310,1
+Kevin Saunderson,Good Life - Con Natrual Extended Remix,6ceR1Xyd17HHHQcutfKuk2,0,2013,detroit-techno,0.513,0.981,4,-5.246,0,0.0729,0.000197,0.775,0.458,0.608,174.987,335314,4
+Omar S,Nikademas,7DbHv3jC6fmF3EJb8azLA5,0,2017,detroit-techno,0.828,0.984,2,-12.943,1,0.0364,0.0706,0.943,0.0467,0.793,125.983,280224,4
+Terrence Parker,The Promise - Club,1pYfSjGIgHdx2Fu3Tqw2Iz,1,2020,detroit-techno,0.727,0.735,0,-6.778,1,0.0407,0.0415,0.00118,0.0391,0.626,124.968,498045,4
+Omar S,Faahhuuuuuu,4uV9USfmqajW54qCbFbc6F,2,2017,detroit-techno,0.808,0.648,1,-11.196,0,0.055,0.0129,0.869,0.592,0.703,119.591,281842,4
+Orlando Voorn,Freak of My Desire,4pmyq9pOQxHrXwkrYIQl95,0,2021,detroit-techno,0.8,0.47,4,-10.495,0,0.0549,0.0991,0.907,0.146,0.69,118.99,403153,4
+Inner City,Good Life - Pig & Dan Less Is More Remix,2WZsySMYLh617XMe9am04E,0,2017,detroit-techno,0.649,0.865,11,-8.754,0,0.0681,6.48e-05,0.894,0.117,0.119,126.014,190910,4
+Basic Bastard,Cruising,1Sqkn17B8zJkXbR5WT0btC,0,2019,detroit-techno,0.663,0.988,8,-8.165,0,0.0458,0.314,0.851,0.083,0.969,135.319,355353,4
+Kevin Saunderson,Cry For The Future,31BsjdSQfZBKiBtQUvyYTj,0,2017,detroit-techno,0.524,0.989,1,-6.352,1,0.0472,0.000433,0.924,0.0857,0.607,124.004,205168,3
+Eric Cloutier,Sciamachy - Original MIx,6eOVStgPvb454AuaUDKqe8,0,2021,detroit-techno,0.57,0.662,7,-14.119,1,0.0497,0.000149,0.925,0.0796,0.0375,126.983,384589,4
+Carl Craig,Domina - Benedikt Frey The Game Remix,1vhRSuxNyUxKIzWDFQ37ly,1,2018,detroit-techno,0.619,0.711,10,-10.282,0,0.0373,9.42e-05,0.839,0.103,0.366,126.99,356464,4
+Stacey Pullen,Any Which Way - Martin Buttrich Green Mix,1Hq01m1jCGnkmYkG0Eu3IR,0,2013,detroit-techno,0.805,0.533,1,-14.666,0,0.0594,0.0161,0.848,0.107,0.247,127.009,515714,4
+John Norman,313 - Greg Gow Instrumental Extended Rework,2doVHQRonLmG8xFyuw9etw,0,2014,detroit-techno,0.832,0.714,2,-6.386,1,0.0589,0.000287,0.95,0.0574,0.0844,124.987,403960,4
+Surgeon,Waiiting for Me,0hKHKHyOFXJzKo8S09M6Sg,1,2002,detroit-techno,0.625,0.669,2,-20.23,1,0.0435,0.000845,0.859,0.922,0.357,137.872,222493,4
+Octave One,Cosmic Surf - Original Mix,5fiBbaWy4D67NIEAZYuQmE,2,2008,detroit-techno,0.704,0.932,1,-7.909,1,0.0979,0.0288,0.788,0.192,0.411,133.307,301022,4
+Orlando Voorn,The Beholder - Marco Bernardi's Respect is Due Instrumental,7zSB3LOD6oqZLieJMxAQXl,0,2012,detroit-techno,0.64,0.915,8,-10.008,1,0.0565,0.221,0.71,0.106,0.782,127.052,347000,4
+Drexciya,Lardossen Funk,09a0g18Z1CTgr8HdcJ4W8W,11,2011,detroit-techno,0.803,0.88,1,-11.034,1,0.0685,6.02e-06,0.588,0.0463,0.359,129.923,236439,4
+Carl Craig,One Day Soon,0pB5EgL12C0wED7uBNw0LJ,3,2007,detroit-techno,0.541,0.935,8,-11.169,1,0.0488,0.000504,0.918,0.0796,0.773,150.068,393493,4
+Orlando Voorn,Amen,2nNxIBfotcKbgy03c8AsZl,0,2022,detroit-techno,0.687,0.702,4,-10.544,0,0.032,0.199,0.872,0.113,0.481,130.989,472773,4
+Juan Atkins,Zeolites,4ZRp27MqMiwUaDxVByZeNC,14,2016,detroit-techno,0.8,0.325,1,-20.344,1,0.063,0.175,0.913,0.108,0.51,126.966,630506,4
+Aril Brikha,Dissorganised,6Nv5OXFLPxaDQNTaBZORr3,0,2003,detroit-techno,0.687,0.759,10,-14.85,0,0.0468,0.00931,0.926,0.114,0.841,129.953,470333,4
+Orlando Voorn,High,11OX5WU4YHinf8Dk0mK1p3,14,2023,detroit-techno,0.723,0.729,0,-6.649,1,0.0378,0.000252,0.195,0.16,0.55,126.996,379012,4
+Carl Craig,Experimento,7ajLfcSYLAJV1pLP23joT5,1,2007,detroit-techno,0.355,0.614,1,-17.766,1,0.0731,0.0278,0.924,0.11,0.0473,160.132,403500,5
+Random Noise Generation,Human NT - Original Mix,4JYzCTFu6EiA3ANcHOY8an,1,2008,detroit-techno,0.759,0.735,10,-8.95,0,0.0496,0.00088,0.483,0.0927,0.411,132.715,334720,4
+Robert Hood,Minus: Alive,1wRzcIQGqfPz8rKhAdgyhc,1,2011,detroit-techno,0.695,0.843,6,-9.07,0,0.0437,0.00036,0.812,0.0979,0.0397,129.059,379122,3
+Orlando Voorn,Artificial Intelligence - Sigh Remix,5TkOA380PiJ8qwEYT6lOxP,0,2018,detroit-techno,0.608,0.937,10,-7.752,0,0.0699,0.00736,0.774,0.254,0.683,170.011,282410,4
+Omar S,A Victim,5Q5NpEbmmqgp9WWebLQKhD,6,2017,detroit-techno,0.814,0.572,7,-8.908,0,0.154,0.000751,0.93,0.134,0.485,124.01,240987,4
+K-Hand,In Yer Third Ear 2013 Coniston Slate,6C92lgEhWHek7HUZw99nat,0,2013,detroit-techno,0.468,0.663,1,-10.363,0,0.0672,0.00813,0.719,0.244,0.23,120.316,4342350,4
+FIT Siegel,Track 911,5d6m1fBUeSpm6Y1ECW43f0,0,2020,detroit-techno,0.741,0.614,7,-16.136,1,0.0807,0.000434,0.835,0.0424,0.449,123.843,342503,4
+Aril Brikha,Forever Frost - Original Mix,42GYDnVDNUAa4q1KT6Ge0m,18,2011,detroit-techno,0.736,0.594,10,-11.75,0,0.16,0.0803,0.924,0.0994,0.759,126.001,482000,4
+DJ 3000,Emotional Sequence - DJ Compufunk Remix,34T53LnZJqy1xxGnhuHcfR,0,2010,detroit-techno,0.722,0.868,10,-10.261,0,0.0573,0.00154,0.943,0.145,0.442,130.012,321947,4
+Robert Hood,Towns that Disappeared Completely,6BxUCXtBuWckhomv209sy5,2,2010,detroit-techno,0.793,0.735,0,-11.597,1,0.0931,0.00251,0.743,0.0944,0.056,123.039,465333,4
+Orlando Voorn,"Handjes in de lucht (Hands in the air) - 7"" Inch Vocal Mix",6WRAZU1El7erWmPb0cvoSZ,0,2022,detroit-techno,0.816,0.642,5,-7.152,0,0.084,0.0191,0.000509,0.0897,0.549,130.988,191656,4
+Robert Hood,Low Life,1MBHNJsI9KV84lxaV5bhVl,21,2018,detroit-techno,0.734,0.636,9,-10.498,0,0.0754,0.123,0.821,0.109,0.141,126.989,334959,4
+Sean Deason,Interlude,4sJhHqLQz9oQQsEOD3xt9d,0,2000,detroit-techno,0.544,0.269,10,-19.085,0,0.0332,0.132,0.801,0.112,0.274,99.965,127840,4
+Orlando Voorn,Marching Through the Underground,1CAOGKaZbWyyt6w6Vhfqk9,0,2020,detroit-techno,0.777,0.874,1,-8.64,1,0.0908,0.00814,0.815,0.494,0.85,133.994,472000,4
+Model 500,OFI - Synkro's Slow Jam Mix,5Ljd71V06NijTB3u4dFvho,0,2012,detroit-techno,0.838,0.663,6,-6.589,0,0.123,0.00566,0.0504,0.0825,0.746,133.929,251295,4
+Aux 88,Sharivari 2013 - Aux 88 Mad Scientist Festival DJ Mix,3tauRfoZi48CcvqUabWIXD,0,2013,detroit-techno,0.793,0.716,7,-13.289,1,0.0423,0.00198,0.283,0.349,0.441,135.02,350993,4
+Kevin Saunderson,Good Life - The Beat Thiefs Extended Remix,45u2ujxLLQPSfF0sJXfX6C,1,2013,detroit-techno,0.769,0.935,0,-3.716,1,0.0657,0.000158,0.512,0.0605,0.636,127.98,390352,4
+Omar S,Ain't No Real Pimp's Any'mo,6zJAzZMNvLW3M6JHuqhtdu,4,2021,detroit-techno,0.584,0.528,11,-11.471,0,0.147,0.000248,0.026,0.0755,0.344,80.573,261828,4
+DJ 3000,Just Work It - Original Mix,3bjZQ4LdphZlQTgIyH1Wz6,1,2017,detroit-techno,0.8,0.576,2,-10.702,1,0.096,0.00054,0.916,0.105,0.698,128.013,331581,4
+Theo Parrish,Imaginary Thug Funk,28ZOMLVshBBTWamWtwvinb,2,2022,detroit-techno,0.773,0.789,1,-10.965,1,0.0435,0.00341,0.868,0.0592,0.639,119.981,315600,4
+Scan 7,All for Me,4vNHqV8xnGcJtKRNkTAraf,1,2020,detroit-techno,0.776,0.688,8,-7.598,1,0.112,0.00176,0.847,0.123,0.793,121.989,356175,4
+Aux 88,Dont Bite My Beats,5fKKzj3nJW9Q9PxmVdl7LZ,2,2007,detroit-techno,0.859,0.368,8,-12.9,1,0.172,0.000488,0.411,0.0334,0.666,140.005,235882,4
+Orlando Voorn,Tribulations,21X2zH8qCIt3lLRXeQsWOK,0,2016,detroit-techno,0.793,0.793,8,-7.228,0,0.0518,0.000287,0.801,0.0799,0.692,132.982,411814,4
+Robert Hood,Hall of Mirrors - Mixed,6Xkqo4VqGMVNlfM2NwLMO5,3,2018,detroit-techno,0.746,0.757,1,-10.072,0,0.0481,0.000934,0.894,0.158,0.186,130.619,196573,4
+Kevin Saunderson,Velocity Funk,0jhYjgDEsxdKZ5Uta6TwlD,5,2017,detroit-techno,0.582,0.966,9,-3.635,0,0.0396,4.9e-06,0.921,0.0837,0.117,126.03,205829,4
+Fabrice Lig,Last Eden,0untknFGJZ2ZnKgpI4gwh4,0,2001,detroit-techno,0.827,0.586,0,-7.946,1,0.069,0.01,0.795,0.0581,0.658,134.868,416640,4
+Orlando Voorn,Waters Run Deep - Instrumental,7eKt07wK2pX1fuiyoGtbJj,0,2021,detroit-techno,0.756,0.68,9,-11.693,0,0.0485,0.107,0.939,0.0882,0.488,123.994,428989,4
+Jay Daniel,Cherry,0dYUNRvnyXi0gdC5NJCV8A,9,2020,detroit-techno,0.818,0.806,10,-7.202,0,0.155,0.0327,0.839,0.0445,0.636,127.945,294731,4
+Fanon Flowers,Intercosmic Space 2,5DOzqttRMmfTI8hpBq28k0,0,2018,detroit-techno,0.584,0.964,10,-9.092,0,0.0474,0.00059,0.898,0.134,0.495,129.005,385152,4
+Dantiez,Carpe Diem (Mixed),4CRtp6RR7A7hVvGkRXxW3p,0,2018,detroit-techno,0.591,0.975,7,-5.232,1,0.0685,0.00138,0.886,0.135,0.0645,127.108,113293,4
+Terrence Parker,Play Ah Hate Ah - Tp's 2016 Bangin' House Re-Edit,0aAuGDd3X3hXeQBTDGXQHm,1,2017,detroit-techno,0.77,0.882,10,-10.857,0,0.157,0.00137,0.524,0.03,0.584,123.059,474720,4
+Aril Brikha,Setting Sun,2FOcU8r9AkrIBHOczW5YZl,9,2011,detroit-techno,0.781,0.38,10,-15.588,0,0.0451,0.204,0.934,0.109,0.0946,124.88,436493,4
+A Number Of Names,Shari Vari - DJ Godfather Ghetto Tech Mix,283jEiFu9bTh2Ibeq7vJSM,2,2000,detroit-techno,0.75,0.427,1,-11.063,1,0.0661,0.0142,0.719,0.14,0.266,150.002,217474,4
+Omar S,What's Good for the Goose,6PRuDS2kZAn1o9TTLLm3PD,33,2021,detroit-techno,0.598,0.484,1,-9.743,1,0.0597,0.232,1.57e-05,0.226,0.739,172.942,147215,4
+Jay Denham,The Long Way,4Ux6DhV8cJ5bHECPef6zUH,0,2008,detroit-techno,0.674,0.941,5,-8.363,1,0.0555,0.00619,0.901,0.136,0.128,110.007,442413,4
+Dantiez,Falling,3LOjgeEaOnSCX9t2hRkgIm,1,2020,detroit-techno,0.803,0.873,1,-7.903,1,0.0453,8.92e-06,0.859,0.101,0.199,126.013,367250,4
+Kenny Larkin,Soul Man,0s3z38FLi7i1RRLoKkt9Ez,5,2021,detroit-techno,0.74,0.56,3,-13.126,0,0.065,0.0955,0.951,0.108,0.187,137.042,369573,4
+DJ 3000,Funkin Rhythm - Stone Owl Remix,05jHCrfLN5jWKHqox9zwnb,0,2014,detroit-techno,0.812,0.594,2,-10.064,1,0.0481,0.00112,0.886,0.072,0.0994,123.019,386341,4
+Fabrice Lig,Dark Commodore,0sOJ9RsohWP3ag4Y0SADz7,3,2017,detroit-techno,0.773,0.734,7,-10.849,1,0.0471,0.00106,0.834,0.117,0.499,123.953,403830,4
+Orlando Voorn,Handjes in de Lucht - Instrumental Mix,6cAItUVnUWplVXi91LUOdL,0,2022,detroit-techno,0.827,0.704,0,-5.387,1,0.0343,0.00205,0.877,0.0897,0.357,131.002,308015,4
+Carl Craig,The Melody - Henrik Schwarz Remix,5k1S9YYZUlxD8R57KFjh8p,41,2018,detroit-techno,0.724,0.491,6,-14.257,0,0.0389,0.15,0.9,0.12,0.488,122.963,461680,4
+Kevin Saunderson,Reveal - Extended Mix,7jSE3ASHMOykpB1oaXES5a,0,2018,detroit-techno,0.63,0.914,1,-7.049,1,0.0452,0.000955,0.923,0.821,0.486,124.999,399950,4
+Eddie Fowlkes,X=O,5lMTzZBIWhVFzNYBTeU0jD,0,2021,detroit-techno,0.793,0.828,10,-11.022,0,0.143,0.00262,0.729,0.125,0.681,131.136,334907,4
+Ryan Crosson,New Forms - Original Mix,4GZ9mJGceNrRM9TGY7pgDF,0,2016,detroit-techno,0.791,0.484,7,-12.265,1,0.056,0.00315,0.883,0.108,0.351,132.002,553564,4
+Drexciya,Unknown Journey VIII,7Ja9QjmW65mleEKmOrTFxf,10,2013,detroit-techno,0.531,0.795,4,-8.035,0,0.0485,4.35e-05,0.9,0.0939,0.317,109.328,128284,4

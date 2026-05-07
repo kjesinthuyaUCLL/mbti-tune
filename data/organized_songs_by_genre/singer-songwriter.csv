@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Paul Simon,"Diamonds on the Soles of Her Shoes - Live at Webster Hall, New York City - June 2011",10IQkyeBKLFqlL99sucaMa,16,2012,singer-songwriter,0.465,0.814,0,-9.415,1,0.0468,0.145,0.00709,0.96,0.725,123.288,445320,4
+Cheer Chen,蜉蝣,0tI1trr7PoaGYOki4qzgNI,24,2011,singer-songwriter,0.424,0.271,7,-8.458,1,0.0341,0.935,0.0,0.0989,0.488,81.825,248947,3
+Natalie Merchant,The Land of Nod,5qy8KXDdfC7TrCwE4fBemw,9,2010,singer-songwriter,0.262,0.14,4,-14.242,1,0.0344,0.957,0.334,0.0993,0.254,111.96,244640,3
+Royal Wood,A Mirror Without,3drhelbwOkUUbeoMl8Gy99,26,2007,singer-songwriter,0.609,0.781,2,-7.711,0,0.0262,0.362,0.00218,0.0923,0.746,104.124,278840,4
+Van Morrison,The Beauty of the Days Gone By,3DwdoIxtOx10NVyzjKH76v,18,2002,singer-songwriter,0.397,0.386,0,-6.807,1,0.0271,0.71,0.00469,0.0983,0.5,137.796,350067,3
+Ashley Kutcher,Lust,1xU2jczcvFrM6uWLHN7vxM,42,2020,singer-songwriter,0.501,0.501,0,-8.6,1,0.0545,0.0482,0.0,0.253,0.437,119.221,210000,4
+Eliza Gilkyson,Walk Away From Love,3Hx2zdcurvAkna58hKwuT7,3,2000,singer-songwriter,0.626,0.412,2,-13.198,1,0.0247,0.273,0.000728,0.0949,0.426,106.455,288373,4
+Todd Snider,Forty Five Miles,0HQ4sqqzpqBMZGeCZBtT0d,6,2000,singer-songwriter,0.607,0.534,4,-10.734,0,0.0429,0.0138,0.459,0.119,0.666,133.0,172493,4
+Shawn Colvin,Round Of Blues,23pVTlEhcGqYXQ0rv0cW3W,7,2012,singer-songwriter,0.679,0.646,6,-7.742,1,0.0261,0.111,9.82e-06,0.0669,0.832,132.905,284880,4
+Silence Wang,不分手的恋爱,6HAvpiHPdERcboPrkexhIX,42,2010,singer-songwriter,0.5,0.652,11,-9.726,0,0.209,0.41,9.53e-06,0.119,0.459,84.652,205659,4
+Bruce Springsteen,The Ghost of Tom Joad - Electric Version,6HlYrk5AuljlJpzYgr8zh1,35,2014,singer-songwriter,0.317,0.643,4,-6.869,0,0.0296,0.000618,0.000479,0.073,0.151,169.811,449107,4
+Sufjan Stevens,Wordsworth's Ridge (for Fran Fike),4mvkc4hBjl8NgYuuYob1kX,15,2004,singer-songwriter,0.476,0.344,11,-11.089,1,0.0278,0.71,0.0234,0.11,0.295,123.031,294613,4
+Leonard Cohen,"Chelsea Hotel - Live Nov 17, 2008; Royal Albert Hall, London, England",6E6y0BbIFzUcgC8HqGYy6Q,23,2010,singer-songwriter,0.437,0.287,8,-14.117,1,0.0465,0.845,0.000275,0.691,0.202,137.728,211507,3
+梁博,日落大道 (Live),2OPr9LTXNhDwDBB0inqVtk,30,2021,singer-songwriter,0.462,0.209,0,-11.703,1,0.0335,0.929,0.00309,0.0901,0.185,124.689,354041,4
+Lauren Spencer Smith,All I Want,4mWSZ39aJGfEMMLTw3DnBg,60,2020,singer-songwriter,0.495,0.246,10,-9.302,0,0.0317,0.914,0.0,0.108,0.228,75.056,184854,3
+Sam Baker,Orphan,1D0EiPBStmwLJbXfwOdgEj,10,2007,singer-songwriter,0.621,0.549,3,-6.202,1,0.0384,0.21,0.0,0.269,0.809,153.875,199120,4
+Lisa Hannigan,Paper House,5vb1ZuuUdjS4ZUUNNoHSKN,11,2011,singer-songwriter,0.496,0.452,1,-9.533,1,0.0305,0.78,0.0877,0.13,0.194,95.365,256920,4
+Neil Diamond,Act Like A Man,6kwFfIEDPFTfJLSGFdu3lw,10,2008,singer-songwriter,0.514,0.248,0,-13.297,1,0.0308,0.854,0.000123,0.105,0.285,100.527,244133,3
+Harry Chapin,Everybody's Lonely,6BHSFOoyDDv3A7szbUTmM5,13,2015,singer-songwriter,0.663,0.314,4,-15.409,1,0.0284,0.497,0.0,0.07,0.46,110.565,246027,4
+Bruce Cockburn,Anything Anytime Anywhere,3zGVuy991EA70TpytmDT8j,5,2002,singer-songwriter,0.41,0.466,9,-8.496,1,0.0251,0.0417,0.00288,0.117,0.384,78.241,214760,4
+Bob Dylan,Black Rider,2PqGXNc6kQp4iDRpi6SF5U,32,2020,singer-songwriter,0.421,0.115,2,-19.775,0,0.28,0.9,5.58e-05,0.11,0.0696,80.937,252893,4
+Karen Elson,Gold Dust Woman,314R0pPxUPz7wNCwZAa6e0,14,2012,singer-songwriter,0.65,0.611,7,-9.974,1,0.0299,0.0226,0.0196,0.0999,0.39,117.95,342333,4
+Rahmania Astrini,nobody but you,0c16VSncpcvshuckI2tqt9,38,2023,singer-songwriter,0.627,0.273,9,-10.177,0,0.0394,0.901,3.44e-06,0.0997,0.121,129.878,209538,4
+The Tallest Man On Earth,Tears Are In Your Eyes,0ncmKS7QC4FIviZKZnIpXn,37,2022,singer-songwriter,0.409,0.313,6,-11.308,1,0.0306,0.942,0.0831,0.109,0.204,106.245,247462,4
+Rosanne Cash,The World Unseen,2Z3L4sj4NEIQOfsB5WEQ94,14,2006,singer-songwriter,0.68,0.283,9,-9.853,1,0.0311,0.852,0.00601,0.0911,0.189,117.207,313120,4
+Cat Power,Wanderer/Exit,5fIvwjEYW68eu14CV77sQZ,21,2018,singer-songwriter,0.331,0.0568,7,-16.32,1,0.0356,0.983,0.000469,0.11,0.0659,100.556,139505,4
+David Tao,Catherine,4t8SCE6TVYA9d0QfdkOeRa,22,2005,singer-songwriter,0.562,0.0847,7,-15.542,1,0.0315,0.903,0.0,0.135,0.408,97.991,210267,4
+The Sadies,Choosing to Fly,5HwigmGIaQLUHCyZ0CJWF5,13,2010,singer-songwriter,0.422,0.827,9,-8.184,1,0.0384,0.922,0.218,0.113,0.962,113.479,136933,4
+Todd Snider,Mr. Bojangles,7AUwAjo7Nk0uEbd1G3VeHn,16,2012,singer-songwriter,0.567,0.419,7,-8.983,1,0.032,0.204,0.000252,0.0879,0.395,82.243,280067,1
+Serena Ryder,Better Now,1ruX5XHZeeumg39dmh2XvI,35,2021,singer-songwriter,0.717,0.58,8,-5.374,1,0.0285,0.724,2.57e-06,0.107,0.627,94.029,173213,4
+John Prine,Hello in There (Live),5uhGKOGv3TF9DahBOFHZ4x,10,2011,singer-songwriter,0.541,0.38,0,-12.466,1,0.103,0.713,0.000246,0.185,0.346,78.27,282267,4
+Li Jian,心升明月,08tElNkXYziXlebZiHhLRc,18,2011,singer-songwriter,0.618,0.339,11,-11.276,0,0.0261,0.765,0.000724,0.129,0.0997,98.96,318960,4
+Jewel,Bad As It Gets,2grSlGaNZID8Fo41gEyOqA,6,2010,singer-songwriter,0.557,0.502,0,-4.835,0,0.0375,0.17,1.3e-05,0.155,0.209,144.254,232640,4
+Gerry,Feeling Whitney,7aCorEJwtH7CwG723kd6xF,27,2021,singer-songwriter,0.425,0.29,0,-8.266,1,0.0316,0.773,0.0,0.126,0.224,160.061,238373,4
+Uru,プロローグ,4YMukCV1BsdK8V9kZoQpT6,61,2018,singer-songwriter,0.436,0.69,0,-5.136,1,0.0534,0.483,0.0,0.0878,0.322,170.133,302347,4
+Jewel,Where You Are,6C8MXL6XIvNNwReYoeYa3X,9,2006,singer-songwriter,0.533,0.488,11,-7.527,1,0.033,0.125,0.0,0.0761,0.446,118.164,206880,4
+Silence Wang,等不到你,4yLxgKS3ile1GbyQqqN1vP,28,2010,singer-songwriter,0.675,0.549,10,-7.051,1,0.0383,0.8,0.0,0.117,0.54,130.001,207266,4
+Alanis Morissette,Orchid,1w9OVSmh9mF4ZdSDgqS88A,23,2008,singer-songwriter,0.573,0.66,6,-8.783,1,0.0296,0.36,4.02e-05,0.0798,0.297,92.991,261307,4
+Payung Teduh,Rahasia,1k8wWtaL30ncdF7Mrginys,51,2014,singer-songwriter,0.385,0.375,0,-7.35,1,0.0301,0.865,0.000476,0.126,0.18,178.891,416000,3
+Bruce Springsteen,"Long Time Comin' - Live at the Walter Kerr Theatre, New York, NY - July 2018",3qOi3vUVZ242kglt5n7RhA,23,2018,singer-songwriter,0.518,0.186,10,-18.439,1,0.136,0.869,1.2e-06,0.706,0.408,105.686,234467,4
+Todd Snider,Waco Moon,3GzyLS0OyBvryuhLt99tuq,7,2002,singer-songwriter,0.586,0.254,7,-17.116,1,0.0329,0.723,0.037,0.145,0.385,109.011,228120,4
+Bob Dylan,You're a Big Girl Now - Take 2,5ulUy5wEr3xNP9jyEmHKbI,27,2018,singer-songwriter,0.427,0.219,4,-14.286,1,0.0411,0.794,2.68e-05,0.111,0.242,146.633,281200,4
+Eli Hsieh,你的行李,3Y315h4E3Oc1rGdpr6Mxr9,44,2015,singer-songwriter,0.377,0.182,6,-10.896,1,0.0303,0.69,0.0,0.11,0.324,151.63,245987,3
+Glen Hansard,This Low,5p6uhWR2FP6R1xFSkLcCnB,16,2006,singer-songwriter,0.365,0.193,5,-12.875,1,0.0341,0.853,0.000687,0.123,0.106,123.985,294667,3
+Angus Stone,It Was Blue,6huVQ9sId92yTuKnMFwtx3,11,2012,singer-songwriter,0.521,0.785,10,-7.527,0,0.0322,0.406,0.632,0.0597,0.383,108.006,312133,4
+The Bony King of Nowhere,The Sunset,0JfNC9pRmb7fVOODu2JZhY,29,2009,singer-songwriter,0.448,0.369,10,-11.452,0,0.0306,0.905,0.117,0.111,0.223,85.236,204400,3
+Cem Adrian,Beni Hatırladın mı,7d6a6iCrDMiE7ECgawQTsT,58,2017,singer-songwriter,0.567,0.28,5,-8.197,0,0.0281,0.649,0.0,0.112,0.26,107.849,243227,4
+Randy Newman,The Ballad of the Lonesome Cowboy (Soundtrack Version),0x0aN7LdqtJZqWwFkIUPJE,22,2019,singer-songwriter,0.658,0.407,3,-8.005,1,0.0294,0.73,4.15e-05,0.105,0.8,108.704,105880,4
+Don McLean,Castles In The Air,4FfV6FAw7adu8lTnpzMxVv,25,2000,singer-songwriter,0.457,0.536,4,-11.668,1,0.0439,0.426,3.77e-05,0.276,0.676,84.499,221440,4
+Liz Lawrence,When I Was Younger,44ELXvbFPCD5fPz7SYDDox,36,2011,singer-songwriter,0.611,0.535,11,-9.361,1,0.0267,0.311,2.62e-05,0.102,0.368,122.999,204867,4
+Jeff Buckley,"Je N'en Connais Pas La Fin - Live at Sin-é, New York, NY - July/August 1993",5PPUbLPLSXhfbfrjGljUN7,12,2007,singer-songwriter,0.365,0.108,4,-16.116,1,0.0341,0.958,2.25e-05,0.704,0.15,138.332,297387,3
+Yuval Dayan,עד שתחזור,0lhjUB7medv0bEiWHEMDy1,44,2014,singer-songwriter,0.419,0.449,10,-10.064,1,0.0341,0.784,0.0101,0.0829,0.196,155.849,218146,4
+Willie Nelson,We're Not Happy (Till You're Not Happy),4l2ko0xmvb3bGeWZkXOc92,29,2022,singer-songwriter,0.495,0.662,9,-8.452,1,0.0566,0.286,0.000972,0.344,0.556,191.079,196600,4
+Silence Wang,海绵宝宝,3yZFL4pKWue0I8ru6mmxqX,39,2022,singer-songwriter,0.731,0.564,11,-7.225,1,0.0286,0.539,0.0,0.172,0.541,112.023,198539,4
+Rosanne Cash,"Baby, Better Start Turnin' Em Down",0U831bGbEZ7gQ8dM8KDoSH,7,2011,singer-songwriter,0.707,0.323,7,-14.334,1,0.0344,0.215,9.47e-06,0.0969,0.482,121.506,250267,4
+BLÜ EYES,if i were a friend,11gjN7Mh7DA6GzVJmhUvcn,38,2021,singer-songwriter,0.543,0.471,11,-9.904,1,0.0438,0.616,6.77e-05,0.161,0.0775,91.921,152985,3
+TJ Monterde,Kung Siya Man,7iBF9PuSNGYUxePK4w7b4l,50,2014,singer-songwriter,0.659,0.281,7,-9.614,1,0.0297,0.403,0.0,0.195,0.458,133.853,274653,3
+Vicky Chen,你夠了,5vJ2Hw5FQShQIpyDqgQlCR,46,2022,singer-songwriter,0.719,0.646,4,-3.535,0,0.027,0.0842,0.0,0.0672,0.24,99.005,201364,4
+LaLa Hsu,灰色,1dIKxlEtHBABzk1DlRNCxc,35,2017,singer-songwriter,0.308,0.319,9,-7.361,1,0.031,0.809,2.81e-05,0.0992,0.259,140.917,322880,4
+Ryan Adams,Save Me,4RmTLCUjzeCV5eoITbmJNr,14,2011,singer-songwriter,0.571,0.213,7,-13.404,1,0.0284,0.436,0.00103,0.0666,0.168,125.766,258653,4
+Willie Nelson,You Remain,3ykcrIbmLPmRrmGzqGHREj,13,2002,singer-songwriter,0.414,0.341,0,-10.03,1,0.0269,0.691,0.0973,0.181,0.118,135.903,354133,4
+Anson Seabra,18,54F792TiwJOWmTJpbUqbXu,48,2022,singer-songwriter,0.649,0.46,5,-10.374,1,0.0497,0.335,2.44e-06,0.145,0.435,129.872,178408,4
+Bob Dylan,Forever Young,1XX2mdwFqAVbKhQlOzXRXB,33,2007,singer-songwriter,0.483,0.491,2,-10.245,1,0.0455,0.128,0.000546,0.146,0.375,134.658,295587,4
+shye.,Dear You (Act III),1Li7RAL8KcNUgLL2DdCuaN,30,2021,singer-songwriter,0.532,0.296,9,-8.526,1,0.0318,0.869,0.0,0.0884,0.31,77.766,215800,4
+Soft Lipa,夜間漫遊,2onfXI96JuQnKadEGl6E7J,22,2010,singer-songwriter,0.757,0.856,8,-4.153,1,0.0853,0.634,2.59e-06,0.0608,0.844,107.025,257458,4
+Bruce Springsteen,"This Hard Land - Live at the Tower Theatre in Philadelphia, PA - December 1995",0i1tYjYRztv7PaFeQq2GpD,16,2003,singer-songwriter,0.391,0.541,5,-8.778,1,0.048,0.806,0.0,0.776,0.42,122.079,255600,3
+Jin Wenqi,風的來信 (影視劇《下一站是幸福》片頭曲),3ihWFptI1DCJu08J25CQ51,31,2020,singer-songwriter,0.369,0.316,3,-10.386,1,0.0325,0.859,0.0,0.228,0.236,169.742,276544,4
+David Keenan,Postcards from Catalonia,5dGjyn07EPkRf8ajo1rwjn,28,2018,singer-songwriter,0.405,0.083,4,-16.637,1,0.0786,0.747,0.0,0.108,0.214,81.777,284379,5
+Glen Hansard,Wherever I Fall - Pt. 1,0ZgkGCWeGqTKDebKHLhxkK,35,2021,singer-songwriter,0.523,0.298,1,-13.124,1,0.0255,0.576,0.00149,0.105,0.0799,95.95,368907,4
+k.d. lang,Hallelujah - Live from the Juno Awards,3T7COQmJ7sQLFuA9MHsL8l,19,2010,singer-songwriter,0.175,0.311,4,-10.96,1,0.0328,0.804,7.39e-05,0.96,0.11,169.072,330680,3
+Emmylou Harris,Beyond the Great Divide,1KVQI1m2A2lmqrO7u8lYCs,13,2008,singer-songwriter,0.607,0.316,4,-11.639,1,0.028,0.517,0.0125,0.153,0.491,110.016,266240,4
+Lynk Lee,Ngày Ấy Bạn Và Tôi,1weKuyH9Vjx3MEvDeGZKpS,31,2017,singer-songwriter,0.63,0.7,4,-6.611,1,0.032,0.218,0.0,0.128,0.369,123.986,318215,4
+Nick Lowe,Shame on the Rain,3eUsM3CdrUf3Yrz2B1waEr,9,2011,singer-songwriter,0.704,0.227,10,-15.535,1,0.0373,0.832,0.000554,0.117,0.508,103.197,144627,4
+Dan Mangan,Troubled Mind,2y1xs3ze76lgCXStOnI3tp,36,2018,singer-songwriter,0.511,0.913,11,-6.939,0,0.0788,0.0132,0.373,0.173,0.767,195.042,187107,4
+KT Tunstall,Lonely This Christmas,2zW28wjFkMhxpoCCLaCD1n,4,2010,singer-songwriter,0.428,0.154,6,-10.74,0,0.0304,0.939,2.8e-05,0.108,0.179,85.145,257493,3
+Enno Cheng,Our Pop Song,1n6pdgudBqigbk1SBl0miA,24,2017,singer-songwriter,0.489,0.384,0,-11.538,1,0.0315,0.654,0.00219,0.0698,0.093,149.924,285147,4
+Matt Simons,Open up (Dis-Le Moi),7heNkhfM5iFZsebLSidkIC,16,2019,singer-songwriter,0.652,0.752,8,-2.933,1,0.0498,0.101,0.0,0.2,0.752,81.043,164373,4
+Lyle Lovett,If I Were The Man You Wanted,4Lcf5Vtx48CwCKsovoEwgH,14,2017,singer-songwriter,0.568,0.421,5,-6.525,1,0.03,0.6,3.31e-06,0.142,0.354,127.991,239067,3
+Rebekka Karijord,Wear it Like A Crown,2AYxOSUJMl3IpUbSSDrZTS,32,2010,singer-songwriter,0.448,0.378,3,-11.344,0,0.0307,0.898,0.0213,0.0895,0.31,138.985,258773,4
+Jonathan Richman,Circle I,3SvhDU0cqVJAEdvmDwXROo,6,2002,singer-songwriter,0.403,0.718,10,-6.844,1,0.14,0.733,0.0621,0.196,0.904,181.987,156333,4
+Julie Doiron,The Life Of Dreams,1P1F0BsjnycSHNPpu2EaIa,15,2009,singer-songwriter,0.643,0.332,0,-14.736,1,0.055,0.734,5.33e-06,0.386,0.742,119.44,96507,1
+Matthew Barber,Where the River Bends,5GYMa1aMDF5APly8oIytr9,33,2009,singer-songwriter,0.594,0.189,4,-11.053,1,0.0282,0.859,0.000735,0.33,0.178,109.582,247347,4
+Ryan Adams,Chains Of Love,1HeuEDA1PyJX339oaJJ9jN,16,2011,singer-songwriter,0.604,0.574,8,-8.06,1,0.0307,0.357,0.0,0.163,0.366,127.391,143627,4
+Daichi Miura,Blizzard - Movie Edit - English Ver.,5EbEdHJ2PdVeZE67RJNsrd,47,2018,singer-songwriter,0.603,0.8,1,-3.493,1,0.0693,0.0863,6.55e-05,0.107,0.311,140.012,229493,4
+Tanya Chua,不知所以然,3u5qRj513tsFjCfCFhNftf,18,2011,singer-songwriter,0.549,0.431,9,-7.4,0,0.0245,0.694,2.94e-06,0.12,0.483,140.058,199053,3
+Ofra Haza,השנה אינשאללה,0ZSkYApcaFo0WyKdh6n0Ai,7,2000,singer-songwriter,0.559,0.713,10,-7.778,0,0.0419,0.575,0.0,0.089,0.734,147.574,218267,4
+Cat Clyde,"Chimes In The Night - Live Session, Los Angeles, CA, 2017",5aGuFgB6ZHy355hgqdyRSB,15,2017,singer-songwriter,0.712,0.133,3,-12.536,0,0.0994,0.921,0.0,0.103,0.114,131.451,145136,4
+Mia Aegerter,Hättiwürdichönnti,6yftw0UBq9CWbpVQ9VGcBn,13,2004,singer-songwriter,0.648,0.707,0,-4.003,1,0.0607,0.022,0.0,0.22,0.674,149.81,186360,4
+Thomas Day,VICIOUS,4zO08ix7nulvQHfKm1bwC7,64,2023,singer-songwriter,0.751,0.578,9,-5.911,1,0.0343,0.351,0.0,0.0689,0.523,120.064,132794,4
+Rosanne Cash,When The Master Calls The Roll,2D8HvbKzUofIkZ93XvqrMX,23,2013,singer-songwriter,0.596,0.452,10,-9.105,1,0.0367,0.584,2.44e-05,0.124,0.461,139.8,306307,4
+Pu Shu,來不及,0JqEs6xEd5clNYGduyvAl4,16,2003,singer-songwriter,0.552,0.67,5,-8.612,1,0.0282,0.58,0.0151,0.0823,0.506,133.977,346187,4
+Nanci Griffith,Drive-In Movies And Dashboard Lights,2XiU2BSNGXGQTtlpp4tfjV,8,2002,singer-songwriter,0.564,0.542,5,-7.611,1,0.0371,0.585,0.0,0.0889,0.728,85.481,193133,4
+Sarah McLachlan,Perfect Girl,1Qw4jvUtFqCA51OpukTbCx,26,2003,singer-songwriter,0.554,0.388,9,-10.304,1,0.0289,0.259,5.75e-06,0.096,0.0627,129.949,281373,4
+梁博,男孩(Live),5NM4aVLkZyuVuhcGNjq1IO,40,2019,singer-songwriter,0.395,0.603,5,-5.441,0,0.0338,0.552,0.000625,0.979,0.256,141.172,329691,4
+Stefanie Sun,E-Lover - Remastered,3yYvrtibBg5jeBodLsCXDY,14,2000,singer-songwriter,0.668,0.406,7,-9.853,1,0.0322,0.655,0.0,0.0442,0.616,89.014,301307,4
+HUSH,過來人,7GAKaNVogW6IrDEZd5yoLi,23,2015,singer-songwriter,0.469,0.382,4,-9.722,1,0.034,0.561,3e-06,0.926,0.248,128.8,249795,4
+Laura Marling,Rest In The Bed,09UuN9FhbRLEfqJLmO89am,18,2011,singer-songwriter,0.358,0.126,4,-16.566,0,0.0445,0.933,0.00158,0.112,0.266,187.044,188467,3
+Rosanne Cash,Never Be You,7v56Y9PB3FUyiQbAKDqY4J,10,2005,singer-songwriter,0.672,0.663,7,-7.053,1,0.0239,0.0571,0.00527,0.106,0.736,108.403,216680,4
+Rosanne Cash,Everyone But Me,6HXVfqCX59m3aygsRsbLL5,21,2018,singer-songwriter,0.416,0.166,7,-9.438,1,0.0459,0.956,0.000127,0.118,0.348,167.102,217653,4
+Tiên Tiên,Chắc Anh Đang - Piano,7dItPzcYWJD5afAMVbpyop,30,2019,singer-songwriter,0.413,0.177,0,-13.08,1,0.0336,0.955,0.0249,0.101,0.292,99.851,256800,4
+Soft Lipa,Soft Lintro,4UCXzAzcKSQ53IouLN6X1T,23,2009,singer-songwriter,0.396,0.575,9,-11.072,0,0.0443,0.209,0.715,0.217,0.783,85.98,88707,4
+Steve Earle,Good Ol' Boy (Gettin' Tough),0KtK9iLOig5jrhsLcUvUDb,10,2003,singer-songwriter,0.71,0.878,10,-4.668,1,0.0303,0.0994,3.33e-06,0.0688,0.793,123.654,239333,4
+Waa Wei,一顆灰塵,0Fe9cYNJkU4oj2EiJC4mwi,15,2010,singer-songwriter,0.517,0.508,0,-5.953,1,0.0316,0.428,5.15e-05,0.144,0.238,149.961,300000,4
+John Hiatt,Aces Up Your Sleeve,49v30MefG7rPPyXBrDc6cq,28,2018,singer-songwriter,0.465,0.302,2,-9.52,1,0.049,0.874,0.0062,0.116,0.402,183.973,201547,4
+Stefanie Sun,180度,6BcsmA1UpwZ6gJL0xivFCZ,27,2011,singer-songwriter,0.781,0.329,9,-10.643,1,0.0398,0.861,0.0,0.337,0.503,93.989,303680,4
+Rose Cousins,For the Best,74d3WEHazMgZ273ju8eBPA,13,2012,singer-songwriter,0.482,0.415,7,-8.16,1,0.0282,0.344,0.00953,0.115,0.194,118.579,215040,3
+Zhang Zhen Yue,狗男女,79QSN1mep05y6l5r6SFNVS,9,2000,singer-songwriter,0.685,0.944,1,-3.64,1,0.105,0.0079,7.26e-06,0.0671,0.342,99.963,374355,4
+Ryan Adams,No Words,52rAqswA8Iru1CfqX2Zrga,15,2017,singer-songwriter,0.561,0.707,7,-7.438,1,0.0289,1.75e-05,0.13,0.0935,0.47,125.157,173570,4
+Wallis Bird,All For You,33qQuahxAlOBZB36bf6rb8,11,2007,singer-songwriter,0.586,0.221,4,-11.57,1,0.04,0.334,0.000419,0.0846,0.222,121.118,323640,3
+Georgia Greene,Good Enough,3yoLCRDItaZO3T7gTdLyKG,26,2019,singer-songwriter,0.652,0.555,5,-6.505,0,0.0289,0.543,0.011,0.127,0.524,102.155,182051,4
+Ruby Amanfu,I Wonder,2e94bnDDcE9ceraIvwqKqd,15,2013,singer-songwriter,0.472,0.791,4,-7.176,1,0.0458,0.113,1.9e-05,0.337,0.68,120.566,204413,4
+Gareth Dunlop,Wrap Your Arms Around Me,1lrpikywi5IruQK3R7vSwj,29,2013,singer-songwriter,0.525,0.554,2,-9.164,1,0.0311,0.584,0.000203,0.0807,0.562,176.15,225347,4
+Lyle Lovett,Empty Blue Shoes,5Xn3mSNOm6g5nrv9xjdQA2,9,2009,singer-songwriter,0.38,0.304,9,-10.756,1,0.0288,0.699,5.71e-05,0.106,0.27,136.868,180600,4
+Sarah McLachlan,Wintersong,3wnutCRc2OAMOPul8EiPGQ,26,2019,singer-songwriter,0.281,0.137,7,-14.518,1,0.038,0.972,1.05e-05,0.117,0.179,164.906,210827,4
+Harry Nilsson,I Guess the Lord Must Be in New York City,4HnnzUZX2XsaN14viTWidc,13,2013,singer-songwriter,0.526,0.485,2,-12.676,1,0.0451,0.381,0.00846,0.339,0.772,127.935,161440,4
+Jewel,Blue Crystal Glow,0DZfigMiInMuboNbew3Jo4,12,2013,singer-songwriter,0.463,0.134,7,-12.637,1,0.0319,0.941,0.0,0.299,0.0673,99.143,122336,5
+Shugo Tokumaru,Platform,4dLrQd8iAXmrNL0tq6NylY,9,2011,singer-songwriter,0.674,0.408,9,-10.425,1,0.0388,0.529,0.688,0.127,0.266,105.13,44880,3
+James Taylor,Blossom - 2019 Remaster,7ES0AwGaMYBM0P3dPxp9MI,17,2019,singer-songwriter,0.709,0.294,7,-18.108,1,0.0375,0.836,0.385,0.121,0.458,107.983,133267,4
+Yoon Do Hyun,"I to You, You to Me",2xheEfr40Y2bkBziEOMBYp,23,2018,singer-songwriter,0.488,0.334,7,-7.809,1,0.0439,0.68,0.0,0.064,0.394,76.671,238038,4
+Tom Petty,"Saving Grace - Live at Malibu Performing Arts Center, Malibu, CA, 7/26/06",2Ykej3yAtXJbof2QhRNORE,16,2018,singer-songwriter,0.423,0.672,2,-5.708,1,0.0279,0.125,1.26e-05,0.0844,0.659,150.909,210520,4
+Hao Yun,活著,7ukQizW9kwOrxJ5uZerov6,35,2013,singer-songwriter,0.686,0.736,9,-6.897,1,0.0293,0.181,0.0,0.308,0.792,131.995,271147,4
+Ryan Adams,Off Broadway - Live At Carnegie Hall / 11/15/2014,4Umw5vZ6P0ZHrDs37Fn4Qm,11,2015,singer-songwriter,0.637,0.0427,5,-20.734,1,0.0409,0.94,0.0753,0.682,0.178,129.983,179520,4
+Martha Wainwright,This Life,7JXfSRiGA5dW7xvb8fQp2h,17,2005,singer-songwriter,0.591,0.437,4,-10.255,1,0.0362,0.65,0.0287,0.109,0.234,73.973,360667,4
+Ziggy Alberts,Grow On,77S3LulgvFr3XTz5MQiZdb,37,2013,singer-songwriter,0.562,0.322,1,-14.579,1,0.0718,0.787,0.000166,0.105,0.511,77.279,276971,4
+Idan Raichel,Or Ka'ze (A Light Such As This),3aPCdIieTIC6EUpLFu2XHr,13,2013,singer-songwriter,0.252,0.3,3,-13.087,0,0.0353,0.898,0.0288,0.322,0.174,78.803,236933,4
+Willie Nelson,The Highway Man - with The Royal Philharmonic Orchestra,61ABqc7aUcFRoaB4hGFseE,29,2020,singer-songwriter,0.534,0.703,11,-7.219,0,0.03,0.179,0.0303,0.0829,0.426,101.426,204360,3
+Ivri Lider,לרקוד עם דמעות בעיניים,2XxnaUUACnu3BOlyPPJLDF,34,2019,singer-songwriter,0.812,0.794,9,-4.544,1,0.0425,0.162,9.4e-06,0.0749,0.604,128.008,219483,4
+Sandee Chan,醉人的詩意,2328WrKyqqduIH6o8A3W6U,9,2004,singer-songwriter,0.632,0.785,1,-3.432,1,0.0249,0.0196,0.021,0.0804,0.611,89.987,222493,4
+Angela Aki,Kiss Me Good-Bye (featured in FINAL FANTASYXII),1CRVzlztyLbdrtdxaPby1P,14,2006,singer-songwriter,0.416,0.32,10,-9.571,1,0.0283,0.796,2.28e-06,0.123,0.133,78.025,298133,4
+Natalie Merchant,It Makes a Change,0e1PrbvCn73MJiCCzwlfVk,9,2010,singer-songwriter,0.594,0.473,2,-7.747,1,0.0395,0.429,0.0755,0.0653,0.473,129.358,211053,4
+Don McLean,Magdalene Lane,7HlkHZ3tjxAULr9Oujumay,21,2007,singer-songwriter,0.489,0.374,7,-19.097,1,0.0649,0.699,0.0144,0.256,0.43,108.683,274973,4
+Benjamin Dakota Rogers,Home,00m2L7Yzzu20SBZRVQL6uv,18,2019,singer-songwriter,0.597,0.279,5,-14.404,1,0.151,0.832,8.92e-06,0.0738,0.458,119.517,198781,5
+Yu Sakai,まなざし☆デイドリーム,3VXj3aLX4okxfT7qqVTJ8B,16,2010,singer-songwriter,0.651,0.767,8,-3.606,1,0.0372,0.0973,0.0,0.125,0.786,141.976,253120,4
+Natalie Merchant,Go Down Moses,0QO2PK2u2oUCPY0K8gLBQV,22,2014,singer-songwriter,0.741,0.423,8,-10.043,1,0.0363,0.384,0.015,0.113,0.423,96.014,301040,4
+Ani DiFranco,Promiscuity,1prnKE6CxFnYfvITRoOwJh,11,2012,singer-songwriter,0.814,0.418,2,-10.107,1,0.0415,0.567,4.83e-05,0.105,0.43,99.924,200413,4
+Emma Oliver,"i'm sorry, i miss you",4xIKIsjbtOvYfYzE4Vxc0h,25,2020,singer-songwriter,0.545,0.655,11,-7.246,1,0.0419,0.0738,6.6e-06,0.201,0.341,138.017,175445,4
+颜人中,Till We Fall in Love,7lXQEJTUzFPeuuDtB2NpkA,43,2022,singer-songwriter,0.707,0.652,5,-6.874,1,0.0374,0.47,0.0,0.125,0.326,100.988,240284,4
+Leonard Cohen,"Famous Blue Raincoat - Live at Isle of Wight Festival, UK",3uHybOZ8FHNOCoYtHBEPap,12,2009,singer-songwriter,0.459,0.382,9,-14.118,0,0.062,0.894,0.00103,0.72,0.427,119.782,319933,5
+Ryan Adams,The Rescue Blues - Live At Carnegie Hall / 11/17/2014,3RuItwGr3sbQoSNb4P0pLG,11,2015,singer-songwriter,0.413,0.101,1,-13.114,1,0.0453,0.98,0.000213,0.674,0.25,84.444,203347,3
+JORDY,South Dakota,52HHguJBCDwtxD2teWnSG8,38,2021,singer-songwriter,0.679,0.332,9,-8.348,1,0.0424,0.691,0.0,0.372,0.675,130.013,191091,4
+Sam Roberts Band,Fixed To Ruin,7maOIl8r1l4gU88kydotp5,12,2008,singer-songwriter,0.562,0.75,4,-6.48,1,0.0393,0.00555,0.396,0.234,0.556,94.037,226613,4
+Jake Cornell,tmrw,60uzdMBONrb197xUEdBlIx,44,2021,singer-songwriter,0.627,0.358,11,-9.968,1,0.0802,0.73,0.0,0.338,0.379,158.072,195242,4
+Sarah Harmer,Go To Sleep,38mSM1jzsAmzUWj85gjQ0z,12,2004,singer-songwriter,0.644,0.0289,2,-16.72,1,0.0415,0.932,0.0,0.105,0.323,124.141,218733,3
+Lizzie Reid,Company Car,3lrVIxiQWnc1cLWsmlfe6F,27,2021,singer-songwriter,0.578,0.209,7,-9.931,1,0.0432,0.922,1.08e-05,0.126,0.311,108.219,182653,3
+Jose Vanders,Literature Lovers,141Az9zU42lOieVEbOmPUV,26,2009,singer-songwriter,0.477,0.105,7,-17.307,1,0.0443,0.966,0.788,0.128,0.302,75.343,280933,4
+John Mellencamp,Jack & Diane - Writing Demo,7pbSXTeG8GyAoiTDtQtYhe,6,2010,singer-songwriter,0.835,0.142,9,-17.228,1,0.146,0.887,0.182,0.0964,0.222,127.228,67613,4
+Annalise Emerick,The Sun and the Moon,54JIefsw6gjuWiENx5SfXp,21,2014,singer-songwriter,0.673,0.315,1,-10.27,1,0.0284,0.784,0.000598,0.102,0.542,132.983,209627,4
+Jim Croce,Five Short Minutes,2Jc8dcS71aCZNZlvBdZI4k,11,2011,singer-songwriter,0.553,0.809,9,-9.948,1,0.0308,0.524,0.00251,0.0719,0.964,131.668,209480,4
+Silence Wang,万有引力,3eKHFsCD3mKz1qySdWSZva,47,2012,singer-songwriter,0.634,0.708,9,-5.756,1,0.0309,0.264,0.0,0.1,0.508,97.495,245817,4
+Nick Drake,Northern Sky,1XQ3pq95WDk5IBJC2P18HF,26,2017,singer-songwriter,0.55,0.381,5,-14.246,0,0.0409,0.352,0.706,0.116,0.407,89.878,223720,4
+Wang Feng,再見青春,593JIXW8OHeMJTLCC4i8pf,21,2009,singer-songwriter,0.341,0.337,9,-7.462,0,0.0369,0.237,0.0025,0.0861,0.104,119.859,426080,4
+Mimi Webb,I'll Break My Heart Again,6jBXavyuyjaCcxSS9eQJf5,51,2020,singer-songwriter,0.584,0.48,8,-8.531,1,0.033,0.476,9.54e-06,0.0823,0.18,117.881,215560,3
+KT Tunstall,Strange Sight Reprise,3Ie0wXQ0lvdwEwEPViiBmm,43,2014,singer-songwriter,0.356,0.0397,5,-20.387,1,0.0585,0.932,0.0,0.14,0.152,171.066,67480,5
+Björk,Scatterheart,6hR9TJeqhf4Lo7Jdng5OJq,19,2000,singer-songwriter,0.555,0.394,6,-9.708,0,0.0419,0.0722,0.0086,0.148,0.0395,98.929,398307,3
+הראל טל,אנה אלך,6qQiLvkiXkipy9mKdMWiuS,32,2020,singer-songwriter,0.28,0.669,10,-6.008,0,0.0299,0.165,0.0,0.152,0.361,70.163,264647,4
+Mỹ Tâm,Yêu Dại Khờ,25ANdGoBAOXhlQOTDtAeuv,19,2018,singer-songwriter,0.548,0.538,2,-5.469,1,0.0295,0.579,0.0,0.109,0.24,130.43,245238,4
+Jonathan Richman,No One Was Like Vermeer,0tm5rcaIHyGLbjMHx12e9g,14,2008,singer-songwriter,0.654,0.708,2,-10.955,0,0.0395,0.833,0.00131,0.232,0.727,121.873,180000,4
+ella jane,Thief,10JapNmZI2xm545Y5VU8hF,27,2021,singer-songwriter,0.582,0.248,2,-9.967,1,0.031,0.863,0.0,0.251,0.388,146.767,206351,4
+John Hiatt,Old People,2rjGycgQ95pQwcZgDChh8O,19,2014,singer-songwriter,0.609,0.5,6,-9.007,1,0.0457,0.779,2.49e-06,0.0942,0.436,96.447,270347,4
+Kim Sawol,Someone,2qE0WqiK5CbzyPoOWj8r7y,32,2018,singer-songwriter,0.685,0.317,5,-11.17,1,0.0465,0.711,0.000858,0.07,0.593,160.124,220014,4
+John Prine,Great Society Conflict Veteran's Blues,1m95xZJplo4IRdmZdqJIqu,13,2011,singer-songwriter,0.712,0.181,4,-12.449,1,0.0538,0.832,5.02e-06,0.287,0.626,80.921,220200,4
+Blaze Foley,The Unclouded Day (feat. The Fuller Family),5EeVbb243NUOvRNz7cO4ml,11,2011,singer-songwriter,0.615,0.444,8,-15.559,0,0.199,0.995,0.0,0.143,0.449,91.474,133030,4
+Kris Kristofferson,From Here to Forever,4maUUSDaeTJ0ZfHDpjfHr9,19,2009,singer-songwriter,0.463,0.3,2,-9.249,1,0.0292,0.695,0.0,0.174,0.4,140.995,212307,4
+Ryan Adams,Oh My Sweet Carolina - Live At Carnegie Hall / 11/17/2014,4kIMa3n8utAewURP2cKIiL,12,2015,singer-songwriter,0.416,0.188,3,-15.819,1,0.0598,0.837,0.00708,0.838,0.369,136.487,398933,4
+Hayd,Lost,5uBxWyHmRbUCzJ87E34MP8,52,2022,singer-songwriter,0.386,0.168,8,-14.768,1,0.0367,0.938,0.00995,0.0819,0.312,126.473,181731,4
+Rene Liu,人之初,19whTtj9XQsBxPLCXEhctD,19,2000,singer-songwriter,0.506,0.342,5,-8.762,1,0.0279,0.714,0.0,0.158,0.162,127.996,244800,4
+Blaze Foley,Cold Cold World,4hsc4Y5AOZCsiox6oRhXrF,15,2004,singer-songwriter,0.559,0.213,2,-9.807,1,0.0358,0.879,0.0,0.659,0.165,126.023,286587,3
+Markus Krunegård,Jag är en vampyr,4y0zozPi0gfqr6idbWNuP4,0,2023,singer-songwriter,0.47,0.873,7,-5.601,1,0.0956,0.0286,5.47e-06,0.542,0.49,164.611,257587,4
+Brent Morgan,I Got You,4c30D0ctO1wGxVUpDnYOwF,43,2021,singer-songwriter,0.563,0.603,5,-8.007,1,0.0315,0.227,0.00013,0.0945,0.396,147.903,186795,4
+Phạm Nguyên Ngọc,Đi Ngang Ngày Buồn,6nxwqXoSg205rObQN1yUJ3,41,2021,singer-songwriter,0.679,0.389,5,-14.405,1,0.21,0.846,0.0,0.107,0.245,79.951,246000,4
+Matilda Mann,Hell,3DC8V0NDZ8h06R9xQhi0AH,35,2022,singer-songwriter,0.308,0.402,1,-8.791,1,0.0414,0.548,7.7e-06,0.0997,0.103,180.102,212256,3
+Zach Hood,number one fan,4OvTQl8gEzidGjKPmAsK0V,33,2022,singer-songwriter,0.524,0.54,3,-7.869,1,0.045,0.288,1.74e-06,0.12,0.228,82.104,177867,4
+Bob Dylan,"Gotta Serve Somebody - Live at the Warfield Theatre, San Francisco, CA - November 15, 1979",1iLYiIk0GFfgat9FYYBhLD,17,2017,singer-songwriter,0.514,0.797,2,-8.892,0,0.0378,0.314,0.0,0.827,0.821,82.587,389133,4
+Clare Bowditch,You Make Me Happy,463HT2qjH7KFVQkjXFNhBs,17,2012,singer-songwriter,0.474,0.566,4,-7.249,1,0.0267,0.619,0.000173,0.236,0.357,80.385,179840,4
+Levon Helm,Chest Fever,12Epo3wtt3WyV1bC22T8Fe,9,2011,singer-songwriter,0.345,0.939,9,-5.73,1,0.0585,0.032,0.00633,0.805,0.594,114.915,423280,4
+Carole King,Loving You Forever - Live,2ofVS6uMDSgoJdP5yYl34f,8,2005,singer-songwriter,0.437,0.272,7,-7.801,1,0.0263,0.772,0.0,0.704,0.206,83.802,212347,4
+Daniel Romano,She Was The World To Me,3SIhedPFSp1yviz9nm9y5m,21,2010,singer-songwriter,0.531,0.279,0,-9.479,1,0.0301,0.794,2.35e-06,0.724,0.2,104.706,295960,4
+Sufjan Stevens,Year of the Horse,13uLXauGx29ldrji9S1L9M,8,2004,singer-songwriter,0.499,0.849,11,-6.509,0,0.114,0.605,0.0504,0.0613,0.113,139.637,798800,4
+颜人中,遇到,4WqcJcHx1q1dvqVPI1wZ5S,49,2020,singer-songwriter,0.652,0.49,5,-9.657,1,0.0345,0.757,0.0,0.354,0.517,132.039,178182,5
+Randy Newman,Bad Buzz,1AtPvc920aiXfVLZX8Sw0e,18,2010,singer-songwriter,0.435,0.161,5,-14.63,1,0.0318,0.663,0.149,0.142,0.0626,77.951,141947,4
+Serena Ryder,all for love,70HTc2lNJwpqhLhk2tTzRQ,15,2009,singer-songwriter,0.645,0.832,2,-3.443,1,0.0274,0.162,4.6e-06,0.138,0.227,122.953,237160,4
+Bruce Springsteen,Sleepy Joe's Café,1J0WXgITM3l66pVKVOuXtz,36,2019,singer-songwriter,0.565,0.695,0,-7.49,1,0.028,0.0434,0.000139,0.12,0.767,147.869,192533,4
+Willie Nelson,Keep Me From Blowing Away,697iqEOD10czhd2MjK2f7W,8,2008,singer-songwriter,0.614,0.32,0,-10.557,1,0.029,0.751,0.00337,0.273,0.156,87.009,212307,3
+Bruce Springsteen,"Chimes of Freedom - Live at Stockholms Olympiastadion, Stockholm, SE - July 1988 - Edited Version",0wFNV4SuNbsMFTjSJ3mpBd,16,2004,singer-songwriter,0.459,0.809,7,-6.24,1,0.0386,0.282,0.0,0.988,0.471,119.125,356533,4
+Willie Nelson,On The Road Again,0F4ZcnroG01D0K94jwrjvg,8,2004,singer-songwriter,0.524,0.719,4,-6.911,1,0.0534,0.826,5.69e-06,0.957,0.489,125.001,134360,4
+Bruce Springsteen,"The Wish (Introduction) - Live at the Walter Kerr Theatre, New York, NY - July 2018",2RskkQc3xmgs3peuYtXrDU,20,2018,singer-songwriter,0.585,0.287,5,-20.616,1,0.948,0.723,0.0,0.109,0.285,142.9,369680,4
+KILLBOY,DADDY ISSUES,1wNiep2hbvPNfMQokgaA0t,38,2022,singer-songwriter,0.455,0.759,7,-5.053,1,0.0506,0.0349,0.0,0.313,0.504,173.07,145547,4
+Nick Drake,'Cello Song,1uuarumWVhe76uxFcAQRCG,26,2014,singer-songwriter,0.436,0.259,10,-18.094,1,0.0363,0.959,0.908,0.108,0.154,118.404,250567,4
+Jake Banfield,Just a Memory,5yk44teyQriIJpcQ3anx6p,29,2020,singer-songwriter,0.565,0.243,11,-10.782,1,0.0355,0.905,6.81e-06,0.097,0.172,131.033,161538,4
+Gatton,Playing Pretend,6IbBNiSD4lbaGUJcCbDD4Q,30,2018,singer-songwriter,0.648,0.221,9,-15.347,1,0.0457,0.712,0.0,0.633,0.232,129.854,263779,4
+Catherine MacLellan,Take A Break,3uFkZh52bqFSKngxm2NdbL,20,2009,singer-songwriter,0.68,0.421,4,-10.489,1,0.0485,0.249,0.0,0.0948,0.503,123.782,166307,4
+John Hiatt,Memphis In The Meantime,3S1OoPo6joO1oQASWfv6lH,9,2003,singer-songwriter,0.666,0.897,4,-6.147,1,0.043,0.179,0.000387,0.0925,0.932,90.847,239360,4
+Tiên Tiên,Say You Do - Dsmall Remix,7hPXJboMuBjR2M082jQHS1,22,2015,singer-songwriter,0.727,0.773,5,-4.218,1,0.0316,0.3,0.000198,0.174,0.382,104.008,244147,4
+Stefanie Sun,愚人的国度,2gNW0NDW06O6ZqqwAFPkLZ,36,2011,singer-songwriter,0.424,0.382,1,-8.911,0,0.0339,0.92,1.32e-06,0.151,0.37,98.866,248693,3
+Nick Drake,Day Is Done - Family Tree,3E9PsMebz5qKo9EAGXu1Pu,13,2007,singer-songwriter,0.626,0.165,10,-19.518,1,0.0538,0.975,0.795,0.114,0.557,126.929,140307,4
+Carole King,Pierre,4wn6gd9YMksvmWzNTXLM6w,5,2010,singer-songwriter,0.429,0.389,0,-11.112,1,0.0315,0.427,0.0,0.113,0.498,171.517,338520,3
+Barry Saunders,Here Comes Tomorrow,3hkvFq9V9qfNA8ZMlUvHdQ,17,2008,singer-songwriter,0.542,0.672,2,-7.197,1,0.025,0.0955,0.000358,0.0671,0.518,102.414,292240,4
+Stefanie Sun,沒時間,0BetT2tdyEMm4FTs2y464B,11,2002,singer-songwriter,0.623,0.764,5,-4.529,1,0.115,0.121,0.0,0.0697,0.657,165.849,221933,4
+Mary Gauthier,Can't Find The Way,5NKQKbHaq0fVX2RAkmLKaJ,15,2007,singer-songwriter,0.486,0.428,11,-11.704,1,0.0293,0.873,0.0874,0.132,0.514,147.367,366720,4
+The Bony King of Nowhere,Alas My Love,3vsllpJsajPQJrJ3BthAkW,29,2009,singer-songwriter,0.757,0.268,2,-10.849,0,0.0535,0.699,0.0931,0.21,0.379,121.007,102467,4
+Ryan Adams,Why Do They Leave? - Live At Carnegie Hall / 11/15/2014,24Z3q6Rn15f7jpM3uebOKa,10,2015,singer-songwriter,0.46,0.209,10,-14.36,1,0.0822,0.842,0.000883,0.46,0.281,113.153,337720,3
+John Mayer,"My Stupid Mouth - Live at the Oak Mountain Amphitheater, Birmingham, AL - September 2002",1GLeSb7JwiSuIsXdrirkmU,27,2003,singer-songwriter,0.465,0.842,2,-8.159,1,0.0386,0.112,0.000114,0.966,0.546,92.319,302267,4
+Glen Hansard,The Swell Season,3ksZVeqlLDmEPG71vXQdT6,20,2006,singer-songwriter,0.504,0.229,9,-14.964,0,0.031,0.959,0.846,0.107,0.135,117.726,174760,4
+Olive Klug,dress,2Z3JwZ1WLeWA8nGNMqsimO,24,2021,singer-songwriter,0.738,0.158,0,-12.797,1,0.0499,0.855,0.0,0.0874,0.465,107.734,254673,4
+Sarah McLachlan,Dirty Little Secret,7CwxyaAaobbrGufUCwx8nf,22,2003,singer-songwriter,0.246,0.226,0,-11.215,1,0.0402,0.934,2.98e-05,0.0693,0.0715,166.503,234307,4
+John Mayer,Dreaming with a Broken Heart,7keXdrB4mz57u4b8YkCwag,60,2006,singer-songwriter,0.61,0.349,0,-9.321,1,0.0301,0.554,0.0099,0.201,0.155,136.012,245747,4
+John Mayer,All I Want Is to Be With You,0wcEUeOslMI8dPB7QjUMiW,52,2021,singer-songwriter,0.522,0.426,0,-7.445,1,0.0242,0.106,0.674,0.224,0.304,93.049,244200,4
+Rosanne Cash,Seven Year Ache - Single Version,2MoX0AuMrSIlxALW0L5VdV,3,2002,singer-songwriter,0.741,0.419,9,-13.995,0,0.0356,0.435,0.000172,0.106,0.683,121.33,196213,4
+Ethan Jewell,HOW DARE YOU,3YJEHovxf7Jd7zPCxyVamG,28,2021,singer-songwriter,0.602,0.494,2,-14.06,1,0.351,0.908,7.56e-06,0.11,0.0901,96.877,89515,3
+Rosanne Cash,I Still Miss Someone - Live,2oxtyTD3QZd5yVFnstV9sJ,19,2019,singer-songwriter,0.366,0.0661,7,-17.315,1,0.0384,0.876,0.000131,0.971,0.133,126.798,161413,4
+Bob Dylan,"Mississippi - Outtake from 'Time Out Of Mind' Sessions, Version 2",2Wgqd2MfMi7Mitt1vYjoTe,22,2023,singer-songwriter,0.548,0.456,7,-12.073,1,0.0453,0.221,2.38e-06,0.112,0.621,117.667,381027,3
+Lucinda Williams,"Righteously - Live (2003/The Fillmore, San Francisco)",5VmRVQm7AkiYY2LEYfrbpM,10,2005,singer-songwriter,0.554,0.753,7,-8.139,1,0.034,0.14,0.0224,0.995,0.763,107.78,295600,4
+Roddy Hart,The Fish Wrap,0vl1NwyUcHDhzVGsmqpNAn,12,2018,singer-songwriter,0.777,0.863,4,-7.359,0,0.192,0.0346,0.0,0.102,0.445,139.986,39481,4
+Ai Otsuka,プラネタリウム,3zfyzbHuqcT2AAffAyLm02,54,2005,singer-songwriter,0.375,0.576,2,-5.741,0,0.0364,0.267,3.38e-05,0.101,0.503,197.899,307833,4
+Guy Clark,Mud,0g5NhhQNYnzRLUEsxpj3rF,10,2002,singer-songwriter,0.597,0.187,1,-13.549,0,0.0367,0.869,0.00109,0.141,0.224,144.783,224973,4
+Sufjan Stevens,Godzukie,0OeHjqQXx0vJZxTffHw1bs,14,2004,singer-songwriter,0.67,0.131,6,-19.878,0,0.859,0.361,0.0,0.41,0.609,99.61,36880,3
+Idan Raichel,Ana Ana wa Enta Enta (I am What I Am),4lsxymzpCH6sJvq0MhHQ6n,14,2013,singer-songwriter,0.676,0.786,3,-7.057,0,0.0426,0.432,5.7e-05,0.0588,0.6,99.966,162413,4
+Stefan Andersson,Flygblad över Berlin,0K1jbeA1oqNwU9tcRV0EKZ,22,2018,singer-songwriter,0.393,0.171,5,-15.539,1,0.0594,0.912,0.0,0.347,0.155,179.845,289400,4
+Tiên Tiên,Say You Do,2oEi9mqbQFJSuS2Wny7bfp,50,2015,singer-songwriter,0.565,0.624,2,-5.715,0,0.0297,0.229,4.69e-05,0.124,0.246,103.96,220344,4
+Stan Rogers,The House of Orange,6mKGJP5auogySQEe0PgaA5,2,2000,singer-songwriter,0.419,0.173,5,-16.437,1,0.0312,0.867,0.0,0.214,0.411,133.494,259533,3
+Blanco White,Papillon,593rP67y6q2KrZdZQTGAeV,22,2019,singer-songwriter,0.516,0.132,4,-15.852,0,0.03,0.988,0.00721,0.108,0.25,87.332,241147,4
+Idan Raichel,Ve'eem Tavo'ee Elay (And If You Will Come to Me) - Special Version,28KXf3VydNTYGh9MXJ0Tbs,16,2018,singer-songwriter,0.644,0.879,1,-3.801,0,0.0359,0.164,0.0,0.164,0.534,110.074,231273,4
+ayaka,Why (CCFFVII Mix),0rKap0HkMA9bZ3BqHUb5UT,36,2007,singer-songwriter,0.661,0.278,0,-13.126,1,0.0384,0.965,0.755,0.12,0.419,119.991,135187,4
+Bob Dylan,"House Carpenter - Unreleased, Self Portrait",23bHzvdWmewbTZXGf0QbfK,14,2013,singer-songwriter,0.447,0.444,0,-7.353,1,0.03,0.816,0.0,0.231,0.265,155.647,359427,3
+Bob Dylan,Crossing the Rubicon,3hTrFDlGEyQGD30rFV4oeW,33,2020,singer-songwriter,0.733,0.217,0,-16.811,1,0.0471,0.531,0.000338,0.0869,0.549,68.932,442760,4
+Laura Marling,Little Bird,1XVmFJCNuX4vKTDWDCcJsv,20,2013,singer-songwriter,0.418,0.209,7,-15.472,1,0.033,0.82,0.143,0.0818,0.233,124.094,340288,1
+Tanya Chua,坐立不安,2VRNp44lenqxQ8xxFX3M4z,12,2005,singer-songwriter,0.493,0.619,8,-5.428,1,0.0285,0.271,3.83e-06,0.0982,0.363,147.681,254240,4
+Rene Liu,我在想你的時候睡著了,4dUUMQ7OMhxQurVffdkoYW,21,2013,singer-songwriter,0.493,0.578,8,-6.582,1,0.0281,0.0595,0.00112,0.0862,0.236,116.054,297720,4
+Hikaru Utada,Celebrate,49kddpdZO9UZeRlDO7xQPP,32,2008,singer-songwriter,0.633,0.931,2,-5.662,1,0.0423,0.0112,0.284,0.169,0.981,118.009,266787,4
+Chihiro Onitsuka,流星群,6zA8LyV4TcyVuTf4EUPyq0,44,2002,singer-songwriter,0.532,0.316,5,-8.068,1,0.0299,0.859,0.0,0.159,0.172,80.021,313560,4
+Björk,Aeroplane,46Xx3VqexnoNkozIqwJLqJ,9,2003,singer-songwriter,0.559,0.322,7,-12.411,1,0.0679,0.891,0.0417,0.921,0.0889,105.166,243493,4
+Natalie Merchant,Carnival - Remastered Single Version,40uU2zK7pXKCw4kKQHJu5t,23,2005,singer-songwriter,0.599,0.494,9,-10.183,1,0.114,0.0752,0.0123,0.0677,0.657,187.917,359973,4
+Aydilge,Aşka Gel,0iAjZnwrsk1dL1j18ud8rQ,47,2014,singer-songwriter,0.66,0.855,5,-4.87,0,0.0472,0.213,0.0,0.308,0.847,101.992,244500,4
+Sarah McLachlan,Perfect Girl - Live,0XWbJoWoomZTPumEyHfrL4,9,2003,singer-songwriter,0.475,0.508,9,-8.048,1,0.0271,0.154,0.000655,0.963,0.19,135.997,276733,4
+Joanna Wang,被遺忘的時光,0SlSLlL6YMHWV62lRmIuJY,23,2014,singer-songwriter,0.247,0.265,7,-10.909,1,0.0328,0.971,0.00156,0.081,0.168,116.172,194320,5
+Isak Danielson,Start Again,7HlkPqRO6iYyWsUYX4l4gq,37,2021,singer-songwriter,0.678,0.55,8,-6.962,1,0.0434,0.228,0.0,0.138,0.164,112.746,215750,4
+Sufjan Stevens,Lonely Man of Winter,1OxRNKfrUtgaWoyLZye2ZA,28,2018,singer-songwriter,0.504,0.228,0,-12.467,1,0.0328,0.944,0.0,0.115,0.156,114.673,191267,4
+Ada Zhuang,愛囚,6K0hKXGzsRUsGS8e0UK7Dz,25,2014,singer-songwriter,0.738,0.541,2,-5.713,0,0.03,0.714,0.0,0.115,0.302,115.942,243708,4
+Riff Cohen,J'aime,3IkqFHzyVS2igdWpYWcohZ,10,2012,singer-songwriter,0.518,0.725,6,-5.578,0,0.106,0.133,1.81e-06,0.0441,0.617,94.929,214280,3
+Ani DiFranco,Shroud,4MyYBpnG8fZQ39q3jIkUxI,6,2006,singer-songwriter,0.52,0.394,2,-8.017,1,0.0338,0.344,0.00136,0.192,0.374,94.29,288893,4
+Bruce Springsteen,"Tougher Than the Rest - Live at Madison Square Garden, New York, NY - 05/23/88",36emNscEGBLkskGnLrwt5c,30,2019,singer-songwriter,0.357,0.666,7,-6.283,1,0.0293,0.00121,0.000444,0.624,0.384,91.07,374667,4
+Fred Eaglesmith,Drunk Girl,44UzEf8DOeaDOIgJwSLifq,11,2013,singer-songwriter,0.336,0.433,0,-7.928,1,0.0301,0.639,0.0152,0.112,0.392,177.999,189293,3
+Patrick Droney,All I Want for Christmas Is You,5jfp1SOlHfDmkAhaclif6A,21,2020,singer-songwriter,0.567,0.543,2,-8.836,1,0.0364,0.0985,0.000165,0.637,0.345,134.964,218802,4
+Ryan Adams,I Know Places,4MTs3CVEeu4Am2w1AdrBzQ,24,2015,singer-songwriter,0.523,0.512,9,-8.602,0,0.0285,0.000132,0.267,0.0802,0.302,132.689,314307,4
+Lyle Lovett,White Freightliner Blues,5PgYlOnNTu9xpOsN5Ls96S,12,2012,singer-songwriter,0.433,0.942,0,-8.141,1,0.0378,0.0561,0.0122,0.0992,0.716,137.528,306947,4
+Leonard Cohen,Undertow,57jWgrTkqTthTgqBpJeS0L,20,2004,singer-songwriter,0.494,0.184,0,-12.838,1,0.032,0.913,0.291,0.0849,0.123,80.654,260373,3
+Rae Morris,Someone Out There,3Hn9rn1OmKT8HKELGBTztL,26,2018,singer-songwriter,0.531,0.455,1,-7.17,1,0.0316,0.61,2.04e-05,0.119,0.251,133.971,229382,4
+Christine Sandtorv,Vals Til Mamma,6GY0copu5GDGC7BDxwPDSR,14,2009,singer-songwriter,0.416,0.326,0,-11.432,1,0.0309,0.312,0.000396,0.131,0.409,79.872,206533,3
+Cheer Chen,太多,0hmaekX2AsbwS8BgjAhELm,22,2012,singer-songwriter,0.626,0.316,2,-11.355,1,0.0361,0.291,0.000586,0.162,0.106,120.339,320933,4
+Simon Kvamm,I Luften,0brWrK3Lj7pLNCN5ZtRlzl,19,2017,singer-songwriter,0.442,0.437,9,-9.922,0,0.0423,0.752,1.44e-05,0.11,0.166,170.115,277990,4
+Bob Dylan,Make You Feel My Love - 2022 Remix,2TMFbqJFY1topYDHwuXEwq,33,2023,singer-songwriter,0.458,0.316,1,-8.967,1,0.0268,0.742,7.26e-05,0.0986,0.255,143.34,210800,4
+Holly Williams,Without You,0Mxv6XIYvBxMXiCe2JVoK8,12,2013,singer-songwriter,0.498,0.527,0,-7.791,1,0.0265,0.778,0.000495,0.105,0.34,80.155,237693,4
+Jeff Lang,The Road Leads Down,4fc2bL6CYeQ4Ncl6fwjl7L,12,2006,singer-songwriter,0.654,0.722,7,-8.087,0,0.0255,0.536,0.084,0.0795,0.656,130.719,171893,4
+Rae Spoon,Ocean Blue,3eb9lgvOpZoW3qpW30PNOZ,12,2012,singer-songwriter,0.655,0.52,0,-7.541,1,0.0318,0.283,0.000478,0.0801,0.697,129.968,248493,4
+Poco,You Better Think Twice,4r41vulaRp1wxeTAox19l2,14,2005,singer-songwriter,0.511,0.863,11,-9.438,1,0.0355,0.00296,0.0337,0.314,0.891,167.648,201467,4
+Delaney Davidson,Little Heart,5jxrNZFEcVex6TphZw1a53,24,2014,singer-songwriter,0.457,0.541,11,-6.71,1,0.0298,0.0758,0.00265,0.11,0.794,151.881,179360,4
+Naoto Inti Raymi,今のキミを忘れない,3GHiz7CXQ7LgaW9OMcTUIR,42,2011,singer-songwriter,0.668,0.78,6,-4.152,0,0.0278,0.0186,0.0,0.186,0.68,112.985,262240,4
+Willie Nelson,Texas In My Soul,5DfCtfqzFuB7VSkd9exof3,10,2008,singer-songwriter,0.717,0.739,7,-8.262,1,0.0499,0.735,0.00123,0.0633,0.825,106.334,119867,4
+Ane Brun,Always On My Mind,6xgZswMoI5ncV8e5jhiRsC,42,2017,singer-songwriter,0.384,0.199,3,-11.617,1,0.0337,0.958,0.00219,0.116,0.353,140.584,206587,3
+Beth Rowley,Nobody's Fault But Mine,1wH0q2JciEUBbzxjIvZYj4,27,2008,singer-songwriter,0.329,0.272,4,-9.208,0,0.0307,0.862,2.68e-05,0.106,0.13,179.703,230133,3
+Neil Young,After the Goldrush,3u7eQmFOUDATeKMPUjDpGs,17,2012,singer-songwriter,0.216,0.0282,3,-21.51,1,0.042,0.971,0.00471,0.133,0.0765,171.817,186147,3
+Júníus Meyvant,Mr. Minister Great,6MISEWI0CcgCeQjN3QLm6e,24,2017,singer-songwriter,0.594,0.492,2,-8.824,1,0.0292,0.327,0.0198,0.181,0.637,144.015,282267,4
+Paul Simon,Everything About It Is a Love Song,1Uw5mQ2YncROJ7nUGaUhHZ,17,2006,singer-songwriter,0.556,0.569,6,-9.761,1,0.0392,0.429,0.0453,0.134,0.187,137.899,237147,4
+Eleni Drake,Pink Pools,01IeBj8Ep24Pgeh2WilK3E,36,2021,singer-songwriter,0.727,0.469,4,-10.398,0,0.0431,0.177,0.267,0.131,0.571,118.977,198250,4
+Benjamin Dakota Rogers,Rockabye,3ImiqWWOoigtnWFYFobMDD,18,2019,singer-songwriter,0.659,0.238,2,-12.351,1,0.031,0.833,0.000876,0.206,0.223,135.033,307084,4
+Anne Grete Preus,Vårherres Klinkekule,05bMcVSzroXN6oKlKw5804,15,2005,singer-songwriter,0.716,0.567,11,-9.343,0,0.0367,0.626,0.00153,0.657,0.484,135.996,306013,4
+陳粒,走马,0cMCCfgXNvzpn9AgFJib76,45,2015,singer-songwriter,0.608,0.424,0,-8.638,1,0.0345,0.892,0.00238,0.0909,0.218,139.748,237547,4
+Nicole Dollanganger,Valley of the Dead,4zkIYpw2sr2DCB3e0dM98j,21,2012,singer-songwriter,0.468,0.0189,0,-20.683,0,0.0556,0.987,5.37e-06,0.124,0.602,145.81,230500,4
+Sufjan Stevens,Vito's Ordination Song,3FmRQ92fBWRDenV3mtPQEw,33,2003,singer-songwriter,0.484,0.446,9,-12.994,1,0.0332,0.567,0.591,0.0984,0.0761,133.993,426787,4
+Bruce Springsteen,Outside Looking In,2nSsS9Rf6HQeJ7yK4mw1kP,22,2010,singer-songwriter,0.428,0.813,9,-6.721,1,0.0815,0.00271,0.00234,0.038,0.61,129.979,136573,4
+Riley Pearce,Electricity,2s0jL6JXs2zAGtMnQcXfLb,37,2020,singer-songwriter,0.712,0.295,2,-9.802,0,0.027,0.784,6.29e-06,0.0871,0.159,104.04,222520,4
+Jeff Buckley,"Dream Brother - Live at King Cat Theater, Seattle, WA - May 1995",0b3JSRGUy44ibCYGRzWF0b,10,2009,singer-songwriter,0.314,0.5,0,-12.168,1,0.031,0.0941,0.00675,0.334,0.112,95.707,430133,4
+Lucinda Williams,West,5mNuybrIUi8NS9JGqAE8Je,15,2007,singer-songwriter,0.583,0.265,4,-12.053,1,0.027,0.76,0.000172,0.0937,0.239,102.525,344187,3
+陳楚生,西涌客栈/思念一个荒废的名字,1zVQkdByaUNYLG6RqAgK7H,21,2018,singer-songwriter,0.448,0.503,9,-5.775,1,0.0334,0.584,0.0,0.907,0.222,116.004,361219,4
+Marcus Mumford,How (feat. Brandi Carlile),171xo7JC4bf7vqFmjF88M8,51,2022,singer-songwriter,0.444,0.0789,11,-13.848,0,0.0464,0.84,0.000164,0.106,0.154,87.348,224893,4
+Bruce Springsteen,"Born In the U.S.A. (Introduction Part 1) - Live at the Walter Kerr Theatre, New York, NY - July 2018",4XC1US7ZHyZ6Gpa19zjuJS,19,2018,singer-songwriter,0.613,0.177,9,-22.738,1,0.93,0.761,0.0,0.416,0.423,138.561,256587,3
+Hayley Gene Penner,Sleep at Night,3ld3dKvrZzHIwKOINcg7X6,26,2020,singer-songwriter,0.805,0.497,7,-7.703,1,0.0592,0.536,0.0,0.125,0.545,126.102,219807,4
+KT Tunstall,Stoppin' The Love,37p48vBggEeZyO6JvT6VxI,28,2005,singer-songwriter,0.636,0.647,4,-6.206,1,0.0408,0.673,0.0,0.0987,0.706,144.828,242760,4
+Jax,Like My Father - Acoustic Version,71ejpdyOCAodqqdRjTa0gh,49,2021,singer-songwriter,0.703,0.312,5,-9.66,1,0.0464,0.841,0.0,0.108,0.406,140.01,185255,4
+Corb Lund,Talk Too Much,2CBGg5LBn3gK6HK8s5rwoq,13,2015,singer-songwriter,0.504,0.596,7,-6.652,1,0.0314,0.00982,0.000307,0.0789,0.642,140.929,257467,4
+James Taylor,In The Midnight Hour,0IqfR9NSTljo3wFjqHRpGy,10,2009,singer-songwriter,0.748,0.564,11,-6.638,1,0.0512,0.35,2.29e-06,0.41,0.814,108.1,194200,4
+Abigail Lapell,Flag Song,5kjmFDrIdvFNVtnP9ECJE9,18,2017,singer-songwriter,0.539,0.136,7,-14.951,1,0.0345,0.566,0.00522,0.124,0.115,120.147,131053,4
+Guy Garvey,Electricity,3ePJVStBLVCwQGohf8TLI9,36,2015,singer-songwriter,0.369,0.169,1,-16.231,0,0.03,0.862,0.0308,0.127,0.102,96.311,221787,3
+Yosef Karduner,Lo L'hitya'esh (Live),4MaKb1HK7u4BxacOqIVdsF,8,2010,singer-songwriter,0.46,0.76,5,-7.243,0,0.0501,0.778,0.0,0.5,0.812,124.627,181240,4
+Richard & Linda Thompson,Hokey Pokey,5RcTRQEN97tHCfXhdgCibs,6,2000,singer-songwriter,0.586,0.766,9,-10.557,1,0.0374,0.0308,0.000357,0.275,0.85,76.426,200667,4
+Slaid Cleaves,Beautiful Thing,788vwza1Z3oeogcJvV8Bah,13,2009,singer-songwriter,0.642,0.546,2,-9.707,0,0.0309,0.74,0.000512,0.0762,0.651,119.722,196373,4
+Madds Buckley,"Prayer X (From ""Banana Fish"")",354NSvkz2VLOWLyBQjvHbD,24,2020,singer-songwriter,0.618,0.575,8,-10.943,0,0.0538,0.238,0.000208,0.111,0.562,87.013,197701,4
+TRANG,Bài Hát Của Em,0uckSzwqy8fNGUsBeDF5ZS,24,2018,singer-songwriter,0.647,0.331,11,-9.811,0,0.0334,0.862,0.0,0.0936,0.447,109.847,220364,4
+Lisa Hannigan,Pistashio,18wyZJ9zY1uFcxesMBNPf1,23,2008,singer-songwriter,0.588,0.203,0,-16.25,1,0.0392,0.846,9.09e-05,0.15,0.339,119.789,205293,4
+LaLa Hsu,心裡學,7CjUELqDMLUo2fu61nkJOJ,33,2017,singer-songwriter,0.508,0.357,5,-9.181,1,0.0427,0.593,0.0,0.119,0.256,123.313,302160,3
+Ani DiFranco,Woe Be Gone,6THBeLsq9ktOvenrHC80eQ,18,2014,singer-songwriter,0.77,0.389,7,-10.231,1,0.0473,0.587,0.00851,0.0769,0.367,107.25,240787,4
+Takuro Yoshida,人間なんて,4Dl2WAzB3dsjJ9Br19uXZc,25,2006,singer-songwriter,0.55,0.652,11,-11.18,0,0.0444,0.0594,0.00156,0.228,0.426,95.447,129000,4
+Willie Nelson,Streets Of Baltimore,3ZaT1gxWBkV9jUSocsmFrk,39,2023,singer-songwriter,0.726,0.499,4,-8.982,1,0.0319,0.296,9.02e-05,0.155,0.57,116.18,181133,4
+Bobby Kim,Stranger (Part.1),0DRTB7wxP069sNzz4MAtvB,36,2014,singer-songwriter,0.572,0.483,2,-7.857,0,0.0267,0.703,0.0,0.223,0.331,132.958,222694,3
+Neil Diamond,Soliltary Man - Remastered / Mono,2Vjrq7XjZLnQ2vnqsBsIzK,21,2018,singer-songwriter,0.53,0.682,4,-5.982,0,0.0318,0.167,0.0,0.352,0.784,78.819,152067,4
+Daniel Norgren,Moonshine Got Me,6LrxNNCaqssGmyCGi1EPJA,49,2013,singer-songwriter,0.458,0.497,8,-9.66,1,0.0479,0.716,0.155,0.0707,0.144,107.748,531333,4
+Ane Brun,Blue Moon,7z35YvaX2UBoDcqofWKsho,37,2023,singer-songwriter,0.405,0.147,11,-14.293,1,0.0382,0.978,0.0173,0.126,0.0744,125.477,254867,5
+Steve Earle,Don't Take It Too Bad,5HVJ3f51C3Fl4xCl3EDcvh,13,2009,singer-songwriter,0.607,0.188,0,-15.515,1,0.0282,0.686,0.00122,0.0953,0.421,109.763,192173,3
+Michaela Anne,By Our Design,218xrI3IoInlZWablELMrG,41,2019,singer-songwriter,0.569,0.482,2,-8.655,1,0.0288,0.208,0.0023,0.0772,0.502,111.949,192557,4
+Joan Osborne,Spooky - 1998 Single Version,6UufhkenBSYBvcFNN0CEGI,18,2007,singer-songwriter,0.729,0.327,2,-15.164,1,0.0272,0.359,0.225,0.12,0.667,89.841,243747,4
+Serena Ryder,Waterfall (feat. Melissa Etheridge) - Remix,4bdIW9WTZ0oopTGX1XFuIG,29,2021,singer-songwriter,0.68,0.661,4,-6.327,0,0.0345,0.386,0.00233,0.0804,0.541,95.092,158142,4
+Sophie Zelmani,Gone With the Madness,5OTlD83Uq5ZcbSnWN1vBrC,17,2002,singer-songwriter,0.497,0.183,0,-17.453,1,0.0344,0.834,0.629,0.113,0.229,146.94,174067,3
+David Myles,I Will Love You,1LHomqbf7zcQQ2zslVMc7i,25,2010,singer-songwriter,0.631,0.235,6,-13.144,1,0.0461,0.368,0.0326,0.109,0.239,171.493,184547,4
+Rae Spoon,Do Whatever the Heck You Want,6qqeiwr7YiljWgjjTf9nRg,19,2018,singer-songwriter,0.726,0.526,0,-5.586,1,0.0298,0.422,0.0,0.139,0.444,123.019,169253,4
+Björk,Possibly Maybe,2avHMkp951YLc7HFgiXa8h,17,2002,singer-songwriter,0.393,0.195,11,-14.427,1,0.0375,0.705,0.000784,0.25,0.193,112.254,307173,4
+Elvis Costello,The River In Reverse,0V0ioOYRVUnE6H01S1lW7l,10,2006,singer-songwriter,0.842,0.352,1,-9.738,0,0.055,0.407,0.0,0.147,0.569,126.14,272267,4
+Willie Nelson,I Love You So Much It Hurts,3SuLzISsJVyoWEipaBqLu1,6,2007,singer-songwriter,0.5,0.311,9,-11.01,1,0.0263,0.763,0.0226,0.175,0.266,86.921,188267,3
+Jax,Cinderella Snapped,3udCid1W2whR6CQrVpsKUh,63,2023,singer-songwriter,0.752,0.522,1,-5.993,1,0.0507,0.0193,0.0,0.105,0.65,139.936,173103,3
+Brent Morgan,Deserve You,03b1UWPhuDDX2wd0RBrVaQ,31,2019,singer-songwriter,0.676,0.203,10,-17.144,0,0.0377,0.357,0.000352,0.155,0.167,120.032,180000,4
+Liz Longley,Outta My Head,1U699dkhXEKoYVTzsg5miN,11,2015,singer-songwriter,0.376,0.644,11,-5.176,1,0.035,0.261,0.0,0.128,0.357,164.24,237613,4
+Bryan Adams,When You're Gone,0oTqNCCG4jgm5frbf4NwC3,8,2005,singer-songwriter,0.513,0.916,0,-4.703,1,0.0325,0.00112,0.0,0.0899,0.789,125.503,204267,4
+Tom Petty,"Louisiana Rain - Alternate Version, 1979",1CIxolyAGa81xELTdUc8zG,20,2018,singer-songwriter,0.563,0.597,7,-6.405,1,0.0283,0.0772,0.0,0.14,0.686,117.399,304707,4
+鄧福如 AFÜ,如果有如果,2R6JuT1bLvC8ciqpYeqBz2,51,2011,singer-songwriter,0.46,0.245,2,-9.99,1,0.0298,0.926,1.46e-06,0.0936,0.233,135.611,299533,4
+Bruce Cockburn,You Get Bigger As You Go,0mQphdjfSCEpgXKOtumIXH,7,2002,singer-songwriter,0.532,0.328,9,-13.735,1,0.0353,0.63,0.000172,0.0583,0.286,167.368,278267,4
+Daichi Miura,Drama,1Cfh3PAlMqJijKUSU253JL,28,2010,singer-songwriter,0.628,0.812,4,-5.168,0,0.13,0.148,0.0,0.158,0.561,126.049,253133,4
+Lilly Hiatt,Candy Lunch,2c7EXWTCX3lKkUh4pdxpdM,22,2020,singer-songwriter,0.532,0.388,11,-12.001,1,0.0296,0.197,1.14e-05,0.133,0.631,80.971,203309,4
+Sara Kays,Math,3K2IhQ89etwG7ibJscw8fj,43,2022,singer-songwriter,0.63,0.61,1,-6.077,1,0.0374,0.38,0.0,0.132,0.442,93.997,176315,4
+Carole King,"Home Again - Live From Central Park, New York City, May 26, 1973",0Hu4S65BK6WAmQHQ9EP4v1,31,2023,singer-songwriter,0.498,0.209,9,-18.497,1,0.0634,0.971,2.11e-06,0.888,0.528,75.035,163539,4
+Lillie Mae,Forever and Then Some,2JCkZhTXY187fNi9aIPzHQ,33,2017,singer-songwriter,0.586,0.607,2,-11.115,1,0.0338,0.457,0.271,0.116,0.459,98.09,289307,4
+Shlomo Artzi,זה מה שנשאר,4TtHdggsoQ0cGafF9i7aZr,12,2005,singer-songwriter,0.316,0.872,0,-5.757,0,0.136,0.0959,0.0,0.79,0.323,139.32,359213,4
+Jim Croce,Who Will Buy The Wine,52erRr6zqoYrgYDiQI4ky5,13,2003,singer-songwriter,0.588,0.163,5,-16.106,1,0.0579,0.992,1.12e-06,0.139,0.554,135.468,90240,4
+Jewel,No More Tears,09fosw8GBPZcJGmGwip06w,32,2022,singer-songwriter,0.467,0.55,7,-5.337,1,0.036,0.542,0.0,0.0975,0.321,123.177,214867,3
+Jensen McRae,Starting To Get To You,5dp58cc1ttAdezO9BIoW1W,33,2021,singer-songwriter,0.845,0.401,8,-8.354,1,0.189,0.439,1.04e-06,0.103,0.552,91.071,161088,4
+Damien Rice,I Don't Want to Change You,3BFXgZr628FqwDP3pQCgvk,36,2014,singer-songwriter,0.41,0.306,4,-9.704,0,0.0348,0.472,3.28e-05,0.12,0.166,141.565,326206,4
+Joan Baez,Jackaroe,4UvV1cu1C1dMt341339rtI,11,2006,singer-songwriter,0.489,0.0418,6,-23.434,0,0.0384,0.962,0.000112,0.688,0.407,107.174,185333,4
+Cuff the Duke,Take My Money and Run,7KJHC1TV567SPO1H7BUfRq,29,2005,singer-songwriter,0.553,0.692,2,-6.308,1,0.0339,0.00447,0.0729,0.245,0.605,134.545,175160,4
+Alanis Morissette,Guardian,4EIMoM4A7D1EzHui1Y4Tlo,34,2012,singer-songwriter,0.381,0.834,10,-6.326,1,0.0401,0.00187,0.00197,0.257,0.494,179.669,258040,4
+Zhang Zhen Yue,一開始就沒退路,39DyomoTQGda7IBUFaE6x7,23,2000,singer-songwriter,0.694,0.878,11,-4.976,1,0.0317,0.166,0.111,0.164,0.757,120.063,327110,4
+Maria Mena,Not Worth It,1rbdesqJL4phqIITSayNm4,49,2023,singer-songwriter,0.524,0.802,9,-5.9,1,0.0332,0.0124,7.49e-05,0.113,0.348,105.027,236062,4
+Neko Case,Bad Luck,1OCLpatReeEFSuvINgzVp0,28,2018,singer-songwriter,0.58,0.74,3,-7.404,1,0.0491,0.242,0.000291,0.102,0.633,137.036,234481,4
+Austin Giorgio,Lips of a Witch,7hkkvTojsiRBMiXWlniwYC,43,2021,singer-songwriter,0.674,0.739,8,-6.264,1,0.149,0.0385,0.00014,0.295,0.519,105.047,160143,4
+Rosanne Cash,Will You Remember Me,5U2YanVUcR7HHBTeBHqJ9u,10,2003,singer-songwriter,0.62,0.463,2,-10.081,1,0.028,0.4,0.0126,0.186,0.444,77.786,161000,4
+Tracy Chapman,Telling Stories - 2015 Remaster,3AGByugnI0dN0Di08NPh5n,37,2015,singer-songwriter,0.659,0.722,7,-7.796,1,0.0304,0.0721,0.000612,0.112,0.302,122.522,238000,4
+Nick Mulvey,Nitrous,50D2vYuZPaZqdyJb8LP45D,36,2014,singer-songwriter,0.667,0.502,5,-6.815,1,0.0318,0.648,0.00227,0.334,0.599,111.988,192867,4
+Björk,"My Juvenile (feat. Antony as "" the Conscience"")",0jkARHcw01QkNejogTwlbl,15,2007,singer-songwriter,0.356,0.176,9,-12.902,0,0.0429,0.942,2.74e-06,0.112,0.387,171.093,243040,4
+Lisa Loeb,Donguri / Rolling Acorn,1CoguMgusymYyzH7oRMglX,17,2003,singer-songwriter,0.417,0.0835,5,-19.574,1,0.0382,0.725,0.0,0.0961,0.174,175.614,107827,4
+Willie Nelson,Blue Eyes Crying In The Rain - Live,5aKfWa1Y2e8D7GMkPXvtqP,7,2012,singer-songwriter,0.474,0.394,4,-11.666,1,0.0446,0.43,0.0182,0.813,0.368,107.558,160547,4
+Yavuz Bingöl,El Gibi,1hZfECaDaZwdkvajrTEIIy,5,2002,singer-songwriter,0.36,0.262,5,-9.889,0,0.0345,0.893,0.0,0.278,0.145,99.298,256907,3
+Yun DDanDDan,니가 보고싶은 밤 The Night I Miss You,09RSdKL22sHGrcidpL3g3d,32,2017,singer-songwriter,0.786,0.232,7,-7.682,1,0.0319,0.8,0.0,0.11,0.738,107.91,298881,4
+Vivian Hsu,美人魚,4joM7xaYqLhqa2S9J4qnZW,21,2006,singer-songwriter,0.624,0.539,7,-5.745,1,0.033,0.475,0.0,0.118,0.284,138.977,232067,4
+Sarah McLachlan,Bring On The Wonder,4iqkUk1kvVMZqxwJjKJJhu,27,2010,singer-songwriter,0.393,0.167,9,-11.576,0,0.0406,0.907,0.0,0.0682,0.122,84.581,174560,4
+Nicole Dollanganger,Holes of Albinos,21sQmmjik29iTCHLWX4eZb,21,2012,singer-songwriter,0.627,0.0274,1,-17.851,1,0.0502,0.917,4.17e-05,0.116,0.223,93.746,87533,4
+Jackie Venson,When It's Right #evolution,1mqSNX0BzDNaAdqvQyfG9d,18,2023,singer-songwriter,0.486,0.48,8,-6.025,1,0.0416,0.337,0.000133,0.11,0.263,180.464,314358,4
+Slaid Cleaves,If I Had a Heart,2DKB173mrVfAGcNli0mDdI,13,2017,singer-songwriter,0.626,0.408,5,-11.822,1,0.0359,0.767,6.73e-06,0.103,0.254,78.028,226947,4
+Ziggy Alberts,Walk You Home,44oBYyoCoUd6puVrYI9Y33,36,2020,singer-songwriter,0.621,0.228,3,-12.277,1,0.089,0.829,0.0,0.185,0.567,129.196,298133,4
+Maria Mena,Not OK,4vBMASGWem33g5wqMe7MDL,40,2020,singer-songwriter,0.624,0.546,11,-6.583,1,0.0372,0.0722,0.0,0.122,0.129,99.784,209587,4
+Neil Diamond,Shilo - Live In Las Vegas / 2002,3gbl83WG76vFjk5DVV4XAl,6,2003,singer-songwriter,0.397,0.836,0,-8.456,1,0.0754,0.00373,0.00246,0.723,0.439,137.638,232507,4
+Annie DiRusso,Judgements From The World's Greatest Band,6vljIxiQsjnHIIGaBjXp3p,28,2020,singer-songwriter,0.42,0.677,5,-9.41,0,0.0529,0.00498,1.07e-06,0.193,0.54,165.085,214692,4
+Jeff Tweedy,Muzzle Of Bees,2cxtDYLRwQqRa3PRapbnWY,19,2017,singer-songwriter,0.642,0.123,6,-16.984,0,0.0453,0.902,0.0428,0.112,0.354,104.805,229600,4
+Cheer Chen,小小校歌,3GIo58Hnl0v1cl3AcW6MF9,12,2004,singer-songwriter,0.535,0.174,1,-15.601,0,0.0433,0.903,0.000645,0.107,0.35,68.428,83440,4
+Kris Kristofferson,Me and Bobby McGee - Live,3d1xCdNqFzJkY6b02ZaUWo,19,2006,singer-songwriter,0.337,0.877,2,-6.385,1,0.186,0.241,0.000633,0.983,0.709,159.378,256573,4
+Bruce Springsteen,"Dancing In the Dark - Live at the Brendan Byrne Arena, East Rutherford, NJ - 08/05/84",2N5BOzKCWxkRfpsg6OZtqH,34,2018,singer-songwriter,0.388,0.891,11,-7.638,1,0.0566,0.000652,0.000111,0.804,0.264,146.66,333867,4
+Kate Stephenson,You,7yTYGBXTSWlurABnu4dTF8,27,2020,singer-songwriter,0.384,0.104,0,-23.268,1,0.0516,0.897,1.82e-05,0.117,0.132,77.604,221334,4
+Laura Nyro,Time and Love,5KgSo7fPpLKBvm4UujXo3r,4,2000,singer-songwriter,0.343,0.558,0,-7.883,1,0.0393,0.791,6.21e-05,0.301,0.81,91.041,258867,4
+Willie Nelson,Laying My Burdens Down,2R6JJ1iObTktz6L2nGEMVM,6,2008,singer-songwriter,0.479,0.421,5,-11.478,1,0.0787,0.764,2e-06,0.189,0.577,146.754,156107,4
+Bonnie Raitt,Deep Water,1oByX19KVCC3VBBN9YmM5f,8,2005,singer-songwriter,0.678,0.708,5,-8.491,0,0.0931,0.233,0.045,0.0353,0.827,79.944,236200,4
+Nick Mulvey,When The Body Is Gone - SA TA NA MA DEMO,32q6vxuceVf5FjUmCabNFf,33,2018,singer-songwriter,0.677,0.211,8,-14.91,1,0.0334,0.893,0.0239,0.111,0.201,127.93,245939,4
+Jonathan Lee,當愛已成往事,4RQebOri1HCmrfG3osSnQz,39,2003,singer-songwriter,0.369,0.385,8,-9.274,1,0.0343,0.525,0.0,0.0998,0.157,122.812,280836,4
+颜人中,有可能的夜晚,4VscoNglK5m5QqD0VM4rVW,27,2019,singer-songwriter,0.64,0.371,2,-8.813,1,0.0281,0.489,1.89e-05,0.372,0.2,92.092,276522,4
+Paolo Nutini,Jenny Don't Be Hasty - Live at Isle of Wight Festival; EP Version,0ySqT70LzOSxFZ2bv5d6gy,20,2007,singer-songwriter,0.52,0.788,6,-5.382,0,0.0526,0.00596,0.0,0.718,0.423,123.136,312529,4
+Bruce Springsteen,We Shall Overcome,62Vo9XI7EBbop77Wl4QoQ9,29,2006,singer-songwriter,0.288,0.454,10,-10.488,1,0.0284,0.518,6.76e-05,0.115,0.363,105.297,290920,4
+Björk,Quicksand,3RwzJtMIRCv8HEJOjWqxhV,22,2015,singer-songwriter,0.624,0.79,2,-7.422,1,0.0472,0.00435,0.000955,0.0865,0.358,149.984,225230,3
+Nanci Griffith,One Of These Days,4n7QhHtoIijMlIWoMwQ4jo,7,2009,singer-songwriter,0.618,0.651,9,-7.151,1,0.0294,0.0867,0.0,0.13,0.631,85.05,182253,4
+Judy Collins,Belfast to Boston,4TJRrhByyzYoEGfhaHH8nJ,15,2015,singer-songwriter,0.489,0.301,6,-14.331,0,0.0293,0.854,0.00166,0.169,0.374,142.594,223560,3
+Bob Dylan,"Bring Me a Little Water - Unreleased, New Morning",2EHkUuzHxORmYrLjYJ18xE,14,2013,singer-songwriter,0.582,0.475,3,-8.5,1,0.0308,0.803,2.69e-06,0.0799,0.457,108.179,238213,3
+Bob Dylan,"Cold Irons Bound - Live in Oslo, Norway - May 19, 2000",08Yi8TRUcn2AyCWwpMqe97,24,2023,singer-songwriter,0.329,0.745,10,-7.95,0,0.101,0.0179,0.000127,0.354,0.305,148.44,388840,4
+詹雯婷,河畔,5tF8SFged0Sw8l8CBoQdT1,26,2017,singer-songwriter,0.543,0.896,5,-5.604,1,0.0435,0.274,0.0572,0.109,0.453,114.012,324200,4
+Natalie Merchant,San Andreas Fault - Remastered,2VG3iGhKcEobwXUUDMI7Ls,16,2005,singer-songwriter,0.763,0.345,1,-13.124,1,0.0794,0.536,0.000273,0.0843,0.404,157.415,238493,4
+Patrick Droney,Glitter,2B3kOESoYsMNFr8LxijuIc,53,2020,singer-songwriter,0.527,0.285,7,-9.835,1,0.0349,0.884,0.0,0.123,0.268,129.856,215904,4
+KT Tunstall,One Day,5te2TZpUe25i8xqnRL05we,18,2006,singer-songwriter,0.603,0.731,7,-5.87,1,0.0339,0.672,2.96e-05,0.223,0.732,155.371,302933,4
+Liz Longley,Send You My Love,3pCKW6GMTmswwLNa2Q8NR2,27,2020,singer-songwriter,0.719,0.475,5,-6.093,1,0.0472,0.114,0.0,0.19,0.484,143.887,178573,4
+Björk,Family,3aJWl5poTINu7UzyYEzvSl,23,2015,singer-songwriter,0.17,0.293,8,-13.002,0,0.0392,0.0937,0.000322,0.112,0.0383,77.861,482475,3
+Jimmy Webb,Galveston (feat. Lucinda Williams),1bEiI14zSsfkjA6uaIc5UZ,10,2010,singer-songwriter,0.515,0.365,4,-8.41,1,0.025,0.357,1.4e-05,0.0964,0.189,93.987,237280,4
+Ciaran Lavery,Everything Is Made to Last,7JX1pBVf5bdvaMkaLbpkds,20,2018,singer-songwriter,0.484,0.763,3,-7.623,1,0.0374,0.642,0.238,0.341,0.685,75.698,228320,4
+Ronghao Li,不說 (電影《從你的全世界路過》路過版主題曲),4cQIve5Heuo98gudSCPBCL,37,2017,singer-songwriter,0.527,0.327,0,-9.051,1,0.0277,0.629,0.000116,0.107,0.112,120.015,326474,4
+Isak Danielson,Stay Here,1bbyEVsDthFayVscsu3vDD,30,2018,singer-songwriter,0.483,0.209,5,-9.129,1,0.0721,0.936,0.0,0.129,0.316,82.201,153084,4
+Jim Croce,Country Girl,2bTcHeOkfmQRKjs9YpIFYn,12,2011,singer-songwriter,0.656,0.396,2,-13.308,1,0.0335,0.771,2.25e-06,0.116,0.939,129.228,108787,4
+Joan Osborne,Love Is Alive,1zbyPTqrZwYeIMz1NsS7Si,13,2000,singer-songwriter,0.527,0.759,5,-5.142,0,0.0714,0.0674,0.0,0.0847,0.961,187.924,206133,4
+R-chord,於是長大了以後,5THlmoDE2Pq3c7vwBK7eJ8,37,2011,singer-songwriter,0.604,0.645,11,-7.735,1,0.0456,0.308,1.91e-06,0.752,0.581,91.018,236813,4
+Willie Nelson,Midnight Rider,0Vc3RrkUAyg4DR5ZwkSTGA,9,2004,singer-songwriter,0.511,0.9,1,-3.854,1,0.147,0.00388,0.000488,0.107,0.628,97.227,180227,4
+Bob Dylan,Ring Them Bells,5lji9HaUXBrswktaRck6G0,23,2014,singer-songwriter,0.529,0.309,1,-12.101,1,0.0391,0.766,3.7e-06,0.173,0.135,75.991,180920,4
+Sufjan Stevens,Back To Oz,6s0F09N7jp4wSqN8vVgMQR,49,2021,singer-songwriter,0.438,0.408,8,-10.461,0,0.0314,0.528,0.00118,0.131,0.441,170.068,252053,4
+Glen Hansard,Philander,3QPsyyryn6lGMUkjfvUi0O,16,2012,singer-songwriter,0.466,0.182,9,-13.58,0,0.0333,0.638,0.127,0.152,0.126,61.078,231920,3
+Bertie Newman,Lost,4MNHz4yBj6CEKwkAIiFrq2,30,2021,singer-songwriter,0.34,0.239,11,-12.582,0,0.0384,0.666,0.00136,0.117,0.249,59.724,248000,4
+Bruce Springsteen,"The Ghost of Tom Joad - Live at the Point Theatre, Dublin, Ireland - November 2006",17TASuYvlSWXiUlg3WEjyd,21,2007,singer-songwriter,0.445,0.499,4,-7.727,0,0.0293,0.601,9.17e-05,0.941,0.285,83.894,348533,4
+Lee Jin Ah,GOOD NIGHT - Piano Trio,3SIY15ufAu6pegSR145TVt,24,2017,singer-songwriter,0.407,0.12,2,-21.636,1,0.0357,0.862,0.137,0.131,0.143,96.928,274495,4
+Ken Hirai,魔法って言っていいかな?,4jfcbvleIETEIFL1X8dk45,26,2012,singer-songwriter,0.532,0.31,1,-7.933,1,0.0349,0.828,0.0,0.13,0.522,70.232,238773,4
+John OFA Rhee,CRAZY - Hidden Track No.V 11월 선정곡,65SmmdQMq0EOkwgbcyBDWG,33,2018,singer-songwriter,0.629,0.265,0,-10.621,1,0.0811,0.845,0.00139,0.104,0.256,67.954,226103,4
+Ani DiFranco,Serpentine,0bn2ji61ygzcK5ok5lnBAV,9,2003,singer-songwriter,0.634,0.152,8,-18.394,1,0.11,0.863,0.0,0.0871,0.0435,114.474,626560,4
+Hikaru Utada,Automatic - 2004 Remastered,36cxCizI7lW49ww5S8ukRh,28,2004,singer-songwriter,0.722,0.889,1,-3.188,1,0.0434,0.0401,4.5e-05,0.188,0.732,94.76,309613,4
+Maria Mena,Internal Dialogue,07yGRltHBTGAT6ZYV5QfIg,23,2005,singer-songwriter,0.644,0.565,1,-7.802,0,0.0308,0.0517,0.0,0.112,0.143,124.967,173747,4
+Shadya Lan,秘密,7GFjqrjTJOD7irQ9rRpJ47,46,2009,singer-songwriter,0.469,0.387,11,-8.752,1,0.0343,0.704,0.0,0.103,0.357,131.896,307707,4
+Nguyen Huong Ly,Thế Thái,1aLYH18gB0oHnsCwmF3z35,33,2020,singer-songwriter,0.751,0.52,5,-7.4,0,0.0375,0.466,0.0,0.286,0.403,96.996,234594,4
+Didirri,Jude,68Do7IYHfNDYKypzgQUW46,32,2017,singer-songwriter,0.413,0.205,0,-11.917,1,0.0267,0.361,2.23e-06,0.136,0.245,81.983,224893,4
+薩吉,Never Let You Go (電視劇《我只喜歡你》片尾曲),0bqITcmyalcLGbmfWO45pK,31,2019,singer-songwriter,0.512,0.242,3,-7.954,0,0.0336,0.823,1.06e-05,0.143,0.23,99.884,219872,4
+Willie Nelson,A Beautiful Time,398nvI8h5Gk23Dd7GzbYN3,32,2022,singer-songwriter,0.569,0.424,9,-9.245,1,0.0305,0.602,0.00738,0.137,0.328,108.314,295720,3
+Daniel Norgren,Prettiest World,7xFJ1JRuxYvrUda4alSFqd,27,2008,singer-songwriter,0.502,0.0232,7,-14.241,1,0.0386,0.905,0.0,0.103,0.299,129.747,198960,3
+Emilíana Torrini,I Hope That I Don't Fall in Love with You,5I1UFaot9CKa5BA26yGePX,26,2018,singer-songwriter,0.531,0.184,2,-9.964,1,0.0431,0.941,0.000148,0.135,0.346,167.873,222533,4
+Jackie Venson,All Rise #evolution,3BXrKkDDhyx1J92JWU9EzS,20,2023,singer-songwriter,0.592,0.694,10,-4.881,0,0.0358,0.362,0.0,0.0959,0.516,150.116,187462,4
+Ziggy Alberts,Sleep Well,6pvOzpdDWIlcvvpEewYPZw,21,2013,singer-songwriter,0.621,0.385,11,-10.856,1,0.166,0.538,0.0,0.0764,0.67,79.732,214482,4
+Mary Gauthier,"It Ain't The Wind, It's The Rain",4joHoye80zncLa6RPuDkJO,12,2005,singer-songwriter,0.168,0.746,2,-5.598,1,0.0731,0.312,0.00092,0.215,0.434,202.187,242960,3
+BLÜ EYES,you'd never know,1I2zZtHCrBkoTgfwxnNKZ9,58,2022,singer-songwriter,0.626,0.43,8,-9.704,1,0.0741,0.149,1.01e-05,0.194,0.174,149.859,185321,4
+Slaid Cleaves,Tiger Tom Dixon's Blues,6KMOWaumMH4azgcot1uVNq,7,2004,singer-songwriter,0.531,0.775,11,-6.509,0,0.0979,0.293,1.91e-06,0.123,0.581,121.519,246999,4
+Vũ.,Một Giấc Mơ (feat. Kimmese),1CIR7UAbM5j9hcThZS8Dkz,40,2020,singer-songwriter,0.674,0.474,0,-6.662,1,0.0374,0.523,2.41e-05,0.294,0.448,132.968,227487,3
+Nina Nesbitt,The Hardest Part,0hjANar01OL1RWox3nYT7k,44,2013,singer-songwriter,0.504,0.0719,2,-9.714,1,0.0522,0.912,0.0,0.0965,0.197,177.696,242991,4
+Guy Clark,Doctor Good Doctor,1n1zNhn8SM3C2DiXiwE9dP,6,2006,singer-songwriter,0.653,0.233,9,-17.422,1,0.102,0.466,3.44e-05,0.192,0.54,101.923,153933,4
+Shimon Buskila,את המחר שלי,444Z34Utuhvi4P7gPONLLj,25,2007,singer-songwriter,0.516,0.695,1,-3.814,0,0.0281,0.314,0.0,0.203,0.387,131.929,259240,4
+Lady Lamb,Atlas,5EpuKWgjQSZfORb6oXr9Io,14,2015,singer-songwriter,0.297,0.34,7,-8.714,1,0.0359,0.442,0.000757,0.0794,0.0828,130.482,364253,4
+Kris Kristofferson,Sunday Morning Coming Down - Remastered,0VfT2ZqLqVkPifFgY9z36r,17,2017,singer-songwriter,0.605,0.406,7,-8.442,1,0.0263,0.284,0.00344,0.113,0.148,77.795,320187,4
+Paul Simon,The Late Great Johnny Ace,7EYp1lmf3zR0RW03ZP79Zh,19,2007,singer-songwriter,0.355,0.123,2,-17.078,0,0.0356,0.864,0.00299,0.104,0.0558,111.754,287907,4
+Blaze Foley,Springtime in Uganda,0tKXTuqUqgNQJGN4G8ALJx,12,2004,singer-songwriter,0.603,0.254,9,-11.592,1,0.036,0.958,0.0,0.695,0.349,82.745,262667,3
+Rene Liu,落跑新娘,44QEXS4NFH91XaXX62lEcw,18,2008,singer-songwriter,0.415,0.168,8,-13.176,0,0.0367,0.947,0.0,0.104,0.378,180.071,231147,4
+Leonard Cohen,To a Teacher,1VpnfS8qP8at4oFweNPKop,16,2004,singer-songwriter,0.832,0.226,0,-16.23,1,0.104,0.257,0.0322,0.0968,0.552,126.038,152560,4
+Willie Nelson,Busted - Live,4MMsMX14dICQIKAVtzAaPd,10,2011,singer-songwriter,0.351,0.612,9,-7.513,1,0.0647,0.771,0.000208,0.742,0.602,195.029,304413,3
+Joel Plaskett,Absentminded Melody,4EqqvFzpyGOjZ4AHfuOMsl,16,2005,singer-songwriter,0.494,0.346,5,-8.536,1,0.0442,0.906,0.0,0.18,0.452,142.945,99787,4
+Matthew Barber,One Little Piece of My Love,7BPlCZLxGBeBOu2FGQ5osH,14,2009,singer-songwriter,0.618,0.736,5,-5.402,1,0.0265,0.395,5.72e-05,0.146,0.819,127.406,158813,4
+Wu Bai,妳是我的花朵,1PZ3SMDCZHKY2xpYhrlbCy,39,2006,singer-songwriter,0.613,0.792,11,-6.947,0,0.0302,0.00596,8.63e-05,0.142,0.755,135.952,250600,4
+Bruce Springsteen,Hitch Hikin',6Jt1ccJG0ZiT9acRHl1YfQ,37,2019,singer-songwriter,0.545,0.326,7,-10.29,1,0.0334,0.652,0.0,0.13,0.22,127.077,216133,4
+Bob Dylan,Highlands - 2022 Remix,35kzdxWmkruc1oIdHUfOwX,32,2023,singer-songwriter,0.62,0.504,11,-8.54,0,0.0337,0.791,7.76e-05,0.135,0.543,122.014,991800,4
+Guy Clark,Heavy Metal,1ltxuhWdVWK9g80tiZuFgJ,6,2006,singer-songwriter,0.779,0.168,4,-15.055,0,0.0549,0.363,0.000189,0.111,0.226,104.584,182533,4
+KT Tunstall,I Don't Want You Now,3FfG4S8CJ5k78WkkDG9jyA,21,2007,singer-songwriter,0.503,0.877,0,-5.79,1,0.0295,0.000788,0.00799,0.683,0.705,154.425,228613,4
+Joi Chua,談心,4O4wgirBOxQGItosZdGgaY,24,2000,singer-songwriter,0.68,0.534,7,-4.513,1,0.0293,0.861,0.0,0.163,0.537,110.131,211587,4
+Gordon Lightfoot,No Mistake About It,68IMIMhoed53U5bzdCWn8m,9,2004,singer-songwriter,0.676,0.465,9,-8.502,1,0.0265,0.904,0.303,0.145,0.604,106.589,246293,4
+Melike Şahin,Kara Orman,7w1AjATHEEGYKWs2MZy4xE,52,2019,singer-songwriter,0.453,0.219,2,-13.842,0,0.0536,0.934,0.00356,0.148,0.311,131.598,235488,3
+Lucinda Williams,"Atonement - Live (2003/The Fillmore, San Francisco)",5y8KMSkKHs3D4h6Q4FyGcp,7,2005,singer-songwriter,0.563,0.576,1,-6.078,1,0.0284,0.153,5.64e-05,0.93,0.532,67.626,358733,4
+Neil Diamond,"Cherry, Cherry - Live",5vDGOPRkkIDRlf8GuNcXBU,5,2002,singer-songwriter,0.612,0.904,9,-7.274,1,0.042,0.274,0.000297,0.887,0.723,93.345,229067,4
+Bruce Springsteen,Be True - Single LP Version - 1979,0urOl37IJY46eq8hPQWRUs,20,2015,singer-songwriter,0.354,0.89,9,-8.233,1,0.0548,0.00231,0.0224,0.256,0.733,169.758,231347,4
+Ofra Haza,Kirya,0HtmCj4idPizodnmCajeYF,10,2005,singer-songwriter,0.334,0.463,8,-10.449,1,0.0403,0.18,0.00527,0.104,0.308,144.537,371493,4
+Jin Hai Xin,Lolita,1FUBbiv0itJIoX9gmQq4z4,29,2006,singer-songwriter,0.657,0.549,9,-7.019,1,0.0313,0.669,1.54e-06,0.312,0.412,127.974,249333,4
+Neil Diamond,You Got To Me - Mono,0arYUAGbIezoycdg3SsMb5,13,2014,singer-songwriter,0.58,0.908,0,-5.194,1,0.0363,0.1,0.0,0.152,0.875,93.868,168787,4
+Jeff Tweedy,Sky Blue Sky,31gRAfdErc2KdaEQ6tzorg,26,2017,singer-songwriter,0.759,0.0567,0,-21.44,1,0.0594,0.904,0.0261,0.11,0.364,120.517,193310,4
+Iris DeMent,Sweet Hour of Prayer,2Q9SjgG0HwGoEZF57ytsuR,7,2004,singer-songwriter,0.37,0.192,10,-10.834,1,0.0334,0.918,7.94e-06,0.193,0.291,113.881,309173,4
+Rosie Carney,Anthems For A Seventeen Year Old Girl,4theWoXNBRcNzY43Mwdl7V,26,2020,singer-songwriter,0.573,0.311,4,-12.573,1,0.0392,0.383,0.0,0.086,0.0896,137.89,200706,4
+Sarah Harmer,Tether,6Cm6DZN8bOt3qTiBcT15tx,12,2004,singer-songwriter,0.704,0.121,9,-14.671,1,0.0336,0.906,1.05e-05,0.093,0.3,75.93,201027,4
+Richard Thompson,Dimming of the Day,4SWme0PjIFPTwXLyVWGgOI,11,2014,singer-songwriter,0.555,0.28,3,-11.788,1,0.0261,0.872,0.0489,0.113,0.43,95.955,198960,4
+Cat Power,Peace and Love,0Lx6lHR5nn4CFEeKlYU2C2,18,2012,singer-songwriter,0.478,0.903,2,-6.32,0,0.123,0.204,0.00141,0.12,0.472,169.827,217560,4
+Neil Finn,Don't Dream It's Over,45vGFTscH5SGlImFcrC0v6,2,2002,singer-songwriter,0.507,0.665,1,-6.222,1,0.039,0.189,0.0,0.0621,0.423,170.005,224613,4
+Cheer Chen,"一首歌, 讓你帶回去",7a6y8KUW6hpSkv5GJuH7j0,19,2009,singer-songwriter,0.602,0.481,4,-8.773,1,0.0253,0.434,2.4e-05,0.0896,0.306,103.885,316160,4
+Bruce Cockburn,Grim Travellers (Live),7iSnbwHMneyelK9es0L8Ur,5,2002,singer-songwriter,0.541,0.802,0,-9.587,1,0.028,0.114,0.000439,0.986,0.725,141.028,359267,4
+Fred Engay,Kawalan,5hew0m0Jl7qGHI0wQnhOlx,42,2021,singer-songwriter,0.513,0.686,7,-7.441,1,0.0542,0.111,0.00125,0.148,0.24,105.377,164757,4
+Richard Thompson,From Galway to Graceland,5U3is9Qrq0B1C7NUUeh84Q,17,2014,singer-songwriter,0.495,0.325,9,-9.892,1,0.0318,0.686,0.0568,0.359,0.362,131.928,209840,3
+David Tao,Runaway,3nq0DoAgoNZiy4nsaK800M,18,2003,singer-songwriter,0.555,0.802,2,-3.952,1,0.0418,0.0694,0.0,0.1,0.549,112.066,255707,4
+Bruce Springsteen,"Brilliant Disguise (Introduction) - Live at the Walter Kerr Theatre, New York, NY - July 2018",3nC2MUHFpwh4HRbWbu3OJt,19,2018,singer-songwriter,0.655,0.265,9,-24.64,1,0.943,0.76,0.0,0.44,0.381,108.02,103347,5
+The Tallest Man On Earth,Steal Tomorrow,58gu7vu6rVtX0hKzPte0DW,21,2010,singer-songwriter,0.653,0.494,7,-6.437,1,0.0302,0.893,0.0,0.14,0.547,126.183,160133,4
+Randy Newman,"Scare Pig - From ""Monsters University""/Score",3TdcOmqu26ORsN4sN8M7Ds,15,2013,singer-songwriter,0.311,0.515,7,-8.117,1,0.062,0.274,0.786,0.0922,0.324,152.397,120133,4
+Lilly Hiatt,The Last Tear,1dUQUX4jRmE8PROZ4Xw49C,26,2021,singer-songwriter,0.537,0.487,4,-7.635,1,0.0336,0.68,6.9e-05,0.105,0.186,141.977,211439,4
+Bryan Adams,This Side Of Paradise,5kh3fq63DOiEHLaiIh4N7d,10,2004,singer-songwriter,0.559,0.842,9,-4.79,1,0.0286,0.0902,0.0,0.0795,0.509,106.026,230693,4
+Lyle Lovett,Bohemia,1ggw5HdZs7bbKzr3fS2DV3,8,2009,singer-songwriter,0.429,0.577,0,-7.188,0,0.0536,0.351,0.00924,0.154,0.624,143.871,200547,3
+Laufey,Love Flew Away,5Uro6tis4oexrT4Po1q71H,55,2021,singer-songwriter,0.411,0.361,5,-8.466,1,0.0302,0.92,2.36e-06,0.102,0.315,86.325,147347,4
+Bruce Cockburn,Rise And Fall,6OSDSkLxamPfIT76bLcLhA,18,2005,singer-songwriter,0.417,0.291,9,-12.991,0,0.0334,0.522,0.763,0.113,0.0713,95.6,497173,3
+Harry Nilsson,I Will Take You There - Mono Single Version,1qUrIoEDBg169RrNEbDwRO,23,2013,singer-songwriter,0.532,0.4,2,-12.281,1,0.0275,0.357,4.65e-05,0.182,0.458,81.546,161253,4
+Bic Runga,Honest Goodbyes,4UVBDsBGuAtFDVIWXJtmpo,16,2002,singer-songwriter,0.59,0.425,11,-8.941,0,0.029,0.73,3.77e-06,0.2,0.36,107.9,236360,3
+Randy Newman,She Chose Me,5KmA68mgrZX815hICp1IVP,23,2017,singer-songwriter,0.294,0.0951,5,-12.915,1,0.0373,0.957,3.23e-05,0.104,0.147,167.241,192333,5
+Luka Bloom,In Between Days,2KtlNGgYiaB5l12aBlVvJI,8,2000,singer-songwriter,0.454,0.425,5,-13.066,1,0.0374,0.609,0.0,0.0933,0.781,171.44,111227,4
+Hikaru Utada,COLORS - Karaoke,1I7xsqupGwJrGPkvS3UamP,14,2003,singer-songwriter,0.61,0.692,6,-8.769,0,0.0283,0.0344,0.936,0.1,0.479,122.069,240107,4
+Hafdís Huld,Ljós,0RT86wBrufYQZSdN852Wjn,43,2012,singer-songwriter,0.742,0.0915,2,-13.086,1,0.0438,0.89,0.0,0.0926,0.813,146.165,197137,3
+王泽科,秋天不回来,2PLNQCJnKYJPmxzpprbIiy,33,2021,singer-songwriter,0.663,0.42,2,-8.493,0,0.0353,0.479,0.0,0.5,0.42,77.991,196036,4
+Sezairi,Fool,0OfwiVN2Y6ANw9xneUi3sW,41,2021,singer-songwriter,0.639,0.568,11,-8.295,1,0.0457,0.245,1.42e-05,0.162,0.542,117.928,196797,4
+Courtney Shields,Miss You Sometimes,1lcrVWXqTcMGhDpHTDBN46,17,2019,singer-songwriter,0.39,0.385,9,-9.801,1,0.0374,0.589,0.0,0.111,0.208,66.987,200143,4
+Maria Mena,Our Battles,39C9ndKDfQleY0WYUcoDpT,20,2005,singer-songwriter,0.622,0.628,4,-5.994,0,0.0258,0.154,0.0,0.0954,0.248,95.054,212773,4
+Yosef Karduner,Eliyahu Hanavi,2oUxFEtjiACn40kZ4zvLZT,16,2010,singer-songwriter,0.368,0.411,9,-5.103,0,0.0266,0.75,0.0,0.368,0.408,97.438,300240,3
+Randy Newman,"You've Got A Friend In Me (from ""Toy Story"") - From ""Toy Story""/Soundtrack Version",7f3XMt3mA92GnE3YzhoJCe,10,2012,singer-songwriter,0.7,0.314,3,-13.036,1,0.0292,0.798,1.65e-06,0.284,0.524,115.73,123880,4
+Sophie Pecora,Misfits,4V4TTagERjNBRcEnE9AGMA,23,2020,singer-songwriter,0.777,0.619,1,-8.375,1,0.0762,0.332,0.0,0.0886,0.486,114.968,193872,4
+Stefanie Sun,懶得去管,6Nd4yfQR4W7uWIVC19BFsE,19,2003,singer-songwriter,0.65,0.839,9,-4.322,1,0.0304,0.0746,6.5e-06,0.132,0.463,101.033,244627,4
+Mỹ Tâm,Hát Với Dòng Sông,6dOcjooRVgy0Atvgh9xxxm,29,2018,singer-songwriter,0.557,0.521,10,-6.828,0,0.0348,0.645,0.0,0.0873,0.387,73.946,303517,4
+Judy Collins,Hallelujah,49XoJy0tbGePCe6DugjsO6,13,2015,singer-songwriter,0.248,0.336,3,-12.04,1,0.0357,0.829,0.0,0.249,0.175,69.313,251627,4
+Jackson Browne,My Cleveland Heart,1DouexNz20z6b86YWlJzvn,27,2021,singer-songwriter,0.685,0.659,4,-6.086,1,0.0356,0.0105,0.000279,0.084,0.875,119.965,200036,4
+Willie Nelson,Hit The Road Jack - Live,6sGuMmvP7FurHlL3vKbkro,14,2011,singer-songwriter,0.528,0.68,8,-6.875,1,0.04,0.442,4.31e-05,0.973,0.566,88.932,465093,4
+Bruce Cockburn,World Of Wonders,3JGaxJYHbLPt5P2yoyVVY8,4,2002,singer-songwriter,0.564,0.917,4,-5.822,0,0.0308,0.185,0.0408,0.883,0.751,102.526,287133,4
+Ralph Alvern,Over the Phone,2UfOII98Pgp0ugfokfGuCV,32,2019,singer-songwriter,0.763,0.562,3,-7.984,0,0.0403,0.522,2.08e-06,0.107,0.667,143.002,256906,4
+颜人中,孤单心事,5od0oYezSZrcTnK2eFn13n,45,2020,singer-songwriter,0.514,0.402,0,-8.696,1,0.0382,0.758,0.0,0.0921,0.495,127.858,264609,4
+Adhitia Sofyan,After The Rain,7fIPkmVvVTPrACDwfWRe7H,38,2011,singer-songwriter,0.443,0.323,7,-9.541,1,0.0303,0.647,0.000179,0.107,0.253,119.859,290680,4
+Olive Klug,Rain,207xEgGZVA04Tr1vH1k3VM,20,2019,singer-songwriter,0.753,0.525,0,-9.041,1,0.227,0.909,0.0,0.122,0.57,79.924,219637,4
+Ada Zhuang,再見只是陌生人,0K2UkduBJxjuNYLOFhpwHB,50,2015,singer-songwriter,0.625,0.527,5,-6.024,1,0.0268,0.0134,0.0,0.0715,0.507,82.004,251691,4
+Sophie Pecora,Pretty People,3mnmpbrInwnPja7LYlc1Ks,37,2021,singer-songwriter,0.502,0.325,3,-12.146,1,0.186,0.772,0.0,0.153,0.719,79.11,150366,4
+Francis Karel,You're Too Close (Acoustic),6unkcRHDokaghPQKajllTM,34,2021,singer-songwriter,0.542,0.371,3,-5.23,0,0.0279,0.829,0.0,0.109,0.339,96.073,246856,4
+Ai Otsuka,黒毛和牛上塩タン焼735円,1njv7RNRoriYhM5Ajr0LLP,23,2004,singer-songwriter,0.563,0.576,5,-5.714,1,0.0282,0.342,0.0,0.158,0.263,115.478,259100,3
+Didirri,Obsolete Machine,2jSV70JEaHIokZv5QfSgGC,22,2023,singer-songwriter,0.497,0.605,6,-8.26,1,0.0365,0.111,0.00391,0.0753,0.444,73.024,209040,4
+Julie Doiron,Wintermitts,0YlSXtdbx3vHDQBrkgSqwb,5,2002,singer-songwriter,0.503,0.0341,9,-16.489,1,0.0393,0.915,6.23e-05,0.108,0.109,100.631,249493,4
+Sufjan Stevens,Carrie & Lowell,7E9T9Essmxgu98kaOjTVNM,47,2015,singer-songwriter,0.379,0.246,9,-23.092,0,0.053,0.961,0.611,0.118,0.243,198.118,194639,4
+Linda Ronstadt,"Desperado - Live at Television Center Studios, Hollywood, CA 4/24/1980",5MzbbEAmnPVGDc3VfrJHxP,17,2019,singer-songwriter,0.412,0.127,11,-19.033,1,0.0593,0.894,3.16e-06,0.967,0.48,117.449,261640,4
+Joanna Wang,Dirty Work,2OCjh2M0WbxpAIXUmCEqND,14,2011,singer-songwriter,0.636,0.346,7,-8.731,1,0.0314,0.404,5.4e-05,0.255,0.462,71.994,226413,4
+Bap Kennedy,Almost Always Wrong,2QiYb5k2G6k7jsdU36Qhs1,6,2000,singer-songwriter,0.631,0.567,11,-8.076,1,0.027,0.245,7.04e-05,0.0995,0.771,138.494,139307,4
+Foy Vance,Make It Rain - Live,4qz2yTxBCsDTjexMCJ40lN,34,2014,singer-songwriter,0.492,0.295,9,-10.437,0,0.0616,0.17,1.3e-05,0.393,0.216,85.608,566653,3
+Ian Tyson,The Ambler Saddle,5UnL8ySNQqacuEiwmBP9Tx,15,2005,singer-songwriter,0.621,0.515,4,-10.275,0,0.0322,0.702,1.71e-05,0.162,0.583,86.23,182333,4
+Foy Vance,Be With Me,6XoM4VzNOcZmnQUFqAHCrN,17,2007,singer-songwriter,0.639,0.69,5,-8.441,1,0.194,0.577,0.00023,0.14,0.795,149.974,179373,4
+Van Morrison,No Thing,1Q4OrLdP2tq7UxyIiMiRr7,11,2008,singer-songwriter,0.622,0.471,5,-8.216,1,0.0281,0.627,3.85e-05,0.107,0.573,120.339,271387,3
+Joanna Wang,夜來香,0Ggc8cA7xy8abeg560uhst,16,2010,singer-songwriter,0.665,0.633,0,-7.929,1,0.0297,0.428,3.5e-06,0.932,0.638,125.115,202613,4
+Laura Marling,My Friends,09lu7Oem0AQ4MjZg41b8OP,19,2011,singer-songwriter,0.387,0.347,2,-13.329,1,0.0318,0.617,0.0051,0.111,0.284,110.981,238254,4
+Hozier,Jackie and Wilson - Live in America - Spring/Summer 2015,19ElaTRgt4paWlm4QzeU3s,34,2015,singer-songwriter,0.251,0.796,6,-5.103,1,0.0432,0.203,1.59e-06,0.961,0.729,173.376,238840,3
+David Tao,My Anata,4YUnnM90vpi7eckIvvI59X,26,2002,singer-songwriter,0.635,0.637,2,-5.364,0,0.0472,0.141,3.41e-06,0.113,0.619,117.068,227373,4
+Ane Brun,Make You Feel My Love,1BqUPu4AIJDJTox0gphQE6,50,2017,singer-songwriter,0.41,0.137,1,-11.482,1,0.0464,0.943,0.00048,0.0989,0.374,186.154,167680,4
+Clueso,So sehr dabei - Remastered 2014,4aCuFWUxTRpGiivohtHrvD,10,2010,singer-songwriter,0.36,0.339,10,-12.078,0,0.0375,0.521,0.00075,0.949,0.0594,118.083,351573,4
+Yico Tseng,女人的秘密,74PZVYyLMjiVYElwnf3GsC,11,2013,singer-songwriter,0.414,0.361,0,-9.486,1,0.0341,0.917,0.00116,0.0756,0.19,140.177,280200,4
+Junko Yagami,みずいろの雨 (Live-The Night Flight),5XrlyhhWW5CrxBW5Dba907,24,2014,singer-songwriter,0.48,0.751,0,-6.21,0,0.139,0.177,4.4e-05,0.965,0.456,125.162,372067,4
+Austin Giorgio,AUTOMATIC,3c88ZQLeFkKZfw3V0kvmKD,31,2022,singer-songwriter,0.784,0.539,6,-7.529,0,0.0458,0.281,0.0,0.0787,0.887,105.013,157143,4
+Peter LeMarc,Mellan dej och mej - bga,2Inlnolriv7nAroLniPmMp,16,2005,singer-songwriter,0.696,0.227,3,-11.488,1,0.0325,0.772,0.0041,0.108,0.249,106.013,153533,4
+Sertab Erener,İstanbul,2TvPoKQGDzLFuLRWMTOTtC,47,2010,singer-songwriter,0.801,0.771,2,-3.593,1,0.0597,0.257,0.0,0.2,0.831,150.052,213680,4
+Randy Newman,"Stinging Glow Urchin - From ""Monsters University""/Score",5f54XUzV0ndTbaqPtBAT6A,16,2013,singer-songwriter,0.579,0.553,2,-7.891,0,0.0683,0.267,0.764,0.0713,0.263,133.829,154493,4
+Zevia,"life, i'm over you - acoustic",1aeLXNltIqUQ8rJWE8UCYb,35,2022,singer-songwriter,0.467,0.147,11,-15.757,1,0.112,0.931,0.0,0.119,0.23,82.709,172183,4
+Todd Snider,Don't It Make You Wanna Dance,4EGz7I9HoApbw747tS8mrJ,13,2011,singer-songwriter,0.497,0.863,7,-6.733,1,0.0392,0.152,0.000314,0.809,0.565,141.689,260213,4
+Gram Parsons,The Last Thing on My Mind,0SaDDLkIrTUc8Xg9Z25dE9,13,2000,singer-songwriter,0.313,0.0864,11,-17.997,1,0.0418,0.935,0.187,0.118,0.369,74.84,224453,4
+Stefan Andersson,Suckarnas Gång,7FMdTeUAkz6XPocNeFKTar,26,2008,singer-songwriter,0.68,0.467,6,-9.632,0,0.0439,0.824,0.000499,0.109,0.657,86.252,192813,4
+Matty Reynolds,pop drop,3C0hiJcetPLt3aWF5HnNxy,25,2022,singer-songwriter,0.521,0.794,2,-6.395,1,0.0774,0.199,0.0,0.0902,0.617,200.11,117851,4
+Bryan Adams,Summer Of '69 - Live At Sydney Opera House / 2013,4b1Bwrkz7jtqg4JR6Q5jb1,12,2013,singer-songwriter,0.453,0.866,8,-3.704,1,0.0386,0.65,0.0,0.89,0.549,142.929,218547,4
+Steve Earle,Warren Hellman's Banjo,5Pa8bY7MBTYAXcABGB7krJ,13,2013,singer-songwriter,0.564,0.611,11,-7.873,1,0.0326,0.707,0.00176,0.0592,0.703,114.831,106592,4
+Sufjan Stevens,Year of the Tiger (arr. Rob Moose),1m6Gj1lBGhRIbHEDUrUUaw,12,2009,singer-songwriter,0.353,0.193,0,-13.24,1,0.0396,0.967,0.754,0.0589,0.22,74.682,204160,4
+宋楚琳,去年冬天,2ughctoDCNrWVYG04IHJim,34,2019,singer-songwriter,0.705,0.467,10,-8.684,1,0.0262,0.222,5.97e-05,0.257,0.386,136.094,273268,4
+Lior,Grey Ocean,60P0VfV0Ap2GMsu09F0avn,20,2004,singer-songwriter,0.624,0.323,7,-14.24,0,0.0294,0.779,0.0243,0.0901,0.35,124.029,215600,4
+Mao Buyi,海上日記,4PAz9fDvU3xAQ4BWCl8IkN,29,2021,singer-songwriter,0.526,0.416,7,-10.446,1,0.0386,0.65,0.000109,0.109,0.258,130.012,311563,5
+Ghost like girlfriend,fallin',1hBZGk3ctbLy68s0qhMC5y,35,2019,singer-songwriter,0.656,0.646,1,-5.579,1,0.0365,0.0719,0.0065,0.0761,0.721,124.993,244147,4
+Sufjan Stevens,(This Is) The Thing,2bRSTPZ73XbSy1YRXEZRl0,36,2021,singer-songwriter,0.523,0.219,6,-14.985,1,0.0363,0.963,0.00161,0.109,0.493,116.069,168577,4
+Stella Donnelly,Mosquito,2yDPdMSiWbRoah0lOQi6wO,30,2019,singer-songwriter,0.357,0.201,4,-12.255,1,0.0373,0.969,0.0,0.106,0.144,86.032,191745,4
+Dafna,Life's 2 Short,5rIeZYptJqrcdI8WmY0aO2,23,2023,singer-songwriter,0.865,0.424,7,-7.372,1,0.0701,0.839,1.58e-05,0.206,0.41,130.034,200995,4
+Rosanne Cash,I'll Change For You,15gPUMepciH1dGXDPiFkO7,9,2003,singer-songwriter,0.665,0.591,6,-7.42,0,0.0277,0.607,0.00305,0.125,0.459,108.271,230093,4
+Holly Williams,Everybody's Waiting For A Change,4iH5q2ESnUFCmUsveUSIaR,6,2004,singer-songwriter,0.425,0.34,0,-11.323,1,0.0315,0.423,0.0,0.279,0.237,79.289,210027,4
+Ryan Adams,Am I Safe,4hcbjj1Az0Ki7buyit0w7K,20,2014,singer-songwriter,0.603,0.884,5,-4.893,0,0.0402,0.056,0.0021,0.157,0.784,120.54,272973,4
+Jimmy Webb,P.F. Sloane (feat. Jackson Browne),2gHcME2oydMvDyxDhz0PGX,12,2010,singer-songwriter,0.643,0.53,7,-7.463,1,0.0237,0.563,0.0,0.193,0.527,97.926,269840,4
+John Mayer,"83 - Live in Philadelphia, PA & Hartford, CT, August 2004",5O1BIKBvlKw6JMLjGfvcQT,20,2004,singer-songwriter,0.595,0.834,2,-7.534,1,0.04,0.0115,0.000318,0.741,0.49,125.265,509360,4
+Charlie Cunningham,Climb,1fWAOqbgasRGBC0lkbcX2Z,37,2020,singer-songwriter,0.492,0.353,4,-15.397,1,0.0298,0.919,0.441,0.108,0.194,157.845,216587,4
+Paolo Nutini,Through The Echoes,78NogwkqVC4GBQMxOwOQrC,67,2022,singer-songwriter,0.73,0.487,7,-7.679,1,0.0399,0.285,3.49e-05,0.135,0.314,104.933,221245,4
+Sufjan Stevens,John My Beloved - iPhone Demo,1X2KS1qHZB3NUDK9DYoRBg,29,2017,singer-songwriter,0.376,0.174,5,-15.863,0,0.0532,0.954,0.000712,0.103,0.438,79.312,257199,4
+Zach Hood,13 Missed Calls,6KVFBsfbnaFFa43i4k0cce,59,2021,singer-songwriter,0.639,0.724,7,-6.346,1,0.0664,0.452,0.0,0.159,0.522,129.712,209538,3
+Mỹ Tâm,Khung Trời Mộng Mơ,4QwmpSn4HSLBr6u1nN9Whi,17,2002,singer-songwriter,0.5,0.499,4,-6.446,1,0.03,0.606,3.22e-06,0.121,0.358,140.116,282347,4
+David Kushner,Look Back & Laugh,6e0Gfl49FN9m2c8QaB9vFr,59,2022,singer-songwriter,0.546,0.332,2,-10.334,1,0.0582,0.611,0.000385,0.123,0.211,74.938,164187,4
+Alanis Morissette,You Oughta Know - Acoustic,03nXsx93wgAkTdqthAVdX3,17,2015,singer-songwriter,0.539,0.428,4,-8.42,0,0.105,0.0651,0.0,0.242,0.0796,182.047,297333,4
+Josienne Clarke and Ben Walker,John Riley,2hYEwrS6DE8uB48RfV0GLO,13,2011,singer-songwriter,0.446,0.0981,9,-12.973,1,0.0347,0.951,0.000209,0.118,0.172,128.331,262309,4
+Joan Osborne,Little Wild One,0P8xWblaB6jg8ENrRGiVu0,11,2008,singer-songwriter,0.724,0.362,0,-10.712,1,0.0422,0.669,5.85e-06,0.122,0.836,79.988,211560,3
+Della Mae,Maybeline,2XpYbNac0WKvEMbyEy6qeW,13,2013,singer-songwriter,0.585,0.566,11,-7.379,1,0.0283,0.896,0.000369,0.269,0.644,111.857,191453,4
+Willie Nelson,Don't Fade Away,5yAwnonD3PKTESO8dAq6td,8,2002,singer-songwriter,0.523,0.672,2,-6.487,1,0.0378,0.454,1.51e-06,0.116,0.427,136.004,257881,4
+安溥,"紅眼睛 - Refine,the concert Live",3yWCTbEutNf1NCmmJ4DDrz,23,2018,singer-songwriter,0.626,0.541,3,-11.526,1,0.0317,0.206,0.449,0.392,0.738,117.942,256453,4
+Jim Croce,One Less Set Of Footsteps - Live,1UgA0fPIfgb2DRwvSEmlHB,13,2006,singer-songwriter,0.663,0.567,5,-9.116,0,0.0536,0.639,0.0,0.628,0.685,154.625,152173,4
+Patrick Droney,Like the Water,4lFQ0rkxAzN9lGBZkBnIaM,49,2021,singer-songwriter,0.579,0.634,2,-5.497,1,0.038,0.444,0.0,0.225,0.234,134.811,216772,4
+Lucinda Williams,Still I Long For Your Kiss - WXPN Live At The World Café,1loCzsM7EDS4QqZOsSf4jO,13,2006,singer-songwriter,0.28,0.459,0,-7.284,1,0.0277,0.519,0.000413,0.642,0.304,194.556,279533,3
+Serena Ryder,Nobody but You,4WbPvVt4VaykSAzb1mKZtX,11,2012,singer-songwriter,0.642,0.353,6,-11.924,0,0.346,0.77,0.0,0.368,0.279,116.514,53960,3
+Bruce Springsteen,O Mary Don't You Weep,5JN70TFrbjjHVJkKfSXlAn,37,2006,singer-songwriter,0.39,0.803,7,-6.884,0,0.0638,0.713,0.0,0.0592,0.546,136.057,364973,4
+John Hiatt,Ride My Pony,3jX1YUxwlbT0An2Tr3pfkM,9,2008,singer-songwriter,0.665,0.568,7,-9.17,1,0.0242,0.0303,0.000206,0.312,0.479,102.009,220693,4
+Neko Case,I'm From Nowhere,75sVxPXSsjyspqrWO0HsY1,22,2013,singer-songwriter,0.576,0.185,0,-11.3,1,0.0392,0.809,0.0,0.259,0.365,103.301,181947,4
+Jim Croce,Roller Derby Queen,6ige0lm9FIS3z4enU1pkNA,14,2011,singer-songwriter,0.714,0.53,4,-13.451,1,0.0546,0.573,4.55e-05,0.264,0.917,125.811,211080,4
+Lilly Hiatt,The Night David Bowie Died,0HjlItnelV19XufBNqdr4x,24,2017,singer-songwriter,0.583,0.66,1,-6.43,1,0.0271,0.00144,0.00153,0.137,0.556,98.533,215009,4
+Sarah Kinsley,I Can Feel It,0B8FzTiQ4WCtWqv7ZaR4EE,23,2020,singer-songwriter,0.495,0.446,0,-10.767,1,0.0363,0.548,0.00182,0.166,0.315,121.672,232737,4
+Laura Marling,Undine,7BYXWKOs4qXswSMUfOZlhG,23,2013,singer-songwriter,0.641,0.331,4,-14.261,0,0.033,0.917,0.000705,0.103,0.598,108.089,193379,4
+JORDY,i get high,00P85t1fMCdWweMrVvAsU3,43,2022,singer-songwriter,0.565,0.48,7,-11.068,1,0.04,0.247,0.0,0.417,0.243,103.01,124270,4
+Stefan Andersson,Tack for Mig,7nKn4NtLw0gQQbhYdSrDqy,11,2005,singer-songwriter,0.429,0.796,1,-6.733,0,0.0825,0.396,3.98e-06,0.664,0.488,84.901,323653,4
+Charlotte Leigh,This Feeling,19N6mLVztIgiHdd5hKlyjI,30,2018,singer-songwriter,0.501,0.399,7,-9.284,1,0.0312,0.773,0.0,0.0772,0.321,155.67,261813,3
+Pamungkas,Sorry,4gW0fnArZ93uAElSkuw0PG,56,2018,singer-songwriter,0.557,0.608,10,-5.613,1,0.0291,0.159,0.000487,0.352,0.385,134.919,187111,4
+Richard & Linda Thompson,Calvary Cross - Live At The Oxford Polytechnic / 1975,035tXvvJoNXyMG5RH7sSrJ,5,2000,singer-songwriter,0.455,0.297,6,-13.233,0,0.0413,0.26,0.013,0.445,0.236,57.919,806667,4
+Deserts Chang,就在,4bt2q5aVomK2pEXGw7eM6L,26,2009,singer-songwriter,0.622,0.574,11,-8.434,0,0.0301,0.0983,0.0,0.0872,0.32,124.995,216480,4
+Mỹ Tâm,Dường Như Ta Đã - Korean Version,17wZEAPGyAj0dvDY1lvcdD,19,2006,singer-songwriter,0.501,0.296,5,-7.002,0,0.0287,0.742,0.0,0.113,0.202,131.957,299093,3
+陳婧霏,人間指南,18n1uqpcYq3w663Z0Cquqs,32,2020,singer-songwriter,0.557,0.526,8,-8.956,0,0.0306,0.721,0.176,0.346,0.604,90.021,159963,4
+Eilen Jewell,Back to Dallas,5zhwE3Ol1EDCwQC7tWYW1B,14,2006,singer-songwriter,0.638,0.605,6,-10.809,0,0.0458,0.221,0.0271,0.13,0.552,96.44,199173,4
+Paul Simon,Adios Hermanos,4dG1vlg4AVwRNOUZSyseDu,17,2007,singer-songwriter,0.36,0.249,1,-10.539,1,0.0326,0.871,0.0,0.153,0.461,88.373,283227,4
+Raisa,Could It Be,6Khn20yWc0YGJy1wbkz3Be,53,2011,singer-songwriter,0.673,0.537,4,-8.088,0,0.0954,0.6,0.0,0.349,0.632,100.03,221400,4
+Matthew Barber,Revolution Of The Sun,0JkbKnwhYJoCf14lM74TyW,18,2010,singer-songwriter,0.592,0.189,4,-11.903,1,0.0297,0.72,0.166,0.107,0.133,90.996,289693,3
+Bruce Springsteen,"Born In the U.S.A. - Live at the Walter Kerr Theatre, New York, NY - July 2018",6TGhSdj9CaXcxTHLjbNNYL,27,2018,singer-songwriter,0.429,0.277,2,-14.636,1,0.343,0.746,7.78e-06,0.708,0.246,136.436,284520,4
+Bryan Adams,Summer Of '69 - Live - Bare Bones,36Rnmc3GSme8iJlY81Mtc3,16,2010,singer-songwriter,0.288,0.672,1,-8.409,1,0.0441,0.788,0.0,0.926,0.529,145.219,251707,4
+Bobby Kim,When we are able to love,7bvcIfTXWpXdspAwJt9N2I,13,2011,singer-songwriter,0.745,0.777,11,-5.394,0,0.0284,0.317,3.88e-06,0.136,0.493,120.02,236601,4
+Rose Cousins,Go First,2uYjtq31VXyVhEgxy89A2D,23,2012,singer-songwriter,0.331,0.284,5,-8.586,0,0.0318,0.848,0.00136,0.11,0.14,67.053,197867,3
+Lisa Loeb,Dream a Little Dream,1w3qvtlevv53MopGLg7cnv,15,2017,singer-songwriter,0.685,0.189,8,-11.475,0,0.0825,0.738,1.03e-06,0.119,0.394,83.898,192937,4
+WeiBird,陰天的向日葵,4tRqWOOYSh2SyvwHtEEl01,19,2010,singer-songwriter,0.584,0.382,7,-9.915,1,0.026,0.613,0.0,0.197,0.274,108.085,292467,4
+Eilen Jewell,So Long Blues,2DYPwIagcNxNYyoeNJKVxg,11,2006,singer-songwriter,0.582,0.301,5,-11.273,1,0.027,0.608,0.083,0.218,0.509,106.316,219907,4
+WeiBird,還是愛著你,0GURVjMd8rAKglUQgyRazA,27,2012,singer-songwriter,0.594,0.285,7,-10.298,1,0.0337,0.847,0.0,0.0763,0.267,127.732,227080,4
+Maria Mena,Habits - Feat. Mads Langer,7xRJfgK53bnbYlYn7alh4x,37,2011,singer-songwriter,0.661,0.132,8,-14.134,0,0.037,0.983,3.07e-05,0.102,0.514,120.135,223427,4
+Ken Hirai,怪物さん,1heN1fuesAqx4WRlQFkCLJ,29,2020,singer-songwriter,0.8,0.666,0,-5.414,1,0.0495,0.0422,0.0,0.13,0.526,128.016,244926,4
+Guy Clark,Heroes,1glKVVLwDDIRRASTRbzxpY,13,2013,singer-songwriter,0.633,0.336,2,-12.494,1,0.0313,0.545,2.08e-05,0.0884,0.254,127.847,221893,4
+Thịnh Suy,Thay Doi,7nmpSarD95GZjdlzIpSKZR,45,2022,singer-songwriter,0.814,0.329,7,-8.709,1,0.0522,0.731,0.0,0.148,0.36,99.958,178512,4
+Matt Simons,Miss You More,5E6I37a1kshvyeeFpaSpEf,25,2012,singer-songwriter,0.344,0.19,6,-13.756,1,0.0334,0.843,0.0109,0.111,0.154,119.435,276707,3
+Daichi Miura,(RE)PLAY,6X3FXpanWJKBxbdqxIeOdO,33,2017,singer-songwriter,0.678,0.949,6,-3.71,0,0.052,0.0168,0.0,0.144,0.823,125.018,214107,4
+Ariel Horowitz,Rakafot Bein Hasla'im,5U1xy5Wbsqwe1E7l37YnWx,21,2010,singer-songwriter,0.356,0.45,7,-8.711,0,0.0337,0.402,7.21e-06,0.083,0.267,69.064,245667,4
+Chihiro Onitsuka,月光,7qcC41Uhntjoi6FRIriiEj,24,2000,singer-songwriter,0.441,0.332,6,-9.161,0,0.0344,0.892,0.0,0.101,0.32,74.656,309733,4
+Zuzana Navarová,Jarná,7FMR6CrnPVwGhCrA1aFZwz,10,2003,singer-songwriter,0.438,0.383,7,-8.692,0,0.0315,0.882,2.03e-06,0.156,0.299,133.643,171320,4
+Mao Buyi,一程山路 (Live),5WY1CAZrYa6CE4CdnGQoCe,21,2017,singer-songwriter,0.475,0.292,6,-13.483,1,0.0318,0.588,1.58e-05,0.301,0.326,138.082,197385,4
+Becca Mancari,Golden,77EOVfDhyUX5nSzzc4ZEGX,38,2017,singer-songwriter,0.348,0.246,3,-11.534,1,0.028,0.764,0.00125,0.0996,0.193,136.1,313296,4
+Willie Nelson,Uncloudy Day,7GZRUcgcXtUWkUwnx7SLkz,28,2015,singer-songwriter,0.608,0.66,5,-7.947,1,0.0379,0.594,0.000144,0.151,0.727,91.28,279787,4
+Shlomi Shaban,תרגיל בהתעוררות,0xCmW9340SREOEjRkJU3ln,38,2014,singer-songwriter,0.642,0.759,10,-6.395,1,0.0528,0.181,0.0209,0.0986,0.577,140.98,243658,3
+The Tallest Man On Earth,Darkness of the Dream,4YKso3oUryrcsWXVEeuGYb,26,2015,singer-songwriter,0.463,0.708,9,-5.95,1,0.0427,0.516,2.4e-06,0.156,0.655,119.966,300613,4
+Kathleen Edwards,Buffalo,2ufW9rXsof0QZwxHO5LqCJ,12,2008,singer-songwriter,0.438,0.594,2,-7.578,1,0.0406,0.0373,2.05e-05,0.0678,0.223,124.479,315733,4
+Emmylou Harris,Hold On,0xRYFRmDhbFqtdb2hQVOsG,13,2008,singer-songwriter,0.514,0.328,7,-11.203,1,0.0246,0.306,0.00259,0.112,0.158,79.016,275280,4
+Gordon Lightfoot,Carefree Highway - Live,5LFtxpDYEwPZHycqEBbZVm,11,2012,singer-songwriter,0.598,0.432,4,-10.434,1,0.0273,0.174,0.000275,0.366,0.702,87.453,130533,4
+Emma Oliver,Getting Older,3wPvaY2ts7klugQDEbswho,24,2020,singer-songwriter,0.42,0.469,6,-8.875,1,0.269,0.628,1.18e-05,0.172,0.148,155.186,225066,4
+Stella Donnelly,Boys Will Be Boys,0sLNt0jqb8caoiTz4vbpMd,31,2019,singer-songwriter,0.435,0.13,5,-10.495,0,0.0308,0.909,8e-06,0.0945,0.0546,137.676,244902,3
+Ken Hirai,君の好きなとこ,5QVcvO9qSmOdKvPE0Z4Kzk,29,2005,singer-songwriter,0.605,0.776,5,-5.337,1,0.0274,0.32,0.0,0.285,0.39,108.116,325693,4
+Joan Baez,The Night They Drove Old Dixie Down - Live On Tour / 1975,2ZCjZqnZiGvw1Szrqf657f,14,2003,singer-songwriter,0.471,0.818,2,-3.88,1,0.0551,0.207,0.0,0.761,0.497,126.046,205867,4
+Noak Hellsing,Good Enough,1wDD2fmvifnJv8BjquVsTp,40,2020,singer-songwriter,0.613,0.146,0,-10.363,0,0.0338,0.768,0.0,0.0894,0.197,99.805,180520,4
+Neil Diamond,America - Live At The Greek Theatre/2012,07vufGLZoKZGipfRNgnTrL,25,2018,singer-songwriter,0.281,0.806,5,-4.609,1,0.075,0.0174,1.1e-05,0.982,0.326,122.383,316453,4
+Tom Rosenthal,My Life Is A Song For You,1QoBmXMV4RyC9oKpKok288,38,2019,singer-songwriter,0.421,0.177,3,-11.731,1,0.0598,0.928,1.42e-05,0.108,0.36,177.433,186800,4
+Rosanne Cash,If You Change Your Mind,3h9MaTk2mnTVtVWHYO3rpe,9,2011,singer-songwriter,0.702,0.495,2,-12.589,1,0.0291,0.274,0.0,0.233,0.439,115.607,201973,4
+Laufey,What Love Will Do to You,4TvZH3MgJ1ZNBPquN2xwjK,53,2022,singer-songwriter,0.409,0.219,1,-11.73,1,0.0572,0.94,1.14e-06,0.11,0.382,76.061,171253,4
+Stefanie Sun,感動每一刻,5T1OJndUVSJB3UhTZEiQ5W,32,2010,singer-songwriter,0.634,0.5,0,-7.948,1,0.0318,0.368,0.0,0.136,0.419,119.909,275278,4

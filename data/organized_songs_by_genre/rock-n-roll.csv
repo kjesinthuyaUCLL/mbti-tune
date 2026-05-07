@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Tommy Roe,Sing Along With Me,333fBWrLeVkYf7uf3LwSLo,3,2001,rock-n-roll,0.619,0.679,1,-6.371,0,0.0388,0.0676,0.0,0.0866,0.935,117.351,168413,4
+Los Sleepers,No Te Puedo Soltar,2ehGgqZ02ccZDIEpA7fe7J,0,2015,rock-n-roll,0.698,0.606,0,-14.922,1,0.185,0.255,0.161,0.487,0.706,155.995,249840,4
+Johnny Preston,Cradle Of Love,70DlP1QUULGvnGIMs0s9nm,9,2019,rock-n-roll,0.607,0.481,6,-11.659,0,0.0931,0.727,4.37e-06,0.192,0.775,85.411,145293,4
+Elvis Presley,For The Good Times - Version 5,4eDNZ0SagifC7AUzYlaJBB,16,2022,rock-n-roll,0.457,0.184,5,-21.793,1,0.0462,0.887,0.117,0.146,0.42,106.516,201840,4
+The Maharajas,Weekend Sparks,4k5vWL8S9FTDnJM3Fjuru1,0,2006,rock-n-roll,0.232,0.905,9,-2.35,1,0.0637,8.37e-05,0.000179,0.0613,0.615,136.497,190413,4
+Los Apson,Las quinceañeras,5JTjQF23nc4kS1oECSEuag,3,2020,rock-n-roll,0.581,0.688,9,-6.634,1,0.0406,0.446,0.0,0.1,0.964,162.744,124032,4
+Rafael Vázquez,Enamorado De Ti,4ENv8Bkyx5lBdFl4yNtriY,0,2010,rock-n-roll,0.534,0.34,5,-10.162,1,0.0333,0.833,0.0,0.22,0.501,112.19,167671,3
+Alberto Vazquez,Dorada Luna,4oBf631CAYIWte9JKUAPrK,15,2023,rock-n-roll,0.302,0.246,5,-13.981,0,0.04,0.451,1.61e-06,0.311,0.192,126.526,198711,3
+Roberto Jordan,Indio Tracalero (Indian Giver),1gmdCgAxZcuuzj8M4YYGGj,3,2001,rock-n-roll,0.691,0.767,11,-9.843,1,0.037,0.631,0.0,0.196,0.875,126.336,159200,4
+Ramon Marquez,Moliendo Café,1mRo2DqYRkchxYHMg6ng2u,26,2008,rock-n-roll,0.775,0.658,9,-7.975,0,0.0598,0.736,0.128,0.0715,0.7,142.235,187861,4
+The Chiffons,"Dream, Dream, Dream",0FXETVmQZ3CwswcXqo2BGY,16,2019,rock-n-roll,0.553,0.648,11,-8.432,1,0.0433,0.81,0.00675,0.13,0.886,129.282,165413,4
+Marco Antonio Muñiz,Medley - Álvaro Carrillo,7F0lhiyiLKFDLOnhLRMzsQ,16,2014,rock-n-roll,0.38,0.736,5,-4.199,0,0.073,0.656,0.0,0.928,0.293,97.461,438213,4
+Johnny Laboriel,Bote de Bananas,3L7COtw1VtOrSJDdKKZIc0,4,2013,rock-n-roll,0.535,0.719,0,-4.947,1,0.0396,0.781,0.0,0.304,0.58,134.736,165642,4
+Elvis Presley,Miracle of the Rosary - Take 1,4MznSeCCfAJFvkQ0g6aHvi,10,2021,rock-n-roll,0.292,0.228,11,-15.24,1,0.0525,0.895,0.0123,0.111,0.397,175.002,136960,4
+Chuck Willis,Stop and Think,1aSKVssCfMs3AM0XLMfxKM,3,2005,rock-n-roll,0.592,0.402,3,-10.174,1,0.0305,0.894,0.00289,0.139,0.593,115.193,170320,3
+Los Teen Tops,Problemas,3wt9sSMcqwqCzwIfO1GU3Y,14,2008,rock-n-roll,0.686,0.429,5,-8.295,1,0.0965,0.405,0.0,0.0785,0.752,110.092,143647,3
+Los Pasteles Verdes,En Mi Viejo San Juan,3gKTA5lr6bR7F2PlewC8RQ,23,2015,rock-n-roll,0.584,0.458,9,-9.448,1,0.0343,0.345,7.95e-05,0.211,0.566,95.109,223428,4
+Enrique Linares,Italianita,6VvYfPoWJizTz6DoylNoym,8,2011,rock-n-roll,0.418,0.467,6,-9.256,1,0.0281,0.365,2.99e-05,0.176,0.696,82.303,146173,4
+The Spencer Davis Group,Gimme Some Lovin',5T44mpl5IVTMKvcfBo8D5A,11,2019,rock-n-roll,0.501,0.752,7,-7.242,1,0.0352,0.115,0.205,0.387,0.583,147.515,176067,4
+Johnny Burnette & The Rock 'N' Roll Trio,Please Don't Leave Me,19qreUBa09I8nSgFZjI6oZ,13,2004,rock-n-roll,0.603,0.822,0,-7.678,1,0.0389,0.705,0.00059,0.372,0.928,94.706,135800,4
+Frankie Ford,Adeste Fidelis,1ZsTVxTOdjjhYy6W0QCDSq,0,2006,rock-n-roll,0.226,0.363,0,-5.706,1,0.0322,0.933,0.0,0.292,0.297,88.452,210533,4
+The Blasters,Well Oh Well,2Be9g7ATBxVS88jXyVNOoN,11,2012,rock-n-roll,0.66,0.654,0,-5.384,1,0.0594,0.492,0.0,0.104,0.962,113.626,154000,4
+Owe Thörnqvist,Auktionsrock,6KI74Pcwu89wdPp8ND3JIU,9,2009,rock-n-roll,0.457,0.694,3,-7.195,1,0.0729,0.346,0.0,0.0448,0.944,203.96,175547,4
+Los Twisters,Nena Twist,4TrOcpJuR4yt9kdaEN8HGh,1,2013,rock-n-roll,0.477,0.882,7,-5.681,1,0.0502,0.761,0.0,0.211,0.871,164.321,109018,4
+Juan Torres,La Negra Tomasa,3Huk7ZQWGFJd8BlAxqXlgG,23,2008,rock-n-roll,0.571,0.623,9,-10.443,0,0.0527,0.228,0.00454,0.296,0.759,175.949,193794,4
+Shakin' Stevens,Tell Me One More Time,2ywEeHg3yBQX5EYMO13oDw,19,2011,rock-n-roll,0.645,0.68,9,-2.891,1,0.0276,0.174,4.86e-05,0.24,0.812,111.906,191107,3
+Imelda Miller,Ojos Negros Cielo Azul,1SqgU0Fmq97CdUGpYmgIXP,4,2013,rock-n-roll,0.45,0.387,5,-5.002,1,0.0311,0.508,0.0,0.511,0.524,143.095,122932,4
+Manoella Torres,Esclavo y Amo,3kHcaXyNl2ImQuxCUj6PfC,19,2002,rock-n-roll,0.552,0.555,4,-4.757,0,0.031,0.839,2.07e-06,0.157,0.587,138.091,134973,4
+Big Joe Turner,Christmas Date Blues,17mU6BYWxyzk9Y7nquICGZ,9,2006,rock-n-roll,0.503,0.411,8,-10.354,1,0.04,0.958,0.0732,0.141,0.687,155.452,154920,4
+Elvis Presley,King Of The Whole Wide World - 2003 Sony Remaster,31zkiHajUNOH43saDCFGZ1,18,2007,rock-n-roll,0.661,0.473,1,-9.884,0,0.0499,0.789,1.26e-05,0.274,0.955,83.873,126347,4
+Gene Vincent,Wild Cat,7wBiBXQfvwfdhya3o19o6c,3,2019,rock-n-roll,0.643,0.519,4,-12.993,1,0.0468,0.54,0.0,0.152,0.922,117.575,144858,4
+Angelica Maria,Tú Sigues Siendo el Mismo,6pz3BVK7tiaxNmdwHeCDxJ,15,2012,rock-n-roll,0.592,0.269,4,-11.454,0,0.0256,0.544,4.65e-06,0.177,0.425,94.516,271133,3
+Lulu,The Mighty Quinn,40K9vOduQt7GT8AFcz4vrU,1,2009,rock-n-roll,0.576,0.783,2,-6.549,1,0.0358,0.0158,4.07e-05,0.197,0.712,104.558,175080,4
+Cesar Costa,Cenicienta,29kK1FNPIP2GPB3eDovtMi,19,2008,rock-n-roll,0.597,0.42,4,-8.213,0,0.0336,0.833,0.0,0.162,0.838,84.437,171781,4
+Buddy Holly,Baby Let's Play House - Undubbed Version,1DianEQArsevNKID8e64Nf,7,2008,rock-n-roll,0.468,0.609,9,-10.054,1,0.0608,0.921,0.00945,0.36,0.666,101.728,146493,4
+Charlie Feathers,Jungle Fever,2wp7UlagBdNE1hEN5jCOzL,9,2008,rock-n-roll,0.619,0.939,2,-6.618,1,0.0371,0.8,0.00165,0.148,0.698,109.495,163080,4
+Sleepy LaBeef,Boogie Woogie Country Girl,6TCTqjnsBV2x8EpBZzH3Ta,2,2012,rock-n-roll,0.454,0.942,4,-4.06,1,0.0562,0.451,0.252,0.262,0.96,192.678,148964,4
+Marvin Rainwater,Korea's Mountain Northland,7cJmxe8fZFL40wFNQaG5b2,1,2021,rock-n-roll,0.4,0.226,4,-13.226,1,0.028,0.914,1.61e-06,0.117,0.488,95.661,204933,4
+Buddy Holly,Raining In My Heart - Mono,3KmjtVDmmFvSWtBRSJRAj3,3,2008,rock-n-roll,0.637,0.197,7,-13.471,1,0.0335,0.469,0.0,0.137,0.592,106.29,166653,4
+Elvis Presley,"Medley: Jailhouse Rock / Don't Be Cruel - Live at The International Hotel, Las Vegas, NV - 8/24/69 Midnight Show",1t9fGmuq4F3x5H5P4jCfNp,6,2019,rock-n-roll,0.613,0.85,2,-7.592,1,0.05,0.486,0.0559,0.669,0.871,104.847,126293,4
+Ray Campi,Summertime,0YKPZ7YCItCwCsDwHCEYcv,0,2008,rock-n-roll,0.48,0.284,2,-8.518,0,0.0303,0.9,2.85e-05,0.0804,0.241,122.493,210413,4
+Los Teen Tops,Agujetas de Color de Rosa,10C0cLxie9XykQTc0uJs1K,20,2000,rock-n-roll,0.71,0.627,6,-8.354,0,0.0846,0.529,0.0,0.249,0.939,145.451,148531,4
+The Chiffons,He's so Fine,4Ys7BXtNUXN5yQsR0CoO49,11,2013,rock-n-roll,0.502,0.369,7,-12.466,1,0.0385,0.51,0.0,0.44,0.96,73.275,113173,4
+Hazy Osterwald,Kriminaltango,0YydKUgummjdOt2e6KISgF,2,2011,rock-n-roll,0.461,0.663,0,-6.222,0,0.047,0.325,6.95e-05,0.788,0.721,122.17,216360,4
+Bruce Channel,You Never Looked Better,1oBYpx1XIhm0lcVBru6g6J,0,2006,rock-n-roll,0.333,0.646,0,-3.202,1,0.0308,0.858,0.0,0.208,0.793,136.507,138120,3
+Mike Laure,La Mesera,7HfxXztYsNygQ5yCVoHhK7,1,2006,rock-n-roll,0.775,0.697,5,-4.354,1,0.0374,0.788,0.0,0.0683,0.974,152.183,175241,4
+Angelica Maria,El tiempo que te quede libre,0crJUDRJUpBCvsC7EYLPsU,0,2010,rock-n-roll,0.5,0.285,0,-11.298,0,0.0369,0.912,0.145,0.175,0.657,136.515,134360,3
+The Drifters,On Broadway (Single Version),1VMfbddaA0oI0DerRrnqzC,19,2018,rock-n-roll,0.747,0.628,1,-6.596,1,0.0289,0.334,0.0,0.122,0.918,108.774,179493,4
+Elvis Presley,"Funny How Time Slips Away - Live at Greensboro Coliseum, Greensboro, NC - April 14, 1972",0NGqqStM4e6LvLP20h4mST,21,2022,rock-n-roll,0.302,0.713,5,-11.776,1,0.133,0.859,0.724,0.902,0.322,140.419,170493,3
+Freddie & The Dreamers,The Young Ones - Remastered 2005,5oMZMAZTbdMuz70vchbc9b,4,2017,rock-n-roll,0.707,0.407,1,-10.154,1,0.049,0.645,0.0,0.126,0.801,72.324,128067,4
+The Crickets,"Someone, Someone",7zjn1zIBd475YHom8gLsCB,3,2021,rock-n-roll,0.381,0.462,2,-8.794,1,0.0348,0.725,7.87e-06,0.0846,0.356,73.582,254800,4
+Billy Fury,Maybe Tomorrow,19nzUb2pPOpZQyXdfCm4O8,3,2018,rock-n-roll,0.585,0.367,0,-9.846,1,0.0259,0.263,0.0,0.109,0.387,96.862,141720,3
+Eddie Cochran,Teenage Cutie,0IaqfZzDoNfe1VikKZk9nK,11,2020,rock-n-roll,0.798,0.573,8,-10.178,0,0.114,0.802,0.000843,0.128,0.92,91.777,95600,4
+Los Saylors,Me Caí de la Nube,5ErzYoFMcQsLbt5P40bWkp,4,2021,rock-n-roll,0.713,0.182,10,-16.441,1,0.044,0.773,0.00224,0.14,0.961,115.257,162507,4
+Don Gibson,Far Far Away,1DFvzS8bmOeRlJa4FAdHQY,1,2018,rock-n-roll,0.639,0.584,0,-10.15,1,0.0281,0.373,0.00558,0.0914,0.793,106.325,141613,4
+Charlie Gracie,Tryin',1384Vq73VfwSacTaiEDRRO,2,2006,rock-n-roll,0.557,0.406,0,-10.536,1,0.0316,0.695,3.63e-05,0.085,0.53,87.102,163360,4
+Robert Gordon,Motor Biking,0Kp4haMbw3toXyR1jwF27H,1,2009,rock-n-roll,0.38,0.845,7,-8.792,1,0.0931,0.00443,0.0958,0.198,0.161,147.763,193760,4
+Elvis Presley,Bridge Over Troubled Water - with The Royal Philharmonic Orchestra,5xkJaBSaYzz4o913zrDkdm,41,2015,rock-n-roll,0.223,0.479,0,-7.525,1,0.0322,0.671,0.0689,0.194,0.156,83.56,276640,4
+Ritchie Valens,Ooh! My Head,1bKgcMiW89ryzG4CDqFSll,24,2006,rock-n-roll,0.692,0.868,4,-7.825,1,0.086,0.752,2.14e-05,0.3,0.589,80.433,110733,4
+Ricky Nelson,Are You Really Real,5dABv3b6G9OGWj9HCfvuVT,4,2000,rock-n-roll,0.645,0.145,4,-23.506,0,0.0318,0.818,0.0286,0.0931,0.434,107.372,204360,4
+Los Matematicos,Un Trío de Tres (Lazy Elsie Molly),0d7O7lPz7MY8Yw0MTgG5KF,1,2015,rock-n-roll,0.664,0.707,11,-8.597,1,0.0421,0.456,0.0,0.15,0.904,89.559,144240,4
+Cuco Sánchez,La Barca de oro,5E4z2ImeWh8fYkBoqzalF8,5,2011,rock-n-roll,0.446,0.0637,9,-19.868,1,0.0471,0.951,0.00048,0.367,0.131,125.459,151640,4
+The Champs,The Catapillar,6om45LUJJQqwxfE64OuwtX,0,2013,rock-n-roll,0.669,0.489,5,-14.52,1,0.0337,0.137,0.408,0.0885,0.96,101.321,140640,4
+Big Joe Turner,I Want A Little Girl,3TMmaADcoTUlV7eTo2iF3C,5,2010,rock-n-roll,0.389,0.292,10,-12.347,1,0.0351,0.824,0.000916,0.259,0.245,71.393,254520,4
+The Cascades,Lucky Guy (Remastered),2ELiG8TzJEnhZvFdVRnbA3,21,2021,rock-n-roll,0.55,0.315,2,-15.824,1,0.0264,0.564,0.0,0.302,0.713,102.28,144149,4
+Los Tecolines,Perdón,366o5drD7YFwe97ie6tSDm,8,2019,rock-n-roll,0.711,0.522,11,-7.299,0,0.031,0.768,3.58e-05,0.211,0.788,110.752,189026,4
+Wanda Jackson,It Keeps Right On A Hurtin’,3yeHB74Q61G4viKXO5eBrT,9,2021,rock-n-roll,0.587,0.533,9,-5.371,1,0.0275,0.559,4.25e-05,0.124,0.639,107.518,175907,4
+Los Moonlights,La Protesta de los Hombres,3J593EfRjRppxrUW3Tkq7T,3,2001,rock-n-roll,0.73,0.596,7,-10.408,1,0.0501,0.178,0.0,0.185,0.964,96.245,162907,4
+Los Cinco Latinos,Locamente Te Amaré,4qH1UHtlwb8IRQOnu22lnJ,18,2015,rock-n-roll,0.395,0.889,0,-7.273,0,0.0622,0.791,2.13e-05,0.392,0.699,135.602,159760,4
+Alberto Vazquez,Compadecete Mujer,34h9MSa3iPLTDe10PlDOM2,26,2011,rock-n-roll,0.395,0.384,7,-7.398,1,0.0282,0.375,0.0,0.147,0.524,83.206,176744,4
+Backstreet Girls,Repo Man,673EZx4s2wiOANnkRbmVdQ,2,2000,rock-n-roll,0.265,0.968,4,-6.824,1,0.0497,8.24e-05,0.94,0.13,0.462,176.753,97347,4
+The Righteous Brothers,Georgia on My Mind,2xi6ukpkPYgn5fqhrcv1Rp,6,2008,rock-n-roll,0.374,0.276,3,-12.332,1,0.0617,0.89,0.0221,0.847,0.333,160.475,118667,3
+Frankie Avalon,Venus (Disco),44QygS04hC0Kba5nWVSr7n,4,2009,rock-n-roll,0.534,0.549,7,-16.699,1,0.0544,0.0191,0.000532,0.61,0.664,124.864,186200,4
+Ricky Nelson,Hey Pretty Baby - Remastered,3PXrjmLgAJ6Tpms7ZmhYA3,4,2000,rock-n-roll,0.528,0.375,6,-13.983,1,0.0434,0.699,0.0,0.207,0.543,141.086,149893,4
+Sonny Burgess,Drinkin' Wine Spo Dee O Dee,1vcIjcSFmxw86XqImrpzs7,0,2000,rock-n-roll,0.479,0.97,7,-5.493,1,0.0449,0.124,0.00711,0.365,0.883,103.038,139293,4
+Connie Francis,Together,3aGmELit8NfF9XOBB8A6ze,15,2005,rock-n-roll,0.324,0.323,0,-11.248,1,0.0325,0.903,0.00503,0.133,0.235,116.103,173573,3
+Grupo Lluvia,Chao Chao Adiós,3SzZ69sfoacFCRlGHwVWP4,12,2000,rock-n-roll,0.608,0.349,7,-16.1,1,0.0662,0.0244,0.0321,0.0781,0.811,172.651,176493,4
+Märvel,Ain't Gonna Last,76KMuan5JiSAML3h9JFQYN,9,2023,rock-n-roll,0.541,0.876,10,-5.226,0,0.0576,0.0464,0.0,0.376,0.856,155.04,235200,4
+Danyel Gerard,Petit Gonzales (Speedy Gonzales),6ZjozNDMcTQOco2bIghWYD,7,2013,rock-n-roll,0.338,0.788,5,-6.678,1,0.072,0.76,0.0,0.658,0.61,80.429,179493,4
+Elvis Presley,"Mystery Train/Tiger Man - Live at The International Hotel, Las Vegas, NV - 8/21/69 Midnight Show",1pDR5fV39kw4aTrDQ2B2o6,21,2019,rock-n-roll,0.541,0.848,9,-10.071,1,0.0456,0.576,0.00579,0.883,0.915,126.771,228347,4
+Hayden Thompson,Here We Go Again,6UlThpowrfg16FzNsGWuPG,18,2023,rock-n-roll,0.62,0.56,7,-7.172,1,0.0391,0.411,0.00344,0.0751,0.841,91.4,143778,4
+Los Sonambulos,La Fiesta Esta De Ambiente,1tKnGjzGBNDFWNXf1P5lUX,2,2011,rock-n-roll,0.445,0.911,9,-5.026,1,0.0465,0.709,2.31e-06,0.615,0.942,169.398,134885,4
+Ricky Nelson,"Fire Breathin' Dragon - Live On The Ed Sullivan Show, January 23, 1966",67sImNNLqMNGHpYkiGukkb,3,2021,rock-n-roll,0.471,0.745,2,-9.497,1,0.0406,0.0142,0.0137,0.286,0.915,119.747,142476,4
+Fats Domino,My Girl Josephine - Live,5m0KDwqzFHZasPwm5D0xpx,8,2021,rock-n-roll,0.468,0.843,10,-8.59,1,0.121,0.235,0.00194,0.675,0.565,176.725,138013,4
+Don Gibson,Sweet Dreams of You,0X1ZIDw6dIIg8ulE79mvgH,7,2010,rock-n-roll,0.518,0.411,1,-13.944,1,0.0331,0.882,0.0169,0.113,0.4,106.665,128560,4
+Gluecifer,It Won't Be,3FIY0tH8O5O4eFCjsFCKz7,8,2002,rock-n-roll,0.303,0.964,0,-1.985,1,0.0478,0.000328,3.56e-06,0.363,0.702,135.743,261000,4
+Elvis Presley,In The Ghetto - alt. take 20,3Q8vzFo4eA3RyTKjV9mkIn,11,2002,rock-n-roll,0.42,0.211,10,-16.566,1,0.0382,0.91,0.0314,0.15,0.436,177.431,186173,4
+Marco Antonio Muñiz,Coincidir / Celoso (with Jorge Muñiz) - A Dueto Con Jorge Muñiz,6oyppllW1Tbus4rSixRlJN,34,2014,rock-n-roll,0.256,0.495,2,-8.347,1,0.0951,0.632,0.0,0.553,0.314,194.745,285027,4
+Elvis Presley,"Proud Mary - Live at Greensboro Coliseum, Greensboro, NC - April 14, 1972",5BfgO78VSVr3iRTAOtdcLr,23,2022,rock-n-roll,0.487,0.757,6,-12.357,0,0.103,0.491,0.158,0.547,0.686,151.386,164480,4
+Los Muecas,Oye María,5NyICjcHuoojLYznC3nliz,2,2007,rock-n-roll,0.658,0.489,2,-8.771,1,0.0329,0.465,0.0,0.612,0.782,123.843,147040,4
+Bill Haley & His Comets,(We're Gonna) Rock Around The Clock - Single Version,34C0PyE2hpnC60tfiwMOtf,11,2019,rock-n-roll,0.682,0.846,1,-6.345,0,0.218,0.216,1.78e-06,0.051,0.763,180.648,131827,4
+Los 5 Latinos,Solamente Tu - Only You,44wSgM2zsB91R9oWU8Zbg5,17,2013,rock-n-roll,0.429,0.487,11,-11.812,1,0.0481,0.0788,0.182,0.159,0.347,104.018,189000,4
+Elvis Presley,"Baby, What You Want Me to Do - Live at The International Hotel, Las Vegas, NV - 8/25/69 Midnight Show",5gRjf8ls6qS8XF3bYWXcOr,10,2019,rock-n-roll,0.493,0.848,9,-8.128,1,0.0666,0.447,0.681,0.695,0.912,133.672,116733,4
+Cilla Black,Alfie,5lXmxXPCWEYmicTgQuAJvb,10,2012,rock-n-roll,0.317,0.266,10,-10.557,1,0.0306,0.928,0.000309,0.123,0.158,140.867,159413,4
+Warren Smith,Black Jack David,0okkfrpB8uwXsnZbl3QXMi,7,2021,rock-n-roll,0.624,0.607,11,-11.236,1,0.0354,0.709,5.63e-06,0.108,0.657,143.422,188371,4
+Brian Hyland,Sealed With A Kiss - Single Version,0B4Dlr3WoFUfzmNkF5nvap,22,2006,rock-n-roll,0.471,0.351,5,-8.977,0,0.027,0.768,0.0,0.122,0.516,91.557,158253,4
+Stray Cats,Oh Boy,5JeS4mAVZcVGfmwT4rsdZ4,21,2000,rock-n-roll,0.336,0.579,4,-13.583,0,0.0655,0.304,0.0,0.356,0.806,154.25,166040,3
+Jimmy Justice,Softly As In a Morning Sunrise,3AEbA3GY6bRZ2YPYp6uJ3p,0,2000,rock-n-roll,0.685,0.432,5,-9.662,1,0.0417,0.651,3.75e-06,0.123,0.737,124.371,156667,4
+Los Muecas,Sea Por Dios,2MaoN6Pkjs3FTrjknzHJfS,3,2011,rock-n-roll,0.602,0.615,4,-8.423,1,0.118,0.346,1.07e-05,0.0719,0.941,108.621,169760,4
+The Seekers,Silver Threads And Golden Needles - Live,17O838ycE0fj3OXlY4mBM8,11,2019,rock-n-roll,0.614,0.545,7,-10.225,1,0.047,0.48,0.0,0.683,0.583,128.907,157943,4
+Marco Antonio Vázquez,De qué manera te olvido,2rgBTDpSWa99wMF5ymwMXZ,8,2002,rock-n-roll,0.738,0.459,9,-12.325,1,0.044,0.87,0.000236,0.103,0.622,96.965,168280,4
+The Carburetors,The Wolves Are Gonna Howl Tonight,4fOiOizrMiwPRDwCRmAaHO,4,2015,rock-n-roll,0.275,0.97,7,-4.841,1,0.162,0.0152,0.0,0.292,0.529,159.0,223907,4
+Estela Nuñez,Mañana Te Acordarás,5NHShk5Okxd9f6EsDPAHnY,23,2014,rock-n-roll,0.571,0.28,4,-9.134,1,0.0306,0.334,0.0,0.321,0.302,104.679,237627,4
+Grupo Lluvia,El Peor De Los Fracasos,3O9LnJyQWgwZgLNTzPiOBB,0,2003,rock-n-roll,0.445,0.574,3,-9.364,1,0.082,0.635,0.00211,0.301,0.653,97.961,248000,4
+Ricky Nelson,Waitin' In School - Remastered 2005,2odDqHxU4veNqPx8N9pdoO,9,2005,rock-n-roll,0.58,0.729,9,-7.056,1,0.048,0.0487,0.0,0.0587,0.812,102.29,120573,4
+Los Siete Modernistas,Síguela Síguela,6FqARM0rJYcsJFoRcRjf9l,1,2001,rock-n-roll,0.677,0.729,10,-10.754,0,0.214,0.266,7.48e-06,0.0519,0.901,136.773,173057,4
+Buddy Holly,Not Fade Away,1J0FAnrIBr3644XJFgYofV,1,2005,rock-n-roll,0.798,0.633,9,-8.928,1,0.0364,0.467,0.0,0.249,0.924,96.114,141000,4
+Rowing Gamblers,Bilder,1U691gV9Urwo1Km0OAfFbF,0,2017,rock-n-roll,0.638,0.575,0,-5.667,1,0.0344,0.163,0.000254,0.112,0.398,138.196,293480,4
+Stray Cats,Bring It Back Again - Remaster 2000,3AS5m38Gq99pqGBqOwT5U3,6,2000,rock-n-roll,0.385,0.968,2,-5.229,1,0.0446,0.00707,0.0,0.142,0.838,121.945,184533,4
+Elvis Presley,Sylvia - Take 9,1OijrRCgpQS0SYo2FeX2dC,10,2020,rock-n-roll,0.497,0.555,11,-10.318,1,0.0268,0.623,1.24e-05,0.104,0.489,100.447,196280,3
+Crazy Cavan,She Stood Me Up,6UoeNVSqvwzAO5IMlSFO6u,2,2010,rock-n-roll,0.647,0.899,4,-1.379,1,0.0293,0.171,0.000163,0.15,0.927,103.708,173507,4
+Los Churumbeles De España,La Parrala,0r8WvWVoAhdbHh9BVAiT9G,0,2001,rock-n-roll,0.623,0.295,9,-10.209,0,0.0736,0.694,0.0,0.468,0.82,115.392,191293,4
+Tommy Roe,Dominique,3ySitXExa3iQuJTGP0gANU,4,2021,rock-n-roll,0.628,0.405,4,-12.497,1,0.0301,0.616,0.000351,0.479,0.944,111.155,175935,3
+Jan & Dean,Down At Malibu Beach,1vmTtr62jij6FOjlxLLYfO,0,2023,rock-n-roll,0.735,0.602,4,-12.003,1,0.0516,0.413,0.0132,0.0665,0.962,127.384,133533,4
+Alberto Vazquez,Arrieros Somos,5oYeMyp90hIM7YnwqirUBI,0,2023,rock-n-roll,0.401,0.142,4,-11.168,1,0.0404,0.886,6.94e-05,0.103,0.244,110.102,166696,3
+The Everly Brothers,Devoted to You,3pnHRXXRkM2Ap1aoDQg5vy,8,2021,rock-n-roll,0.587,0.341,3,-9.387,1,0.0256,0.834,0.0,0.0955,0.527,90.656,141040,4
+Roberto Jordan,Tres Regalos,3sGOvSJZHdVJhaafTRiDvc,18,2007,rock-n-roll,0.536,0.33,7,-12.188,1,0.0276,0.409,0.0,0.526,0.349,89.934,188176,4
+Los Pasteles Verdes,Volveré por Ti,3sgM5LULIwLCe5ocE1jLtS,29,2022,rock-n-roll,0.23,0.582,4,-3.625,0,0.0331,0.0962,0.0,0.0558,0.409,173.36,204445,4
+The Platters,"Dance With Me Henry - Live On The Ed Sullivan Show, August 2, 1959",0GHMcK01it38ZALKSRFHcj,19,2022,rock-n-roll,0.415,0.87,10,-9.397,1,0.116,0.861,0.0196,0.944,0.604,110.379,131198,4
+Mike Laure,Te Engañaron Corazón,2SrpOciyYZ3G29M4PhClee,24,2008,rock-n-roll,0.705,0.39,0,-9.478,1,0.0344,0.751,0.0,0.245,0.791,119.238,150477,4
+Los Originales Pasteles Verdes Del Peru,Cómo Me Gusta Estar Contigo,2bPH8l99E00faT7oEe9oGN,18,2001,rock-n-roll,0.553,0.743,9,-7.87,1,0.0352,0.568,0.000793,0.171,0.843,118.224,179026,4
+Eddie Cochran,Summertime Blues,7egAVGH5u9jeDB2nViTwGY,10,2020,rock-n-roll,0.698,0.847,0,-8.628,1,0.0658,0.0625,0.000178,0.285,0.96,158.23,117133,4
+La Revolución De Emiliano Zapata,La Fuerza De Tu Amor,6IcmLNpZFoZX3M4QrD2V6x,24,2010,rock-n-roll,0.314,0.326,7,-16.492,1,0.0443,0.652,0.0,0.346,0.59,71.272,187520,4
+Wynonie Harris,Drinking Blues,4xHX4074FdgKLXUDSgxEzB,4,2002,rock-n-roll,0.505,0.359,5,-8.426,0,0.0323,0.847,2.43e-05,0.127,0.408,113.16,162969,4
+Marianne Kock,Sista dansen,2qKKICULsMj7qX7lVdNjEm,9,2006,rock-n-roll,0.504,0.554,9,-8.69,1,0.0329,0.138,1.13e-06,0.2,0.811,123.52,175987,4
+Billy Fury,God Created Woman,7CApE6a9o3fVdOZ1IKg8Nh,0,2003,rock-n-roll,0.396,0.0364,5,-31.211,1,0.0288,0.762,0.000315,0.228,0.602,78.551,160933,4
+Trini Lopez,"Oh, Lonesome Me - Live at PJ's -1963",6YtxXLArWi7vsFHHljchdw,11,2005,rock-n-roll,0.425,0.8,11,-7.305,1,0.0533,0.269,0.0,0.806,0.963,165.251,203227,4
+Rock-Ragge,Be-Bop-A-Lula,1UHshkpfA7BjEddLzTr4pf,0,2013,rock-n-roll,0.467,0.723,5,-10.606,1,0.126,0.955,0.217,0.564,0.803,151.309,139893,4
+Clyde McPhatter,I'm Lonely Tonight,01qj1PNUz7S5tvCTjxCrJr,4,2005,rock-n-roll,0.391,0.413,11,-9.127,1,0.0366,0.867,6.08e-06,0.194,0.587,89.462,151573,4
+Sleepy LaBeef,Down Yonder - Instrumental,3c7Hyw3ClcmKza4n8QPHMn,1,2014,rock-n-roll,0.415,0.675,7,-14.193,1,0.0332,0.471,0.732,0.606,0.976,151.342,179653,4
+Gene Pitney,The Fool Killer - Original Musicor Records Recording,4OTOEvPVVVD1ilQ4TjPDh7,0,2023,rock-n-roll,0.512,0.33,1,-14.917,0,0.0455,0.336,3.9e-06,0.212,0.276,122.144,198040,4
+Lloyd Price,Walkin' The Track,0vYfpp5SQrai7g4PKgzws8,2,2021,rock-n-roll,0.62,0.429,1,-10.45,1,0.0495,0.674,0.0,0.0998,0.298,121.562,146360,4
+Grupo Lluvia,Nunca Mas Podre Olvidarte,7rDC7DhVyO5hq82Jb9gRBI,10,2012,rock-n-roll,0.274,0.534,4,-7.771,1,0.0339,0.0682,0.0,0.0631,0.572,180.713,166218,4
+Jerry Lee Lewis,"Mean Woman Blues - Outtake - Live At Panther Hall, Fort Worth, TX/1966",3edktZOSTUvfiZsTgJpHsn,2,2012,rock-n-roll,0.384,0.734,0,-9.043,1,0.127,0.866,9.69e-06,0.711,0.643,109.749,243747,4
+Robert Gordon,Guitar jamboree,6ed1X1qoYKWVAbcGNZrAQV,0,2006,rock-n-roll,0.327,0.679,2,-11.445,1,0.0518,0.0998,0.256,0.666,0.238,138.121,316813,4
+Mike Laure,Gorda,41YXSrUWOtUurGGmkQ1jgH,6,2004,rock-n-roll,0.721,0.397,10,-8.661,1,0.0416,0.669,0.0,0.107,0.811,133.711,163062,4
+Tommy James & The Shondells,We'll Have a World,025dnxEUDXupn2TpLSiLJ1,8,2021,rock-n-roll,0.643,0.494,0,-9.819,1,0.0292,0.659,0.0,0.196,0.96,126.263,155267,4
+The Blasters,Daddy Rollin' Stone,16XvzHCYKlfSCZw3Il9zss,25,2005,rock-n-roll,0.591,0.895,11,-5.493,0,0.0362,0.00239,0.00167,0.307,0.914,122.797,271053,4
+Los Apson,Barba Azul - Let's Do (The Limbo),3DUiB5cZAeH6ikfAx0YZnK,3,2011,rock-n-roll,0.664,0.697,7,-9.378,1,0.0498,0.394,0.0,0.108,0.796,137.17,169093,4
+Manoella Torres,Y,3LGjdqPnYBLQSASE29Hl7C,8,2002,rock-n-roll,0.603,0.542,0,-5.195,1,0.0304,0.754,0.0,0.329,0.613,96.069,158893,4
+Alberto Vazquez,Copa Vacia,6BDYhAYxa45RMzc4Q7hJe8,9,2011,rock-n-roll,0.317,0.419,2,-12.702,1,0.0382,0.2,0.00105,0.1,0.73,136.63,181734,3
+Los Juniors,Lego Diego,2XcWyXkyS0wvdxJIobZIrt,0,2014,rock-n-roll,0.806,0.373,2,-9.909,1,0.0365,0.677,0.000446,0.244,0.792,109.955,159613,4
+Juan Torres,Que Será,2lCkDWVPHarVzZJglMLVAM,0,2004,rock-n-roll,0.46,0.374,0,-9.849,1,0.025,0.187,0.827,0.251,0.58,93.56,170632,4
+The Seekers,On the Other Side - Mono; 1999 Remaster,3iaynl1vfGOeL7AN4k7oJg,19,2007,rock-n-roll,0.593,0.434,0,-9.15,1,0.0344,0.433,0.0,0.17,0.848,80.782,137493,4
+Cliff Richard,Dream Lover,7CUDf74nOlWjefATIIuvVN,6,2013,rock-n-roll,0.718,0.645,11,-4.529,1,0.0474,0.583,5.77e-06,0.111,0.621,122.962,197787,4
+Don Gibson,There's a Big Wheel,6l3RqRzbqwB61UHpcGBGjK,3,2014,rock-n-roll,0.649,0.656,9,-10.802,1,0.0294,0.632,3.41e-06,0.366,0.891,105.944,140653,4
+LaVern Baker,If You Love Me,6wSzp7jdrDUk9vJFIsdwKR,10,2005,rock-n-roll,0.601,0.361,4,-8.173,1,0.025,0.859,8.4e-06,0.384,0.666,102.688,161213,3
+Jody Reynolds,(The Girl with The) Raven Hair,19zflOcSaDPOoiBpdfsWjc,10,2003,rock-n-roll,0.672,0.538,9,-8.021,0,0.0286,0.766,0.0,0.124,0.531,111.07,144027,4
+Elvis Presley,"Medley: Jailhouse Rock / Don't Be Cruel - Live at The International Hotel, Las Vegas, NV - 8/23/69 Midnight Show",5y3FMCdUqHGCW60Nnpi2la,7,2019,rock-n-roll,0.484,0.916,2,-7.98,1,0.556,0.678,0.135,0.733,0.814,105.601,156707,4
+Radio Dead Ones,Cigars + Rum,39l37vUJK18besi0Nuwp9W,0,2011,rock-n-roll,0.268,0.985,6,-3.175,1,0.179,0.00122,0.00697,0.183,0.345,141.984,102333,4
+Los Chicanos,A Través del Cristal (Lookin' Through a Glass Darkly),6gyLFIcyinnvmuVAvHuzYL,0,2003,rock-n-roll,0.77,0.634,9,-9.757,1,0.0448,0.316,1.9e-06,0.272,0.967,119.028,147253,4
+Sleepy LaBeef,Red Hot,2imIGnLhltzr2SVOVcT9SH,0,2012,rock-n-roll,0.586,0.989,5,-4.148,1,0.0741,0.229,8.08e-05,0.0739,0.867,101.379,186145,4
+Ola & The Janglers,A Story Of Glory,50rFzFTKcZR62ovElzkBpc,0,2003,rock-n-roll,0.437,0.714,9,-5.594,1,0.0399,0.0218,0.0,0.0686,0.76,140.549,184227,4
+Connie Francis,You Always Hurt The One You Love,3rXZP9M0fdBa69JA49SDZY,18,2003,rock-n-roll,0.599,0.346,5,-7.521,1,0.0303,0.652,0.0,0.335,0.453,131.37,142493,3
+Mike Berry,I'm Looking for Someone to Love,7qW0znVGDmUlta7IV9aFME,0,2000,rock-n-roll,0.295,0.835,7,-5.729,0,0.417,0.0468,0.0,0.13,0.451,197.697,132800,4
+Dion,(I Was) Born To Cry,33Bm02THYi0sgIRTvxigbQ,7,2012,rock-n-roll,0.398,0.814,9,-4.346,0,0.0726,0.611,0.0,0.326,0.625,119.017,147893,4
+Big Joe Turner,Oke-She-Moke-She-Pop,3kRjWArCpjy45VojCOgPdz,7,2007,rock-n-roll,0.692,0.687,0,-4.726,1,0.0505,0.794,1.35e-05,0.161,0.757,103.412,182800,4
+Los Baby's,Que sabes tú,1uaS6CPzbuYcRhMUo7rVZv,3,2021,rock-n-roll,0.518,0.573,9,-5.546,0,0.0274,0.737,0.00343,0.326,0.41,95.613,153396,4
+The Firebirds,My Angel Lover,72TddkMPDm6iQqrKMRnSf3,19,2011,rock-n-roll,0.454,0.721,5,-6.096,1,0.0299,0.723,0.0,0.17,0.838,204.17,182200,4
+The Champs,Rebel Rouser,6vawF5OlZTm0JHT3vccMrh,6,2008,rock-n-roll,0.665,0.617,4,-10.002,1,0.0388,0.518,0.0119,0.129,0.623,108.088,155080,4
+Bob Luman,Boston Rocker,4kSNnnhvZPb8jloaGRjZ0h,5,2012,rock-n-roll,0.504,0.685,8,-14.017,1,0.0565,0.704,0.0215,0.0986,0.731,139.594,135613,4
+Janis Martin,Little Bit,0P7NEL40y1EaWfvbvA6gVE,19,2009,rock-n-roll,0.642,0.507,10,-6.336,1,0.224,0.777,0.0,0.0744,0.948,176.327,133133,4
+Los Muecas,Donde Estas Corazón,4KtqVZcw9mdKzNkI9A8Xz7,14,2007,rock-n-roll,0.351,0.422,2,-8.637,1,0.0292,0.259,0.000365,0.358,0.56,88.57,178427,4
+Elvis Presley,"Love Me Tender - Live at The International Hotel, Las Vegas, NV - 8/22/69 Dinner Show",0RuCWd2vaWm1FDf2yyNcYe,14,2019,rock-n-roll,0.304,0.531,10,-13.436,1,0.259,0.744,0.0001,0.681,0.626,97.82,212160,4
+Carl Mann,Mona Lisa,1VT7GMqWyUP5wUS7H6vlyq,13,2012,rock-n-roll,0.503,0.803,0,-4.404,1,0.0516,0.736,0.00023,0.0632,0.893,87.474,149107,4
+Elvis Presley,Polk Salad Annie (Film Mix),6wUtc1UZpSXvXd2UCQdJHI,48,2022,rock-n-roll,0.453,0.671,4,-11.338,1,0.0806,0.0245,0.246,0.939,0.602,153.791,295053,4
+Connie Francis,The Shadow Of Your Smile,49pXQuRug55B5GiNTFYeaF,5,2009,rock-n-roll,0.281,0.23,3,-13.556,1,0.0317,0.948,0.00846,0.0902,0.152,75.451,178093,4
+Don Gibson,Lonesome Number One,4QvgKeDWieVY1CpSvu2JGs,9,2014,rock-n-roll,0.369,0.463,0,-12.883,1,0.0329,0.623,0.00979,0.328,0.923,175.78,139267,4
+Sonia Rivas,Aquella Flor y Tu Voz,1rjiJyKoz0ETs5bUp1nb1Y,17,2015,rock-n-roll,0.756,0.435,1,-10.494,1,0.0388,0.467,0.0,0.246,0.814,127.973,192027,4
+Jimmy Justice,Hallelujah I Love Her So,4ixJdLeEZiUrYqMPMtv2Q0,0,2000,rock-n-roll,0.699,0.617,4,-7.159,1,0.0676,0.565,0.0,0.263,0.748,140.07,137107,4
+Gualberto Castro,Condicion,5YwKGivUw6r8DRiGRfZGi6,1,2002,rock-n-roll,0.602,0.439,3,-3.848,1,0.0285,0.64,0.0,0.0823,0.625,90.116,175973,4
+Mario Pintor,Soy un Sentimental,2z6JCbpFZDx2QsiAPMNnHk,4,2001,rock-n-roll,0.659,0.463,11,-9.554,0,0.0333,0.131,0.0,0.129,0.512,92.012,207640,4
+Alberto Vazquez,El muchacho alegre,07IVvboa1MIUnSyclPTuw8,7,2011,rock-n-roll,0.643,0.359,5,-11.345,1,0.036,0.737,8.81e-05,0.114,0.972,133.398,169822,4
+Jackpots,The Power Of Love,4QzAwDIJ6dllTcybFRUvBL,0,2003,rock-n-roll,0.511,0.675,7,-7.037,1,0.0375,0.391,0.0,0.35,0.644,136.922,127867,4
+Glen Glenn,Would Ya,2KEcuBDWm5MfE0AgKgWsld,14,2003,rock-n-roll,0.663,0.76,6,-4.453,1,0.0451,0.541,0.000429,0.183,0.732,76.25,122493,4
+Hank Williams,(I Heard That) Lonesome Whistle [Acetate Version 27] - 2019 - Remaster,3EnbGtyNZVEwbMhJkAkpdI,4,2020,rock-n-roll,0.635,0.164,2,-12.085,1,0.0445,0.858,1.79e-06,0.136,0.428,95.827,157522,3
+The Seekers,Red Rubber Ball,0BmyfGXqZfb3LLWKlS50p7,9,2007,rock-n-roll,0.604,0.636,6,-9.92,0,0.0327,0.648,0.0,0.053,0.911,97.396,134000,4
+Elvis Presley,"This Is the Story - Live at The International Hotel, Las Vegas, NV - 8/26/69 Midnight Show",4da1aKV46Y6KAsdTRRFJhm,9,2019,rock-n-roll,0.374,0.555,10,-9.79,1,0.0762,0.67,1.06e-05,0.51,0.342,138.515,162067,3
+Los Freddy's,Amor Maldito,3LMmvAooGzP7Hc6v2zHdEh,16,2018,rock-n-roll,0.774,0.364,9,-10.723,1,0.0479,0.285,2.58e-06,0.116,0.732,94.7,164467,4
+Los Polifaceticos,La Carta No. 3,4kfeWGrTWXCMWkkAfdfJkb,22,2007,rock-n-roll,0.746,0.855,0,-5.489,1,0.0552,0.619,0.0,0.0205,0.974,144.63,152520,4
+Fats Domino,All By Myself,0A1ggZO5wuRTe5dqIj3h7a,9,2017,rock-n-roll,0.43,0.924,5,-3.911,0,0.25,0.665,0.000991,0.391,0.765,184.573,142667,4
+The Hollies,Dear Eloise - 2003 Remaster,2mRaLqSwwol1IuJhOYn2jX,3,2003,rock-n-roll,0.545,0.648,7,-6.425,1,0.0311,0.368,0.0,0.0569,0.461,103.883,186533,4
+Hank Williams,Moanin' The Blues (Acetate Version 207) - 2019 - Remaster,2QTFNkIxdGK7OSB3DEMzE8,4,2020,rock-n-roll,0.65,0.198,2,-12.64,1,0.0578,0.806,8.15e-06,0.162,0.638,80.081,168002,4
+Stray Cats,"Look at That Cadillac - Live at Loreley, August 20th 1983",1KKP0fyQAiBxcXXm1dt8eI,8,2015,rock-n-roll,0.36,0.839,9,-6.074,1,0.0518,0.000778,5.87e-06,0.95,0.521,133.053,265213,4
+Sonora Maracaibo,Piel Canela,16lmJlUG9r74FV13SwhO6e,25,2018,rock-n-roll,0.596,0.472,8,-12.544,1,0.0389,0.768,0.0,0.215,0.856,140.987,159608,4
+Enrique Guzman,Acompáñame,1B0ntooAeYRmC9egms1iFA,12,2007,rock-n-roll,0.372,0.312,7,-12.687,0,0.0283,0.786,2.71e-06,0.126,0.398,103.76,202840,4
+Grupo Lluvia,Te Tuve y Te Perdi,3pDj9SF2H9DBYvOvAkyJOE,0,2011,rock-n-roll,0.486,0.537,0,-7.666,1,0.0296,0.289,0.000154,0.293,0.717,105.721,156396,4
+Ray Campi,Blue Star,2nwFHlfqCagkclzhOuPqIg,0,2008,rock-n-roll,0.404,0.31,0,-9.747,1,0.0282,0.934,0.0053,0.119,0.151,88.384,163987,4
+Dale Hawkins,Four Letter Word - R.O.C.K.,365e3IoluRaOYxYFw9ZSZo,0,2014,rock-n-roll,0.624,0.587,2,-7.164,1,0.11,0.771,0.0,0.223,0.634,80.378,101907,4
+Brian Setzer,Seven Nights to Rock - Live,7Hh0DBN8AB2ETNLFPvqDYt,2,2012,rock-n-roll,0.419,0.976,5,-4.902,1,0.0895,0.00239,1.21e-05,0.97,0.55,107.782,219200,4
+The Seekers,Some Day One Day - Mono; 2009 Remaster,0hKqBJ3LSNNouzf9Cp1n7Q,17,2009,rock-n-roll,0.481,0.602,3,-8.033,1,0.0298,0.169,0.0,0.122,0.816,118.003,156427,4
+Johnny Carroll,Crazy Little Mamma - Remastered,7y4OnHHnqwLugRLFp6qbLE,0,2021,rock-n-roll,0.603,0.627,8,-7.126,1,0.0588,0.135,4.57e-05,0.214,0.904,93.453,129788,4
+Guy Mitchell,Look At That Girl,4fDcKBs5h4FhzBPmCAGK2p,1,2011,rock-n-roll,0.785,0.27,5,-14.123,0,0.0591,0.952,3.04e-06,0.198,0.738,123.499,170786,4
+Virginia Lopez,No Hace Falta Nada,1bhsi30gmAlFxlP8Z0aIOn,0,2013,rock-n-roll,0.758,0.703,10,-4.97,0,0.0362,0.408,7.55e-06,0.2,0.786,92.987,308377,4
+Los Brios,La Última Canción,2mmEOMZRIxWsrAMV9WvV2J,35,2010,rock-n-roll,0.479,0.672,5,-8.537,0,0.0353,0.588,0.0,0.277,0.607,98.619,193456,4
+Angelica Maria,Que El Mundo Ruede,65YPUaHzIaxBG3Hck1Qf51,10,2015,rock-n-roll,0.79,0.309,3,-10.1,1,0.126,0.984,0.0374,0.167,0.862,117.442,143035,4
+Jerry Lee Lewis,"Take These Chains From My Heart - Live At The International, Las Vegas/1970",6Qfgd9je4LHbHHyMupuG8K,2,2012,rock-n-roll,0.53,0.539,7,-10.005,1,0.0736,0.603,2.2e-05,0.928,0.772,118.368,173720,4
+The Collins Kids,Beetle-Bug-Bop,57VQUJJwSH30ECnKNBAGsg,1,2021,rock-n-roll,0.691,0.572,9,-11.293,1,0.0638,0.651,0.000207,0.136,0.961,204.763,140933,4
+Wilson Pickett,Funky Broadway (Single Version),6Y8iN2xE1uLLeSQGXHqbcs,4,2021,rock-n-roll,0.71,0.499,9,-10.314,1,0.0353,0.0271,0.02,0.0827,0.962,120.947,155160,4
+Fats Domino,Blue Monday - Single Version,0AdDpjlUFKXW52b2RQ2Pmk,11,2017,rock-n-roll,0.366,0.834,11,-5.668,1,0.0351,0.0564,0.0,0.068,0.864,154.051,137441,3
+John Leyton,"Shout, Shout - Live",1VXWVUX9GWoV869G2bFmoK,0,2015,rock-n-roll,0.691,0.726,7,-7.138,1,0.323,0.805,0.0,0.688,0.768,95.472,168480,4
+Hank Williams,I Hang My Head And Cry - 2019 - Remaster,1REZdtGH6dV3XaXoDBbujw,6,2020,rock-n-roll,0.462,0.237,0,-10.431,1,0.031,0.903,1.82e-06,0.108,0.628,131.76,214936,4
+Ray Campi,Dream,07CqYZziCNswIH40TV4iGg,0,2008,rock-n-roll,0.507,0.19,7,-11.521,1,0.029,0.973,0.000582,0.135,0.0649,79.038,229680,4
+Carl Perkins,Everybody's Trying to Be My Baby - Remastered 2022,32q7HHkDDaAVQDf1y0VB4p,31,2022,rock-n-roll,0.519,0.901,11,-7.034,0,0.12,0.378,0.0,0.298,0.822,180.823,132867,4
+Jimmy Justice,(Desafinado) Slightly Out of Tune,2IpsXbbAIVzm7GoLCOaAJY,0,2000,rock-n-roll,0.692,0.507,5,-9.799,1,0.0643,0.67,0.0,0.128,0.77,110.484,130800,5
+The Hollies,Very Last Day - Live,3zOrNi18paNc8GNSkdXvRR,6,2013,rock-n-roll,0.271,0.877,4,-7.336,0,0.115,0.492,0.0,0.977,0.685,176.256,184307,4
+Buddy Holly,Reminiscing,0kYdF6iFxhAcFCSWgkNq3j,3,2012,rock-n-roll,0.604,0.758,4,-2.792,1,0.0324,0.276,0.0,0.0638,0.897,132.238,116707,4
+Backyard Babies,A Day Late in My Dollar Shorts,5ILQioMUvbm7mFg4LMGqcV,22,2019,rock-n-roll,0.441,0.955,5,-3.976,1,0.0864,5.85e-05,0.000981,0.0761,0.529,166.992,167013,4
+The Cascades,Let Me Be (Remastered),0gsMbYP9V0tsBm8V6ignKE,21,2021,rock-n-roll,0.613,0.693,8,-11.915,1,0.051,0.239,0.0,0.0566,0.717,129.988,135233,4
+Hep Stars,Donna,19NaEwhDUQFsvPttTuVIuc,8,2014,rock-n-roll,0.563,0.552,2,-6.321,1,0.025,0.579,0.00073,0.121,0.363,109.999,202413,3
+Manolo Muñoz,Tus Ojos,2eiIz2jHfujNYpKW7ch4zH,26,2015,rock-n-roll,0.638,0.522,0,-7.001,1,0.0306,0.433,2.38e-06,0.0584,0.605,119.977,171800,3
+Elvis Presley,Mary In the Morning - Takes 3-4,47hky2Sv0xHGatb4ECKjRg,16,2020,rock-n-roll,0.484,0.314,0,-14.629,1,0.043,0.777,0.00227,0.691,0.275,96.595,362013,4
+Grupo Lluvia,Detalles,0Lr065VbInDdIBjQqKG4c8,0,2014,rock-n-roll,0.519,0.51,9,-8.102,1,0.0298,0.0134,0.604,0.138,0.367,92.311,290747,4
+Hank Williams,Leave Me Alone With The Blues,0GtAhxlWflolOWk9Hpxr0A,3,2005,rock-n-roll,0.329,0.317,2,-12.73,1,0.0315,0.949,0.0,0.0878,0.684,172.605,137240,4
+Sleepy LaBeef,Put Your Arms Around Me,16h9J5ErLufAAnkzTOxiGQ,0,2012,rock-n-roll,0.489,0.944,2,-4.885,1,0.0438,0.311,0.504,0.154,0.926,110.943,141845,4
+Raul Vale,Urge,0gHRWssXmXivYxDM8cDYIu,0,2003,rock-n-roll,0.563,0.304,9,-12.572,0,0.0357,0.839,0.00183,0.128,0.353,80.015,216840,4
+Los Apson Boys,Señor Apache,0YF7BsotVDPT91Q1LpAWty,25,2008,rock-n-roll,0.602,0.578,9,-6.867,0,0.039,0.116,0.0,0.0954,0.438,97.8,283690,4
+Grupo Lluvia,Triste Imaginar,5uQVCmGyLsrFdhl4eYat5z,0,2011,rock-n-roll,0.43,0.391,4,-10.647,1,0.0319,0.386,1.07e-05,0.13,0.393,96.384,203469,4
+The Drifters,I've Got Sand In My Shoes,2QpPA0q6zsHB9UZLM0EQdg,2,2021,rock-n-roll,0.6,0.475,8,-9.49,1,0.0327,0.616,0.0,0.146,0.716,119.686,171467,4
+Hank Williams,When The Fire Comes Down From Heaven - 2019 - Remaster,376PL97nWUNDbrEol4k4Mj,9,2020,rock-n-roll,0.618,0.311,2,-10.769,1,0.0343,0.927,4.49e-06,0.127,0.746,93.987,144496,4
+Los Muecas,Pos Las Parrandas,3FPEVaiyg78IQVWM6pjNCk,3,2009,rock-n-roll,0.589,0.573,5,-5.655,1,0.0326,0.762,2.21e-06,0.169,0.96,120.009,175151,4
+Frankie Avalon,Two Fools,10yeZquKIpy0ExYrmdU1pS,2,2021,rock-n-roll,0.674,0.459,0,-17.121,1,0.0362,0.82,0.0,0.0981,0.917,76.856,144065,4
+Ray Campi,Moonlight Becomes You,3P587WUsQDiupA068o4cY0,0,2008,rock-n-roll,0.642,0.284,8,-10.183,1,0.0306,0.954,8.64e-05,0.135,0.223,112.046,156960,4
+Elvis Presley,Loving You - End Title Take 16,5qpERH7oPkt8G4i4IB9Ijk,13,2018,rock-n-roll,0.42,0.00946,1,-22.528,1,0.0572,0.92,0.000134,0.0837,0.192,145.368,136413,3
+Los Monstruos,Me Siento Triste,5GxaV0CkOiiGm6LT49rJTR,1,2000,rock-n-roll,0.554,0.567,1,-12.346,0,0.0806,0.53,0.00506,0.126,0.934,183.521,116646,4
+Elvis Presley,Up Above My Head / Saved (Gospel #2) - Takes 4 & 7,6qH8DYtCZ1MAOabhAPNWcN,22,2018,rock-n-roll,0.393,0.497,5,-13.618,1,0.0694,0.77,0.000141,0.494,0.577,107.281,218547,4
+Johnny Laboriel,Yo Escogí Nacer en México,1b0FBQbDoWCEiig9OAYJsA,0,2013,rock-n-roll,0.323,0.704,4,-3.757,1,0.0316,0.55,0.0,0.208,0.586,141.971,257202,4
+Enrique Guzman,Mi Corazón Canta - Remastered,71iF4iLMWaASbKfbLnu3cP,17,2018,rock-n-roll,0.321,0.432,4,-8.159,1,0.0292,0.504,0.0,0.206,0.29,83.756,159987,4
+Duane Eddy,St. Louis Blues - Alt. Version,20k2TCsRc9tnIWp6vS76Bl,0,2001,rock-n-roll,0.639,0.51,0,-12.104,1,0.0352,0.394,0.963,0.129,0.797,109.706,165827,4
+Bobby Vee,Take Good Care Of My Baby - 1990 Remastered,2Z0uXcuh1SaQHBFT8FRlM1,15,2019,rock-n-roll,0.492,0.431,1,-12.257,1,0.0606,0.698,0.0,0.124,0.662,82.447,150867,4
+Elvis Presley,The Next Step Is Love - Takes 3-6,5ZyhAtzrxKlZBWwsspf90j,11,2020,rock-n-roll,0.495,0.549,3,-11.496,1,0.0424,0.611,0.00293,0.389,0.612,94.183,316440,4
+Carlos Lico,No,4b4YBpIEiGsSZ0Y7v8F8DG,48,2005,rock-n-roll,0.306,0.444,2,-10.855,1,0.0368,0.789,0.000111,0.173,0.498,80.029,178427,3
+Estela Nuñez,"Tan Lejos, Tan Lejos",0RIYFllRu5DeLGjgIFO4iG,7,2001,rock-n-roll,0.607,0.452,0,-9.688,1,0.0313,0.595,0.0,0.56,0.407,112.254,206800,4
+Palito Ortega,Dame Felicidad,3iRrROK9iPU41k6vCV65Xs,24,2018,rock-n-roll,0.72,0.425,4,-7.527,1,0.0299,0.408,2.18e-06,0.157,0.656,115.973,214972,4
+The Crickets,Well...All Right,7tAjp9gKmZe1FIv96euyz6,4,2021,rock-n-roll,0.574,0.64,7,-6.648,1,0.0322,0.51,2.84e-05,0.228,0.542,125.844,145800,4
+Hank Williams,May You Never Be Alone (Acetate Version 5) - 2019 - Remaster,23HWMskoMsRHyBjLSONRTA,6,2020,rock-n-roll,0.464,0.149,4,-12.719,1,0.0319,0.643,0.0,0.12,0.598,118.643,192589,4
+Elvis Presley,"(Let Me Be Your) Teddy Bear / Don't Be Cruel - Live at Convention Center Arena, San Antonio, TX - April 18, 1972",4jpDPdxjrrB6pb3u9s8Gao,19,2022,rock-n-roll,0.397,0.808,0,-11.782,1,0.0376,0.627,0.767,0.87,0.809,102.469,106213,4
+Los Churumbeles De España,Abril en Portugal,19EqjcakRVjikWLYmoSvc0,2,2001,rock-n-roll,0.422,0.318,11,-8.34,1,0.0305,0.768,0.0,0.0703,0.393,71.142,214600,4
+Los Strwck,Un Adios Para Un Amigo,6YF7hDMNzLmRAeVZC74pWO,0,2010,rock-n-roll,0.827,0.721,9,-8.479,1,0.0512,0.0181,0.00128,0.323,0.786,104.942,187787,4
+Marianne Kock,Jag skall vänta,7mE8XG4RGvoeCcJzEzdW8h,0,2006,rock-n-roll,0.429,0.552,2,-6.342,1,0.0335,0.48,0.0,0.041,0.757,133.98,140520,4
+The Drifters,Please Stay,2rMHEYriZhtbJSYJQsFa5s,2,2017,rock-n-roll,0.718,0.387,10,-10.208,1,0.0294,0.358,0.0,0.216,0.718,113.001,137800,4
+Jerry Lee,Sunday Morning Blues,6gUJjcvlOnCzqyTiWosW5k,0,2013,rock-n-roll,0.798,0.54,2,-6.856,0,0.0316,0.268,7.97e-06,0.182,0.597,107.967,260560,4
+Eddie Bond,Before the Next Teardrop Falls,3XDEi4lb1DYtK7F7K1r2No,0,2022,rock-n-roll,0.577,0.514,2,-10.879,1,0.0334,0.428,1.42e-05,0.397,0.748,110.692,167467,4
+Los Pasteles Verdes,Historia de un Amor,0xVByCe0eGwn7n9lcZeYKu,9,2015,rock-n-roll,0.719,0.647,7,-6.803,0,0.0326,0.0327,0.0,0.267,0.587,100.109,178920,4
+Manoella Torres,Libre Como Gaviota,1QC6Zr20jKTt6eOFNtIp31,9,2003,rock-n-roll,0.341,0.536,2,-5.5,1,0.0298,0.497,0.0,0.276,0.17,84.097,150067,4
+Elvis Presley,Where Could I Go But To The Lord (with The Blossoms) - alt. take 4,7MQLlzYbiadf0SOZuriEpZ,9,2002,rock-n-roll,0.57,0.463,4,-11.265,1,0.0324,0.807,6.04e-05,0.29,0.577,97.248,117507,4
+Los Muecas,India Bonita,5oxpFpyzbi4LO881Nuva5F,2,2009,rock-n-roll,0.631,0.347,3,-7.299,1,0.0336,0.883,0.0,0.0501,0.733,85.822,206576,3
+Los Apson Boys,Fuiste a Acapulco,5fPLZ0nWxWE4I578h5l5jC,14,2008,rock-n-roll,0.584,0.73,0,-7.846,1,0.0746,0.644,0.0,0.0953,0.939,181.848,159687,4
+Elvis Presley,You Gave Me a Mountain - Live at the Honolulu International Center,38kNH6GYM2yu2BxTN157i9,13,2018,rock-n-roll,0.344,0.418,0,-12.101,1,0.0319,0.533,0.168,0.879,0.574,145.223,199520,1
+Estela Nuñez,Cuéntame,3EXxAiij2HcWsRmqI4VSKw,12,2004,rock-n-roll,0.516,0.437,3,-11.096,1,0.0358,0.797,0.0,0.401,0.642,131.224,168240,4
+Elvis Presley,It's Still Here - Takes 1 & 3,4CsdnRjdr0o4JtX4Pff0u0,10,2021,rock-n-roll,0.315,0.15,4,-16.045,1,0.0741,0.92,0.00687,0.141,0.237,78.585,255880,3
+Marco Antonio Vázquez,Tú eres mi destino,2FzA27RDTMOsaiwe98Mj85,6,2002,rock-n-roll,0.723,0.547,9,-10.52,0,0.0411,0.655,0.0,0.245,0.687,102.884,161027,4
+Gualberto Castro,Esa Pared,6BoiNPgaqEXTWMlPfX8Afg,0,2003,rock-n-roll,0.662,0.319,9,-8.889,1,0.033,0.62,0.0,0.0547,0.669,107.283,177507,4
+The Drifters,Another Night With the Boys - Single Version,39ARKyGW82ozrEQMogYKoM,3,2005,rock-n-roll,0.554,0.178,7,-13.917,1,0.0382,0.889,0.0,0.183,0.531,89.159,170560,4
+Los Brios,Noche,0tiMKfltuKeFGMot1yEKjm,12,2022,rock-n-roll,0.464,0.48,1,-11.015,1,0.0277,0.271,3.61e-06,0.0659,0.524,169.59,213107,4
+Jay & The Americans,Suspicion (feat. Jay Reincke),7qu2XQSsvbVLtLGdWvlneD,8,2015,rock-n-roll,0.657,0.726,2,-11.654,1,0.0478,0.121,0.000299,0.106,0.698,128.02,219000,4
+Dany Logan,Je bois du lait,7aRQDXoGSMMMK2qD2OtNbo,0,2023,rock-n-roll,0.357,0.745,7,-10.625,0,0.162,0.458,0.0,0.117,0.762,179.072,129698,4
+The Hellacopters,I Am The Hunted,4rtTaYt59hdYymVeeUtpjb,21,2022,rock-n-roll,0.168,0.962,8,-4.766,1,0.162,0.00245,0.0,0.119,0.354,156.497,180547,4
+Bruce Channel,Party Time,1BHZkjp038V7jM42eVR2ZM,0,2004,rock-n-roll,0.566,0.442,7,-12.066,1,0.0301,0.561,0.0,0.0585,0.672,94.0,261200,4
+Eddie Bond,Ballad of Toe Head White,2i4oHsxKsctl5BiqjOzmDA,0,2022,rock-n-roll,0.719,0.617,10,-10.615,1,0.03,0.339,0.000104,0.0547,0.939,92.542,94710,4
+Los Yakis,Más Bonita y Más Gitana,7g4QbkzeSVqzlJY60H7eH2,29,2018,rock-n-roll,0.814,0.9,4,-7.182,0,0.0681,0.631,0.00193,0.306,0.775,112.012,213133,4
+Benny Joy,Dearest Darling,2BKrYKJACdFHsB4DAEFDC7,0,2001,rock-n-roll,0.549,0.456,4,-9.772,1,0.0268,0.954,0.0852,0.127,0.511,112.233,134333,3
+Alberto Vazquez,Bambina Bambina,6rwqI1WYWm0ZfSpeiMYGIY,5,2021,rock-n-roll,0.382,0.559,8,-6.896,1,0.0403,0.214,0.0,0.0784,0.655,134.377,137013,4
+Frankie Valli & The Four Seasons,Danger,4mWhwsrUMCrNDgygXyOIOc,19,2001,rock-n-roll,0.606,0.594,7,-7.915,1,0.0275,0.69,1.39e-05,0.0704,0.865,73.145,170400,4
+Los Moonlights,Mira Cómo Son las Cosas,2KGJaHPJdWUCEJPHarhK55,4,2001,rock-n-roll,0.343,0.367,2,-10.803,0,0.0274,0.188,7.97e-06,0.101,0.206,83.799,159053,4
+Elvis Presley,Burning Love - Rehearsal Version,106wvzsvugEhIgKkj9zkpV,15,2018,rock-n-roll,0.567,0.714,2,-11.841,1,0.0409,0.362,0.00316,0.339,0.956,148.357,190787,4
+The Drifters,Dance with Me - Single Version; 2011 Remaster,3uR8ZhnvD8EcPz7dJN3wJs,12,2015,rock-n-roll,0.388,0.44,5,-8.284,1,0.0306,0.375,0.0,0.163,0.518,131.416,144040,4
+Elvis Presley,Blue Moon of Kentucky - RCA Single Version,2wZ7rjpKAApSklVobGW9aK,14,2017,rock-n-roll,0.679,0.498,9,-8.633,1,0.0337,0.92,0.0361,0.0773,0.87,112.3,125293,4
+Paul Anka,Strangers In The Night,1d3SBTSz4YteB78ecadMxR,13,2022,rock-n-roll,0.445,0.463,2,-10.844,1,0.0483,0.346,0.000199,0.155,0.26,171.941,176031,4
+The Crests,Flower of Love,5w19OwpWgsb0UNyWt4U6PU,3,2021,rock-n-roll,0.501,0.353,3,-11.339,1,0.0301,0.734,0.0,0.0894,0.435,105.135,147734,3
+Alberto Vazquez,Cosas,6VKCdSlDIAp2C6EmZZzZCw,16,2014,rock-n-roll,0.631,0.77,7,-6.115,1,0.0632,0.759,0.0,0.75,0.878,97.109,177699,4
+Gualberto Castro,Te Sigo Amando,3Fr7o5WsWKuXas56XyXmzj,3,2013,rock-n-roll,0.504,0.26,9,-9.668,0,0.0344,0.412,0.000739,0.221,0.401,75.083,173080,3
+Sergio Esquivel,El Mayab,1o2jjgHvjVy2ZSZgM9hFJV,0,2015,rock-n-roll,0.375,0.691,0,-8.247,1,0.0475,0.147,7.86e-05,0.113,0.148,90.901,303800,4
+Virginia Lopez,Tu Promesa De Amor,66yMRmtFuYcqA2c9NxRsJQ,16,2010,rock-n-roll,0.804,0.315,7,-12.638,1,0.0461,0.824,0.000154,0.092,0.782,106.305,169067,4
+Elvis Presley,Blue Moon of Kentucky - Live,5qcKXa34LTxXgrPNGj3AiV,10,2017,rock-n-roll,0.61,0.422,9,-13.088,1,0.072,0.912,0.00109,0.255,0.696,116.424,142960,4
+Elvis Presley,I'll Be There - Takes 4-6,3HQTOOi3AXfRRvOcGhLcI2,7,2019,rock-n-roll,0.568,0.376,3,-14.969,1,0.0387,0.871,0.0781,0.254,0.72,127.533,192333,4
+Elvis Presley,Don't Be Cruel - Version 1,1pHv30FB01YfoF6RhQTx3S,17,2006,rock-n-roll,0.653,0.283,2,-17.222,1,0.0621,0.647,0.000355,0.247,0.652,116.494,141453,4
+Angelica Maria,Amanecí en Tus Brazos,4oir0A4j4PqdrN90ocQMzT,0,2013,rock-n-roll,0.336,0.118,0,-14.573,1,0.0361,0.736,0.000313,0.0799,0.262,94.943,146827,3
+Joe Brown,Price Tag,12WtVp0U0vjomNY0eHd7Dk,3,2013,rock-n-roll,0.66,0.676,5,-7.603,1,0.0369,0.806,0.0,0.119,0.663,87.995,193560,4
+Angelica Maria,Tu Siges Siendo El Mismo,6YFX4awboRhKP34GJ7LeHf,0,2017,rock-n-roll,0.499,0.288,7,-9.285,1,0.0365,0.407,0.000136,0.176,0.298,101.652,230720,3
+The Everly Brothers,Empty Boxes,63wSsIUCUxw4W7Acw6fwE9,6,2020,rock-n-roll,0.619,0.0733,7,-19.565,1,0.0299,0.871,0.000727,0.113,0.377,101.115,166333,4
+Buddy Holly,Wishing - Single Version,1NOmJ3tEJZKyefIKrTVFnQ,6,2009,rock-n-roll,0.588,0.481,4,-10.649,1,0.0281,0.423,0.0,0.432,0.795,121.731,121173,4
+Angelica Maria,Pensando en Ti - Remasterizado,0GdJMeaf0Rgj73md0AnQEL,4,2004,rock-n-roll,0.524,0.317,11,-10.417,0,0.0318,0.263,0.0,0.289,0.283,102.621,128773,4
+Herman's Hermits,A Must to Avoid (Re-Recorded),1bg11g6Xitm4TaaR0ft0uL,1,2013,rock-n-roll,0.63,0.697,4,-10.108,1,0.0418,0.0633,0.0,0.0905,0.922,137.133,118733,4
+Los Baby's,No dejes de quererme,3vUl8lZH4TCLTuBpcqa1Z6,11,2002,rock-n-roll,0.485,0.483,5,-11.384,1,0.0611,0.57,0.0,0.329,0.549,185.284,174573,4
+The New Seekers,Never Ending Song of Love,01gg4btar3qBh5z1IMwxKm,16,2013,rock-n-roll,0.538,0.902,2,-9.104,1,0.0518,0.397,0.085,0.814,0.61,96.197,182107,4
+Josue,A Arpa e o Acordeao,4bbieDrcErYLAeq8LUYLfU,0,2013,rock-n-roll,0.653,0.564,7,-5.499,0,0.0244,0.192,0.0,0.113,0.767,95.049,185720,4
+The Hollies,Just One Look,2P8ckKgAy1bvy1omfatEA4,4,2012,rock-n-roll,0.61,0.737,2,-7.439,1,0.0446,0.369,2.41e-05,0.303,0.857,127.88,147667,4
+Johnny Laboriel,La Hiedra Venenosa,4nJHEPkt7hS45e9LejTBAL,0,2014,rock-n-roll,0.649,0.558,7,-11.589,1,0.0492,0.607,0.0,0.451,0.962,137.357,162827,4
+Bobby Darin,Watch The River Flow,3Q6AWQN3leI725wjHNW6VX,4,2018,rock-n-roll,0.699,0.635,5,-8.85,1,0.0317,0.475,3.14e-06,0.134,0.953,129.271,186227,4
+Hank Williams,I Can't Escape From You - Undubbed Session Demo,1DWxRvHCHg1PP7ujNxKsjg,4,2000,rock-n-roll,0.562,0.126,2,-12.355,1,0.027,0.942,0.00757,0.283,0.42,87.203,138360,3
+Johnny Laboriel,Señora Corazón: Tema Festival Oti,2bZQp5FZcLjgqTzoBF0SD5,28,2013,rock-n-roll,0.374,0.449,0,-9.837,1,0.029,0.605,0.028,0.0466,0.512,78.305,218175,4
+Herman's Hermits,Can't You Hear My Heartbeat (Re-Recorded),77drW4wS4WYEDispGdRPRH,4,2013,rock-n-roll,0.556,0.536,9,-10.802,1,0.0277,0.141,2.38e-06,0.0776,0.82,144.206,154213,4
+Chubby Checker,Slow Twistin' - Original Hit Recordings,6JI9XCCt2JEQT42gYCeozF,14,2005,rock-n-roll,0.751,0.729,4,-4.74,1,0.0332,0.427,0.0,0.364,0.962,130.431,150067,4
+Janis Martin,Let's Elope Baby,5hCpaJElJ5wWC94Dh3SiKh,11,2009,rock-n-roll,0.626,0.574,4,-8.256,1,0.0315,0.829,0.0,0.157,0.895,93.54,126573,4
+The Carburetors,Rock'n'roll Forever,1W8ToqSEFb7T410wSK5CQA,6,2006,rock-n-roll,0.36,0.874,4,-7.624,1,0.0459,0.000174,0.00431,0.271,0.343,185.119,235000,4
+The Champs,Only the Young,27IG1En5ZroOs4M8uNUqab,0,2013,rock-n-roll,0.446,0.727,0,-14.351,1,0.0423,0.568,0.868,0.135,0.794,179.878,133973,4
+Hank Williams,Move It On Over (Acetate Version 14) - 2019 - Remaster,4O8lj7buZCiBPvN2PzrGFn,4,2020,rock-n-roll,0.613,0.353,4,-9.571,1,0.0475,0.783,0.0,0.139,0.908,77.333,161128,4
+Elvis Presley,(Marie's The Name) His Latest Flame - Take 12,0vFVp8buxQ7oalgjEMqz0i,31,2003,rock-n-roll,0.626,0.734,7,-10.432,1,0.0328,0.608,0.0199,0.11,0.941,103.578,141333,4
+Clyde McPhatter,My Island of Dreams,44ZKPU69GfqSmGegWUbfis,2,2005,rock-n-roll,0.337,0.33,5,-9.496,1,0.0339,0.91,2.93e-06,0.132,0.341,76.947,159707,4
+Lucky Blondo,"Dis moi oui - Du film ""The Young Ones""",75p0MaGwYwt4knghlzCluL,0,2002,rock-n-roll,0.567,0.836,1,-4.923,1,0.0656,0.0203,0.0,0.069,0.963,117.902,124173,4
+Elvis Presley,Take Good Care Of Her (with J.D. Sumner & The Stamps) - alt. take 3,0HF4QwFFBSvLkZNSKigUQx,6,2002,rock-n-roll,0.626,0.217,0,-13.737,1,0.0278,0.534,2.8e-05,0.114,0.424,97.321,213240,4
+Wynonie Harris,Good Morning Mr. Blues,4KblhIZ7xgFHN63IuOMAOy,2,2005,rock-n-roll,0.523,0.398,3,-6.656,1,0.113,0.981,0.0232,0.134,0.614,76.568,170187,4
+LaVern Baker,Humpty Dumpty Heart,3GHKzCTWJM05WLo3H6RKWO,0,2023,rock-n-roll,0.602,0.601,1,-7.9,1,0.0319,0.647,0.0,0.104,0.954,162.056,157853,4
+Sonny Burgess,Spellbound,2kYLKpsSraTn29sZx5UxGl,1,2011,rock-n-roll,0.697,0.754,4,-7.59,1,0.0397,0.527,0.00111,0.0934,0.925,171.056,127600,4
+Los Hitters,Hierba Verde,6sSNtBnS5KvhSOYYgUuXjW,13,2000,rock-n-roll,0.512,0.783,0,-6.358,1,0.0441,0.00851,0.0,0.108,0.739,180.29,127760,4
+Marco Antonio Muñiz,Ayudame,4NGyZYqLGVh5bQHQ7X8xgD,6,2015,rock-n-roll,0.729,0.365,11,-9.442,1,0.0413,0.699,1.5e-06,0.224,0.636,119.362,151563,3
+Fats Domino,Goin' Home - 1952 Single Version,5fYtSE3Htyghu39kK2LAlZ,4,2017,rock-n-roll,0.413,0.639,11,-4.69,1,0.0312,0.852,0.0,0.0981,0.538,94.665,132706,4
+Jimmy Justice,I Wake Up Crying,4TQUjd2xkHcxrHkGXA2ZQa,0,2000,rock-n-roll,0.368,0.563,1,-6.854,0,0.0304,0.607,0.0,0.0723,0.807,186.222,111587,4
+Bobby Darin,Baby Face - Remastered,2oDXuJXoJDz3Z6vS40wLPK,1,2017,rock-n-roll,0.672,0.817,9,-6.989,1,0.0407,0.734,4.48e-05,0.28,0.955,103.932,127653,4
+Angelica Maria,Otra Vez Vuelvo Contigo,15j9CBZ0CXD0f9qcfNrK6U,0,2013,rock-n-roll,0.745,0.283,0,-13.479,1,0.146,0.917,0.0365,0.192,0.775,116.319,147987,4
+Charlie Feathers,Release Me,6pOCYwjQq2jdd61VonqOLG,2,2008,rock-n-roll,0.619,0.36,9,-13.726,1,0.0266,0.8,0.00405,0.13,0.285,74.492,324013,4
+Ricardo Ceratto,Oracion 68,6RUtvJyZAwfv54javYcPhX,15,2022,rock-n-roll,0.384,0.528,0,-7.953,1,0.0358,0.642,0.000117,0.413,0.346,133.079,154740,4
+Los Pasteles Verdes,Esclavo y Amo,0TWCegu3tNyq8ujUA5G0Nv,42,2015,rock-n-roll,0.352,0.67,0,-6.375,0,0.0461,0.0163,0.104,0.412,0.46,161.881,205797,3
+Gualberto Castro,Quisiera Ser Golondrina,3HkCUuOraUH9dJDYhJeRyj,1,2015,rock-n-roll,0.572,0.43,0,-17.256,1,0.0432,0.399,0.0,0.635,0.699,120.004,186160,4
+Enrique Guzman,Mi Corazón Canta (All of a Sudden) [My Heart Sings],3p1whpVNLPuqCmyLbfLn3f,19,2007,rock-n-roll,0.394,0.447,4,-8.901,1,0.029,0.798,0.0,0.389,0.342,84.302,159053,4
+Bob Luman,"Oh, Boy",0RQ12tyOYlSmqBmExRIm2t,0,2017,rock-n-roll,0.403,0.938,9,-8.156,1,0.0588,0.559,0.0217,0.246,0.888,189.09,140027,4
+Ray Campi,Lucy Lee,4rkzjkIMVwJKZsKx2LeqM1,0,2004,rock-n-roll,0.592,0.417,7,-13.03,1,0.224,0.642,0.0,0.217,0.882,178.725,199867,4
+Enrique Guzman,Tu Cabeza en Mi Hombro,6nh1jLT0OpOrqgHVwhtvk9,41,2012,rock-n-roll,0.185,0.43,7,-8.064,1,0.0321,0.804,3.94e-06,0.341,0.433,85.034,153000,4
+Eddie Bond,Cindy,1qZj1B5mMvOT54JrxQ09Dd,0,2021,rock-n-roll,0.605,0.46,2,-8.342,1,0.0461,0.971,0.29,0.149,0.966,122.703,124727,4
+Elvis Presley,It's Only Love,3uM9jW6h8pulayE3rHKova,19,2021,rock-n-roll,0.587,0.566,2,-11.922,1,0.0314,0.289,0.000338,0.0884,0.835,88.226,169827,4
+Enrique Guzman,Rey Criollo - 2023 Remastered,2WnmYBEo40CSmHoq6kBmvB,9,2023,rock-n-roll,0.416,0.893,9,-5.867,1,0.0922,0.447,1.14e-06,0.316,0.891,92.052,122280,4
+The Dovells,Foot Stompin',0vs7oX2TtA9hlcT8tzyTkk,3,2005,rock-n-roll,0.707,0.568,7,-7.418,1,0.0479,0.164,0.0,0.327,0.963,130.703,146107,4
+Grupo Lluvia,Me Dejaste Amor,79vPNFzxVgZvqnBTulfTAt,0,2003,rock-n-roll,0.593,0.718,0,-8.509,1,0.0562,0.609,0.00475,0.0644,0.971,174.055,151000,3
+Ray Campi,This Land Is Your Land,1Xe6Pm9EESMIckaEr3tJN4,0,2010,rock-n-roll,0.375,0.592,5,-5.875,1,0.0348,0.692,1.95e-06,0.231,0.92,202.479,150853,4
+Elvis Presley,A Little Bit of Green - Take 1,3DL2RQCDAnNHfIDjtZLptZ,8,2019,rock-n-roll,0.693,0.286,10,-16.922,1,0.0359,0.669,0.0,0.0893,0.799,128.049,222027,4
+The Drifters,As Long as She Needs Me,1KCmEtgqwBqIkDZUe3neMT,13,2021,rock-n-roll,0.303,0.322,3,-10.594,1,0.0304,0.828,0.0,0.0672,0.356,144.211,145640,4
+Wilson Pickett,Nothing You Can Do,5r1urBro3s6CFpzEzkETRZ,9,2005,rock-n-roll,0.733,0.433,0,-15.21,1,0.0953,0.228,0.709,0.178,0.865,136.939,132560,4
+Paul Anka,Every Night (Without You),7pMGd8mk3kxnlvHwrMNWPM,18,2000,rock-n-roll,0.716,0.749,0,-10.353,1,0.0282,0.181,0.0,0.177,0.94,114.117,144427,4
+Lou Christie,"HOLD ME, THRILL ME, KISS ME",5mO1vFqLm5vxtIR4rIuS98,3,2009,rock-n-roll,0.51,0.566,11,-7.814,0,0.0321,0.0665,0.0,0.686,0.588,111.963,186627,3
+Elvis Presley,"I'm Left, You're Right, She's Gone (Slow Version, Takes 4-5)",3IRcB4m6p7fjFfqyKItoQF,7,2017,rock-n-roll,0.738,0.134,4,-13.38,1,0.0476,0.899,0.0139,0.109,0.683,92.188,169947,4
+Vic Dana,Crystal Chandelier,5TWgV7rwXT9xUEne2Q3g7T,34,2000,rock-n-roll,0.607,0.417,4,-11.199,1,0.036,0.802,0.0,0.243,0.637,116.843,176613,4
+Adam Faith,The First Time,7a0FNqDFTNS7Uj0dxCUpYr,15,2003,rock-n-roll,0.469,0.821,7,-6.23,1,0.0461,0.37,0.0,0.358,0.827,136.006,124533,4
+Petula Clark,Endgame,6LRxL9pJYVht3YxenH2okJ,19,2017,rock-n-roll,0.664,0.256,6,-13.155,1,0.0357,0.907,2.14e-06,0.111,0.508,108.079,190213,4
+Joe Brown,Well Alright,5ePs974TN6tlnbSN5JBLmE,1,2004,rock-n-roll,0.807,0.469,0,-11.14,1,0.0382,0.58,0.000282,0.102,0.787,111.028,157573,4
+Jorge Muñiz,Popurrí Agustín Lara,3hINThBMdKtqL6SDU9b7xm,15,2010,rock-n-roll,0.497,0.477,0,-8.262,1,0.0302,0.73,0.0,0.154,0.425,106.088,416050,4
+Wynonie Harris,Triflin' Woman,3MkVC8EhdJPpHfGhj0LKm2,1,2023,rock-n-roll,0.567,0.506,0,-4.528,0,0.0544,0.809,0.0,0.267,0.637,117.118,158353,1
+Los Sinners,La Batalla (Battle of New Orleans),67DCTW8G4quhy8Cgi5Jemz,11,2002,rock-n-roll,0.635,0.843,4,-8.734,0,0.104,0.827,0.0,0.186,0.631,98.428,136107,4
+Los Tukas,Quien Se La Llevo,1Vfm9eUmuuapwlp2Tz4c60,21,2015,rock-n-roll,0.421,0.592,2,-7.497,1,0.0339,0.27,6.65e-05,0.325,0.823,104.227,164267,4
+Connie Francis,Time Alone Will Tell: Non Pensare A Me,1g0W5WDakVdYBD2RFlo58l,14,2005,rock-n-roll,0.257,0.424,11,-8.171,1,0.0286,0.673,0.0,0.638,0.203,87.36,165013,4
+The Shirelles,Mama Said,4zmxNk7SKIAOaPVUQ635Lg,6,2022,rock-n-roll,0.675,0.602,4,-6.256,1,0.0533,0.615,0.0,0.105,0.923,140.242,128787,4
+The Firebirds,Little Girl Of Mine,2bJw2hROAht2Oub9YG35TP,2,2008,rock-n-roll,0.633,0.742,9,-13.801,1,0.0287,0.0483,0.00043,0.0787,0.957,115.474,191667,4
+Los Solitarios,No dudes de mi amor,4cYQSCklRGMZLmeWY2bWDG,4,2000,rock-n-roll,0.54,0.402,4,-13.404,0,0.0539,0.576,0.0,0.54,0.632,94.449,169027,4
+Roy Orbison,I Fought The Law - Remastered 2015,1nMsGTXYHHZuJeNuG8KFX1,3,2015,rock-n-roll,0.696,0.796,7,-7.994,1,0.0514,0.507,0.0273,0.102,0.827,138.551,146640,4
+Los Polifaceticos,Por Teléfono,5uiETYdQ1Dhe4FeUhR89vw,0,2004,rock-n-roll,0.759,0.487,10,-9.49,1,0.0415,0.176,8.9e-05,0.0667,0.873,94.942,193973,4
+Dany Logan,Entre toi et moi (Get It),3Q4vYCVdpgtsJ2ljzFcQCl,0,2023,rock-n-roll,0.431,0.417,4,-13.683,1,0.105,0.0729,0.254,0.201,0.811,98.083,149708,4
+Brian Setzer,Far Noir East,0arom0kHxrQn3AyNNdEzKA,4,2011,rock-n-roll,0.47,0.458,0,-9.162,0,0.0951,0.977,0.845,0.125,0.312,182.729,222640,5
+Jody Reynolds,Runaway Heart,1BQE9QkcfDmVtq2hOuSU3i,0,2003,rock-n-roll,0.571,0.821,4,-8.996,1,0.0373,0.501,0.199,0.122,0.957,164.626,176867,4
+Mascots,Stones Fell,5IAp5rXn5WYxdlYHikRxBY,0,2010,rock-n-roll,0.653,0.681,2,-6.778,1,0.0259,0.0083,0.00242,0.126,0.841,136.884,111827,4
+Elvis Presley,Tutti Frutti,0lresOQ3S2E2r9CtcipPfk,10,2020,rock-n-roll,0.637,0.621,7,-8.642,0,0.0485,0.685,0.0,0.186,0.928,114.191,117667,4
+Juan Torres,Esta Cobardía,50MmEJ7tltO7ZkAtoBzhYZ,20,2008,rock-n-roll,0.568,0.541,0,-7.479,0,0.0264,0.521,0.201,0.131,0.402,111.693,185130,4
+Hermanos Carrion,Magia Blanca (Devil Woman),1RzbREQbvgx4nzqj6CKhgV,17,2012,rock-n-roll,0.53,0.655,4,-9.384,1,0.0409,0.962,0.211,0.379,0.679,136.906,204000,4
+Huelyn Duvall,A Fool Such As I,67srekJfYqiWYUiajaQULE,1,2003,rock-n-roll,0.609,0.716,9,-8.002,1,0.0347,0.665,0.383,0.363,0.9,135.963,135480,4
+Los Teen Tops,El Gato Loco,7wOWWIO2Nyo8u9cOtSSFAv,25,2000,rock-n-roll,0.686,0.821,7,-5.991,1,0.242,0.296,0.0,0.1,0.961,160.873,101575,4
+Sonora Maracaibo,Dueño de Nada,5QObJrlWECH0wCHVlMqP3i,3,2015,rock-n-roll,0.606,0.555,0,-6.478,1,0.0489,0.784,0.000683,0.0749,0.722,99.963,195787,4
+Robert Gordon,Turn me loose,4hBr8SiQvEMGZf2Zp4sASh,0,2006,rock-n-roll,0.442,0.73,11,-11.421,0,0.045,0.25,6.2e-05,0.908,0.544,87.61,196867,4
+The Firebirds,The Love I've Found,5N3IVEEcfsWmBrPiVPfgdq,2,2008,rock-n-roll,0.587,0.717,7,-9.33,1,0.0274,0.037,0.0,0.056,0.896,144.178,176067,4
+Enrique Guzman,Dame Felicidad,0RfCcTIw5AEYu44N5z855G,25,2019,rock-n-roll,0.818,0.503,4,-6.951,1,0.0443,0.314,0.0,0.0794,0.79,121.105,145133,4
+Los Brios,Inolvidable,4RNBNq7x5bGaXcGwuWsvfF,31,2003,rock-n-roll,0.739,0.726,0,-6.98,1,0.0251,0.141,0.0,0.074,0.888,96.038,189187,4
+Hank Williams,I Can't Get You off My Mind,4rMqvswE1TVZ8ta1hE6QJU,15,2014,rock-n-roll,0.48,0.266,0,-7.392,1,0.0389,0.936,5e-05,0.597,0.793,146.792,161565,4
+Alberto Vazquez,Como Me Gustas,6UQgpxQ0biwnZqdPw5XUiw,1,2023,rock-n-roll,0.63,0.372,0,-9.45,1,0.0372,0.795,0.0,0.334,0.606,96.441,174455,4
+Charlie Gracie,Love Bird,1KJXDcNKAwVorSGWefokqp,3,2006,rock-n-roll,0.724,0.516,7,-8.057,0,0.0352,0.458,0.0,0.105,0.888,93.554,127427,4
+Jay & The Americans,Only the Lonely (feat. Jay Reincke),7vMqYYqAV181lPZPJpxxI0,11,2015,rock-n-roll,0.7,0.43,5,-9.52,1,0.0393,0.525,1.37e-05,0.148,0.812,120.956,147560,4
+Lou Christie,Don't You Remember,2XDUREyt1xkirRx937WfNv,5,2020,rock-n-roll,0.701,0.439,11,-12.316,0,0.029,0.721,0.0142,0.128,0.472,110.703,258427,4
+Hank Williams,I Saw The Light (Acetate Version 3) - 2019 - Remaster,6KMZINKECgw51EUx4t1l92,10,2020,rock-n-roll,0.618,0.312,9,-10.189,1,0.0307,0.876,0.0,0.0913,0.653,107.819,136282,4
+Roy Orbison,Evergreen,5AdrXGNZOshFY0Bc4nHitS,6,2009,rock-n-roll,0.37,0.366,2,-8.622,1,0.0268,0.817,0.0155,0.389,0.518,98.655,164773,4
+The Seekers,Colours Of My Life - Live,57brcOryJK3NBZ6VcZVQLh,8,2019,rock-n-roll,0.481,0.633,10,-8.732,1,0.0384,0.477,0.0,0.871,0.582,116.465,169606,4
+Josue,Al Ritmo Del Amor,4Dv9T1t4goARUjErWNBbkB,0,2000,rock-n-roll,0.767,0.865,0,-4.503,1,0.186,0.27,0.0,0.159,0.836,125.015,297187,4
+Janis Martin,Here Today And Gone Tomorrow,3TGKOsLn5j4vBNbVLtmBVz,2,2009,rock-n-roll,0.615,0.553,0,-8.051,1,0.0356,0.531,0.00027,0.0762,0.944,121.664,129800,4
+Los Yakis,Vivo a MI Manera,7meZQXVoVik5xFLzMc1HUW,29,2021,rock-n-roll,0.782,0.708,4,-12.159,0,0.0619,0.29,0.0011,0.0561,0.808,114.032,214474,4
+Jay & The Americans,Why Can't You Bring Me Home,54Sbtn8xwkSlCs5p1NOLjs,3,2009,rock-n-roll,0.55,0.923,10,-7.122,1,0.128,0.29,3.43e-06,0.185,0.697,136.191,151467,4
+Los Freddy's,Fíjate Que Sí,56P6XGNyYv5dMQaraqOALf,1,2006,rock-n-roll,0.823,0.529,7,-11.827,1,0.0323,0.219,0.0,0.113,0.864,115.53,185320,4
+The Spencer Davis Group,Spoonful - Live,40e8XPSbqyfbY3SxMljzvP,5,2006,rock-n-roll,0.663,0.414,7,-9.872,0,0.227,0.71,0.0125,0.701,0.633,117.602,309640,4
+Radio Dead Ones,Too Selective,73QwHIkW5QaVk1AkpOnJf3,0,2011,rock-n-roll,0.327,0.949,2,-2.128,1,0.0433,8.97e-05,8.62e-05,0.385,0.748,94.896,66880,4
+La Revolución De Emiliano Zapata,No Queda Nada,6NUHtZrYVjJCk0biJptMJ5,15,2010,rock-n-roll,0.544,0.303,0,-16.09,1,0.0341,0.542,0.0,0.153,0.429,143.724,179373,4
+Jorge Muñiz,Desvelo De Amor,2MNvWx9VARuzCFkFUaO4Sj,33,2009,rock-n-roll,0.782,0.491,5,-6.523,1,0.0379,0.705,1.66e-06,0.113,0.811,130.014,186068,4
+Robert Gordon,Long Cool Woman,5IBrsAUsAUEzBek3YzDnbz,2,2004,rock-n-roll,0.727,0.866,4,-5.277,0,0.034,0.168,1.01e-05,0.0742,0.928,128.009,183800,4
+Los Baby's,El amor es para los dos,7w3daSZKuzT1ANenzBkQFf,29,2001,rock-n-roll,0.69,0.625,4,-8.5,1,0.0341,0.598,0.0,0.0608,0.924,115.872,159827,4
+Angelica Maria,Palabra de Amor (Parole d'amore),5GjSoXwKweMNC79h09ySJO,0,2003,rock-n-roll,0.567,0.39,9,-11.955,0,0.141,0.778,0.0,0.129,0.458,119.932,146787,4
+Buddy Holly & The Crickets,Rave On,0Yn57BIUdS88OQdTpSrN5w,14,2018,rock-n-roll,0.556,0.614,7,-7.817,1,0.0339,0.192,0.0,0.314,0.857,159.144,110613,4
+Marco Antonio Muñiz,Medley - Armando Manzanero (with Jaime Lomelí),32MWPYWRRKNPIfGsK0wjlZ,15,2014,rock-n-roll,0.297,0.614,7,-4.584,1,0.0616,0.582,0.0,0.939,0.311,78.576,482293,4
+Josue,Mi Linda Esposa,1hzLMLNIlLgrThcVYUDO62,20,2012,rock-n-roll,0.668,0.436,4,-8.54,1,0.0298,0.234,1.12e-06,0.108,0.594,101.381,163667,4
+Connie Francis,Walk On By,0StCKrsTVXYKcIaK83giz5,4,2009,rock-n-roll,0.61,0.5,8,-8.805,1,0.0388,0.652,3.62e-05,0.114,0.723,116.819,131707,4
+Manoella Torres,Acéptame Como Soy,2k4EmAD8cDKVkwE3jTOLt1,34,2007,rock-n-roll,0.685,0.563,9,-10.977,1,0.0535,0.573,0.0,0.0664,0.761,144.043,235533,4
+Bobby Day,Little Bitty Pretty One,0iAKhOk0TY9kqx3Kmb86Ua,3,2010,rock-n-roll,0.796,0.399,10,-12.064,0,0.0955,0.804,0.114,0.028,0.962,86.003,156480,4
+The Lords of Altamont,Burn Me Out,6jmJCMaRwnUAKYgdkVAV52,10,2021,rock-n-roll,0.395,0.868,9,-4.29,1,0.0371,0.0152,0.488,0.751,0.541,144.012,220429,4
+Los Apson,De Hoy en Ocho - En Vivo,1IsMwihuhAMqxUSZ3eX7f1,5,2021,rock-n-roll,0.514,0.47,9,-7.807,1,0.0302,0.55,0.0,0.114,0.846,99.21,147488,4
+Chuck Berry,You Never Can Tell,2sMeEWagujHOmfKHx9kf5j,6,2005,rock-n-roll,0.571,0.881,7,-8.133,1,0.151,0.742,1.49e-05,0.288,0.919,157.336,161560,4
+The Seekers,Five Hundred Miles,7xfUhAM9FM10bjgwrqbPLz,9,2007,rock-n-roll,0.406,0.124,9,-17.431,1,0.0294,0.893,0.00355,0.0914,0.155,108.888,176773,4
+Estela Nuñez,Ave María,4rhCLAZRQFvR9yP8liUeZz,4,2001,rock-n-roll,0.49,0.5,9,-10.261,0,0.0426,0.742,0.0,0.196,0.547,144.103,129693,4
+Hank Williams,Cool Water - 2019 - Remaster,13KnaPOj6pwazk2qC8h53g,9,2020,rock-n-roll,0.568,0.125,2,-13.486,1,0.0283,0.778,3.95e-06,0.693,0.298,95.612,295509,4
+Freddie & The Dreamers,Things I'd Like to Say,0VSFHS8lcAgPtsZjsrLzDI,7,2004,rock-n-roll,0.526,0.745,0,-7.447,1,0.0287,0.0703,0.0,0.346,0.963,80.866,167000,4
+Shakin' Stevens,Because I Love You,4xeibCnbGxtkKbMTaU4VxY,30,2011,rock-n-roll,0.573,0.479,11,-7.321,1,0.0252,0.382,7.98e-05,0.134,0.42,102.047,197827,4
+The Crickets,More Than I Can Say,3C0SbIfSHYAN3B6Zbw2smu,0,2015,rock-n-roll,0.662,0.259,4,-16.939,1,0.0245,0.25,4.46e-06,0.12,0.681,94.146,175933,4
+Ruth Brown,We'll Be Together Again,1dVxzGvPHC8oRAUFeLaLUl,5,2018,rock-n-roll,0.444,0.149,8,-14.199,0,0.0322,0.944,4.08e-05,0.236,0.199,50.389,258573,4
+The Righteous Brothers,Georgia On My Mind,0aGkYUN8w5k3t4VVlKdyQS,3,2006,rock-n-roll,0.301,0.372,5,-9.075,1,0.0365,0.83,2.99e-06,0.269,0.547,185.874,153427,3
+Frankie Avalon,Anema e core,1BIQfrk9KBLvlczQyMmq6O,7,2007,rock-n-roll,0.452,0.368,5,-7.218,0,0.0257,0.558,5.26e-05,0.0727,0.285,98.224,139273,4
+Chubby Checker,Let's Twist Again - Re-Recorded Version,0BGmLoXeI0QOC12fjgz3zp,6,2008,rock-n-roll,0.635,0.622,3,-9.201,1,0.0371,0.0151,3.41e-06,0.0381,0.978,162.421,140933,4
+Roy Orbison,This Is Your Song - Remastered 2015,6Yp3CLcA3r6cZ1wMJcIqgz,5,2015,rock-n-roll,0.436,0.331,0,-10.812,1,0.0264,0.867,0.000205,0.169,0.15,105.911,137947,3
+Los Hermanos Carrion,Adiós a Jamaica,5sp9FBSgkrvsxfdlnc2LRi,9,2002,rock-n-roll,0.751,0.724,2,-7.523,1,0.0278,0.686,8.89e-06,0.0848,0.9,130.944,152520,4
+Lucky Blondo,Sheila,4hjsKNcKQgXoEYDnQ05WZH,12,2015,rock-n-roll,0.622,0.939,5,-5.164,1,0.0558,0.72,0.0,0.116,0.934,142.741,119573,4
+The Champs,Rockin' Mary,2hRXqPRUtPQMnMje1d1oaj,0,2011,rock-n-roll,0.615,0.639,11,-16.245,1,0.0865,0.116,0.473,0.12,0.961,147.044,113195,4
+Cliff Richard,Six Days After Christmas - Happy New Year,5Xv8QFRe9SyFs3lTQI3YyH,15,2022,rock-n-roll,0.535,0.343,3,-9.256,1,0.0286,0.649,9.98e-06,0.123,0.104,111.963,210463,4
+Danny & The Juniors,A Thousand Miles Away,36MrBFhxMn5eYz2zCnEIqb,14,2022,rock-n-roll,0.298,0.244,5,-12.128,1,0.029,0.969,3.66e-05,0.261,0.505,181.186,146506,3
+Josue,Acercate,0OYSh2p119kpUioHpktlRw,0,2000,rock-n-roll,0.767,0.535,0,-5.219,1,0.0324,0.24,0.0,0.115,0.843,135.036,294827,4
+Jorge Muñiz,Medley La Copa Rota/Amor Gitano,4K326Z1AHQQwl426P6rbd4,17,2022,rock-n-roll,0.52,0.447,5,-9.882,0,0.0391,0.91,6.89e-05,0.103,0.735,112.471,280013,4
+Elvis Presley,"Guitar Man (Escape #1, fast) - Takes 1, 2 & 5",5WfBdNw1uRyMNUiCQ9Di2T,11,2018,rock-n-roll,0.497,0.394,0,-18.029,1,0.38,0.536,2.75e-05,0.211,0.634,118.363,169427,4
+Psychopunch,Scream Your Little Heart Out,62mOdfivUj7MqR85KrocwM,16,2019,rock-n-roll,0.306,0.922,10,-2.557,0,0.0399,2.74e-05,2e-06,0.325,0.9,185.368,142160,4
+Los Solitarios,Sólo a tí te quiero,3DSD67YF3RjCehixA6H9pS,20,2002,rock-n-roll,0.494,0.547,7,-7.549,1,0.0339,0.454,0.0,0.228,0.699,142.023,163307,4
+Fats Domino,Whiskey Heaven - Live,0skjQx3SyUnQm2F19HdV0x,5,2021,rock-n-roll,0.399,0.61,1,-9.599,1,0.0329,0.88,0.000273,0.458,0.627,145.336,201800,3
+The Bachelors,Moonlight And Roses,7xIbskg6XQ9ndTJMOjM2Sq,3,2015,rock-n-roll,0.277,0.401,7,-11.463,1,0.0321,0.558,0.0,0.335,0.464,57.65,153013,4
+Hayden Thompson,Love Me Bay,6Gi8Wx6oV2Fb68Cubi2o2T,1,2014,rock-n-roll,0.716,0.725,2,-10.258,1,0.0324,0.167,2.51e-05,0.189,0.823,118.138,133213,4
+Los Apson,Fuíste a Acapulco,0CGACUV4PIy4bxpMha7bdV,17,2017,rock-n-roll,0.61,0.762,7,-6.98,1,0.055,0.0944,6.32e-05,0.151,0.902,177.058,162076,4
+Bill Justis,Bop Train,0qaAtYmM6jLqHQeKvXtXI7,0,2012,rock-n-roll,0.572,0.646,8,-3.521,1,0.0306,0.659,0.863,0.116,0.84,135.507,121992,4
+Charlie Feathers,Everybody's Loving My Baby,0ZVM3c2rQcGRV3oypUDh59,0,2000,rock-n-roll,0.43,0.623,9,-16.02,1,0.0438,0.611,1.79e-06,0.662,0.727,147.122,139907,4
+The Firebirds,Dance Girl Dance,5nNmXXz50Q96ReVcjxnLWO,11,2008,rock-n-roll,0.648,0.521,2,-5.561,1,0.0263,0.541,0.0,0.0536,0.825,90.021,177493,4
+The Hot Pants,Wake Up Call,7LPovA5Q9r9uVY0vyz9kd6,1,2004,rock-n-roll,0.61,0.662,0,-7.545,1,0.0288,0.127,0.0471,0.0826,0.96,103.94,207160,4
+Bijou,Intro,6CgppJ7yCAK8dHIYt8jwAG,0,2003,rock-n-roll,0.505,0.373,0,-14.4,1,0.0538,0.462,0.000205,0.19,0.605,122.414,63951,5
+Alberto Vazquez,La Felicidad Llegó,5AUsP6h6WTZNrVGGTp1aNS,14,2023,rock-n-roll,0.645,0.373,2,-11.25,1,0.0302,0.295,0.0,0.296,0.88,94.728,147674,4
+Emile Ford & The Checkmates,Fever,2iPtENQichKuyyh2Yy2ZwV,1,2000,rock-n-roll,0.691,0.35,0,-7.644,0,0.0799,0.769,0.00274,0.0963,0.271,118.02,156867,4
+Warren Smith,Lock the Toilet Door,4F8m1wZO5sMgZR2CLaOKpA,0,2009,rock-n-roll,0.383,0.52,9,-14.411,0,0.0517,0.874,0.774,0.104,0.37,103.694,501187,4
+Imelda Miller,Amor de Pobre,653NE8BEwAkertCC6T8EJd,10,2000,rock-n-roll,0.577,0.642,9,-6.116,1,0.0326,0.554,0.0,0.0766,0.858,106.081,179120,4
+Bruce Channel,Dream Girl - Remastered,0P7Jx7eNXvIwuIbUCXfqTT,2,2017,rock-n-roll,0.599,0.277,8,-9.626,0,0.0415,0.733,0.0,0.104,0.373,117.721,152613,4
+Los Solitarios,Ya te perdí,6vZZ3XKpTKncNyS9fctRBy,30,2007,rock-n-roll,0.588,0.38,2,-8.728,1,0.0354,0.803,0.0,0.121,0.29,91.434,157920,4
+Ray Campi,Autumn Leaves,7bj38vecHMOf7MCaMgBOgj,0,2008,rock-n-roll,0.512,0.237,2,-11.493,0,0.029,0.922,0.00183,0.199,0.197,93.137,189867,4
+Tommy Sands,Bigger Than Texas,7HFXPFWLP7fKqShSlZrLYw,1,2011,rock-n-roll,0.555,0.767,0,-11.062,1,0.0689,0.769,0.0,0.274,0.781,104.221,116933,4
+Chuck Berry,Nadine (Is It You?),1v8oUOlXSyCnu47G3kjILN,5,2005,rock-n-roll,0.712,0.771,5,-8.83,0,0.0449,0.723,1.53e-05,0.116,0.959,140.692,153693,4
+The Coasters,Moonlight in Vermont,4ar0sBDK3h8CvfKbw77Ub2,5,2005,rock-n-roll,0.324,0.188,5,-16.893,1,0.0388,0.643,0.00013,0.391,0.197,127.827,198000,4
+Robert Gordon,Walk on By,5yAwftk6vQbvtioUVcSglP,0,2009,rock-n-roll,0.509,0.793,0,-9.893,1,0.0801,0.68,0.00807,0.382,0.669,129.578,149879,4
+Ricky Nelson,Sweeter Than You,4si2ZU8jVZWTuoUvkujcmw,25,2008,rock-n-roll,0.403,0.125,10,-12.067,1,0.0306,0.845,1.37e-06,0.126,0.274,74.308,140760,4
+Cuco Sánchez,Tu Castigo,7IEQkEFx647JAhAngMDIiJ,4,2017,rock-n-roll,0.485,0.297,2,-9.45,1,0.0417,0.882,2.18e-06,0.271,0.254,103.763,179122,4
+Hank Williams,Someday You'll Call My Name - Single Version,21qvWzqbA7Pxgph4PFHp6v,9,2002,rock-n-roll,0.525,0.233,4,-13.131,1,0.0302,0.956,3.61e-05,0.351,0.398,119.922,133373,4
+Elvis Presley,Snowbird,3BU4Qy0sy4waDUk9zq2s78,16,2020,rock-n-roll,0.592,0.613,0,-11.084,1,0.0354,0.797,0.00398,0.38,0.932,106.983,124560,4
+Raul Abramzon,Pensando en Ti,3a6ltPfLPzMBtoxOVyHT7G,12,2020,rock-n-roll,0.574,0.575,7,-8.057,1,0.0282,0.129,0.0,0.214,0.354,120.057,213393,4
+Jody Reynolds,Robbin' the Cradle,1i5EmSG9bGFq5w6DCELfVX,0,2003,rock-n-roll,0.574,0.238,9,-14.652,1,0.0336,0.854,0.0,0.117,0.674,115.618,126867,4
+Marianne Kock,Sommarsol och sommarvind,65j0MOV8vuBjxttOQxjzvB,0,2006,rock-n-roll,0.415,0.65,2,-6.966,1,0.0324,0.619,0.0,0.341,0.616,135.005,145893,4
+Carmela Y Rafael,Te Vengo a Decir Adiós,3ZAhYkx9IVnf9fj6DM8nax,4,2023,rock-n-roll,0.565,0.311,3,-11.578,1,0.038,0.793,0.0,0.148,0.912,124.138,121611,4
+Paul Anka,Hold Me 'Til The Mornin' Comes (with Peter Cetera),786Bsh40wJdhgUBebTgQjV,33,2013,rock-n-roll,0.604,0.436,1,-9.078,1,0.0323,0.636,0.0,0.0674,0.304,126.788,290493,4
+Los Yakis,Siempre a Tu Lado,3nWKz5pyUIOFvBC8sEovkS,13,2019,rock-n-roll,0.805,0.841,4,-7.003,0,0.0839,0.562,0.00233,0.13,0.616,108.053,222500,4
+Los Superclasicos,Muriendo Amor,4hb7PxVQ9SYbMVnschrkGB,0,2023,rock-n-roll,0.518,0.664,1,-12.443,1,0.0389,0.0829,1.1e-05,0.136,0.703,198.01,201060,4
+Los Loud Jets,"Agitese, Haga Ruido Y Ruede - Shake Rattle And Roll",5nzEvEYtyLzZNqzEagFbnA,10,2012,rock-n-roll,0.406,0.806,5,-9.711,1,0.0326,0.852,0.0,0.42,0.948,137.425,166307,4
+The Drifters,Memories Are Made of This,22bA5fQMVqBAQMDjP7Z3nO,22,2007,rock-n-roll,0.637,0.703,9,-7.541,1,0.0439,0.456,0.0,0.104,0.924,143.845,152200,4
+Los Corazones Solitarios,Corazon Solitario,2cthrailtffyFPR10dhsWU,10,2017,rock-n-roll,0.496,0.459,0,-12.203,1,0.124,0.0134,0.0117,0.217,0.465,92.178,167573,4
+Angelica Maria,A Dónde Va Nuestro Amor?,6vTywbuQEtlCu0r46ClDc5,7,2012,rock-n-roll,0.367,0.392,5,-7.203,1,0.0296,0.84,0.0,0.188,0.326,101.495,181000,4
+Jackpots,Walk Like A Man,5uCoHAAGFt2LBtyVCB3SQm,3,2003,rock-n-roll,0.512,0.677,2,-7.097,1,0.0344,0.364,0.789,0.0917,0.748,133.013,141040,4
+Raul Vale,Desvelo de Amor,2obXeVmxxFuBKasbxK14Fp,0,2003,rock-n-roll,0.615,0.675,7,-6.971,1,0.0256,0.18,2.06e-05,0.0825,0.25,100.661,226907,4
+Johnny Carroll,Wild Wild Women,6L2WNtnAvILU0fBGPbmdgv,1,2008,rock-n-roll,0.61,0.973,11,-4.09,0,0.169,0.834,2.89e-06,0.819,0.339,126.377,117187,4
+The Fortunes,When I'm Gone - Remastered,3NGq6eCXu2vVKrO1zXMGVE,7,2015,rock-n-roll,0.611,0.595,2,-11.317,1,0.0377,0.485,0.00168,0.164,0.735,122.387,209490,4
+Sonora Maracaibo,Con la Vara Que Midas,0hutmYWGKm0DEc8BNhsTf8,15,2018,rock-n-roll,0.68,0.679,11,-11.72,0,0.0658,0.363,0.000312,0.0476,0.968,95.292,177013,4
+Cliff Richard,Congratulations,0WcHb0e3esWbLEeMsZ9nnp,4,2022,rock-n-roll,0.478,0.681,4,-5.2,1,0.0291,0.132,0.0,0.0748,0.962,92.898,151800,4
+The Spotnicks,Last Date,0OIqkzosvK2wQlTiYJRLB0,7,2013,rock-n-roll,0.729,0.622,0,-6.101,1,0.0351,0.387,0.808,0.128,0.878,112.458,189840,3
+Hank Williams,Honky Tonkin' - 1947 Single Version,1LD375zuZ5GhyGIoQ0Zs1Q,9,2005,rock-n-roll,0.535,0.432,4,-9.429,1,0.0308,0.824,1.36e-06,0.075,0.865,165.652,163827,4
+Sonora Maracaibo,Aún Se Acuerda de Mí,1TuKuflL76IAYHCrpBKYqb,24,2018,rock-n-roll,0.698,0.553,3,-11.666,1,0.049,0.646,0.0,0.0616,0.94,145.491,177058,4
+Eddie Bond,Buford Pusser's Child,1j5qdW6U6HbSZXbLcIox3O,0,2022,rock-n-roll,0.396,0.37,2,-10.689,1,0.0535,0.594,0.00759,0.113,0.342,89.792,190485,3
+Joe Brown,Please Don't Talk About Me When I'm Gone,3R42CagsPq4yAkQmR8YJJA,0,2014,rock-n-roll,0.773,0.339,7,-13.188,1,0.0592,0.7,5e-05,0.124,0.583,89.913,145840,4
+Javier Bátiz,Si Estuvieras Aquí,60iiiaHZ0RYPuEfROGdEG7,33,2014,rock-n-roll,0.662,0.627,7,-8.396,1,0.0277,0.199,4.04e-06,0.0723,0.943,127.261,192029,4
+Roy Orbison,Blue Angel - Live,7E13JMyRxO1dQRqLESLNr4,17,2017,rock-n-roll,0.54,0.501,5,-9.732,1,0.0261,0.768,7.21e-05,0.898,0.642,103.003,185000,4
+The Fleetwoods,Confidential,1mXmrF8o1k2pT3JMPN9g6H,10,2020,rock-n-roll,0.469,0.145,3,-16.062,1,0.0268,0.972,0.000117,0.178,0.362,77.511,138933,4
+Jerry Lee Lewis,Early Morning Rain,1VfoshDZ8hDehJVIKVAOTj,3,2006,rock-n-roll,0.593,0.756,5,-8.642,1,0.0371,0.584,0.00851,0.338,0.862,116.995,261667,4
+Josue,Muchaco,2uULNN79t97qFxJxDjFURB,0,2011,rock-n-roll,0.722,0.951,0,-4.419,0,0.261,0.47,0.0,0.0344,0.509,133.114,203729,4
+Manoella Torres,Abrázame,62JOQJ50he1wmd2OvJkSpl,14,2007,rock-n-roll,0.363,0.459,5,-9.976,1,0.0382,0.841,2.39e-06,0.284,0.442,75.831,194000,4
+Fats Domino,Where Did You Stay,5dfq8sHj0DXu4qbDrjx9NV,5,2017,rock-n-roll,0.472,0.831,4,-4.174,1,0.0851,0.87,2.43e-05,0.125,0.86,81.421,119177,4
+Virginia Lopez,Tan Lejos,0Q8BNd7EMavlDLWqTlYPVC,15,2000,rock-n-roll,0.479,0.493,2,-9.911,1,0.0456,0.733,0.0,0.193,0.552,94.278,190373,4
+Los Hooligans,Atlantida,3HEo0kBBn6EOTueAgDU1SL,12,2018,rock-n-roll,0.538,0.87,6,-3.757,0,0.0367,0.361,0.166,0.627,0.646,132.247,166557,4
+Estela Nuñez,Yo Me Voy,7cLvutELWTiw1SkaJfWslV,9,2014,rock-n-roll,0.75,0.264,4,-10.462,1,0.174,0.152,2.15e-06,0.219,0.523,125.106,170667,4
+Bobby Darin,Me & Mr. Hohner,0k9VIAEEjQqgZvM2s5mIpf,25,2004,rock-n-roll,0.76,0.509,11,-13.456,0,0.28,0.325,0.00038,0.19,0.883,82.327,197799,4
+The Everly Brothers,All I Have To Do Is Dream - Performed live on The Ed Sullivan Show 4/27/58,66Js6icsCvfK0TVDWWXTfn,2,2010,rock-n-roll,0.405,0.355,4,-13.404,1,0.0434,0.967,0.841,0.794,0.46,66.574,153867,3
+Ike Turner,Too Hot To Hold,2yVqo4SF5yV0YOKBLzAi3A,15,2005,rock-n-roll,0.736,0.498,1,-8.817,0,0.0525,0.29,0.00252,0.385,0.816,97.811,130093,4
+La Tropa Loca,Lo Dejaria Todo,2J4q0jmpjD8bKiJywpbvcS,19,2014,rock-n-roll,0.542,0.646,8,-8.81,1,0.0294,0.0045,6.73e-06,0.0726,0.576,143.969,257800,4
+Backstreet Girls,Train to Hell,5yetmMGkqvo6v9Widt843F,2,2014,rock-n-roll,0.293,0.933,11,-7.593,0,0.0684,0.000409,0.00815,0.339,0.568,164.854,287093,4
+Glen Glenn,Companys Comin,2Xnog2OZ8L4jCb0BqkrCR5,0,2004,rock-n-roll,0.602,0.516,4,-9.141,1,0.0373,0.573,0.00707,0.0908,0.963,134.559,125067,4
+Palito Ortega,Mi Corazon Canta,5ynlVOVHfnTrl0AWcdDlzJ,23,2000,rock-n-roll,0.483,0.307,3,-14.501,1,0.0311,0.702,0.0288,0.153,0.258,113.228,178678,3
+The Hellacopters,Try Me Tonight,6R1eBDb5ecT4Yq1NjrZ7qw,24,2022,rock-n-roll,0.181,0.97,5,-4.51,0,0.0794,0.000374,4.47e-06,0.346,0.62,152.502,240400,4
+Los Churumbeles De España,La Virgen de la Macarena,5XXKwsrwKnUNjSvwU4KOy4,9,2001,rock-n-roll,0.563,0.37,5,-10.144,0,0.0554,0.696,0.0,0.209,0.467,113.085,202733,4
+Wilbert Harrison,What Am I Living For - Alternate Version,1A6SrWRkBGAn1jLowkmCzO,3,2006,rock-n-roll,0.79,0.859,7,-3.98,1,0.0338,0.504,0.000443,0.0854,0.948,107.932,316533,4
+Ray Campi,He Knows,79BHUx2o8olEpLyGayYjS2,0,2008,rock-n-roll,0.528,0.343,0,-15.714,1,0.033,0.854,0.0058,0.12,0.21,93.138,140973,3
+Joe Brown,Sicilian Tarantella,0C3g8D74lnOW0fb1cFefUJ,0,2014,rock-n-roll,0.491,0.755,4,-7.779,0,0.0318,0.355,0.728,0.485,0.962,111.85,111267,3
+Manolo Muñoz,En Un Rincón Del Alma,26WJquQ5r0zpWbSlXLfBbg,0,2001,rock-n-roll,0.341,0.416,11,-6.429,0,0.0374,0.746,0.0,0.313,0.396,93.473,187594,4
+Manoella Torres,En Mi Viejo San Juan,4wqIVA7ic2DPuKy69CD7HD,18,2002,rock-n-roll,0.58,0.519,9,-7.649,1,0.0323,0.843,1.07e-06,0.375,0.491,103.975,180613,4
+Elvis Presley,Treat Me Nice - alt. take 6,0JgS6JobYyl3uDG2gOJjzc,11,2002,rock-n-roll,0.776,0.684,4,-6.006,1,0.296,0.946,0.0,0.308,0.888,84.039,126720,4
+Elvis Presley,"For The Good Times - Live at Hampton Roads Coliseum, Hampton Roads, VA - April 9, 1972",5ilie52yDOSs3iRsGmc6j2,31,2022,rock-n-roll,0.566,0.474,5,-13.468,1,0.0365,0.66,0.245,0.622,0.447,98.973,188093,4
+Gualberto Castro,Somos Diferentes,2TqhI8ePYD14Uzb3tGCYz6,1,2002,rock-n-roll,0.612,0.403,5,-4.348,0,0.0287,0.581,0.0,0.085,0.63,86.272,206000,4
+King Clave,Los Hombres No Deben Llorar 2,3W6usrnKjDJpcEDIkNeBp0,6,2019,rock-n-roll,0.526,0.791,5,-3.96,1,0.0406,0.367,0.0,0.142,0.603,101.968,240094,4
+The Shamrocks,Days,4uRRfx3Hzeye8J9J3rHDGN,0,2006,rock-n-roll,0.449,0.647,6,-6.619,1,0.0362,0.213,0.000709,0.0988,0.682,97.416,155173,4
+Warren Smith,Tonight Will Be The Last Night,5yfS8RxgUV50VcSTyHPyBY,2,2023,rock-n-roll,0.739,0.663,9,-10.331,1,0.0347,0.69,3.11e-05,0.21,0.917,98.166,121000,4
+Roy Orbison,Candy Man - Live,0oEvipNPwFLNd8EopPkgky,17,2017,rock-n-roll,0.536,0.675,7,-7.839,1,0.0554,0.186,2.47e-06,0.803,0.648,79.998,209787,4
+The Righteous Brothers,Justine - Single Version,43z94VXUDXzqLiRy7wvK3x,5,2009,rock-n-roll,0.601,0.664,2,-8.043,1,0.0364,0.422,0.0,0.205,0.969,89.829,129667,4
+The Blasters,Love Me With a Feeling,3eJ3YRZKx4OXwJFjEtTb2x,2,2012,rock-n-roll,0.635,0.857,0,-5.545,1,0.0338,0.0188,0.24,0.751,0.968,145.211,144000,4
+The Drifters,Country to the City,7GFQCRRcjaQpx9Iz7EHfSQ,2,2019,rock-n-roll,0.766,0.556,9,-7.131,1,0.0475,0.389,0.0,0.284,0.887,84.346,145867,4
+Elvis Presley,Guitar Man (After Karate #2) - Take 1,1viVBdKs0mp2h7Wrw59Czx,11,2018,rock-n-roll,0.503,0.404,3,-14.506,1,0.0711,0.667,5.68e-05,0.133,0.896,106.225,52813,4
+Los Freddy's,Ven,67gDC9ZhQhzKY6HdGbHzCU,5,2001,rock-n-roll,0.736,0.484,9,-8.69,1,0.0421,0.501,0.0,0.0689,0.918,107.606,168320,4
+Cliff Richard,Ein Sonntag Mit Marie - 1998 Remaster,5AuIdp7sJv48SyStFkgBEO,9,2010,rock-n-roll,0.45,0.452,0,-10.916,0,0.048,0.45,0.0,0.0555,0.421,109.346,139693,4
+Buddy Holly & The Crickets,Blue Monday - Undubbed Version,2ocr9MG2cQz0h0H3rpQqqa,1,2009,rock-n-roll,0.48,0.542,10,-13.261,1,0.0866,0.923,0.000808,0.27,0.595,119.724,117800,4
+Los Chicanos,Ella,08I97fvelCZY0XrofaZyPi,1,2023,rock-n-roll,0.701,0.37,7,-11.994,1,0.0591,0.635,0.0,0.112,0.619,113.991,160840,4
+Dion,Lonely World,57iba8sajqxZQEAY7BkyIB,6,2012,rock-n-roll,0.359,0.799,11,-3.781,0,0.0387,0.636,0.0,0.479,0.844,141.489,132520,4
+Hazy Osterwald,Tiger Rag,020DIhSznFDE20AAEZI1MO,0,2015,rock-n-roll,0.475,0.776,8,-7.031,1,0.166,0.492,0.000225,0.041,0.934,79.952,198053,4
+Ray Campi,Blue Blue Day,449DdvjZmQypJYmSG0bB3a,0,2002,rock-n-roll,0.625,0.478,1,-7.111,0,0.0278,0.214,0.000104,0.372,0.582,93.072,105987,3
+Ray Smith,Shake Around,4i9Qw3CWdiKKF9XqK7dWoU,7,2014,rock-n-roll,0.613,0.895,7,-5.677,1,0.0528,0.476,0.0,0.197,0.95,86.144,170576,4
+Hank Williams,I've Got A One-Way Ticket To The Sky - 2019 - Remaster,2u4qgtwWDUGDTj3xKzuhwk,5,2020,rock-n-roll,0.749,0.419,4,-9.314,1,0.0408,0.806,0.0,0.149,0.58,102.214,147989,4
+Petula Clark,My Friend the Sea,1nmHkLp15yHtT499LMdZiY,10,2014,rock-n-roll,0.742,0.449,4,-9.268,1,0.0318,0.852,0.00012,0.0886,0.788,115.596,155653,4
+Danyel Gerard,Les temps changent,7DNtlTSkwC35aXXDL2GZNs,6,2008,rock-n-roll,0.724,0.564,6,-16.533,1,0.0623,0.0643,0.00347,0.0551,0.742,123.375,197497,4
+The Everly Brothers,The Price of Love (Single Version),4M5rWcIQ1nOwbBkyTttzG2,14,2019,rock-n-roll,0.581,0.812,11,-8.553,0,0.0753,0.332,0.0,0.649,0.665,120.79,126467,4
+Big Joe Turner,Rock a While,6lQOBN0eyerbgyNUNRslSq,6,2005,rock-n-roll,0.571,0.497,10,-6.632,1,0.0656,0.754,0.0,0.213,0.872,137.619,122586,4
+Los Apson,Atras de la Raya,6wQBqxOwJd6e2csv5y2qjF,34,2007,rock-n-roll,0.617,0.791,5,-6.875,1,0.0849,0.482,0.0,0.447,0.938,91.555,164093,4
+Fats Domino,Don't You Know,2EIv1X1gJkQWh8Pk7cX3aB,4,2017,rock-n-roll,0.647,0.502,10,-5.493,1,0.0277,0.605,0.0156,0.0771,0.882,102.309,146529,3
+Carmela Y Rafael,Flor De Azalea,0h5lK8SWqDL3nbR2NYzEcz,10,2008,rock-n-roll,0.372,0.299,7,-7.512,0,0.0274,0.862,0.0,0.201,0.409,99.299,179746,4
+Elvis Presley,Keeper Of The Key,07tzE9S1inS4bCSaLHGFrR,10,2006,rock-n-roll,0.43,0.116,9,-26.153,1,0.0408,0.835,0.0,0.166,0.414,107.667,125640,4
+Palito Ortega,Bienvenido amor - Remastered,4UFZ9xNXsE8uKPqZnzDJt2,12,2022,rock-n-roll,0.561,0.72,10,-9.057,1,0.0546,0.505,0.0,0.659,0.963,89.291,131398,4
+Jody Reynolds,The Whipping Post,7EbbH1j2KfPceafLwC5nSk,1,2003,rock-n-roll,0.63,0.295,4,-10.147,1,0.0327,0.612,0.0,0.389,0.483,131.217,201227,4
+Bobby Darin,Guantamera,6TA7SxEtBA0FRePvv6qfb2,5,2010,rock-n-roll,0.665,0.415,5,-12.857,1,0.0468,0.84,0.0,0.114,0.653,118.493,243293,4
+Trini Lopez,Adelita,479MlhDMkOe2In9lgIcSK2,0,2003,rock-n-roll,0.742,0.637,4,-7.721,1,0.0434,0.433,0.0,0.0944,0.965,141.653,119413,4
+Ray Peterson,Goodnight My Love (Pleasant Dreams),46JG07KkPhEuUFgRVlN8ZL,26,2020,rock-n-roll,0.409,0.506,1,-8.437,1,0.0308,0.641,5.11e-05,0.434,0.613,107.759,157701,3
+Huelyn Duvall,Get Carried Away,6xA9XAG1hiVrSwZEMNaKbL,0,2009,rock-n-roll,0.557,0.635,2,-6.612,1,0.0316,0.89,2.49e-05,0.225,0.751,148.289,171133,4
+Petula Clark,Who Am I?,2CHBo5ozruzhxgaRHdyupI,13,2003,rock-n-roll,0.315,0.71,0,-6.955,1,0.0552,0.342,0.0,0.133,0.682,184.701,139973,4
+Alberto Vazquez,El Primer Paso,10MNDzQk5CaHDNHuExOaIB,5,2021,rock-n-roll,0.583,0.525,3,-9.24,1,0.0256,0.578,0.000327,0.132,0.606,98.316,219387,4
+Stray Cats,Rumble In Brighton,4dXzXM9XHcyTfTpM6yWjUS,9,2000,rock-n-roll,0.4,0.616,5,-12.562,1,0.0405,0.096,0.0,0.988,0.587,105.945,193267,4
+The Everly Brothers,The House of the Rising Sun,78J2fDTAYChA6G561p6ZMf,8,2020,rock-n-roll,0.197,0.608,9,-11.607,0,0.0648,0.0161,0.00886,0.299,0.212,176.423,274240,3
+Fats Domino,Walking To New Orleans,3EWa3LtADPm6afltTGT6HA,8,2017,rock-n-roll,0.587,0.493,1,-5.473,1,0.028,0.3,0.0,0.0835,0.513,80.604,116888,4
+Juan Torres,"El Golpe - De ""The Sting""",0OznTzzK5AjEnn3QzD7Ui9,10,2001,rock-n-roll,0.534,0.332,0,-11.047,1,0.0399,0.181,0.0254,0.117,0.636,135.356,292223,4
+Wynonie Harris,Good Morning Judge,0l3ggCvDewBees7grsOZ31,4,2015,rock-n-roll,0.585,0.579,0,-10.424,1,0.418,0.643,0.0,0.0485,0.905,202.688,160520,4
+Paul Anka,Let The Bells Keep Ringing,1BOtazUUVnGTk52y45JtS6,3,2001,rock-n-roll,0.636,0.648,2,-9.161,1,0.0304,0.36,0.0,0.231,0.975,120.839,119413,4
+Los Moonlights,Cielo Rojo,6nF1kkAFDBiR8TVr7QYXyg,7,2001,rock-n-roll,0.325,0.423,4,-7.504,0,0.0356,0.811,0.0,0.36,0.255,120.21,175240,3
+Dion,Shout,4GuCEQWKkLSxZiADYPGndS,3,2012,rock-n-roll,0.404,0.766,7,-5.466,1,0.103,0.489,0.0,0.94,0.31,157.08,264973,4
+Petula Clark,My Guy,1d7r7hVBbZ0ui4Yh2tedFA,15,2017,rock-n-roll,0.658,0.761,8,-4.85,1,0.0441,0.608,4.03e-06,0.404,0.822,135.691,178160,4
+Elvis Presley,Money Honey - previously unreleased live,5aJsPluc90A3I1EpwN8zuA,8,2002,rock-n-roll,0.503,0.814,4,-5.685,1,0.196,0.952,0.218,0.866,0.645,63.658,140640,4
+Don Gibson,One Day at a Time,4kLtL82WAHFRUNHgw91bqH,2,2018,rock-n-roll,0.715,0.479,11,-9.843,1,0.0274,0.681,0.147,0.0976,0.791,99.915,154467,4
+Wanda Jackson,Whirlpool,2k3ThEagfWaxHzSvGZkBQ0,32,2020,rock-n-roll,0.709,0.382,8,-12.082,0,0.039,0.744,1.67e-06,0.0494,0.87,120.89,140760,4
+Elvis Presley,Steamroller Blues - with The Royal Philharmonic Orchestra,4RqIEk9Q3Q1ZV0YlrVraBN,35,2015,rock-n-roll,0.506,0.883,1,-4.496,0,0.0784,0.0447,0.00194,0.198,0.307,84.368,188653,4
+Ruth Brown,Teardrops from My Eyes,3OsZ4ZSV1bIlnGpks2L1Tu,3,2017,rock-n-roll,0.59,0.399,10,-12.967,0,0.0416,0.378,0.0,0.193,0.726,142.613,170880,4
+Los Sleepers,Papacito Frio,4edV43w3xvDlRZSblhXUZr,9,2010,rock-n-roll,0.538,0.665,3,-10.305,0,0.0349,0.765,0.0,0.0421,0.786,142.557,134690,4
+Bo Diddley,Prisoner Of Love - Slow Version,4eL1VMYwEKhuAuz6MiuICH,3,2008,rock-n-roll,0.486,0.421,4,-12.753,0,0.0306,0.944,0.000385,0.173,0.558,115.569,225440,4
+Estela Nuñez,No Discutamos,7DeaAROB3HPhc88mgUQCs2,20,2014,rock-n-roll,0.622,0.233,7,-9.927,1,0.0506,0.409,0.0,0.0659,0.291,100.112,232133,4
+Wilson Pickett,Hey Joe - Single Version,6mqa1dOszH9WmCUsslP1PS,7,2018,rock-n-roll,0.519,0.732,5,-8.527,0,0.039,0.228,0.0212,0.0499,0.88,79.903,184200,4
+The Tremeloes,Silence Is Golden (Brighton Mix),2FqzXLqJnJ59FpvPBitCDm,4,2019,rock-n-roll,0.439,0.46,4,-10.414,1,0.0296,0.00635,0.0,0.351,0.58,112.261,189227,4
+Lee Rocker,Tear in My Beer,6cvgBlUWQoObfy2rbA5YvI,6,2012,rock-n-roll,0.711,0.543,4,-5.115,0,0.0371,0.027,8.5e-06,0.0824,0.427,122.06,147386,4
+Angelica Maria,Tenías Que Ser Tan Cruel,2ULHUIeTR62oZSHO0k2GE6,0,2014,rock-n-roll,0.438,0.256,7,-5.953,1,0.0419,0.894,1.03e-06,0.632,0.548,78.527,168000,1
+Jimmy Jones,Yesterday's Mistakes,5kEH10pYm3kmSWG5UBB19y,12,2007,rock-n-roll,0.579,0.49,7,-11.539,1,0.113,0.0446,0.000107,0.0721,0.601,82.509,176973,4
+Los Hermanos Carrion,Niña,1uwRU0LBZ1nYj7ez8YAjPm,10,2014,rock-n-roll,0.69,0.401,7,-7.401,1,0.0271,0.938,0.000361,0.322,0.446,98.457,154384,4
+Glen Glenn,One Cup of Coffee and a Cigarette,7qJh1gWZQkWyjgJCsJeiZs,24,2003,rock-n-roll,0.62,0.707,2,-5.658,1,0.0338,0.479,4.33e-05,0.186,0.905,82.215,112573,4
+The Coasters,Wait a Minute - 2007 Remaster; Remastered,45EShkQRRhzdRNDo8ZJYD4,3,2007,rock-n-roll,0.735,0.643,5,-5.452,0,0.0638,0.832,0.0,0.263,0.731,127.785,160507,4
+Johnny Laboriel,Bigote Sam,6za8DLMKpAnQeJWmK8Jmr0,0,2013,rock-n-roll,0.731,0.59,4,-10.739,1,0.0494,0.687,2.01e-06,0.271,0.788,124.016,120895,4
+The Coasters,Autumn Leaves - 2007 Remaster Stereo; Remastered,03Yu6ELCjBRZAq4wUCs7gK,2,2007,rock-n-roll,0.353,0.346,7,-9.859,0,0.0339,0.841,0.0163,0.394,0.289,132.059,236040,4
+The Coasters,Moonglow,5MQ3Pj7dK79MGyUJx0u901,4,2005,rock-n-roll,0.48,0.228,8,-15.711,1,0.0545,0.505,0.0,0.107,0.516,114.801,127133,4
+Roy Orbison,Best Friend - Remastered 2015,14qngyOIYl5grgoLeNNhSo,19,2015,rock-n-roll,0.506,0.437,2,-12.475,1,0.0303,0.948,0.822,0.107,0.668,90.789,158267,3
+The Righteous Brothers,Just Once In My Life,7EwXqvtVQd7toN64zGGSxr,2,2000,rock-n-roll,0.331,0.48,2,-9.568,1,0.0322,0.655,0.374,0.219,0.272,92.602,225267,4
+Gualberto Castro,Manolo,5xEtju7VkoD0hBWVNqY7HL,0,2003,rock-n-roll,0.491,0.621,2,-6.78,0,0.14,0.775,0.0,0.175,0.418,105.169,288707,4
+Little Richard,Miss Ann,62P5h6x0USSItRwVoeJIQh,2,2015,rock-n-roll,0.675,0.535,7,-5.529,1,0.0458,0.7,0.0,0.24,0.816,110.911,135053,4
+Elvis Presley,It Feels So Right - Take 1,1LsVyqEDAuaMgbUeHao0Lr,8,2003,rock-n-roll,0.558,0.573,10,-8.899,0,0.0325,0.7,0.0,0.234,0.806,89.687,128360,4
+Fats Domino,Lovely Rita,35tq7CgF3WInxIx2UOLoPn,6,2004,rock-n-roll,0.654,0.547,11,-8.985,1,0.031,0.325,0.0,0.127,0.912,88.349,152800,4
+Los Corazones Solitarios,Testiga de Mi Tristesa,0EeFaUvK5mqQ8kQq01jezO,17,2018,rock-n-roll,0.458,0.297,0,-10.856,1,0.0334,0.192,2.03e-06,0.389,0.362,96.836,195493,4
+Nashville Pussy,Drinking My Life Away,33JqmG3WGuHNgPvraLBbPg,2,2018,rock-n-roll,0.371,0.938,7,-4.067,1,0.0871,1.36e-05,0.656,0.0545,0.522,174.156,174640,4
+Gluecifer,Black Book Lodge,1Q6ZSzdU0L9ffsaDvbWKNd,11,2002,rock-n-roll,0.171,0.985,9,-2.355,1,0.1,0.000126,0.00178,0.15,0.466,171.791,201813,4
+Enrique Guzman,Vida,6doUGUOIEIUlUTmAeAPxl7,29,2007,rock-n-roll,0.246,0.626,1,-7.63,1,0.0421,0.149,0.0,0.636,0.631,118.142,170600,4
+Warren Smith,The Battle,16xawxXyH3C9T4Gl8SSphe,0,2011,rock-n-roll,0.531,0.109,5,-18.451,0,0.459,0.889,0.0,0.138,0.604,68.384,131867,4
+Elvis Presley,"It Hurts Me, part 2 (After Karate #1) - Take 3",4nS2MWDo1a8T8A8tvPqsgZ,11,2018,rock-n-roll,0.332,0.284,10,-15.285,1,0.105,0.868,0.000417,0.191,0.691,184.299,68187,3
+Brian Setzer,TAKE A CHANCE ON LOVE,464C7xkrozOF7wbCWw0dig,2,2006,rock-n-roll,0.454,0.969,11,-3.344,0,0.0938,0.00105,0.000212,0.319,0.342,95.556,242147,4
+Ray Campi,What a Pleasure,7IJQqyfPs33k0zJp2rcPC8,0,2010,rock-n-roll,0.533,0.477,7,-4.049,1,0.0294,0.58,5.17e-05,0.102,0.775,154.113,163600,4
+Bobby Darin,Another Song On My Mind,4507n8nXjgyTIwULjTujW7,2,2017,rock-n-roll,0.621,0.396,7,-12.261,1,0.026,0.793,0.00429,0.0746,0.747,106.421,278013,4
+Elvis Presley,You're a Heartbreaker - Live,0bLUPcMOX2surLTKlGxXb7,7,2017,rock-n-roll,0.415,0.43,2,-14.193,1,0.0531,0.986,0.918,0.659,0.962,67.511,126067,3
+The Troggs,Love Is All Around - Summer of Love Version,06gvWPGKwueAtPcEB4s7DH,8,2020,rock-n-roll,0.557,0.272,2,-13.203,1,0.0295,0.0236,0.824,0.273,0.472,94.674,170876,4
+Los 5 Latinos,Eres Diferente,164FIMzYO3efOyqWourMnC,11,2013,rock-n-roll,0.37,0.431,9,-13.619,1,0.0694,0.172,6.57e-06,0.0612,0.384,162.682,112000,4
+Sleepy LaBeef,Let´s Turn Back the Years,0LBkDQ3zPMMKrL154h0ez7,2,2014,rock-n-roll,0.601,0.662,7,-12.267,1,0.0319,0.257,0.675,0.288,0.948,97.52,152516,4
+Los Freddy's,Encadenado A Ti,2moox2u0yxmucyDnbdBbuy,22,2010,rock-n-roll,0.776,0.62,8,-9.458,1,0.0299,0.0115,0.0,0.359,0.896,113.085,203760,4
+Ramon Marquez,Adorable,4X2oJwe48HMH0kS18F6UoO,20,2008,rock-n-roll,0.802,0.488,7,-11.011,0,0.0691,0.409,0.392,0.0876,0.764,126.569,124604,4
+Warren Smith,Goodbye Mr. Love - Alternate,1fgBCyQyeV1EMzU7xBesAr,1,2023,rock-n-roll,0.632,0.485,2,-9.665,1,0.0249,0.468,0.000144,0.105,0.742,107.897,137001,3
+Sleepy LaBeef,Electricity,6Eq0SvF0Che5eXpwXuWomi,0,2010,rock-n-roll,0.699,0.917,4,-10.094,1,0.267,0.152,0.00269,0.0799,0.64,100.531,139240,4
+Chris Montez,When Your Heart Is Full of Love,0T3mtdXu5Pv8Lg0NIZJQFc,15,2013,rock-n-roll,0.553,0.559,9,-10.79,0,0.0335,0.712,0.00189,0.172,0.667,71.309,212011,4
+Estela Nuñez,Por un Amor,5QLhF45s8IDimhdOiMc9Rf,6,2001,rock-n-roll,0.423,0.175,4,-11.372,1,0.0398,0.584,0.0,0.384,0.224,83.291,198693,4
+Los Corazones Solitarios,Te Fuiste de Mi,4eAT6WP1lM19OJT7wc4vUk,4,2018,rock-n-roll,0.659,0.273,5,-13.163,1,0.0307,0.311,0.000258,0.0984,0.772,91.444,209933,4
+Johnny Carroll,"Rock Baby, Rock It",2y7gt9nKocO7qsIjUpGb8l,0,2021,rock-n-roll,0.587,0.607,0,-8.925,1,0.0495,0.658,0.0053,0.408,0.811,97.727,140453,4
+Hank Williams,"Therell Be No Teardrops Tonight - Health & Happiness Show Five, October 1949",5ROxZgbjm5qZDd8Tg6jvMi,3,2019,rock-n-roll,0.523,0.21,0,-11.777,1,0.0358,0.976,1.41e-05,0.13,0.574,128.164,192467,4
+Johnny Tillotson,Round in Circles,2Fpb2zsFMfbzqzuYQq3TS7,8,2019,rock-n-roll,0.661,0.404,5,-7.307,1,0.0269,0.75,0.0,0.125,0.707,124.202,129600,4
+Mark Wynter,The Christmas Song,3ejl4CWaATiMx7kERJx3kd,0,2001,rock-n-roll,0.246,0.297,1,-14.889,1,0.0381,0.606,3.98e-05,0.0659,0.213,162.137,191240,4
+Pat Boone,If You Heart,1U8HZ1n94PtmFIdOJyVNZY,12,2006,rock-n-roll,0.634,0.442,7,-8.898,1,0.0255,0.113,0.00226,0.154,0.294,92.954,185573,3
+Gene Pitney,Liberty Valance,6bfOvzskmzymIqI6MmsGDU,15,2005,rock-n-roll,0.601,0.579,1,-10.075,0,0.0774,0.704,0.0,0.297,0.85,86.868,178469,4
+Glen Glenn,I Got a Woman,1T3VJtwDg2PVK8KwnT5uuu,0,2004,rock-n-roll,0.58,0.596,4,-7.508,1,0.0931,0.951,0.868,0.383,0.782,129.628,111707,4
+Gluecifer,Exit At Gate Zero,1fSoeBiLx6ELeu82FIdXfg,0,2000,rock-n-roll,0.436,0.949,5,-4.637,0,0.0603,0.000256,1.3e-05,0.34,0.584,134.252,253493,4
+Carl Mann,Doggone That Cat (feat. The Peak Volt Brothers),6pyBu5nBhn4jzLC2S5zSgC,0,2013,rock-n-roll,0.426,0.832,9,-5.55,1,0.04,0.707,0.578,0.107,0.787,110.935,120635,4
+Jimmy Justice,The Folk Singer,0KnBea9RsiEyIuxHTeUxxv,0,2000,rock-n-roll,0.634,0.357,2,-11.603,1,0.0327,0.879,0.00303,0.11,0.568,114.45,172933,4
+Jerry Lee Lewis,Ballad of Billy Joe,0FLx3pVISilhXBujuutFIa,4,2020,rock-n-roll,0.52,0.398,2,-12.297,1,0.122,0.515,2.52e-05,0.411,0.669,148.213,177171,4
+Los Muecas,La Que Se Va - Polka,2Cdo9pbxdEwYGwX4NANkRr,1,2010,rock-n-roll,0.53,0.845,9,-7.461,1,0.111,0.36,6.97e-06,0.0983,0.95,123.576,134360,4
+Jerry Lee Lewis,Don’t Be Cruel,06n3Fy0gkecngaOfKk1x3Q,4,2022,rock-n-roll,0.654,0.821,4,-9.346,0,0.0474,0.686,0.0,0.612,0.927,85.372,117522,4
+Frankie Avalon,Voyage to the Bottom of the Sea,5Mxips68Iov9sBOqCEdXEv,8,2018,rock-n-roll,0.251,0.51,2,-9.035,1,0.0451,0.514,0.00645,0.264,0.465,90.132,136021,4
+Stray Cats,I Won't Stand in Your Way - Live,64luH2YbwnlHEexUXxWBud,4,2004,rock-n-roll,0.375,0.675,0,-8.452,1,0.0506,0.228,0.0,0.723,0.464,106.828,231333,3
+Jan & Dean,Drag City - Remastered,7oRjRQqh6F9V7WLs0iIMjn,6,2014,rock-n-roll,0.45,0.751,3,-11.131,1,0.0452,0.135,2.81e-06,0.113,0.771,160.793,137694,4
+Charlie Feathers,Dig Myself A Hole,0ND0pWuzsdjQAGWnlqw4Ww,4,2008,rock-n-roll,0.467,0.345,1,-13.392,1,0.0532,0.653,0.114,0.616,0.652,80.426,234547,4
+Virginia Lopez,Frenesí,4j9QZ5pqfOKbmogJjKGFrp,16,2014,rock-n-roll,0.739,0.303,3,-14.476,1,0.036,0.172,0.0,0.237,0.764,107.763,211907,4
+Juan Torres,Clara (Clair),12qUcYyaRRsAJtQwbx3QY7,20,2008,rock-n-roll,0.645,0.547,5,-9.598,1,0.0294,0.0578,0.476,0.117,0.672,119.358,175264,4
+Carl Perkins,Your True Love,09y4cKxsucicWfIDLuQHQk,0,2012,rock-n-roll,0.557,0.797,1,-6.832,1,0.086,0.653,0.00205,0.789,0.744,156.633,163296,4

@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Zhanna Bichevskaya,Rus' svjataja zovjot,6YWWLKlnjdyxQYjjI993wi,0,2007,romance,0.47,0.552,10,-6.469,1,0.0274,0.668,0.0,0.102,0.587,119.222,193686,4
+Rashid Beibutov,Xəzər Şəfəqləri,0n7ipVQta9debNhWeCa2fJ,0,2001,romance,0.439,0.32,10,-10.913,0,0.045,0.991,0.00617,0.374,0.694,91.16,170107,4
+Vadim Kozin,Зачем было влюбляться,7ogaDcnnub8bkiVzQIPLDX,0,2014,romance,0.521,0.216,7,-10.953,0,0.0644,0.994,4.19e-06,0.187,0.612,92.201,126245,3
+Vadim Kozin,Ja vas ljubil,7evXhzHCou8Ejaf0Z6PgxI,0,2015,romance,0.527,0.178,0,-13.122,0,0.0985,0.981,2.66e-05,0.148,0.317,66.944,165253,3
+Gruppa Express,Шумел камыш,5qiumiWYzPNPj8nzszMzLM,3,2020,romance,0.535,0.487,3,-5.777,0,0.0272,0.795,0.0,0.115,0.414,134.011,252090,3
+Nikolay Nikitskiy,Priznaysja mne,4F2INSqNdoEHXxrb4HsUV3,0,2002,romance,0.517,0.344,11,-9.691,0,0.0394,0.846,8.86e-06,0.297,0.555,124.404,170814,4
+Zhanna Bichevskaya,Letjat utki,3xdurxJIlTZMdDm39yXWNo,0,2007,romance,0.262,0.0372,7,-15.571,1,0.0483,0.944,0.000812,0.47,0.226,83.364,266765,1
+Maya Kristalinskaya,Val's o val'se,0Q1LedvpVqYA9WfuIwzlCu,1,2001,romance,0.297,0.418,9,-6.856,0,0.0323,0.975,6.53e-06,0.153,0.295,100.155,213537,3
+Vika Tsyganova,Крым,2M9ZsVCCcxyy3w3uwCoNlw,0,2017,romance,0.693,0.675,11,-6.518,0,0.0336,0.244,0.0,0.533,0.571,124.946,222662,4
+Nikolay Erdenko,Ja v lesu,1DBkGLobhfXKfQTOQGtmvj,0,2005,romance,0.175,0.367,0,-12.453,1,0.0447,0.946,0.0306,0.23,0.199,54.064,197548,3
+Vadim Kozin,Зачем было влюбляться!,481zVTOLVnOhL4PphpYwJ8,0,2014,romance,0.535,0.376,7,-7.734,0,0.0438,0.994,1.3e-05,0.268,0.624,135.588,124620,4
+Tatiana and Sergey Nikitin,Blue color,2jnwIZFTdiQ7Yh0PT5ywjc,1,2012,romance,0.68,0.026,9,-25.801,1,0.0618,0.969,0.163,0.117,0.526,120.599,157205,4
+Georgi Vinogradov,На полянке,0U1tvJTKR1PHucnIcnDU7O,0,2021,romance,0.506,0.167,9,-13.409,0,0.0723,0.892,0.000668,0.194,0.597,134.886,190920,4
+Maya Kristalinskaya,Ogljanis',0hx0OuVEQhbz2zo7aHagI5,0,2001,romance,0.422,0.43,2,-8.136,0,0.0337,0.85,0.0,0.345,0.645,97.186,154405,4
+Павел Михайлов,Тебя здесь нет,6qhXU9inwgnidEyWc2by0C,1,2021,romance,0.424,0.211,4,-14.871,0,0.0358,0.981,0.035,0.16,0.522,124.443,180933,4
+Кето Джапаридзе,Роследнее Письмо - Remastered,0st5c29IDfRSjkJsnmVTGT,0,2013,romance,0.293,0.239,4,-14.107,0,0.0555,0.993,0.777,0.499,0.196,79.624,189100,3
+Сергей Зыков,Твои следы,6S9MdDD9WGs0yoh2yupMX1,0,2020,romance,0.256,0.525,1,-7.369,1,0.0471,0.943,4.32e-06,0.544,0.27,84.51,250067,5
+Ivan Rebroff,Wdol Po Piterskoj,3dHdkqWU0irLY8BMp1TyEo,0,2015,romance,0.161,0.5,10,-10.52,1,0.0352,0.595,0.013,0.172,0.313,178.492,196907,3
+Vika Tsyganova,"Калина красная - Live at Crocus City Hall, Moscow, 2018",5RIncksHYWJHbI7xRFfuc6,0,2021,romance,0.605,0.507,10,-11.24,0,0.0311,0.393,1.52e-06,0.744,0.364,95.103,294312,4
+Nikolay Kopylov,"О, если б мог выразить в звуке...(If I Could Express in A Sound...)",0nIHu4Ay7xrgwqPDhWTrri,0,2008,romance,0.38,0.352,6,-8.775,0,0.0428,0.989,0.0561,0.0893,0.17,80.357,105120,5
+Rashid Beibutov,Azərbaycan - Canlı Ses,2b97AkL6COKIu8djxGY7iI,0,2001,romance,0.341,0.763,10,-11.931,1,0.388,0.91,0.215,0.919,0.402,81.485,270400,4
+Иван Петров,"Boris Godunov, Act IV Scene 2: ""Tsarevich skorey!""",4cCD0bV8NXVA52wFWfJ7dN,0,2003,romance,0.205,0.115,8,-22.21,1,0.0423,0.985,0.494,0.322,0.0917,140.523,46500,3
+Feodor Chaliapin,"Glory to thee, o God (sung in russian)",220klqeYWqTUu9uIhOTM6o,0,2006,romance,0.295,0.29,5,-13.13,1,0.0319,0.964,0.514,0.196,0.235,139.355,259533,1
+Lyudmila Zykina,Жди меня,6ButSuYHBx7EOaTSyF6q0c,0,2014,romance,0.355,0.34,10,-8.923,0,0.0378,0.988,0.0,0.108,0.125,88.876,178514,4
+Boris Shtokolov,"Слушайте, если хотите (feat. Сергей Яковлев)",1qvhjpaeW6tWLnvp6nc3ol,0,2017,romance,0.401,0.217,7,-13.255,1,0.0442,0.986,3.75e-05,0.0965,0.21,133.794,156280,4
+Gelena Velikanova,Molchanie,04q00HhZgv3QsUSMUCCrtB,0,2005,romance,0.691,0.249,9,-12.434,1,0.144,0.98,0.00172,0.138,0.844,110.26,62724,4
+Pyotr Leshchenko,Ne pokiday,4O6jzdeh7HBxnWPrMQvs5T,0,2001,romance,0.538,0.229,7,-13.258,0,0.0946,0.964,0.000387,0.136,0.343,116.333,209310,3
+Klavdiya Shulzhenko,"Я спешу, извините меня",21svzECgkiM6pomLC3qPw2,0,2006,romance,0.511,0.237,8,-17.658,0,0.0816,0.978,4.06e-05,0.71,0.44,112.542,165160,4
+Сергей Захаров,Тайна,7BQurVj44dACIS1kcein6l,0,2006,romance,0.459,0.819,7,-3.99,0,0.0582,0.0773,0.0,0.0434,0.882,115.639,134533,4
+Boris Shtokolov,Вечерний звон,35fXLEkCzyQJg0DET8wvhh,0,2006,romance,0.226,0.421,6,-12.479,1,0.0854,0.926,0.364,0.348,0.0726,97.329,327493,3
+Alexander Vertinsky,Жёлтый ангел,7Ksz4510MczzfGE2NyTkvo,2,2022,romance,0.509,0.022,0,-19.266,0,0.0694,0.995,0.0185,0.18,0.24,75.888,334705,4
+Vika Tsyganova,Золотые Георгины,3blSBAdouEKlLs5swIEbtb,0,2013,romance,0.653,0.716,0,-4.827,0,0.0337,0.44,0.0,0.0701,0.8,104.935,244093,4
+Nikolay Erdenko,The Merchant Went on the Market,7i9l4VASCiYNd6lmdlwuzL,0,2021,romance,0.672,0.534,4,-14.0,0,0.069,0.715,0.0,0.161,0.742,110.516,158307,4
+Rashid Beibutov,Bizim Şəhər,6AHK3U9ou5m6bgVM6V3YDs,0,2001,romance,0.359,0.407,5,-13.274,0,0.0351,0.916,0.0,0.196,0.541,152.504,301293,4
+Georgi Vinogradov,Марш трудовых резервов,1sE5sJiVOVPkHiSZJGcyhP,0,2014,romance,0.646,0.424,7,-13.548,1,0.0482,0.97,0.0,0.576,0.88,127.169,137763,4
+Georgi Vinogradov,Ленинские горы - 2022 Remastered,4ojnIQi8Ho2JjToLgBHa2k,0,2022,romance,0.489,0.0696,7,-14.788,1,0.0608,0.986,0.0,0.301,0.555,81.674,146667,1
+Maya Kristalinskaya,Листья Кленов - 2022 Remastered,2jUWOlMEGFUyjJHO8eTRpQ,0,2022,romance,0.626,0.372,3,-13.093,1,0.0797,0.932,0.00041,0.267,0.935,90.853,108120,4
+Sergei Lemeshev,Дуня-тонкопряха,1FaAGntnYgX126ABuT8sL5,0,2000,romance,0.597,0.195,9,-18.32,0,0.0749,0.97,0.527,0.103,0.739,113.737,112813,4
+Ivan Kozlovsky,"Boris Godunov: Prologue, Scène 1, ""Choeur des Pélerins""",4fTA877JCQTdVLIP4PjvK0,0,2013,romance,0.148,0.107,8,-20.871,1,0.0426,0.94,0.00128,0.36,0.0849,69.771,234053,1
+Vladimir Troshin,Песня военных корреспондентов,6OUcj8IOlAH5lOIDPkEWXR,0,2020,romance,0.741,0.247,5,-13.807,0,0.0832,0.815,0.0,0.0762,0.662,123.026,162040,4
+Izabella Yurieva,Локон,31f2rchjWBr5DXLqoFcFyz,0,2000,romance,0.352,0.115,6,-16.337,0,0.0987,0.991,0.00132,0.264,0.142,166.996,196000,3
+Zhanna Bichevskaya,Зачем сидишь до полуночи,6AptWJvDeaClTL3sDfL4uF,1,2012,romance,0.363,0.0688,11,-19.801,0,0.0395,0.985,0.596,0.0968,0.272,151.164,139293,4
+Klavdiya Shulzhenko,Moi Stary Park,3jgLu7ONv73ukpbHwwefCo,0,2013,romance,0.551,0.253,5,-12.781,1,0.0885,0.885,0.0,0.208,0.573,109.879,272827,4
+Андрей Петров,Увертюра к кинофильму «Осенний марафон»,0yf4SzrvBxzphb0r045qQl,12,2003,romance,0.465,0.165,11,-20.717,0,0.0365,0.902,0.559,0.139,0.408,125.889,185080,4
+Izabella Yurieva,Belaya noch,0rLir9x0qoHkETyzdeYQTe,0,2012,romance,0.49,0.348,4,-6.233,0,0.0383,0.99,0.0,0.145,0.406,101.847,198067,4
+Oleg Pogudin,"О, если б мог выразить в звуке",4j693TJZXtg48Urm7w99BT,0,2013,romance,0.349,0.128,11,-20.644,0,0.0528,0.902,0.0,0.1,0.251,91.858,105293,3
+Feodor Chaliapin,A life for the Tsar: They guess the truth,5nW1pUKfLx4QEwBwDAQ6zN,0,2006,romance,0.267,0.281,2,-15.028,0,0.0416,0.995,0.00371,0.148,0.168,72.099,254800,3
+Feodor Chaliapin,In questa tomba oscura,0qq1wG1n2arRbldMIDWvMc,0,2006,romance,0.222,0.107,8,-17.087,1,0.0358,0.968,0.162,0.157,0.118,128.843,220933,3
+Tamara Tsereteli,"O, pozabud'!",7oPeylKTrY3ALtZvhQxgR0,0,2001,romance,0.35,0.194,7,-15.448,0,0.0973,0.981,0.000629,0.108,0.316,68.762,172711,3
+Maya Kristalinskaya,Oglyanis',1Xde3Z0wXe8PwvysVAjm8t,0,2005,romance,0.392,0.22,2,-14.773,0,0.076,0.74,0.0,0.312,0.554,97.335,159843,4
+Pyotr Leshchenko,Признайся мне,6ehSySxXDoe6pxe3SWkfzX,1,2017,romance,0.502,0.25,0,-12.376,0,0.034,0.956,0.0,0.137,0.384,107.078,198034,3
+Ivan Petrov,Who is roaming about there? (sung in russiann) (Ruslan und Ludmilla),7r36fyZNwQWI1ixOCWFH57,0,2006,romance,0.268,0.14,7,-16.399,1,0.042,0.99,2.28e-05,0.774,0.102,166.78,157400,4
+Сергей Захаров,Как пела эта скрипка,2KAJEhRn8v8reBMKoF53sn,0,2006,romance,0.251,0.794,1,-4.483,1,0.054,0.791,1.84e-05,0.174,0.197,86.09,222747,3
+Lyudmila Zykina,"Ей приснилось, что она - Россия",775QXC6JIz84o92r5icNGb,0,2020,romance,0.341,0.263,10,-11.449,0,0.0473,0.918,0.0,0.133,0.456,85.304,202253,4
+Feodor Chaliapin,"Norma: Ite sul colle, o Druidi!",7dNHLjDdUMzPMi8bHP8YLp,0,2010,romance,0.402,0.278,7,-8.728,1,0.0377,0.995,0.000274,0.265,0.215,113.643,256840,4
+Vladimir Troshin,Zeljonyy ogonjok,1cFVq4HExYrAzV5GK0uH8E,1,2005,romance,0.533,0.262,2,-15.624,1,0.0688,0.976,0.000272,0.268,0.608,106.011,205096,4
+Nikolay Erdenko,Kholodnyy veter,68pGuz4eWFZ64xsgrUMzIF,0,2005,romance,0.328,0.291,1,-16.013,0,0.0338,0.922,0.121,0.105,0.125,108.313,273761,5
+Izabella Yurieva,Я тебе ничего не скажу,5xNBWW8RfxPKQKvOh6Ozg5,0,2000,romance,0.31,0.119,1,-15.47,0,0.0384,0.995,0.00223,0.36,0.136,98.092,136973,3
+Vladimir Nechaev,В городском саду,6V9KRDRCzh6yqxoHYta4Bx,0,2014,romance,0.445,0.172,9,-13.374,0,0.0329,0.978,0.000755,0.268,0.473,95.878,166217,4
+Izabella Yurieva,"Но я знаю, ты любишь другого",18WGvUU8Bd69inOjTJ4Q2a,0,2000,romance,0.465,0.143,3,-15.551,0,0.0667,0.983,0.000126,0.157,0.177,73.845,154000,3
+Галина Карева,Стыдливая чайная роза,1zH7YLlx2UXoe7O4yiYYNu,0,2014,romance,0.579,0.175,0,-15.226,0,0.166,0.966,1.3e-06,0.341,0.332,73.696,83240,3
+Vadim Kozin,Тихий день угасал,3Qe24grb53uBl2tpwFkHMl,0,2014,romance,0.43,0.326,0,-7.804,0,0.0406,0.995,0.225,0.386,0.28,100.892,169947,4
+Rashid Beibutov,Ləbuləb - Bülbüllər Oxur,12EzGN4PNFThUG6oov9u3F,2,2001,romance,0.457,0.296,5,-12.328,0,0.0709,0.937,2.91e-05,0.0791,0.436,142.447,334893,3
+Nikolay Erdenko,We Went Into the Garden,1w30xXdClTHIylHiMBvqj8,0,2022,romance,0.233,0.0809,5,-19.839,1,0.0398,0.796,2.98e-05,0.165,0.125,84.588,236653,1
+Nikolay Kopylov,"Coachman, Don't Ride Horses Hard",546L7tWoELBj3tv7DlM5ns,0,2007,romance,0.359,0.434,2,-8.428,0,0.0826,0.955,0.000126,0.117,0.353,140.713,194440,4
+Lyudmila Zykina,У омута,4Gv25pc82W4ZZtJhZEIkwu,0,2020,romance,0.214,0.366,0,-9.839,1,0.0336,0.988,0.000192,0.297,0.112,93.125,190933,3
+Feodor Chaliapin,"Ca, vous commettez tous un acte epouvantable (Don Quichotte à Dulcinée)",1FZ9khNA7UbwO6Pa7N8iRS,0,2006,romance,0.317,0.394,7,-10.584,1,0.0581,0.988,0.0252,0.33,0.191,88.068,239200,3
+Vladimir Nechaev,Dubrava,3IS8GRdHhHQRwxdOpmZu4q,0,2012,romance,0.289,0.252,11,-14.286,0,0.0373,0.989,1.74e-05,0.191,0.208,99.708,195667,5
+Nikolay Kopylov,Христос Воскрес.,7nX9yT4NdAdfDrJSfLNiz0,0,2015,romance,0.485,0.307,1,-10.403,1,0.032,0.987,0.000269,0.132,0.107,65.745,162880,5
+Андрей Петров,Моей душе покоя нет,2cAe9Ag4bMzVVQqWDBMyyP,0,2019,romance,0.521,0.163,5,-16.164,0,0.0421,0.931,7.99e-05,0.125,0.64,119.656,140307,4
+Rashid Beibutov,Moskva Gəcələri - Canlı Ses,74xnd7V32TDdWfRwA2l1Yp,0,2001,romance,0.349,0.355,5,-14.328,0,0.398,0.995,0.0137,0.451,0.377,72.338,336800,3
+Sergei Lemeshev,Ария Ленского,1YlGUez7LhxUuhTZtOyHbl,3,2013,romance,0.222,0.195,5,-16.587,0,0.0478,0.982,1.39e-05,0.115,0.106,84.573,382373,1
+Alexander Vertinsky,Vashi pal'tsy,5ef6WF74Im5JpUZ8ciY0oR,12,2006,romance,0.412,0.0376,4,-18.744,0,0.123,0.993,6.36e-05,0.232,0.23,79.966,159165,4
+Oleg Pogudin,Если есть Бог / Θεός αν είναι,5NmUmduYWwTdfN4rcxON7s,0,2020,romance,0.265,0.22,5,-11.24,0,0.0338,0.819,1.53e-05,0.134,0.224,87.549,280836,4
+Feodor Chaliapin,Veruju,4NCVjd4sU9mVuw8h6lObhW,0,2012,romance,0.325,0.296,0,-15.051,0,0.0949,0.987,4.81e-06,0.397,0.393,76.809,254407,1
+Nikolai Erdenko,Na trave tuman (A Mist on the Grass) (arr. N. Erdenko),1g5HbmWnjrRYcft4vBjQDT,0,2011,romance,0.327,0.379,7,-12.035,0,0.0395,0.903,0.0156,0.0678,0.176,140.025,318093,4
+Maya Kristalinskaya,Dva berega,5L5MpUPptKf7au2ZE2GbrY,0,2019,romance,0.343,0.288,0,-7.764,0,0.0309,0.911,0.000361,0.102,0.336,114.78,157512,4
+Vadim Kozin,Ja ljublju vas tak bezumno,1IwAR7MmCcNQkEcHxNDjCc,0,2006,romance,0.451,0.203,3,-14.954,0,0.0549,0.994,0.000311,0.0946,0.616,75.331,145813,4
+Lyudmila Zykina,Грустные ивы,0GC75U2riBm0OKXomZgeDI,0,2020,romance,0.2,0.32,9,-12.42,0,0.0525,0.981,0.00101,0.0917,0.232,74.812,225489,4
+Сергей Захаров,Женщина моя,6G74QxPdaVohbSioJq2wFw,0,2019,romance,0.63,0.834,8,-4.862,1,0.0418,0.519,2.16e-05,0.161,0.708,134.972,238185,4
+Valery Obodzinsky,Ташкент,3mqYrFXWPsIRxjX7zhFTFb,2,2015,romance,0.377,0.373,1,-12.108,1,0.0579,0.854,0.0,0.174,0.429,87.794,144089,4
+Feodor Chaliapin,The Midnight Review (sung in russian),1U14qPQqgyPw2v0qFpP7lB,0,2006,romance,0.501,0.159,5,-17.181,0,0.11,0.975,4.93e-06,0.378,0.305,94.613,246667,3
+Vladimir Nechaev,Otsluzhu k tebe priedu,7AVuvtcpFKhjuYuZrLdFEt,0,2012,romance,0.575,0.43,5,-8.378,0,0.0319,0.99,0.0159,0.532,0.749,105.857,194884,4
+Oleg Pogudin,Время изменится,5eTIoNMIeILBED88NQZQZZ,0,2019,romance,0.278,0.263,11,-13.062,0,0.0622,0.883,3.2e-05,0.0747,0.215,185.131,230067,3
+Feodor Chaliapin,Masha Can't...,2oQyZeEDVvenr0Ofk3PcEr,0,2013,romance,0.357,0.0805,1,-13.785,1,0.0782,0.994,0.0,0.101,0.232,75.943,219720,4
+Maya Kristalinskaya,Аист,5EeukpOWxyDXfxitdR1irT,0,2018,romance,0.497,0.253,7,-11.782,0,0.0317,0.837,0.0,0.311,0.42,90.024,171128,4
+Сергей Зыков,Бабушкины сказки,4Pkzo88dM2jnsvbClYkKVk,0,2017,romance,0.637,0.138,5,-16.665,1,0.0733,0.993,3.81e-05,0.134,0.184,117.214,147280,4
+Feodor Chaliapin,Элегия. Романс,7mfqtV8gpZ289tCUvyDseP,0,2015,romance,0.196,0.27,2,-9.459,0,0.0342,0.988,0.433,0.12,0.0633,89.812,253958,4
+Alexander Vertinsky,Tango Magnolija,1Izwzkicc4P2rEjD5droHU,20,2006,romance,0.545,0.0918,1,-16.959,0,0.0475,0.992,0.000357,0.673,0.419,91.62,184699,4
+Nikolay Erdenko,Sokolovskiy khor u Jara,3ru60tFJYWpEJg2pD3QRTa,0,2005,romance,0.529,0.643,5,-12.733,1,0.064,0.0172,0.0,0.763,0.641,120.667,141160,3
+Igor Talkov,Small planet,4jt7xEW0guwETR8suDdG4F,0,2011,romance,0.748,0.51,9,-11.314,0,0.114,0.495,1.96e-06,0.141,0.9,132.633,290702,4
+Nikolay Kopylov,Plaintively The Autumn Wind Groans,3lde4tR1k6MmxwTm6DDcJl,0,2007,romance,0.333,0.19,5,-14.412,0,0.0555,0.982,0.401,0.111,0.186,171.444,164573,4
+Ivan Petrov,E ancor silenzio (I Lombardi),5FOJBTZTBSgFCTXlCeAgaW,0,2006,romance,0.232,0.179,0,-14.598,1,0.047,0.986,0.000715,0.109,0.0829,167.022,334093,3
+Pyotr Leshchenko,Mrachnoe voskresen'e,2q3QsdDmKTfYKDo47vcxoO,0,2001,romance,0.316,0.134,8,-13.789,1,0.106,0.955,0.000161,0.368,0.112,80.258,197830,1
+Oleg Pogudin,Ночь светла,0Pvqm6q8JtvAG3Yxn5Pp3m,6,2013,romance,0.41,0.155,2,-19.42,0,0.0384,0.928,7.88e-06,0.124,0.264,83.629,169027,4
+Кето Джапаридзе,Песенка О Счастье - Remastered,2PfH7Pn2h365UOc3PWYJGs,0,2013,romance,0.486,0.123,7,-16.614,1,0.138,0.995,0.00919,0.297,0.225,84.099,166818,4
+Валерий Агафонов,Ничего мне на свете не надо,7Eap8J9Okm5wEO50PdLLA0,0,2004,romance,0.525,0.0354,5,-24.154,1,0.0466,0.992,0.0866,0.104,0.257,107.936,100160,3
+Pyotr Leshchenko,Сегодня буду день последний ждать,6XHLO9N93MWx8Vb3FmyaEP,0,2014,romance,0.286,0.0892,8,-17.462,1,0.0599,0.953,0.000212,0.12,0.0754,75.667,183041,4
+Tamara Tsereteli,My Delight,6kiPuNVtTwVi2SptmjKGU9,0,2014,romance,0.45,0.0386,6,-21.335,0,0.0721,0.994,0.121,0.147,0.394,206.194,132608,4
+Klavdiya Shulzhenko,Руки,5bGghPQgKOAGLPCcRFEUtd,0,2004,romance,0.342,0.235,5,-19.885,0,0.105,0.989,0.000287,0.809,0.28,87.348,210586,5
+Boris Shtokolov,Вечерняя песня (feat. Оркестр штаба Ленинградского военного округа),3swj9ZiHYrTgW3ZacksCrR,0,2003,romance,0.401,0.338,0,-12.82,0,0.0515,0.971,0.00862,0.154,0.328,135.624,189827,4
+Владимир Бунчиков,Песня о Париже,7G3Wvj4Y7bPU1CAbJgGEsC,0,2022,romance,0.291,0.26,3,-11.571,1,0.0357,0.983,0.226,0.161,0.259,93.524,179800,3
+Olga Voronets,Ljubov' - kak lodochka,1IAT6oZCC7A0ZaV7yocNq4,0,2002,romance,0.296,0.504,6,-8.055,0,0.0404,0.924,0.0,0.459,0.293,134.76,195645,4
+Valery Obodzinsky,Эти Глаза Напротив,24xyGwlgAEyV8O9YJnYrWm,12,2015,romance,0.491,0.449,8,-8.301,1,0.0317,0.779,1.36e-05,0.0972,0.574,111.261,209867,4
+Vadim Kozin,Женщина - особенно море,4gm6tDbDvm8jZ5tXkp3PsZ,0,2014,romance,0.612,0.324,4,-7.952,0,0.204,0.984,0.0,0.145,0.689,132.353,93187,1
+Zhanna Bichevskaya,Царь,5oterN1VAENsWrtHoMXKQq,2,2001,romance,0.345,0.457,8,-6.817,0,0.0327,0.806,0.0,0.104,0.506,91.342,195133,4
+Oleg Pogudin,Voce 'e notte,3fLRhUdNhPC7dyfWyEVFR0,0,2019,romance,0.389,0.27,9,-11.928,0,0.0421,0.934,0.0,0.219,0.188,131.102,158053,4
+Vadim Kozin,Noch' svetla,7j7Y1FXwWoGjwwIo38nn5j,0,2001,romance,0.551,0.254,8,-8.918,0,0.0852,0.991,0.000112,0.0958,0.598,100.894,130641,4
+Владимир Бунчиков,Грустные ивы - 2022 Remastered,21jOEL8vJAmmEOqUN8pfwK,0,2022,romance,0.394,0.251,9,-13.709,0,0.0423,0.891,0.0,0.409,0.37,85.035,193127,4
+Maya Kristalinskaya,Если вам ночью не спится,27oNREvqBQn8KglvGL6S9q,5,2018,romance,0.59,0.314,7,-16.846,0,0.0477,0.734,0.000763,0.12,0.598,113.061,216093,4
+Izabella Jur'eva,Karavan,26i84qE0eKvvm4JJzPdJPD,0,2001,romance,0.472,0.0691,10,-13.333,0,0.202,0.994,0.00246,0.242,0.343,77.774,178256,1
+Maya Kristalinskaya,Вдвоём с тобой - 2022 Remastered,6028GIspb4gwpses9V3C7r,0,2022,romance,0.526,0.128,7,-13.336,1,0.0477,0.984,0.0,0.081,0.42,70.574,163718,4
+Владимир Бунчиков,Дождик,7t76BpaLhB3gqE5mM9aSQu,0,2014,romance,0.518,0.309,7,-12.619,1,0.165,0.876,0.0,0.348,0.832,179.825,138575,4
+Vladimir Troshin,"Друг - Из к/ф ""По тонкому льду""",32kpwxKnn0f0dmmPbePVel,0,2017,romance,0.661,0.17,10,-18.13,1,0.103,0.978,1.53e-05,0.237,0.488,97.96,126041,4
+Oleg Pogudin,Старинная грузинская песня,24Kh2fGT7ya4brrHLxrDR7,0,2018,romance,0.287,0.296,4,-11.558,0,0.0422,0.881,7.93e-06,0.0905,0.146,180.893,196640,3
+Lidia Ruslanova,Валенки,2DIMJTGustjabuAfyj0R1v,0,2014,romance,0.662,0.169,7,-9.604,0,0.22,0.995,8.24e-05,0.637,0.695,71.291,144450,4
+Ivan Kozlovsky,Я по первому снегу,6rLnu1Szsb7laMxetftmba,0,2018,romance,0.177,0.377,8,-7.957,0,0.0346,0.974,2.9e-06,0.145,0.138,75.789,215745,4
+Vladimir Nechaev,"Net, ne tebja tak pylko ja ljublju",6dlRHzEmCbCp7ubyJgQRHn,0,2006,romance,0.523,0.159,6,-11.137,0,0.0464,0.987,0.0,0.132,0.146,103.117,153029,3
+Elena Kamburova,Болота,7ziMAvadjIwYiU3Tl68Bq7,0,2015,romance,0.458,0.219,7,-13.33,0,0.0348,0.79,0.00939,0.0844,0.203,68.743,195160,4
+Lidia Ruslanova,"Saratovskie chastushki, Ch. 1",5sM5KyxZbwMJY14JVuF3CX,0,2005,romance,0.685,0.263,4,-14.139,1,0.554,0.985,0.0148,0.281,0.85,122.732,165733,4
+Nikolay Kopylov,Две Гитары,2Br0rkjGZvBKFKqvR8pF6k,0,2015,romance,0.405,0.33,4,-9.206,0,0.0448,0.987,0.0123,0.0988,0.261,76.85,196107,3
+Nikolai Erdenko,Моя песня,6jSbcyUfNBMRlScL2zTImR,0,2000,romance,0.247,0.271,0,-20.653,1,0.0457,0.927,0.0428,0.109,0.131,123.214,190000,3
+Zhanna Bichevskaya,Страдания извозчика Ерёмы,4PfkbRPobWLrGrhCL4S0y5,2,2012,romance,0.465,0.238,7,-15.317,0,0.0336,0.944,0.000111,0.0955,0.686,143.526,184160,3
+Галина Романова (Лёля Белая) и группа Первомайка,Две розы,4eYrVrImnQzF5iOVAybQ4q,0,2015,romance,0.428,0.236,4,-12.783,0,0.038,0.824,0.0,0.179,0.196,128.128,223216,3
+Sergei Lemeshev,It Was In The Olkhovka Village,6BWgyh2WxeD26B8vqCYRDO,0,2000,romance,0.383,0.29,0,-9.872,0,0.0773,0.952,0.0,0.151,0.25,161.497,214200,5
+Elena Kamburova,Старинная солдатская песня,5qa4fZV1g56v36YWPH9o1b,0,2015,romance,0.563,0.0981,7,-20.323,1,0.451,0.836,0.0,0.118,0.214,96.159,211200,4
+Vadim Kozin,Para gnedykh,0IsMbtaSPxbri17HKO8tfu,0,2001,romance,0.596,0.0805,2,-16.462,0,0.477,0.995,0.0671,0.102,0.498,125.012,174871,4
+Oleg Pogudin,Люблю,4rfueQaH1t3U4CfqR6CBGb,0,2020,romance,0.507,0.288,9,-10.328,1,0.0373,0.843,0.0115,0.124,0.572,118.593,183238,4
+Соня Тимофеева,Невечерняя,5dpCZMXC9Ns2X1dzguksGs,0,2022,romance,0.332,0.209,3,-10.862,0,0.0335,0.984,0.0,0.211,0.423,89.569,162301,4
+Lidia Ruslanova,Валенки - 2022 Remastered,4Wv1yZMCRhrNuIqgoOPamk,0,2022,romance,0.489,0.347,5,-8.89,0,0.0529,0.83,0.0,0.34,0.764,88.976,119302,4
+Сергей Зыков,"Ты меня не любишь, не жалеешь",1MrPCJdurAfmIW8cZvpVpD,0,2017,romance,0.448,0.137,2,-15.24,0,0.0516,0.989,3.65e-06,0.0885,0.166,120.756,178867,1
+Александр Добронравов,Дай мне знак,7CAU7LwO2NZWQzdAgt83zo,0,2015,romance,0.51,0.697,11,-3.555,0,0.0366,0.0118,0.0,0.406,0.294,129.946,253352,4
+Сергей Захаров,Пряха,3M9KXZFfzPOKTMgTLhLMTD,0,2006,romance,0.194,0.661,1,-3.896,1,0.0361,0.448,0.00389,0.277,0.336,154.227,172960,4
+Nikolai Erdenko,Brichka (Britzska),46gWTvnI7XNw4aHQZn3aTn,2,2011,romance,0.296,0.796,9,-11.259,0,0.0473,0.333,0.0,0.236,0.755,102.015,189147,3
+Rashid Beibutov,Balaşın Ariyası,5B7TpoKVoFE0RloVEIySmj,0,2001,romance,0.282,0.226,1,-11.074,1,0.0397,0.989,0.0478,0.109,0.22,170.657,255293,3
+Валерий Агафонов,У меня не живут цветы,54NEzntrzVyQ9hkLO1JR3B,0,2017,romance,0.408,0.285,6,-15.862,0,0.0593,0.943,0.00951,0.109,0.0629,138.885,117000,4
+Nikolay Kopylov,Звезды на небе (Stars in The Sky),77Ladv43vy7JzlZ8DQ4ifK,0,2008,romance,0.311,0.212,7,-11.123,1,0.0406,0.989,0.51,0.0947,0.0627,73.434,137840,3
+Alexander Vertinsky,Dzhonni,5Usv3QqHqzYu3YMNGifTNE,1,2006,romance,0.664,0.126,5,-13.159,1,0.164,0.981,0.0,0.121,0.48,107.627,174613,5
+Vadim Kozin,Цыганская венгерка,187zeIQVvPRbe6AZjR4hC0,0,2000,romance,0.369,0.323,4,-14.888,0,0.039,0.983,0.452,0.136,0.36,79.538,284000,4
+Valery Obodzinsky,Настоящая любовь,7lvAxtSxrx04uCePTkgOjJ,0,2018,romance,0.358,0.53,5,-5.502,1,0.0315,0.592,3.09e-06,0.541,0.332,121.459,186440,4
+Павел Михайлов,Случайная встреча,0AfWxuNJBszbB9FIkar5tl,0,2021,romance,0.568,0.198,0,-15.265,0,0.0435,0.931,1.36e-05,0.153,0.613,120.426,184547,4
+Владимир Бунчиков,Привет из Москвы,1nsB9Bw9COXOpwHZHD5iZu,0,2014,romance,0.38,0.459,8,-12.251,1,0.0745,0.969,0.0,0.359,0.522,94.917,197206,3
+Gelena Velikanova,Ja ne toropljus',3UgnZM0LfOvMmbZZi3sOMt,0,2005,romance,0.485,0.512,9,-9.529,0,0.251,0.541,0.0,0.0734,0.77,80.68,147698,1
+Feodor Chaliapin,Elegie,5AsyyJlTpdk3TdDmc0j2ZS,0,2006,romance,0.192,0.0839,7,-21.482,1,0.0367,0.882,0.0627,0.39,0.0775,91.095,259040,4
+Lyudmila Zykina,Волга морем стала,0VomCXnI2nvCsLcDjZoV4g,0,2018,romance,0.351,0.31,2,-10.98,0,0.0339,0.968,2.11e-06,0.103,0.384,89.598,187925,4
+Tatiana and Sergey Nikitin,Dream about the passing train,5Y2XF3q6vJPJmFX2JcnTWy,2,2012,romance,0.362,0.259,6,-15.537,0,0.0805,0.884,1.57e-05,0.138,0.538,171.06,137091,3
+"Группа ""Загадка""",Амурские волны,4HUQVh34QDrGxWTcYe6Nj5,0,2003,romance,0.495,0.149,11,-11.284,0,0.034,0.882,0.0,0.207,0.41,99.903,207787,3
+Klavdiya Shulzhenko,Mama (Mother),0SSIdnDswCafBt2FOqsUR0,0,2013,romance,0.491,0.231,3,-13.447,0,0.0576,0.994,0.000138,0.109,0.497,124.838,212240,4
+Nikolay Kopylov,Песня Пали Рача Из Оперетты «Цыган-Премьер»,3NlzdeBPtuSj89pf6Z1TvG,0,2015,romance,0.279,0.416,2,-12.525,1,0.0426,0.987,0.408,0.282,0.221,80.542,246107,4
+Vika Tsyganova,"Гори, Гори Моя Зезда",5p7p8OcxQZjK1b2XVTQ4om,0,2013,romance,0.374,0.287,9,-9.171,0,0.0877,0.895,0.0,0.237,0.221,82.171,222147,5
+Nikolay Kopylov,Она Как Полдень Хороша…,4zC7IrG7vY9Yu8P8wSEtxv,0,2015,romance,0.385,0.261,8,-12.116,1,0.0333,0.991,0.0121,0.114,0.0931,105.189,153600,3
+Gelena Velikanova,Я не тороплюсь - 2021 Remastered Version,009DZE5shRgOEnMD47h9uW,0,2021,romance,0.493,0.356,9,-15.446,0,0.26,0.293,0.0,0.0648,0.738,86.692,143772,4
+Sergei Lemeshev,Давно в любви отрады мало,18EHSWEIPUft8rgOdYI78O,0,2000,romance,0.339,0.121,9,-11.708,0,0.0507,0.994,0.000272,0.1,0.101,171.091,99227,3
+Kvatro,Позови меня с собой,2ndSIY6A6ErqGOyRByUn4t,13,2019,romance,0.493,0.503,5,-4.92,0,0.0486,0.657,0.0,0.217,0.224,139.294,246575,4
+Тамара Церетели,Когда вас нет,3CQRpQnQWq0Y5Z0voGk7LL,0,2014,romance,0.527,0.103,4,-15.834,0,0.0616,0.981,1.12e-06,0.185,0.212,78.38,143382,5
+Lyudmila Zykina,Круг куста ракитова,7dr5HfJnUvWqzzQ7TyiTNx,0,2018,romance,0.517,0.374,11,-6.522,1,0.146,0.971,0.0,0.306,0.824,143.938,143073,4
+Vadim Kozin,Последний раз,56SefhIyK3jMADEaVutd9n,0,2000,romance,0.307,0.0272,0,-22.891,0,0.0449,0.991,0.00335,0.0592,0.072,172.324,182813,4
+Klavdiya Shulzhenko,Pesnja o juge,34AzLEO64TQOgwX7My8O8e,0,2001,romance,0.544,0.173,1,-11.186,0,0.0863,0.994,0.000448,0.131,0.426,82.547,209059,3
+"Группа ""Загадка""","Холодно, холодно",3YcFAwjDaW7SWUpr3Hjkjl,0,2003,romance,0.521,0.389,4,-7.234,0,0.0478,0.846,0.0,0.0653,0.498,149.541,194627,4
+Vladimir Nechaev,На походном привале,6gVht9kKnZ2aLUMlBpB3TC,0,2014,romance,0.494,0.462,5,-10.364,0,0.0427,0.79,0.0,0.48,0.472,106.824,193305,4
+Maya Kristalinskaya,"Если вам ночью не спится - Из к/ф ""Свиные хвостики""",3MFk1lx9p0QdHoGf0Fcf7t,0,2018,romance,0.476,0.335,0,-8.606,1,0.0347,0.871,0.0,0.193,0.522,116.688,193907,4
+Rashid Beibutov,Nəğmə Dolu Bir Ürəyəm,0aHucGTwdk0z6eSC9Q7t87,0,2001,romance,0.389,0.545,3,-9.857,0,0.0658,0.797,0.000122,0.202,0.486,113.391,295560,4
+Sergei Lemeshev,Россия,3JLRRbJrVrZCFAfKBSNvQe,0,2022,romance,0.353,0.417,1,-7.387,1,0.0484,0.993,0.0132,0.0811,0.435,90.341,163893,4
+Maya Kristalinskaya,I'll wait,4e8Qi8esYcQOdCNow8ffQS,1,2012,romance,0.511,0.122,10,-18.762,0,0.0606,0.923,0.000198,0.159,0.613,144.583,197695,4
+"Группа ""Загадка""","Мама, я доктора люблю",4i6djI19LPOPqCA3hgc3DX,0,2003,romance,0.607,0.424,7,-6.083,0,0.0979,0.895,0.0,0.112,0.965,141.845,92267,4
+Igor Talkov,The Chariot of life,1f2JTwmlvssftahritPPYA,0,2011,romance,0.29,0.125,9,-16.681,0,0.0438,0.943,0.000216,0.167,0.165,65.887,276585,4
+Nikolay Kopylov,Очи Черные,2PdFVUV6dP1ih2E8MqDZGO,0,2015,romance,0.492,0.289,0,-12.758,0,0.0601,0.982,0.00144,0.748,0.225,101.648,153453,4
+Lyudmila Zykina,Фронтовая,6BJZHBFegmIVenACP2GhJk,1,2014,romance,0.356,0.384,9,-9.248,0,0.0405,0.923,0.0,0.308,0.618,89.941,140735,5
+Сергей Зыков,С добрым утром!,5Puk8pYZ0ygChhBtDEAFYu,0,2017,romance,0.348,0.215,0,-15.898,1,0.0461,0.992,0.00902,0.131,0.201,82.323,125813,4
+Kvatro,Bella Ciao,7HaG5yp38G71jppX9puYMv,4,2019,romance,0.493,0.833,9,-3.877,0,0.236,0.209,0.0,0.129,0.43,135.988,182040,4
+Klavdiya Shulzhenko,Молчание - 2022 Remastered,574GbyimlUw3uNMm570dAD,0,2022,romance,0.43,0.117,1,-15.952,1,0.0587,0.982,0.000292,0.128,0.234,127.944,198017,4
+Vladimir Troshin,Морское сердце,4Y87gbrwBRt3mEZRJmL2cc,0,2017,romance,0.325,0.319,8,-12.053,1,0.0421,0.81,0.00291,0.129,0.329,83.392,237061,4
+Иван Скобцов,"Faust, Act I: Scene ""Akh! Vot I Valentin""",3bZGLPX94pQjUo6a4YDPs6,0,2019,romance,0.547,0.116,9,-15.508,1,0.211,0.991,0.0,0.135,0.448,88.372,147178,4
+Nikolay Kopylov,Ради Женщины Сцена Из Оперетты «Веселая Вдова»,3jOTLz6yzBw8ZxTgvUK2Du,0,2015,romance,0.557,0.419,1,-11.089,1,0.102,0.908,0.000264,0.308,0.563,133.254,179640,4
+Maya Kristalinskaya,А мне не грустно,68Qk5pZdpvf2CZJyaaD2Ek,1,2005,romance,0.655,0.218,11,-13.503,0,0.0697,0.853,7.77e-06,0.0916,0.746,158.096,195067,4
+Feodor Chaliapin,Ona Hohotala,3DwJeRbITneWIcIIArGXRd,0,2012,romance,0.344,0.224,8,-10.539,0,0.042,0.991,0.000627,0.142,0.241,92.011,216080,4
+Александр Морозов,Маяк,5ju3cE8Z7f7hAU24k5cgXZ,0,2022,romance,0.508,0.841,2,-3.965,0,0.0514,0.166,0.0,0.0869,0.459,139.921,208987,4
+Vika Tsyganova,Родная улица,0ibZKH2BNCabhKz4nuj4Uv,2,2021,romance,0.734,0.596,11,-8.058,0,0.03,0.365,3.18e-06,0.118,0.588,120.027,209000,4
+Igor Talkov,Три дома,4hnJ0dzxonQs3PrKslHIlQ,0,2013,romance,0.445,0.258,4,-17.589,0,0.0533,0.989,0.0041,0.529,0.268,131.844,256052,4
+Evgenija Shevchenko,Zhivjot moja otrada,3Nz9Sye9xbwokoDkY1m6XN,0,2021,romance,0.289,0.775,6,-2.993,0,0.0526,0.868,0.0,0.9,0.513,81.34,171213,4
+Vadim Kozin,Русая головка,0sPmVWrCXTfYh1pY5htdcv,0,2022,romance,0.563,0.303,3,-14.838,0,0.0948,0.993,0.653,0.254,0.88,99.612,151968,4
+Nikolay Kopylov,I Remember A Charming Sound Of The Waltz,04KhvcGZwzmMMx9tZHkScF,0,2007,romance,0.48,0.148,8,-14.815,1,0.043,0.979,0.0244,0.101,0.112,129.074,193853,5
+Sergei Lemeshev,Una furtiva lagrima (L´elisir d´amore),5mDBzssBeqHm0IbJALGSaB,0,2006,romance,0.247,0.12,10,-17.123,0,0.0435,0.991,7.3e-06,0.109,0.104,64.935,292293,4
+Vladimir Nechaev,Уходят поезда,2Ufmr9HaoWK6vRAcsD0qm5,0,2014,romance,0.485,0.516,5,-11.201,0,0.0447,0.871,4.74e-06,0.518,0.596,119.017,199110,4
+Feodor Chaliapin,"Faust: ""O nuit, étends sur eux ton ombre""",4d0Fs0dFsPhnAW7SfhRc5Y,0,2009,romance,0.245,0.176,1,-13.861,0,0.0355,0.995,0.121,0.113,0.127,70.63,167707,1
+Klavdiya Shulzhenko,Последний бой,4XvQniZMq8kBdznUEDgXCk,0,2020,romance,0.396,0.607,11,-6.868,0,0.0643,0.842,5.23e-06,0.0908,0.534,100.806,195972,4
+Nikolay Erdenko,"Poyte, tsygane...",7fBp6IcSUuUwUJfWnTNH7V,0,2005,romance,0.356,0.287,0,-12.028,1,0.0435,0.713,0.000424,0.347,0.168,81.882,256247,3
+Alexander Vertinsky,Chjornyy karlik,1fb9Mpl7lFXqh34IQWIS1j,0,2006,romance,0.391,0.0305,5,-17.72,1,0.0426,0.995,0.00186,0.121,0.163,76.887,143484,1
+Alexander Vertinsky,Сумасшедший шарманщик,7vKenS928jZxC7MtqG7eZh,0,2018,romance,0.547,0.056,1,-17.842,0,0.19,0.993,0.0,0.259,0.313,88.763,189507,3
+Vika Tsyganova,Гангстер-танго,2dC4b9HtGh3kSGzFr3rpWT,0,2020,romance,0.526,0.757,5,-5.574,0,0.0505,0.328,2.7e-05,0.489,0.269,131.962,229766,4
+Alexander Vertinsky,Бразильский крейсер,0cLJ6Ah0TCScCwYv9ePwQV,1,2022,romance,0.573,0.0176,5,-21.901,0,0.143,0.988,2.42e-05,0.138,0.464,115.94,154215,3
+Pyotr Leshchenko,Vino ljubvi,5Edq6caQSkWEw59BMTyZJa,1,2001,romance,0.62,0.297,5,-10.706,0,0.0535,0.953,0.0,0.078,0.617,109.488,178042,4
+Lyudmila Zykina,Я тебя с годами не забыла,6XZvYq05KdWCTw3yK9uOdZ,0,2019,romance,0.247,0.472,6,-8.889,0,0.0696,0.971,0.000292,0.165,0.13,83.744,184093,3
+Vladimir Nechaev,Снова яблоня цветёт,3T0aoTRyRNW5FNI8Vdkv3B,0,2022,romance,0.344,0.368,6,-8.526,0,0.0367,0.986,4.16e-05,0.151,0.497,75.592,151470,3
+Evgenija Shevchenko,Serdtse na snegu,1b1OtZMiUJcq9cMaWsec6g,0,2021,romance,0.408,0.767,1,-6.061,0,0.0905,0.684,0.0,0.0968,0.687,68.43,232319,3
+Vadim Kozin,Pis'mo iz Magadana v Moskvu,09OSg7fE1Mfz4uAvgdQfDW,0,2001,romance,0.5,0.236,5,-13.005,0,0.239,0.989,1.29e-05,0.115,0.409,91.706,178017,4
+Vladimir Nechaev,Moskovskaja pesnja,23d6zKmET8wDVXzh6DCMkg,0,2012,romance,0.588,0.25,3,-15.672,1,0.0508,0.988,0.0004,0.107,0.841,106.185,166413,4
+Zhenya Shevchenko,Ochi chernye (Black Eyes),0Qbr54oLyQsHthfEwY0Xx4,4,2011,romance,0.41,0.465,0,-14.341,0,0.0937,0.77,0.0,0.0791,0.462,112.197,239307,3
+Izabella Yurieva,Русский паренек - 2022 Remastered,1SaOM2C3xieh9TPkWFCfAI,0,2022,romance,0.726,0.324,0,-8.934,0,0.127,0.989,0.166,0.303,0.791,116.886,122942,4
+Oleg Pogudin,Дорожные жалобы,02vcP6v3YhxjYocj0vdwBo,0,2012,romance,0.446,0.228,4,-11.293,0,0.03,0.397,0.000102,0.222,0.349,101.325,232320,4
+Strongilla Irtlach,"Slushayte, yesli khotite / Listen if You Want To",12WvaHUDVgskoYWWMHYpMt,0,2009,romance,0.412,0.131,0,-17.22,1,0.0526,0.916,0.0,0.106,0.265,74.019,120187,4
+Georgi Vinogradov,Aus alten Märchen winkt es (sung in russian) (Dichterliebe),6ZkA3qBCzBjiQIt4RbNFs2,0,2006,romance,0.553,0.0758,4,-15.725,1,0.0633,0.985,0.0,0.0863,0.184,131.233,183373,3
+Сергей Захаров,Светит месяц,0HEx5h1Bi6w1HTK6IUd3J2,0,2006,romance,0.513,0.781,0,-4.003,1,0.0559,0.107,0.512,0.201,0.837,96.887,202400,4
+Lyudmila Zykina,Отставала лебёдушка,3MJ2TA5nqsxC91HFOhuopx,0,2020,romance,0.301,0.444,8,-9.094,1,0.0427,0.966,0.0,0.124,0.196,81.01,241240,3
+Valentina Ponomaryova,Tolko raz byvaet v zhizni vstrecha,6K73UDIfTyi6PABptFsLIH,0,2021,romance,0.28,0.338,9,-8.162,0,0.0337,0.949,0.00303,0.0796,0.151,87.671,203067,4
+Feodor Chaliapin,Elegy,6NiTO5soiU2hL7B3slFpx6,0,2000,romance,0.358,0.224,2,-13.264,0,0.0337,0.996,0.356,0.118,0.226,137.96,130133,3
+Vladimir Troshin,Sobake Kachalova,6oxXistLlPGObyvzXvQ1Pe,0,2005,romance,0.476,0.201,2,-17.518,0,0.0873,0.953,3.06e-06,0.12,0.363,107.349,191575,4
+Georgi Vinogradov,Жди меня,2nOBrD4to7rgsSXIJB9qC8,0,2014,romance,0.273,0.198,6,-15.665,0,0.0511,0.991,0.0,0.341,0.204,88.607,172407,4
+Pyotr Leshchenko,"Kapitan / Spoj, Nam weter / Schiroka strana moja rodnaja ... [Film Music Medley] - Foxtrot (1937)",6ANduDTnB1wf54ExggWCKW,0,2007,romance,0.74,0.546,2,-6.728,1,0.0612,0.983,0.000572,0.0815,0.85,129.347,170373,4
+Pyotr Leshchenko,Go to sleep my poor heart,0xfDJpwwifUz7JOAUrMTkc,0,2012,romance,0.263,0.269,11,-15.039,1,0.0374,0.964,0.00446,0.111,0.305,103.257,200281,4
+Sergei Lemeshev,Vot Mchitsya Trojka Udalaya,3BuYaF2LkXygWP9CbhnJ1Q,0,2011,romance,0.276,0.349,5,-12.591,1,0.0523,0.939,1e-05,0.148,0.227,90.88,227531,3
+Владимир Бунчиков,Майским утром,7ABB9iDHpHe49iDsZeeua2,0,2014,romance,0.545,0.465,4,-11.891,1,0.0424,0.882,0.0,0.783,0.931,116.056,145773,3
+Lyudmila Zykina,Созвездье Гагарина,4e6yxdshrWZEKH2Xtcf8x2,1,2014,romance,0.351,0.404,8,-12.331,0,0.0408,0.908,0.0,0.471,0.692,104.089,212926,3
+Zhanna Bichevskaya,Kazach'ja byl',1YblRGuELBq0PrxhsQIcok,0,2002,romance,0.528,0.606,9,-5.037,1,0.0274,0.587,0.0,0.102,0.647,124.962,179286,4
+Izabella Yurieva,Сердце мое,2JkpdsJ51ht4bVg7arivcu,0,2001,romance,0.478,0.251,9,-12.72,1,0.283,0.988,0.758,0.121,0.626,82.533,165733,1
+Strongilla Irtlach,Kashka mannaya / Semolina,0irQW5SWBMPpgfupzS58X8,0,2009,romance,0.524,0.273,3,-13.158,0,0.0686,0.907,0.0,0.311,0.792,76.563,128027,4
+Elena Kamburova,Печаль,1LmUC1G5he19m8bd1DHFrX,0,2015,romance,0.393,0.312,9,-9.802,1,0.0319,0.878,3.89e-06,0.112,0.132,111.999,244013,4
+Georgi Vinogradov,Vospominanija,4lCy7EEoHN3gTF0OM8rfIp,0,2001,romance,0.453,0.313,8,-10.116,1,0.0355,0.957,0.454,0.102,0.489,130.233,166443,4
+Vika Tsyganova,Ilya of Murom,3U0rchZlOoXQi71AeuEnXR,0,2011,romance,0.518,0.511,2,-12.6,1,0.0527,0.153,0.0,0.138,0.427,117.001,272666,4
+Valentina Ponomaryova,Zvjozdy na nebe,1oWmhSCCIe3uI8nDQ2icgh,0,2007,romance,0.242,0.295,11,-17.215,0,0.0571,0.958,0.442,0.219,0.0746,88.396,274433,4
+Zhanna Bichevskaya,Я его любила,37xAJS4vcyNhctkipYpW5S,0,2012,romance,0.339,0.0449,1,-21.771,0,0.0781,0.961,0.0,0.628,0.272,183.692,179440,3
+Pyotr Leshchenko,"Skazhite, pochemu",5HmKiqpKau49TferRGA4o4,0,2015,romance,0.433,0.417,5,-8.964,0,0.0548,0.967,9.44e-05,0.103,0.34,112.997,215707,4
+Lyudmila Zykina,Казак уходил на войну,48WGf2smGE9KcOZNaOEKAj,0,2020,romance,0.213,0.274,4,-12.389,0,0.036,0.985,0.000182,0.146,0.135,165.768,206653,5
+Nikolai Erdenko,Только ночью цветы оживают,1VV3LpBoxzxrKsaQx23ypS,0,2000,romance,0.304,0.0918,2,-20.618,1,0.0375,0.939,0.00103,0.242,0.075,50.259,262107,4
+Klavdiya Shulzhenko,Где же вы теперь друзья однополчане,5qqfawN2Fu3mwzH0zFkC4j,0,2020,romance,0.243,0.563,0,-3.957,0,0.0327,0.811,1.17e-05,0.324,0.289,94.853,204032,5
+Zhenya Shevchenko,The Small Box,5VT7w4R0BdQcYDgP5xEJsv,0,2021,romance,0.483,0.774,7,-10.365,0,0.0387,0.763,0.000215,0.0828,0.967,156.059,149600,4
+Elena Kamburova,Sostenuto,3RYyeFs8bxpIRP9zvVFk9c,0,2014,romance,0.528,0.346,7,-9.919,0,0.0264,0.917,0.000754,0.0921,0.144,90.205,211013,4
+Zhanna Bichevskaya,Россия,7am7oQauxa051dWTNq9gEY,1,2000,romance,0.431,0.503,6,-7.432,0,0.0254,0.704,0.0,0.108,0.356,90.829,231507,4
+Сергей Зыков,"Отвори мне, страж заоблачный",34UaqY3cpL2zapQ0wzKLLX,0,2017,romance,0.393,0.112,9,-17.733,0,0.0397,0.994,0.514,0.117,0.0935,71.76,162680,4
+Владимир Бунчиков,"Шумит волна, звенит струна - 2022 Remastered",3qANStBt8lM8mQOsH6xG6s,0,2022,romance,0.379,0.148,4,-18.773,0,0.0522,0.983,0.0117,0.11,0.452,160.482,172200,3
+Feodor Chaliapin,Song of Flea: Song of Flea,4K4CEgUKyrU8OUuKPLqIEv,0,2010,romance,0.193,0.382,8,-9.274,1,0.0411,0.906,0.24,0.125,0.0743,95.328,718320,3
+Lidia Ruslanova,"Kak so vechera porosha, Ch. 1",0cpViPKMRshI3BDjKz57TM,0,2005,romance,0.617,0.328,3,-13.391,1,0.517,0.974,0.0,0.338,0.861,142.75,201260,4
+Pyotr Leshchenko,Караван,3rqlYpXuGVOA85Ran8IN96,0,2017,romance,0.298,0.209,4,-12.013,0,0.0487,0.98,2.77e-05,0.192,0.171,90.109,212637,3
+Maria Maksakova,Granovitaya Palata in the Kremlin (Boris Godunov),1IQwCJkvviVvlDHstD6d1D,0,2006,romance,0.396,0.245,8,-16.435,1,0.0599,0.977,2.16e-05,0.62,0.299,130.58,291693,4
+Кето Джапаридзе,Скажи Ты Мне - Remastered,7zhROOfLZDGT63shQvMq9N,0,2013,romance,0.403,0.1,9,-17.339,1,0.0473,0.994,2.2e-06,0.132,0.44,70.258,127060,3
+Strongilla Irtlach,Yesli serdtse prosit uvlechenya / If the Hear Longs for Passion,5EFuxhn9RnFaOMi3b8LT1S,0,2009,romance,0.387,0.101,2,-17.432,1,0.0496,0.915,0.0,0.111,0.398,77.391,184000,4
+Pyotr Leshchenko,"Пой, цыгане",5mwuNFeJ2R29kilbmMMORY,0,2014,romance,0.512,0.156,8,-16.126,0,0.0996,0.927,0.0,0.467,0.343,112.485,216594,3
+Igor Talkov,Господа-демократы,26EYBz1sTq2HwwuzG3CVDW,15,2017,romance,0.757,0.782,9,-6.877,0,0.224,0.695,0.0,0.86,0.902,65.94,228299,4
+Zhenya Shevchenko,"Эх, была, не была",0xapcxU3mSNJsdChLFxIiF,0,2002,romance,0.458,0.353,4,-14.255,0,0.0439,0.67,0.0,0.136,0.66,113.491,135587,4
+Николай Рыбников,"Старый клён - Из кинофильма ""Девчата""",0mieSr9q53qPaZF59ANa6v,2,2021,romance,0.296,0.38,3,-7.879,0,0.033,0.842,3e-05,0.112,0.473,133.036,208315,4
+Klavdiya Shulzhenko,Черноморская песня,2S7QvIlTp9jCglCBpzJxKB,0,2019,romance,0.365,0.203,9,-13.533,0,0.0789,0.923,0.0,0.355,0.221,87.187,164096,3
+Nikolay Nikitskiy,Odinokaja garmon',4lHRjqhliGlVyw7BoJK65Y,0,2002,romance,0.362,0.175,1,-12.094,0,0.0453,0.993,0.74,0.382,0.424,167.216,161847,4
+Lyudmila Zykina,Жена моряка,3UKa8RvhKAC6uDoIzmiq26,0,2018,romance,0.218,0.406,7,-7.531,1,0.0451,0.978,1.59e-05,0.258,0.237,73.736,183719,4
+Sergei Lemeshev,Родина,774EXreNUayKFz7sm03EBs,0,2000,romance,0.268,0.357,0,-10.928,1,0.0425,0.959,3.23e-06,0.117,0.186,129.711,167533,3
+Валерий Агафонов,Белой акации гроздья душистые,1aPc58m1xWJDBxpzscB40I,0,2003,romance,0.369,0.122,9,-19.31,0,0.0382,0.989,0.308,0.0921,0.236,84.655,132827,4
+Vladimir Nechaev,Letnjaja pesenka,6Jf8pC8UXIrdsABYbIApR4,0,2005,romance,0.658,0.484,6,-6.911,0,0.182,0.986,0.00038,0.165,0.711,84.32,189735,4
+Сергей Захаров,Свеча горела,47zqzNScmBRhRnc2ec51Ut,0,2022,romance,0.166,0.501,3,-7.333,1,0.034,0.263,2.36e-06,0.0904,0.459,141.87,191753,3
+Sergei Lemeshev,"Zima, No. 12, Op. 54 (Winter)",7tgOjEvYnSsMY1JNJEClRc,0,2008,romance,0.556,0.0424,4,-19.513,1,0.193,0.994,1.22e-05,0.41,0.462,170.916,138133,4
+Lyudmila Zykina,Что от терема до терема,4H1fe8yXmA83vNay14AJ71,1,2020,romance,0.184,0.296,9,-11.393,1,0.0355,0.986,0.000102,0.0639,0.0566,88.877,276093,4
+Izabella Yurieva,Только раз,6Qd0dFRbCc8H4TCYetpEXZ,0,2014,romance,0.402,0.132,8,-13.03,0,0.0378,0.99,8.26e-05,0.336,0.198,105.573,204497,1
+Pyotr Leshchenko,At the Circus,0nkl96R7j7jOih5HO5UWQC,0,2012,romance,0.366,0.257,9,-14.349,0,0.143,0.97,0.0,0.318,0.243,84.585,224261,5
+Nikolay Kopylov,Shine My Star,5CGg44xHEEHPAFenomUuFc,0,2007,romance,0.491,0.337,2,-8.519,0,0.0494,0.97,0.00353,0.224,0.217,126.077,188467,4
+Feodor Chaliapin,Song of the Volga boatmen (sung in russian),68loA7bfE6H3jKJjjQuPDk,0,2006,romance,0.304,0.0898,7,-18.639,0,0.0318,0.986,0.000221,0.114,0.534,80.719,210173,4
+Vika Tsyganova,Приходите в мой дом,0WHe3nofDO61EhADWHy87k,0,2015,romance,0.626,0.693,4,-6.545,0,0.0436,0.409,0.0,0.482,0.842,86.791,211653,4
+Ivan Rebroff,Poshalej Ty menja,7fpmgcFH4hnoi2OBENyE7Z,2,2011,romance,0.203,0.348,9,-11.749,0,0.0322,0.98,0.00264,0.113,0.272,88.516,219440,3
+Алёша Димитриевич,Звездочка,6qfjsmORmVO80YojXM1ZHR,0,2000,romance,0.499,0.379,7,-18.118,1,0.473,0.862,0.0203,0.958,0.947,72.558,116227,3
+Владимир Бунчиков,Песня о фонарике - 2022 Remastered,6qVXPbiu2NEde32NNzbGCP,0,2022,romance,0.344,0.292,3,-13.245,1,0.0321,0.976,4.99e-06,0.186,0.602,85.944,197900,4
+Strongilla Irtlach,Ya Vas lyubil v minuty uvlechenya / I Loved You in the Time of Passion,3wBrOMfhOrl7AtDS6TliqX,0,2009,romance,0.363,0.105,5,-17.073,1,0.0376,0.938,0.0,0.08,0.228,86.65,163400,4
+Valery Obodzinsky,Вечный вальс,7q0qCrT35agCly8rd6Afj8,0,2018,romance,0.372,0.752,5,-5.548,0,0.135,0.522,0.00669,0.178,0.67,104.914,201737,3
+Klavdiya Shulzhenko,Partizany (Partisans),4WpBXFONu21r3LxNmxT84z,0,2013,romance,0.494,0.204,0,-13.767,0,0.0757,0.991,7.25e-05,0.118,0.507,115.52,182467,4
+Михаил Иванов,Тăван чĕнчĕ хăнана,78Vd4hElYSrAtjpbF6WXO9,0,2020,romance,0.634,0.771,2,-4.015,0,0.0399,0.799,1.1e-06,0.302,0.806,110.026,199020,4
+Sergei Lemeshev,Весенние Воды,7rlF09Vx9oREQZqaafrvZX,2,2013,romance,0.354,0.335,3,-8.443,1,0.0361,0.99,1.49e-05,0.135,0.234,129.448,123387,4
+Klavdiya Shulzhenko,Товарищ гитара,6rFOV3nowPdde2XeAKMpnb,0,2021,romance,0.449,0.277,0,-11.034,1,0.0683,0.979,4.06e-05,0.101,0.28,96.78,285480,4
+Ivan Kozlovsky,Novogodnjaja pesnja,3A9NtLbepTl2masByZBusz,0,2015,romance,0.495,0.331,1,-8.923,0,0.0458,0.707,2.97e-06,0.268,0.335,124.199,116311,4
+Feodor Chaliapin,Nightingale,7vUwOGc6VcrZOXIbaGGqxP,0,2000,romance,0.496,0.121,1,-14.097,1,0.0439,0.996,0.000356,0.139,0.178,70.146,203600,3
+Lyudmila Zykina,За окошком свету мало,1h4RtHhQo5dGjAxoicsZC6,0,2018,romance,0.191,0.311,2,-8.765,0,0.0388,0.973,4.38e-06,0.527,0.369,76.147,227814,4
+Gelena Velikanova,Ты живёшь в другом городе,4JQoSi6IIQwvFSHbNFJhPv,0,2019,romance,0.519,0.313,4,-9.422,1,0.061,0.723,0.0,0.107,0.433,82.949,102467,4
+Vladimir Nechaev,Kak poydu ja na bystruju rechku,3eGnx7nDaB0sLxfrJtQJyH,0,2005,romance,0.231,0.281,9,-12.447,0,0.0597,0.989,0.0933,0.124,0.255,77.352,392113,4
+Gruppa Express,"Зачем тебя я, милый мой, узнала",26bvpiGUHTs24m9L6oSxEE,0,2020,romance,0.692,0.554,11,-6.526,0,0.026,0.374,0.0,0.0894,0.924,156.062,229680,4
+Klavdiya Shulzhenko,Nachalo I Konets (The Beginning and the End),5RRTLjnWAfNKIyGNLAili5,0,2013,romance,0.502,0.0521,11,-20.53,1,0.115,0.994,0.0273,0.109,0.46,85.711,248813,4
+Sergei Lemeshev,Корольки,1HHpi1xkmxrcD1ImEz0dOG,0,2000,romance,0.487,0.0765,2,-20.303,1,0.0559,0.988,0.0,0.132,0.184,126.106,262667,3
+Сергей Зыков,Королева красоты,5LYOGueUsWMDoTzyovDjQY,0,2020,romance,0.594,0.712,0,-6.51,0,0.069,0.87,0.0,0.0889,0.811,82.818,142347,4
+Feodor Chaliapin,Song of the Flea,1oDfEgzJHnLkpVEMLIaHZA,0,2009,romance,0.446,0.194,5,-14.139,1,0.136,0.989,0.0126,0.1,0.362,82.403,178227,4
+Marija Narovskaja,Dzhigune,4WbRMiCgLXIGCJ9z7MmiQl,0,2006,romance,0.63,0.273,10,-12.15,0,0.185,0.993,0.222,0.118,0.532,85.467,114094,4
+Rashid Beibutov,Dan Ulduzu,5XRdSjU8OJaPjgmnHaBhHo,4,2001,romance,0.352,0.0882,7,-19.372,0,0.0407,0.994,9.91e-06,0.0736,0.23,67.534,238200,4
+Vladimir Nechaev,"Спасибо, Великий Учитель",41N3Un7cXuEVtT8GwmheVb,0,2014,romance,0.333,0.245,5,-14.394,1,0.0392,0.949,9.64e-06,0.532,0.373,88.596,187128,4
+Zhanna Bichevskaya,Stanem pered tsaritseju Nebesnoju,7KbsK6G9TOWcQdfk3K9GTM,0,2007,romance,0.302,0.525,4,-7.347,0,0.0303,0.889,0.0,0.0866,0.391,111.189,509045,4
+Sergei Lemeshev,Когда я на почте служил ямщиком,0JAkmfboK2DdINLYvjKHBX,0,2022,romance,0.306,0.265,1,-15.967,1,0.106,0.968,0.0,0.218,0.46,77.215,308133,4
+Olga Voronets,Zhivjot moja krasotka,6tVdJKQQU04k2H5R13egtr,0,2002,romance,0.284,0.381,7,-10.268,0,0.0471,0.912,0.0,0.772,0.317,84.308,100498,4
+Yuri Morfessi,Как цветок душистый,6HPb5fGZ8jtCwQv6zZjpBi,0,2014,romance,0.452,0.118,6,-15.773,0,0.0668,0.996,0.00167,0.211,0.451,85.342,168877,4
+Надежда Обухова,Я встретил вас,3JrR2m73VhWud7oZ04jvix,0,2001,romance,0.398,0.171,6,-15.741,1,0.049,0.995,0.00453,0.11,0.214,95.973,182027,3
+Стронгилла Иртлач,Я не скажу тебе,27FP8rTGpd8kZI9vGYkGOU,0,2014,romance,0.311,0.211,7,-16.622,1,0.0484,0.981,2.4e-05,0.187,0.309,74.156,282121,3
+Rashid Beibutov,Qvarde Keluna - Canlı Ses,3Em7kRT9nmJzMZJTZSLJx1,0,2001,romance,0.485,0.438,5,-14.677,0,0.462,0.994,0.116,0.655,0.384,139.814,292373,4
+Ivan Kozlovsky,"Faust, Prologue: Faust's Recitative ""No mne Bog vozvratit li vse?""",6I3OkSWJCIoVyA2TUXte2l,0,2019,romance,0.489,0.245,0,-11.41,1,0.0841,0.981,0.0,0.55,0.397,90.94,85396,4
+Rashid Beibutov,Sənindir,7sqHvkOhKAEmtRwog87yAL,0,2001,romance,0.429,0.295,6,-9.988,1,0.0325,0.981,0.00854,0.322,0.592,65.398,202360,4
+Nikolay Erdenko,Tsyganskie napevy,4sheUeMoalIvNRt5mnEO8p,0,2005,romance,0.31,0.306,7,-13.011,0,0.0449,0.91,0.309,0.0546,0.236,179.211,394003,4
+Feodor Chaliapin,Верую,6gU9AYpRtoeVcXURMf9XO8,0,2006,romance,0.37,0.323,10,-13.426,1,0.0789,0.995,0.382,0.255,0.461,84.771,241253,3
+Сергей Зыков,Улетели листья,7BmINw0sHvcuQXNl2Z9Gya,0,2021,romance,0.18,0.223,9,-13.684,0,0.0351,0.981,0.128,0.103,0.117,88.159,167001,3
+Feodor Chaliapin,Эй ухнем,5BMZvo9W9vL1gV9Mx8T0Ig,0,2022,romance,0.251,0.198,7,-16.083,0,0.0311,0.805,9.84e-06,0.0701,0.526,79.054,205773,4
+Галина Карева,Ночь светла,2eMGjGD6INQemMSM9kL9Wu,0,2014,romance,0.48,0.225,4,-14.758,0,0.0424,0.948,3.09e-06,0.102,0.139,108.507,140507,4
+Lyudmila Zykina,Под дугой колокольчик поёт,63bfsIFEeGvmEJjrbUDxqU,0,2013,romance,0.359,0.47,9,-6.794,0,0.0686,0.965,0.000439,0.314,0.681,171.658,148067,4
+Zhenya Shevchenko,Dve gitary (Two Guitars),7c2R11YWivUc6Pa9IuXT9Y,0,2011,romance,0.422,0.482,2,-13.915,0,0.101,0.806,0.0,0.349,0.601,98.512,174933,3
+Maya Kristalinskaya,Tekstil'nyy gorodok,3oBd7Dim83c2jTH5PUG2sx,1,2001,romance,0.448,0.389,0,-6.935,1,0.0401,0.838,0.0,0.339,0.476,107.48,134497,4
+Gruppa Express,"Любо, братцы, любо",2APTjF5ZCj9snHLGiL7fSl,1,2020,romance,0.68,0.624,7,-7.625,1,0.0281,0.508,0.0,0.111,0.966,159.96,270947,4
+Vladimir Nechaev,Elegija,1i1PfbdYZHZ7grLnLBFb2b,0,2006,romance,0.294,0.189,4,-11.732,0,0.0417,0.985,0.0,0.108,0.176,87.369,233859,3
+Тамара Церетели,Звездочка,5bvUeiY8rVUwK8DVjsB45H,0,2014,romance,0.586,0.165,4,-15.564,0,0.261,0.992,0.00102,0.165,0.747,95.864,143614,4
+Pyotr Leshchenko,Мальчишечка,62bRuXyuzQ8WfeeyEDkSPn,0,2017,romance,0.465,0.209,10,-10.464,1,0.0451,0.893,1.72e-05,0.0698,0.602,77.216,178103,4
+Sergei Lemeshev,Between the Steep Banks of the River,2gZ45Yb8HkHKRFGRZXZ04v,0,2012,romance,0.287,0.369,4,-13.136,0,0.0466,0.983,0.153,0.341,0.354,102.007,255453,4
+Lidia Ruslanova,Mal'chishechka-bednjazhechka,0LldWwoEP6Jjh35NyQ3HGp,0,2005,romance,0.325,0.212,7,-14.849,0,0.164,0.99,2.85e-05,0.134,0.464,78.975,175964,4
+Klavdiya Shulzhenko,Уличный певец,0wiYvNkgoTo1qpIoZdfpc3,0,2004,romance,0.437,0.275,8,-17.111,1,0.0654,0.984,0.0161,0.239,0.682,82.823,251132,4
+Igor Talkov,The people with bandaged heads,5FbnFHPZlE5jmutUr0rqW4,0,2012,romance,0.539,0.429,9,-12.745,0,0.0377,0.24,0.000106,0.406,0.581,77.87,378723,4
+"Группа ""Загадка""",Первая любовь,1Mf2v4uKGP5pfcdYWJvo9B,0,2003,romance,0.658,0.412,10,-5.865,0,0.0585,0.775,0.0,0.106,0.684,106.876,157747,4
+Алёша Димитриевич,Попурри на цыганские темы,7MIERToUf9uOg6eEr2uiem,0,2000,romance,0.43,0.372,0,-17.918,0,0.531,0.858,0.00757,0.757,0.813,177.583,223987,4
+Georgi Vinogradov,Ein Jüngling liebt ein Mädchen (sung in russian) (Dichterliebe),0g9eoVIMrvHk6jnIYJuuFP,0,2006,romance,0.693,0.115,3,-14.843,1,0.0761,0.99,6.42e-05,0.145,0.442,121.402,59960,4
+Gelena Velikanova,Pesnja synu,3bedFEHIqw0QInpOpcNDx7,0,2005,romance,0.412,0.317,2,-11.999,0,0.0313,0.948,0.12,0.123,0.382,115.32,128218,3
+Михаил Вавич,Очи черные,5RFFiEwCqc0ZIRdcYu8rjy,0,2015,romance,0.47,0.307,4,-9.468,0,0.0579,0.995,9.27e-06,0.133,0.433,91.339,128213,4
+Rashid Beibutov,Çoban Qara,7bUTJguhMSBoUx24OS87v6,0,2001,romance,0.292,0.242,7,-10.902,1,0.0364,0.987,0.32,0.0721,0.186,87.241,220600,4
+Андрей Петров,Осенний марафон,0oZpvan20mgKbr8N7fGjNA,1,2019,romance,0.515,0.215,0,-18.561,0,0.0369,0.945,0.488,0.156,0.462,127.257,179920,4
+Zhenya Shevchenko,"Coachman, Don't Ride the Horses",20vulXUIiyGxEUTAd5i3bg,0,2021,romance,0.449,0.451,7,-13.223,0,0.0603,0.72,0.0,0.112,0.687,101.662,223000,3
+Vika Tsyganova,Ангел Мой,1UiyBmDPeSN1YEbPZZbL7m,0,2013,romance,0.51,0.479,4,-14.696,0,0.0728,0.719,3.08e-06,0.0737,0.717,153.362,299733,4
+Sergei Lemeshev,Skazhite devushki,6mZ89HR4GIFpj61MouQLFP,0,2015,romance,0.336,0.304,1,-8.047,0,0.0311,0.987,0.0,0.103,0.184,94.765,198040,3
+Lyudmila Zykina,Москва-река,1wdkTsUQVkRNTjsQLoG3Mu,0,2020,romance,0.268,0.383,0,-10.521,0,0.0366,0.966,0.138,0.137,0.199,133.525,306733,3
+Sergei Lemeshev,"Farewell, My Joy (Live)",6Eu6RmT2opqeLzUtbXkTWg,0,2020,romance,0.195,0.147,0,-20.204,1,0.0558,0.982,1.6e-06,0.369,0.0863,171.794,193920,4
+Сергей Захаров,Когда бы не было тебя,1aOfYg35hPWuGYYmagJadm,0,2010,romance,0.374,0.535,6,-11.088,1,0.09,0.473,0.000965,0.0832,0.475,90.552,213173,4
+Elena Kamburova,По смоленской дороге,0YleLKlGZDvrFQCjvKtjdo,1,2015,romance,0.43,0.0396,7,-25.489,0,0.0494,0.987,0.00741,0.0929,0.182,104.568,192907,5
+Vladimir Troshin,Nochnoy pod'ezd,1u2BImZsbSxHRMbK3G0Qgx,0,2005,romance,0.463,0.28,9,-15.37,0,0.0807,0.85,0.000425,0.122,0.54,80.517,236722,4
+Zhanna Bichevskaya,Kon' boevoy,2ewKb5WhzMOuMPVyFop1Vq,0,2007,romance,0.549,0.502,7,-6.01,0,0.0249,0.674,0.0,0.22,0.526,90.97,166324,3
+Valery Obodzinsky,Eti glaza naprotiv,1dDAsf0ommQgSrV6ZFdLXQ,0,2015,romance,0.428,0.572,1,-6.573,1,0.0329,0.772,0.00018,0.23,0.601,110.878,210093,3
+Elena Kamburova,Любовь и сострадание,46oxLeSFhWADty7kqCvQu8,0,2015,romance,0.304,0.295,9,-9.206,1,0.0295,0.979,1.51e-05,0.111,0.109,105.571,108760,3
+Дмитрий Харатьян,Русская тоска,1fR7OkXFVzpkFOiCoDRpib,0,2019,romance,0.317,0.711,9,-6.775,0,0.252,0.368,0.0,0.346,0.324,77.514,310902,4
+Nikolay Erdenko,You're Sick,4FzTBCAtOuKoke6oXkchgt,0,2022,romance,0.546,0.402,2,-19.23,1,0.0493,0.689,0.0,0.0659,0.375,110.316,289240,4
+Gelena Velikanova,V Sibiri daljokoy,23ID3vr9aWhoDf5onhCmhy,0,2005,romance,0.524,0.325,3,-7.883,0,0.0488,0.974,2.46e-06,0.126,0.549,122.786,189095,4
+Vladimir Nechaev,Песня боевых друзей,3Se0EzgViuw7My7MUfbqB2,0,2014,romance,0.649,0.41,9,-12.412,0,0.24,0.968,0.0,0.564,0.928,136.199,177794,4
+Nikolay Kopylov,Милая,1DHQp3XEer6Ph69DI1mjlm,0,2015,romance,0.497,0.326,9,-8.412,1,0.111,0.98,3.21e-06,0.115,0.236,81.541,117387,5
+Alexander Vertinsky,Злые духи,5YBrS2tHGMebbzs62fKfGU,4,2018,romance,0.571,0.0634,6,-18.032,0,0.181,0.994,0.0,0.276,0.292,92.232,174333,4
+Ivan Kozlovsky,"Boris Godunov: Act III, ""Duo Marina et Dimitri""",3YQyUDZZqFTNPmxKASeIHI,0,2013,romance,0.316,0.22,5,-16.259,0,0.058,0.96,5.36e-06,0.193,0.239,88.008,659267,4
+Zhanna Bichevskaya,"Kazach'ja pritcha (Oy, to ne vecher...)",6odkki70GycLWFdk7dsCMP,1,2021,romance,0.426,0.429,9,-4.707,0,0.028,0.897,5.49e-06,0.106,0.347,72.495,170107,4
+Feodor Chaliapin,Стенька Разин,1kkkC5ytsrr00j4oXt13Bv,0,2022,romance,0.441,0.207,5,-14.581,1,0.0506,0.892,0.0,0.15,0.309,81.314,239667,3
+Oleg Pogudin,Молитва,33au9UrTea2ZjqFGK6F8gG,0,2021,romance,0.352,0.0943,7,-14.444,1,0.0381,0.969,1.88e-06,0.111,0.0621,103.073,133040,4
+Georgi Vinogradov,Марш лётчиков,0qvLJGLZsC8A9MzUEqkCum,0,2014,romance,0.684,0.23,5,-11.457,0,0.0476,0.962,0.0,0.231,0.86,116.909,158730,4
+Olga Voronets,Gljazhu v ozjora sinie,3Ttz2RbIFGxY8CEzYPbplI,1,2002,romance,0.37,0.43,8,-9.986,0,0.0496,0.967,9.26e-06,0.265,0.366,87.35,242713,4
+Александр Добронравов,Удар ниже пояса,3BgFHxmbF7c3ma9OvhlLUg,0,2019,romance,0.577,0.768,5,-3.822,1,0.033,0.0231,1.77e-06,0.199,0.256,133.997,222540,4
+Vladimir Troshin,Человек беспокойного счастья,1CSjK17lqMLG26q2rctYww,0,2018,romance,0.452,0.323,0,-12.092,1,0.0787,0.915,9e-05,0.182,0.35,111.405,176797,4
+Igor Talkov,You're There!,7Gz8hcuOGsVnKe2SHGLoQM,0,2013,romance,0.267,0.616,9,-4.201,0,0.0426,0.421,1.07e-05,0.132,0.214,97.263,201273,3
+Oleg Pogudin,"Ах ты душечка, красна девица",5MKWkF3O93ECY9tjhBaRf6,0,2012,romance,0.365,0.278,9,-8.55,0,0.0385,0.955,0.0,0.182,0.277,82.394,133507,1
+Oleg Pogudin,Дорогой длинною,3qdAJMJnBovny35Nh6AUnZ,1,2021,romance,0.472,0.305,10,-14.156,0,0.0527,0.973,8.28e-06,0.0793,0.3,131.001,215667,3
+Rashid Beibutov,Dağ Yolları İlə,08vEEoDca1QACVdKATCk5m,0,2001,romance,0.565,0.477,7,-13.76,1,0.0669,0.901,0.109,0.122,0.633,92.03,170200,4
+Nikolai Erdenko,"Gori, Gori, Moya Zvezda",7BRzFUWzgpHBLrEkyeLCKp,0,2004,romance,0.313,0.127,4,-16.324,0,0.0487,0.963,0.00108,0.0665,0.133,157.223,194827,3
+Владимир Бунчиков,Наш флаг,17e6WvOq5k4Zakle7lGC6I,0,2014,romance,0.465,0.323,2,-13.734,1,0.0334,0.499,0.0,0.102,0.527,95.597,160239,4
+Vladimir Nechaev,"Eto chto zhe, ot chego zhe",6AOMUIhi5332Dc5NyGQIRv,0,2005,romance,0.527,0.413,4,-6.942,0,0.0267,0.985,0.0659,0.33,0.551,96.532,180736,3
+Сергей Зыков,Письмо матери,561wWIXEis6V805bzeo9hT,0,2020,romance,0.369,0.216,9,-14.538,0,0.0391,0.966,0.00101,0.0828,0.231,111.337,314907,4
+Vika Tsyganova,"Не для тебя - Live at Crocus City Hall, Moscow, 2018",6PGGaB77xBP2v1s2byFKz7,0,2021,romance,0.414,0.373,5,-14.461,0,0.044,0.214,8.16e-06,0.705,0.112,79.962,237490,4
+Татьяна Комова,Не смущай,0RplRB9QrzVBitbeD6kc9U,0,2004,romance,0.323,0.0889,9,-22.755,0,0.0351,0.984,0.0544,0.0946,0.0925,71.362,161907,3
+Nikolay Kopylov,"Эх, друг, гитара (Oh, Guitar, My Friend)",2fWbiM0z62m7X5TdODxyXc,0,2008,romance,0.352,0.362,5,-10.025,0,0.0919,0.855,0.000334,0.314,0.455,183.901,181547,4
+Maya Kristalinskaya,Возможно,5v01XvBoU9wW5fkezbEL4c,2,2018,romance,0.314,0.309,9,-16.419,0,0.0472,0.553,2.13e-06,0.102,0.185,81.265,198253,4
+Izabella Yurieva,"Капризная, упрямая",2kiCkJlPr8dds0h40QJxIN,0,2000,romance,0.434,0.118,10,-13.106,0,0.0418,0.974,3.33e-06,0.0881,0.178,84.921,207200,5
+Klavdiya Shulzhenko,"Звёзды милой Родины - Из к/ф ""Весёлые звёзды""",3JP5jWAGHhHd9tLzDl2mSf,0,2017,romance,0.295,0.1,1,-17.466,1,0.0429,0.991,0.0632,0.122,0.114,69.545,223112,4
+Lyudmila Zykina,Тёмно-вишнёвая шаль,6GIoYgnfrGwAevxUq7RdLp,0,2020,romance,0.236,0.394,2,-8.814,1,0.0385,0.974,0.0,0.0929,0.118,90.528,220400,3
+Pyotr Leshchenko,Чубчик,5i4Z74HlkVQYm8kiCLVej7,0,2014,romance,0.533,0.212,0,-14.611,0,0.0587,0.961,0.0,0.404,0.484,94.305,171524,4
+Lidia Ruslanova,Valenki,3EmHErlRS9N5FNbFS51tNY,0,2005,romance,0.598,0.0791,7,-15.947,0,0.285,0.995,0.000434,0.258,0.757,132.031,145135,4
+Pyotr Leshchenko,Скучно,1h0blfbQGOwiEzPdJgQo9w,0,2014,romance,0.336,0.229,10,-16.104,0,0.0787,0.988,0.0,0.289,0.181,82.287,181091,3
+Vadim Kozin,"No ja znaju, ty ljubish' drugogo",2xRdvPX2IrKELYj9WvshTp,0,2001,romance,0.488,0.156,0,-11.457,0,0.0922,0.981,0.00855,0.116,0.402,130.864,164000,5
+Nikolay Kopylov,Живет Моя Отрада,2CnEuyxqughmVIeRwWdCdN,0,2015,romance,0.526,0.526,2,-11.553,0,0.193,0.985,0.000768,0.689,0.554,125.302,96493,3
+Lyudmila Zykina,Ty vospoy v sadu solovushka,3bTRCR2HhsXBsDVcDsMlmH,0,2004,romance,0.513,0.351,9,-10.274,0,0.0462,0.932,0.0,0.121,0.546,124.8,151723,4
+Vadim Kozin,"Smeysja, smeysja gromche vsekh",0CzptLVu8meMD9m5jKpueg,0,2001,romance,0.53,0.241,7,-11.996,0,0.119,0.995,1.1e-06,0.112,0.63,81.853,190031,4
+Lyudmila Zykina,Song About Bread,03z9LzyeLmFXqMXsLzKF0J,0,2010,romance,0.225,0.361,0,-11.187,1,0.0485,0.941,4.04e-06,0.363,0.221,78.574,334002,4
+Nikolai Erdenko,Глупо я исделал,2Xg1fNxl7pd9VPEy53IMTm,0,2000,romance,0.632,0.386,0,-17.669,1,0.164,0.372,0.0,0.457,0.724,92.306,221253,4
+Oleg Pogudin,Зачем сидишь ты до полночи,5r5jEU00M4kywPMXN5eZnZ,0,2012,romance,0.378,0.23,4,-9.69,0,0.0347,0.977,9.03e-05,0.0966,0.166,99.296,228747,4
+Ivan Kozlovsky,I met you,5mzt6hLAkHE8NGXEvTfOg5,0,2012,romance,0.261,0.0662,2,-17.188,0,0.0407,0.963,0.00221,0.0729,0.0508,129.98,667220,3
+Nikolai Erdenko,Ko vsem chertjam (Go to All Hells),0gvSVuzDcpi1tSXEBKVhYY,0,2011,romance,0.459,0.529,11,-9.352,1,0.153,0.284,0.0,0.282,0.847,75.315,188893,4
+Vika Tsyganova,Андреевский Флаг,0ZfPsVxwx7UW3916fsdqcG,0,2013,romance,0.67,0.496,7,-14.209,0,0.0362,0.12,0.0,0.334,0.501,128.041,369200,4
+Pyotr Leshchenko,"Всё, что было",6SJzMepaG4t5BBZz1VRkMJ,0,2014,romance,0.53,0.291,5,-14.365,0,0.0379,0.994,0.186,0.379,0.458,131.816,164767,4
+Alexander Vertinsky,Bez zhenscin,5fV040YyuyfuJGAwRizpb9,3,2006,romance,0.5,0.164,9,-15.555,1,0.23,0.982,0.0,0.968,0.199,77.927,227057,5
+Alexander Vertinsky,У высокого берега,0IZpgf3iMHtSjzaa3M1iYA,1,2018,romance,0.432,0.0656,2,-15.677,0,0.103,0.99,0.00029,0.0707,0.113,96.471,136000,4
+Павел Михайлов,Как же мне забыть,2OtZ3kTc3TZNSiA0Qd60oj,0,2021,romance,0.466,0.196,0,-18.849,1,0.0444,0.986,0.015,0.118,0.51,102.383,164307,4
+Vadim Kozin,Ja tak ljubil Vas,5SUyRumULKNFT9OUVoUuCO,0,2006,romance,0.525,0.0109,3,-25.634,1,0.107,0.973,0.0,0.162,0.166,117.893,194352,4
+Pyotr Leshchenko,Katia,5him1vP4AdjK9kenWJtciS,0,2012,romance,0.706,0.406,11,-12.459,0,0.0469,0.988,0.17,0.109,0.853,124.701,158067,4
+Anatoliy Aleksandrovich,Pod oknom cherjomukha kolyshetsja,3eXxMliHFpwBUKgDVcJDLq,0,2006,romance,0.343,0.281,4,-14.805,0,0.0615,0.976,1.27e-05,0.594,0.379,70.593,179681,4
+Vladimir Troshin,Нелегко расставаться,0N3fMBeHrVVaPIJtha6LuE,0,2018,romance,0.393,0.386,0,-9.503,0,0.0392,0.93,0.000124,0.176,0.611,108.827,153861,4
+Pyotr Leshchenko,Серенада,1gks8HVTZh1LzQDV0ZOfbD,0,2017,romance,0.331,0.267,2,-11.993,1,0.0775,0.988,0.023,0.101,0.384,84.428,197616,4
+Klavdiya Shulzhenko,Nachalo i konets,2B0PMgsJFQirfSbunq2K6s,0,2001,romance,0.489,0.16,11,-13.351,1,0.277,0.994,0.00742,0.188,0.533,75.206,194232,3
+Nikolay Kopylov,Только раз (Only Once),0OGpXbNkkDtar41gyrRznt,0,2008,romance,0.23,0.303,4,-8.662,0,0.0402,0.857,0.00318,0.244,0.209,174.767,270480,3
+Nikolay Kopylov,Everything As Before,0WTEXYlbAxdJaGa12HTNjW,0,2007,romance,0.432,0.184,9,-14.354,1,0.0774,0.984,0.0027,0.0635,0.141,88.015,217240,4
+Maria Maksakova,Стелется и вьется,4DzcpKGLiMBrixWzPGXhpg,0,2014,romance,0.5,0.411,5,-9.057,1,0.0561,0.985,0.0,0.629,0.647,119.008,117561,4
+Alexander Vertinsky,Pjos Duglas,6Ek6CSVPT7zbrWOvPNHHbq,1,2006,romance,0.536,0.0719,11,-18.737,0,0.293,0.992,0.000274,0.0997,0.163,91.325,157042,3
+Sergey Nikitin,Со мною вот что происходит,01c73QACah7V8ujntWQXTK,0,2021,romance,0.586,0.39,6,-9.411,0,0.0668,0.83,0.0,0.651,0.747,113.512,140880,4
+Nikolay Kopylov,At A Fireplace,3YbmluDtB7T59ChcWN99OE,0,2007,romance,0.507,0.164,4,-14.324,0,0.0374,0.949,0.00337,0.123,0.232,93.295,225600,4
+Georgi Vinogradov,У нас в общежитии свадьба,5u2sSFY4Zr2Hej5sofAYoY,0,2014,romance,0.509,0.346,10,-10.251,0,0.0356,0.877,5.27e-06,0.248,0.768,75.337,187639,4
+Valentina Ponomaryova,Он уехал,4eg0GLvGAmFlNvhiPY2YTW,0,2012,romance,0.335,0.135,9,-15.733,0,0.0428,0.845,1.02e-06,0.323,0.187,103.162,223713,4
+Pyotr Leshchenko,Станочек,3Uo2NxQ3k7lEFo39rRxYls,0,2014,romance,0.557,0.182,5,-15.384,0,0.175,0.995,7.78e-06,0.359,0.393,111.036,193049,3
+Сергей Зыков,Я и море,4xjP0xEuAl0eDkS8FSplJQ,0,2020,romance,0.508,0.49,10,-6.092,1,0.0335,0.875,3.37e-06,0.0678,0.555,110.152,162600,3
+Lyudmila Zykina,Grustnye ivy,3YvKAqoiC0dhz2GiKyog9i,0,2004,romance,0.334,0.329,9,-12.343,0,0.0437,0.981,0.00039,0.0776,0.232,80.688,224884,4
+Klavdiya Shulzhenko,Ruki (Hands),12Yy5Rxo8i8ZnHoENDTwFf,0,2013,romance,0.286,0.213,1,-20.029,1,0.0586,0.845,6.7e-05,0.579,0.331,80.625,187106,3
+Nikolay Kopylov,"Я Здесь, Инезилья",6bDBy3J0iNe5C3obQITtY2,0,2015,romance,0.392,0.452,5,-8.076,1,0.122,0.989,0.00042,0.103,0.598,195.764,111587,4
+Zhenya Shevchenko,Мы на лодочке катались,5AD2tUGlOkiNOwJluwqEWB,0,2002,romance,0.484,0.372,2,-14.753,1,0.0493,0.781,0.0,0.0595,0.738,103.718,198227,3
+Nikolay Kopylov,Не Пробуждай Воспоминаний,2pVeryLfbrwk2MIFs8FL4M,0,2015,romance,0.392,0.116,2,-17.869,0,0.042,0.988,0.0869,0.807,0.04,57.102,271080,4
+Vadim Kozin,Одевэс - Колечки бирюзовые,56ZB19eqTsiuSkAz5aQIuc,0,2014,romance,0.62,0.213,5,-14.271,0,0.0773,0.993,0.0,0.179,0.569,102.123,94411,4
+Igor Talkov,Gentlemen - Democrats,1B2SMQb46KJdxzV1zI27kE,0,2012,romance,0.761,0.776,9,-7.723,0,0.228,0.703,0.0,0.887,0.915,66.055,228467,4
+Izabella Jur'eva,Ja tak ljubila vas,1UxO2RMYD8InZhE12EkByh,0,2006,romance,0.354,0.161,8,-12.402,1,0.0736,0.992,0.0555,0.339,0.133,76.564,159259,3
+Olga Voronets,Sugroby belye,2YNRuodhLdPKDALKY5WUEq,0,2015,romance,0.573,0.458,8,-7.08,0,0.0332,0.855,4.79e-05,0.428,0.749,130.811,136884,4
+Feodor Chaliapin,You young girls are all alike (sung in russian) (Rusalka),2qN1SWFbF1bwQNFHFk3iDP,0,2006,romance,0.539,0.242,7,-16.618,1,0.0501,0.989,0.426,0.323,0.556,105.923,237067,4
+Алёша Димитриевич,Звон кандалов,3mjIDd7UKVz3vqXoFYggqi,0,2000,romance,0.53,0.0729,2,-23.452,1,0.0999,0.808,0.0,0.682,0.265,94.559,242920,4
+Pyotr Leshchenko,Вернись,1xLwga57E6Ownq3qGI4xHH,0,2017,romance,0.526,0.227,10,-14.116,0,0.068,0.992,0.7,0.214,0.558,97.041,184790,4
+Feodor Chaliapin,Downwards Across Volga-mother,1SyQUHaO2QUwu1BtYbrF6z,0,2000,romance,0.246,0.26,4,-13.173,0,0.0363,0.994,0.276,0.0925,0.165,89.212,210107,3
+Lyudmila Zykina,Лучинушка,36oIlXTztukFoyJWV6S6Jl,0,2020,romance,0.273,0.407,4,-11.519,0,0.0488,0.964,0.00116,0.345,0.046,123.078,187493,4
+Nikolay Kopylov,"Но я знаю, ты любишь другого (But I Know, You Love Other Man)",0De4af5GjAo3kwBv7IemuV,0,2008,romance,0.404,0.194,11,-16.55,0,0.103,0.985,0.244,0.112,0.147,84.085,181440,1
+Lidia Ruslanova,Тульские Припевки - 2022 REMASTERED,36uyn4V402lJPj3JiZn5QK,0,2022,romance,0.459,0.21,0,-10.803,0,0.103,0.995,3.56e-05,0.159,0.358,67.575,159714,4
+Vladimir Troshin,"Собравшись в дорогу с рассветом - Из к/ф ""Хмурый Вангур""",4ItJq18nQ5UenBV5sXgLLy,0,2017,romance,0.526,0.49,3,-16.615,1,0.23,0.97,0.0,0.453,0.615,88.657,51566,4
+Alexander Vertinsky,Malen'kiy mal'chik,5NWyKMk5PAFHGu9R1cbUAN,4,2006,romance,0.373,0.0562,5,-14.812,0,0.0656,0.978,0.0,0.0519,0.188,185.608,240201,4
+Vadim Kozin,Трубочка ленинградская,4zSuPTopiZgMYj2xM5u40v,0,2000,romance,0.519,0.227,7,-16.36,1,0.0718,0.991,0.00127,0.0983,0.526,148.129,163467,4
+Pyotr Leshchenko,Uwjali Grezy,7Fg6I9trPdSA54LnVRJrNP,0,2011,romance,0.436,0.287,0,-9.832,0,0.0463,0.942,6.39e-05,0.141,0.271,118.116,171013,4
+Vadim Kozin,Пара Гнедых - 2022 Remastered,1ChmcIe84sZqYpZPASKFas,0,2022,romance,0.563,0.0264,2,-19.729,0,0.294,0.995,6.44e-05,0.101,0.319,92.808,170400,3
+Владимир Бунчиков,Майским утром - 2022 Remastered,33EfKdv5e4cudSnxHTsisz,0,2023,romance,0.59,0.414,3,-12.56,1,0.0467,0.991,0.0326,0.27,0.916,113.466,151100,3
+Nikolay Kopylov,Рыцарский Романс,717aGXGUlax2gWUvGVwbB9,0,2015,romance,0.603,0.449,8,-7.977,1,0.0545,0.974,2.23e-06,0.126,0.228,115.943,246000,4
+Nikolay Kopylov,Dear 19,5lFvpQHzi6tXGxzDVaDhdn,0,2007,romance,0.578,0.263,7,-12.932,1,0.0878,0.976,0.000196,0.11,0.297,121.46,218493,4
+Olga Voronets,"Кого-то нет, кого-то жаль",5J999HhA8OecqeHr7EtZrF,0,2013,romance,0.29,0.152,5,-18.045,0,0.0499,0.977,0.000501,0.117,0.113,84.702,209147,4
+Zhanna Bichevskaya,"Gospodi, spasi nas",6m4E9FsHHwJKZgcEPs7fOG,0,2003,romance,0.591,0.389,7,-6.712,0,0.0264,0.0813,0.0,0.137,0.348,137.107,348486,4
+Olga Voronets,"Akh, vsju noch' ja proguljala",5mIEpQcZIXeEBzSzupNcX1,0,2002,romance,0.175,0.406,8,-10.41,0,0.0404,0.913,0.0,0.0876,0.268,78.437,161420,3
+Tatiana and Sergey Nikitin,In a hungry town,048w0up2W1quunOv9YnM8O,0,2012,romance,0.575,0.187,1,-15.886,0,0.0438,0.882,0.0,0.248,0.552,100.106,118518,4
+Lyudmila Zykina,Черемуха,5eL2aJ6qbZ7l0CLsZftUNQ,0,2020,romance,0.265,0.307,10,-11.715,0,0.0391,0.992,1.13e-05,0.205,0.278,146.215,212532,4
+Zhanna Bichevskaya,Zamelo tebja snegom Rossija,10W4jzIINcCZKKyVETfXfH,0,2007,romance,0.394,0.446,8,-8.347,1,0.0254,0.792,0.0,0.157,0.196,96.714,220614,3
+Gelena Velikanova,Осенние листья,11IFUofpl5uugHVcpAKR1o,0,2017,romance,0.392,0.153,4,-10.854,0,0.0513,0.977,1.61e-05,0.0978,0.277,168.707,199079,1
+Lyudmila Zykina,Песня о хлебе,7dws41KaRxYtnC0SRmjtmk,0,2020,romance,0.245,0.249,0,-14.63,1,0.0442,0.961,1.01e-05,0.159,0.209,81.249,336093,4
+Igor Talkov,Летний дождь,7bBHkae5PUvqndKUR3qFAQ,8,2013,romance,0.645,0.428,2,-11.612,0,0.0273,0.745,0.00199,0.269,0.536,109.651,519001,4
+Feodor Chaliapin,"Proschaj, Radost' - Zhizn' Moja",40vVkluki09p9fzjeGTT6t,0,2012,romance,0.315,0.0503,1,-14.921,1,0.039,0.994,6.02e-05,0.0987,0.0792,69.364,234133,5
+Maya Kristalinskaya,Zapiska,2T0R1XNgpGM9Ovfin0YNLk,0,2005,romance,0.592,0.234,0,-13.854,0,0.156,0.938,6.51e-06,0.177,0.736,80.345,165966,4
+Надежда Обухова,Полюбила я парнишку,66r1a7O5mgjqXlkafgKwzy,0,2017,romance,0.28,0.083,10,-19.019,1,0.0426,0.993,0.0,0.0715,0.0871,82.615,206001,1
+Rashid Beibutov,Malčik iz karabaha,2i4aXYRAJICLVlK2lD2MpH,1,2019,romance,0.703,0.297,5,-12.138,0,0.274,0.967,0.0,0.113,0.601,116.423,158720,4
+Lyudmila Zykina,Вьюга,43sEUvBz8LKAgm1H0LSBOX,1,2018,romance,0.452,0.585,6,-9.17,0,0.135,0.924,0.0,0.579,0.708,161.093,86152,3
+Boris Shtokolov,Vdol' po Piterskoy,0dbQx2RfVUmWt73qcbUEli,0,2006,romance,0.352,0.323,10,-14.243,1,0.108,0.985,0.000137,0.281,0.332,84.643,149267,4
+Lyudmila Zykina,Ивушка,41yRqhrYxjqSREziMxLNy9,0,2013,romance,0.15,0.362,10,-8.817,1,0.034,0.971,2.01e-05,0.112,0.192,85.498,270507,4
+Lidia Ruslanova,Кумушка - 2022 REMASTERED,4fWx30lvQ19ZiBFQiQyZjN,0,2022,romance,0.674,0.224,8,-10.651,1,0.076,0.994,0.00154,0.13,0.668,122.15,99998,4
+Alla Bayanova,Только раз,1yl3S1x0UmNtZtOpgHtC35,0,2022,romance,0.301,0.289,0,-11.801,0,0.0341,0.968,0.00462,0.304,0.111,70.033,229695,3
+Vadim Kozin,Zhiguli,5ZY86vV1pCiD2fJlQnYGDV,0,2001,romance,0.442,0.154,6,-13.809,0,0.0495,0.988,7.5e-05,0.126,0.488,73.419,192310,4
+Klavdiya Shulzhenko,Prikhodi Na Svidanie (Come to the Date),2Oo64kVtvskfUloYpuuATZ,0,2013,romance,0.545,0.28,0,-13.207,1,0.266,0.988,0.000965,0.111,0.741,170.371,115187,4
+Tatiana and Sergey Nikitin,"Sadly, I look",5Y3CmkmBQLKl41fEC1ZBZX,0,2012,romance,0.594,0.167,8,-18.287,0,0.053,0.87,0.0,0.187,0.491,78.633,211200,4
+Oleg Pogudin,Динь-динь-динь,7F4yt2NnJld7iPrEFcr79h,13,2013,romance,0.365,0.0724,4,-19.126,0,0.0422,0.93,0.000731,0.0937,0.127,78.7,200187,1
+Nikolay Kopylov,''качели'' Музыкальный Антракт Из Из Оперетты ''весёлая Вдова'',23L6GSZcXmfVB2sCBHH4Sy,0,2015,romance,0.316,0.294,10,-10.589,1,0.0444,0.974,0.000895,0.354,0.42,170.565,191653,5
+Lyudmila Zykina,Ходит любовь,6C5VZaoiNtGKVoDID4bMrk,0,2018,romance,0.201,0.257,7,-12.62,0,0.0363,0.99,0.000173,0.414,0.134,92.872,221675,3
+Сергей Зыков,Тальянка,1l2rhgqW23rwd6xopUoCNK,0,2010,romance,0.393,0.322,4,-11.513,0,0.0367,0.981,0.00402,0.0791,0.198,81.021,216816,4
+Rashid Beibutov,Cavab Ver Әzizim,4AqO0APtA0HK7lp3WW71vm,0,2001,romance,0.537,0.404,3,-10.905,1,0.0986,0.991,0.000208,0.148,0.666,130.181,112067,4
+Feodor Chaliapin,"Oh, You, Ivan",6qWYmaxqGHhxSOlCNJA3PJ,0,2000,romance,0.335,0.052,8,-17.447,1,0.0465,0.994,0.234,0.106,0.0771,68.154,186373,3
+Nikolay Kopylov,Не тверди (Don't Be Tedious),7sd4kwGrJyh05STLupSIO0,0,2008,romance,0.484,0.405,8,-8.683,1,0.0696,0.969,0.00832,0.089,0.613,107.159,141387,4
+Николай Рыбников,"Татьяна - Из к/ф ""Нормандия-Неман""",19U2Jm6f5gbjhvM7zYyZ4S,0,2017,romance,0.406,0.0562,5,-20.264,0,0.0525,0.995,0.0883,0.184,0.532,128.233,125388,5
+Nadezda Obuhova,Ringlet,3ynCkXwT3TJgPfdDakSDJL,0,2012,romance,0.444,0.0691,9,-18.606,0,0.0719,0.989,0.0,0.0877,0.234,83.886,113580,1
+Boris Shtokolov,Утомлённое солнце (feat. Оркестр штаба Ленинградского военного округа),6iCIaalroYDwQ38mMvikjW,0,2003,romance,0.436,0.304,0,-13.81,0,0.037,0.984,0.0101,0.123,0.575,120.022,169600,4
+Valery Obodzinsky,Неотправленное письмо,1ufPg9D6bWQv52ZYfo1myK,1,2018,romance,0.53,0.587,5,-4.149,0,0.0341,0.802,0.0,0.232,0.485,133.485,200360,3
+Igor Talkov,Родина моя и КПСС,7216GT6n1TDFL0NQmuAffy,0,2014,romance,0.551,0.463,4,-17.17,0,0.0806,0.0336,0.000117,0.166,0.385,115.333,534309,4
+Ivan Kozlovsky,Seht! Welch´ seltsam Wunder! (sung in russian) (Lohengrin),15JeL6JrVg7ZTSPZ9zCUAO,0,2006,romance,0.349,0.279,9,-14.214,1,0.0346,0.981,0.0,0.472,0.0986,85.604,137960,4
+Rashid Beibutov,Girdim Yarın Bağçasına,2gFrejz48wRgBnBQVixUNO,6,2001,romance,0.361,0.169,11,-13.005,0,0.0344,0.989,0.000171,0.0933,0.198,109.309,201200,3
+Vadim Kozin,Druzhba,3ulQD8KNPLc0ZIOTskgMsS,0,2021,romance,0.407,0.407,7,-6.948,0,0.0595,0.992,0.123,0.193,0.608,81.835,158775,4
+Klavdiya Shulzhenko,Остановись,1u8KkggVVDzOy42OqJxRCI,0,2006,romance,0.414,0.283,9,-14.395,0,0.204,0.976,5.73e-06,0.722,0.238,165.547,185253,3
+Pyotr Leshchenko,Черные глаза,2vr8piJ2EpmKihpVur8SFw,0,2014,romance,0.475,0.23,7,-14.604,0,0.0597,0.994,1.29e-05,0.346,0.432,110.641,188127,4
+Klavdiya Shulzhenko,"Где же вы теперь, друзья-однополчане",773kojHd6CVrXzw9AeCf9e,0,2013,romance,0.537,0.124,6,-14.535,0,0.195,0.995,0.000144,0.106,0.182,70.95,186667,3
+Сергей Зыков,Море зовёт,3bpOqW4Lw0IPePOtCEh95L,0,2020,romance,0.394,0.638,2,-5.658,0,0.046,0.945,9.98e-06,0.339,0.475,133.116,209000,4
+Rashid Beibutov,Lejla,0yc1hrAmq5zEqTm7gJ60CF,0,2019,romance,0.459,0.467,5,-7.712,1,0.0297,0.803,0.0,0.314,0.325,80.711,168803,4
+Maya Kristalinskaya,Tayozhniy Waltz,2tX1Y5GPT4VYpkoanMgUDW,0,2013,romance,0.671,0.157,0,-18.918,1,0.0975,0.886,0.0,0.108,0.632,104.354,167732,3
+Klavdiya Shulzhenko,Мы из Одессы моряки,5PY6AB2DMYHiPg7Tl5Giou,0,2006,romance,0.441,0.393,11,-10.911,0,0.118,0.993,0.156,0.244,0.622,116.253,173359,4
+Vladimir Nechaev,Костры горят далёкие,4BmEyCDwqy372naPhcdlHh,0,2022,romance,0.274,0.463,4,-6.415,0,0.0376,0.936,0.0,0.389,0.417,145.405,183786,4
+Elena Kamburova,Молитва Франсуа Вийона,4gddBvrCdEeV6eFrvGSdhs,1,2019,romance,0.394,0.262,2,-12.856,0,0.0454,0.955,0.000115,0.0833,0.0679,127.059,269893,3
+Nikolay Kopylov,Ария Маркиза Из Оперетты «Корневильские Колокола»,4SnXjlFADw3sRvOFTkzoF9,0,2015,romance,0.43,0.355,1,-10.114,1,0.0739,0.989,0.000176,0.0864,0.528,88.742,164960,3
+Rashid Beibutov,Maral Sevgilim,4vySLIA4aql5AcGj9Be6Vi,0,2001,romance,0.289,0.309,11,-12.622,0,0.0387,0.944,0.0,0.373,0.222,113.329,189733,1
+Vladimir Nechaev,Костры горят далекие,3leJbaxGPM43VfMthqi3kY,0,2021,romance,0.379,0.385,4,-9.662,0,0.0348,0.937,0.0,0.349,0.393,75.761,183759,4
+Валерий Агафонов,"В час, когда мерцанье...",4azSeK5rPmxz1Da3EEAJOF,0,2003,romance,0.363,0.0757,8,-16.633,0,0.0548,0.973,0.0584,0.111,0.0395,86.963,250280,4
+Maria Maksakova,Блукала світом,5AQbzeU7WFNI6vmJTHBCps,0,2021,romance,0.532,0.74,4,-5.764,1,0.0308,0.0883,0.0,0.312,0.234,95.038,185710,4
+Feodor Chaliapin,Трепак,34D2oAsLgfX2WIHvtRaE55,0,2001,romance,0.319,0.077,3,-22.077,1,0.0523,0.993,0.000502,0.189,0.161,87.217,255253,1
+Vadim Kozin,"Прочь, печаль",5NqHoYMQbYQbNiws4ZkyUb,0,2022,romance,0.344,0.198,8,-18.205,1,0.0745,0.995,0.0991,0.13,0.288,82.592,202000,4
+Feodor Chaliapin,The Legend of the Twelve Robbers (Live),6lhHkue4Q2N6bgCdDkIAIm,0,2020,romance,0.402,0.0989,6,-13.964,1,0.0412,0.986,8.33e-05,0.157,0.334,131.187,237720,5
+Klavdiya Shulzhenko,Приходи поскорей,0Kpqa2g2Q1at2bDm2AibhS,0,2006,romance,0.442,0.39,7,-14.486,0,0.134,0.972,0.0152,0.955,0.36,108.615,189667,4
+Lyudmila Zykina,Опять одна,5lZj9HahUntFw12Q8SND3J,0,2020,romance,0.241,0.45,10,-6.146,0,0.0433,0.816,0.00491,0.102,0.264,55.805,234031,4
+Валерий Агафонов,Мы вышли в сад,1JQTwfCws0BKFmFfaKaMs9,0,2003,romance,0.322,0.119,5,-18.609,1,0.039,0.969,0.296,0.111,0.196,167.016,144147,4
+Zhenya Shevchenko,Маржанка,0pRj1vcgxkhiljgPmZU4mk,0,2002,romance,0.455,0.556,5,-13.799,0,0.124,0.692,0.0,0.612,0.688,80.468,222720,3
+Elena Kamburova,"Любовь (из к/ф ""Раба любви"")",2nsVml6K5K2YdGuvSm2i77,4,2015,romance,0.287,0.406,6,-9.148,0,0.0352,0.74,0.00877,0.35,0.157,86.423,227453,4
+Maya Kristalinskaya,Заря,1o99A7c3qp6SPHVhX5sRgN,1,2017,romance,0.433,0.29,7,-8.947,0,0.0482,0.962,0.0,0.131,0.521,161.107,178599,5
+Valentina Ponomaryova,Improvizatsija v stile Romance,7FaQURuvh4jEHgffkiyszu,0,2007,romance,0.218,0.294,8,-14.298,0,0.0478,0.947,0.691,0.971,0.0344,86.601,418683,4
+Valery Obodzinsky,Oriental song,1UIf1zk9iSBuoDaqaHnrzg,8,2012,romance,0.584,0.548,9,-7.609,0,0.0324,0.576,2.88e-06,0.0923,0.764,77.35,212558,4
+Klavdiya Shulzhenko,Говорите мне о любви,36SbGu0HIMLwyZ5zvI77M4,0,2022,romance,0.469,0.23,9,-14.103,1,0.0928,0.99,0.00217,0.122,0.537,67.524,174733,4
+Klavdiya Shulzhenko,Vozvrashenie (Return),4rYQc1zcWLloPwBSKls3ro,0,2013,romance,0.469,0.183,11,-13.831,0,0.226,0.987,0.0,0.533,0.487,76.181,176160,3
+Nikolay Nikitskiy,Chjornye glaza,46HvjgQJNBvDHlrWID3RpD,0,2002,romance,0.517,0.348,5,-9.487,0,0.0434,0.901,6.37e-06,0.211,0.491,127.336,193761,4
+Lyudmila Zykina,Нёбо голубое,6KXxvUwxnSVuogRX7ocEjb,0,2020,romance,0.28,0.491,5,-9.237,1,0.0403,0.929,0.000266,0.126,0.247,79.832,257123,4
+Maria Maksakova,"How happy, how happy I am! (sung in russian) (Eugene Onegin)",4k2Zzz7gC8GKrPyF2nnRKr,0,2006,romance,0.41,0.168,4,-13.815,1,0.0453,0.981,0.0,0.0801,0.194,131.439,342333,3
+Sergey Nikitin,Я на крыше паровоза,4V5z0nm7X19IrDpQLAYZSq,0,2022,romance,0.503,0.515,7,-12.498,1,0.097,0.823,0.0,0.634,0.797,169.968,186315,4
+Oleg Pogudin,Моя душечка,4mz7QTOsearY3W6aRPmrK4,0,2013,romance,0.611,0.198,4,-15.871,0,0.307,0.808,0.0,0.114,0.511,96.001,135987,3
+Тамара Церетели,Когда душа полна,4upL3lbMuRvZ91bvZjGO2G,0,2014,romance,0.405,0.128,5,-13.584,0,0.0779,0.989,9.19e-06,0.106,0.306,74.069,195046,1
+Tamara Tsereteli,Vzgljad tvoikh chjornykh ochey,2WyqMd1PxpTADixN3zYUNs,0,2001,romance,0.369,0.103,5,-17.732,0,0.0708,0.991,0.00442,0.0941,0.227,78.182,159071,1
+Pyotr Leshchenko,Все лгут цыгане,4WsuPJgu4vlswg8LdRhV6A,0,2014,romance,0.381,0.283,10,-11.379,0,0.0502,0.964,5.94e-05,0.0705,0.298,124.74,183599,4
+Vadim Kozin,"Zabytoe tango, Ch. 2",3TXxXDFsBsCDOpkvj12Fj6,0,2001,romance,0.558,0.334,4,-10.404,0,0.101,0.992,0.701,0.117,0.841,99.71,153921,4
+Сергей Захаров,Прилетайте в гости к нам,6tLxqlBpbfdeVHo8w7yxzT,0,2019,romance,0.66,0.92,9,-3.639,0,0.0499,0.476,0.0,0.191,0.962,129.983,175726,4
+Nikolay Kopylov,Дитя! Как Цветок Ты Прекрасна...,2bvuWUG61HP3WFYs5nyiUp,0,2015,romance,0.35,0.329,3,-12.25,1,0.0305,0.99,0.000218,0.137,0.131,152.484,110800,4
+Vladimir Troshin,Zametalsja pozhar goluboy,2dIcdmmh3M5RM7z1VmbjCb,0,2005,romance,0.571,0.287,7,-13.991,0,0.083,0.948,0.00103,0.0831,0.417,73.028,153004,4
+Lyudmila Zykina,White Snow,0Yz7WWEKmQbcvIHTli0ttf,0,2010,romance,0.313,0.31,7,-11.103,1,0.0443,0.983,0.0,0.391,0.0596,85.379,190015,4
+Rashid Beibutov,Bakı - 1955,4e2skPe7hEbOuj5klsCLXO,0,2001,romance,0.396,0.178,3,-13.657,1,0.0444,0.993,0.00166,0.0755,0.272,163.511,211000,3
+Georgi Vinogradov,Im wunderschönen Monat Mai (sung in russian) (Dichterliebe),4LEg6WGXSN8uHA9fXqSf1v,0,2006,romance,0.471,0.0471,11,-18.078,0,0.0377,0.993,9.61e-06,0.108,0.176,103.195,80800,5
+Nadezhda Kazantseva,Kolybel'naja pesnja,5lQhg7h44Pa1xF9NSV9DGA,0,2002,romance,0.291,0.129,8,-14.994,0,0.0391,0.989,4.33e-06,0.0955,0.172,91.465,239334,5
+Тамара Церетели,Я не люблю тебя,6QlNikrhMp1FGEIS5mORxM,0,2014,romance,0.434,0.169,7,-14.168,1,0.0692,0.994,0.103,0.107,0.282,61.643,179373,4
+Vika Tsyganova,Конь вороной,1PoTkvvTHJhSchB5DlXO5u,0,2004,romance,0.442,0.417,7,-8.071,0,0.033,0.572,0.0,0.126,0.283,71.124,245787,4
+Vadim Kozin,Friendship [Druzhba],5BGL9SpUDDWrJcqQzjChbc,6,2010,romance,0.373,0.447,7,-6.222,0,0.0437,0.993,0.0347,0.276,0.469,83.193,157773,4
+Vika Tsyganova,300 лет,3CW6RtBC8rxNXG7lhaJiES,0,2007,romance,0.571,0.756,9,-6.119,0,0.0613,0.213,0.0,0.191,0.593,143.149,265040,4
+Nikolay Kopylov,Ночи Безумные,4qoGIxcXx3TpMhMsoNExQd,0,2015,romance,0.337,0.298,10,-11.532,0,0.0525,0.99,0.000622,0.0958,0.061,169.128,166307,3
+Сергей Захаров,"Помните, ребята",7puaPiCldW1on1B1C0eKqZ,0,2019,romance,0.647,0.835,0,-8.736,0,0.133,0.443,1.44e-06,0.339,0.796,139.991,206916,4
+Nikolay Kopylov,Дуэт Теодоры И Мистера Х Из Оперетты «Принцесса Цирка»,0wwIlj8wel1CQhnIy5x7di,0,2015,romance,0.212,0.371,5,-10.19,1,0.0478,0.988,1.7e-05,0.095,0.159,65.715,236040,5
+Klavdiya Shulzhenko,Waltz of Waltz,2jmupL0VQqMmKQTwNsPOox,0,2011,romance,0.312,0.284,3,-13.294,0,0.0413,0.977,0.00709,0.127,0.321,89.571,245447,4
+Иван Петров,"Boris Godunov, Act II: ""Chego? Al lyuty zver nasedku vspolokhnul?""",2S1Lpf9UwswKmw0jcLuxoL,0,2003,romance,0.272,0.154,3,-17.622,1,0.063,0.989,0.000155,0.363,0.153,170.461,215360,3
+Maya Kristalinskaya,Не Спеши - 2022 Remastered,0MD13PDw1y0Gqj3rP6tbKb,0,2022,romance,0.537,0.0858,0,-19.591,0,0.0391,0.979,1.52e-05,0.0716,0.277,110.009,172133,3
+Pyotr Leshchenko,Loschadki,1K9CxzKKFJTzFDBP2nu4DI,0,2011,romance,0.599,0.446,2,-9.525,0,0.0534,0.944,1.29e-05,0.0696,0.874,145.672,194493,3
+Pyotr Leshchenko,Миша,7FWD8imUNG9RWMmg18nsYn,0,2014,romance,0.74,0.431,0,-11.745,0,0.117,0.996,0.0153,0.179,0.945,138.086,178630,4
+Izabella Jur'eva,Birjuzovye kolechki - Variant 2,27iDZvrm8R0oWbk07IroZw,0,2001,romance,0.509,0.163,3,-12.544,1,0.0604,0.994,0.00722,0.104,0.456,101.377,167593,3
+Lyudmila Zykina,Sjostry Rossii,68OimS1oPm9Uf5w7wrvEkZ,0,2004,romance,0.227,0.442,4,-10.173,0,0.0501,0.964,0.00219,0.185,0.201,87.668,323228,3
+Igor Talkov,Three houses,7yIezjUDk3YoXMLJ4Q2Ubp,0,2012,romance,0.434,0.261,4,-17.492,0,0.0587,0.989,0.00428,0.532,0.266,137.05,256052,4
+Vladimir Troshin,"За фабричной заставой - Из кинофильма ""Они были первыми""",3IXjWX6f8YnbAT15owexgg,0,2021,romance,0.431,0.244,8,-12.443,1,0.0347,0.85,0.00139,0.135,0.472,83.824,172527,4
+Иван Скобцов,"Faust, Act I: Chorus ""Vsem nam nuzhno pit vino""",671W4ain5zz2usB2aUlZ8F,0,2019,romance,0.533,0.348,5,-15.079,1,0.0536,0.99,0.086,0.282,0.621,99.377,274682,4
+Lyudmila Zykina,"Рябина, рябина",4XDAydQA1y1bK7HWkIK83z,0,2020,romance,0.263,0.225,7,-13.685,0,0.0376,0.983,0.00519,0.0987,0.259,120.345,204840,3
+Сергей Захаров,Средь шумного бала,0pH7AviEZVKaiBfcSHc6aC,0,2000,romance,0.312,0.421,11,-11.044,0,0.0543,0.973,0.725,0.324,0.143,124.588,144107,4
+Klavdiya Shulzhenko,"Где же Вы, друзья-однополчане",7apnugVp61vyNWdyvJT3Z4,0,2019,romance,0.307,0.119,6,-18.455,0,0.0405,0.872,0.0,0.38,0.199,72.744,187819,3
+Sergei Lemeshev,U vorot-vorot,2UNiODJ7iWeQxFkSHXpDus,0,2006,romance,0.446,0.777,7,-9.86,0,0.303,0.886,0.0219,0.76,0.694,145.834,139471,4
+Feodor Chaliapin,The Sun Rises And Sets,0aYFWQ3KykP0X4PsGT0Dr3,0,2000,romance,0.31,0.0598,2,-17.395,1,0.0432,0.996,0.482,0.104,0.122,67.623,207840,4
+Valery Obodzinsky,Только да,3BzSZsP9OowsTKl0qrM1tK,0,2018,romance,0.401,0.417,0,-8.289,0,0.0306,0.502,0.091,0.157,0.508,129.113,264573,4
+Valentina Ponomaryova,Только раз бывает в жизни встречи,1poHgwTf1aeiVGDfVKIKvI,1,2018,romance,0.257,0.272,9,-11.139,0,0.0363,0.978,0.0764,0.0861,0.168,82.941,201173,4
+Elena Kamburova,Всё будет завтра,5QHSwmltDHVSCFZkTVZgU3,0,2015,romance,0.407,0.4,0,-7.148,1,0.0447,0.98,1.1e-05,0.274,0.362,77.208,199720,4
+Oleg Pogudin,Друзья / Οι φίλοι,0IyEBoHnQoqSgFJHbYrl3r,0,2020,romance,0.575,0.191,1,-11.266,0,0.037,0.703,0.0,0.0934,0.569,96.021,191677,4
+Nadezhda Obukhova,Ja tebja s godami ne zabyla,0X0pEM97AozY5RvFqg0NMK,0,2006,romance,0.407,0.252,8,-11.59,0,0.0396,0.98,0.0,0.163,0.142,87.158,178740,4
+Gruppa Express,На муромской дорожке,0LcoAfg2bBRosgkettTYNy,1,2020,romance,0.465,0.511,9,-5.677,0,0.0279,0.522,0.0,0.173,0.658,199.892,228947,3
+Vika Tsyganova,Лето пьяное - Новая версия,1UiKA12GejkxcPLtcrMfW8,1,2020,romance,0.536,0.781,1,-4.367,1,0.0344,0.0961,0.0,0.435,0.696,171.91,240680,4
+Pyotr Leshchenko,The student,1uMdjO71og8DFmmeuuP2WG,0,2012,romance,0.39,0.352,4,-11.533,0,0.0739,0.974,0.000155,0.103,0.495,104.264,195762,4
+Pyotr Leshchenko,Уйди!,0VOE5BlsPh86Q0VSV3aDdV,0,2014,romance,0.392,0.258,4,-15.505,0,0.0414,0.99,0.0431,0.241,0.416,110.897,197345,4
+Nikolay Kopylov,The Fire Of Desire Burns In Blood,1AfuI90lAZ58EMtvwRy2mG,0,2007,romance,0.335,0.456,0,-8.133,0,0.0419,0.989,0.0128,0.125,0.346,176.348,78947,5
+Gelena Velikanova,Нам парни говорят такие речи - 2022 Remastered,7fDRmKMHXPgmTx71Au133R,0,2022,romance,0.524,0.355,9,-13.177,0,0.202,0.736,0.0,0.164,0.84,66.502,87224,4
+Feodor Chaliapin,"Faust: ""Seigneur, daignez permettre""",1MthBwo2O1uR2cR45gikkY,0,2009,romance,0.338,0.203,2,-15.496,1,0.0432,0.995,0.087,0.108,0.162,132.272,246840,5
+Olga Voronets,Живет моя красотка,6kYHnHpYg8p4c25J05EVy3,0,2013,romance,0.312,0.251,7,-12.648,0,0.0397,0.935,1.83e-06,0.597,0.447,85.399,235813,4
+Maya Kristalinskaya,Родимая Земля - 2022 Remastered,26tw4TbOSVW1CYdagtEYbR,3,2022,romance,0.318,0.25,10,-17.21,0,0.0599,0.144,0.0142,0.266,0.265,147.527,183125,4
+Maya Kristalinskaya,Колыбельная с четырьмя дождями,2uk2KAZ7kmpnLuCQRnTR8N,4,2009,romance,0.34,0.0886,9,-20.407,0,0.0364,0.937,0.0,0.24,0.251,96.984,197933,4
+Vadim Kozin,Маша,4AS30GdWDHLkCpppHKAWwU,0,2014,romance,0.565,0.221,5,-12.7,0,0.0531,0.995,3.25e-06,0.128,0.414,97.528,154249,3
+Oleg Pogudin,Mamma (Live),04tu7Ep8aesvRnrrzoRgSg,0,2018,romance,0.331,0.533,4,-8.5,1,0.0419,0.576,0.000154,0.937,0.39,115.892,230640,4
+Feodor Chaliapin,Pesn Ubogogo Strannika,18F6B7P8a4Q7vROTbI4bKK,0,2011,romance,0.29,0.147,2,-15.007,1,0.0429,0.991,0.0208,0.109,0.118,81.32,209748,4
+Tatiana and Sergey Nikitin,When we were young,5ObQPsRCtS2zgrymjJxoqX,2,2012,romance,0.471,0.0726,8,-20.756,0,0.0565,0.973,0.0196,0.0948,0.493,79.908,285414,4
+Сергей Захаров,Гармоника,27JcwTVKyniPpFEeblPmqr,0,2006,romance,0.215,0.66,10,-5.175,0,0.0599,0.833,0.646,0.174,0.646,85.398,209187,4
+Nikolay Kopylov,На Землю Сумрак Пал,1MTSR0PGHFSZnT5Vwts72p,0,2015,romance,0.372,0.217,2,-11.66,0,0.0558,0.986,0.00235,0.104,0.0681,167.547,238280,4
+Feodor Chaliapin,Die beiden Grenadiere (sung in russian),1vne5HZ8LPUAxiD0wMKurI,0,2006,romance,0.553,0.237,7,-13.025,1,0.0738,0.988,8.17e-06,0.381,0.421,54.265,186933,4
+Sergei Lemeshev,Мой Лизочек,2Lh1BR4Ce1WMorkZwjEBDR,2,2013,romance,0.599,0.0707,9,-18.37,0,0.0862,0.99,4.62e-06,0.0849,0.271,117.197,142107,4
+Rashid Beibutov,Gözəldir Vətənim,5cD9qQN6xOdOA7nDYlpWnz,0,2001,romance,0.445,0.145,5,-16.169,1,0.0391,0.995,0.00679,0.19,0.586,74.355,153533,4
+Сергей Зыков,Гитара семиструнная,368azseU97DKpblwrEf438,0,2020,romance,0.321,0.258,4,-10.812,0,0.0473,0.937,1.14e-06,0.0809,0.269,81.438,203027,1
+Rashid Beibutov,Qvarde Ke Luna - İtaliya Mahnısı,0atPTzQiO1Qx8wTmfRJbLh,0,2001,romance,0.352,0.331,4,-14.808,0,0.0488,0.969,0.0458,0.104,0.269,132.806,127467,4
+Klavdiya Shulzhenko,Лесная сказка - 2022 Remastered,12itZE5B4wBYtpjVXlfCIQ,0,2022,romance,0.436,0.218,0,-12.809,0,0.0568,0.961,5.39e-05,0.214,0.487,102.236,188991,4
+Nikolay Erdenko,Moroz,273tMFfdMIok84BKv0GBZM,0,2005,romance,0.175,0.276,11,-14.487,0,0.0321,0.966,0.0737,0.377,0.0441,79.298,331310,5
+Maya Kristalinskaya,В нашем городе,3dWJyShMq7ClWrLOTs9RUm,1,2007,romance,0.435,0.248,0,-16.875,0,0.0395,0.464,0.000103,0.167,0.289,99.497,207533,4
+Vladimir Troshin,Заметался пожар голубой,5kVguC5z76inw8cG0H4XVi,0,2018,romance,0.465,0.396,7,-11.176,0,0.0513,0.936,0.00301,0.102,0.358,101.736,151798,4
+Klavdiya Shulzhenko,Курьер за счастьем,2TBFtBApk1FWlE0V71Xs2a,1,2001,romance,0.714,0.199,5,-15.582,0,0.392,0.974,0.00256,0.3,0.659,83.916,161507,4
+Konstantin Pluzhnikov,Взгляд твоих черных очей (Glance оf Your Black Eyes),3GOU0YjeL46uO56MGE6Uq6,0,2008,romance,0.341,0.153,4,-14.377,0,0.0396,0.938,0.00134,0.106,0.155,82.019,152227,4
+Sergei Lemeshev,"Eugene Onegin, Op. 24, Act II Scene 2: No. 17b, Lensky's Aria ""Kuda, kuda, kuda vy udalilis?""",1XuTeb2wdXlbssYMELZrQh,6,2011,romance,0.266,0.0873,4,-19.927,0,0.0465,0.967,0.0,0.164,0.0397,138.101,411994,1
+Pyotr Leshchenko,Me to Confess,3DcQVFz1y4QAcvQhkIGh58,0,2012,romance,0.506,0.282,11,-12.137,0,0.0319,0.97,0.0,0.217,0.381,103.541,203207,3
+Lyudmila Zykina,Я тебе ничего не скажу,6EuyhxpNt1jldymq1zMAmS,0,2013,romance,0.3,0.224,1,-15.698,0,0.0534,0.981,0.00629,0.0806,0.0586,84.344,214467,4
+Lyudmila Zykina,Вечор поздно из лесочка,4KkynEaZZbTZfI4IJMpLFV,2,2020,romance,0.479,0.466,2,-8.496,1,0.0579,0.893,0.0,0.119,0.402,130.343,129947,4
+Nikolai Erdenko,"Не уходи, побудь со мною",3RDny83SLko9BXCVndBwlG,0,2002,romance,0.329,0.224,2,-15.467,0,0.0374,0.47,0.631,0.0753,0.0762,99.892,259920,3
+Nikolai Erdenko,Шурьяки,2jALYJNF0ktVoiQUUriyuM,0,2000,romance,0.446,0.401,10,-17.215,0,0.072,0.91,0.0204,0.562,0.741,109.904,176213,5
+Oleg Pogudin,Голубые глаза,7zsOPNx7y9RQjk8Dj1MLgM,0,2020,romance,0.462,0.298,2,-10.235,1,0.0386,0.741,9.78e-05,0.3,0.553,125.773,264829,4
+Vladimir Troshin,Pozdno noch'ju,4mpRJxGGdvMwBm2P3qCYww,1,2005,romance,0.41,0.0951,9,-19.255,0,0.0404,0.881,0.00378,0.157,0.409,83.517,140219,4
+Lyudmila Zykina,Сронила колечко,0tQevl8gmDLPWslUTP1gKb,0,2013,romance,0.132,0.156,7,-16.219,0,0.042,0.978,4.19e-05,0.194,0.0451,87.583,243293,1
+Надежда Обухова,Бреду тропинкою лесною,5JSC8tatmtuDr7LnSiCkZb,0,2017,romance,0.316,0.102,3,-16.584,1,0.0391,0.986,0.0,0.0821,0.145,98.141,221130,3
+Валерий Агафонов,"Гори, гори, моя звезда",2ci8RXg5aA5mGn91k4ZOOE,0,2003,romance,0.358,0.142,3,-15.27,0,0.0669,0.976,0.0922,0.106,0.193,70.46,233813,3
+Sergei Lemeshev,"Ах ты, душечка",726CeKCe0ufUDvqH0oOKaG,0,2022,romance,0.278,0.275,8,-17.112,1,0.0421,0.981,1.03e-05,0.946,0.435,133.815,163213,4
+Надежда Обухова,Не для меня,13OO58HEqp7sc0q2ZVGoEb,0,2001,romance,0.284,0.191,0,-16.39,0,0.041,0.995,0.004,0.0825,0.141,100.218,314280,3
+Nikolay Nikitskiy,Ja ne znal,0B7omgFmuHkqPPAMKf2rE4,0,2002,romance,0.297,0.254,2,-11.503,0,0.0395,0.93,0.218,0.315,0.212,113.814,133964,4
+Nikolay Kopylov,Дуэт Теодоры И Мистера Х (Кумир Мой…) Из Оперетты «Принцесса Цирка»,6dcMtUalkVt5UvMtMpNNSg,0,2015,romance,0.389,0.313,5,-10.087,1,0.0353,0.982,0.000672,0.0917,0.164,92.561,315973,4
+Konstantin Pluzhnikov,Жизнь цыганская (Gipsy Life),3xTlv10CrbI8Y2SAokisZa,0,2008,romance,0.386,0.293,7,-13.189,1,0.048,0.948,0.0,0.16,0.559,108.028,204080,4
+Vladimir Troshin,Kak zhal',2tnTO7xTqvDPGPoa6SkRli,0,2005,romance,0.428,0.199,7,-16.203,0,0.039,0.771,0.0224,0.244,0.266,90.835,238500,3
+Rashid Beibutov,Dostluq,610k9NN5nAlz7kyatYjTQD,0,2001,romance,0.502,0.455,8,-11.156,1,0.0639,0.967,0.00264,0.306,0.379,106.489,210800,4
+Zhanna Bichevskaya,Четыре кумы,1c2fUTYLGvlfIYu8IwM9fS,0,2012,romance,0.338,0.193,7,-15.331,1,0.0296,0.981,0.0,0.122,0.413,86.39,181253,4
+Nikolai Erdenko,"Нет, не любил он",37Mzc1k8xQwIVzb29ZdU8D,0,2002,romance,0.523,0.481,2,-10.64,0,0.0384,0.84,0.836,0.374,0.764,104.839,114227,3
+Vika Tsyganova,Время,5cZ6V5naMQaS4o02FLpDmJ,0,2007,romance,0.677,0.573,10,-8.919,1,0.031,0.128,4.91e-05,0.133,0.397,125.003,249453,4
+Klavdiya Shulzhenko,Прощальный луч,3TJ4GHy4FyiNtDKvr8MljW,0,2006,romance,0.438,0.172,3,-14.615,0,0.0582,0.988,0.196,0.676,0.502,123.968,180519,4
+Sergei Lemeshev,Venerable Lime-tree,4kB5nL0lV9JBhc3z05IT9x,0,2000,romance,0.166,0.244,4,-17.75,0,0.0481,0.96,0.00204,0.134,0.192,175.852,335240,3
+Lyudmila Zykina,"Вьюга, вьюга",26qYL27sImbWPxa98yXMN5,0,2014,romance,0.237,0.239,9,-12.975,0,0.0352,0.98,0.0,0.252,0.398,174.579,180027,3
+Надежда Обухова,"Нет, не любил он",03HrD0ESOEpodLfvk6MJQP,0,2001,romance,0.372,0.0528,7,-18.739,0,0.0532,0.995,0.00938,0.141,0.101,91.33,216480,5
+Vadim Kozin,"Gazovaja kosynka, Ch. 1",2TJjRbjW6PVjtJL5OIbBqH,0,2001,romance,0.453,0.176,4,-11.881,0,0.0558,0.991,0.0121,0.105,0.346,132.454,174174,5
+Gelena Velikanova,Tsyganka-moldavanka,48yzQDcuhyhjmTY3u4tvV8,0,2005,romance,0.482,0.165,9,-15.079,0,0.0651,0.889,0.0,0.108,0.235,103.3,278791,4
+Valentina Ponomaryova,Ja tebe nichego ne skazhu,5BZ2kT0GLEGIrCa08dZ1qH,1,2007,romance,0.491,0.0798,0,-17.749,0,0.0731,0.96,0.0,0.119,0.277,138.082,128280,5
+Valery Obodzinsky,Луна на Солнечном берегу,1aF8ntcA8YoWh7NFQhj968,0,2021,romance,0.406,0.38,2,-7.939,0,0.0287,0.932,0.0126,0.143,0.39,104.308,200295,4
+Rashid Beibutov,Bakı,4gFwqK36j1kvWqNRRJOLuE,1,2001,romance,0.242,0.31,11,-13.37,0,0.0373,0.933,0.039,0.346,0.238,93.709,234440,3
+Klavdiya Shulzhenko,Когда говорят кастаньеты,5rbStDosMyd2Uxj5N8S9FA,0,2006,romance,0.477,0.625,9,-9.18,0,0.305,0.885,0.000536,0.789,0.711,173.983,165893,3
+Alexander Vertinsky,Palestinskoe tango,133X65eoWdnhSvanQ0SXie,2,2006,romance,0.589,0.0996,3,-14.343,0,0.0609,0.988,0.0,0.118,0.349,103.506,186552,4
+Valery Obodzinsky,What I have to say,6Bbn4eGo1CZsSGxnqmzFF0,0,2012,romance,0.509,0.46,4,-12.487,0,0.0381,0.236,0.000912,0.0809,0.321,155.742,353620,4
+Georgi Vinogradov,Как сладко с тобою мне быть - 2022 Remastered,32HUgIW0aKrkzyr3oGyBde,0,2022,romance,0.514,0.0469,4,-17.569,0,0.0587,0.994,0.00162,0.0976,0.263,92.906,193365,3
+Ivan Rebroff,Plaisir D'Amour,0fh3doIpaDLP4HUen2tzjp,4,2018,romance,0.165,0.4,3,-11.014,1,0.0311,0.742,0.498,0.295,0.157,90.195,217947,3
+Feodor Chaliapin,Ochi Chernye,5QrunUPFhpINfLWcR3yTV3,6,2012,romance,0.387,0.237,5,-11.743,0,0.0432,0.995,9.6e-05,0.11,0.26,85.038,212013,4
+Vladimir Nechaev,Svidanija - proscanija,3sdPkZdrC4Oh69VQgSOwZk,0,2005,romance,0.378,0.295,1,-11.152,1,0.0431,0.991,0.298,0.576,0.552,127.381,171002,4
+Nikolay Kopylov,Barcarole,4CkWg9FfbVca09ZikwCr0a,0,2007,romance,0.275,0.451,0,-9.935,1,0.0483,0.993,0.0233,0.113,0.0859,144.131,158867,3
+Sergei Lemeshev,Luchinushka,3pjhWoczQCUF9DWNu8ZnSi,0,2012,romance,0.129,0.136,0,-18.509,0,0.049,0.986,0.000386,0.674,0.0786,78.195,260577,3
+Klavdiya Shulzhenko,Siniy platochek,5qrc8X5LXE3tZDZUXsmIwB,0,2001,romance,0.432,0.231,9,-13.243,0,0.0721,0.963,0.0128,0.0873,0.518,90.391,170600,4
+Maya Kristalinskaya,Ивушка,1DrS1r7xSggiz1rbVA5XRN,0,2018,romance,0.526,0.237,3,-13.188,0,0.0428,0.878,0.0,0.15,0.407,64.095,154253,4
+Zhanna Bichevskaya,Гимн самодержавной России,2rE3GKVUaxnQNT6f8I9SL3,2,2001,romance,0.382,0.453,7,-5.272,1,0.0268,0.785,0.0,0.105,0.229,86.448,234387,4
+Sergei Lemeshev,Меж крутых бережков,2ekuOuCfS6k0fNnxkyLHVb,0,2022,romance,0.294,0.133,0,-17.964,1,0.052,0.994,5.68e-06,0.12,0.31,82.033,184213,3
+Владимир Бунчиков,Студеное море,4PkTd8ggcWKypA33V3z79w,0,2014,romance,0.418,0.341,8,-11.178,1,0.0603,0.986,5.85e-06,0.391,0.38,92.373,168459,4
+Vladimir Nechaev,Давно мы дома не были II,6sZjKggX63OICnjmaliqgs,0,2014,romance,0.277,0.4,6,-12.044,0,0.0883,0.976,0.0,0.255,0.535,78.166,179535,4
+Vladimir Troshin,"Я верю, друзья - 14 минут до старта",6rJvlvdONwChowVRIYhRVA,5,2018,romance,0.57,0.379,7,-9.635,1,0.0554,0.493,4.84e-06,0.231,0.479,109.242,199053,4
+Zhenya Shevchenko,Вернись,3Md3Mcuz5mpnA7sjUSLR2m,0,2000,romance,0.262,0.221,2,-17.081,0,0.0369,0.756,0.0,0.276,0.357,89.015,159520,5
+Zhenya Shevchenko,"Эй, вы, кони",0NZyHXPgpYrZk9S9sZXU6O,0,2002,romance,0.451,0.407,5,-15.444,0,0.0641,0.643,0.0,0.298,0.729,91.962,197907,4
+Николай Рыбников,"Душа - Из к/ф ""Девушка без адреса""",4S2k3rxnYXQoO52vvg1ZyS,15,2017,romance,0.71,0.187,10,-14.773,0,0.117,0.993,0.00407,0.137,0.765,93.24,85447,4
+Надежда Обухова,Элегия,41HH7LaC9aNYjzdvGCyyHw,0,2001,romance,0.331,0.0548,0,-19.358,0,0.0382,0.987,1.33e-06,0.159,0.152,62.582,294973,4
+Vika Tsyganova,Золотые купола,40Lic41Lk8oRQxzaqryGSR,23,2021,romance,0.457,0.722,2,-4.648,0,0.0369,0.166,0.0,0.18,0.362,134.031,320724,4

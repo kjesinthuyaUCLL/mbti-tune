@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Miloš Karadaglić,"Here, There & Everywhere",67GeuLG1MeWAME19zf5aUy,20,2016,classical,0.399,0.135,4,-20.19,1,0.0401,0.987,0.942,0.1,0.438,97.639,168116,1
+Annelie,Oh Gloria,3NuBDQAPmxUbcbjY9lDggG,27,2018,classical,0.444,0.0337,3,-25.403,0,0.0464,0.994,0.947,0.115,0.136,116.073,173128,3
+Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492, Act III: No. 20b, Dove sono i bei momenti",2xHCae77PJT65bDKSGntsc,0,2023,classical,0.347,0.0536,0,-22.996,1,0.044,0.972,0.00258,0.121,0.202,112.486,243867,4
+Edward Elgar,Elgar: Salut d'amour,7oHpViuraso4OFQmhJNaip,27,2018,classical,0.209,0.0559,4,-26.47,1,0.0569,0.904,0.00413,0.0831,0.11,144.499,162392,5
+George Frideric Handel,"Dixit Dominus, HWV 232: Judicabit in nationibus",0bpbt6rX5XMURRiip6SRMX,16,2001,classical,0.347,0.371,4,-16.641,1,0.0364,0.973,0.0126,0.618,0.579,99.748,149307,4
+Yasunori Mitsuda,At the End of Time,2sgAHZmmEjGr0E9MMmWv3h,20,2016,classical,0.491,0.146,0,-17.583,1,0.0758,0.984,0.904,0.0989,0.0819,78.157,224171,4
+Robert Levin,"Requiem in D Minor, K. 626 (completed by R. Levin): Sequence No. 6: Lacrimosa dies illa (Chorus)",3Ux6OBRPK5XOVuBfxbH2LV,24,2000,classical,0.158,0.0492,2,-21.468,0,0.0406,0.985,0.367,0.248,0.0398,143.622,146907,3
+Henrik Måwe,"Préludes for Piano, L 117: La fille aux cheveux de lin (The Girl with the Flaxen Hair)",36ZHvAITv8ViqosV8gZtre,27,2012,classical,0.319,0.0539,6,-22.512,1,0.052,0.993,0.896,0.0862,0.113,70.611,139761,4
+Oskar Merikanto,"Kesaillan idylli (Summer Night's Idyll), Op. 16, No. 2 (arr. J. Panula)",5FPfFCdI9x81ZLt8w5Jxw9,36,2000,classical,0.167,0.0138,5,-34.11,1,0.0461,0.904,0.837,0.0968,0.0649,96.617,78067,4
+Rebecca Dale,Can't Sleep,6mus9lF8bgipBehHDZ9Top,28,2021,classical,0.482,0.175,10,-22.991,0,0.047,0.992,0.929,0.252,0.039,103.304,428453,3
+Edward Elgar,3 Bavarian Dances: No. 1,5JNJkUkaOS2ossbY1pKaqW,23,2006,classical,0.19,0.147,7,-16.834,1,0.0437,0.963,0.941,0.109,0.249,180.691,220920,4
+Morton Gould,American Salute,66d2aUVV6dMNswd5xKQEEh,16,2012,classical,0.422,0.335,7,-14.963,0,0.0701,0.927,0.855,0.274,0.309,138.717,262320,4
+Wolfgang Amadeus Mozart,"Mozart: Die Zauberflöte, K. 620, Act 2 Scene 8: No. 14, Arie, ""Der Hölle Rache kocht in meinem Herzen"" (Königin)",13HIMo0iMwAkUjBApGZ6E2,17,2005,classical,0.461,0.287,5,-16.138,1,0.0946,0.942,0.000407,0.0617,0.152,75.693,181093,4
+Joseph Haydn,"Haydn: Keyboard Concerto in D Major, Hob. XVIII:11: II. Un poco adagio",1UbtH0ZGcDFFt0GqDEkebe,20,2014,classical,0.235,0.0671,4,-24.117,1,0.0444,0.982,0.899,0.154,0.0396,83.558,445933,4
+Richard Strauss,"Vier Lieder, Op. 36, TrV 186: 1. Das Rosenband",5X7SFzitrr2WK0E6ccpyCo,0,2023,classical,0.218,0.0792,9,-22.443,1,0.0411,0.974,0.186,0.311,0.0399,82.829,202661,4
+Ludwig van Beethoven,"Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise"": Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise"" - Live",5eXuYIItrgzdWRWzhMD9kP,24,2012,classical,0.232,0.023,9,-36.103,0,0.05,0.993,0.85,0.0636,0.316,126.17,196173,3
+Wolfgang Amadeus Mozart,"Violin Concerto in D Major, K. 271a (Attrib. Doubtful): I. Allegro maestoso",7sj08xosBt3X88dYVrDKhr,1,2023,classical,0.388,0.103,9,-20.099,1,0.055,0.943,0.541,0.0934,0.294,76.881,670276,4
+Johann Sebastian Bach,"Triple Concerto in A Minor, BWV 1044: II. Adagio ma non tanto e dolce",2ssjeBTCkhch0DybjnNfaV,11,2023,classical,0.311,0.031,11,-28.155,1,0.0429,0.956,0.00479,0.0979,0.203,68.586,360842,3
+Joe Hisaishi,Nahoko (I Miss You),7FxSSLDMPRDx8ZDLVpdur9,28,2013,classical,0.225,0.182,1,-16.623,0,0.0389,0.986,0.866,0.0806,0.0572,91.806,185867,3
+Freedom Call,High Up,4Dk0i74x8dmSHAQwswAI23,32,2016,classical,0.469,0.98,5,-2.75,0,0.107,4.23e-05,0.00221,0.352,0.567,135.024,181974,4
+Sinergy,Passage to the Fourth World,1oDlXNtINoHB2KBPmocPHJ,18,2002,classical,0.478,0.956,8,-3.769,1,0.0642,4.95e-05,0.00593,0.332,0.605,96.113,218667,4
+Johann Sebastian Bach,パルティータ 第2番 ハ短調 BWV826 シンフォニア,2EwlSECWFdO21QT0XbGcyl,17,2023,classical,0.334,0.216,5,-22.428,0,0.0564,0.992,0.898,0.0691,0.409,119.333,278027,3
+Improline,Last Dance,22VAJayPUvAxYHPH78HjKS,30,2022,classical,0.478,0.00527,8,-30.78,1,0.0865,0.995,0.967,0.093,0.429,68.771,161151,1
+Edvard Grieg,"Peer Gynt-Suite Nr. 1, Op. 46: II. Death of Aase",0W873wS6cRdOeghdZdK3gb,19,2007,classical,0.144,0.0182,7,-25.186,1,0.0427,0.932,0.738,0.0976,0.0326,139.327,249293,1
+Wolfgang Amadeus Mozart,"Così fan tutte ossia La scuola degli amanti, K.588 - (L. da Ponte) - Act 1: ""Soave sia il vento""",4bUEsFV1VCS28PShYRby4l,26,2000,classical,0.113,0.162,4,-18.606,1,0.0427,0.994,0.327,0.218,0.0383,74.137,189200,5
+Hector Ayala,Serie Americana: Takirari,4I8Wm3dq8IGhM7Q6qfchSy,22,2002,classical,0.379,0.0272,7,-29.681,1,0.0449,0.993,0.939,0.143,0.418,147.569,111107,4
+Daniel Barenboim,"Bach, JS : Well-Tempered Clavier Book 2 : Prelude No.11 in F major BWV880",0Ia2B1Fp0SnTLQ9OJp0tJH,13,2004,classical,0.297,0.0284,2,-32.243,0,0.0503,0.995,0.897,0.0948,0.18,115.028,247373,4
+Kristoffer Wallin,Quietly,5jX0AoPoIAEKgJXOqa92CB,25,2021,classical,0.346,0.0416,7,-26.708,0,0.0418,0.994,0.958,0.106,0.248,169.612,138000,3
+Wolfgang Amadeus Mozart,"Mozart: Piano Concerto No. 21 in C Major, K. 467: 2. Andante",1pHgB58K3y7aXkDHz5kryW,47,2020,classical,0.146,0.0451,5,-22.971,1,0.0352,0.962,0.962,0.0934,0.0855,179.753,171520,3
+Howard Shore,The Pass of Caradhras,0pcBzqJOUJWxpEHO7aVB0d,38,2001,classical,0.06,0.118,9,-20.184,0,0.0373,0.863,0.915,0.109,0.0352,65.794,304013,3
+Orden Ogan,The Face of Silence,2Gh43JNCRxUjo5jTUnCpxZ,26,2017,classical,0.44,0.975,2,-3.906,1,0.0596,0.000211,0.00819,0.277,0.0737,96.039,374227,4
+Wolfgang Amadeus Mozart,"Sonata for Piano and Violin in E Minor, K. 304: I. Allegro",2aE1VNdRij18FhWWRNKsxY,0,2023,classical,0.384,0.16,4,-20.184,0,0.0401,0.973,0.533,0.196,0.434,86.611,423027,4
+Henry Smith,No One - Piano Version,4Io6bISowwt8uFvnlBk1qC,49,2022,classical,0.365,0.00584,4,-27.329,1,0.0527,0.996,0.935,0.0696,0.232,167.259,187375,4
+Improline,In This Moment,794Ns2yEYlZuWTygrP3gpF,29,2022,classical,0.312,0.00757,3,-27.113,0,0.0473,0.989,0.953,0.103,0.228,71.538,161455,4
+Arnold Schoenberg,"Violin Concerto, Op. 36: II. Andante grazioso",1Yei1vnZmqT1wcP5VPej3k,14,2008,classical,0.241,0.0989,2,-22.861,0,0.0433,0.942,0.345,0.303,0.0457,103.047,449773,4
+Carl Philipp Emanuel Bach,"Notebook for Anna Magdalena Bach (1725) [Excerpts]: No. 17, Polonaise in G Minor, H. 1 No. 2 [Attrib. J.S. Bach's BWV Anh. 123]",3rfXh4LVoirBmsmdDKfd3u,43,2021,classical,0.535,0.122,7,-22.273,0,0.0491,0.995,0.882,0.145,0.664,96.846,66853,3
+Ludwig van Beethoven,"Beethoven: Symphony No. 8 in F Major, Op. 93: IV. Allegro vivace",6R1X9beRwuuhdT4ERX9P0F,23,2003,classical,0.388,0.225,5,-19.127,1,0.041,0.95,0.716,0.0967,0.246,139.532,462093,4
+Giuseppe Verdi,"Verdi: Nabucco, Act 3: ""Va pensiero"", 'Chorus of the Hebrew slaves' (Chorus)",1OOFbCYALA1gOGgdml5PF8,15,2010,classical,0.192,0.0409,1,-21.045,1,0.0417,0.981,0.479,0.108,0.0865,73.651,273000,4
+Frédéric Chopin,"Mazurka No. 47 in A Minor, Op. 67 No. 4",3GdcMcXUew4U4RBIopsvH4,23,2008,classical,0.178,0.0416,9,-30.818,0,0.042,0.993,0.889,0.0616,0.207,170.974,146147,3
+Nick Johnston,Remarkably Human,1yKRrR2oPVLUm6upovLq3x,33,2016,classical,0.438,0.781,3,-6.19,0,0.0441,0.0421,0.839,0.104,0.11,144.849,398387,4
+Antonín Dvořák,"Symphony No. 8 in G Minor, Op. 88, B. 163: III. Allegretto grazioso - Molto vivace",6iK2U3MiBhhaYy0w95rGYX,31,2000,classical,0.217,0.057,7,-25.288,1,0.0387,0.761,0.752,0.34,0.293,129.85,419667,3
+Johann Sebastian Bach,"The Art Of Fugue, BWV 1080 - Version For String Quartet: Contrapunctus 11",1xXeQAVBTrm7qQ3BdPranB,12,2003,classical,0.587,0.172,2,-19.783,0,0.0632,0.965,0.576,0.121,0.637,81.492,283107,4
+Joseph Boulogne Chevalier de Saint-Georges,Violin Concerto No. 10 in G Major: Largo,3Rw0Rg4LjlYnuxIyioW3vg,50,2004,classical,0.212,0.0517,2,-24.467,1,0.0525,0.928,0.639,0.112,0.152,185.678,397640,3
+Carl Czerny,Demi Plie - Czerny 2x16,5GFpFn99WIaKibjhJ4uWJU,16,2007,classical,0.348,0.0611,10,-24.648,1,0.0368,0.99,0.928,0.0649,0.685,110.073,68360,4
+Karen Biehl,Danse du Coeur,7tVNancE1TsTUXWjhdUTIg,36,2021,classical,0.315,0.0208,3,-24.25,1,0.0524,0.992,0.889,0.117,0.0397,66.036,121500,3
+Claude Debussy,"Pelléas et Mélisande, CD 93, Suite (Arr. Leinsdorf): II. Act II. Opening - Interlude 3 - Interlude 4",0LGutDI2q2c9KbZchjgOMX,14,2001,classical,0.164,0.0145,10,-29.69,0,0.0459,0.956,0.724,0.275,0.0335,110.776,550640,5
+John Dowland,My Lord Willoughby's welcome home,4sAGHxlo3GIYHJbzfZ31oA,24,2010,classical,0.47,0.0261,0,-38.698,0,0.0479,0.986,0.928,0.0931,0.652,128.032,98000,4
+George Frideric Handel,"Ode for St. Cecilia's Day, HWV 76: Air: What passion cannot Music raise",28Lhq1AbMJVtbSQbWjF8zl,30,2004,classical,0.173,0.00915,6,-29.673,1,0.0502,0.948,0.338,0.116,0.0636,71.615,498200,3
+Johann Sebastian Bach,Suite No. 6 in D Major BWV 1012: VI. Gigue,2dWogdrvsq6luZb1OEgaPu,21,2007,classical,0.465,0.135,2,-16.844,1,0.0599,0.993,0.907,0.126,0.586,116.892,241427,5
+Richard Wagner,"Tannhäuser, WWV 70, Act II: Dich, teure Halle, grüß ich wieder",5dBHELm9dGc3kKsPeYIYKd,39,2019,classical,0.237,0.233,4,-13.073,0,0.0488,0.983,0.000296,0.0856,0.0395,168.872,221187,4
+Dominique Charpentier,À l'ombre du figuier,4N1OWWEGVQCKq8tppVEozG,34,2020,classical,0.153,0.0191,9,-25.451,0,0.0403,0.992,0.939,0.0856,0.0819,59.826,168000,4
+James Whitbourn,Requiem canticorum: De profundis,6Mz4j8oTa6UPQgZgupiF7b,23,2011,classical,0.18,0.0412,9,-29.446,0,0.0372,0.99,0.638,0.101,0.0386,79.697,107640,5
+Johannes Brahms,Variation 1: Poco piu animato,3qaggV0MsaBwKDW8296ZXk,30,2007,classical,0.253,0.122,10,-21.848,1,0.0343,0.876,0.913,0.122,0.444,84.837,84840,4
+London Symphony Orchestra,"Serenade No. 13 for Strings ""A Little Night Music"" in G Major, K. 525: II. Romanze andante",3NsTvUrXlq9uYlMAmRtaoy,26,2010,classical,0.24,0.0556,0,-23.984,1,0.045,0.87,0.919,0.133,0.176,74.656,328230,4
+Frédéric Chopin,"24 Preludes, Op. 28: No. 15 in D Flat Major. Sostenuto ""Raindrop""",16lscXk0JZ078EVRAIN7Bs,48,2021,classical,0.401,0.0127,1,-23.075,1,0.0586,0.995,0.906,0.0859,0.0691,130.857,379667,4
+Paul Mealor,Ubi Caritas,2Kf26lIbtWSVV3sQZkiWvQ,15,2015,classical,0.169,0.00701,1,-27.94,1,0.0445,0.989,0.677,0.0945,0.0361,127.101,228040,1
+Johannes Brahms,Lullaby and Good Night,1H6LQvFojGOY7qVNuFgKfw,25,2018,classical,0.365,0.0153,3,-27.287,1,0.0409,0.99,0.904,0.114,0.19,67.332,140092,3
+Frank Bridge,A Fairy Tale Suite: III. The Spell: Adagio e sostenuto,0LmdBdB0G9RjY9174NX9H8,17,2006,classical,0.323,0.00364,0,-34.874,1,0.0535,0.993,0.95,0.0667,0.0634,74.404,253787,4
+Giovanni Battista Pergolesi,Pergolesi: Stabat Mater: XII. Quando Corpus morietur,07co9HhBqZGNpzA0lTFshq,28,2013,classical,0.146,0.045,9,-19.257,0,0.0443,0.983,0.331,0.125,0.0384,72.586,267043,4
+Johann Sebastian Bach,"Bach, JS: Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (Arr. Lüstner)",0ZqZ2IzzljA4ZAelYXhanB,23,2015,classical,0.24,0.0371,7,-34.4,0,0.0398,0.996,0.906,0.126,0.114,139.205,103667,3
+Frédéric Chopin,"24 Préludes, Op. 28: No. 15 in D-Flat Major: Sostenuto",4rE1C9NkDllbHxph15Xu2p,0,2023,classical,0.335,0.0118,1,-23.89,1,0.0414,0.992,0.932,0.085,0.0835,92.445,290933,4
+Andrea Bocelli,"The Music Of The Night - From ""The Phantom Of The Opera""",6bmbRb8YQjZsCQwd96duXW,21,2015,classical,0.237,0.195,1,-13.195,1,0.0397,0.951,9.62e-05,0.101,0.131,143.381,237433,5
+Arelius,Over The Rainbow (Arelius Piano Solo),5me0wIvIXVH8xfY2LvnjZk,20,2018,classical,0.44,0.0303,0,-23.962,1,0.0436,0.985,0.908,0.109,0.194,70.652,171000,3
+Henryk Wieniawski,"Polonaise de Concert in D, Op. 4",74hBhv3l3x4TSk4M16MdwL,16,2003,classical,0.338,0.183,2,-17.644,1,0.0814,0.967,0.111,0.114,0.353,177.587,308893,4
+Johann Sebastian Bach,"Partita for Violin Solo No. 2 in D minor, BWV 1004 - Arr. Segovia: Ciaccona",3zxkp6SItVmZS14l1EjygU,11,2002,classical,0.467,0.127,2,-19.808,1,0.0611,0.954,0.901,0.0786,0.332,132.012,831333,4
+London Symphony Orchestra,Far Horizons,3d5JycJJEgg9c2X2xQYpnf,28,2021,classical,0.168,0.135,10,-15.812,1,0.0369,0.958,0.739,0.182,0.0374,60.865,316973,4
+Johann Sebastian Bach,Sonata in F Minor Bwv 1018: Iv. Vivace,3nWwWWbVwhy8gPZpDGWhAR,5,2023,classical,0.506,0.275,4,-21.057,0,0.0434,0.841,0.0,0.0886,0.82,95.712,153520,4
+Arcangelo Corelli,"Sonata in C Major, No. 3: III. Adagio",7KdmEQb5DZpLAbn78zrTXU,20,2004,classical,0.0707,0.101,8,-16.093,0,0.0432,0.966,0.415,0.12,0.0415,64.081,195240,4
+ANGRA,The Shadow Hunter,3tMOHXczJyzFCitFAjLUY7,35,2004,classical,0.523,0.912,7,-6.436,1,0.0697,0.0202,8.71e-05,0.0735,0.235,130.021,488493,4
+Daniel Barenboim,"Bach, JS : Well-Tempered Clavier Book 2 : Fugue No.10 in E minor BWV879",2bfxFGkRllUKWSlD5wk1nb,13,2004,classical,0.303,0.174,4,-20.765,0,0.0499,0.991,0.787,0.127,0.202,55.716,204147,4
+Dionysus,Eyes of the World,0CJuCUC4PUKDlKjVwqSIbY,24,2004,classical,0.441,0.978,6,-4.236,1,0.128,7.8e-05,0.0,0.0856,0.087,110.018,338480,4
+Nana Ou-Yang,The Best For You,4WMCn6s4BZZPfQT3DJbB47,50,2020,classical,0.461,0.338,9,-9.458,1,0.0805,0.632,2.57e-05,0.0803,0.0997,184.143,238823,3
+Symphony X,Light up the Night,4xl8rnMvzka7hDqHW2JgOO,21,2011,classical,0.406,0.99,0,-5.339,1,0.0774,0.000179,0.000806,0.237,0.299,167.941,303507,4
+Frédéric Chopin,"Nocturne in C-Sharp Minor, Op. 27 No. 1",217q37AihiC1jm9Qh7PNyB,38,2018,classical,0.307,0.0275,1,-21.807,1,0.0393,0.993,0.901,0.187,0.0388,163.404,297944,3
+The Aristocrats,Sweaty Knockers,2C5S977QgDdLTPc2pKVRUc,28,2011,classical,0.344,0.809,9,-5.723,1,0.0762,4.39e-05,0.742,0.388,0.342,168.397,489560,4
+Georg Philipp Telemann,"Concerto for flute, violin and cello in A major / La majeur / A-dur: II. Allegro",278v33lRHROhK4wjKZndd4,21,2010,classical,0.407,0.16,8,-18.599,1,0.0378,0.834,0.0,0.0976,0.544,119.771,370520,3
+Rhapsody Of Fire,Unholy Warcry,3f6KCfAEKkL43OvGty6NcC,39,2004,classical,0.327,0.88,0,-4.841,1,0.0651,0.0225,0.00199,0.244,0.155,90.005,353520,4
+Dream Theater,VIII. Losing Time / Grand Finale,293oSkv6a4gieDGf3WUsXm,32,2002,classical,0.157,0.697,9,-6.612,1,0.0375,0.02,1.09e-05,0.167,0.038,172.269,359507,3
+Ajay Pohankar,Ab Ke Sawan Ghar Aaja,1QYygSm1keGSJvCt6RSFSL,24,2012,classical,0.604,0.418,5,-13.901,1,0.0748,0.59,0.0682,0.0809,0.182,138.077,372533,4
+Keldian,The Last Frontier,25mrHS4aTP9TLWkzOTIiy9,33,2008,classical,0.485,0.897,5,-9.302,0,0.0464,2.15e-05,0.016,0.467,0.449,144.972,206170,4
+Tan Dun,Snow,44pu908rXLjnEEanrqahMd,17,2002,classical,0.371,0.252,5,-15.367,1,0.049,0.954,0.77,0.12,0.119,125.848,66760,4
+Wolfgang Amadeus Mozart,"Ein musikalischer Spass, K. 522: IV. Presto",0QnYqbwMFLxPypDBA8QdeT,33,2001,classical,0.466,0.103,5,-20.162,1,0.0578,0.965,0.897,0.305,0.491,116.795,263640,4
+Wolfgang Amadeus Mozart,Sonata for Two Pianos in D major KV 448 (375a): Allegro con spirito,2qv8jVGDplHtS1yfiRKMkp,22,2011,classical,0.404,0.32,1,-20.247,1,0.0327,0.956,0.954,0.102,0.642,130.129,515373,4
+Antonín Dvořák,"String Quintet in E-Flat Major, Op. 97 'The American': IV. Allegro giusto",6b66tfLhgcYVaFnn5f32XU,16,2017,classical,0.335,0.179,6,-17.169,1,0.039,0.915,0.839,0.0957,0.208,91.714,494747,4
+Johann Strauss II,"Orpheus-Quadrille, Op. 236",0g9RL3EEKzzUcI6UqtjgYo,24,2008,classical,0.44,0.56,7,-14.334,1,0.255,0.913,0.748,0.784,0.508,109.238,323120,4
+Gustav Holst,"Second Suite in F Major, Op. 28 No. 2, H. 106: III. Song of the Blacksmith",2IahnzP9jC9qpt1BYPgyr0,28,2006,classical,0.606,0.293,5,-14.35,1,0.0291,0.965,0.877,0.104,0.804,103.284,79307,4
+Dream Evil,Children of the Night,5Ce09zWt8lkMYP8TDI0wDh,22,2003,classical,0.406,0.891,7,-3.671,1,0.057,0.000135,0.0996,0.329,0.61,137.835,285493,4
+Roger Woodward,"Jessica's Theme (From ""The Man From Snowy River"")",4o8qsqdav1Ei90VVpJ4tru,15,2006,classical,0.38,0.00708,2,-28.511,1,0.0408,0.994,0.911,0.292,0.275,136.595,201760,4
+Joaquín Rodrigo,Rodrigo / Arr Cameron : En Aranjuez con tu amor [from Concierto de Aranjuez],4zYh9UBqGsjsehmtxxyo6Y,19,2009,classical,0.176,0.254,2,-14.995,0,0.0373,0.824,0.0704,0.162,0.142,88.564,241800,4
+Ron Adelaar,Gloria In Excelsis Deo,7I2ZT2jcpykUtIqY2HiJgq,23,2021,classical,0.456,0.0416,5,-26.251,1,0.0425,0.995,0.929,0.115,0.472,97.143,120100,3
+Pyotr Ilyich Tchaikovsky,Melody in E-flat,401RkuLh6314LQptsdjYBy,11,2001,classical,0.427,0.201,10,-18.863,1,0.0369,0.992,0.89,0.152,0.186,104.016,189107,4
+Ludwig van Beethoven,"Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 ""Moonlight"": II. Allegretto",6ocPgeaxAkpvMkvzZdTdCD,14,2001,classical,0.403,0.0375,1,-29.525,1,0.0449,0.994,0.851,0.11,0.229,69.821,124880,4
+Giacomo Puccini,Gianni Schicchi: Oh! Mio babbino caro,5BKgSFTF0amkoTpSohDwll,17,2010,classical,0.465,0.00448,7,-32.399,1,0.0414,0.994,0.937,0.109,0.293,69.418,96640,4
+Marin Marais,La Folia - Arranged for Cello and Accordeon,7d6frno5c8PmIHKswPgOuI,12,2001,classical,0.239,0.0332,0,-22.655,1,0.0458,0.986,0.846,0.067,0.114,140.9,558227,4
+Steve Vai,Dark Matter,3rjBROIs1VgeUPcAq6ALn2,27,2016,classical,0.463,0.991,7,-4.034,1,0.0507,0.000456,0.145,0.0522,0.381,125.959,233240,4
+Jeff Loomis,Azure Haze,367dFrZJfkPr0GHbr9Vkga,15,2008,classical,0.394,0.707,6,-5.331,1,0.0393,0.00102,0.902,0.185,0.0945,120.023,299907,3
+Kamelot,The Black Halo,4YDR6NUGuffwJ1vipdpHiY,33,2005,classical,0.449,0.876,5,-6.54,1,0.0809,4.88e-05,0.000178,0.346,0.357,136.016,223280,4
+Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air on the G String (Arr. Cullen for Cello and Orchestra)",1NZYB95ExkZH55FiH9j9J7,23,2018,classical,0.112,0.0731,2,-26.369,1,0.0414,0.984,0.876,0.107,0.142,90.902,228000,4
+Johann Strauss II,"An der schönen blauen Donau, Walzer, Op. 314",5431KRbZtVF3tVgMR1lIYS,42,2020,classical,0.207,0.0854,2,-19.104,1,0.042,0.976,0.923,0.0663,0.138,199.771,622227,3
+Ludwig van Beethoven,"Bagatelle In a Minor, WoO 59",3m5IS2R5vhOC1mXV0fw7Tb,16,2009,classical,0.259,0.0769,9,-23.814,0,0.0468,0.994,0.933,0.08,0.266,67.659,182320,4
+Peter Donohoe,"Six Piano Pieces, Op. 118: No. 2, Intermezzo in A Major (Andante teneramente)",2ZJPbabhLakOYRe6GMsynH,39,2020,classical,0.328,0.00896,9,-32.422,1,0.0528,0.995,0.886,0.0918,0.0716,83.641,373293,5
+Ludwig van Beethoven,"Beethoven: Piano Trio No. 5 in D Major, Op. 70 No. 1 ""Ghost"": II. Largo assai ed espressivo",4b0u2Ah9X4J6JQAVsxGdzi,13,2001,classical,0.139,0.0704,2,-20.366,0,0.0422,0.968,0.635,0.0646,0.0322,90.25,783600,4
+Ottorino Respighi,"Bach - 3 chorales, P. 167: No. 1. Lento assai (after J.S. Bach's Nun komm, der Heiden Heiland, BWV 659)",4Vn9c98Bd9K0LnGMdo1euV,20,2012,classical,0.0803,0.0103,0,-35.685,0,0.0431,0.696,0.953,0.0952,0.0385,83.05,336987,3
+Gioachino Rossini,"Rossini: Il barbiere di Siviglia, Act 1: ""Largo al factotum"" (Figaro)",4KDsOoC2pfYq794r2SQf7I,11,2003,classical,0.365,0.22,7,-19.082,1,0.0639,0.955,0.23,0.127,0.6,66.759,283893,4
+Arnold Schoenberg,Notturno for Strings and Harp,7nGA1sRfLDWXYb3VPstnZf,60,2020,classical,0.0979,0.0801,8,-19.643,1,0.0458,0.941,0.431,0.115,0.0608,75.314,192420,4
+Alexander Scriabin,"24 Preludes, Op. 11: No. 1 in C Major",5VUqbQ8Z5NXEITbmFhAhbk,56,2000,classical,0.351,0.273,0,-21.277,1,0.051,0.991,0.873,0.253,0.0629,71.184,62507,3
+Edward Elgar,Pomp And Circumstance March No 1,0GXJ6r9aHj0Lx6ADBiCj9E,44,2007,classical,0.205,0.265,2,-17.603,1,0.0371,0.876,0.847,0.141,0.311,87.881,334507,4
+Arcangelo Corelli,"Sonata in D Major, No. 1: V. Allegro",3MnIqUHVnOm20rHs4zXgG1,16,2004,classical,0.472,0.222,8,-15.217,1,0.064,0.979,0.0275,0.277,0.129,95.449,111973,4
+Yo-Yo Ma,My One and Only Love,0yuUqVmERc7d4uevQj5Cj1,20,2008,classical,0.22,0.293,9,-11.519,0,0.0349,0.916,0.856,0.0736,0.165,96.366,247173,3
+Gustav Mahler,"Mahler: Symphony No. 2 in C Minor ""Resurrection"": V. (g) Mit Aufschwung aber nicht eilen. ""O Schmerz !""",4IVBrG3pP83Jlqsy4zeMrn,26,2010,classical,0.099,0.378,3,-13.345,1,0.0357,0.843,0.295,0.0911,0.064,80.352,286347,3
+Joaquín Rodrigo,Concierto de Aranjuez for Guitar and Orchestra: 2. Adagio,28IaD1WZ5nVksQ3PxCT5yQ,23,2014,classical,0.257,0.0503,11,-21.59,0,0.0467,0.941,0.927,0.0956,0.0733,69.639,652307,4
+Sergei Rachmaninoff,"Rachmaninov: 10 Preludes, Op. 23: No. 9 in E-Flat Minor",66mwoaRKQqVMy7GTswy0Ii,36,2011,classical,0.214,0.0876,3,-23.485,0,0.0372,0.978,0.932,0.186,0.207,108.811,139000,3
+Edvard Grieg,"Peer Gynt, Suite No. 1, Op. 46: Morning",0q4v0xUyCEcyLdT9UxJ1D6,24,2003,classical,0.148,0.0817,4,-18.836,1,0.0368,0.976,0.883,0.102,0.0371,86.792,227000,4
+Wolfgang Amadeus Mozart,"Requiem, K. 626: Introitus: Requiem",3ok4aAiLrrRrxHy2up9Udj,32,2013,classical,0.129,0.124,2,-22.413,0,0.0331,0.945,0.0963,0.144,0.0715,94.267,246600,4
+Yomiuri Nippon Symphony Orchestra,I Live on the Shore of Yangtze River (arr. for orchestra),3SixuJwif69IvFHdrMCfbD,24,2016,classical,0.137,0.181,0,-16.711,1,0.0353,0.896,0.89,0.0696,0.184,88.987,179800,4
+Carl Orff,"Carmina Burana: VIII. Chramer, gip die varwa mir",5ALX7Pwc0caK8eKNhPfPE3,24,2005,classical,0.159,0.00675,7,-36.379,1,0.0363,0.987,0.253,0.0895,0.0738,145.729,203800,4
+John Cage,The Seasons: 5. Prelude III,0M3UkQXudoahgbHxMUfn4J,16,2005,classical,0.469,0.000842,2,-34.578,0,0.0426,0.99,0.911,0.103,0.513,69.151,104107,4
+Gustav Mahler,"Symphony No. 6 in A Minor: I. Allegro energico, ma non troppo. Heftig, aber markig - Live at Philharmonie, Berlin, 2004",67ogz3Hz2JF5n2fgjqrH7N,30,2005,classical,0.238,0.107,5,-24.352,1,0.0388,0.875,0.604,0.185,0.0938,123.387,1368453,4
+Felix Mendelssohn,"String Quartet No. 2 in A Minor, Op. 13, MWV R22: I. Adagio; Allegro vivace",38O4gZ7ncHczVsyCC5EDuP,20,2005,classical,0.29,0.128,9,-21.259,0,0.0374,0.955,0.355,0.192,0.148,76.854,458173,4
+DragonForce,Inside the Winter Storm,1UPQg2W3f1AtFO2O3hzly9,27,2008,classical,0.215,0.965,0,-3.748,0,0.156,8.12e-05,0.00493,0.0541,0.186,199.908,491533,4
+Nikolai Rimsky-Korsakov,"Spanish Capriccio in A Major, Op. 34: IV. Scena e canto gitano. Allegretto",2ZhlIu934LXsZyHDHC2E5K,13,2001,classical,0.328,0.076,2,-25.173,1,0.0476,0.913,0.259,0.227,0.132,95.808,333040,3
+Dream Theater,III. War Inside My Head,0Q1YgE1Woe6PpWHseZqxFI,36,2002,classical,0.478,0.938,10,-5.816,0,0.118,7.8e-05,9.82e-05,0.138,0.431,101.421,128000,3
+Johann Sebastian Bach,"Sinfonia No. 5 in E-Flat Major, BWV 791",2AQH0HED8J5G3vsYMlIrxw,21,2014,classical,0.363,0.0322,0,-26.755,0,0.045,0.994,0.858,0.0848,0.269,68.945,168400,4
+Nobuo Uematsu,"The Oath (From ""Final Fantasy VIII"")",0EwSgayuRzM3R2wjq01kiz,26,2017,classical,0.0701,0.237,4,-13.232,0,0.0355,0.85,0.823,0.175,0.0396,74.886,325707,4
+Pyotr Ilyich Tchaikovsky,"The Nutcracker, Op. 71: Act II Tableau 3: The enchanted palace of the kingdom of sweets",3RnrDeLpjokGTfVXYwMMCz,17,2011,classical,0.132,0.146,4,-24.256,1,0.0438,0.939,0.922,0.0701,0.0776,156.662,254133,3
+Czech Philharmonic Orchestra,Carmen: Habanera,1loXV1XEVxalHk7crkggIM,20,2011,classical,0.617,0.00835,2,-24.432,1,0.0443,0.959,0.00194,0.253,0.509,122.929,131707,4
+Frédéric Chopin,"Cello Sonata in G Minor, Op. 65: I. Allegro moderato",57ViOPIAGDo8mvVGoeq63b,20,2015,classical,0.208,0.106,7,-23.833,0,0.0454,0.987,0.815,0.105,0.0749,90.657,971547,4
+Claude Debussy,La Fille aux Cheveux de Lin,1FP9utnIkLyhZJ2YZ72Kuf,39,2020,classical,0.465,0.00696,6,-32.062,1,0.0713,0.984,0.924,0.0683,0.0396,100.963,171613,3
+Sjors Mans,Hemel,0TfA5xRsgyfcxHppDzLRZk,23,2019,classical,0.198,0.00659,0,-34.933,1,0.0398,0.877,0.883,0.104,0.0397,87.954,149773,1
+Ron Adelaar,Grace,4lyGjZL4ViWXLNRHTX8xWw,27,2021,classical,0.458,0.0157,10,-22.996,0,0.0379,0.985,0.923,0.101,0.102,67.053,128909,1
+Sergei Prokofiev,"Peter and the Wolf, Op. 67 (Without Narration): The Wolf tries to escape",1JAu8idLYNBOiyazR0yhpM,22,2015,classical,0.283,0.165,9,-22.919,0,0.0377,0.968,0.855,0.113,0.0569,95.545,87267,4
+Robert Schumann,"Concertstuck in F Major, Op. 86: III. Sehr Lebhaft",7dCuVrZHxOCyWZVrNdfixc,12,2005,classical,0.382,0.145,5,-22.735,1,0.043,0.989,0.901,0.149,0.234,134.361,357293,4
+Paul Hindemith,"In einer Nacht, Op. 15: No. 2, Sehr langsam - Musical Moments",0b0NXgRU5fX5U6dfjYsgKe,43,2022,classical,0.474,0.0248,1,-33.928,0,0.0612,0.993,0.908,0.0819,0.062,100.492,84053,3
+Yo-Yo Ma,V. Bourrées I & II,4I0ujpUBwWeI7ytfkdRt1Q,18,2018,classical,0.408,0.0293,7,-28.517,1,0.0614,0.981,0.889,0.135,0.439,116.383,219853,4
+Ron Adelaar,For Ariani,7BgeVBF9UGQgHzTZD1gKHZ,35,2022,classical,0.423,0.0266,7,-24.964,0,0.0405,0.99,0.956,0.112,0.199,128.828,155464,3
+Frédéric Chopin,"12 Études, Op. 10: No. 12 in C Minor ""Revolutionary""",4AaM4Dd8eaVIVpUFtw9pjy,27,2002,classical,0.301,0.161,0,-20.006,0,0.0319,0.977,0.831,0.0977,0.169,139.923,152133,4
+Roland Pöntinen,Six Gnossiennes (1889-97): Gnossienne No. 1,0D5TzaCOdPKVZkXu5LzDZC,17,2011,classical,0.447,0.00379,5,-27.842,0,0.0738,0.995,0.913,0.0826,0.102,136.281,196000,4
+Johannes Brahms,Variation 8: Presto non troppo,485WmWxAkgiIR8ZYi0C2rd,25,2007,classical,0.235,0.0439,10,-31.112,1,0.037,0.984,0.971,0.186,0.341,89.431,60600,4
+Johann Christoph Friedrich Bach,"Symphony in C Major, W. I/6: I. Allegro di molto",03pgiGHRCSf1mLGSR0XGLh,18,2011,classical,0.427,0.292,0,-16.356,1,0.0327,0.971,0.758,0.0829,0.498,149.154,237013,4
+Antonio Lauro,Petronila,7enuVa0TyrQ66lr7lt6z4L,19,2007,classical,0.409,0.182,9,-22.719,0,0.0699,0.992,0.896,0.101,0.73,116.77,47093,3
+Joseph Haydn,"Sonata No. 13, Hob. XVI:6: Sonata No. 13, Hob. XVI:6: III. Adagio",4hdX7UtAQ1yQA1XEq4gsdO,29,2018,classical,0.39,0.0464,7,-28.44,0,0.0522,0.991,0.894,0.0595,0.0523,74.361,282360,3
+Robot Koch,Care,24dT9yBLtcVxNkYuHwDPCe,38,2015,classical,0.405,0.311,0,-16.827,1,0.0296,0.944,0.908,0.208,0.192,137.875,211579,3
+Howard Shore,"The Sacrifice of Faramir (feat. Billy Boyd Performing ""The Edge of Night"")",5z89FzQzTQOwSJFlMp6UFd,47,2003,classical,0.0881,0.116,6,-24.491,0,0.0385,0.946,0.567,0.117,0.115,83.441,248493,5
+Ólafur Arnalds,Film Credits,5tmtJPv2RyTqFQUC4VDgYy,42,2011,classical,0.171,0.193,4,-12.984,0,0.0392,0.974,0.924,0.0822,0.0922,132.458,204866,5
+Gabriel Fauré,"Dolly Suite, Op. 56: I. Berceuse. Allegretto moderato (Arr. for Cello & Piano)",0SrovCykVI8dSSAzzkbo4Z,26,2017,classical,0.154,0.033,4,-28.117,1,0.055,0.994,0.947,0.0789,0.165,94.862,147520,4
+Johann Sebastian Bach,"Partita for Violin Solo No. 1 in B Minor, BWV 1002: 6. Double",6MdMgILi0IOLnCBIJqU0Lw,21,2018,classical,0.33,0.0839,11,-21.13,0,0.062,0.986,0.000752,0.132,0.408,88.917,214547,3
+Claude Debussy,"Clair de lune, CD 82/3 (Arr. Koncz)",6cwDVYsQ4phsqFaWP0giNx,36,2018,classical,0.205,0.0352,1,-24.747,1,0.0524,0.934,0.0639,0.212,0.0379,84.893,272737,3
+Carl Philipp Emanuel Bach,"Keyboard Sonata in D Minor, Wq. 51/4, H. 128, ""Fortsetzung Sonata No. 4"": I. Allegro assai",5FRcoLjGLuTzjl1Kt981CR,16,2006,classical,0.221,0.183,5,-23.136,1,0.0395,0.991,0.911,0.196,0.63,141.458,192800,5
+Johann Sebastian Bach,"Weihnachts-Oratorium, BWV 248, Pt. 2: Sinfonia",1dsQqI1wHUCII0NcSkkHWW,28,2018,classical,0.0767,0.0278,6,-26.639,1,0.0384,0.945,0.15,0.107,0.0511,79.338,366267,4
+Josquin des Prez,Ave Maria - (4vv),2K8QIwrWNWs4P41JARmI68,16,2008,classical,0.0973,0.0134,10,-36.106,1,0.0485,0.981,0.0715,0.0682,0.0339,68.949,423293,3
+Avantasia,Wastelands - The Wicked Symphony,1a7o8XaCEygqNC5szxnZNd,29,2010,classical,0.383,0.97,4,-3.584,1,0.0661,2.69e-05,0.00295,0.147,0.228,145.962,283507,4
+Giuseppe Tartini,"L'arte dell'arco, B. F11: Variazione No. 24",6QeYcewN6q2sq6tLykHn3m,35,2020,classical,0.291,0.00877,5,-25.761,1,0.0557,0.982,0.0984,0.467,0.76,172.723,71935,3
+Wolfgang Amadeus Mozart,"Bassoon Concerto in B-Flat Major, K. 191: II. Andante ma adagio (Cadenza: Santana) - Live",3KoyqmUj542laSHwuw8VqV,0,2023,classical,0.18,0.0162,5,-27.222,1,0.0456,0.99,0.758,0.0638,0.0687,80.49,359680,4
+Howard Shore,The Host of the Eldar,0qzGxYROk16HRxlBpJNkP6,33,2002,classical,0.19,0.0701,5,-22.404,1,0.0403,0.964,0.949,0.088,0.0333,65.929,170680,5
+Johann Sebastian Bach,"Brandenburg Concerto No. 1 in F Major, BWV 1046: 2. Adagio",7xF8aLwOeEH2vq5HpKRAdV,11,2001,classical,0.122,0.151,2,-21.574,0,0.0387,0.953,0.819,0.0667,0.0384,69.979,244680,3
+Johann Sebastian Bach,前奏曲とフーガ ハ短調 BWV847 (平均律クラヴィーア曲集第1巻 第2曲),1HPrzMn7jIWv2Be7j8n9MJ,17,2023,classical,0.281,0.251,0,-22.35,0,0.0456,0.993,0.919,0.0881,0.619,89.627,189240,4
+Claude Debussy,Clair de Lune (Moonlight) from Suite Bergamasque (1905),1rxcmWp7ujuP39u2P1Ehjm,18,2015,classical,0.31,0.0288,1,-24.265,1,0.0433,0.994,0.898,0.0889,0.0384,68.646,284820,3
+Charles Gounod,"Ave Maria, CG 89a (After Bach)",0DLNOV7rKtv2zckkEJ7GTZ,13,2014,classical,0.157,0.159,0,-16.889,1,0.0674,0.965,0.728,0.146,0.0704,183.622,105573,4
+Wolfgang Amadeus Mozart,"Piano Sonata No. 3 in B-Flat Major, K. 281: III. Rondeau. Allegro",1WLSLwoHUepR66M81kYpEO,11,2001,classical,0.353,0.0789,10,-27.021,1,0.0554,0.995,0.888,0.14,0.515,172.165,267308,4
+Joseph Haydn,"String Quartet In G Major, Hob.III No. 57, Op. 54 No. 1: 2. Allegretto",2ELKwPkPhqpBhHZYJFqk88,16,2001,classical,0.321,0.0128,0,-28.938,1,0.0533,0.951,0.0543,0.0865,0.0527,121.133,343000,4
+Wolfgang Amadeus Mozart,"Piano Sonata No. 10 in C Major, K. 330: I. Allegro moderato",03UwffRfKnlGxRuOr7RF7v,8,2001,classical,0.357,0.0593,0,-28.338,1,0.0405,0.992,0.919,0.0665,0.661,138.183,379971,4
+Yiruma,Remember The Scene,7eF6bx1dYpREtxGkyvj1JY,18,2001,classical,0.367,0.189,7,-17.458,1,0.0677,0.995,0.89,0.114,0.067,67.31,259253,3
+Jeff Loomis,Tragedy and Harmony,1MLDzI1sCN0cr9UmTwyDd0,26,2012,classical,0.474,0.972,1,-4.799,1,0.143,4.12e-06,0.0222,0.098,0.409,135.05,301013,4
+Gerald Finzi,"Lo, the full, final sacrifice, Op. 26: Amen",5IKCqR2oTQJ2HXKkcVFuMM,20,2000,classical,0.138,0.0594,4,-26.13,1,0.0481,0.931,0.994,0.0825,0.0314,68.695,66000,4
+Dark Moor,A Truth for Me,7n3yGqeK62RqnYQE0GrPfR,15,2002,classical,0.381,0.933,11,-4.308,1,0.0502,3.87e-06,0.0146,0.286,0.559,174.959,307067,4
+Cologne Chamber Orchestra,"Brandenburg Concerto No. 6 In B Flat Major, BWV 1051: I. Allegro",1oeZ7Rpn0A5Xnan3tuRFb2,13,2000,classical,0.488,0.209,10,-19.239,1,0.0404,0.965,0.878,0.153,0.672,89.557,359667,4
+Jesse Brown,Olav's Nap,1ggENcjhtMZOYDzHTMEkB8,34,2022,classical,0.459,0.19,3,-23.709,1,0.0274,0.975,0.916,0.109,0.348,148.365,133541,3
+Yiruma,추억과 함께 영원히 둘로 남는다,4CQU9Cvyp3VBdMI7oAOITj,17,2011,classical,0.406,0.126,2,-18.428,1,0.0733,0.979,0.96,0.0725,0.0387,75.865,212416,4
+Yiruma,Do You? 우리 사랑하기를,2z7RIY3ibMOC6AqBg0eSSW,33,2002,classical,0.529,0.0465,4,-25.785,0,0.0434,0.994,0.937,0.169,0.213,122.493,247014,4
+Maurice Ravel,"Le tombeau de Couperin, M. 68: IV. Rigaudon",2YoLNWgEnRa7vClLlRTi5F,10,2002,classical,0.324,0.0575,0,-27.581,1,0.0371,0.979,0.895,0.0698,0.287,174.422,196000,3
+Trans-Siberian Orchestra,Night Enchanted,42ORzaSP8lJh8xqMh8JJjI,19,2009,classical,0.387,0.36,7,-7.404,0,0.0324,0.581,0.0,0.0728,0.217,127.006,346147,4
+Dream Theater,IV. The Test That Stumped Them All,2PxCs01gHY8QyneYzq60wX,32,2002,classical,0.467,0.937,4,-5.811,1,0.0809,0.00092,0.000256,0.29,0.677,162.472,303227,3
+Gabriel Fauré,Requiem: Introitus & Kyrie - Live,70w8JmxUQ7cAzmHtz9gT6Y,18,2007,classical,0.0718,0.0311,2,-25.12,0,0.0429,0.984,0.705,0.0844,0.0337,77.196,317733,4
+Niccolò Paganini,"Paganini: 24 Caprices, Op. 1: No. 8 in E-Flat Major",0qSWLO1qdWMwmwH3YTAYxw,22,2000,classical,0.452,0.157,3,-19.967,1,0.0537,0.976,0.909,0.131,0.42,112.894,159333,4
+Maria João Pires,"Sonata No. 16 in B Flat Major, III. Allegretto",0Zam9335qobqoKpSd4Zdwm,16,2010,classical,0.408,0.178,10,-25.486,1,0.0398,0.992,0.914,0.0977,0.785,140.496,210667,4
+Johann Sebastian Bach,"Bach, JS: Orchestral Suite No. 1 in C Major, BWV 1066: III. Gavottes I & II",4yG4k9Qwd9NTg0nEeRLhWK,12,2023,classical,0.504,0.0755,11,-25.556,1,0.0414,0.948,0.424,0.0875,0.74,90.657,196627,4
+Andrea Bocelli,Dios nos bendecirá,6F89Ii7pfMzniZ4ueP5xDp,20,2009,classical,0.201,0.45,5,-5.162,1,0.0364,0.846,0.0,0.215,0.348,87.854,195743,5
+Iron Mask,Holy War,1V0vRFdhlRSBXRHPVTWNo2,29,2005,classical,0.42,0.974,11,-2.801,1,0.0886,0.000175,0.0286,0.862,0.13,102.926,311693,4
+Frédéric Chopin,"Nocturne Op. 27, No. 2",3PkHY26Ua6b4excwJF4BJV,35,2022,classical,0.235,0.0231,1,-25.674,1,0.0407,0.984,0.935,0.125,0.0393,69.217,389166,3
+Robert Schumann,"Kinderszenen, Op. 15: No. 7, Träumerei",2WjwQYMR9LUOfvtYTuVMLi,33,2022,classical,0.384,0.0128,5,-32.821,1,0.0599,0.996,0.948,0.0584,0.274,133.833,148027,3
+Jeroen van Veen,Spring Waltz,2jLthMhuKSwM7QTwlT7M3K,35,2014,classical,0.47,0.0726,7,-24.274,1,0.0438,0.992,0.91,0.0861,0.138,113.313,151636,3
+Claudio Monteverdi,"L'incoronazione di Poppea: ""Pur ti miro""",0XQwO3YXUzy49A2kGM07P2,26,2013,classical,0.277,0.0785,6,-19.509,1,0.0442,0.99,0.00529,0.0705,0.0866,122.826,276853,5
+Wolfgang Amadeus Mozart,"Mozart: Piano Concerto No. 23 in A Major, K. 488: III. Allegro assai",4gRQqqefeUNSPkRdLH0XZK,24,2003,classical,0.292,0.153,9,-21.056,1,0.0355,0.987,0.93,0.0882,0.322,147.036,441280,4
+Antonio Vivaldi,"Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 1. (Allegro giusto)",3IBo6REkZpvZsUTYZbd9Or,36,2020,classical,0.593,0.0431,1,-24.144,1,0.0349,0.951,0.542,0.107,0.505,111.024,231533,4
+Goldmund,The Death of General Wolfe,7MyaYnkcpZk2xPL3BLTPAA,19,2011,classical,0.596,0.0993,2,-14.912,0,0.0554,0.969,0.288,0.119,0.141,116.895,105693,4
+Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007 (Arr. J. Lindberg for Lute): I. Prélude",2MyWitFE32gAgXpGLO6icN,44,2021,classical,0.265,0.0863,10,-27.23,1,0.0453,0.991,0.905,0.103,0.664,143.646,159280,4
+Ludwig van Beethoven,"Piano Trio No. 3 in C Minor, Op. 1, No. 3: II. Andante cantabile con variazioni",19p3vh4vsrsSaZwpdZfpeQ,30,2022,classical,0.284,0.0528,3,-28.11,1,0.0443,0.977,0.759,0.0987,0.329,140.362,458587,4
+Edvard Grieg,"2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",43fd9XWup3L9E2PtH3k5EK,19,2011,classical,0.069,0.0637,0,-24.493,1,0.0408,0.596,0.725,0.116,0.036,74.659,251653,5
+Wolfgang Amadeus Mozart,"Horn Concerto No. 2 in E-Flat Major, K. 417: III. Rondo (Cadenza: Allegrini) - Live",2CxzBh9FK5g2FXohcoTsLB,0,2023,classical,0.443,0.105,3,-16.906,1,0.0451,0.994,0.94,0.0955,0.63,153.435,224333,1
+Sergei Rachmaninoff,"Rhapsody on a Theme of Paganini, Op. 43: Variation 18 - Live At Teatro Comunale, Ferrara / 2010",62jECX8WcGjGZ6iGEU6dnc,12,2011,classical,0.125,0.0282,1,-25.274,1,0.0392,0.982,0.903,0.0838,0.0407,81.621,165213,4
+Johann Sebastian Bach,"Violin Concerto No. 1 in A minor, BWV 1041: 2. Andante",6BNuEDmHgwB0m5hTFBWnJ3,14,2013,classical,0.225,0.0423,0,-23.714,1,0.0449,0.914,0.00295,0.121,0.0788,107.599,338640,3
+Michael Logozar,Silver Light,6QweBhSjGb3mJTI6iZUCKU,36,2021,classical,0.205,0.0392,3,-22.534,0,0.045,0.995,0.979,0.104,0.0884,92.927,147365,4
+Johann Strauss II,Artist's Life - Waltz Op. 316,1BpUxP6p0yWzbKygLIZCCi,27,2003,classical,0.312,0.0336,0,-24.434,1,0.0335,0.951,0.642,0.119,0.134,98.327,520360,4
+Niall Byrne,Felt Improv No. 31,7hq0zahMPS0Ct7k9tyI59F,50,2022,classical,0.393,0.0203,2,-31.088,0,0.0401,0.993,0.892,0.0851,0.173,52.993,144043,5
+Martynas,Hungarian Dance No. 5 in G Minor,0hNeeFZLRdVIXE33NymYd8,18,2013,classical,0.415,0.593,7,-6.75,0,0.0383,0.505,0.363,0.282,0.746,80.103,165480,4
+Dream Theater,Heaven's Cove,6OB16okVRzwvbY1ZKOH6RD,23,2016,classical,0.493,0.391,0,-11.818,1,0.0376,0.474,0.31,0.0881,0.0757,111.015,259907,4
+Johann Pachelbel,"Canon in D Major, P. 37",2txF2tgoSqvV4Mxqq0hBri,31,2001,classical,0.266,0.184,2,-17.884,1,0.042,0.902,0.518,0.209,0.156,116.15,244707,4
+Wolfgang Amadeus Mozart,"Missa solemnis in C Minor, K. 139 ""Waisenhausmesse"": II. Gloria: a. Gloria in excelsis Deo",3u2RKQK5fG9jiGK5X1iCXt,0,2023,classical,0.481,0.273,0,-17.819,1,0.0285,0.96,0.341,0.667,0.65,93.998,61467,4
+Howard Shore,The Crack of Doom,1VcYtdrXnUC5iqmYPPkoGP,36,2003,classical,0.0705,0.185,5,-17.106,1,0.04,0.849,0.567,0.109,0.0342,77.539,241720,4
+Yiruma,詩처럼,0ihfroFpxNckFH27C4fc1t,23,2005,classical,0.505,0.0838,8,-20.887,1,0.0554,0.979,0.957,0.177,0.137,108.148,195093,4
+Ricardo Cobo,El choclo (arr. R. Cobo): El Choclo (arr. R. Cobo),5uzW14q5HorDJpQYJgXBP1,30,2003,classical,0.345,0.0971,2,-26.937,1,0.0454,0.982,0.913,0.0895,0.346,126.53,249480,3
+Wolfgang Amadeus Mozart,"Symphony No. 40 in G Minor, K. 550: Molto allegro (The Living Daylights)",6E20kFt6M2RZ46W4QlEYy3,12,2000,classical,0.415,0.173,7,-16.699,0,0.0362,0.946,0.899,0.118,0.202,109.346,452707,4
+Incesaz,Çok Aşığın Var Diyorlar,1N76UccpbTgfKoqgUkKwq3,40,2002,classical,0.573,0.255,0,-14.362,0,0.0402,0.957,8.25e-05,0.105,0.21,96.226,226695,4
+Daniel Barenboim,"Bach, JS : Well-Tempered Clavier Book 2 : Prelude No.6 in D minor BWV875",7atnrDmPZyCFHpJkSFRzQZ,18,2004,classical,0.43,0.119,2,-24.465,0,0.0333,0.989,0.803,0.21,0.652,128.15,93067,3
+Johann Sebastian Bach,"Mass in B Minor, BWV 232: Credo: Confiteor unum baptisma (Chorus a cappella)",30ZiZJ08hZ13FiEPOhCrkp,18,2007,classical,0.11,0.125,5,-23.337,0,0.0392,0.986,0.0274,0.192,0.0633,81.026,235067,4
+Archibald James Potter,Fantasia Gaelach No. 1,48Fx5ur3KtKBPGha402Sce,25,2001,classical,0.0977,0.00656,8,-34.441,1,0.0459,0.964,0.606,0.094,0.0357,88.795,516773,3
+Johann Sebastian Bach,"Art of the Fugue, BWV 1080: Contrapunctus XIII a 3, ""Rectus""",48AmREuENlbKOfpHpRuo7d,21,2017,classical,0.53,0.103,2,-25.144,0,0.051,0.962,0.802,0.118,0.669,132.422,139507,4
+Antonio Vivaldi,"Vivaldi / Arr. Balsom for Trumpet: L'estro armonico, Violin Concerto in A Minor, Op. 3 No. 6, RV 356: III. Presto",2URAwwoN1sWNRiUtOhwFyT,16,2010,classical,0.705,0.324,9,-18.327,0,0.0484,0.887,0.9,0.144,0.732,124.132,153640,4
+Ludwig van Beethoven,"Piano Trio No. 6 in E-Flat Major, Op. 70, No. 2: III. Allegretto ma non troppo",7jDDSDHvGZowyWGbiYHvaQ,22,2005,classical,0.312,0.0516,8,-26.237,1,0.0449,0.967,0.708,0.107,0.15,79.194,412320,4
+Jean Sibelius,"Kyllikki - Three Lyrical Pieces for Piano, Op. 41: II. Andantino",4NpOTS4JPIUJLGOz6zfv5p,21,2017,classical,0.361,0.0102,10,-26.06,0,0.0481,0.989,0.836,0.0862,0.0388,68.138,262013,4
+Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act II: No. 18, Vedrai, carino",1OZuXkph1N3HECclp13EF1,0,2023,classical,0.25,0.0215,0,-23.349,1,0.0529,0.982,3.09e-05,0.105,0.159,74.747,202373,4
+Buckethead,Project Little Man,4EmsvnX4kKlHHVHM1GUvIQ,18,2015,classical,0.518,0.954,10,-5.816,0,0.0456,6.09e-06,0.864,0.252,0.69,109.504,1112534,4
+Johann Sebastian Bach,"Christe, du Lamm Gottes, BWV 619 (in Canone alla Duodecima)",0Pm7u3A2z0KojTPCH8y0lh,28,2015,classical,0.123,0.0361,10,-27.776,0,0.0406,0.985,0.975,0.103,0.0577,92.51,85187,3
+Olivier Messiaen,"O sacrum convivium!, I/18",6Q7kErzmLXunCpraYpHc2N,24,2022,classical,0.263,0.00293,6,-29.724,1,0.043,0.993,0.684,0.0995,0.0347,67.631,231080,3
+Joe Hisaishi,A Heart Aflutter,2HG0LgiDG9DLsG38E7O3zG,29,2013,classical,0.247,0.07,8,-26.716,1,0.0512,0.989,0.824,0.0973,0.0783,82.265,39960,3
+Andrea Bocelli,Ave Maria,2M9IDFz9qjUws70gkPbBkb,27,2020,classical,0.0903,0.276,6,-10.407,1,0.0337,0.898,0.00116,0.107,0.0395,81.117,282965,3
+Nobuo Uematsu,Find the Princess,0ucS1EZSiPycI9QYL4yTkC,26,2000,classical,0.244,0.218,0,-14.415,1,0.0358,0.669,0.889,0.0673,0.155,110.04,194200,4
+Wolfgang Amadeus Mozart,"Piano Sonata No. 15 in F Major, K. 533/494: 2. Andante, K. 533",5WYQOIMpczR5zkuSECXa4Q,33,2003,classical,0.406,0.034,10,-27.377,1,0.0524,0.994,0.917,0.0933,0.123,115.796,580093,4
+Nobuo Uematsu,FFVII REMAKE: 片翼の天使 -再生- (One-Winged Angel - Rebirth),1iHajyLGW5ZWx286dy9Lqx,44,2020,classical,0.299,0.81,3,-8.95,1,0.0568,0.084,0.89,0.196,0.271,133.854,619067,4
+Frederick Delius,Three Piano Preludes: No. 1,3rCgDJ8Dtsh94tvLeA2Sji,24,2012,classical,0.243,0.048,11,-29.286,0,0.0446,0.993,0.839,0.0666,0.0463,110.171,124000,4
+Ludwig van Beethoven,"Beethoven: String Trio in E-Flat Major, Op. 3: II. Andante",5Y00HWJWiCze31goEMm6Rp,9,2005,classical,0.517,0.0371,10,-24.786,1,0.0467,0.944,0.185,0.0834,0.633,114.876,409667,3
+Leonard Bernstein,Overture Candide,1sKasYHe3YV5RMraNWKOLd,20,2006,classical,0.285,0.428,3,-11.916,1,0.0436,0.852,0.506,0.114,0.48,159.082,253813,4
+Nobuo Uematsu,Town (Final Fantasy II),7LMSIYTjmXV1CFRizICc0i,25,2020,classical,0.609,0.115,5,-21.983,1,0.0829,0.995,0.961,0.112,0.594,79.456,129195,4
+John Tavener,The Lamb,2dz4Rdp2hxzGbFoEuzfkzn,25,2016,classical,0.0829,0.0107,9,-39.295,0,0.0435,0.983,0.106,0.0607,0.0328,83.142,254253,1
+Hector Berlioz,Berlioz- Symphonie Fantastique: Symphonie Fantastique: IV. March to the Scaffold,5uVUu68YGnvDJdgTJhJFag,16,2007,classical,0.362,0.195,7,-20.862,0,0.0405,0.92,0.919,0.0776,0.353,78.283,281840,4
+Antony Gray,"3 Novelettes, FP 47/173: 1. Modéré sans lenteur",5fjlFZ9Y2P2ORtgNHE8PEA,12,2003,classical,0.419,0.0391,0,-25.931,1,0.0656,0.996,0.898,0.149,0.166,68.93,196168,4
+DragonForce,Astral Empire,0nMPPbycLHhcn7FQ5MnTak,25,2017,classical,0.38,0.989,2,-4.462,0,0.154,2.8e-05,0.00268,0.0628,0.291,111.025,324720,4
+Andy Timmons,The Next Voice You Hear,1l0LSsR0TxeDkeKRNZWjyb,22,2016,classical,0.284,0.663,9,-9.697,0,0.0371,0.0304,0.869,0.115,0.252,127.844,390495,4
+Jordi Savall,"Suite En Mi Mineur: Fantaisie, II.97 (Marais)",4Qrn8h6GO4euUZ61q9TfHj,23,2003,classical,0.209,0.23,3,-14.521,0,0.0611,0.923,0.887,0.099,0.393,66.248,78160,3
+Johann Sebastian Bach,"Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Anna Magdalena Notenbuch: Minuet in G Major, BWV Anh 114",0bWpSbTSDqg3uLewLAQyhR,32,2005,classical,0.435,0.0946,7,-25.668,1,0.0418,0.996,0.934,0.152,0.809,133.944,94107,3
+John Petrucci,Damage Control,3cYhQXIN954wqSu7bcExyJ,31,2005,classical,0.428,0.913,2,-4.52,1,0.107,2.82e-05,0.877,0.0826,0.444,135.996,555360,4
+Bruce Rowland,The Man From Snowy River Concert Suite,5knPRxPR2RuXY0JQC7M0EO,17,2007,classical,0.23,0.298,5,-14.786,1,0.033,0.777,0.681,0.362,0.111,97.157,930853,4
+Johannes Brahms,Symphony No.3 In F Major Op.90 - 3rd Movement,52QHSjLaVpRFdCyVkMM5Dw,21,2008,classical,0.195,0.121,0,-18.437,0,0.0424,0.99,0.878,0.0902,0.0627,128.538,349707,4
+Sergei Prokofiev,"Peter and the Wolf, Op. 67 (Without Narration): Moderato - Allegro ma non troppo - Moderato",17djoJLxEPcMGWMX9auF26,23,2018,classical,0.562,0.0161,7,-29.981,1,0.04,0.844,0.929,0.118,0.212,97.447,102600,4
+Shoshana Michel,Autumn's Waltz,0ISVTNluQbDYEHVUsstVcb,43,2021,classical,0.477,0.041,5,-26.145,0,0.0429,0.994,0.932,0.101,0.473,62.103,161000,4
+Luigi Boccherini,"Guitar Quintet No. 6 in D Major, G. 448: III. Grave assai - IV. Fandango (Arr. from 1st & 2nd mvts of String Quintet in D Major Op. 40 No. 2, G. 341",7lA8yfEsWlarZiSRd3mQDW,24,2011,classical,0.492,0.159,2,-16.528,1,0.036,0.942,0.754,0.125,0.157,112.578,713227,3
+Antonio Vivaldi,"Violin Concerto No. 3 in F Major, RV 293 ""L'autunno"": III. Allegro",1OHYPm2iuP9N6rHjO32MiC,29,2004,classical,0.441,0.24,0,-16.143,1,0.0467,0.892,0.84,0.117,0.353,152.144,191933,3
+Wolfgang Amadeus Mozart,"12 Variations in C Major on ""Ah, vous dirai-je Maman"", K. 265: Variation No. 11",2bCWsCuXFfF7tdYttqqcfI,28,2019,classical,0.438,0.0113,0,-30.913,1,0.0565,0.992,0.919,0.0498,0.258,131.952,149973,3
+Claude Debussy,"Deux arabesques, L. 66: No. 1 (Transcr. H. Renié)",1wuNpzau70r7BegCV3DgTD,13,2002,classical,0.254,0.00883,8,-34.033,1,0.0376,0.991,0.924,0.1,0.0791,86.075,297640,4
+Camille Saint-Saëns,"The Carnival of the Animals, R. 125: XIII. The Swan (Arr. for Piano & Bass)",5nVSHNbY1m8761p4wlbbnC,27,2019,classical,0.348,0.0489,7,-22.705,1,0.0377,0.987,0.884,0.098,0.0672,113.61,204480,3
+Astor Piazzolla,Cuatro Tangos: Libertango - Latino Gold Version,0fI9x1NVOAmPLo4UA1hE7c,12,2013,classical,0.446,0.289,9,-17.344,0,0.0573,0.874,0.55,0.0734,0.285,153.284,181413,4
+Johann Sebastian Bach,"Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in C Major, BWV 846",7nO6HHqdIxkred1Xgqf7QG,9,2008,classical,0.322,0.0872,0,-29.055,1,0.0408,0.987,0.817,0.0978,0.326,77.779,115533,4
+Joseph Haydn,"Haydn: Trumpet Concerto in E-Flat Major, Hob. VIIe:1: III. Allegro",0j0hsOchGlAdCUIhpuCfTw,20,2008,classical,0.482,0.227,3,-16.454,1,0.0376,0.971,0.94,0.0771,0.512,138.313,269760,4
+Sergei Rachmaninoff,"Piano Concerto No. 3, Op. 30: II. Intermezzo. Adagio",4TzL51IW6VP03wImaAqeuw,13,2003,classical,0.174,0.131,1,-20.444,1,0.0351,0.971,0.916,0.371,0.0399,78.681,522333,4
+Tristan Eckerson,In Ordina,3vMrsyjI7y1ndquT7LjA1I,30,2019,classical,0.461,0.0754,10,-24.859,0,0.0405,0.979,0.924,0.107,0.148,128.722,255524,4
+Johann Sebastian Bach,"Montero: Adagio (After Bach's Violin Concerto No. 2, BWV 1042)",1v3gGmcneK1QzYyBFiBXG0,60,2006,classical,0.36,0.00301,6,-35.441,0,0.0444,0.994,0.897,0.0557,0.18,72.892,301400,4
+Wolfgang Amadeus Mozart,"Twelve Variations in C Major, K. 265",20rjmiddeCpLu52lwOrdd6,7,2002,classical,0.356,0.187,0,-23.149,1,0.0472,0.986,0.9,0.0464,0.477,151.317,716000,4
+Joe Alexander Shepherd,Alone,1veP9PIst56RYkhgAOnpaa,50,2020,classical,0.513,0.118,8,-19.994,0,0.0415,0.969,0.907,0.0895,0.354,81.469,190613,4
+Joe Stump,Prelude,0qScZdseIelM1HpXstMR8I,34,2005,classical,0.202,0.939,8,-4.761,0,0.0641,0.000124,0.914,0.397,0.379,132.529,63773,4
+Gustav Holst,JUPITER,2dGpKszqKNCqUEaUsBpwzp,15,2014,classical,0.233,0.283,3,-11.059,1,0.0443,0.917,0.8,0.12,0.209,133.895,193954,3
+Collettivo Armonico,Into the night,5689tmKMAEvsMM5erp7Qsk,30,2021,classical,0.435,0.0217,0,-30.0,1,0.05,0.996,0.901,0.0907,0.278,104.195,127000,4
+Frédéric Chopin,"Nocturnes, Op. 27: No. 1 in C-Sharp Minor. Larghetto",69EmDodmQh4wwIeYjXlmpb,0,2023,classical,0.335,0.00726,1,-25.422,0,0.0414,0.994,0.923,0.164,0.0618,104.163,337200,4
+Claude Debussy,"Preludes, Book 1: No. 8. La fille aux cheveux de lin (arr. for guitar)",3prOOjZVKg5Y8yp4RxIiZY,40,2006,classical,0.289,0.0117,7,-36.292,1,0.0529,0.988,0.908,0.0717,0.115,91.815,153947,1
+Igor Longhi,The Last Lullaby,4mqR7zx85vZWGZGLhEiBWH,33,2021,classical,0.655,0.052,0,-22.673,1,0.0655,0.987,0.963,0.109,0.525,131.881,100750,4
+GALNERYUS,HEAVENLY PUNISHMENT,6yb2SvwpO0wL14qk8I99WS,29,2017,classical,0.287,0.95,11,-2.316,0,0.153,2.79e-05,0.0011,0.804,0.224,183.886,356320,4
+George Gershwin,Porgy and Bess: Summertime,3VRDZsW41Il2EussSwmkGd,18,2014,classical,0.254,0.108,6,-20.346,0,0.0439,0.98,0.0168,0.368,0.0636,121.467,172547,3
+Frédéric Chopin,"12 Études, Op. 10: No. 7 in C Major ""Toccata""",69vbUbwEynreWDgOiecRMG,18,2013,classical,0.332,0.15,0,-25.764,1,0.0364,0.991,0.934,0.0953,0.361,121.087,97987,4
+Frédéric Chopin,"Nocturne No. 20 in C-Sharp Minor, Op. posth. (Arr. for Violin and Piano by Milstein)",5OZ77zEsBTyf7RpwgPMEs4,28,2018,classical,0.238,0.0639,1,-26.766,0,0.06,0.891,0.00298,0.0655,0.0385,104.164,231107,3
+George Gershwin,Song Book: Sweet and Low Down. Slow (in a jazzy manner),2Z15RoT4e0y1Pz8jsSsr75,18,2005,classical,0.432,0.139,11,-21.665,0,0.0447,0.994,0.884,0.127,0.176,131.725,65600,4
+Kamelot,If Tomorrow Came,1Jc6HEoBcsPwjW0OU9H7et,15,2010,classical,0.42,0.967,1,-4.413,1,0.0794,0.00951,0.000106,0.239,0.395,170.127,235133,4
+Sergei Prokofiev,"Symphony No. 1, Op. 25 in D ""Classical"": Finale",7rnVXIdSK6k9XzJiAffUwo,16,2003,classical,0.385,0.0414,2,-33.935,1,0.0418,0.709,0.479,0.333,0.544,77.179,250333,4
+Antonio Vivaldi,"The Four Seasons - Violin Concerto In F Minor, RV 297, ""Winter"": II. Largo",7m2EI3AN0d84qliMqOL8xg,22,2009,classical,0.23,0.142,10,-21.084,1,0.0472,0.875,0.193,0.123,0.0625,76.309,121467,3
+Johann Sebastian Bach,"Partita No. 1 in B-Flat Major, BWV 825: I. Prelude",5NyZAGgWfau49QS8l8MVLA,37,2017,classical,0.35,0.104,10,-25.867,1,0.0343,0.994,0.904,0.125,0.634,97.929,107933,4
+John Rutter,"When Icicles Hang: IV. Blow, blow, thou winter wind",1WGK46Bz4fuVxWactaItOy,13,2005,classical,0.179,0.0667,5,-26.687,0,0.0383,0.968,0.183,0.212,0.0569,91.399,230760,3
+Ludwig van Beethoven,"String Quartet No. 13 in B-Flat Major, Op. 130: V. Cavatina. Adagio molto espressivo (Transcr. M. Balakirev for Piano)",4mmSAWyw5Ec8ZWxI3dDQ5b,28,2020,classical,0.471,0.00263,3,-37.245,1,0.0542,0.996,0.946,0.0808,0.12,129.133,413240,4
+Frédéric Chopin,"12 Études, Op. 10: No. 3 in E Major ""Tristesse""",4h1blqY5LzPH8fNcglNJPX,30,2002,classical,0.374,0.0913,4,-23.489,1,0.05,0.995,0.853,0.0855,0.0393,135.702,232707,4
+Frédéric Chopin,Valse en la mineur,6cRItk23F8ck2hQ8kiePDU,41,2010,classical,0.382,0.11,9,-26.062,0,0.0471,0.99,0.93,0.111,0.228,76.562,121093,4
+Sergei Rachmaninoff,"Études-Tableaux, Op. 39: No. 6 in A Minor",5cYzl6WKZVolI7CaOHHNSn,18,2012,classical,0.287,0.203,9,-23.157,0,0.0402,0.989,0.912,0.117,0.232,173.442,151280,4
+Camille Saint-Saëns,Allegro Appassionato Op. 43,6gAhlUnyZk2Vxzz2YgriS0,19,2015,classical,0.288,0.0737,4,-25.07,0,0.0476,0.989,0.925,0.0937,0.254,126.822,234107,3
+Manos Milonakis,"Giardini Di Boboli (feat. Jacob David, Grégoire Blanc)",3R89OvxsMXQBFqrZr5hKMQ,35,2022,classical,0.234,0.282,5,-22.964,0,0.0541,0.889,0.925,0.127,0.066,119.26,112541,3
+Judd Greenstein,City Boy,0QbGNUAPEcZ9aVS8qjuyjS,23,2015,classical,0.37,0.398,6,-11.705,0,0.0337,0.959,0.905,0.134,0.27,114.86,675395,4
+Pablo Casals,El Vuelo del Moscardón,2zhyNYEL92jw4G8vOwZdjI,21,2006,classical,0.423,0.224,2,-13.809,0,0.0418,0.987,0.736,0.324,0.76,95.507,69467,4
+Andrei Krylov,Highlander Love Story,1b9Kl9TJvHa6XfKUH9qytn,36,2021,classical,0.282,0.388,8,-15.247,0,0.0537,0.925,0.273,0.314,0.262,114.572,194560,4
+ANGRA,Winds of Destination,2yWl2rW3ews5FmruYnVIOZ,32,2004,classical,0.246,0.963,4,-6.003,0,0.257,0.00273,0.00615,0.0805,0.108,170.027,418347,4
+Ralph Vaughan Williams,Phantasy Quintet: I. Prelude: Lento ma non troppo,6ShLEGjUsMWHuokEE6PSbN,14,2001,classical,0.194,0.0158,7,-30.015,0,0.0548,0.902,0.188,0.0722,0.0329,89.632,246560,4
+Sergei Prokofiev,"Piano Concerto No. 2 in G Minor, Op. 16: III. Intermezzo (Allegro moderato) - Live",0I1rvnf4TRMAG348l2AWNG,12,2013,classical,0.418,0.0864,7,-21.267,0,0.0307,0.973,0.912,0.0868,0.129,96.073,394867,4
+Johann Sebastian Bach,Sonata in C Minor Bwv 1017: Iv. Allegro,0P54OMe5sdBbsiRCInFLSo,6,2023,classical,0.491,0.257,11,-19.887,0,0.0399,0.907,3.25e-05,0.16,0.76,102.156,295800,4
+Andy Timmons,Super '70s,434sFRKC4zhkfipfCjkPzE,22,2015,classical,0.319,0.876,9,-7.166,1,0.0804,0.000401,0.894,0.13,0.413,165.086,283387,1
+Ron Adelaar,For Fleur & Amber,5LfXDqp3i5ou1RWXpgpBKr,35,2022,classical,0.47,0.029,2,-24.804,1,0.0391,0.992,0.929,0.0883,0.299,134.254,140338,4
+Chris Thile,Scarlet Town,5voIoFpbuy0frbhBzqenqC,23,2017,classical,0.618,0.172,7,-15.342,1,0.0518,0.969,0.0321,0.079,0.462,152.435,363107,4
+William Boyce,"Symphony in B-Flat Major, Op. 2 No. 1: III. Allegro",2fiz3TDi3I8qsLEbUOZIBt,24,2017,classical,0.605,0.367,10,-16.114,1,0.0452,0.929,0.871,0.106,0.812,113.72,129947,4
+Franz Liszt,"Piano Concerto No. 2 in A Major, S. 125: Allegro deciso -",0ixYDyfSMMdvNKhyDhAxyd,24,2016,classical,0.281,0.316,5,-17.182,0,0.0369,0.975,0.858,0.494,0.217,79.224,172813,4
+Johann Sebastian Bach,"Goldberg Variations, BWV 988: Var. 8",7oI2MBm2dfLHU03IfgaEWP,19,2000,classical,0.483,0.298,4,-20.539,0,0.0397,0.991,0.898,0.128,0.972,108.545,111600,3
+Gamma Ray,Send Me a Sign - Remastered,3wIgX7oWg1xzEPPPMrRI2Z,17,2015,classical,0.496,0.952,1,-4.565,1,0.0652,0.000168,0.000179,0.402,0.195,98.062,247273,4
+Anna Sofia Nord,Movement,3nJK8XjXZHpifPetQrUpd3,31,2020,classical,0.291,0.00938,0,-22.575,1,0.0998,0.994,0.964,0.12,0.386,175.638,111345,3
+Georg Philipp Telemann,Part II. Overture in D major: I. Ouverture: Lentement,4BjbevblFHgRzQQyM4Xv81,18,2010,classical,0.431,0.228,1,-16.098,1,0.0372,0.927,0.378,0.261,0.394,119.763,388800,3
+Evergrey,The Beholder,3kHnfRdRK95IipzauTFoIs,34,2021,classical,0.512,0.875,9,-7.07,0,0.046,0.00161,1.02e-05,0.0957,0.497,137.014,349747,4
+Duke Ellington,Crescendo in Blue,2rlTDLHftUbK2NlwyhhQbk,13,2007,classical,0.708,0.435,8,-8.528,1,0.0421,0.946,0.916,0.177,0.967,97.049,194360,4
+Cologne Chamber Orchestra,"Brandenburg Concerto No. 3 In G Major, BWV 1048: II. Cadenza",69GadYhBCVgoIrO3IEVhvf,32,2000,classical,0.198,0.192,9,-28.013,0,0.0371,0.825,0.579,0.0946,0.24,88.568,55467,5
+Carl Philipp Emanuel Bach,"Symphony for Strings and Continuo in G Major, Wq 182 No. 1/H. 667: II. Andante",0sBxiapItglRiRSrGNN5a5,20,2015,classical,0.327,0.0727,7,-21.493,0,0.0473,0.923,0.0417,0.27,0.111,129.135,115627,4
+George Gershwin,Piano Concerto in F Major: I. Allegro,6PB5ewHtow5EALktZwZDgg,21,2007,classical,0.316,0.152,1,-21.244,1,0.0371,0.943,0.935,0.0924,0.0837,100.174,799200,4
+Trans-Siberian Orchestra,Overture,5eLNdG8dXLeNBWVkZtCcQo,26,2000,classical,0.473,0.445,7,-10.892,1,0.0484,0.531,0.923,0.309,0.1,120.891,176973,4
+Johann Sebastian Bach,"Bach, JS: Matthäus-Passion, BWV 244, Pt. 1: No. 1, Chor. ""Kommt, ihr Töchter helft mir klagen""",0xP2fn9XMV59jdK3sw8jKk,25,2001,classical,0.227,0.173,3,-19.077,0,0.0384,0.969,0.571,0.15,0.175,129.008,400613,4
+Edguy,Under the Moon,1R3DPiqHXmzlGCUoGFTinn,24,2004,classical,0.508,0.969,1,-4.753,0,0.0662,0.000144,0.0794,0.109,0.333,103.022,305187,4
+Wolfgang Amadeus Mozart,"Mozart: Violin Sonata No. 21 in E Minor, K. 304: II. Tempo di Menuetto",1w4ekJbOP7ULv5sqv3AfhI,25,2017,classical,0.349,0.0855,4,-21.373,0,0.0405,0.988,0.0152,0.118,0.0973,107.358,371613,4
+Yiruma,....,4AKVxSGTcyqw3RV58uWFMG,23,2003,classical,0.389,0.026,9,-25.534,0,0.0454,0.989,0.86,0.17,0.076,133.075,163293,4
+Yiruma,Autumn Finds Winter,7rtVoa8YQPHb1dQyhOxCFm,46,2020,classical,0.251,0.223,6,-15.002,0,0.0344,0.943,0.798,0.113,0.103,140.039,241500,4
+Jorge Morel,Milonga del Viento,74JBiz34cpJlWHZ9gdtj0u,23,2016,classical,0.298,0.0431,5,-29.565,1,0.0439,0.996,0.922,0.0815,0.26,111.892,212747,3
+Eleni Karaindrou,Theme Of The Uprooting I,5J1qxv7qcQs3SS5z5YOCAT,25,2004,classical,0.224,0.0838,9,-24.766,0,0.0426,0.991,0.975,0.213,0.207,111.155,68333,4
+Antonio Vivaldi,"The Four Seasons - Autumn in F Major, RV. 293: I. Allegro – Larghetto – Allegro assai/molto",2cahuJO249bWzvpiHzgF2z,38,2015,classical,0.335,0.151,5,-17.639,1,0.0465,0.847,0.0444,0.195,0.161,85.136,336067,4
+Percy Grainger,Shepherds Hey,3pDcfGFaFitzMZZ3xj5HoQ,26,2012,classical,0.549,0.218,3,-22.073,1,0.0374,0.96,0.643,0.131,0.886,101.414,123053,4
+Pyotr Ilyich Tchaikovsky,"Swan Lake, Op. 20 - Mariinsky Version / Act 1: Scene 2: Scène finale (Moderato)",3N2cCBpvZfktLNMVKr0kJo,18,2007,classical,0.112,0.106,11,-18.301,0,0.0383,0.915,0.939,0.109,0.121,84.189,90987,4
+Sigismond Thalberg,"Douze études, Op. 26: XII. Allegro",0GHhsQKvVZ6K4w9wYAXXz4,16,2009,classical,0.272,0.137,0,-22.587,1,0.042,0.984,0.858,0.103,0.0663,112.338,187360,4
+GALNERYUS,THE PROMISED FLAG,2AUUgNVdfNz5eoW2fZTJXm,26,2012,classical,0.257,0.973,1,-4.593,1,0.227,1.17e-05,7.94e-05,0.342,0.0792,176.045,378720,4
+Johann Sebastian Bach,"Sinfonia No. 7 in E Minor, BWV 793",0VFhdaxlZLF6cmj2vl5r8w,17,2014,classical,0.366,0.0683,4,-27.501,0,0.0565,0.993,0.904,0.1,0.398,122.711,152747,4
+Charles Ives,Old Home Days Suite (arr. J. Elkus): V. Slow March,7BQfR9xRVzJmNYyPR2RtDW,31,2007,classical,0.166,0.00581,5,-31.752,1,0.0384,0.961,0.978,0.09,0.0547,100.567,73653,4
+Antonio Vivaldi,"La verità in cimento, RV 739: Sinfonia I. Allegro",0ZbPRgHgqHO769BsSUZSjX,14,2002,classical,0.564,0.145,6,-19.438,1,0.0595,0.725,0.0286,0.143,0.555,75.333,97987,4
+Howard Shore,The Road to Isengard,4nJ7nKKLbmKk8pz69ki4nt,42,2003,classical,0.136,0.076,7,-24.33,1,0.0414,0.845,0.975,0.0804,0.038,143.636,138067,5
+Shoshana Michel,Nigun Hachono,3oGY7sBPzziUtUg6Y74JOI,13,2015,classical,0.483,0.0956,2,-17.176,0,0.0392,0.991,0.95,0.1,0.0707,130.989,331080,4
+François Couperin,"La Petite Pince-Sans-Rire: 21ème ordre, 4ème livre",2HjFsnNuH2ZTrs8SHgsVlm,38,2013,classical,0.285,0.0428,4,-28.391,0,0.0473,0.995,0.845,0.175,0.284,75.83,114602,1
+Nikolai Rimsky-Korsakov,"The Tale of Tsar Saltan, Act III: Flight of the Bumblebee",7teC7cJ7MLBEIMQZaLyRPB,25,2019,classical,0.371,0.212,2,-26.286,0,0.0391,0.99,0.724,0.245,0.908,171.105,80773,4
+Wolfgang Amadeus Mozart,"Serenade No. 13 in G Major, K. 525 ""Eine kleine Nachtmusik"" I. Allegro",1N4VVlFCvqlMzPHOOqbubC,0,2023,classical,0.422,0.184,7,-15.376,1,0.0412,0.963,0.868,0.0896,0.409,141.75,346080,4
+Ludwig van Beethoven,"Violin concerto in D Major, Op. 61: III. Rondo - Allegro",3NKo9LCKJlUwjZtWSVyoRj,20,2012,classical,0.347,0.128,2,-16.81,1,0.0447,0.956,0.845,0.13,0.24,144.321,514453,3
+Wolfgang Amadeus Mozart,"Mozart: Fantasia for Piano in D Minor, K. 397",0Bk7BJYyXTiSwZeD0DBqYZ,39,2011,classical,0.41,0.0157,2,-30.97,1,0.0526,0.993,0.929,0.0825,0.103,132.166,355760,4
+Ron Adelaar,Above The Clouds,4cGKVwV5zyzWkZ24NIjACt,28,2021,classical,0.348,0.0415,9,-26.768,0,0.0651,0.995,0.949,0.0923,0.305,184.863,117712,4
+Nikolai Rimsky-Korsakov,"Scheherezade, Op. 35: I. The Sea and Sinbad's Ship",1PKx2AJsW0KGbDh3oUbqv9,30,2014,classical,0.0897,0.135,4,-16.636,0,0.0423,0.928,0.795,0.227,0.0381,69.755,614653,3
+Ben Frost,Theory Of Machines,01MzBhyun1vEObP3OR85Vl,29,2006,classical,0.0616,0.527,6,-11.371,0,0.0759,0.207,0.906,0.0641,0.0382,60.47,570468,4
+Edward Elgar,"Introduction and Allegro for Strings, Op. 47",5UCEIJFTB02xkuSooQsvNe,13,2007,classical,0.25,0.0756,7,-26.506,1,0.0414,0.88,0.722,0.12,0.147,112.968,888876,3
+Domenico Scarlatti,"Sonata in A Minor, K.109: Adagio",7JCmSCrBUS9sebn2FjxWKB,32,2017,classical,0.453,0.0385,9,-28.125,0,0.0392,0.995,0.908,0.0797,0.155,97.682,213187,4
+Trans-Siberian Orchestra,What Is Christmas? - Vocals Up Mix,5oLvWAOEDYdeNZpDSqV3eu,10,2004,classical,0.477,0.732,0,-4.91,1,0.038,0.235,0.0,0.136,0.229,137.917,171307,4
+Jean-Philippe Rameau,"Les tendres plaintes--Rondeau, RCT 3/1",2MtA39EOxz5Cv2ub9HPatZ,31,2022,classical,0.253,0.0195,2,-30.795,0,0.0415,0.991,0.884,0.0702,0.162,70.553,178253,4
+Power Quest,Find My Heaven,1reE44VBlj5ew4BGVNMR6W,28,2005,classical,0.479,0.94,5,-6.367,0,0.0421,3.79e-06,0.00232,0.0661,0.655,143.994,252493,4
+Edward Elgar,"Variations on an Original Theme, Op. 36 ""Enigma"": Var. 9, Nimrod",7kqqwqS5jLFJeNVs4oBwkl,24,2017,classical,0.0643,0.0686,3,-20.778,1,0.0424,0.884,0.908,0.0926,0.034,54.839,258360,4
+Julien Marchal,Lost in Brain Fog,36D0gq9u5YyGbbZmrKw764,22,2016,classical,0.583,0.0132,0,-34.966,1,0.0461,0.994,0.908,0.0839,0.274,95.968,212000,4
+Helen Green,The Promise,6G09p4PL7o7REBuAScEH2v,28,2021,classical,0.654,0.156,9,-22.697,1,0.033,0.989,0.93,0.0995,0.539,81.296,154625,4
+Vincenzo Bellini,"Bellini: La sonnambula, Act 1: ""Compagne... teneri amici"" - ""Come per me sereno” (Amina)",5eIEjwZ64Ap1XWndwXfR1K,24,2003,classical,0.382,0.0651,3,-15.945,1,0.0503,0.988,0.00523,0.0517,0.18,136.048,348560,3
+Pierre Boulez,"Le marteau sans maître: Avant ""l'Artisanat furieux""",6soONSnPvVf2XhMA1Uua8D,19,2004,classical,0.337,0.0312,5,-29.296,0,0.0488,0.975,0.182,0.257,0.296,173.132,114920,3
+Andrei Krylov,Koster Fire Gypsy Song,4nNpRTs6PAI5YL8Zh3y6pn,15,2008,classical,0.395,0.406,9,-13.862,0,0.0382,0.802,0.903,0.0936,0.437,99.434,170067,4
+Joe Satriani,Clouds Race Across the Sky,5a6LZXq94ieQXiEpUojoan,18,2000,classical,0.486,0.538,4,-11.063,0,0.0338,0.00168,0.844,0.109,0.0372,180.608,374827,3
+Eric Whitacre,October (Eric Whitacre Conducts),6uAgs3RjSvzGpnjJNjyttb,19,2008,classical,0.0679,0.0711,0,-21.908,1,0.04,0.962,0.784,0.663,0.0394,73.156,419376,3
+Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492, Act IV: Recit. Nel padiglione a manca - E Barbarina.. chi va là? - Ha i diavoli nel corpo",5cOiC08jwZsM9ldekokFc8,0,2023,classical,0.474,0.0553,7,-30.048,1,0.766,0.921,0.0,0.102,0.279,188.26,109000,5
+Johann Sebastian Bach,"Goldberg Variations, BWV 988: Variation 17 (Arr. for Harp)",60PIhmWYODCEh8YbcunBsa,37,2020,classical,0.285,0.0568,4,-36.545,0,0.0431,0.987,0.936,0.0959,0.108,131.56,143360,4
+Sergei Prokofiev,"Prokofiev: Sonata for Solo Violin in D Major, Op. 115: II. Andante dolce",1AzxDDB5E34uEYsfaqiZ2t,13,2001,classical,0.329,0.0123,10,-28.689,1,0.0492,0.991,0.0172,0.295,0.439,130.079,216373,4
+Dream Theater,"Scene Two: II. Strange Déjà Vu - Live at Roseland Ballroom, New York City, NY, 8/30/2000",3n9bNWyp1JRc00mR8Va4c0,21,2001,classical,0.238,0.957,11,-4.646,0,0.0842,0.00381,0.0,0.245,0.347,147.446,302573,4
+Maria Callas,"Tosca (2002 Digital Remaster), Act I: Gente là dentro! (Cavaradossi/Angelotti/Tosca)",5ppKTsrKtQ5Ivqn3AJaR2l,19,2002,classical,0.399,0.114,7,-18.311,1,0.0645,0.984,0.00675,0.27,0.397,158.606,70707,4
+Michael Gordon,1/1 (arr. M. Gordon),2LU85YHIQJBRWv12CkMC2d,15,2011,classical,0.21,0.0336,2,-17.326,1,0.0391,0.984,0.852,0.109,0.0349,82.076,985640,4
+Joseph Haydn,"Concerto pour Violoncelle et Orchestre en Ré Majeur, Hob.VIIb:2: I. Allegro moderato",5XNAL6XHnU1VaswYKQ9co1,23,2003,classical,0.333,0.13,6,-19.443,0,0.047,0.962,0.816,0.0881,0.144,134.796,884133,4
+Stratovarius,Enigma,4gtZSrBpOlcZHVMCjN3Oy3,22,2018,classical,0.485,0.95,7,-7.579,0,0.0812,2.59e-05,0.000189,0.375,0.33,125.025,261300,4
+Rhapsody,Triumph for My Magic Steel,0T0Odnj3dRmmtpEzH4ZFuJ,43,2000,classical,0.426,0.942,0,-3.223,1,0.0449,0.00713,0.0,0.0963,0.49,89.972,346800,4
+Edvard Grieg,"Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",5ebC5YZw56vrVIkIbkbNvP,44,2007,classical,0.198,0.0246,4,-32.071,0,0.0436,0.945,0.275,0.122,0.125,168.273,202240,3
+Johann Sebastian Bach,"Concerto in D Minor, BWV 974: II. Adagio (Arr. for Cello and Piano by Mischa Maisky)",2dIuMQ54KHBEtH1b38o27f,33,2018,classical,0.154,0.0664,2,-25.132,0,0.0495,0.986,0.909,0.0431,0.0794,77.82,254667,5
+Johann Sebastian Bach,Suite No. 2 in D Minor BWV 1008.: V. Menuets I & II,44eZZcVtWKORYJJ3546rc8,28,2007,classical,0.335,0.0755,2,-19.922,1,0.0581,0.986,0.869,0.115,0.338,78.041,180187,4
+George Frideric Handel,"Messiah, HWV 56 / Pt. 1: Overture",7dW34FXYUSHa3BI3ym6DeQ,19,2013,classical,0.257,0.209,4,-14.843,0,0.035,0.959,0.817,0.145,0.115,79.321,245093,4
+Frédéric Chopin,"Waltzes, Op. 69: No. 2 in B Minor",696hic5uIjBRjFYaQy41IC,15,2023,classical,0.346,0.0229,11,-30.765,0,0.0397,0.994,0.942,0.0803,0.123,66.401,208707,4
+Johann Strauss I,"Walzer (a la Paganini), Op. 11",1VDWfzSqJvFVzmndRtAS9W,21,2003,classical,0.34,0.0786,2,-18.339,1,0.0407,0.967,0.761,0.108,0.186,164.245,450720,3
+François Couperin,Les Goûts-réünis - Concert No. 14 in D minor: 2. Allemande,3i6p1afYLffgY32NJXJC9C,12,2002,classical,0.603,0.157,0,-22.236,0,0.0397,0.876,0.0383,0.24,0.63,101.54,115933,4
+Jef Martens,And So the Story Began,772Bcd8JnXHuDFawYaEvks,60,2019,classical,0.314,0.11,6,-26.941,0,0.0381,0.98,0.936,0.0845,0.382,68.941,61000,3
+Robert Schumann,"Album for the Young, Op. 68: 6. Armes Waisenkind",1jrCgWRvMGiDYUKgXs99Q4,41,2015,classical,0.647,0.0167,9,-33.118,0,0.125,0.995,0.895,0.0791,0.44,65.227,76747,3
+Itzhak Perlman,Sayuri's Theme and End Credits,1nIKCkQjKziZRHHFpzP2Nk,24,2005,classical,0.298,0.228,0,-17.046,0,0.0372,0.937,0.894,0.615,0.176,123.3,306467,3
+Chris Thile,Brakeman's Blues,7iy7xGtQY1jcSIJRLk2cNg,16,2006,classical,0.548,0.655,11,-10.124,1,0.0337,0.802,0.145,0.197,0.882,120.875,222387,4
+David Popper,"Hohe Schule des Violoncello-Spiels (High School of Cello Playing), Op. 73: Etude No. 10 in C Minor",0mhS3adl3oK6U0BOtDLUjc,15,2009,classical,0.316,0.159,0,-19.426,0,0.0531,0.945,0.821,0.108,0.674,83.547,102400,4
+DragonForce,War!,2XJL71Dm7z1uvGeS8KVMgb,20,2017,classical,0.474,0.983,1,-4.166,1,0.229,3.42e-05,0.00754,0.0813,0.235,97.47,319333,4
+Giovanni Pierluigi da Palestrina,Palestrina: Missa Brevis - 04. Gloria,1FPaHE9LriBjl3Ge6J6Edz,13,2005,classical,0.135,0.0906,3,-24.279,1,0.0531,0.992,2.05e-06,0.252,0.161,68.937,83128,3
+Georges Bizet,"Carmen, Act II, No.17 Duo (continued...): La-la-la-la / Attends un peu, Carmen (Carmen/Don José)",2btbz8nKuheHXb9x0luUPT,22,2003,classical,0.527,0.152,5,-22.636,1,0.0946,0.907,8.48e-06,0.354,0.681,115.501,118733,4
+Johann Sebastian Bach,"Bach, JS / Arr. Kempff: Flute Sonata No. 2 in E-Flat Major, BWV 1031: II. Siciliano",5Zp1QBSyZbfggs3pf08nri,50,2021,classical,0.363,0.0446,7,-33.317,0,0.0493,0.995,0.9,0.0683,0.371,101.384,233453,4
+Johannes Brahms,"Tragic Overture, Op. 81: Allegro non troppo",34fK2CZySXJ8b20Hyql4nd,22,2005,classical,0.177,0.0493,2,-21.504,0,0.0388,0.948,0.882,0.108,0.0784,74.625,844827,4
+Turlough O'Carolan,Eleanor Plunkett,1Jd3JqlEmwETVzGmMfRF9P,15,2009,classical,0.383,0.0261,7,-29.342,1,0.0474,0.992,0.896,0.116,0.134,146.397,118333,4
+George Gershwin,Catfish Row: Suite from Porgy and Bess (arr. S. Bowen for orchestra): I. Catfish Row,6YDyGvuZOX5m3aoTZTS2G7,15,2013,classical,0.309,0.0978,11,-21.712,0,0.0426,0.89,0.679,0.366,0.0384,123.467,412907,4
+Arvo Pärt,Spiegel Im Spiegel (Mirror In Mirror),1dxHqUt91QQ9pf4g0A0jvj,29,2009,classical,0.115,0.015,5,-32.423,1,0.0443,0.982,0.387,0.0468,0.0375,154.811,426880,1
+Gioachino Rossini,Petite messe solennelle: Gloria in excelsis Deo,6pmSxDwoG8vhA13O6dfEpS,25,2014,classical,0.256,0.0869,5,-23.659,1,0.0437,0.98,0.139,0.0879,0.149,106.287,134933,1
+Nick Johnston,Last Deals of Dead Men,2MANoa8IXzbijItbr3PvVE,21,2014,classical,0.375,0.762,3,-4.955,0,0.0371,0.000208,0.841,0.187,0.493,130.029,378597,4
+Nobuo Uematsu,A Flower Blooming in the Slums (from FFVII 'Aerith's Theme'),3uutvnN0pmghY5jVffhb0X,33,2007,classical,0.585,0.175,2,-14.116,1,0.0352,0.681,0.878,0.0994,0.172,143.991,139733,4
+Henry Smith,We Wish You a Merry Christmas - Piano Version,4WaUyhxADGlVv8QE0awvdm,31,2020,classical,0.348,0.0138,1,-28.505,1,0.0739,0.996,0.947,0.0837,0.221,73.85,126500,5
+Antonio Lauro,El Marabino (Valse Venezolano) - Rev. Alirio Diaz,0Wbyl3c1LfrovxL0BkHaXz,22,2008,classical,0.381,0.133,9,-22.711,1,0.0465,0.978,0.887,0.0988,0.785,106.79,74413,3
+Gabriel Fauré,"Pelléas et Mélisande, Op. 80: 5. Andante",2saHku6RKNGSIR860a6j3c,13,2000,classical,0.156,0.0345,9,-32.408,0,0.0605,0.956,0.861,0.1,0.0439,83.8,62627,4
+Joseph Haydn,"Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",2Cu45oJ6H5qOOsn4cAWF7B,32,2021,classical,0.22,0.0335,8,-23.165,1,0.0462,0.982,0.536,0.137,0.116,111.704,286613,4
+HammerFall,Always Will Be,13bdSVP2YguoHwN4BIFnOT,49,2000,classical,0.494,0.437,11,-9.18,1,0.0265,0.15,0.0,0.109,0.304,133.879,289560,4
+On Piano,Forgiveness,4RY7bTKRqa2i4YosbUDw99,28,2021,classical,0.335,0.22,10,-18.635,1,0.0437,0.963,0.945,0.109,0.115,92.428,164064,4
+Sonata Arctica,Kingdom For A Heart,1rxqsuAP8Kgi3pp10Qc5I2,29,2014,classical,0.591,0.97,10,-2.688,0,0.0744,0.000175,0.000498,0.0733,0.404,125.019,227573,4
+Claude Debussy,"Prélude à l'après-midi d'un faune, L. 86",3RBC9G2VEMrw9Q87GFsSFh,17,2012,classical,0.137,0.0419,11,-25.213,1,0.04,0.964,0.868,0.0643,0.0315,87.736,561267,4
+Wolfgang Amadeus Mozart,"Symphony in D Major, K. 385 ""Haffner-Sinfonie"": II. Andante",6NYp4TpCo7spWlgGJg0Vsw,36,2014,classical,0.175,0.041,2,-23.586,1,0.0389,0.964,0.692,0.0893,0.0601,86.616,487387,4
+Bryce Dessner,Siete de Abril,6SAgMOtmINSWj6tZOVPxXF,29,2019,classical,0.404,0.278,0,-14.982,0,0.032,0.837,0.36,0.127,0.504,187.776,90456,3
+Piano Novel,Vert tendre,6xhTeYI7UyTcMwdAVODEoy,29,2017,classical,0.295,0.115,5,-23.397,1,0.0625,0.987,0.938,0.0979,0.035,137.261,295776,3
+Shivkumar Sharma,Mountain Love Song,4CD8dpUf3HH0rX3ZYavvVs,22,2007,classical,0.587,0.457,11,-12.062,0,0.0393,0.838,0.0472,0.0759,0.675,144.579,251507,3
+Giacomo Puccini,"Puccini: Tosca, Act I: ""Tre sbirri, una carrozza"" (Scarpia, Spoletta, Coro)",1A0rBKwyAH67W6er667Ayc,16,2007,classical,0.28,0.317,3,-11.843,1,0.0378,0.98,0.0715,0.15,0.174,75.034,238306,3
+Bombay Jayashri,"Ondra Renda (From ""Kaakha Kaakha"")",4EVelt43iXpNyhOkF4Rgsz,39,2014,classical,0.642,0.562,9,-9.304,0,0.0607,0.584,0.0,0.104,0.671,149.82,306627,4
+Mauro Giuliani,"Variazioni su un tema di Handel, Op. 107",2U8txmAISucM2Q52xo8Ldq,37,2007,classical,0.244,0.037,9,-29.136,1,0.0514,0.986,0.907,0.0896,0.267,80.125,566293,4
+Ludwig van Beethoven,"Beethoven: Piano Sonata No. 8 in C Minor, Op. 13, ""Pathétique"": II. Adagio cantabile",4l5zWNPyET6PqBhxQEyKgt,46,2020,classical,0.286,0.0028,8,-37.427,1,0.0462,0.995,0.912,0.127,0.123,67.505,324960,4
+Edward Elgar,"Variations on an Original Theme, Op. 36 ""Enigma"": 12. B.G.N. (Andante)",1OQ1CxGCxDnbGcljVVPsBE,15,2001,classical,0.106,0.0575,10,-26.171,1,0.0486,0.975,0.859,0.191,0.0369,74.809,170600,3
+George Frideric Handel,"Handel: Ode for the Birthday of Queen Anne, HWV 74: I. Aria ""Eternal Source of Light Divine"" (Countertenor)",02ZOxSKFjQhJYBLvS9oW9W,11,2012,classical,0.176,0.0908,1,-20.121,1,0.0415,0.941,0.76,0.136,0.0605,111.798,214507,4
+Georg Philipp Telemann,"Concerto pour violon ""Les Rainettes"", en La Majeur: Concerto pour violon ""Les Rainettes"", en La Majeur: I. Ohne Satzbezeichnung",35kvCMtr2frNEdwELV4mqU,22,2002,classical,0.501,0.159,8,-21.757,1,0.0394,0.874,0.881,0.125,0.406,117.316,329600,4
+Wolfgang Amadeus Mozart,Symphony No. 39 in E-Flat Major K. 543: 3 Menuetto: Allegretto - Trio,5cELvJs9yagVhQJIyQe8q5,0,2023,classical,0.361,0.0732,3,-18.639,1,0.0312,0.952,0.9,0.147,0.5,75.489,222627,1
+Johann Baptist Vanhal,"Symphony in G Major, Bryan G6: II. Andante molto grazioso",3DruXfuowq2uyM9FkTt6A4,41,2005,classical,0.317,0.0123,2,-30.127,1,0.0463,0.955,0.404,0.172,0.153,73.514,304813,4
+Kamelot,Ghost Opera,51deop2co1lc2bcmk0BOcJ,36,2007,classical,0.432,0.972,1,-2.845,0,0.103,0.0114,9.58e-06,0.0929,0.305,160.054,246267,3
+Helloween,Electric Eye,0b9Jg7zaMX8fy73SmDfudw,16,2002,classical,0.456,0.977,9,-6.368,1,0.0971,0.00178,0.0105,0.121,0.145,102.074,246493,4
+Frédéric Chopin,"Impromptu No. 2 in F-Sharp Major, Op. 36",5yrOacLpKD7pHYPO5wsZ2Q,30,2019,classical,0.263,0.0478,6,-26.3,1,0.0431,0.992,0.902,0.0953,0.043,85.789,355680,4
+Jackson Love,Somewhere In Time Var. 2,0WOZqiVRAwr41vAUDiaExa,27,2019,classical,0.373,0.0893,9,-24.259,0,0.0343,0.993,0.955,0.108,0.256,119.141,264250,3
+Wolfgang Amadeus Mozart,"Die Entführung Aus Dem Serail - Arie : Ach, iche liebte, war so...",6ce2irPKNzScUnTO6NU6GV,37,2002,classical,0.394,0.0883,5,-20.867,1,0.0538,0.964,0.00137,0.0807,0.0914,121.678,308227,4
+RIOPY,I Love You,0nFiXjQUmqZJnskf6nKi70,51,2018,classical,0.366,0.349,8,-16.638,0,0.0561,0.941,0.927,0.145,0.0784,91.813,263583,4
+Robot Koch,Circle 19 - Midori Hirano Rework,74jpi8B3CYrtmlCvuozhwe,28,2021,classical,0.545,0.301,10,-14.993,0,0.0328,0.871,0.939,0.165,0.0399,100.013,187200,4
+Itzhak Perlman,Sabrina: Theme,3DnxAp9NkacWMmYxPKhHcn,23,2013,classical,0.198,0.228,5,-17.461,1,0.0404,0.807,0.0164,0.0646,0.0913,82.569,297027,4
+Wolfgang Amadeus Mozart,"Piano Sonata No. 6 in D Major, K. 284 ""Dürnitz"": III. Tema con variazione",35V0s9hDRgdRqDIRnCMbFY,9,2001,classical,0.35,0.0863,2,-25.361,1,0.0452,0.994,0.933,0.0888,0.353,150.698,889000,4
+Anna Malikova,24 Preludes: B Flat Minor. Presto Con Fuoco (Chopin),06fjMdPEG7sllRBDc4Sbop,24,2004,classical,0.307,0.198,10,-18.704,0,0.0323,0.985,0.929,0.148,0.259,90.437,69480,4
+Ludwig van Beethoven,"Piano Sonata No. 15 in D Major, Op. 28, ""Pastorale"": III. Scherzo. Allegro vivace",1gnWEzRRapiYOI5Arbzf0V,23,2019,classical,0.419,0.0483,2,-29.143,1,0.0425,0.994,0.909,0.0836,0.228,105.987,128920,4
+John Rutter,Wild Wood Carol,1V7VEgAjZag75ZXMKZ7BIz,17,2002,classical,0.143,0.014,2,-29.67,0,0.0417,0.971,0.000396,0.127,0.0717,91.328,188373,3
+Kristoffer Wallin,Countryside,5uGVGKCMnZHwWXsp2chHQR,34,2022,classical,0.498,0.0259,10,-26.398,1,0.0404,0.994,0.921,0.112,0.15,117.827,156000,3
+Jef Martens,In Dreams,0KvFmO3jMkMK5jsZD3EC9J,35,2022,classical,0.352,0.0228,6,-28.62,1,0.0364,0.991,0.962,0.097,0.114,131.127,138625,4
+Anton Webern,Elf kurze Stücke: No. 4 in A Minor,3tWM7ggIgVOMUWj51WSTGS,30,2015,classical,0.593,0.0394,9,-28.73,0,0.121,0.993,0.915,0.0704,0.51,71.173,32933,5
+Frédéric Chopin,"Chopin: 12 Études, Op. 10: No. 3 in E Major ""Tristesse""",2LnaUQ1geZXlNYJj7r0nvf,43,2011,classical,0.42,0.0466,4,-22.68,1,0.0559,0.992,0.838,0.0772,0.0374,69.155,271707,3
+Anna Yarbrough,Somewhere in a wooden cabin,68VrzQbgqUbEOmeFUXxMjs,26,2021,classical,0.443,0.0954,9,-25.611,1,0.0518,0.98,0.93,0.112,0.189,110.8,199559,4
+Ron Adelaar,Prelude Soleil,5Hxd3Whklb1tBrxT0ekntR,27,2018,classical,0.53,0.0164,0,-19.143,0,0.0504,0.994,0.953,0.0967,0.103,67.916,260500,3
+Johann Sebastian Bach,Suite No. 3 in C Major BWV 1009.: IV. Sarabane,2bsXy5rgcln20FcWIon0jh,26,2007,classical,0.204,0.0269,7,-25.037,1,0.0514,0.961,0.95,0.11,0.0392,69.858,236413,3
+Steve Morse Band,Mechanical Frenzy,31aO0RVeW5KFOjx0xs038w,15,2002,classical,0.556,0.865,4,-6.702,1,0.0398,0.04,0.875,0.315,0.616,108.95,264467,4
+Johann Sebastian Bach,"Sinfonia No. 8 in F Major, BWV 794",0QTDGzTYF8stmVVnjTIGKH,16,2014,classical,0.36,0.298,5,-18.213,1,0.0379,0.99,0.893,0.13,0.964,98.665,63013,4
+Isaac Albéniz,Zambra Granadina,7Jk8nEmHokuPnXDnGGK8w6,15,2011,classical,0.397,0.101,2,-18.77,1,0.0406,0.99,0.928,0.116,0.135,67.729,283987,4
+Joshua Bell,Iris: Pt. 2 - Instrumental,55gn4hDvcrc8pmVWcBTVkR,15,2001,classical,0.152,0.101,8,-25.083,0,0.0429,0.927,0.9,0.201,0.033,71.049,204067,3
+Michael Janzen,Northern Dancer,2QpsOX67tlC8w6uEy54bUF,31,2021,classical,0.394,0.04,1,-27.16,1,0.0358,0.995,0.949,0.102,0.229,148.68,142517,3
+Béla Bartók,"Romanian Folk Dances, Sz. 56 (Arr. A. Levering for Flute & Guitar): No. 1, Joc cu bâta",3dHumxnZLMCVzzuUTbebB4,37,2021,classical,0.496,0.0647,9,-20.805,0,0.0562,0.99,0.847,0.0844,0.509,94.907,70121,4
+Wolfgang Amadeus Mozart,"Divertimento In D, K.136: 2. Andante",651B2EIxZ9KeNDtL44tJlI,20,2006,classical,0.245,0.0363,7,-26.244,1,0.043,0.976,0.67,0.212,0.112,113.135,360000,4
+Richard Wagner,"Parsifal, WWV 111 - Suite: Compiled By Claudio Abbado: Karfreitagszauber",27l0pkQLPoIkk4Im2fH9ss,21,2003,classical,0.119,0.017,11,-24.314,1,0.0359,0.948,0.75,0.18,0.0363,68.371,191707,5
+Jacques Offenbach,"Les larmes de Jacqueline, Op. 76, No. 2",69TE7dWlYLA2Lh1MrbsDUj,28,2012,classical,0.198,0.105,0,-19.823,1,0.0493,0.969,0.942,0.0972,0.0395,90.085,431147,4
+Antonín Dvořák,"Serenade for Winds, Op. 44: I. Moderato, Quasi marcia - Live",1oYniNs6lOtiWA1oWnTGyc,14,2009,classical,0.371,0.127,2,-19.202,0,0.0397,0.98,0.911,0.0975,0.108,101.567,235947,4
+Felix Mendelssohn,"Piano Trio No. 1 in D Minor, Op. 49, MWV Q29: III. Scherzo: Leggiero e vivace",4NMJjTVAbPFaMxe3FWZAVi,17,2006,classical,0.572,0.15,2,-22.537,1,0.0386,0.969,0.82,0.0969,0.611,109.68,211213,4
+Isao Tomita,Clair de Lune,4pJRQFziVdheKRujfrdjjB,28,2012,classical,0.21,0.1,1,-19.472,1,0.0411,0.91,0.854,0.109,0.0364,109.715,355387,5
+Georgy Sviridov,The Snowstorm: VIII. Echoes of waltz,52gBIIY0XGs52unEoX9bMy,37,2003,classical,0.332,0.0229,2,-32.312,1,0.0398,0.917,0.691,0.389,0.434,63.636,113160,4
+RIOPY,Ukiyo,1w1vmGM5nzNsQviR9dC4Sc,49,2019,classical,0.439,0.0561,9,-23.791,0,0.0466,0.99,0.909,0.0695,0.105,159.984,235107,4
+Amjad Ali Khan,Raga Miya-Ki-Malhar Teental,5uNDxE2VKAG68TacXrgA4w,20,2009,classical,0.353,0.316,10,-16.964,1,0.0487,0.85,0.861,0.151,0.414,176.877,324867,4
+Joseph Haydn,"Horn Concerto No. 1 in D, H.VIId No. 3: 2. Adagio",7uIwFnxujSlYuKuea2ti6a,26,2020,classical,0.108,0.103,9,-20.757,1,0.0454,0.973,0.797,0.102,0.111,55.838,452200,4
+Johannes Brahms,"4 Klavierstücke, Op.119: I. Intermezzo (Adagio)",2jFZ0dmpDE2Lmlc90k3eFK,27,2014,classical,0.357,0.0103,2,-32.439,1,0.0491,0.994,0.895,0.0855,0.0938,55.158,244853,3
+Robert Schumann,"Carnaval, Op. 9: No. 18. Aveu",0ywQxlvDhPnRXhy0KexZDT,27,2015,classical,0.293,0.00418,8,-39.24,1,0.046,0.993,0.707,0.068,0.099,68.05,85547,4
+John Rutter,Magnificat: Esurientes,4aCgBbhpa0i9z3UngtCs5C,18,2011,classical,0.125,0.0336,10,-27.013,1,0.0483,0.96,0.497,0.0932,0.0396,167.94,382160,3
+Nobuo Uematsu,A Place to Call Home - Melodies of Life (Final Fantasy IX),2acf18eeOVvi5SCJSsHiPY,33,2010,classical,0.168,0.189,2,-11.386,1,0.0329,0.926,0.000162,0.0633,0.12,80.173,417747,3
+Penguin Cafe,Wheels Within Wheels,0s7H1v5VTTvawtTN0NqUgd,28,2017,classical,0.444,0.39,9,-13.339,0,0.0289,0.87,0.955,0.102,0.071,123.952,379832,4
+Georges Bizet,"The Pearl Fishers, WD 13: Je crois entendre encore (Arr. for Violin & Orchestra)",5IYwM6q7FpluQdG27GYeXZ,21,2006,classical,0.0887,0.0902,9,-23.155,0,0.0462,0.973,0.904,0.106,0.0923,71.656,206213,4
+Johann Sebastian Bach,"Sonata No. 1 for Violin and Harpsichord in B Minor, BWV 1014: I. Adagio",3jWTexYvZwLDvopqMAp8as,18,2001,classical,0.306,0.0568,10,-22.656,0,0.0345,0.916,0.0168,0.124,0.0425,62.486,222627,4
+Johann Sebastian Bach,"Cello Suite No. 3 in C Major, BWV 1009: V. Bourrées I & II",4lFQsRxMjNy9xVS2NBRYnO,34,2020,classical,0.429,0.0342,0,-25.13,0,0.0534,0.965,0.852,0.114,0.341,66.521,246000,4
+Arno Babadjanian,Elegy,682j5BNPGxAZ2blBi9zWp1,22,2015,classical,0.389,0.0367,2,-23.155,0,0.0414,0.995,0.871,0.0788,0.0736,138.881,244027,4
+Trans-Siberian Orchestra,Christmas Canon Rock,6Eo2pS8rX1wQIAgi7XGBfh,36,2004,classical,0.477,0.535,9,-4.086,1,0.0299,0.0499,0.00251,0.168,0.143,116.726,302547,4
+Shoshana Michel,V’nislach,6lOV3Ku9Rd7j561E0VmVkZ,14,2015,classical,0.521,0.193,4,-12.26,0,0.0337,0.984,0.836,0.121,0.239,67.711,248907,4
+Georges Bizet,"Carmen, Act III: No.22 Récit : C'est des contrebandiers (Micaëla)",2yZSfVHFwpEFxcE3OpFufT,18,2003,classical,0.312,0.0208,9,-28.58,1,0.0686,0.983,6.27e-05,0.115,0.0303,84.192,66040,4
+Andrea Bocelli,When Christmas Comes To Town,00BxnRDndJwA67Rvi7iqUC,30,2022,classical,0.377,0.162,6,-10.586,1,0.0329,0.896,2.86e-06,0.103,0.326,97.211,219200,5
+Ron Adelaar,Journey,3PpkRDlt9MGzKrtTeNPYs9,32,2022,classical,0.308,0.0182,3,-29.053,1,0.0374,0.994,0.934,0.104,0.246,174.242,142250,4
+Johann Sebastian Bach,Book I: Prelude and Fugue No. 2 in C Minor BWV 847,453T0xLs6iOxv2mrJthwsC,24,2014,classical,0.249,0.318,5,-18.132,0,0.0302,0.988,0.927,0.172,0.281,64.975,78200,4
+Miriam Barthez,Simplicity,6HKtt8Dixppw7mQcWfAG1c,34,2021,classical,0.661,0.216,9,-24.661,1,0.0412,0.992,0.947,0.11,0.719,95.002,126080,4
+Pierre Boulez,Douze Notations Pour Piano (1945): Hiératique,4pfbyWwRdRK32ohI61bNdf,18,2005,classical,0.534,0.00119,7,-24.855,1,0.11,0.99,0.166,0.0845,0.33,83.875,61107,4
+Joe Hisaishi,Love Under Fire,2tC7TrnxyQx47So8aCRZnU,38,2004,classical,0.213,0.44,7,-14.466,0,0.111,0.848,0.63,0.0816,0.0981,63.811,176573,4
+Franz Schubert,"Piano Sonata in D major, op.53 D.850: Piano Sonata in D major, op.53 D.850: I. Allegro",0VBxquJotwySEcTjYX8aJb,20,2011,classical,0.231,0.164,9,-21.539,1,0.0396,0.991,0.92,0.115,0.0798,174.593,547013,4
+Felix Mendelssohn,"Symphony No. 4 in A Major, Op. 90, MWV N16 ""Italian"": III. Con moto moderato",2yeu3LoZ10kJaAl1QSzsFn,24,2018,classical,0.213,0.0222,4,-25.971,1,0.0451,0.97,0.888,0.236,0.0991,115.583,408720,3
+Umberto Giordano,"Andrea Chenier, Act III: La mamma morta",0i0XoLRtl0Ece1XTTXalwZ,41,2007,classical,0.254,0.0414,11,-21.712,0,0.0455,0.967,0.000196,0.0861,0.0372,91.226,295107,4
+Karen Biehl,Reflections (Solo Piano),0CuZ9QKH6XPJ9a9iFyp3x9,38,2020,classical,0.441,0.0208,7,-27.127,0,0.0693,0.99,0.936,0.158,0.154,67.265,115625,4
+Stratovarius,Hunting High and Low - Single Edit,0Wdep5We6CoR6KIPO1KbvB,46,2000,classical,0.511,0.977,6,-3.247,0,0.122,0.000304,0.0642,0.361,0.4,93.738,229000,4
+Dream Theater,The Enemy Inside,1ZR4QAYsiO9zPsGaMPW2OI,47,2013,classical,0.488,0.976,4,-4.165,0,0.142,1.18e-05,0.0295,0.067,0.404,143.988,377373,4
+Ludwig van Beethoven,"Beethoven: Symphony No. 8 in F Major, Op. 93: I. Allegro vivace e con brio",3Kc6NS8ec7sQWqmtjQ7gAw,25,2003,classical,0.336,0.169,5,-18.156,1,0.0392,0.956,0.791,0.136,0.219,78.299,569467,4
+Michele Nobler,Lost Tales,4I62GSOfrQkrfDjYH6mUpc,36,2022,classical,0.268,0.0193,9,-26.766,0,0.0523,0.971,0.892,0.1,0.0657,99.008,149350,5
+Edvard Grieg,"Grieg: Lyric Pieces, Book III, Op. 43: No. 4, Little Bird",2ENgIleQZbZwdRLKe2ltum,0,2023,classical,0.497,0.018,10,-33.898,1,0.0359,0.992,0.9,0.0768,0.402,90.323,97627,4
+Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492, Act III: No. 23, Finale: a-b. Ecco la marcia, andiamo - La marcia",5iDsim9cFJb5pVtsu4cDL3,0,2023,classical,0.627,0.198,7,-20.145,1,0.0466,0.894,0.128,0.15,0.468,131.81,109840,4
+Charles Gounod,"O, Divine Redeemer",1E0CQghlEkWuuB8WLrYfPV,15,2011,classical,0.168,0.198,0,-18.031,1,0.0385,0.991,0.814,0.101,0.0389,136.142,346533,4
+Moux,"with me, with you",1S9aFKkJi0MILii1icKFeu,44,2021,classical,0.536,0.0751,5,-22.156,1,0.0309,0.993,0.917,0.1,0.143,141.041,199667,3
+Jean Sibelius,"Sibelius: 13 Pieces, Op. 76: No. 2, Étude",3pjKWlStnInfXbluDXJ6nY,27,2006,classical,0.414,0.0823,9,-27.206,0,0.0393,0.993,0.881,0.107,0.876,127.286,74933,4
+Ludwig van Beethoven,"""Pastorale"" Symphony No.6 in F Major, Op.68: I. Allegro ma non troppo",2fWTvHgM9ZuHd8xpQrdAym,34,2011,classical,0.325,0.0746,5,-17.434,1,0.0351,0.963,0.782,0.113,0.191,110.889,738973,4
+Ronu Majumdar,Raaga Bhairav - Dadra,4ft8L5WzFd2vvXganl6QGL,30,2017,classical,0.389,0.247,4,-17.771,1,0.0642,0.983,0.897,0.105,0.0919,157.561,631000,3
+Joseph Haydn,"String Quartet In E Flat, Hob. III:38, Op. 33 No. 2: 4. Finale: Presto",1LQ4ocfk6KkjGbLVhRdoSj,18,2001,classical,0.447,0.148,3,-24.199,1,0.0683,0.95,0.907,0.172,0.326,139.555,213000,4
+Nobuo Uematsu,Opening​~​Bombing Mission (Final Fantasy VII),0hEExwWtYKCAKdUXRCZ4JV,40,2007,classical,0.158,0.575,9,-9.295,0,0.0512,0.759,0.941,0.316,0.246,64.305,243293,4
+Wolfgang Amadeus Mozart,"Violin Concerto No. 2 in D Major, K. 211: I. Allegro moderato",48B0wJv4hbB0bKlb5Znb4h,9,2005,classical,0.34,0.0877,2,-20.888,1,0.0531,0.964,0.346,0.0526,0.354,71.887,500560,4
+Jean Sibelius,"The Tempest: Suite No. 2, Op. 109: VI. Miranda",3xzIi9G9C8wN42Xw7DSDyQ,27,2001,classical,0.213,0.0191,9,-33.866,0,0.0427,0.889,0.865,0.105,0.0362,77.584,140280,4
+Antonín Dvořák,"4 Romantic Pieces, B.150: I. Allegro moderato",5sDBN0euFLUW5hX9Anb70H,27,2017,classical,0.208,0.0314,10,-26.419,1,0.0466,0.994,0.542,0.103,0.0694,96.712,209107,4
+Niall Byrne,Nocturne in G,5toeSsQX85NGOyw2Qfp2fO,19,2013,classical,0.423,0.174,7,-17.87,0,0.0402,0.973,0.913,0.116,0.384,66.462,180744,4
+Erik Satie,Gnossienne No. 4,4rFDsWN8FggJ71sMcBRBIg,32,2017,classical,0.302,0.0933,9,-23.007,0,0.0392,0.98,0.893,0.108,0.119,111.214,124040,4
+Johannes Brahms,"21 Hungarian Dances, WoO 1: VI. Dance in D-Flat Major. Vivace",0jOa0A3FOzmFNVKPesi255,30,2014,classical,0.419,0.151,7,-18.112,1,0.0444,0.89,0.618,0.0868,0.572,93.251,193029,4
+Becky Ainge,There Is Always Hope,0kSFQPqJ0usTnMWbH5iNri,27,2021,classical,0.555,0.0689,7,-22.79,1,0.0376,0.993,0.955,0.136,0.0973,109.514,168013,4
+Kristoffer Wallin,Thinking About You - String Version,5UgZIx5lKc5rRjjJRlB4qj,24,2019,classical,0.345,0.00618,10,-29.005,1,0.0431,0.993,0.882,0.0981,0.133,137.384,158411,4
+Johann Sebastian Bach,"Herr, gehe nicht ins Gericht mit deinem Knecht, Cantata BWV 105: Aria ""Wie zittern und wanken der Sünder Gedanken"" (Arr. Thomas)",2jKVfMrVUm1oQ64YLUUIZE,41,2021,classical,0.442,0.0552,6,-28.823,1,0.0394,0.986,0.946,0.109,0.182,138.553,299067,4
+Jean-Baptiste Lully,Idylle sur la paix: Air pour Madame la Dauphine,3X9bhmsGK5FmDbjl4Reylz,28,2000,classical,0.564,0.305,8,-15.306,0,0.0288,0.789,0.97,0.135,0.451,138.967,126667,4
+Claude Debussy,Nocturnes: No. 1. Nuages,0Fu7Fy14fmBjWHxp23YfhA,33,2003,classical,0.0979,0.00275,0,-42.58,1,0.0401,0.852,0.745,0.0738,0.0323,76.077,497400,3
+Claude Debussy,"Images inédites, L. 87: III. Quelques aspects de ""Nous n'irons plus au bois"" parce qu'il fait un temps épouvantable",3Z5fVrbDRuWoiqsFhp9NcV,19,2007,classical,0.197,0.0574,11,-24.729,1,0.0353,0.993,0.938,0.0826,0.0357,78.767,236773,4
+George Frideric Handel,"Music for the Royal Fireworks, HWV 351: IV. La rejouissance",2c2fGQb7TI86fECwv1NlkA,22,2003,classical,0.379,0.436,1,-13.486,1,0.0348,0.928,0.865,0.128,0.635,107.336,127267,4
+George Frideric Handel,"Violin Sonata No. 3 in A Major, Op. 1, No. 3, HWV 361: III. Adagio",3n1Ms1OuVxIdhC33k0GG2z,16,2010,classical,0.287,0.0596,6,-24.189,1,0.0461,0.984,0.353,0.118,0.12,75.221,58587,4
+Benjamin Gustafsson,The Beauty Around Us,3D0bSLh2FGp6nxPtsTmrM4,20,2017,classical,0.279,0.138,1,-22.96,0,0.0323,0.853,0.925,0.11,0.0385,91.403,166837,3
+Mr. Fastfinger,Wax On – Wax Off,3Ux85qrXW9BddF6sJPoCfV,13,2009,classical,0.602,0.839,6,-8.574,1,0.0562,0.00539,0.166,0.059,0.398,119.999,342693,4
+Johann Pachelbel,Canon in D Major (Arr. for String Quartet),3SkEo3vgFxrgrtoFijCYIt,14,2014,classical,0.189,0.157,2,-14.916,1,0.04,0.917,0.498,0.0894,0.139,87.851,332387,4
+Ludwig van Beethoven,"33 Piano Variations In C, Op. 120 On A Waltz By Anton Diabelli: Variation VII (Un poco più allegro)",2oVprGEpYr20lsU5iKnlWG,21,2023,classical,0.307,0.177,0,-19.487,1,0.0325,0.965,0.904,0.113,0.418,85.812,71933,4
+Wolfgang Amadeus Mozart,"Symphony No. 25 in G minor, K.183: 2. Andante",3KKmyZvagH9vjijRf3sFLB,26,2020,classical,0.163,0.0173,10,-31.326,1,0.0379,0.976,0.0268,0.185,0.0395,145.109,357760,3
+Wolfgang Amadeus Mozart,"Requiem, K. 626: IV. Offertorium: a. Domine Jesu (Orch. Süssmayr, Beyer) - Live",6VwXV1HNE6qXlBWRkLjRt6,1,2023,classical,0.309,0.253,0,-18.435,0,0.0359,0.981,0.00373,0.111,0.191,93.697,215735,4
+Cain's Offering,Constellation of Tears,0RYis4vFvMUIqXEslYbvVs,35,2015,classical,0.346,0.941,11,-5.047,1,0.0598,5.37e-06,0.0,0.27,0.31,169.958,330040,4
+Fritz Kreisler,"Praeludium and Allegro in the style of Pugnani in E Minor - Arr. for Piano, World Premiere Recording",6xYNzxbTEgfViliJNfrOnf,21,2008,classical,0.384,0.241,4,-19.57,0,0.0342,0.992,0.877,0.132,0.165,112.16,355867,4
+Joe Satriani,Sahara,1IyZMP5uZjbk8sbGOC98CG,31,2022,classical,0.443,0.607,5,-6.737,0,0.0294,0.0523,0.884,0.078,0.125,91.027,276440,4
+Franz Schubert,"An die Musik, D. 547 (Transc. for Cello & Piano)",7JO2JdlX7oBTu2jIvjclbG,28,2021,classical,0.248,0.0729,2,-20.591,1,0.0428,0.98,0.85,0.0967,0.0805,80.521,145413,4
+Morton Feldman,Jackson Pollock (1950-51) for two Cellos: V Painting on Glass,5vsxgjUMbJQXDEzRsx0BK4,16,2002,classical,0.31,0.0412,2,-47.693,1,0.036,0.932,0.668,0.194,0.234,153.546,82307,5
+Edvard Grieg,"Grieg: The Last Spring, Op. 34, No. 2",05rne9cCOpLnUK8Qu6Nca9,19,2014,classical,0.117,0.0399,7,-24.796,1,0.048,0.809,0.845,0.171,0.0337,89.195,347065,4
+Fritz Kreisler,Liebeslied (arr. S. Rachmaninov),6k7gyx85eItkrQmBPCWelb,16,2012,classical,0.256,0.0425,9,-27.05,1,0.0375,0.994,0.883,0.0975,0.193,83.699,246173,5
+Howard Shore,The High Fells - Extended Version,6pIxZfAdRPmjcbUeoiwDnq,20,2013,classical,0.124,0.147,9,-19.852,1,0.0378,0.796,0.947,0.0731,0.0377,71.042,218840,3
+Sergei Rachmaninoff,"Etudes-tableaux, Op. 39: No. 8 in D Minor. Allegro moderato",3RfssJXqaocskGdOuFH5NX,17,2007,classical,0.197,0.149,2,-23.402,0,0.0418,0.987,0.92,0.0568,0.184,78.504,195133,4
+Johann Sebastian Bach,"Mass in B Minor, BWV 232: Credo: Et in unum Dominum Jesum Christum (Soprano I and Alto)",1xP6aYsFUWs8ZlelsOPzN7,19,2007,classical,0.284,0.0842,6,-23.655,1,0.0485,0.948,0.000276,0.136,0.389,74.983,260947,4
+George Frideric Handel,"Handel: Organ Concerto in F Major, Op. 4 No. 4, HWV 292: IV. Allegro",0DxD0eu7Sk3MsOXYAqjuF7,18,2002,classical,0.545,0.167,5,-15.254,1,0.0351,0.937,0.923,0.344,0.756,130.689,206747,4
+Tomás Luis de Victoria,O Magnum Mysterium,2lcW472ydHxkvO7F20TmfY,25,2015,classical,0.0786,0.0609,5,-24.484,0,0.0436,0.995,0.0104,0.106,0.0392,78.44,220360,3
+Ayreon,Day Seven: Hope,3pnkbnxCObL50FNLDv15IJ,31,2016,classical,0.447,0.601,2,-9.232,1,0.0278,0.0276,1.56e-06,0.2,0.38,92.463,167347,4
+Gustav Holst,"The Planets Suite, Op. 32: VI. Uranus",0keq7SHAGr9yzWGkyBJxOs,14,2010,classical,0.306,0.321,4,-14.538,1,0.0595,0.94,0.878,0.138,0.149,62.404,338193,4
+Julian Bream,"Guitar Sonata in A Major, Op. 29, No. 2 (arr. J. Bream for guitar): III. Minuetto: Quasi scherzo",3ZFs8ULoyedPfOskgKSmls,19,2013,classical,0.402,0.046,4,-27.378,1,0.0379,0.99,0.927,0.0939,0.125,130.365,209253,4
+Epica,Sancta Terra - Live,3lsSYo0xjbUwCVncvQ4dAT,30,2013,classical,0.232,0.892,0,-5.541,1,0.088,0.0168,1.41e-06,0.691,0.236,89.706,349653,4
+Frédéric Chopin,"Études, Op. 25: No. 1 in A-Flat Major",6SZecFOXcA1mt31T67vajf,40,2012,classical,0.278,0.0269,8,-28.283,1,0.0388,0.99,0.917,0.0705,0.0343,70.018,174267,3
+Ronan O'Hora,Arabasque No. 1,2y4G9MGPpnqneYzZ0b7YIN,6,2001,classical,0.29,0.0121,4,-32.09,1,0.0399,0.995,0.946,0.0785,0.0488,66.059,264493,3
+Aram Khachaturian,I. Waltz,04LRM5cbSULmfwzwQXg7Mu,23,2008,classical,0.151,0.523,0,-7.531,1,0.038,0.728,0.932,0.244,0.228,180.922,267333,3
+Percy Grainger,Handel in the Strand (Arr. for Wind Band),3suPxLZGIQizkx7rMkl70j,12,2006,classical,0.477,0.256,5,-15.417,1,0.0326,0.979,0.932,0.0939,0.533,113.391,251160,4
+Joe Hisaishi,The End of the World for Vocalists and Orchestra: II. Grace of the St. Paul - Live at JOE HISAISHI & WORLD DREAM ORCHESTRA 2015,41aWoKdlIsIvGK6xSyporJ,27,2016,classical,0.152,0.312,7,-14.472,1,0.0403,0.888,0.813,0.259,0.04,173.34,536493,3
+Johann Sebastian Bach,"Partita in C Minor, BWV 997 : Preludio",3nMagQq37ytcKdW2ahO15X,21,2012,classical,0.374,0.308,2,-16.546,0,0.0302,0.992,0.93,0.154,0.182,81.718,184893,4
+Wolfgang Amadeus Mozart,"Violin Concerto No. 3 In G Major, K.216: I. Allegro - Cadenza: Daniel Hope",2YskcLfAcWyPcaK41XZjCU,30,2018,classical,0.424,0.0884,7,-18.937,1,0.042,0.969,0.239,0.0846,0.429,121.787,513973,4
+Nobuo Uematsu,Repression (Memoro de la S^tono),3Erop1JeKCWQhmgdZX5fVX,12,2002,classical,0.384,0.207,11,-12.59,0,0.0325,0.703,0.977,0.109,0.0665,110.217,187733,4
+Wolfgang Amadeus Mozart,"Don Giovanni, K. 527, Act II: No. 15, Ah taci, ingiusto core",53ToRgAgQRN8mQ1SfJpWBG,0,2023,classical,0.316,0.0923,9,-22.066,1,0.0482,0.987,0.000139,0.157,0.0886,110.362,270867,3
+Henry Smith,Rockin' Around the Christmas Tree - Piano Version,4ZzfFwi0yQ9W8KeMvYaPia,34,2020,classical,0.541,0.0192,8,-25.765,1,0.0566,0.988,0.905,0.104,0.231,95.759,159625,4
+Antonio Vivaldi,"Violin Concerto No. 1 in E Major, RV 269 ""La primavera"": III. Allegro",1HYiSHSSNQnpYE3umXth6J,29,2004,classical,0.302,0.152,4,-16.174,1,0.0426,0.728,0.501,0.261,0.156,100.65,235000,4
+Pyotr Ilyich Tchaikovsky,"Swan Lake, Op. 20, TH 12, Act II, No. 10: Scène (Moderato - Più mossoe)",0AvCP4oj9iV9tsx9V2G5jm,48,2013,classical,0.101,0.111,4,-20.372,0,0.0405,0.826,0.897,0.107,0.124,174.226,160267,4
+Arvo Pärt,Lamentate: Fragile e conciliante,2axXb7KIHIdmp7H7F6q6D3,24,2011,classical,0.214,0.0024,1,-40.218,1,0.044,0.962,0.221,0.065,0.0536,94.396,391787,4
+Shoshana Michel,If,1RLftmmq7CNSb31hWUWvaL,32,2020,classical,0.317,0.228,9,-19.29,1,0.0492,0.992,0.953,0.0817,0.363,171.709,184095,4
+Gabriel Fauré,"Nocturne No. 3 in A-Flat Major, Op. 33 No. 3",6e4Fwxw8wWTAhHhyjy4m8D,15,2001,classical,0.365,0.0439,8,-26.839,1,0.0357,0.988,0.869,0.0917,0.0398,67.28,273000,4
+Antonio Lauro,Flores de la montana,1zxLAaai5PIcNl4NNwZzKE,24,2007,classical,0.417,0.135,4,-22.914,1,0.0397,0.993,0.929,0.112,0.562,83.683,120600,3
+DragonForce,When Dragons Rule - 2010 Remastered Edition,3JiAGcpOI5DGNFFZdbIHPO,29,2003,classical,0.163,0.94,6,-3.849,0,0.179,0.00654,0.0,0.133,0.137,194.611,349720,4
+Joe Hisaishi,Moving to a New House,3sSwxwPxbmTJrQbAYSmrZi,40,2004,classical,0.137,0.138,7,-21.114,1,0.0342,0.977,0.698,0.377,0.068,86.181,185907,4
+Biba Dupont,Longest days,1fyoUmAZLx9tLmXA99Uxs4,56,2022,classical,0.385,0.0453,8,-28.853,1,0.0325,0.981,0.913,0.11,0.207,106.871,165899,4
+Ludwig van Beethoven,"Symphony No. 7 in A, Op. 92: 1. Poco sostenuto - Vivace",3RnMlw5UwPz6fMvOjcejiB,18,2000,classical,0.325,0.223,5,-15.232,1,0.0514,0.776,0.556,0.0743,0.11,95.279,903760,4
+Lalo Schifrin,"No More Lies, Girl",5n35QDGg95wzq7J6xcGl84,14,2003,classical,0.513,0.423,0,-13.366,0,0.0449,0.493,0.000298,0.101,0.842,86.743,165893,4
+Lang Lang,The Nutcracker Suite,2h1rdZtP5pieiZgAeEUF7O,27,2018,classical,0.287,0.0991,5,-26.459,1,0.0374,0.92,0.885,0.1,0.118,113.041,239653,4
+Valentin Silvestrov,Two Dialogues with Postscript: III. Morning Serenade - Edit,4cfwFc5ptXuzQMT9fSdnOl,39,2020,classical,0.0659,0.0102,4,-34.463,0,0.0461,0.866,0.941,0.0899,0.0376,69.004,162133,4
+Gustav Mahler,Rückert-Lieder: Ich bin der Welt abhanden gekommen,1SKqoOM0KO1ABXDzal9TNn,38,2004,classical,0.0874,0.0125,5,-33.135,1,0.0446,0.967,0.00112,0.0753,0.0346,169.146,422000,3
+Wolfgang Amadeus Mozart,"Mozart: Violin Sonata No. 32 in B-Flat Major, K. 454: III. Allegretto",0AZkqpjUd45MxmcICn0dTm,21,2017,classical,0.391,0.0935,10,-20.019,1,0.0518,0.981,0.0188,0.0752,0.487,82.441,419240,4
+Antonio Vivaldi,"Vivaldi: The Four Seasons, Violin Concerto in F Minor, Op. 8 No. 4, RV 297 ""Winter"": I. Allegro non molto",21iiytF7v0zqi3hzCTPFO5,25,2001,classical,0.381,0.241,5,-16.411,0,0.0492,0.899,0.878,0.0887,0.274,167.53,190827,4
+Josquin des Prez,Missa Pange lingua: I. Kyrie,6Pr2y6tOZ841xSvdaO9SgD,17,2010,classical,0.107,0.188,11,-20.636,0,0.0451,0.987,0.725,0.13,0.0568,71.964,204787,5
+Frédéric Chopin,"Waltz No. 6 in D-Flat Major, Op. 64",6ismAx31sbLuftQXYEzMPe,17,2009,classical,0.291,0.126,8,-23.66,1,0.0358,0.991,0.936,0.203,0.487,68.51,113120,5
+Sergei Rachmaninoff,"Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation 18 (Andante cantabile)",7ySsMlGpJxsm82AX1wIPRR,42,2022,classical,0.176,0.0902,1,-20.527,1,0.0398,0.992,0.893,0.117,0.0375,91.113,176293,4
+Frédéric Chopin,"Mazurka in C-Sharp Minor, Op. 50, No. 3",0TegKWeLYr3sOSh9PTgPiZ,14,2004,classical,0.319,0.0625,1,-24.935,0,0.0386,0.994,0.881,0.0971,0.124,98.365,269093,3
+Georg Philipp Telemann,Trio in E minor / mi mineur / e-moll: I. Affettuoso,0HOHy9P46M3ZRlm8hElMKt,16,2010,classical,0.187,0.0591,3,-22.32,0,0.0378,0.922,0.46,0.136,0.16,137.423,219320,4
+Nobuo Uematsu,"Kiss Me Good-Bye (From ""Final Fantasy XII"")",1Yi6DdY28WPcYbhYGKQvdj,28,2015,classical,0.14,0.231,10,-11.831,1,0.0346,0.905,0.00325,0.154,0.202,75.138,291507,4
+Frédéric Chopin,"Nocturne en Ut Dièse Mineur, Op. 27 No. 1",7a7uT5YOIK81mtTVQSSggF,18,2010,classical,0.261,0.011,1,-22.344,1,0.0434,0.991,0.897,0.212,0.0397,71.797,340360,3
+Frédéric Chopin,"12 Études, Op. 25: No. 4 in A Minor ""Paganini""",4LQot1bIlKsqc4qL4DxVSx,17,2013,classical,0.418,0.121,2,-25.932,0,0.0602,0.994,0.893,0.0876,0.902,164.321,112173,4
+Pyotr Ilyich Tchaikovsky,"Symphony No. 6 in B Minor, Op. 74 ""Pathétique"": III. Allegro molto vivace",1H5WWNlsWeDDK6QJyy7FOT,31,2019,classical,0.481,0.302,7,-18.133,1,0.0443,0.923,0.906,0.203,0.277,80.924,526735,4
+Joe Hisaishi,Sorrow,3j0hh2OYyNrDl5q9g2F44u,22,2013,classical,0.258,0.027,8,-27.308,1,0.0505,0.984,0.749,0.0886,0.104,101.143,60693,3
+Michiru Oshima,孤独,09n11KinVWQEQbENJd5K2X,17,2004,classical,0.543,0.039,2,-26.783,0,0.0704,0.994,0.933,0.0805,0.286,111.204,83400,3
+Johann Sebastian Bach,"Orgelbüchlein, BWV 599-644: Ich ruf zu dir, Herr Jesu Christ, BWV 639 (Arr. Abiton for Guitar)",3SokfTeWt84ZeUenQUPzAX,38,2022,classical,0.489,0.0141,2,-23.312,0,0.0453,0.994,0.898,0.109,0.272,127.461,194667,4
+Wolfgang Amadeus Mozart,"Piano Concerto No. 25 in C Major, K. 503: I. Allegro maestoso (Cadenza: Casadesus)",7tHINoXMjV1erF4RiVlbGE,2,2023,classical,0.339,0.0691,0,-22.48,1,0.0362,0.984,0.905,0.0838,0.128,113.312,1074245,4
+Chad Lawson,Nocturne in a Minor,5edzZx7AiRFOUNZtyQJAGW,47,2011,classical,0.189,0.0343,9,-27.421,0,0.0414,0.99,0.926,0.0957,0.0416,100.968,362354,4
+Ludwig van Beethoven,"Beethoven / Arr Leon: Piano Concerto No. 5 in E-Flat Major, Op. 73, ""Emperor"": II. Adagio un poco mosso",35rHnOdcEjJPrNOwcZTFeM,29,2003,classical,0.372,0.0556,11,-25.647,1,0.041,0.973,0.862,0.11,0.0788,183.835,421733,4
+Arjen Anthony Lucassen's Star One,Perfect Survivor,5fjiwuFHIOyLnh9DNZlCUa,15,2002,classical,0.483,0.707,2,-8.975,1,0.0285,0.000338,6.87e-05,0.605,0.489,81.73,286280,4
+Majesty,Burn the Bridges,5hUlKj1U4kiIqCnpgKP3Nd,35,2019,classical,0.439,0.914,4,-6.02,0,0.0448,0.000387,0.00392,0.196,0.216,199.916,288086,4
+Carlos Gardel,Por una cabeza,0C2VBTRjLyFAOdAmgXNBIu,29,2012,classical,0.335,0.25,7,-14.641,0,0.0449,0.921,0.327,0.275,0.343,132.086,233840,4
+Jan Cyrka,Dirt and Dust,23uD48rqG96qAzTIr7dzIF,23,2011,classical,0.474,0.897,6,-6.655,1,0.0583,0.000398,0.627,0.0531,0.534,140.001,169868,4
+Rajan & Sajan Mishra,Nilambuj Shyamal Komalangam,5zAzSZr0MYOP1ZRTYw3H2Z,28,2006,classical,0.28,0.253,8,-9.724,1,0.0298,0.976,0.00149,0.137,0.101,83.438,82360,5
+Gustav Mahler,Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 2. Scherzo,3t08w44vk6GJ3gttgYQTbc,16,2008,classical,0.318,0.122,7,-22.9,1,0.0395,0.943,0.907,0.0986,0.117,98.687,667800,4
+Luigi Boccherini,"Quintettino Op. 30 No. 6, G.324: 4. Passacalle",4QGg08Dz1tEpmpnJjMzYmZ,37,2022,classical,0.395,0.0536,7,-28.427,1,0.0461,0.975,0.87,0.121,0.232,155.464,170333,3
+Giacomo Puccini,"Puccini: Tosca, Act 2: ""Vissi d'arte, vissi d'amore"" (Tosca)",3Cry7dR7x1o9pVj0mABbKs,26,2014,classical,0.185,0.187,3,-12.744,1,0.0373,0.988,0.0773,0.113,0.0727,81.566,198693,4
+Buckethead,Ghost Host,2Kh217Q5BMwgch6L0Mxz9n,28,2019,classical,0.573,0.893,1,-7.206,0,0.0303,0.0763,0.868,0.714,0.253,100.025,192107,4
+Die 12 Cellisten der Berliner Philharmoniker,Love Me Tender,2U8rYI3JXCIJsgecggmzXd,12,2004,classical,0.138,0.0149,8,-34.715,1,0.0522,0.836,0.3,0.0806,0.038,72.719,261613,4
+Gamma Ray,Empress,2R7Z9gmoussVF5D4tS4dRT,32,2007,classical,0.517,0.939,6,-4.35,0,0.0436,0.000491,0.0112,0.0851,0.437,138.017,382240,4
+Mario del Monaco,"Donna non vidi mai: Manon Lescaut, Atto I",2vKyumXeMH7MIwR5eGkNBy,12,2011,classical,0.212,0.235,10,-11.561,1,0.0356,0.992,0.213,0.0694,0.211,92.608,173467,3
+Morten Lauridsen,Lux aeterna: Agnus Dei,3DOrsNlXptRyKdCGtLjkiD,16,2006,classical,0.0643,0.0255,2,-26.538,1,0.048,0.932,0.914,0.127,0.0336,72.075,660600,5
+Rakesh Chaurasia,Introduction To Therapy (Based on) Raga Yaman,1gTWlinEg9LBUQTx5b4VxI,30,2016,classical,0.225,0.0955,4,-16.978,1,0.0373,0.985,0.938,0.102,0.137,72.017,595966,5
+Wolfgang Amadeus Mozart,"Mozart: Piano Sonata No. 11 in A Major, K. 331 ""Alla Turca"": III. Alla Turca - Allegretto",78td6Kr0D0DCO6V57U3Oix,46,2021,classical,0.602,0.203,9,-17.468,1,0.0436,0.99,0.902,0.0848,0.837,124.417,208821,4
+Leoš Janáček,"Sinfonietta: II. Andante - Allegretto (The Castle, Brno) - Live",2tZ2smdW0SvwWdn8gNak6X,22,2010,classical,0.239,0.0856,8,-24.844,0,0.0397,0.891,0.832,0.273,0.0567,113.399,365640,4
+Leonard Bernstein,"""West Side Story"" - Symphonic Dances: VII. Cool Fugue - Live",2FHZhI2hNyGxI8WQQPGQFn,18,2009,classical,0.372,0.203,0,-17.208,1,0.0505,0.858,0.315,0.157,0.256,81.939,224067,4
+Ludwig van Beethoven,"33 Piano Variations In C, Op. 120 On A Waltz By Anton Diabelli: Variation IX (Allegro pesante e risoluto)",49YsHaiVyHkRFs1pYoW0bX,20,2023,classical,0.534,0.106,8,-22.056,1,0.0433,0.99,0.929,0.119,0.496,78.559,101507,4
+Johann Sebastian Bach,"St. John Passion, BWV 245: Part I: Chorale: O grosse Lieb (Chorus)",7Hg9upksFFZnFS89eeH7wI,25,2011,classical,0.174,0.232,6,-19.7,0,0.0455,0.988,0.965,0.134,0.0869,137.968,52147,4
+Johann Sebastian Bach,"Bach, JS: Flute Sonata in E Minor, BWV 1034: I. Adagio ma non tanto",0ptjnwd8HK6HZaK9Uouhvr,18,2008,classical,0.203,0.0887,4,-19.483,0,0.0403,0.94,0.0878,0.164,0.177,77.671,195107,1
+Yo-Yo Ma,Dona Nobis Pacem,6YdOuF51wW0pvmdxc0qjqP,25,2008,classical,0.288,0.0948,5,-18.47,1,0.0391,0.988,0.879,0.108,0.353,90.033,120520,3
+Jacques Loussier,Partita N 1 BWV 825 En Si Bémol Majeur-Sarabande,7orl2JZlHI2Yc1FgGhP9d4,18,2000,classical,0.531,0.0614,10,-24.196,1,0.0458,0.951,0.937,0.0897,0.417,129.096,174827,4
+Ludwig van Beethoven,"Allegretto for String Quartet in B, WoO 210",0FNnU4R2Hx6OBfjejoLgDV,44,2019,classical,0.326,0.0874,11,-20.437,0,0.0524,0.955,0.854,0.121,0.192,83.565,40680,5
+Nobuo Uematsu,The Trials,5KZilTIolQG5ij9kFmOVO8,30,2001,classical,0.476,0.338,2,-11.786,0,0.0273,0.988,0.905,0.131,0.481,79.95,213867,4
+Joseph Boulogne Chevalier de Saint-Georges,"Violin Concerto in A Major, Op. 5, No. 2: III. Rondeau",7nwkIpmj1h5IS5po9Ga7Km,16,2001,classical,0.504,0.117,9,-21.61,1,0.0441,0.973,0.923,0.071,0.652,120.344,326773,4
+Wolfgang Amadeus Mozart,"Le nozze di Figaro, K. 492, Act IV: No. 28b, Deh vieni, non tardar",4PaNrMD374iVfsMD9eldZv,0,2023,classical,0.164,0.00957,5,-33.931,1,0.0494,0.977,0.00223,0.172,0.154,170.646,177000,4
+Henryk Wieniawski,Kujawiak in A Minor,49DLywt0XsEdp9xj40dBwH,23,2014,classical,0.465,0.0596,9,-18.872,0,0.0608,0.98,0.0316,0.0812,0.163,65.579,178773,3
+Ola Gjeilo,Unicornis captivatur,5B8aFH9Zvi4fPkRT9ffrSx,17,2012,classical,0.202,0.0228,4,-31.139,0,0.0383,0.992,0.0174,0.0699,0.0366,83.951,399333,4
+Howard Shore,The Message,4SIVIUIGU7fxYUL9aVLDre,20,2011,classical,0.217,0.0324,11,-27.74,0,0.0411,0.953,0.791,0.109,0.11,120.057,276800,4
+Dream Theater,In the Name of God,5oRPgXVVOuUqSm2IsGmKVU,42,2003,classical,0.316,0.857,5,-5.577,0,0.0599,4.1e-05,0.00175,0.0834,0.362,105.032,854733,4
+Lily Laskine,Kojo no Tsuki (Moon Over the Ruined Castle),6sl3MP2OBE0bRGfEmCO3Lt,14,2009,classical,0.361,0.0636,4,-25.747,0,0.0507,0.992,0.83,0.0674,0.165,138.195,221867,4
+Frédéric Chopin,Chopin: Cantabile in B-Flat Major,0Fn8xxERo8HLXDidm6gjL4,23,2006,classical,0.365,0.00173,5,-38.681,1,0.0507,0.995,0.969,0.13,0.625,111.003,69053,3
+Elisso Bolkvadze,"Sonata for Piano No. 3 in C Major, Op. 2:3 (Dedicated To Joseph Haydn): I. Allegro Con Brio",1ZRPL0L8IE75Pt14NUzOC0,11,2008,classical,0.392,0.107,0,-21.244,1,0.0417,0.993,0.888,0.0918,0.276,76.893,436200,4
+DragonForce,Cry Thunder - Live Rehearsal,2TaK0Gb1hk3WRU518saxPV,14,2012,classical,0.451,0.938,11,-3.3,0,0.0599,0.000297,4.61e-05,0.186,0.677,130.044,313811,4
+Johann Sebastian Bach,"Cello Suite No. 6 in D Major, BWV 1012: III. Courante",6MUTGrYfW9NTrrSDfakHtw,7,2001,classical,0.387,0.144,2,-25.393,1,0.045,0.956,0.882,0.153,0.776,119.634,223453,3
+Carl Philipp Emanuel Bach,"Notebook for Anna Magdalena Bach (1725) [Excerpts]: No. 18, Marche in G Major, H. 1 No. 3 [Attrib. J.S. Bach's BWV Anh. 124]",24MLuLKdi2wHpBo6KtOqrw,43,2021,classical,0.333,0.254,7,-25.045,1,0.0525,0.991,0.868,0.15,0.946,166.194,64267,4
+Joe Hisaishi,The Sixth Station,0id1qkWX2s92QjBJcQZj8r,55,2001,classical,0.304,0.0463,4,-25.773,0,0.0353,0.879,0.803,0.0923,0.0392,77.936,218240,4
+Luigi Boccherini,Cello Concerto In B Flat: 3. Rondo (Allegro),32yEnqI67Xha5xZJu4p6z1,16,2003,classical,0.419,0.0735,10,-20.484,1,0.0492,0.974,0.786,0.0869,0.406,137.932,295000,3
+Robert Schumann,"Schumann: Träumerei from Kinderszenen, Op. 15",7jNV18eK0tj1YsQxnMLEHK,32,2021,classical,0.383,0.0134,5,-34.109,1,0.0655,0.995,0.874,0.0688,0.248,70.643,169720,3
+Richie Kotzen,Venom,3IxskaJgntwUcXt9SK3LhL,33,2019,classical,0.471,0.886,8,-3.627,1,0.0496,0.00261,0.0942,0.124,0.473,100.025,236719,4
+Vincenzo Bellini,Casta Diva from Norma,24LtkN6O9fivhEfj0ygsE6,20,2003,classical,0.138,0.0954,5,-21.077,1,0.0539,0.977,0.767,0.0761,0.0378,176.706,297200,3
+Daniel Barenboim,"Bach, JS : Well-Tempered Clavier Book 2 : Prelude No.13 in F sharp major BWV882",5ynB7wmICQaeLEN6bYuORL,12,2004,classical,0.331,0.0657,6,-24.336,1,0.0408,0.992,0.913,0.112,0.273,128.501,231040,4
+Franz Schubert,"Erlkönig, Op. 1, D. 328: Wer reitet so spät",1s75RRFzLl7vdDv2KU96hZ,18,2003,classical,0.348,0.14,5,-19.293,0,0.0402,0.986,0.00574,0.104,0.257,151.192,254800,4
+Julia Gjertsen,Out of Square,3I677uFtjzjCPbjkBvL67F,37,2022,classical,0.581,0.334,6,-15.681,1,0.0321,0.93,0.922,0.0933,0.225,130.921,203986,4
+Jenny Lin,Beltà poi che t'assenti (Arr. for 2 Pianos),3V0UWSP292tAoj4SeLI5eZ,24,2016,classical,0.583,0.123,10,-18.8,1,0.0675,0.994,0.888,0.0999,0.181,118.864,179187,4
+Anton Bruckner,Symphony No. 8: II. Scherzo. Allegro moderato — Trio. Langsam (Slow). Scherzo da capo,4qtMZrSeZs8zyk4pEeHMsI,13,2015,classical,0.205,0.113,8,-20.302,1,0.0387,0.886,0.847,0.106,0.056,108.642,941679,3
+Johann Sebastian Bach,"Orchestral Suite No. 3 in D Major, BWV 1068: II. Air ""On a G String"" (Arr. for Piano)",4WH081NcZkk93PVK2S3q5N,44,2017,classical,0.458,0.0108,2,-29.707,1,0.0535,0.996,0.938,0.0724,0.135,115.141,328800,4
+Felix Mendelssohn,"Songs Without Words: Frühlingslied, Op. 62 in A Major: Allegro grazioso",6NQOTUaP1iX2lrFZkxgt0Q,26,2009,classical,0.203,0.118,9,-17.26,1,0.034,0.98,0.931,0.0679,0.104,72.876,125653,4
+Tzvi Erez,Solfeggietto in C Minor,2yfPOfxj9nWrFAQtvyP8J6,31,2012,classical,0.136,0.291,0,-16.2,0,0.0481,0.989,0.932,0.128,0.22,148.534,65625,4
+Isaac Albéniz,"Mallorca (Barcarola), Op. 202",1H8sYcD8mPZamtmEFfohX2,20,2018,classical,0.331,0.0558,5,-27.054,0,0.0519,0.993,0.929,0.0963,0.0642,124.19,374293,3
+Johannes Brahms,"21 Hungarian Dances, WoO 1: I. Dance in G Minor. Allegro molto",1A3YA9LGgTEC1U8PXafyRd,30,2014,classical,0.353,0.157,7,-19.873,0,0.0442,0.903,0.143,0.114,0.482,93.652,177333,3
+Sa Chen,"The Butterfly Lovers, Concerto for Violin: II. Allegro",1YjmdK1qqeSpmiGRs5k9BI,13,2007,classical,0.598,0.266,4,-17.572,1,0.0647,0.938,0.679,0.12,0.394,75.618,166253,4
+Erik Satie,3 Gymnopedies: No. 2. Lent et triste,6cYiVbPLYKEikRkjPmqW44,30,2014,classical,0.58,0.00172,2,-32.045,0,0.102,0.994,0.92,0.0665,0.318,64.489,191290,3
+Frédéric Chopin,"24 Preludes, Op. 28: No. 5 in D Major. Molto allegro",05PJUTPob5HrWNE9GzKncw,22,2023,classical,0.322,0.165,2,-23.754,1,0.0465,0.994,0.88,0.105,0.191,77.763,40373,4
+Nobuo Uematsu,Oeilvert,7w0L3sbO6KN1LPumbyHOf4,24,2000,classical,0.26,0.056,9,-17.467,0,0.039,0.988,0.000378,0.129,0.859,68.878,137160,4
+Sergei Prokofiev,Romeo and Juliet Suite: Masks,1QK6p9e4DlxYn5kHIiphSi,14,2014,classical,0.467,0.113,10,-20.785,1,0.0393,0.745,0.0315,0.108,0.239,160.912,127573,4
+Heavenly,Sign of the Winner,4qkIm1YPcrwyI93ak1KkOE,20,2001,classical,0.253,0.901,4,-5.569,0,0.0897,7.81e-06,0.227,0.331,0.396,160.194,245973,4
+Orden Ogan,We Are Pirates,1kRylWu7SH8ycYGLDUctPe,32,2010,classical,0.519,0.969,7,-4.029,1,0.105,0.000536,0.000572,0.174,0.151,139.967,448213,4
+Jean Sibelius,"13 Pieces, Op. 76: No. 13 Harlequinade",52fTw5y2jpb8oDEz7TNrgh,20,2003,classical,0.471,0.117,3,-23.707,1,0.0508,0.99,0.873,0.0904,0.311,117.803,81333,4

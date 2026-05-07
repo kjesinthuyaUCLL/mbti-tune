@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Vetusta Morla,Pequeño Desastre Animal,6TMBxwtmMjKPCbQOslu6li,34,2008,spanish,0.311,0.767,10,-3.637,1,0.0472,0.671,0.0,0.0775,0.318,168.718,214160,3
+Duncan Dhu,Una calle de París,4A2RJRAz3lFGbvHEcZEQ7m,36,2005,spanish,0.683,0.752,4,-6.837,1,0.0337,0.074,2.56e-05,0.222,0.865,140.012,140253,4
+Arkania,La Bestia Dormida,42M1icPmLtgWYib3tsM5XD,21,2012,spanish,0.332,0.931,6,-2.985,0,0.204,0.00319,0.000249,0.0965,0.42,99.691,213866,4
+La Maravillosa Orquesta del Alcohol,Nómadas,5EskUV4Rg1VMNVPB32xUme,47,2013,spanish,0.586,0.619,6,-11.792,0,0.0288,0.123,0.0,0.2,0.682,120.97,204701,4
+El Arrebato,La Historia De Un Viaje,2k4fGY4CotGlNIAxKzgfT9,46,2022,spanish,0.63,0.48,7,-7.492,1,0.0996,0.564,4.15e-05,0.0983,0.918,98.011,223497,4
+Dharmacide,Depressed,7B8jOG2PPnoPk26qRSTK1v,31,2021,spanish,0.353,0.86,0,-6.837,1,0.0334,0.000487,0.971,0.194,0.183,168.06,236083,4
+Def Con Dos,A.M.V. - Agrupación mujeres violentas,3IxewqXiAzabKrHMHSVnHt,5,2011,spanish,0.708,0.987,9,-2.3,1,0.176,0.00473,0.0,0.709,0.21,102.468,229266,4
+Víctor Manuel,Paxariños,4VMO7KCzgEolxvjOkAqBzu,27,2013,spanish,0.294,0.423,9,-9.295,1,0.0357,0.0732,0.0,0.193,0.391,78.222,189440,4
+Nyno Vargas,Loco,1O0tsTmd5ejx5UBbevQs8a,11,2015,spanish,0.742,0.764,9,-8.656,1,0.0638,0.488,0.0,0.323,0.791,110.047,227147,4
+Vanesa Martín,Verano Eterno,6fQmuMaRCSCtR0sjmVv7wX,45,2022,spanish,0.685,0.663,7,-4.223,1,0.0615,0.415,7.84e-06,0.0819,0.367,129.906,239441,4
+David Bisbal,Cuidar Nuestro Amor,0CxfPDC8TOntEsNDUV7nBO,40,2006,spanish,0.603,0.592,1,-5.707,0,0.0285,0.321,0.0,0.122,0.0953,128.009,225693,4
+Los Inhumanos,"Póntelo, Pónselo",4CuKaMqMUZwQWnFR91EoSD,2,2001,spanish,0.803,0.736,4,-5.058,1,0.0358,0.202,0.0,0.244,0.536,120.64,229053,4
+Chambao,Hoy Puede Ser un Gran Dia - Tributo a Serrat,1vcZt7qwR9bgVSh7obMjFd,37,2013,spanish,0.686,0.822,2,-5.228,1,0.0554,0.125,2.49e-05,0.0672,0.955,92.0,193933,4
+Alejandro Sanz,Mi Peter Punk,7J4XarTcJvf2u4Rbn7uNm3,27,2009,spanish,0.499,0.82,0,-4.126,1,0.0375,0.0175,0.0,0.117,0.538,98.003,225773,4
+La Canalla,Candela,3hiJvgmjBDzpsENhtEsJW2,21,2010,spanish,0.541,0.649,2,-7.857,1,0.106,0.503,2.55e-05,0.0654,0.551,100.486,149573,4
+Juanita Reina,La Luna Cayó en el Río,6BCJKVCofRBL2nwVnWqaPQ,3,2002,spanish,0.582,0.275,6,-13.779,1,0.385,0.978,0.00328,0.371,0.545,102.346,176267,4
+Pablo Say,The Club Is On Fire,5J2x6DvEOKT2Kbuna29akg,12,2023,spanish,0.841,0.976,11,-5.997,0,0.069,0.0133,0.878,0.0479,0.124,132.003,247273,4
+Tabletom,7. 000 Kilos,7ph7WnmQVr9qlsv5fFR4cN,5,2002,spanish,0.447,0.537,4,-7.818,0,0.049,0.396,0.000128,0.0538,0.458,98.304,402840,3
+El Último Ke Zierre,Que Mogollón,3TxcWKP1kQwrdrT28nfWBr,5,2000,spanish,0.523,0.961,9,-6.881,0,0.0665,0.0104,0.0137,0.128,0.82,90.09,106806,4
+Manolo Escobar,"Me Voy Pal Campo - De : ""Alejandra, Mon Amour"" - 1979",5iHNp1RA2Lye5wgfPXxJ7h,9,2000,spanish,0.703,0.886,7,-8.307,1,0.315,0.502,0.0523,0.0886,0.841,118.976,156827,4
+Violadores Del Verso,Informacion Planta Calle,6QYLghYSFU35J4zSSrw1Xo,36,2006,spanish,0.707,0.911,1,-5.529,0,0.348,0.309,0.0,0.308,0.813,83.049,386827,4
+Dvicio,Justo Ahora,3lgiC0OSZbPcyeO0HdTwz2,40,2014,spanish,0.431,0.824,0,-4.088,1,0.0396,0.171,0.0,0.373,0.497,184.102,212067,4
+Yung Beef,Tu No Princesa,5rHODv97uhk46SjNtY0zdl,35,2018,spanish,0.728,0.54,6,-6.286,0,0.0928,0.0754,1.54e-06,0.106,0.308,89.56,226592,4
+Joaquín Sabina,El Cafe de Nicanor,62JNiVGEhWuZ2gM6dnAK9y,29,2002,spanish,0.726,0.565,7,-6.675,1,0.0842,0.405,0.0,0.123,0.709,90.002,297120,4
+Tamara,Qué Será De Ti,4leLBm9zCLL0g2f4C5cbCO,18,2004,spanish,0.52,0.479,4,-6.841,1,0.0278,0.151,0.000404,0.313,0.167,145.741,227693,4
+Funambulista,Me Gusta La Vida,6ehhc5vtZ33S9lPBQ0bvPN,56,2022,spanish,0.722,0.913,1,-4.147,1,0.0672,0.0611,0.0,0.084,0.876,95.123,175893,4
+Los Secretos,Ojos de perdida (feat. David Summers),5SiNXWI5kMboOjA3dzkCNz,31,2000,spanish,0.455,0.954,9,-2.198,1,0.0442,0.0015,0.0179,0.109,0.687,176.997,169680,4
+Synlakross,Oscilloscope,1x2RUP24A8VI1J9zjXWSWE,13,2021,spanish,0.588,0.897,6,-6.703,1,0.0809,0.000398,0.0,0.119,0.532,124.999,214500,4
+Joan Manuel Serrat,La Aristocracia del Barrio,33XBIBztb0vOLgVIV54SGz,15,2000,spanish,0.511,0.625,7,-7.784,1,0.0376,0.371,0.0,0.321,0.29,111.87,309680,4
+Adgar,Volverás,4DKkOIyjEBrZKDzyQu32Rv,8,2006,spanish,0.53,0.797,9,-7.052,0,0.0413,0.00351,6.01e-06,0.0988,0.506,123.983,404232,4
+Los Delinquentes,De los matorrales,2owwnnjBb0t2uYh53oFwVg,45,2006,spanish,0.76,0.555,7,-10.558,0,0.0511,0.789,1.21e-05,0.111,0.726,107.998,236173,4
+Joaquín Sabina,Caballo de Carton,7dLrfebVWL7om3SEEQucqI,33,2014,spanish,0.753,0.794,7,-4.145,1,0.0422,0.452,2.24e-06,0.25,0.446,131.05,254253,4
+Joan Manuel Serrat,Para Vivir,4goPhDiws62VENlkrEkVzt,27,2000,spanish,0.568,0.483,4,-5.906,1,0.0486,0.708,0.0,0.143,0.48,91.844,155333,4
+Manuel Carrasco,Uno X Uno,75K7Mczlt0zxANo8MEOaAu,60,2015,spanish,0.602,0.681,1,-6.976,0,0.0517,0.468,0.0,0.068,0.505,89.923,229720,4
+St Woods,Take All Your Things,0Z6JPPinWTnMr2IewL15J2,30,2020,spanish,0.648,0.187,7,-11.204,1,0.0274,0.87,9.41e-05,0.0979,0.239,95.104,216200,4
+Oskorri,Zezenak Dira - Artillero,7pwzkBAIgKYvTwN790SZJK,6,2006,spanish,0.304,0.669,2,-6.902,1,0.0552,0.41,1.19e-05,0.797,0.564,179.122,258000,3
+Estopa,Atrapado,59NzYPbo6U44DdQkBrC7HG,43,2019,spanish,0.68,0.889,7,-4.705,0,0.0608,0.0399,0.00368,0.686,0.856,99.008,219154,4
+Bruno Lomas,Melancolía,0Pby9eVuLUHwfccu2mHxkK,13,2002,spanish,0.473,0.39,4,-9.005,0,0.0264,0.404,0.000404,0.259,0.545,93.852,183867,4
+Leiva,Premio de Consolación,5gcUEklXEEtWnkjRfKzMvi,53,2021,spanish,0.745,0.565,5,-7.2,1,0.0473,0.183,4.49e-05,0.104,0.544,93.043,218333,4
+Non Servium,Todos al Suelo,4ByrVlTTAgyiI6o2ANi98H,38,2007,spanish,0.232,0.96,10,-6.065,0,0.148,0.00111,0.0,0.319,0.216,170.34,357400,4
+Alberto Gambino,Solo tú,2VUrWEnuGedxlWysMW0qN6,8,2011,spanish,0.674,0.7,11,-4.561,0,0.106,0.33,0.0,0.218,0.96,79.864,240053,4
+Rayden,En Mi Cabeza,2LtfWnFmgeC8zFgl1RsLyT,30,2014,spanish,0.619,0.728,4,-6.786,0,0.0644,0.0268,0.0,0.11,0.74,92.974,233947,4
+Agorazein,Epokhe - Alternate Take #3,4mnOD4u2WGSrFerPPNiWE9,30,2012,spanish,0.586,0.63,2,-9.095,1,0.332,0.0757,0.0,0.515,0.535,78.709,203077,1
+Manos De Topo,Es Feo,7yMxbQJIbl9dPEg42RdsDE,33,2007,spanish,0.562,0.798,9,-3.359,0,0.0721,0.0387,0.0,0.339,0.567,80.075,113013,4
+Mägo de Oz,Suspiria,0ZTbCzxNAmMNSjDUE10bFS,33,2019,spanish,0.535,0.933,11,-4.226,0,0.0439,0.00577,0.0233,0.24,0.488,132.055,247716,4
+Ellos,Fin de la Emisión,3wpeaPbQK7cMuWAZvUoxMB,2,2001,spanish,0.623,0.92,7,-4.932,1,0.038,0.000631,0.0,0.225,0.842,119.986,233760,4
+Putilatex,He Visto a la Virgen,4q0uuMYXyKyMjmlONSu1tY,22,2008,spanish,0.48,0.959,2,-3.541,1,0.0426,0.0197,3.84e-05,0.0945,0.326,167.978,304120,4
+Orquesta Mondragon,"El hombre de los caramelos (""Satin Doll"")",30bjJn4ue8tXI21nNDBMvE,5,2011,spanish,0.53,0.761,7,-13.067,1,0.1,0.0806,0.0098,0.898,0.57,143.299,166267,4
+Dante,Arte,4nnWTbrdYfuMMPgZGfuk8e,22,2018,spanish,0.648,0.864,1,-7.223,1,0.528,0.44,0.0,0.426,0.542,179.984,142000,4
+Paraiso,Saco de Ouro,3zVIu5OUUZMbppg3rhCGac,10,2010,spanish,0.746,0.519,2,-9.555,1,0.0305,0.779,0.0,0.0807,0.856,114.416,184738,4
+Lérica,Canciones Cortavenas,4ISJZoDAcHTDEiAveXoysa,43,2021,spanish,0.715,0.818,9,-3.641,0,0.232,0.0189,0.0,0.284,0.873,96.897,156611,4
+Heroes Del Silencio,Flor venenosa,2X6M3gJGwAbxxvcM4ssona,27,2021,spanish,0.656,0.805,5,-5.934,1,0.0319,0.362,1.14e-06,0.34,0.638,110.187,248057,4
+Pignoise,Sigo llorando por ti,5WYHOiiYzXqHdwEisN8WIN,12,2007,spanish,0.419,0.832,10,-2.69,1,0.0451,0.0129,1.04e-05,0.0474,0.397,142.926,227107,3
+Chenoa,La Bella Y La Bestia,0GkhovNHD92b7E8W6pXO1E,29,2006,spanish,0.382,0.413,9,-6.483,1,0.0248,0.473,0.0,0.293,0.163,76.906,244027,4
+El Momo,Fluye,5OWV49FcyyQG8KCM5Up65d,26,2015,spanish,0.838,0.876,8,-3.95,0,0.233,0.0883,4.47e-06,0.215,0.582,94.972,177147,4
+Legendario,Contigo Hermano,5ttOYVkJTNw0sWDrlgHvfJ,6,2007,spanish,0.516,0.949,9,-4.588,0,0.469,0.0574,0.0,0.121,0.469,178.281,308689,4
+Los Chunguitos,Me Sabe A Humo (Con Danielo Emsi),3lNW18TfDOQdqyB3zfPnk3,13,2004,spanish,0.398,0.969,1,-4.354,0,0.207,0.146,0.0,0.228,0.756,78.496,195400,5
+Los Planetas,Plan de Fuga,3CTAQnKwTf3NccPQHUpNND,15,2000,spanish,0.321,0.952,9,-7.988,1,0.0895,0.0185,0.826,0.146,0.532,152.736,370453,4
+Rosendo,"Masculino singular - Directo en el Wizink Center, Madrid, 20 diciembre 2018",6M8rHFMSloAdzw14rODjhJ,11,2019,spanish,0.486,0.964,2,-3.351,1,0.0595,0.00102,0.0,0.995,0.314,122.943,225760,4
+Erpeche,Flores Que No Son Flores,3ZPeWxDo6Q4Xxfe3m2hjpF,27,2006,spanish,0.571,0.989,10,-3.443,0,0.316,0.0908,0.0,0.0932,0.455,189.933,189649,4
+Warcry,Cobarde,4vZol5tUq9oQllD02FEZZ5,39,2011,spanish,0.55,0.925,10,-3.98,0,0.0458,0.0013,0.00948,0.444,0.714,142.026,272347,4
+Sharif,Canción de Nana,3aJW8EjZ0smqjMZTtEGldg,29,2015,spanish,0.638,0.639,4,-7.639,0,0.0846,0.272,0.0,0.684,0.362,81.007,251191,4
+Melendi,Un violinista en tu tejado - En Directo,0AISbYM2GeNWSOdvsbBh1N,36,2015,spanish,0.386,0.758,1,-9.742,0,0.158,0.237,0.0,0.919,0.371,163.997,354373,4
+Hombres G,Algo en ti,0mllhCSwsa0axDxhsim0Ff,24,2021,spanish,0.5,0.93,6,-3.453,0,0.0487,0.00368,5.46e-05,0.642,0.356,142.132,258440,4
+Tamara,Muero Por Verte,5S4rv1nGbn4uvw6wzpAJDf,44,2021,spanish,0.412,0.747,4,-3.95,0,0.0505,0.0995,0.0,0.133,0.421,164.049,239062,3
+Nil Moliner,Sale el Sol - Versión 2018,4DUyORTFNAeGRoclGCjVgI,48,2018,spanish,0.712,0.633,0,-5.514,1,0.032,0.102,0.0,0.0789,0.932,93.02,227930,4
+Rayden,Si Vas,3NkxANtzzXgoFBCIiB3qX4,29,2012,spanish,0.289,0.85,1,-6.494,1,0.472,0.0741,0.0,0.125,0.219,196.15,192622,4
+SFDK,Ojos Tristes,3xcfQWSAuhUDsbTmPM2uwR,28,2005,spanish,0.502,0.726,2,-5.254,1,0.38,0.395,0.0,0.262,0.589,89.256,201373,4
+Veintiuno,Parasiempre,6HmueVhbyElJfNNadWGb1X,28,2021,spanish,0.679,0.507,6,-9.386,1,0.0911,0.591,6.91e-06,0.123,0.553,95.921,201801,4
+Debler,Mar de Lágrimas,6HOrJS8KYUEAKCfiLhEPy7,22,2017,spanish,0.467,0.772,2,-5.516,0,0.0433,0.000632,0.00721,0.467,0.39,135.046,279867,4
+Gritando en Silencio,A la luz de una sonrisa,5Fronw7eoL0huzCEYSZe80,40,2009,spanish,0.65,0.883,3,-4.6,1,0.0803,0.133,0.0,0.0787,0.693,89.945,227093,4
+Mujeres,Cae la Noche,0rC43L12i9dU6fm2hvvFei,30,2020,spanish,0.527,0.945,9,-5.474,1,0.0316,0.000899,0.0,0.127,0.758,100.043,179680,4
+Amaral,Moriria Por Vos - Acústico,69EobJ8OCQYOBw45OTkZOF,23,2002,spanish,0.608,0.52,0,-5.288,1,0.0248,0.317,0.0,0.121,0.602,101.948,233987,4
+Capaz,No Quiero Quejas,1Du0fgxLpRzhsoaBWC1q5r,7,2010,spanish,0.57,0.821,5,-4.607,1,0.209,0.0766,0.0,0.116,0.265,89.941,239787,4
+Erpeche,Veneno Negro,15iRqt0IPcpI7qvnOfYUeg,37,2006,spanish,0.601,0.916,1,-5.903,0,0.0529,0.185,7.99e-05,0.149,0.62,147.237,228963,4
+Joaquín Sabina,Barbi Superestar - Directo,5H6EWrxnOEDF9VQzPclOqa,35,2015,spanish,0.656,0.874,4,-5.879,1,0.0454,0.000185,3.33e-06,0.857,0.549,117.041,516080,4
+Aitana,Perdimos La Razón,7KbisO1P7V0UGrtpsdp1PC,41,2019,spanish,0.735,0.569,5,-7.72,1,0.108,0.106,3.24e-05,0.0756,0.759,92.036,177066,4
+Konsumo Respeto,Ahora Que Se Ha Ido el Sol,2x8qGL9oZApsPk8mhA7iVU,23,2005,spanish,0.555,0.95,2,-4.339,1,0.047,0.183,0.0,0.391,0.539,113.668,218360,4
+O'Funk'illo,Cara escombro - El hombre roncha,1DVlwVNcBK1POqRh6LK75r,6,2000,spanish,0.37,0.81,0,-4.848,1,0.299,0.0156,0.0,0.103,0.196,160.444,446840,4
+Fondo Flamenco,"Q, Tal",1b2dZvwAekpM352WxXxnTO,9,2014,spanish,0.633,0.831,1,-4.611,0,0.0292,0.519,0.0,0.136,0.59,140.032,201851,4
+Alex Ubago,Me cuesta tanto olvidarte,0DmynRRqXZ61qeUfXFyPVt,34,2009,spanish,0.458,0.31,11,-12.732,1,0.0288,0.544,0.0,0.091,0.312,139.55,147853,4
+Biznaga,Ventanas Emergentes,7FQvJamjDH09vYDSYhisrw,16,2020,spanish,0.24,0.956,4,-9.449,1,0.0973,7.42e-05,0.107,0.49,0.0373,170.612,141499,4
+Tijuana in blue,Vidas ejemplares (Live),22aOEQtQlANr3EOx5FR6mu,6,2003,spanish,0.498,0.868,2,-6.521,0,0.0914,0.0232,0.0216,0.793,0.72,99.395,221480,4
+Pablo Alborán,Ahogándome tu adiós - En directo,2S618PwyH2LyvKwxFGXoBN,28,2015,spanish,0.41,0.58,7,-5.444,0,0.0339,0.757,0.0,0.741,0.184,151.103,279748,4
+Soziedad Alkoholika,Pauso Bat - En Directo,4mPbDPiwPZuK3e2T8H5Evg,11,2019,spanish,0.499,0.99,10,-5.286,0,0.0753,1.34e-05,0.0304,0.938,0.405,130.01,192880,4
+Leiva,Peligrosamente Dark (feat. Silvana Estrada),15pq95Ie1omSW3e1oCCynv,50,2021,spanish,0.756,0.324,7,-7.904,1,0.0294,0.325,0.0,0.232,0.528,105.971,173453,4
+Arce,Alone,0cVCyYNjh0gzZF0TwgkZdq,32,2017,spanish,0.656,0.768,10,-6.453,0,0.134,0.648,0.0,0.106,0.461,100.706,178469,4
+Diego Torres,Por Ellas (feat. ChocQuibTown),4vkhw79OkPTN7Q4yclPBad,16,2015,spanish,0.61,0.645,0,-8.342,1,0.0606,0.599,0.0,0.0949,0.755,160.038,215973,4
+Porta,Los sin nombre (Con Isusko),39tPemSjjJpTvjzTgwP2vl,19,2012,spanish,0.647,0.932,2,-3.443,1,0.275,0.0957,1.75e-06,0.378,0.766,93.954,270013,4
+Vetusta Morla,"Mismo Sitio, Distinto Lugar",1Z0p8lse8FkvVpQvCtI7fY,31,2017,spanish,0.483,0.569,9,-7.389,1,0.0322,0.387,0.0747,0.172,0.181,108.023,221733,4
+Chulito Camacho,Nos Partimos el Pecho,5FeAVvkxve2YVTfivSiLiG,1,2002,spanish,0.856,0.844,10,-5.109,0,0.335,0.0388,0.0,0.102,0.915,89.96,189147,4
+Joaquín Sabina,Medias Negras - En Directo,4pSDdklbVIWciX42qpDNWy,36,2001,spanish,0.579,0.829,7,-4.657,1,0.0522,0.12,0.0,0.221,0.55,93.898,320240,4
+Rosendo,Flojos de pantalón - Versión 2004-Directo Donosti,0Y9IsFQRD6E1jXxmJrhP21,5,2004,spanish,0.346,0.939,4,-2.739,1,0.0431,0.0183,0.0291,0.945,0.344,91.604,327280,4
+Shaila Dúrcal,Dos Coronas A Mi Madre,4tIz33EhBEdDXpssKX5plr,26,2009,spanish,0.511,0.487,2,-5.76,1,0.0302,0.827,0.0,0.141,0.758,108.217,160884,4
+Morreo,Pansequito,1wjB84uPM55JuiBlm9j9T9,35,2023,spanish,0.66,0.804,11,-5.993,1,0.0376,0.0456,0.00132,0.0549,0.966,101.983,197004,4
+Laura Pausini,Amare veramente,42nL1zIgpl0kzDH4h9EhYR,14,2004,spanish,0.633,0.482,7,-7.496,0,0.027,0.58,0.0,0.081,0.183,113.903,240333,4
+Konsumo Respeto,Hablo Yo,5oUiZ7x1U6HSoP1uwhYask,29,2002,spanish,0.376,0.814,8,-8.201,1,0.0406,0.00143,3.43e-05,0.237,0.53,132.724,248520,4
+Amaia Montero,Entre Tu Y Yo,1heJPtUd8Yb3WYStimf1Ma,20,2011,spanish,0.457,0.849,11,-4.034,1,0.063,0.325,2.05e-05,0.264,0.577,101.21,191040,3
+Dremen,Each Step,0c6204zuuj20Ym2CjU2e7w,11,2015,spanish,0.778,0.879,10,-4.726,0,0.221,0.209,6.3e-05,0.487,0.52,106.003,207347,4
+Tontxu,Corazón de mudanza,0hU2EWvzjlj8nGG7ZNM1AS,6,2010,spanish,0.466,0.702,4,-9.418,0,0.0442,0.329,0.000463,0.877,0.683,156.072,248773,3
+Malú,Ahora Tu,2jYg3P9jJB4SXaIFqx2YrF,27,2013,spanish,0.418,0.619,7,-3.287,0,0.0364,0.62,0.0,0.0984,0.331,113.187,223880,4
+Mala Rodríguez,Toca Toca - Remastered 2022,47c9CJuaO0m3ZaW61IRDbT,15,2007,spanish,0.774,0.883,11,-4.356,0,0.299,0.14,0.0,0.119,0.754,104.178,184830,4
+Discordia,Ratones y Serpientes,4uUc0BqVHn2z3QTGVhjBnR,8,2013,spanish,0.558,0.922,11,-3.145,1,0.0698,0.00152,0.0,0.457,0.598,116.871,201827,4
+Danza Invisible,La deuda de la mentira,7vlkf3CyJneO1OiU5Cz6Gb,2,2000,spanish,0.793,0.602,2,-10.215,1,0.0316,0.226,3.83e-05,0.0667,0.857,120.727,242653,4
+Dante,Aprendí,57RAiN6Ia3EL4Ad7isPhDw,44,2018,spanish,0.763,0.868,1,-6.595,0,0.215,0.788,0.0,0.0804,0.323,80.892,241683,4
+Celtas Cortos,Cuéntame un cuento,24SEpBqc5nWAv5plpq4GGO,7,2006,spanish,0.436,0.912,11,-3.756,0,0.0382,0.0426,1.5e-06,0.0772,0.751,119.617,258666,4
+Ankor,Gravity,10MfHlQdL0KjG9tSy2LRiL,15,2019,spanish,0.51,0.941,5,-2.737,1,0.0617,0.000971,0.411,0.123,0.489,160.001,241085,4
+Hora Zulu,En Tu Nada,3isShhKx4Aw0Q0dJSx12LF,30,2008,spanish,0.516,0.974,10,-3.387,0,0.207,0.0211,0.0,0.133,0.439,72.346,234920,4
+Melendi,Lágrimas desordenadas - En Directo,4Ziejo7B5WBPNtsgF5yHkh,31,2015,spanish,0.435,0.952,9,-6.293,1,0.106,0.00341,0.0012,0.362,0.278,159.968,255400,4
+Tercer Sol,Recuerda,38LZvwfCreCUFb6TdDMhUG,9,2023,spanish,0.25,0.761,6,-5.608,0,0.0383,0.000218,0.814,0.11,0.249,175.923,191266,4
+The Limboos,Big Chef,33BEq8eJCqQ9oPCCv8t4Ao,25,2014,spanish,0.585,0.939,9,-3.368,1,0.0555,0.585,0.656,0.0757,0.804,102.274,174150,4
+Porretas,Mirando el Gotelé,4ucmUt9bMSjTZq1sjM3CLh,5,2005,spanish,0.479,0.751,9,-11.709,1,0.04,0.00456,2.38e-05,0.315,0.632,175.761,240013,4
+El Chojin,Sexo,002l3HsdtprMRzXo4AwBOh,22,2005,spanish,0.631,0.713,6,-6.208,0,0.352,0.0992,0.0,0.19,0.936,176.938,194040,4
+Yung Beef,"Amor De Rey (feat. El Menor, Pochi & Kookup)",49Tu3YYr7aYxxMQDXRVRkI,33,2020,spanish,0.854,0.559,1,-7.903,0,0.311,0.634,2.94e-05,0.577,0.463,97.032,229970,4
+Calero LDN,Diosa de Mi Corazón Pagano,5JgA2aMpJwJzGN7uoK8O6U,27,2018,spanish,0.441,0.858,11,-8.549,1,0.501,0.588,0.0,0.207,0.625,184.019,177477,4
+Danza Invisible,Diez razones para vivir,5XtITt7EMIpaBOFMYpbufQ,4,2000,spanish,0.684,0.613,6,-11.051,0,0.0394,0.503,2.72e-05,0.356,0.717,96.407,251120,4
+Huecco,Cerezas,4QNyLXK7QWdk1MzaV6qvOq,19,2008,spanish,0.489,0.868,9,-4.239,0,0.0734,0.0997,0.0,0.231,0.88,128.134,227867,4
+IZAL,He Vuelto,24AvJVBigiEYDfbn6kpLqG,45,2021,spanish,0.463,0.692,6,-6.289,1,0.0386,0.00701,2.08e-05,0.29,0.38,155.078,258607,4
+David Otero,Aire,3o383e6sYO6vBK6mqahqS5,33,2017,spanish,0.556,0.887,2,-4.752,1,0.0821,0.0656,0.0,0.131,0.589,178.098,238173,4
+Vanesa Martín,Respirar de ti - Directo 2015,1goSoIXddDHjN88MRT5xrg,27,2015,spanish,0.271,0.842,0,-3.63,1,0.0741,0.244,0.0,0.857,0.237,178.352,209667,4
+SFDK,Años Muertos,4J0ZMeYN7OkblxlarosaLT,42,2018,spanish,0.393,0.801,10,-5.516,1,0.551,0.211,0.0,0.312,0.266,165.935,226093,4
+Monica Naranjo,El Amor Coloca,1bQ6PfRm6CU5RpqRP6YV7A,26,2013,spanish,0.602,0.949,6,-4.637,0,0.0496,0.0553,1.26e-05,0.108,0.768,123.474,241520,4
+Vainica Doble,Chinita De Shangai,7K8R3joqEHqTALL98AXYlq,0,2000,spanish,0.669,0.384,9,-14.665,1,0.0559,0.793,6.19e-06,0.0774,0.669,95.95,251387,4
+Edurne,Como Tú,2UYO4y3s0HQJPAHuUbtwRe,41,2020,spanish,0.532,0.781,5,-4.395,1,0.142,0.152,2.06e-05,0.299,0.364,187.781,139467,4
+Andrea Motis,I Fall in Love Too Easily,74txbpOdt2TAb4O6pxRz88,22,2013,spanish,0.479,0.275,7,-12.394,0,0.045,0.951,0.355,0.709,0.196,109.35,395627,4
+Arco,Todo (Acústico),111mKsYJevaDUKZKjv6y6Q,15,2021,spanish,0.619,0.405,5,-6.876,0,0.0428,0.818,0.0,0.0925,0.493,149.846,248053,4
+Jefe de la M,Solo Traigo Musica,7e9vHJXVMs7Mli3ljOjJC3,8,2011,spanish,0.744,0.869,2,-4.543,1,0.185,0.0585,0.0,0.137,0.488,86.98,266899,4
+Adventus,Dame una Razón,3dXSHh6sPTfZ8HLokTNcaR,27,2021,spanish,0.532,0.99,1,-3.342,0,0.0613,0.000395,0.0,0.447,0.234,120.015,362965,4
+Hombres G,Aquí dentro,1vju1IVC3MdeDeQC68ffht,23,2021,spanish,0.598,0.774,4,-3.073,1,0.025,0.163,0.000517,0.164,0.402,143.998,238944,4
+Sinkope,Alimañas Con Oficio,1vZtvHQp4vDGw4qsBpb9TH,10,2006,spanish,0.555,0.876,9,-3.958,1,0.042,0.000415,0.0,0.0676,0.611,119.959,220573,4
+La Quinta Estacion,Recuerdame,22z5pIhqnXU3XTQy8e09KO,5,2015,spanish,0.303,0.686,6,-5.371,0,0.0573,0.318,0.0,0.2,0.419,187.662,205307,4
+Los Secretos,Cuerpo de cristal - Acústico,4O8M9QJ3ZrSI2uxSz8kbjz,9,2003,spanish,0.574,0.915,11,-5.992,1,0.0396,0.00295,1.68e-06,0.935,0.644,124.117,253080,4
+Jarabe De Palo,Mucho Más Mucho Mejor - Versión 50 Palos,7JnI1A9G5jL9xLuObZGy8v,28,2017,spanish,0.819,0.299,0,-7.785,1,0.0398,0.967,3.4e-06,0.0897,0.461,119.906,186818,4
+El Tren de los Sueños,No Te Digo Na,0N8Mt5bgAN5qjS3gRMO50n,10,2012,spanish,0.571,0.72,7,-6.261,1,0.0894,0.597,0.0,0.0872,0.482,119.93,215627,4
+El Drogas,Con Tu Presencia,5r2IJpHgUPfdnP9tIGKX6X,8,2013,spanish,0.561,0.822,7,-4.336,0,0.033,0.0105,0.00101,0.595,0.583,137.997,237533,4
+Repion,En Todo Momento,4weLhfeAWuSpNcbvUk2EFa,9,2023,spanish,0.459,0.878,10,-6.058,1,0.0549,0.0239,0.0,0.194,0.333,169.812,190272,4
+Transfer,Canción Pa' Unos Colegas,72AFXdf8Vw52VEXDSCaecG,8,2006,spanish,0.325,0.81,6,-8.228,1,0.0579,0.002,1.31e-05,0.0922,0.655,160.608,287439,4
+Camela,Marioneta de Su Vida,5KDOio5SmSHyL9v8js3Yih,10,2002,spanish,0.622,0.682,6,-7.137,0,0.036,0.0106,0.0,0.363,0.763,157.802,238507,4
+Luis Eduardo Aute,Una de Dos - Remasterizado,3udItPdFAt0FDkM5z9bcd0,0,2023,spanish,0.837,0.493,9,-8.723,1,0.0675,0.192,1.21e-06,0.111,0.826,144.475,299733,4
+Gritando en Silencio,Arrancamos,1BIauBVGpaiJBDx4Ip3xCs,11,2009,spanish,0.549,0.973,9,-3.742,0,0.0645,0.0039,0.804,0.329,0.243,100.019,193560,4
+Azucar Moreno,El secreto,4RohAsQY8Gd0HRxYCP4IgM,21,2020,spanish,0.516,0.665,5,-7.429,0,0.198,0.473,0.0,0.336,0.616,95.943,201955,4
+David Bisbal,Fuiste Mía,0l62XuU0pUobpvJavSsczD,17,2013,spanish,0.602,0.512,0,-6.839,1,0.0339,0.147,0.0,0.124,0.194,118.901,244880,4
+Depresión Sonora,Voy a Explotar,1JkIlQ3mdbb5e9bWHij00r,43,2022,spanish,0.435,0.953,1,-6.46,1,0.0583,0.000518,0.182,0.0638,0.735,180.017,222520,4
+Nati Mistral,No Soy De Aquí,6G9E2us3J8my2mGHacMm8j,18,2007,spanish,0.359,0.0985,7,-21.674,0,0.0368,0.981,0.906,0.144,0.303,94.74,194906,4
+Conchita,Hilo Rojo,1Y8h3iacWf2FW2HiLomeC8,29,2021,spanish,0.705,0.732,5,-6.453,1,0.0274,0.352,1.18e-05,0.107,0.566,122.043,187373,4
+Laura Pausini,Simili,53i6D188bSUeVZeR1sMucH,49,2015,spanish,0.522,0.765,1,-4.781,1,0.0381,0.179,0.0,0.103,0.159,115.077,215547,4
+Viceversa,No Es Verdad - Techno Mix,3OKTBaJkJ4YfUSHugVWyyh,6,2006,spanish,0.696,0.948,10,-7.427,0,0.0636,0.000307,0.0011,0.337,0.646,125.976,315640,4
+Evripidis and His Tragedies,Algo para mí,14UHB08UrtEHsomNFUzrT4,18,2023,spanish,0.637,0.801,10,-4.463,1,0.0611,0.074,0.000165,0.353,0.552,149.992,267400,4
+Porta,Nunca volverá,0CnDOgDwu09AhlfS5r2kSh,40,2019,spanish,0.684,0.716,1,-7.964,1,0.344,0.451,0.0,0.0787,0.623,166.098,231325,4
+Alpino,Voilà,6yifH2ih6pprzKcTEBGM9M,0,2000,spanish,0.623,0.993,5,-5.564,0,0.0428,0.000504,0.0517,0.0412,0.962,139.005,204547,4
+Joan Manuel Serrat,Despedida,7JIf99sw7nUTuUeGtBnrTa,27,2008,spanish,0.391,0.892,2,-6.581,1,0.059,0.0862,1.33e-05,0.974,0.293,172.835,99413,3
+Lérica,Algo Más,6ugbbralFK1YIKfa7yn3g8,34,2019,spanish,0.742,0.825,0,-2.917,1,0.0638,0.334,0.0,0.148,0.841,94.994,193792,4
+Viva Belgrado,Báltica,2ZiUlr6dDJ6uvISRTGqUxS,23,2014,spanish,0.162,0.945,0,-5.747,1,0.212,4.99e-05,0.913,0.676,0.0398,162.277,162038,4
+Warcry,Ardo por Dentro,0fBZ5K7nr1J9kZc7JxNhOM,41,2011,spanish,0.425,0.963,11,-5.559,0,0.217,0.0351,0.0337,0.0688,0.131,158.006,328098,4
+Nudozurdo,Mil Espejos,5W7CsTIjb4LNKujDtqutGc,28,2008,spanish,0.494,0.565,4,-8.105,0,0.0273,0.163,0.12,0.0867,0.251,125.333,273493,4
+Código Neurótico,Quema Tanques,1Wfxdgj4EQ1uJcDKWWKaSX,13,2011,spanish,0.472,0.966,10,-6.89,0,0.112,0.00905,0.0807,0.0519,0.549,104.347,102040,4
+Los Chikos del Maiz,Llamaradas,0OcP25FOLBy4lX8SZFsiVl,42,2022,spanish,0.654,0.951,9,-7.191,1,0.12,0.277,0.0,0.127,0.752,96.011,172440,4
+Saurom,El Cristal,7qCqc2YJJG5wrENELz15Y8,23,2012,spanish,0.569,0.467,3,-8.273,0,0.0251,0.753,1.11e-05,0.119,0.325,94.963,278081,4
+David Bisbal,Cry For Me - Original Version,0erTzghTSbnDpgTNJf15PR,15,2006,spanish,0.683,0.64,11,-8.565,0,0.04,0.133,1.7e-05,0.0666,0.606,96.004,211880,4
+La Húngara,No Creo en el Amor,0WyinFoa49Xh7mUadcSemq,6,2003,spanish,0.733,0.822,5,-4.55,0,0.189,0.419,0.0,0.0701,0.948,152.718,215160,4
+Alex Ubago,Entre tu boca y la mía,1n4Op1w7ehOqeGw3q0Zy0C,31,2017,spanish,0.732,0.654,11,-6.489,0,0.0251,0.632,2.82e-06,0.346,0.763,127.965,257561,4
+ERRE,Vino y tinta,3amFBgZdFmivwl9wLOis0P,46,2019,spanish,0.63,0.342,4,-10.417,1,0.0361,0.889,0.0,0.291,0.584,128.185,162923,4
+Pablo Alborán,Pasos de cero - Acústico 2022,1wzRz3KWOHOiJV9Raefv7q,35,2023,spanish,0.73,0.632,5,-5.615,1,0.0393,0.486,0.0,0.737,0.814,101.192,230936,4
+Morreo,Sol y Sombra,5PJO8xes5xRtC3I4qpRbjQ,23,2023,spanish,0.594,0.71,6,-7.612,1,0.054,0.0429,0.000832,0.144,0.529,89.055,171005,4
+Celtas Cortos,Un sin vivir,5DnNDsDg893K9p3mGXZhG6,7,2008,spanish,0.452,0.877,7,-4.679,1,0.102,0.0739,0.0,0.22,0.671,193.939,211707,4
+Stravaganzza,Impotencia,4MPSLL9QPRM5pQ6n8jJJZD,28,2005,spanish,0.421,0.968,2,-2.378,1,0.166,0.0011,0.111,0.0922,0.343,183.959,291120,4
+Macaco,Las llaves robadas,50gaL4omYO3D3Q1omLWlsX,16,2009,spanish,0.542,0.481,9,-7.981,0,0.0354,0.545,0.0,0.288,0.799,112.145,145893,4
+Def Con Dos,Mundo chungo - En directo 05,0QvdkSaGEMGvveW1tpkcvK,5,2006,spanish,0.665,0.973,9,-3.879,1,0.0743,0.00868,2.43e-05,0.812,0.729,120.076,228853,4
+Los Diablos,Maria Isabel,77KwSRDTQtBktTjLFydvLy,17,2017,spanish,0.567,0.756,7,-7.861,1,0.0399,0.342,0.0,0.0623,0.908,73.731,215867,4
+Laura Pausini,Corazón frágil,7BZRLBB2is0JmA2ZXB0bnD,14,2006,spanish,0.36,0.394,6,-4.656,1,0.0322,0.863,0.000108,0.545,0.126,129.147,207040,4
+Blake,El Coco,7hAFIIe8KxbehXAMyoMHTu,37,2019,spanish,0.646,0.845,2,-7.523,1,0.427,0.411,0.0,0.0713,0.897,101.538,186984,4
+Ginebras,Con Altura,4Hz4ZddemX2Ij985XRxC2q,43,2019,spanish,0.46,0.866,9,-5.564,0,0.0871,0.00751,2.17e-06,0.0999,0.598,179.917,131376,4
+La Prohibida,Eres Tan Travesti,3eq5YGGu4rAoQI6jY4HF6m,32,2015,spanish,0.649,0.803,4,-5.282,1,0.0328,0.00218,1.85e-06,0.138,0.85,127.982,203267,4
+MAVICA,Ada Road,5u2P6O7vHPtmW8fEU3zsXH,34,2020,spanish,0.442,0.274,0,-12.821,1,0.0393,0.758,0.0,0.127,0.143,160.205,278373,4
+Abraham Mateo,La Idea,5hbx6fWt9jt9dWSOHK3uGb,62,2023,spanish,0.538,0.837,6,-5.126,1,0.0614,0.00138,0.0,0.258,0.662,174.798,194258,4
+Estopa,El Run Run (with Rosario),4fN3fht7NSpYqRYRBVrNga,0,2023,spanish,0.696,0.81,0,-5.74,0,0.0399,0.664,8.22e-06,0.292,0.801,129.963,203040,4
+Joaquín Sabina,Ay Carmela,03A424HfAMnhY2RbPhcTxh,29,2009,spanish,0.486,0.258,4,-10.18,1,0.0553,0.577,0.0,0.119,0.547,147.931,204387,3
+Calero LDN,Como Shakira a Piqué,1pSPdWIU0rrRaDhZXEuWgt,43,2023,spanish,0.717,0.714,11,-8.95,0,0.127,0.471,0.0,0.129,0.0771,109.997,178909,4
+Rosana,Pa' ti no estoy - Concierto Madrid,3wMhHDhBlJ9RPRpzhSRQAp,20,2003,spanish,0.603,0.825,1,-5.689,0,0.0385,0.0118,2.43e-06,0.934,0.661,141.923,264227,4
+Love of Lesbian,"El astronauta que vio a Elvis - De ""Memorias de un hombre en pijama""",73kr289064jLf2t7JNNgCK,38,2018,spanish,0.377,0.701,9,-4.973,1,0.0292,0.0182,0.00148,0.113,0.486,176.053,263513,4
+Dogma Crew,Chúpala,5wUmgYXd0TbMx3Etr7Eb0K,38,2003,spanish,0.703,0.873,7,-3.771,1,0.284,0.0523,0.0,0.273,0.717,92.981,372653,4
+995,Número Once,0TuWhWNPd31Sr1Etlp9cOU,24,2002,spanish,0.843,0.655,10,-6.608,0,0.432,0.189,0.0,0.0846,0.863,88.896,166200,4
+Revolver,Johnny and Mary,4r1frEuanWweE1vh4gARw0,29,2023,spanish,0.387,0.896,11,-4.65,0,0.0466,0.0509,0.000281,0.246,0.798,74.987,224930,3
+Pastora,Paises Exoticos,4dQBC3izSihbqRjSS5Fruv,6,2011,spanish,0.293,0.454,4,-8.264,1,0.0339,0.453,0.0144,0.144,0.105,131.997,346867,3
+India Martinez,Khedni Maak,1hKWS95YuWBTAwpGXmzAp9,9,2011,spanish,0.637,0.843,8,-3.544,0,0.0682,0.194,0.0,0.177,0.704,99.991,284120,4
+Lion Sitte,Babylon,0JcZ4Uwv7TT4w2cRSrvfLn,0,2023,spanish,0.654,0.719,1,-6.522,0,0.193,0.515,0.0,0.0497,0.761,79.899,182746,4
+David Bisbal,Dígale - Versión Acústica / Una Noche En El Teatro Real / 2011,1lgQ38e8BiXQJ9oEUFsKmF,27,2011,spanish,0.632,0.575,1,-6.313,1,0.0292,0.635,1.04e-06,0.961,0.454,105.05,339840,3
+Siempre Asi,Esa mujer,186BI3zp15tcawUEEfZyne,44,2015,spanish,0.72,0.913,5,-4.952,1,0.163,0.379,0.0,0.133,0.827,97.192,219707,4
+Saurom,Se Acerca El Invierno,1WvzjNZW8YreiYsrSlceJE,36,2012,spanish,0.459,0.707,4,-5.939,0,0.0406,0.182,0.000319,0.0861,0.237,95.96,395610,3
+Los Hermanos Dalton,Se Acabó la Fiesta,5NEo103eogoqInosKVgOXW,8,2014,spanish,0.341,0.897,1,-3.632,1,0.0452,0.00878,0.0,0.0638,0.816,166.174,211853,4
+La Plata,Volar,4uiSAj8GIOeqoTDWflILW1,36,2023,spanish,0.461,0.849,8,-11.531,1,0.111,0.00125,0.538,0.126,0.314,149.961,138296,4
+Warmth,Taiga - Retrospective,2nrPewBQ5r8CKpsC3VfYq0,10,2021,spanish,0.137,0.209,7,-19.915,1,0.0406,0.422,0.811,0.0823,0.0354,141.137,240000,3
+Carlos Sadness,Ojitos Lindos,6d75HkONd1lWqz7EqhTXwT,56,2022,spanish,0.582,0.584,4,-7.731,0,0.0581,0.201,6.02e-05,0.171,0.323,164.0,228117,4
+Segismundo Toxicómano,La Hora del Chacal,3iqztMW83NvgfdJL63Nr4I,9,2011,spanish,0.438,0.93,9,-4.922,1,0.138,0.0188,0.0,0.299,0.33,167.976,241880,4
+Pablo Alborán,Curo tus labios,25DxOoxoObazIzPzYfDEUI,39,2017,spanish,0.63,0.488,5,-8.051,0,0.037,0.641,0.0,0.123,0.34,95.002,255987,3
+AMBKOR,Desamor de verano,2edHjBzFeNStm7FxyeuIIF,36,2022,spanish,0.549,0.902,10,-8.213,1,0.294,0.832,8.56e-06,0.74,0.517,116.885,156580,4
+Jarabe De Palo,Completo Incompleto - Versión 50 Palos,5hosAWewck85iyV7eN9NRN,29,2017,spanish,0.596,0.419,0,-8.196,1,0.029,0.665,0.00603,0.102,0.432,98.144,190869,4
+Manuel Carrasco,¿Qué Nos Está Pasando?,3W0saJOXQE1euxjjyY8GGZ,23,2013,spanish,0.394,0.335,5,-11.538,1,0.056,0.114,0.0,0.119,0.207,129.837,320893,4
+Dok & Martin,Immortal,3Y7kUkLjiY70JafNJnC31R,28,2020,spanish,0.786,0.82,11,-8.693,0,0.0417,4.39e-05,0.899,0.0644,0.0509,130.001,417246,4
+M-Clan,Los periódicos de mañana,7mr0w7ulCousQeDwjROTXC,28,2001,spanish,0.557,0.77,7,-6.382,1,0.0491,0.663,1.6e-06,0.724,0.843,116.025,269120,4
+Barón Rojo,Son Como Hormigas - Remasterizado,5zwdx2U9rl23ocdxBAEhqW,27,2005,spanish,0.381,0.933,9,-4.055,0,0.0492,0.000101,0.0457,0.214,0.636,140.532,245800,4
+Federico Moreno Torroba,Pièces caractéristiques: Albada,0yXLDfN08c1DdWqpZ5pHuL,8,2023,spanish,0.471,0.207,7,-20.833,1,0.0435,0.979,0.881,0.281,0.775,146.23,92893,4
+Supersubmarina,En Mis Venas,22iMNpRod9XBdpe7LKYIFO,42,2012,spanish,0.432,0.92,9,-5.249,0,0.0359,0.00241,0.0714,0.177,0.522,154.009,230733,4
+Maki,Bailemos (feat. María Artés),67KLSdWEUV1LEFBhzUmlhn,39,2018,spanish,0.793,0.647,4,-4.768,0,0.0291,0.433,0.0,0.31,0.883,127.979,247587,4
+Alejandro Sanz,Lola Soledad,6Q2UzWk20spoXsCJD5wlhB,36,2009,spanish,0.485,0.741,11,-3.967,0,0.0405,0.11,0.0,0.192,0.52,165.957,213827,4
+Magnatiz,Sube al Cielo,5WKlftWj0XOUdt2sMQHYJB,4,2000,spanish,0.815,0.652,2,-9.088,1,0.163,0.088,9.39e-05,0.315,0.628,79.996,412960,4
+Maldita Nerea,Tu Mirada Me Hace Grande,559iApdlv09JGqYMF89vGM,42,2009,spanish,0.522,0.673,7,-7.883,1,0.0335,0.354,0.0,0.115,0.726,159.999,258133,4
+Despistaos,Cada dos minutos - Directo acústico,6l0abYvzfx3HegwfR3XkBH,40,2012,spanish,0.595,0.307,5,-8.902,1,0.0322,0.853,2.67e-05,0.0993,0.515,76.012,213640,4
+Heroes Del Silencio,Maldito duende - Remaster 2018,1Qo9qJPW2ihALbElAHjFtw,26,2018,spanish,0.372,0.896,4,-4.247,0,0.0403,0.168,0.0,0.109,0.367,125.931,255320,4
+Alejandro Sanz,Corazón partío - Maqueta,4uJJ8HinHdc1Mv1YwRwqRK,22,2017,spanish,0.67,0.333,7,-11.828,1,0.128,0.369,0.0,0.0692,0.505,139.161,247107,4
+Estopa,Monstruos,0gPA2Ksl3qeLYQWnyBmSEa,41,2005,spanish,0.762,0.584,9,-8.831,0,0.0471,0.0904,3.13e-06,0.0874,0.859,139.877,195173,4
+Raul,Prohibida,1rWVL9jF4t5HK3e02bo0jA,36,2001,spanish,0.757,0.883,9,-4.358,0,0.199,0.351,0.000132,0.0738,0.539,126.885,228280,4
+shego,me lloro toda,6NQuTAFsGvrbyv934tj4Zq,36,2023,spanish,0.684,0.728,4,-5.003,0,0.0353,0.0245,0.0,0.41,0.611,115.018,135040,4
+Sergio Dalma,Si te vas,0zBwMCv94qBBON3jM570fC,24,2013,spanish,0.357,0.64,9,-3.813,0,0.0331,0.141,0.0,0.143,0.317,93.549,234213,4
+Vanesa Martín,Sintiéndonos,6ew5BMp9KJ5cKstpVU8GZp,26,2012,spanish,0.589,0.811,4,-3.392,1,0.046,0.00526,0.0,0.0853,0.552,101.997,218453,4
+Hombres G,La primavera - Remaster 2015,71NVYCsIfDpU1Z1swA6I8m,21,2015,spanish,0.582,0.661,7,-6.617,1,0.0264,0.328,3.33e-05,0.0626,0.599,133.977,171480,4
+El Último Ke Zierre,Cosecha Propia,6QzfRBrApGLS4ZtSk33YGh,7,2004,spanish,0.291,0.91,7,-6.966,1,0.0617,0.000393,0.0294,0.144,0.346,94.913,182414,4
+La Quinta Estacion,Tu Peor Error,5ERTIuDvUxMnqUPGdaAjkq,23,2012,spanish,0.567,0.885,2,-4.213,1,0.0894,0.0285,0.0,0.278,0.849,97.936,167480,4
+Guitarricadelafuente,Redondico (como los albaricoques),0Qyiy1Mee7CltUigigxvCx,39,2022,spanish,0.48,0.244,6,-9.381,1,0.0347,0.76,1.36e-05,0.111,0.295,44.785,50375,3
+Fangoria,Todo es mentira - Fangoria vs Julieta Venegas,0ewVko1qjoLuwlzv78WI0W,15,2006,spanish,0.775,0.855,4,-7.7,1,0.0423,0.00803,0.00016,0.0648,0.749,120.012,187800,4
+Eskorzo,Estúpidos En Siberia,1sZpg1i1LX2nctYsFV06Rz,10,2009,spanish,0.591,0.62,10,-7.674,0,0.0334,0.354,0.00068,0.0916,0.253,125.034,231906,4
+Nostra Morte,Arcangel Seductor,7eLlRwgAhydI2TMyaBHCmq,16,2009,spanish,0.504,0.971,9,-2.842,0,0.0487,0.0273,0.000165,0.0516,0.347,110.02,260182,3
+Arma Blanca,La Hoguera,1RENZuT5dVSUEgRjHBTO3e,22,2004,spanish,0.722,0.537,6,-5.3,1,0.38,0.0336,0.0,0.0534,0.314,94.387,266773,4
+La Sonrisa De Julia,Dentro De Ti,4J4F1U8K5u5eWh3TdG0LD1,9,2008,spanish,0.479,0.928,9,-4.707,0,0.0888,0.00341,0.00104,0.165,0.557,130.965,266613,4
+Antonio Vega,Caminos infinitos,5wEmmIcz0PbCJSvaRjYs3a,21,2005,spanish,0.308,0.518,2,-8.412,1,0.0512,0.387,4.05e-05,0.0708,0.355,81.64,464973,1
+Sherpa,Guerrero En El Desierto,1AoQdTYIhhi8vVoHd23fLt,5,2007,spanish,0.396,0.856,1,-6.793,1,0.0728,0.00675,0.000866,0.466,0.266,90.111,370187,4
+OBK,Oigo el silencio,1SGb2I3HyhTV8K5VZLYxOq,6,2003,spanish,0.778,0.532,0,-10.897,1,0.0498,0.011,0.00377,0.245,0.813,124.991,244933,4
+Soraya,Naufrago,6QIyfxyGH5MuyGNjI3Gzpy,11,2003,spanish,0.741,0.525,9,-7.436,0,0.19,0.549,0.0,0.201,0.803,135.947,216640,4
+Alejandro Sanz,"Looking for Paradise (feat. Alicia Keys) - Pedro del Moral, John Jacobsen & Anzwer Remix",2BlbpnoS4q90y387DVnxbQ,12,2009,spanish,0.715,0.911,0,-4.147,1,0.18,0.0159,0.000124,0.108,0.681,98.931,242307,4
+L'Hereu Escampa,La feram,4lT3MF8womQx8hrEo7VJqk,8,2013,spanish,0.16,0.953,0,-4.016,1,0.0659,0.000202,0.000114,0.169,0.386,106.762,158920,4
+Duo Kie,Dinamita,0Xld8a3Ol8Y5dRpyDZrFy3,5,2004,spanish,0.617,0.922,1,-4.089,1,0.352,0.0774,0.0,0.303,0.78,86.451,152813,4
+Amaral,Nada de nada,66q2arUJMagV39LO0OO282,30,2000,spanish,0.602,0.662,2,-6.401,1,0.0345,0.0846,0.0,0.101,0.821,151.948,221467,4
+Warcry,Dispuesto a Combatir,4RS6vVnH6jqIvwcAn3Z2me,31,2002,spanish,0.388,0.82,6,-6.198,1,0.0429,0.00142,0.0239,0.0699,0.24,160.022,323895,4
+Fangoria,¿Qué sería de mí sin ti?,2bMngM6lpuFUCbpr10FeYX,25,2019,spanish,0.587,0.885,6,-5.7,0,0.0307,0.0921,0.000444,0.0879,0.718,136.03,243000,4
+Yung Beef,Luna Llena,5ukEDfyl0t0EQtpjbpTZ18,37,2019,spanish,0.622,0.698,8,-5.55,0,0.072,0.28,2e-05,0.321,0.244,103.151,260715,4
+Presuntos Implicados,Fallen - En vivo,2qjxwBma0GzhmGgI1ihnLi,23,2013,spanish,0.7,0.551,9,-7.251,1,0.0263,0.814,0.0,0.888,0.475,111.983,202187,4
+Miguel Bosé,Muro,4rYENc8hvMJ87vP6oQsg2x,23,2013,spanish,0.588,0.441,8,-8.442,1,0.0271,0.0168,5.88e-05,0.0971,0.118,148.029,267347,4
+Miguel Bosé,Domingo,4TQScEXtErvs6HfoT82AYM,17,2014,spanish,0.589,0.894,4,-4.4,1,0.0288,0.0562,2.36e-06,0.161,0.319,101.006,361880,4
+Los Secretos,Quererte por querer,5kOXHa2u75fUtNGEscIljV,5,2011,spanish,0.586,0.825,8,-7.274,1,0.0336,0.00992,1.84e-06,0.124,0.842,130.137,241173,4
+Los Angeles,Después de Ti (feat. Felipe Peláez),0vEGN0Tg4GZt0fHyVEEstR,15,2014,spanish,0.69,0.564,0,-6.733,1,0.113,0.617,0.0,0.0856,0.538,135.173,219440,4
+Marta Sánchez,Escrito Sobre El Viento - Con Antonio Vega,0q0Y4IdpXlXNdCi62nt9w6,23,2010,spanish,0.584,0.397,8,-8.353,0,0.0435,0.512,0.0,0.377,0.365,133.795,217520,4
+Malú,Desaparecer - Version Acustica,0px5Ah0hMIhjphYLtXW3gp,26,2013,spanish,0.469,0.323,9,-6.115,1,0.0355,0.844,0.0,0.119,0.367,138.527,223133,4
+Estopa,Penas Con Rumba,2KYYf8AMqT5qCj6WSqIg10,54,2004,spanish,0.737,0.813,11,-6.398,0,0.0395,0.294,0.00017,0.0585,0.842,102.015,190693,4
+Mägo de Oz,Adiós Dulcinea - Remasterizado,4tqnwirJqPPDosCgM6VDqI,36,2010,spanish,0.517,0.678,2,-3.409,1,0.027,0.0618,0.0,0.231,0.179,96.155,427667,4
+Havalina,Punto de Reconciliación,0tLYJgV5RUfye8Ble2IYcJ,6,2010,spanish,0.595,0.802,7,-6.451,1,0.0271,0.00106,0.294,0.111,0.407,100.036,294987,4
+Henry Saiz,Haunted Girl Canyon - Original Mix,2SbwjDd3hQfX8fiaFt6Bxf,17,2014,spanish,0.797,0.55,2,-8.129,1,0.0729,0.00202,0.906,0.0568,0.369,120.0,579999,4
+El Barrio,Cuentale,3pCxUCWSCCUbTQ5tZ2iFaC,34,2003,spanish,0.62,0.85,11,-5.999,0,0.088,0.187,0.0,0.0876,0.651,155.974,234667,4
+Pol Granch,No Pegamos,4c2sHVImDKV0sZ87mXPoi8,50,2021,spanish,0.839,0.624,8,-5.098,1,0.226,0.0905,7.45e-06,0.118,0.783,109.992,165680,4
+Konsumo Respeto,Otro Tren,1ot5TXqjxVMxIgXhJjgZSg,30,2011,spanish,0.589,0.937,5,-3.378,1,0.0411,0.00882,0.0,0.323,0.823,100.007,201347,4
+Ole Ole,Necesito Más,0fVwda84MOd8vEkj4BxtZ1,1,2000,spanish,0.676,0.691,7,-10.57,1,0.0549,0.0211,0.013,0.0543,0.834,105.952,216640,4
+La Guardia,Un Laberinto Llamado Ciudad,3XKbCtIbLuFqY3qlLLlJCS,1,2000,spanish,0.575,0.886,5,-5.809,0,0.053,0.00862,0.0,0.141,0.843,156.217,193533,4
+Sôber,Blancanieve - La Riviera,76dC9214CgtcuHThHytXtb,9,2014,spanish,0.492,0.93,6,-5.646,0,0.0533,6.45e-05,0.00768,0.402,0.555,112.051,247327,4
+Alejandro Sanz,En la planta de tus pies - En vivo desde Buenos Aires,3RETRQovLhd9MecxEdYPCx,20,2007,spanish,0.616,0.571,11,-9.072,1,0.0677,0.195,3.41e-05,0.979,0.406,139.915,267520,4
+Ivan Ferreiro,Fiesta de los maniquíes,13f21P7S7dVU2WPI3qmsL1,10,2018,spanish,0.46,0.851,9,-8.712,0,0.0651,0.131,0.00503,0.537,0.729,180.979,206379,4
+Revolver,El Otono Está al Caer,1eY100wbtKqAIMdV3pBhLY,29,2023,spanish,0.411,0.75,9,-5.617,1,0.0511,0.0897,0.000806,0.108,0.589,95.958,275487,3
+SFDK,El Viaje,6wVUoyAzv13787tDGJl3yz,26,2014,spanish,0.649,0.59,7,-7.313,1,0.437,0.0977,1.23e-06,0.275,0.673,89.942,353027,4
+Fito y Fitipaldis,Todo a cien,2w6adV1U4TUjkcAplbCpwQ,36,2009,spanish,0.447,0.827,5,-5.215,0,0.0743,0.0101,4.73e-06,0.102,0.555,167.899,230707,4
+Las Chuches,Agua De Luna,6AA1xUl31SkcVG7QYiC49P,27,2004,spanish,0.835,0.845,8,-6.39,0,0.103,0.293,0.000106,0.0912,0.908,103.972,236107,4
+Opera Magna,Wound of Love,4oFGsYQmm6LijdtNvmsUTH,17,2023,spanish,0.353,0.975,7,-2.919,1,0.147,8.51e-06,0.248,0.149,0.129,140.092,234631,4
+La Polla,Estrella del Rock (Live),4m5FdOXPR0439dkI24xBca,7,2012,spanish,0.42,0.977,9,-3.457,1,0.0686,0.00355,4.01e-06,0.53,0.719,132.173,65293,4
+La Guardia,Por la Cara,6NrNl54iK1M8cWBATCLKHS,13,2017,spanish,0.526,0.887,9,-4.746,1,0.0384,0.0283,0.0,0.41,0.861,161.943,173692,4
+Jerónimo Giménez,"La boda de Luis Alonso, o La noche del encierro: El baile de Luis Alonso: Intermedio",5nsVeUbSMgfkqwbZQxyaH5,11,2003,spanish,0.433,0.0889,4,-23.32,1,0.0487,0.903,0.621,0.237,0.0933,112.334,214893,4
+Neuman,Recovered Files,2iheT0GXVpykVzVsPWjaVn,31,2023,spanish,0.337,0.812,9,-7.637,0,0.0622,0.264,0.774,0.0993,0.167,172.118,432914,4
+El Chojin,Nunca,0EicBFnzqIUhX4T6Uw6zFh,33,2015,spanish,0.492,0.685,9,-8.968,0,0.3,0.603,0.0,0.268,0.759,80.628,237902,4
+Pablo Say,Farewell Address,6iHhHlc3TvuAb7klBVLI8w,19,2023,spanish,0.814,0.846,10,-7.537,1,0.0625,0.000304,0.209,0.157,0.357,131.002,249160,4
+Henry Saiz,Love Mythology,6yCIPWZaRujeuQyTzAbs3I,21,2013,spanish,0.627,0.76,7,-9.551,1,0.0487,0.0045,0.691,0.114,0.437,114.997,354674,4
+Rels B,Yo Tengo Un Ángel,13hojycbY3re8lzGgLv3jV,59,2020,spanish,0.748,0.649,6,-5.444,1,0.11,0.124,2.04e-06,0.172,0.937,94.978,169658,4
+Melendi,Septiembre - En Directo,5n7UgMr8IUTCkI4usTky7T,34,2015,spanish,0.578,0.823,1,-8.993,1,0.0403,0.0164,3.68e-05,0.863,0.299,100.023,253040,4
+Rosa López,Muy Lento,3ASvHm5mlITrFzydvCnYk3,7,2012,spanish,0.824,0.717,10,-4.287,0,0.0952,0.29,3.65e-06,0.152,0.654,102.993,236267,5
+Celtas Cortos,Pajarico,0SbVTjp02deTS4ajS2gI7Y,5,2001,spanish,0.56,0.488,5,-7.798,1,0.0362,0.781,0.0,0.125,0.682,89.915,178533,4
+Hombres G,La esquina de Rowland,6MEtlpTuzFJQfa8DvZ6N4V,39,2021,spanish,0.694,0.78,0,-4.573,1,0.0329,0.153,0.0,0.147,0.635,129.919,225830,4
+Los Galvan,Con mirarte,27A0rMA6ylMwGd78WkMmiN,7,2007,spanish,0.457,0.854,2,-5.08,1,0.032,0.000253,0.000153,0.103,0.551,165.922,246307,4
+Mägo de Oz,La Vida Pirata,6GiSoNm0BdNnYmldNOJhaL,38,2021,spanish,0.383,0.947,2,-4.072,1,0.102,0.0145,0.00691,0.455,0.677,175.034,69867,4
+Los Planetas,Romance De Juan Osuna,4E9yr4sMon6uyRqZzXUc2U,5,2009,spanish,0.399,0.919,9,-5.816,1,0.0531,0.101,0.000904,0.142,0.381,145.098,317413,4
+El Canto Del Loco,Despiertame,0VOKEO4DON5BdtKDge2lHp,34,2005,spanish,0.581,0.939,7,-3.189,0,0.0499,0.0742,0.0,0.364,0.23,130.965,187413,4
+Saratoga,A Morir,0K2aR07DZxKspxVDHQQYlX,22,2023,spanish,0.457,0.973,8,-6.658,1,0.105,0.00016,0.000463,0.987,0.232,109.061,277812,4
+Varry Brava,Salta,3IP3PkhLKdg3qSXwnoU8Qu,14,2014,spanish,0.573,0.854,2,-3.595,1,0.0442,0.00533,3.18e-06,0.0541,0.81,156.101,199960,4
+Lepoka,El Picorsito,4gf18qific6Jb0h8I3uYC0,33,2020,spanish,0.419,0.955,9,-2.649,0,0.0851,0.000403,0.0,0.795,0.81,179.992,108182,4
+Los Fresones Rebeldes,¿Por Qué Me Tengo Yo Que Enamorar?,1QJZ4BCcZnRSSJKDNUbOPf,7,2003,spanish,0.604,0.869,7,-2.343,1,0.0279,0.232,0.0,0.221,0.851,98.956,152307,4
+Platero Y Tu,Sin solución,25XDYmssZZelpTKKRIoCtM,6,2002,spanish,0.447,0.892,7,-4.142,1,0.0475,0.00678,0.0284,0.746,0.678,161.343,383293,4
+Decai,Sólo Tengo Ojitos Pa' ti,5Ak5SaOpAIPUn7VKeXfPPi,9,2007,spanish,0.721,0.816,7,-3.835,0,0.0603,0.457,0.0,0.147,0.736,113.517,220333,4
+Amaral,El universo sobre mí,1jJn6iK6o2Vg7iUKHztRTk,58,2005,spanish,0.391,0.837,2,-4.078,1,0.0404,0.135,0.0,0.106,0.434,185.992,249680,4
+Marea,Más me duele a mí,3aFvvq7yLtwVwnZFO9M556,46,2022,spanish,0.365,0.971,9,-4.344,0,0.0609,0.000554,0.0586,0.0731,0.721,188.028,279565,4
+Carlos Baute,Te ofrezco todo lo que soy,3T9OfMfoesGDZZ0Ks8OZCE,9,2010,spanish,0.607,0.914,9,-4.954,1,0.0322,0.388,0.0,0.232,0.669,93.975,242093,4
+Amaia Montero,A Tu Lado,7ECcbbyw2rz7MOe9emF7gB,20,2011,spanish,0.302,0.562,0,-5.9,1,0.0362,0.463,0.0,0.113,0.48,166.006,253320,3
+Walls,Malos Hábitos,1mY9AuiMSI20RDFQUqsK7T,41,2022,spanish,0.818,0.66,5,-5.136,0,0.0475,0.0392,0.0,0.0553,0.758,142.878,192768,4
+Jarabe De Palo,Siamo,1DxdRwgjbVdTfhvnvkGjrO,14,2014,spanish,0.783,0.895,9,-3.878,0,0.0631,0.026,0.0,0.244,0.711,120.005,246110,4
+Ana Belén,Contamíname - En Directo,41Ewbqzdnv82EV494sQRua,32,2014,spanish,0.407,0.686,11,-7.937,0,0.181,0.683,0.0,0.989,0.705,83.253,202000,4
+Mägo de Oz,"Para que no muera de frío una cancion, llénala de rock 'n' roll",1zYhhy4wBG8q22yIOmpjrh,23,2010,spanish,0.421,0.973,5,-2.711,1,0.0775,0.00167,1.01e-06,0.192,0.53,155.465,322227,4
+Taburete,Venado Tuerto,6M4mxoRtrNYww3e0B60EJB,32,2021,spanish,0.367,0.723,2,-4.659,0,0.0422,0.044,0.0,0.0597,0.496,163.657,181473,4
+Vainica Doble,El Rey De La Selva,2gx5EDakFwzfIlSpn4uraD,0,2000,spanish,0.52,0.239,4,-12.327,0,0.0332,0.819,0.0,0.126,0.222,127.681,217640,3
+Barricada,Bahía de Pasaia - Concierto Anaitasuna,4WKATYMe6kpS3LhDZ3xG5O,12,2006,spanish,0.306,0.992,9,-5.356,1,0.088,0.0586,9.21e-05,0.984,0.0813,99.972,165266,4
+Porta,Cóctel de Realidad,6PA20ayqIn5mftkM9SLXVb,44,2022,spanish,0.792,0.862,8,-6.207,1,0.289,0.124,0.0,0.0729,0.852,144.113,263333,4
+Hombres G,Hace un año - Las Ventas 2015,2XRfk48ivxZ6a0mXTV907V,24,2015,spanish,0.563,0.759,4,-8.663,1,0.0309,0.12,2.61e-06,0.985,0.515,136.013,273800,4
+Alejandro Sanz,Mamá Africana,5YQTmMq033F7vg2Ftj6t9R,23,2021,spanish,0.861,0.614,6,-8.755,1,0.0355,0.758,0.00236,0.072,0.871,132.0,199500,3
+Foyone,#RapSinCorte XLVII,5a037JzJ0w4JyS3ndRbFZs,33,2021,spanish,0.619,0.501,8,-5.063,0,0.354,0.901,0.0116,0.148,0.872,79.548,163597,1
+La Excepcion,Interludio: peludo,7zhZSn4e4wFXhPsJBnszKA,11,2006,spanish,0.719,0.609,6,-8.384,1,0.414,0.903,0.0,0.972,0.922,82.218,55746,1
+Elefantes,Me he vuelto a equivocar - Directo en Razzmatazz,7IJfNUrnepXj1aN2Rn9M0f,7,2006,spanish,0.29,0.857,9,-3.423,0,0.0434,0.0766,4.39e-06,0.943,0.227,130.973,302840,4
+Fuel Fandango,Shiny Soul,7xolAWbP9wP0EpBGzStNPK,19,2011,spanish,0.784,0.642,1,-6.894,1,0.0297,0.0607,0.000277,0.297,0.803,119.978,315002,4
+Merche,Ya No Me Digas Lo Siento,1WaxAhrgoFZYK3J9SVKzjM,5,2007,spanish,0.733,0.803,7,-6.508,0,0.0372,0.135,0.000116,0.147,0.817,137.886,223307,4
+Porretas,Dos Pulgas en un Perro (En Directo),59kUjQJ5fAYnzC0kFIV8cD,9,2003,spanish,0.496,0.807,11,-10.737,0,0.108,0.0937,0.0,0.842,0.468,88.103,231586,4
+Sharif,Primera Persona del Plural,5guCdVxldxrSDUsxNlztBm,32,2022,spanish,0.727,0.7,0,-8.858,1,0.106,0.33,2.11e-06,0.143,0.351,94.997,229222,4
+El Niño de la Hipoteca,Profeta Sin Fe,2s2sFlDT6FPfWJq87vrw9p,33,2022,spanish,0.733,0.777,4,-5.036,1,0.103,0.248,0.0,0.269,0.961,99.99,210000,4
+Alpino,Anabel,5xMxZoS1D6c5JwGwfov8Wl,0,2002,spanish,0.677,0.77,0,-7.595,1,0.0364,0.498,0.00525,0.122,0.797,95.01,254627,4
+Funambulista,Y Yo (with Efecto Pasillo),22dlxCw14diHUSMSSADAE5,32,2017,spanish,0.612,0.834,6,-6.541,1,0.0316,0.103,3.67e-06,0.11,0.772,113.91,239827,4
+Magneto,"Mira, Mira, Mira (Yummy, Yummy)",2XscepwIaSZQOFsgbIJU6J,28,2007,spanish,0.761,0.718,2,-10.947,1,0.0372,0.00768,1.5e-05,0.106,0.969,131.028,187867,4
+Diego Ortiz,"Recercadas del Trattado de Glosas: Recercada sesta sobre el canto Ilano ""La Spagna""",5YxKapjCj4oniqfI1RFG0h,14,2020,spanish,0.171,0.112,5,-20.835,1,0.0462,0.948,0.866,0.112,0.213,86.157,136427,4
+Nudozurdo,Negativo,24LTjPMimiHyL1078ro6vk,11,2008,spanish,0.478,0.902,9,-7.696,0,0.046,0.165,0.0235,0.163,0.681,81.266,229693,4
+Pablo Alborán,Llueve sobre mojado - Acústico 2022,0UkwcfFVY5DWDkxi7m1I2R,31,2023,spanish,0.66,0.781,7,-5.607,1,0.047,0.356,0.0,0.847,0.807,144.891,271682,4
+Sauze,Marioneta,2efW5sw78E3OIQKHuqBicP,16,2008,spanish,0.506,0.813,2,-4.0,0,0.036,0.000108,0.000105,0.192,0.241,122.055,268747,4
+Love of Lesbian,Manifiesto delirista,7A5yQ2gcJ3FA1wh5MNnibS,39,2014,spanish,0.62,0.785,0,-6.32,1,0.0328,0.374,1.03e-05,0.0932,0.395,110.032,333413,4
+Jotas de Aragón,Bandolera- Cuando más aprieta el frío,71HPcDzk2ds9Xjjcohz6Xw,7,2003,spanish,0.384,0.422,10,-5.519,1,0.0291,0.839,6.64e-06,0.0667,0.319,81.878,181133,4
+La Unión,Ella es un volcán,236UY5Ky5BZAXIFPvCDWxu,21,2000,spanish,0.668,0.713,2,-10.233,0,0.0466,0.0702,0.000111,0.0863,0.663,150.832,238160,4
+Décima Víctima,En la Eternidad,0SQCKHqOPrjuv9PIjhj8Fx,7,2010,spanish,0.5,0.765,11,-9.138,0,0.0424,0.00107,0.7,0.232,0.682,142.951,213950,4
+Leiva,Como Si Fueras a Morir Mañana,4aAfLSx9IthpC3Pw5pNk3E,62,2019,spanish,0.46,0.816,3,-6.576,1,0.0427,0.00144,0.0,0.11,0.373,143.892,240984,4
+Ana Belén,Quien Me Ha Robado El Mes De Abril,3bVRGVuuolcIMInhKlvJXD,6,2003,spanish,0.608,0.438,2,-10.026,1,0.0354,0.633,0.0,0.152,0.377,134.671,317947,4
+Carlos Baute,Al Niño Dios,3zoq5Vncpo4KGtZFKsANEJ,32,2022,spanish,0.725,0.701,9,-6.219,1,0.074,0.0452,0.0,0.408,0.715,98.964,153182,4
+El Canto Del Loco,Peter Pan,1gkBsKxTpVHIn1nLf05CUo,57,2008,spanish,0.568,0.832,4,-3.358,1,0.0333,0.29,0.0,0.204,0.48,92.452,259720,4
+Amaia,Última Vez,6zueMZGDJW6r26cG6zlnft,55,2019,spanish,0.0,0.00584,0,-16.798,1,0.0,0.852,0.00692,0.104,0.0,0.0,67472,0
+Orquesta Mondragon,¡Es la guerra!,43pnd9sBzKMyLKBr3ABand,8,2003,spanish,0.689,0.923,5,-4.155,1,0.0554,0.201,0.0012,0.112,0.697,135.147,205120,4
+Hombres G,Lo noto - Las Ventas 2015,3zWWBg5AIrwJUavVSSNdQh,29,2015,spanish,0.595,0.811,5,-7.148,1,0.03,0.261,0.00429,0.945,0.35,111.949,259973,4
+Arma Blanca,Príncipe de Barrio,15oVgxaAbqeM4v1UWcNFkh,21,2007,spanish,0.526,0.655,10,-10.025,0,0.415,0.233,0.0,0.18,0.666,90.835,341507,4
+Kase.O,Pura Droga Sin Cortar (Directo),1F249UKV4Bgbnh18iERPFq,36,2019,spanish,0.595,0.867,6,-9.247,1,0.488,0.154,0.0,0.361,0.819,179.407,161080,4
+Dünedain,Melancolía,4Y1XqNnIMlFdDNh3vUcLFv,16,2014,spanish,0.409,0.966,5,-3.343,1,0.0875,2.13e-05,0.0,0.0706,0.32,159.989,302604,4
+Beret,Dime quién ama de verdad - Versión Prisma,5HMytYmovDW5TPweP9cFtS,41,2019,spanish,0.719,0.596,6,-7.977,1,0.454,0.258,0.0,0.111,0.425,81.718,193440,4
+SFDK,Pompa,2xnO9qa8bgYgWgBkQHqrwg,54,2023,spanish,0.792,0.642,4,-6.74,0,0.323,0.636,0.0,0.153,0.798,90.015,244173,4
+Melendi,Con la luna llena - Remasterized,5CiH8U1zlRwL9whTYv4bhv,27,2008,spanish,0.67,0.924,4,-3.034,1,0.0857,0.335,0.0,0.0667,0.661,82.026,230787,4
+Joan Chamorro,Diz Que Fui por Aí,5E9hkK3WWG4e0SQnxEcQ8g,20,2019,spanish,0.77,0.296,2,-8.584,1,0.0506,0.905,2.62e-05,0.111,0.574,88.874,175920,4
+La Fuga,Abril - 2017 Remaster,7fv7YVMqwSy4xiHBdY5B4C,13,2017,spanish,0.438,0.654,7,-4.513,1,0.0272,0.524,0.0,0.329,0.424,175.865,234957,4
+sistema de entretenimiento,miedo,51h4gNgOaW7GKwiyi7TRhu,42,2021,spanish,0.449,0.752,4,-8.699,0,0.0413,1.16e-05,0.000193,0.23,0.305,190.152,96592,4
+Gabotti,"Por Favor,Trae la Guitarra",7JXw6LcXFJzl5Yez7d7pa8,14,2023,spanish,0.645,0.814,5,-4.983,1,0.0455,0.0441,0.0251,0.338,0.851,119.974,238000,4
+Berrogüetto,Líridas de Abril,45S27yId23j54am4ElFiOE,5,2010,spanish,0.514,0.42,5,-10.075,1,0.0288,0.706,3.19e-06,0.142,0.461,128.09,260733,3
+La Fuga,Madrid,6LDDadhrYO2aaPkrmAyQ6t,29,2001,spanish,0.255,0.871,2,-5.566,0,0.0718,0.0115,0.0,0.0753,0.561,88.729,229000,4
+Jarcha,Libertad Sin Ira,6jh9cutuGlxrbGUg8ya9kA,0,2023,spanish,0.67,0.687,9,-8.169,1,0.0369,0.531,0.0,0.14,0.771,121.231,222160,4
+Vargas Blues Band,Blues the Healer,3ASwlbLAMxCKSCqphRHN4f,2,2023,spanish,0.378,0.694,4,-5.205,0,0.0353,0.0267,0.789,0.131,0.384,119.863,284575,4
+Sinkope,Avanzando pa'tras,4ExmPPMpV9FzbXUcn1K4bW,6,2010,spanish,0.291,0.867,7,-4.462,1,0.054,0.000497,4.39e-06,0.0789,0.439,112.118,333949,4
+Warcry,Invierno en Mi Corazón,3QWcDAIOPBDiR8xEYOiwKl,24,2008,spanish,0.494,0.607,8,-5.099,1,0.0298,0.026,2.89e-05,0.115,0.0892,95.009,339197,4
+David Bisbal,Herederos,52LC6cVqwOSsJxToW4ZOIu,33,2021,spanish,0.509,0.641,9,-5.357,0,0.0304,0.476,0.0,0.0954,0.225,75.007,207813,4
+Formula V,Cuéntame - Remastered,3D1oor7FNSOjm88KmL13c4,19,2017,spanish,0.676,0.785,11,-6.611,1,0.0356,0.425,0.0,0.193,0.514,131.995,166973,4
+Fito y Fitipaldis,Siempre estoy soñando,2WDHxrr9IWp1QkAM0sSEr9,48,2003,spanish,0.765,0.512,0,-8.257,1,0.0393,0.165,1.08e-05,0.158,0.89,156.005,248013,4
+Joaquín Sabina,Mater España,3b02R4ojCobaV8aZAdJG4d,22,2005,spanish,0.791,0.304,7,-11.107,1,0.106,0.674,4.68e-06,0.116,0.519,121.755,239440,4
+Melendi,Mi ley,0PrG14eDQUY5DP55TG4dFO,23,2010,spanish,0.622,0.97,2,-4.02,1,0.101,0.0516,0.0,0.133,0.333,94.994,185347,4
+Alejandro Sanz,Tú La Necesitas,4BldrfEULX1ITmZXHVuaGH,28,2015,spanish,0.694,0.843,8,-4.644,1,0.0602,0.298,0.0,0.155,0.947,80.975,251189,4
+Alejandro Sanz,Eso (con Omara Portuondo),7FCWUTYkWzXDmAOLgBCt5r,36,2004,spanish,0.64,0.518,9,-6.257,1,0.0704,0.446,0.0,0.108,0.253,80.002,261453,4
+La Maravillosa Orquesta del Alcohol,No canto yo,2Oy1db3Vg2oxdQ9GHDdsAj,40,2021,spanish,0.429,0.302,0,-12.148,0,0.0501,0.617,6.01e-06,0.126,0.207,142.195,194435,4
+Dünedain,Por Ti Seré,6jygUFqq64MsFlFV5Mplmh,20,2007,spanish,0.564,0.742,9,-6.216,0,0.0302,0.000833,0.0,0.0456,0.645,125.005,209267,4
+Antonio Flores,Quisiera Escribir un Verso,5y6uHHpXg0Nq4FsT9d0t6H,10,2013,spanish,0.649,0.97,11,-3.582,0,0.0593,0.528,0.0,0.136,0.914,140.785,205453,4
+Pelo Gato 24,A Vaca Marela,4YUHEpoefjJt5cOBkTJBVM,6,2008,spanish,0.575,0.674,9,-6.15,1,0.0369,0.0484,0.0,0.41,0.646,106.619,209293,4
+Non Servium,Mi Vida Loca,2QsscW20hVNCYoPUJ0h6rb,25,2007,spanish,0.158,0.949,11,-6.37,0,0.132,0.00147,0.0,0.0695,0.16,165.512,239200,4
+Cañaman,Pura Vida,5zaU3Ls1PnOydVRuvhoYzV,13,2004,spanish,0.783,0.716,11,-6.066,1,0.0785,0.422,0.0,0.242,0.966,90.978,346027,4
+Nancys Rubias,Supertravesti,3L7BBPLjw0z2wTQLaAl0TY,21,2007,spanish,0.619,0.965,4,-5.656,1,0.0397,0.07,0.0,0.501,0.556,135.028,228020,4
+Aitana,Hold,27q1lYcT2BYIaNUPwN9hQ0,33,2019,spanish,0.811,0.698,9,-4.736,0,0.0514,0.0224,0.0119,0.241,0.421,107.039,141130,4
+Gata Cattana,El plan,66l80Z3ItK23K0zBuIOao2,29,2017,spanish,0.68,0.652,4,-7.593,0,0.185,0.285,0.0,0.139,0.135,102.063,170690,4
+Heroes Del Silencio,No más lágrimas,4EuIfUMFIHENx6HSdad4Wm,27,2006,spanish,0.654,0.902,5,-3.871,1,0.0304,0.693,4.63e-06,0.111,0.457,117.143,212453,4
+Loquillo Y Los Trogloditas,Quiero un camión,0BNBj1gEAR8YxgGVI6t1eN,35,2009,spanish,0.598,0.944,11,-4.446,0,0.0429,0.0791,0.12,0.136,0.85,133.139,157627,4
+Belén Aguilera,Republicanas,2LK9yrHki8BgygC5eN79vJ,41,2020,spanish,0.678,0.447,5,-10.408,1,0.192,0.473,5.41e-05,0.119,0.536,100.111,150918,4
+Malos Vicios,La Mandanguita,1jsoVHueYaGopk6Yj6qqeu,31,2004,spanish,0.568,0.953,5,-5.194,1,0.139,0.0349,0.0,0.314,0.59,102.471,175264,4
+Belén Aguilera,VÉRTIGO,7dGRzO5cmnG64s7TtqqsVR,48,2022,spanish,0.593,0.393,0,-8.855,0,0.0303,0.114,0.00098,0.176,0.232,148.113,162750,3
+Little Pepe,Si Tú Supieras,5kt0OltAfepJ7QHSOch45K,39,2019,spanish,0.747,0.497,0,-8.8,1,0.163,0.0552,0.0,0.111,0.933,83.742,261333,4
+Elsa Baeza,El Cristo de Palacagüina,50xMqHj2hhLdgmLh0foksG,39,2013,spanish,0.633,0.814,0,-4.55,1,0.0449,0.457,0.0,0.159,0.774,149.79,224865,3
+Shaila Dúrcal,En Mi Viejo San Juan,2vn0O9DKdohKhIXQvZF0M5,16,2009,spanish,0.532,0.457,2,-5.331,1,0.0258,0.758,0.0,0.1,0.746,101.977,178228,4
+Ana Guerra,Bajito,1izomJbkB4nTh5hDLgsBZd,31,2018,spanish,0.707,0.768,1,-5.143,0,0.277,0.0316,0.0,0.109,0.614,182.111,176755,4
+Hombres G,Temblando,325DnNRJL1uAT9yAWMgXMq,16,2002,spanish,0.42,0.258,9,-9.098,1,0.0378,0.833,6.35e-06,0.112,0.181,175.303,190080,3
+Laura Pausini,Mi respuesta,5QSp3951Aj9xt8fLQPYXHu,27,2001,spanish,0.753,0.585,6,-6.115,1,0.0399,0.0359,5.4e-06,0.111,0.38,88.006,223013,4
+Joan Manuel Serrat,Acuerdate de Mi - En el Luna Park - Argentina,003M9cqV8elsMvSDodHYC3,22,2012,spanish,0.666,0.619,2,-8.804,1,0.0319,0.243,8.86e-05,0.962,0.334,116.014,279707,4
+Malos Vicios,Corazón Travieso,4q3ymsvX7AUa3TSPjWwn6o,7,2004,spanish,0.529,0.935,2,-6.136,1,0.0557,0.00193,0.000347,0.139,0.412,107.484,189777,4
+Despistaos,El silencio,7JyYEHVGHqAwo1YJNAMxNF,24,2007,spanish,0.498,0.946,7,-3.074,1,0.135,0.00371,0.0,0.359,0.233,139.883,279733,4
+Warmth,Mirage,3qeyWNcHp1M8sKtMnlSA8e,14,2022,spanish,0.274,0.38,9,-20.095,0,0.0484,0.909,0.919,0.0478,0.0574,136.985,373714,4
+El Arrebato,En El Último Minuto,75GE8sc6WwXTwVLHmlVHrH,44,2019,spanish,0.633,0.729,7,-5.536,0,0.27,0.0508,0.0,0.161,0.642,88.05,224769,4
+Alejandro Sanz,Aquello que me diste - Concierto Tour Más 98,4haAuCpmlJ0U4tcR9sCnnm,23,2017,spanish,0.456,0.952,8,-4.285,1,0.0881,0.176,0.000337,0.94,0.538,152.059,305227,4
+Yung Beef,"Bebo Champagne y Lo Tiro (feat. Papi Trujillo, Cuban Bling & Pochi) - Remix",10kPgderIl2VTEuAhLHkae,35,2019,spanish,0.843,0.721,1,-5.032,1,0.0919,0.0528,0.0,0.175,0.323,135.025,339560,4
+Alex Ubago,Antes de que te vayas,1gnEIAVfAPB4kqAvHv41n7,21,2017,spanish,0.334,0.71,9,-4.461,1,0.0315,0.176,0.0,0.104,0.378,69.373,248492,4
+Rosa López,El Ciclo De La Vida,0CbZ8z2ay2WPAFvfrqyibS,21,2006,spanish,0.25,0.451,1,-8.668,1,0.0358,0.792,0.000924,0.0721,0.325,82.691,244280,4
+Astralia,You Are Here,4GSUvgKMR1sFeyrPJiDL4M,9,2014,spanish,0.197,0.354,1,-12.589,1,0.0336,0.554,0.858,0.0926,0.0377,168.118,424867,3
+Rosana,Agítese antes de usar,29qJNeSzOKqvOnIrq5fyNh,20,2005,spanish,0.787,0.859,2,-5.713,1,0.0807,0.348,0.0,0.179,0.971,120.037,221333,4
+Warcry,Espíritu de Amor,6rFzJWTCUpR8AfKQaSWxrt,34,2004,spanish,0.406,0.942,3,-3.858,0,0.074,0.123,0.00301,0.0527,0.267,140.071,313144,4
+María Villalón,"Despierta, corazón",6tV5CyaE1vQcXkprlReWh8,35,2022,spanish,0.385,0.698,8,-5.867,0,0.0949,0.0448,1.46e-05,0.104,0.443,173.967,199655,3
+Belén Aguilera,PAS,4NiPgL5Vicj6rVks2Ismc5,52,2023,spanish,0.886,0.684,7,-5.712,1,0.046,0.406,3.17e-06,0.138,0.622,129.975,166154,4
+Dorian,Dos vidas,69rqxYwPJYBgMNowjNYyqD,11,2022,spanish,0.654,0.616,7,-6.256,1,0.0338,0.036,0.0,0.164,0.464,109.983,190675,4
+Chucho,Chapoteosis de chiquillos en la bañera,5KyCqnNm9AJN0acT43pHC5,1,2001,spanish,0.537,0.706,7,-5.924,1,0.0859,0.0161,0.0046,0.0356,0.651,149.927,177000,5
+Orquesta Mondragon,Ponte la peluca,0SWfNkGZu1nv4rklR5rnkL,23,2003,spanish,0.633,0.916,7,-10.749,1,0.352,0.143,0.00103,0.891,0.62,156.013,173693,4
+Joan Chamorro,Lágrimas Negras,2gUvcaZJABfo6SDUx4tCWL,27,2015,spanish,0.583,0.489,5,-7.297,0,0.0396,0.828,0.0139,0.098,0.593,127.974,289253,4
+Angelus Apatrida,You Are Next,4zIubnKAwNC3b5u4W1Q8ds,25,2012,spanish,0.499,0.992,1,-3.133,0,0.119,3.59e-06,0.225,0.421,0.0549,101.045,304000,4
+_juno,_La canción que no vas a hacer hoy,7GcXhX41MrVt2Bd2iXXio2,35,2023,spanish,0.679,0.864,11,-9.014,0,0.0614,0.299,0.0121,0.136,0.514,132.052,194627,4
+Ignotus,Bandera Negra,2BagaQZO2gV73sjGknRLVC,32,2012,spanish,0.385,0.533,0,-12.727,1,0.0386,0.00155,0.0,0.546,0.602,156.022,189026,4
+Pastora Soler,Tu frialdad,5ueOyrZbtUAX0TLytDlMqg,21,2006,spanish,0.645,0.559,3,-6.91,0,0.0533,0.236,0.0,0.337,0.582,126.35,189440,4
+LUIS BREA,Estrella del Rock,2HHZSw5PJszo6bLZzhozzg,25,2023,spanish,0.44,0.825,2,-4.056,1,0.0357,0.0247,0.0,0.152,0.538,121.137,224653,4
+Deluxe,No es mi primera vez - Directo,5ePBwDW3A1hrrJHMebuhnS,7,2008,spanish,0.261,0.672,6,-6.662,0,0.036,0.0161,0.00576,0.787,0.196,121.357,302827,4
+Rosendo,"…Y dale! - Directo en el Wizink Center, Madrid, 20 diciembre 2018",5epxlA1PpTXaIUlpbJRzUr,11,2019,spanish,0.504,0.965,11,-3.248,1,0.0436,0.000143,0.0021,0.58,0.539,113.058,325973,4
+Sinkope,En el jardín de tus ojos,1rUu9anUgeRjdAvvhCnikg,24,2010,spanish,0.458,0.906,6,-4.982,0,0.072,0.000289,0.0,0.144,0.53,158.068,345420,4
+Joan Manuel Serrat,En la Vida Todo Es Ir,7E5brVAa6j1zFbWedz1vDT,14,2000,spanish,0.743,0.593,4,-9.993,1,0.0798,0.738,5.63e-06,0.338,0.871,139.244,219813,4
+Joaquín Sabina,Doble Vida,2qJahujz4Lg7KSNJDB3JJd,19,2003,spanish,0.677,0.748,0,-8.905,1,0.0476,0.35,0.0,0.143,0.797,133.086,228520,4
+El Barrio,El Adormitar De Los Laureles,52DKi7KHeaHR3QDV6r5fKD,54,2022,spanish,0.579,0.819,7,-4.931,1,0.105,0.203,0.0,0.474,0.716,169.96,253000,4
+Gordo Master,Puro Stile,52MHokexV811oZlkRzJXJN,31,2015,spanish,0.519,0.687,4,-7.115,0,0.368,0.103,0.0,0.302,0.863,190.123,244297,4
+Paula Koops,Tiempo,4iPXPCHQiZ4t4lb5nYUnYK,45,2021,spanish,0.527,0.424,5,-6.316,1,0.0558,0.889,0.0,0.0721,0.177,147.984,188439,4
+Ana Torroja,Un Año Más - En Vivo,2qz2TwDrWbDKK4rdHkV66V,53,2015,spanish,0.592,0.638,4,-6.312,1,0.0294,0.0562,1.34e-05,0.925,0.424,94.058,287840,4
+Alejandro Sanz,Una noche (feat. The Corrs),1QHK82whaHGYWfARl21hUs,43,2000,spanish,0.523,0.00799,0,-9.129,1,0.0365,0.317,0.0,0.0958,0.908,114.907,492187,4
+IZAL,Prueba y Error,4qB9ZaGnv2oWPAXC4eDGfp,32,2012,spanish,0.58,0.82,0,-5.476,1,0.166,0.118,0.0,0.08,0.384,146.979,259267,4
+Hidrogenesse,Eres tan técnico/a,7MbAkGGqaKzCR1Ggqdrtr0,1,2001,spanish,0.684,0.722,0,-10.081,1,0.0941,0.0426,0.000584,0.33,0.676,131.93,230066,4
+The Pinker Tones,In Pea We Nuts,7qaQ7B6upkxxNHwwGIwWIP,1,2006,spanish,0.763,0.922,1,-4.218,0,0.122,0.0103,0.485,0.224,0.905,125.065,190773,4
+Aviador Dro,Nihilista,7AUcqDU9DNfxjLjeLEr2HC,0,2000,spanish,0.714,0.731,1,-8.726,1,0.0427,0.000485,5.57e-06,0.0673,0.522,140.001,239360,4
+sistema de entretenimiento,mitad humano y robot,69aZRWByW7oBLJJMTT0ejc,36,2020,spanish,0.421,0.697,1,-5.899,1,0.0698,0.0137,0.752,0.227,0.135,194.934,101042,4
+Suso Saiz,Minimal Distance,1qk5Ftx1w3queGrFpID12x,13,2019,spanish,0.295,0.0304,7,-25.011,1,0.0398,0.987,0.948,0.0813,0.0398,100.684,182999,5
+Imperio Argentina,Los piconeros,4dBY1BPPzeouOIZuuKE2Jg,27,2006,spanish,0.463,0.336,0,-6.488,0,0.0644,0.989,0.00149,0.149,0.758,80.253,181653,4
+Soge Culebra,Todo lo que pierdo,1vRnkQ1g33CBkje4dMv0Xu,41,2017,spanish,0.627,0.565,0,-9.755,0,0.308,0.35,0.0,0.0553,0.167,159.98,252750,4
+Vanesa Martín,Cuando no estabas,3X1boMr4xCcji24wYgwof5,49,2022,spanish,0.557,0.677,11,-4.575,1,0.0713,0.153,0.0,0.296,0.341,174.086,186318,3
+Vetusta Morla,Saharabbey Road,3kKC32g6Udc9wNHwZcMohb,49,2008,spanish,0.599,0.882,0,-4.971,1,0.0402,0.123,0.0003,0.065,0.924,127.093,277653,4
+Vulpes,Sexo por la Cara,3cpQHy28dW8OQNOylrJZPi,19,2005,spanish,0.437,0.882,2,-5.644,1,0.0394,0.000263,0.00019,0.133,0.665,176.048,144813,4
+Estopa,Tu Calorro (feat. Vicentico) - Directo Acústico,5WYAUge1BJ98gSmxH9AbzG,33,2014,spanish,0.665,0.907,0,-5.69,1,0.0428,0.177,0.0,0.732,0.721,94.446,233227,4
+Miguel Bosé,Sevilla (Dueto 2007),12eVFnkWNzkxHrFZaN492H,38,2007,spanish,0.771,0.519,2,-8.065,1,0.0396,0.0678,0.000367,0.0491,0.47,126.024,339933,4
+Alex Ubago,Sin miedo a nada - Directo 2004,3DQz3IfPRd4BYVrM45EcLK,10,2004,spanish,0.406,0.518,11,-9.406,0,0.0505,0.132,2.17e-06,0.98,0.17,66.451,334427,4
+Shaila Dúrcal,Por Tu Amor,5I7vDwHSlWDNjrrJn8M1oH,16,2014,spanish,0.336,0.696,2,-6.613,1,0.0365,0.105,2.46e-05,0.145,0.179,163.822,229867,3
+Porta,No Hay Truco,3vMbiNwzKB3maKNef1Lw74,29,2017,spanish,0.499,0.811,11,-5.386,1,0.401,0.42,0.0,0.211,0.964,185.609,361029,4
+Supersubmarina,Cientocero,3DczsC0yjzKebbhEp0V9zQ,29,2010,spanish,0.573,0.907,2,-3.194,1,0.0533,0.00977,0.0,0.354,0.907,152.626,177347,4
+Revolver,Todos somos capitanes,1BfGldmh3PGqcDVbtVTYO4,8,2008,spanish,0.335,0.725,4,-6.282,1,0.0364,0.123,8.26e-06,0.176,0.733,182.939,291013,3
+Alonso Lobo,Lamentations Ieremiae Prophetae: Bonum est viro,42mGU3Ox9dgDoCxIghmDQh,17,2011,spanish,0.151,0.0533,11,-26.508,0,0.0488,0.995,0.951,0.11,0.0387,140.084,91893,3
+El Canto Del Loco,A Contracorriente,4fYAcwdEtW2VCZe5Xoe7iC,49,2002,spanish,0.496,0.932,8,-1.945,1,0.0393,0.016,7.04e-06,0.135,0.736,155.006,181533,4
+Segismundo Toxicómano,Auf Wiedersehen,2v57c6uZ1Bccdh6waLORUk,9,2014,spanish,0.651,0.896,11,-4.635,1,0.0643,0.005,0.0,0.106,0.936,104.025,146720,4
+Tomás Luis de Victoria,Responsories for Holy Saturday Nocturn 2: I. Recessit pastor noster,5fOOCh2PwdP4oSHpL9NFfN,8,2013,spanish,0.231,0.0889,7,-24.037,0,0.0403,0.994,0.000689,0.0527,0.0395,90.266,211293,3
+Tuna Universitaria De Madrid,Clavelitos,1jkBuuCCqDzsXaNxOYavuI,22,2004,spanish,0.418,0.544,9,-7.745,0,0.0532,0.954,0.0,0.342,0.793,95.89,160813,4
+Supersubmarina,Inestable,3dC9m0QTTeJkaVEdxIexfo,33,2014,spanish,0.505,0.821,9,-4.599,0,0.0329,0.00391,0.0,0.165,0.616,124.992,213627,4
+Cecilia Krull,Grândola Vila Morena (War Version),1lOg0JML9h0nhHZsyPAirQ,31,2021,spanish,0.508,0.436,10,-8.06,1,0.0276,0.58,1.51e-05,0.109,0.652,77.955,207692,4
+FERNANDOCOSTA,Bandolero,19bLlTPpMZftaP0gwi5Zvv,48,2022,spanish,0.525,0.646,8,-7.742,0,0.19,0.527,0.0,0.105,0.723,126.113,200000,4
+La Húngara,Cómo Me Gusta,3e5owbxNWTCcEtW9qdmXuu,7,2006,spanish,0.817,0.945,1,-2.125,1,0.134,0.169,0.00508,0.191,0.706,107.435,234853,4
+Los Verdaderos Kreyentes de la Religión del Hip Hop,No Estaban Muertos,4jquvKsHuDgrPqeAz25oWf,5,2010,spanish,0.537,0.913,2,-6.325,1,0.482,0.354,0.0,0.542,0.82,91.89,222307,4
+Amaia,Pesimista,33NzJyJmE5lGodOV3L4nQK,36,2022,spanish,0.609,0.322,10,-7.816,1,0.0286,0.865,1.86e-06,0.0909,0.488,90.114,117853,4
+Betagarri,Nora Joan Ziren?,0aJnGc8iq4qhHbsebWzFo9,6,2002,spanish,0.568,0.773,6,-6.982,0,0.0323,0.00327,0.0197,0.168,0.865,161.879,283387,4
+Pablo Alborán,Sobreviviré - Acústico 2022,7fqqdigmqrgWT8J6kRBIu4,32,2023,spanish,0.519,0.158,7,-9.749,1,0.0728,0.822,3.83e-06,0.682,0.205,135.476,304530,3
+Demarco Flamenco,Alegría,1Z1TF0TlghvUvcwL4OAAuh,43,2022,spanish,0.781,0.746,11,-7.078,1,0.403,0.179,0.0,0.646,0.958,91.993,193334,4
+Ni por favor ni ostias,Reggae de los Beatos,25ZCbchq3GuRaFT77Mi7La,23,2008,spanish,0.573,0.655,7,-8.855,1,0.049,0.0192,2.87e-06,0.142,0.945,165.355,194026,4
+Elphomega,Fantasmas contra científicos,74tn1nXdDBbgD7iLwfeAxD,5,2005,spanish,0.687,0.636,11,-6.986,0,0.382,0.249,0.0,0.263,0.544,95.287,222480,4
+El Canto Del Loco,Una Salida,6EfM4B43PE9JsbrwYzVhty,22,2002,spanish,0.557,0.903,1,-2.878,0,0.0452,0.00319,0.0,0.0821,0.583,115.058,183373,4
+Klaus & Kinski,Ojo por Diente,0es6tYHnDZKUZshRQslgpD,22,2012,spanish,0.542,0.704,9,-6.258,1,0.0479,0.448,0.316,0.105,0.743,89.887,239539,4
+Josele Santiago,Mi prima y sus pinceles,4gePp9WjIPK5jXY4VyLvlF,8,2004,spanish,0.4,0.607,7,-5.406,1,0.0303,0.415,2.59e-05,0.12,0.287,126.115,365640,4
+Beatriz Luengo,Te Echo de Menos,5iK74rCoqHpFJ7VsEFYaMW,26,2017,spanish,0.516,0.72,7,-6.223,1,0.0361,0.0074,0.0,0.228,0.1,129.946,201231,4
+Alonso Lobo,Lamentations Ieremiae Prophetae: Iod I,7xAWXNOhAdJAciJjqqboZA,13,2011,spanish,0.172,0.0612,11,-25.366,0,0.0442,0.995,0.977,0.0999,0.038,87.956,84653,4
+Henry Saiz,Of Muses and Slaves,63XQAKlZDwweHUzoLeEibo,22,2013,spanish,0.668,0.485,4,-9.589,0,0.0504,0.00693,0.904,0.176,0.472,120.005,222321,4
+David Cordero,Unreal,7Lne4V4DjEJIjzFjMVleWI,10,2023,spanish,0.0747,0.183,10,-21.814,1,0.0426,0.901,0.958,0.109,0.0759,73.79,264493,4
+Fyahbwoy,Fenomenal (Atontada),6Cz7ps0hEo3RCYArIsacXr,42,2009,spanish,0.731,0.758,9,-3.838,0,0.0755,0.05,0.0,0.202,0.698,93.311,203213,4
+La Excepcion,Es lo que queda,4IUfffTe4mk9y2WcbE4zHj,0,2023,spanish,0.757,0.821,1,-4.667,0,0.199,0.698,0.0,0.0704,0.909,85.035,207160,4
+Hanna,Party In The USA (A.R. Remix),1e313m06gX58lzxlt6f9vi,17,2010,spanish,0.663,0.908,3,-3.145,0,0.0287,0.00088,7.87e-05,0.0776,0.711,127.991,237813,4
+Marlon,Superman,4vO1kSUaAETs8ouZNWxatF,46,2022,spanish,0.587,0.855,1,-5.057,1,0.0873,0.0162,0.0,0.132,0.576,151.984,167781,4
+Besmaya,Detrás de la Wii,6jboNxLDUBv3HBJ3RQpj4m,42,2021,spanish,0.673,0.819,5,-6.128,1,0.0283,0.0881,6.94e-06,0.0796,0.913,130.009,168996,4
+Aitana,Nada Sale Mal,51ltTOzVJWp3BUHzYrRxEa,47,2019,spanish,0.829,0.635,2,-5.429,0,0.132,0.282,5.08e-06,0.0837,0.402,148.096,189030,4
+Blake,Magia Oscura,3yYF9mRIfQZKL5fMX5g5V7,29,2017,spanish,0.74,0.575,4,-6.18,0,0.0762,0.301,0.105,0.118,0.61,99.954,206440,4
+Sergio Dalma,De Nuevo Tú (Ancora Tú),1G41o033LGcM5qLqElFl9L,6,2011,spanish,0.57,0.955,11,-5.333,0,0.0417,0.00596,0.0,0.0555,0.599,112.017,294827,4
+Banda de Musica del Maestro Tejera,Reina del Mar,4lENuhevj15hK2ZGc7JQrS,5,2004,spanish,0.327,0.365,0,-6.588,1,0.0281,0.842,0.0986,0.0779,0.444,95.715,259133,4
+Ana Torroja,Hijo de la Luna,3Fqq8l8ToyiC9ZyHyxMxFo,24,2006,spanish,0.569,0.544,1,-6.267,0,0.0289,0.603,1.39e-05,0.109,0.744,81.767,278133,3
+Vanesa Martín,No me salves - Directo 2015,6T2zrGqU0jH1Drv1n4g7Us,25,2015,spanish,0.474,0.776,2,-3.759,1,0.0495,0.199,0.0,0.78,0.228,148.271,251493,4
+Los Muertos de Cristo,Pan y Circo,5wjDmHHELlmjBe2sOkHYTv,25,2004,spanish,0.339,0.983,11,-1.968,0,0.0691,0.0324,1.14e-05,0.127,0.441,97.177,312007,4
+Hombres G,Tú me gustas,58qiGAUl6600triJKnQZsF,26,2002,spanish,0.525,0.907,2,-10.495,1,0.0434,0.0478,0.00176,0.0636,0.827,161.937,173467,4
+Pablo Alborán,Boca de hule,0C1HZpb7BX1ZsaGJc1DS4H,35,2017,spanish,0.654,0.614,0,-8.1,0,0.0932,0.257,0.0,0.0991,0.53,149.108,253827,4
+Amaia,La Vida Imposible,0JuQBaJ7pJnwve6EnmXqqR,40,2022,spanish,0.582,0.618,3,-4.331,1,0.0304,0.455,8.87e-05,0.188,0.441,75.026,221907,4
+Warmth,Pattern,3ePYRFLt7q3wmJKnVIsDo5,11,2023,spanish,0.224,0.101,8,-25.55,1,0.0469,0.894,0.736,0.111,0.0352,66.067,138867,3
+La Guardia,Culpable o Inocente,4arM2vNA6Af4S3L04sVOlg,1,2000,spanish,0.578,0.717,11,-5.605,1,0.0319,0.479,0.0,0.369,0.784,129.062,194760,4
+Gabinete Caligari,El calor del amor en un bar,4k12blydLbcePLvuVSrSgE,35,2007,spanish,0.582,0.879,4,-4.077,0,0.031,0.45,0.0,0.126,0.973,129.254,170680,4
+Los Brincos,El Primer Beso,2nJHLNZG0fBUVnEM9fkPqR,3,2000,spanish,0.722,0.526,4,-8.134,1,0.0271,0.541,0.0,0.358,0.688,90.145,206560,4
+Antonio Orozco,Irremediablemente Celos,6sQAMxcuoV2vquziN4Pmha,9,2004,spanish,0.408,0.496,0,-5.734,1,0.0327,0.0775,0.0,0.107,0.242,129.531,212747,4
+Havalina,Arsenal,0tohZC1aPH5fQBdcqwUKhA,22,2023,spanish,0.57,0.66,6,-7.624,0,0.0415,0.174,0.529,0.249,0.445,125.006,265442,4
+Alejandro Sanz,Camino De Rosas - (En Vivo),4IjzfnSe0pejYpa20c8fEs,23,2013,spanish,0.522,0.959,6,-4.948,0,0.115,0.332,0.0,0.984,0.408,96.053,279067,4
+Opera Magna,Donde Latía Un Corazón,3FHaUkLlEHa45q1lCXM8Yc,26,2019,spanish,0.226,0.924,2,-3.439,1,0.0629,0.000356,0.000364,0.139,0.379,194.778,320590,4
+Gordo Master,Esto es Rap,4jJrPg2bMum7uhDusAZEBW,8,2011,spanish,0.705,0.962,5,-4.529,1,0.341,0.0994,0.0,0.138,0.729,106.064,142420,4
+Red Beard,You Can't Stop Me,4cKnaKANbsZWnXB7V3zEJw,19,2023,spanish,0.549,0.735,2,-7.962,1,0.0393,0.0117,0.000228,0.118,0.683,103.744,186405,4
+Saratoga,A Sangre y Fuego - Versión XXX,6cPHVNBQF1kqtVvvfWapm5,27,2021,spanish,0.474,0.975,6,-3.915,1,0.058,3.07e-05,0.61,0.128,0.338,130.98,265560,4
+La La Love You,El Momento Perfecto,2CmF7RVAiOrBdz6ceCG01V,38,2013,spanish,0.441,0.877,10,-3.847,1,0.0418,0.0888,4.05e-06,0.0782,0.636,174.992,168120,4
+Duo Kie,Vamos Todos a Morir Aqui Dentro,0bJ4T1CGd4V4dchurLfKbV,8,2008,spanish,0.754,0.622,7,-6.504,1,0.315,0.0324,0.0,0.36,0.438,98.931,192853,4
+Fill Black,Un Mañana Más,3Yx4lBeNj2rr1t3EJV2wfI,5,2001,spanish,0.757,0.704,11,-3.501,0,0.213,0.33,0.0,0.112,0.507,92.986,203600,4
+Sergio Dalma,Solo para ti (feat. Pablo Alborán) - Las Ventas 20 de septiembre 2014,3fec3Y2hiw3uvZ4UfKih3Z,26,2014,spanish,0.34,0.85,7,-6.556,1,0.147,0.0724,0.0,0.984,0.426,171.667,209973,4
+El Columpio Asesino,Toro - (S4 Remix) [Radio Edit],6h4GRmZObkJFPq0LDwtkx5,19,2011,spanish,0.696,0.869,11,-8.517,0,0.0599,0.0189,0.733,0.073,0.685,128.029,260750,4
+Albertucho,Matanza de almas,5dymQh2vOk5gNMLNYkB9OT,10,2004,spanish,0.745,0.569,7,-7.283,1,0.0286,0.0439,1.95e-05,0.231,0.677,120.154,214467,4
+Hora Zulu,Aspirante a Estilita,3F2xgA4kpBMolfXu56Jk9P,10,2012,spanish,0.505,0.938,3,-4.29,1,0.185,0.0246,0.00143,0.324,0.341,159.951,339187,4
+Natalia Jiménez,No Me Amenaces,0zAwfJMWqYNiqpnBjaKPJz,40,2021,spanish,0.536,0.439,11,-5.507,1,0.0453,0.415,0.0,0.102,0.639,156.038,151973,3
+Los DelTonos,"Bien, mejor",2hoJsAquZIDcOJIfy2NOb0,7,2002,spanish,0.58,0.79,9,-5.759,1,0.0638,0.0419,2.27e-05,0.0481,0.875,145.009,199907,4
+Sergio Dalma,La bámbola,71pW3bk1IxFDZ6plMWlCEi,28,2011,spanish,0.695,0.727,2,-4.113,0,0.0347,0.392,0.0,0.37,0.404,117.987,193653,4
+Tam Tam Go!,Lo que se da no se quita,45oF0yOnIFJllPqi4Q76bQ,4,2001,spanish,0.619,0.951,4,-6.638,0,0.0575,0.00307,1.11e-06,0.0929,0.892,117.21,229867,4
+Elefantes,Si no te siento,1na05rGmhQy8ciNapezpD4,14,2000,spanish,0.654,0.568,0,-6.125,1,0.0263,0.367,4.16e-06,0.0799,0.583,125.525,252067,4
+Carlos Baute,En el buzón de tu corazón,4jhrsCoNiei37ankpBSMOt,37,2013,spanish,0.725,0.824,5,-5.741,1,0.0355,0.187,2.03e-06,0.113,0.911,138.001,232172,4
+Aitana,Chasing Pavements,3hw406I5QGLIjfBzxD9dDB,28,2018,spanish,0.59,0.648,4,-4.294,1,0.0347,0.604,0.0,0.135,0.323,79.943,138443,4
+Estopa,Descatalogando,2rV4WADIVGAWYft7ObGflx,31,2008,spanish,0.756,0.958,4,-3.91,0,0.0637,0.299,3.16e-05,0.107,0.892,101.953,201987,4
+Magneto,Corazón Perfecto,48spdudY9g309gdmrjXhmT,29,2007,spanish,0.576,0.471,7,-8.602,1,0.0305,0.332,0.0,0.121,0.258,139.963,205667,4
+Arma Blanca,Reportaje de Guerra,23AFs2y6zo6ikEizUXm8dT,17,2003,spanish,0.496,0.751,2,-8.563,1,0.144,0.331,1.67e-05,0.147,0.492,91.789,362120,4
+Little Pepe,Ven a Mi,37pevGwec7mGC0IY21rjIV,19,2008,spanish,0.776,0.622,9,-5.912,1,0.0713,0.299,0.0,0.245,0.912,130.045,222169,4
+Tomás Luis de Victoria,Regina caeli laetare,7mhYGkZ3NjvF6tG3ulz3qM,6,2006,spanish,0.129,0.143,8,-23.27,1,0.0378,0.993,0.73,0.125,0.183,83.175,219800,3
+Alejandro Sanz,Todo es de color - Unplugged,0YMBQLjFxHJcX602gTe4pV,39,2001,spanish,0.54,0.476,8,-11.352,1,0.402,0.44,0.0,0.98,0.416,108.238,269467,3
+Rels B,"QUÉDATE, TE QUIERO",1qdlys3D2hI2BV5qusTEFu,60,2019,spanish,0.69,0.465,3,-10.681,1,0.0298,0.052,0.00625,0.0949,0.171,117.996,117966,4
+Ole Ole,Bailando sin salir de casa,5C0ngbdNdOEfnB64DyQQhO,23,2014,spanish,0.619,0.95,9,-5.294,0,0.0874,0.00552,0.0169,0.188,0.872,128.129,239320,4
+SFDK,Pruebalo,2V5155hKRLxHceKN6S8V8y,42,2007,spanish,0.666,0.781,2,-8.251,1,0.38,0.375,0.0,0.129,0.898,87.793,230880,4
+Danza Invisible,Espuelas - En directo,6jCML2paQMsLMTgX6ZcGoz,1,2000,spanish,0.564,0.953,4,-6.62,0,0.0808,0.0152,0.246,0.686,0.563,110.88,223640,4
+Laura Pausini,Incancellabile - Live,0Dj5UWKKY7XZDvtdZrMBlj,19,2005,spanish,0.342,0.573,2,-5.137,1,0.0381,0.632,0.0,0.933,0.196,137.941,227773,4
+Rapsusklei,Simbolos,19TGi5QfX6Xj1GuRvStcQ5,37,2014,spanish,0.565,0.746,4,-6.832,0,0.3,0.39,0.0,0.177,0.687,94.002,194904,4
+Rels B,Si Me Muero,5AcPeb4IY1rl0EpIVqk1TZ,55,2018,spanish,0.702,0.398,10,-11.85,0,0.214,0.742,0.0,0.0669,0.41,134.199,105068,4
+Lisasinson,Cuchillos,4vEutziRAYewCT97ziq48J,31,2023,spanish,0.495,0.75,0,-5.25,1,0.0291,0.00432,0.0484,0.0957,0.491,88.038,162720,4
+Red Wine,Fuego en la Sangre,4ILx6c5ZxY5YZ2JueHVFoT,12,2003,spanish,0.255,0.938,0,-5.023,1,0.0668,0.000138,0.0,0.14,0.341,195.156,278853,4
+Koma,Jack Queen Jack,3daibxocbgvKWX6XRqafk5,5,2001,spanish,0.531,0.964,1,-7.154,1,0.039,0.000179,0.0197,0.391,0.867,91.441,203573,4
+Estopa,Tanta Tinta Tonta,5ufRJlbPfDWV88PWOmrns0,41,2004,spanish,0.805,0.893,9,-7.711,0,0.088,0.0977,0.0,0.159,0.787,97.005,193240,4
+Melocos,Cuando Me Vaya (feat. Natalia Jiménez),1mazkL64KQ7h6UZoaxxS46,29,2017,spanish,0.573,0.713,11,-2.896,0,0.0448,0.692,0.0,0.19,0.234,143.904,191613,4
+Rubén Pozo,Me Pareces Increíble,1DtHpirkEwKw8Rgt6TF8zj,26,2022,spanish,0.608,0.629,5,-7.779,1,0.0305,0.0765,0.0,0.0955,0.574,141.736,176196,4
+Carlos Baute,Yo me quedo en Venezuela - Versión 2019,5YgZJWE3YfEdiVMPUgFhkN,20,2019,spanish,0.786,0.938,0,-3.996,1,0.047,0.0508,1.14e-06,0.0917,0.579,117.491,207171,4
+Kinky Bwoy,Intro,1mcNVPV8fQREAIlVPQNCZ9,14,2013,spanish,0.774,0.606,0,-6.903,0,0.0344,0.836,0.000307,0.225,0.748,144.872,99268,4
+Platero Y Tu,Imanol - Versión 2005,7IQSSRbImSJfrzSk0K1wD9,10,2005,spanish,0.279,0.488,0,-11.665,1,0.0305,0.00817,0.000345,0.255,0.559,185.323,150626,3
+La Quinta Estacion,Cuando Acaba la Noche,1qnmXSk0cNLzqP2ndZia5n,30,2002,spanish,0.653,0.844,2,-4.901,0,0.0308,0.0269,1.36e-06,0.229,0.744,149.858,216067,4
+AMBKOR,Si Me Crees,2mJHy8BcxosVjmysnzxrLt,40,2022,spanish,0.59,0.565,7,-9.88,0,0.116,0.868,0.000791,0.137,0.735,93.192,220203,4
+Tijuana in blue,Onda expansiva (Live),6gCQCWlguO3ZWSe5Jei63e,5,2003,spanish,0.619,0.973,11,-3.685,0,0.236,0.0116,0.0074,0.591,0.406,113.644,166760,4
+Rosana,Mi trozo de cielo (feat. Fito y Fitipaldis),6dEfMRt1tJHbj0K8mzwu9M,44,2013,spanish,0.463,0.485,0,-7.964,1,0.033,0.66,0.0,0.1,0.491,140.14,266787,4
+Melendi,La tortura de Lyss,4GzVzlMkT3hnORiXvN81kt,39,2012,spanish,0.693,0.608,9,-4.99,1,0.0353,0.332,0.0,0.269,0.56,134.995,234812,3
+Juan Hidalgo,Tono Humano: Trompicavalas Amor,2xyxfovs8GUIvkYR3sKDtt,9,2010,spanish,0.604,0.13,0,-15.119,1,0.0329,0.914,0.000183,0.085,0.745,128.193,177707,3
+Sólo Los Solo,Más allá de...,7A07hpFmu7e7H3H75OkHkZ,9,2001,spanish,0.766,0.636,6,-8.428,1,0.555,0.0998,7.01e-05,0.41,0.694,92.905,275467,4
+Mägo de Oz,La cantata del diablo - Live Arena Ciudad de México el 6 de mayo de 2017,54twAihLpVdRDGYbtJSJqI,35,2017,spanish,0.192,0.956,4,-3.889,0,0.176,0.0628,0.00478,0.989,0.221,144.25,1277476,4
+Estopa,Estación del Olvido,6YAvp8O67mLhEVkzWkMF1u,20,2011,spanish,0.641,0.854,9,-4.902,0,0.0585,0.252,8.25e-05,0.403,0.663,98.064,180960,4
+Joan Manuel Serrat,La Saeta,0USj6mW0Lns8oAdpGNRtR2,19,2000,spanish,0.321,0.48,2,-6.101,0,0.0373,0.758,0.0,0.148,0.618,146.284,138960,4
+Laura Pausini,Así celeste,5DVpnlh0PjQNhhRSVnp8H4,32,2012,spanish,0.553,0.472,7,-7.401,0,0.0267,0.407,1.31e-06,0.281,0.127,90.976,242920,4
+Love of Lesbian,Satellites,0pMLZQjImGd2e4asIxsLn1,9,2003,spanish,0.553,0.774,0,-5.654,1,0.0347,0.171,5.58e-05,0.123,0.54,126.029,156587,4
+Vetusta Morla,El Discurso del Rey,5c9vzNTSsOVtqNdoLxnThW,28,2017,spanish,0.415,0.908,2,-5.59,1,0.0538,0.0011,2.25e-05,0.0866,0.606,167.857,222013,4
+Sublevados,Cuerpos Danone Cerebros Petit Sui,3lPJmkMsGlkxGKBePZAdjW,7,2000,spanish,0.659,0.765,5,-6.129,1,0.048,0.00593,0.00076,0.315,0.968,97.306,186488,4
+Joaquín Sabina,De Purísima y Oro - En Directo,6AJjSKOnmDsDyKdNAowscN,35,2001,spanish,0.588,0.387,9,-10.843,0,0.0823,0.797,1.41e-05,0.857,0.419,123.71,350053,4
+Flowklorikos,Sucio,5R7RGow1TdnSmrjDWyxK2x,38,2013,spanish,0.685,0.57,11,-6.53,0,0.214,0.0741,0.153,0.158,0.734,173.258,109507,4
+Le Temps Du Loup,Sihaya,6FMzurauk10kllbFWiNGhX,10,2023,spanish,0.288,0.783,5,-7.626,0,0.038,3.59e-06,0.676,0.109,0.0779,125.019,476429,4
+Jotandjota,Me Puedo Perder,3VDsL78Dh39pyPXvuxiEEX,6,2012,spanish,0.734,0.535,3,-11.468,0,0.399,0.525,7.8e-05,0.0938,0.715,92.926,227240,4
+Tierra Santa,Tierras De Leyenda,4s3TbAZJWRbXkenbhHFpHX,36,2003,spanish,0.491,0.95,2,-4.531,1,0.0514,8.28e-06,0.0145,0.16,0.264,140.05,241787,4
+Carlos Sadness,Groenlandia,2AGbi2bvuBVuUgOFYh0f3p,34,2015,spanish,0.532,0.813,2,-7.692,1,0.0373,0.000904,0.000603,0.315,0.765,165.903,220986,4
+Luis Eduardo Aute,Slowly - En Directo,0c1RJfMPYWpgdUvC02JCpJ,31,2018,spanish,0.57,0.457,1,-11.006,0,0.0856,0.789,2.04e-06,0.971,0.527,79.109,363587,4
+Betagarri,Nork Esango Dit Nola?,4jNdoJmfl0bVcxCDPWXliH,5,2000,spanish,0.544,0.879,0,-6.501,1,0.041,0.00534,0.759,0.254,0.692,98.685,219173,4
+Estopa,Ojitos Rojos - Directo,5FAv5MNubenwx0Ss92vwRu,17,2002,spanish,0.487,0.96,11,-2.817,0,0.0995,0.365,0.0,0.966,0.729,140.001,263907,4
+Rosario,Nada De Nada,6wOnT46rzHZ2BhO2An0ALq,7,2008,spanish,0.535,0.547,0,-6.468,1,0.0395,0.858,0.0,0.111,0.574,124.538,198707,4
+María Isabel,Baila A Mi Vera,2psRKOBwt2jgz99XSGsTCr,10,2007,spanish,0.596,0.757,8,-6.727,1,0.0561,0.00438,0.0,0.402,0.96,156.022,231973,4
+La Cabra Mecanica,La maceta - Acústica,1gKf8KKzP94Tvb95zsDaMu,6,2001,spanish,0.616,0.856,9,-5.457,1,0.0846,0.116,0.0,0.104,0.927,103.305,256507,4
+Amaia Montero,Todo Corazon,3IVax82iDDekXsbPqYZprJ,29,2014,spanish,0.636,0.828,0,-3.028,1,0.0283,0.0219,0.0,0.107,0.61,125.006,254720,4
+Rayden,Calle de la Llorería,74xJ93SJIeY3yunnJ3lbGm,44,2021,spanish,0.588,0.897,4,-3.255,1,0.231,0.0522,0.0,0.73,0.612,94.152,180000,4
+Yung Beef,Valentino Demons,7mweaC90V3E2rKze5teJ6M,45,2018,spanish,0.759,0.632,9,-7.87,1,0.218,0.0918,9.76e-06,0.0694,0.688,80.968,202963,4
+Jaime Urrutia,Maribel - Directo Enjoy 07,0V6G81kX9kD4MulY9IL1ZT,8,2007,spanish,0.415,0.911,11,-5.25,1,0.366,0.0216,3.01e-06,0.363,0.676,170.807,281666,4
+Pablo Alborán,4U (con Leo Rizzi),68XBk9NDtBRYN5E52b3OHf,52,2022,spanish,0.762,0.62,11,-5.964,0,0.0625,0.537,0.0026,0.121,0.76,95.999,188583,4
+Gwendal,Gigue O'Low,49EiLp9nY4n0x5455HlplG,6,2005,spanish,0.423,0.581,2,-8.049,0,0.07,0.153,0.026,0.18,0.639,108.799,281173,3
+Chukky,Ventanilla,0K8yJby87fmPY8QKy6YHcv,46,2015,spanish,0.793,0.395,4,-11.932,1,0.19,0.884,0.00016,0.191,0.957,94.927,209120,4
+Negu Gorriak,Errespetua,52eFIoWq3A4bS039PLMR8p,8,2005,spanish,0.387,0.985,2,-3.046,1,0.0887,0.152,0.0,0.595,0.557,151.417,135893,4
+Soraya,Oropel,2ke0zVPRhUqnf4rOeKKOSb,4,2003,spanish,0.448,0.222,10,-8.588,1,0.0322,0.904,0.0,0.0946,0.596,115.601,218267,3
+Porretas,El Esparramao (En Directo),6g1RWWG2SAdhUT7AcIHJVG,6,2003,spanish,0.279,0.831,4,-11.791,1,0.0563,0.0193,3.24e-05,0.345,0.53,161.516,173053,4
+Bombai,Vuela,2WiqfmzslYA7fMbQPloHLY,37,2019,spanish,0.757,0.806,1,-4.279,0,0.0552,0.153,0.0,0.479,0.823,99.011,216599,4
+Miqui Puig,El Sirviente,1VRL0SWgsuIkFnv0XnRDgm,6,2008,spanish,0.64,0.681,9,-8.71,0,0.0278,0.0407,1.3e-05,0.0527,0.672,137.958,172267,4
+Avalanch,Levántate y Anda,2wbxeqttlcHlCEJWCoNbay,28,2001,spanish,0.407,0.943,6,-7.147,1,0.141,0.00555,5.79e-05,0.205,0.324,180.056,334107,4
+Paul Alone,Quería,56vLc69OcULWlc9E6KtCjo,46,2022,spanish,0.66,0.566,7,-6.893,1,0.0499,0.489,0.0,0.222,0.551,96.948,218387,4
+Nostra Morte,La Prisión De Los Cien Años,77h1piUfpOIhbPzakrbFf7,16,2012,spanish,0.483,0.963,9,-4.187,0,0.0801,0.00153,0.000892,0.0661,0.548,160.013,235875,4
+Fangoria,Quiero ser santa,07ki88jbhYlqPe62OIlT32,21,2010,spanish,0.707,0.896,11,-5.634,0,0.0439,0.0205,0.000105,0.214,0.658,127.941,234573,4
+Extirpating the Infected,Extirpation,08WG5nOTQOm1wtp6H1g5lG,8,2009,spanish,0.468,0.976,6,-4.904,1,0.146,0.0198,0.236,0.305,0.24,119.944,107360,4
+Hermanos Rigual,Cuando Calienta el Sol,149cO5qhp9Gbu9guwwInLR,15,2001,spanish,0.404,0.594,2,-10.267,1,0.0354,0.798,1.51e-06,0.141,0.59,200.279,144253,3
+Melendi,Virgen de las Nieves,7iOchrdiN3dFXzRPVE3j0J,32,2021,spanish,0.644,0.45,0,-7.472,1,0.0264,0.465,0.0,0.0913,0.437,107.998,233960,4
+Guadalupe Plata,Serpientes Negras,6yRxTdIwON729JBwqfdMDv,15,2015,spanish,0.561,0.662,9,-10.248,0,0.0465,0.813,0.167,0.108,0.714,101.44,163047,4
+Soraya,Sin Explicación,3yOUWISkcSFVPFeWJTOJjs,12,2003,spanish,0.549,0.839,11,-5.601,1,0.048,0.191,0.0,0.109,0.862,113.353,207280,4
+Albertucho,Es muy raro,4LqvOiod6Pg9Wil72w5myN,8,2006,spanish,0.553,0.624,4,-7.943,0,0.032,0.0147,0.0,0.129,0.746,91.989,158106,4
+Dover,Yafama,5ZcN1BENERfcFtKeHTSbqi,6,2010,spanish,0.298,0.965,0,-4.04,1,0.035,0.0948,0.0862,0.106,0.913,91.394,283680,4
+Rafael Medina,Media luna de noche,0UO7l5PZmWtUMH0lDCof2o,7,2004,spanish,0.459,0.524,9,-5.617,0,0.218,0.754,0.0,0.131,0.422,160.662,206213,3
+Sublevados,Me Agobio,3PUeuvAN1pxH8KcO8za2SP,5,2003,spanish,0.663,0.907,2,-4.833,1,0.0395,0.0543,1.81e-06,0.115,0.565,91.005,231811,4
+Rios De Gloria,Por Ti y por Él,7oOlKCbgy9ddDK8bUSq7hJ,5,2001,spanish,0.655,0.508,2,-7.954,1,0.0262,0.0544,0.0,0.105,0.263,132.101,198813,4
+Mägo de Oz,La rosa de los vientos - Live 07,1YCsVDBrW8UVj5UtDVIZD4,15,2009,spanish,0.214,0.995,1,-3.048,0,0.188,0.0165,6.64e-05,0.967,0.187,142.707,267280,4
+LUIS BREA,Dicen por Ahí,5bMCHWcaHBc9uMF7jtPOD6,39,2013,spanish,0.703,0.59,11,-9.815,1,0.0679,0.524,0.00026,0.255,0.342,98.073,210612,4
+Nach,Calles,3XZos8BnwwHmAaHTyLrsvx,29,2003,spanish,0.721,0.764,9,-6.261,0,0.163,0.504,0.0,0.117,0.761,90.055,265197,4
+The Kagas,Vomitando,4UHpbwQ6rDvOnKY8Zc82vd,22,2002,spanish,0.391,0.663,2,-11.65,1,0.0703,0.0364,0.0,0.209,0.785,154.948,115485,4
+Pajaro Sunrise,Good to See You,2mBNjPlGmIJsDBi8fUuUtW,29,2013,spanish,0.765,0.578,1,-9.573,1,0.0316,0.741,0.00371,0.101,0.409,118.038,221040,4
+Pablo Alborán,Que siempre sea verano,05WGuzxCek5NSKjMVLeJSz,48,2020,spanish,0.412,0.205,10,-12.977,1,0.0432,0.809,0.0,0.0957,0.458,79.552,189157,4
+Joaquín Sabina,Virgen de la Amargura,3QJUNz45ENwvytlvUxVgcH,29,2009,spanish,0.628,0.582,4,-7.46,1,0.0596,0.198,0.0,0.209,0.423,79.986,207320,3
+Vargas Blues Band,Do You Believe in Love (feat. Chris Rea),5rMTJTN1bR3PgCeDpA7Xhx,16,2012,spanish,0.505,0.627,11,-5.338,0,0.029,0.213,0.0956,0.239,0.352,129.992,317080,4
+Miguel Bosé,No hay ni un corazón que valga la pena,6pwngnwwQ2OklD4vqcdIL9,28,2013,spanish,0.711,0.681,5,-7.128,1,0.0633,0.337,0.0,0.166,0.802,77.002,236360,4
+Barricada,Rugir y morder - Directo Anaitasuna 2013,0IPBMEUyUW4Q5ylUbyzSxL,8,2014,spanish,0.492,0.97,9,-4.934,1,0.051,0.000298,0.546,0.958,0.556,90.008,269973,4
+Soraya,Torre De Marfil,5oLeX6BAbhtIEEoDpNdSxx,5,2003,spanish,0.602,0.606,0,-6.456,0,0.0245,0.113,0.00458,0.0684,0.421,130.708,292733,4
+shego,Vicente Amor,6cT3lvZsX1QOqo5LPgQSHJ,40,2021,spanish,0.682,0.868,6,-4.421,0,0.0762,0.000421,2.47e-06,0.0642,0.93,144.961,112552,4
+Kase.O,Como el Sol 2011,3NkIrWA31m4VO4Z9BW61yo,49,2011,spanish,0.812,0.579,2,-8.124,1,0.187,0.176,0.0,0.219,0.737,93.004,283840,4
+Joan Chamorro,Carinhoso,76d3q3H3EkBxkYfK4wnxIx,20,2015,spanish,0.518,0.138,7,-14.295,1,0.032,0.961,0.00888,0.11,0.166,99.403,232373,4
+Rapsusklei,"1, 2, 3",5K8UfuHf3iDodaCbSGw4S9,28,2014,spanish,0.825,0.98,6,-2.88,1,0.143,0.222,0.0,0.0503,0.799,134.011,191459,4
+Jarabe De Palo,La Flaca,3yGoV8L7vjF5OVKv9KPMkG,44,2015,spanish,0.626,0.602,4,-12.124,0,0.0464,0.0661,0.000913,0.983,0.348,109.931,420466,4
+Heroes Del Silencio,Mar adentro,0JiJUlrjZJns611dYbAfqa,28,2021,spanish,0.506,0.869,5,-5.365,1,0.0435,0.4,0.00111,0.0962,0.588,140.139,239350,4
+Warmth,Enceladus - SVLBRD Remix,32SS6RoDX6FPR8D9pezE7O,10,2023,spanish,0.183,0.174,10,-24.311,0,0.041,0.766,0.982,0.0696,0.0928,139.835,302040,1
+La Oreja de Van Gogh,Promesas de Primavera - Directo Argentina,143KjzAxBPDMze3vm6KtLl,18,2012,spanish,0.569,0.898,1,-4.569,0,0.0877,0.0356,0.0,0.302,0.549,143.907,179800,4
+Eternal Storm,The Mountain,2f7wPPuDMFoGvXmfP0rpe3,8,2019,spanish,0.26,0.836,1,-6.68,0,0.0513,0.000148,0.796,0.349,0.117,129.992,435747,4
+Beethoven R.,Larga Vida,6gGPr4uTgtE70N1gcFdor3,13,2003,spanish,0.372,0.968,1,-4.206,1,0.114,0.000175,0.0,0.122,0.357,165.161,285427,4
+FERNANDOCOSTA,Oye,0Ku3YuCgohtHEuwkzqD2A7,54,2022,spanish,0.588,0.675,9,-7.005,0,0.105,0.314,0.0,0.389,0.962,93.621,154000,4
+Carmen 113,En Espiral,2FkIpnHqSsUD2MnKlfXfoZ,22,2020,spanish,0.694,0.807,7,-6.126,0,0.038,0.0615,0.0,0.116,0.619,127.02,226627,4
+Leiva,Estrella Polar - Madrid Nuclear - En Directo,1qa18ruoOGfZmvi5vMoq6a,30,2020,spanish,0.455,0.905,4,-4.288,1,0.0459,0.000366,0.00104,0.566,0.357,127.009,209240,4
+Abraham Mateo,A Media Luz,1oGwkqswrrxIPIzxMvwYxl,32,2020,spanish,0.613,0.425,3,-7.659,1,0.109,0.272,0.0,0.0924,0.574,145.907,208179,4
+Los Rodriguez,Mala suerte,53NwT7mtrTErXPSHHnYG9r,5,2001,spanish,0.532,0.882,4,-9.258,1,0.0351,0.13,0.0,0.389,0.959,143.159,225133,4
+Diana Navarro,Sola,2EMkMUHKcocs6BJatgmyfI,38,2005,spanish,0.601,0.436,7,-6.988,0,0.0246,0.288,0.000885,0.137,0.269,104.97,305106,4
+Ana Torroja,Tu Habitacion Helada,5gOldZ6gEab41xNQyvdW0u,26,2010,spanish,0.754,0.907,1,-5.182,0,0.0282,0.0762,0.00726,0.0809,0.974,129.987,273053,4
+Banda Bassotti,Figli Della Stessa Rabia,0GPxJ8e6xoYbmCd1eI3WVx,30,2014,spanish,0.283,0.891,7,-5.638,1,0.16,0.664,0.0078,0.898,0.451,145.365,217013,4
+Yo Diablo,Hojalata (Demo),1MzyH6Onk5I0RSAMDuIjak,8,2018,spanish,0.521,0.569,10,-8.062,1,0.0314,0.00103,0.787,0.0822,0.141,130.083,238421,4
+Mägo de Oz,Siempre - Adiós Dulcinea parte II - version 2011,1bILRGIP30fa7mVDlXyrZp,33,2011,spanish,0.442,0.39,4,-7.707,1,0.0315,0.852,4.68e-06,0.134,0.168,113.871,287560,4
+Nostra Morte,Nostra Morte,0wC4k4Ksst048oZlWhtYZH,16,2009,spanish,0.433,0.923,1,-4.199,0,0.0493,0.0444,0.00335,0.126,0.434,160.037,283006,4
+La Quinta Estacion,Para No Decirte Adiós,12NGAGzglMCgGnL5qJ2D7p,35,2006,spanish,0.538,0.837,0,-4.36,1,0.0531,0.248,0.0,0.186,0.82,92.865,214747,4
+Orquesta Mondragon,Stand byMme - Directo,6tlMqOECBH5b0pvAoh06kj,7,2003,spanish,0.5,0.853,5,-4.48,1,0.0439,0.23,0.00783,0.363,0.4,113.596,234720,4
+Guadalupe Plata,Duermo con serpientes,01jt2m3aSi5DGIKDk10MCg,24,2018,spanish,0.548,0.589,2,-9.413,0,0.0356,0.168,0.806,0.329,0.538,99.374,134578,4
+El Último Ke Zierre,Quemaste Tus Alas de Ángel,4AzuKQJd24YXEVcs2yPoqA,27,2007,spanish,0.526,0.969,6,-4.626,0,0.0587,0.00788,0.0,0.118,0.513,104.016,145027,4
+El Arrebato,Durmiendo en tu ombligo (feat. Vanesa Martín),1Wyii1QAYSl2Qo62yAIDZE,42,2010,spanish,0.588,0.458,0,-11.502,0,0.0424,0.421,0.0,0.105,0.245,147.968,274808,4

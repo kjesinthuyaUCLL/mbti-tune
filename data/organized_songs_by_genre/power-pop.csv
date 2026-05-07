@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+The Replacements,"Answering Machine - Live at Maxwell's, Hoboken, NJ, 2/4/86",2GfnxjFVkRSjZrP9BmmBw6,7,2017,power-pop,0.177,0.961,11,-4.363,1,0.23,0.0156,0.0,0.944,0.349,168.107,186093,4
+The Tearaways,John Wayne,63cqFzIPDlvbzu9oqBQ2Ul,0,2014,power-pop,0.433,0.856,6,-4.694,0,0.0353,0.0212,0.000266,0.381,0.774,177.968,200073,4
+Travoltas,There Goes Marsha (Live),6ekUuExCasmTFVV6QBHN0N,1,2003,power-pop,0.559,0.589,7,-5.706,1,0.031,0.165,0.0,0.727,0.773,82.561,209027,4
+Frank Black,Lone Child,4vbw65Ws2kbbOvGwk9Y8xw,14,2005,power-pop,0.601,0.41,11,-13.899,0,0.0914,0.721,0.0292,0.105,0.439,98.032,191213,4
+David Brookings,When It Goes Down,2INiVFXBgmnCly2t6rrsYD,0,2007,power-pop,0.506,0.867,9,-4.125,0,0.0317,0.453,0.00306,0.0553,0.543,126.641,303960,4
+Jonly Bonly,You Want It,47W95AwB5Z4VRHnWVHRQOj,0,2014,power-pop,0.241,0.815,2,-6.733,1,0.0372,0.000438,0.0104,0.355,0.651,183.032,155227,4
+A Radio With Guts,Hey Boss,2GKSJvu9pQeVRBJKMZKoGS,0,2002,power-pop,0.338,0.988,10,-5.009,1,0.0783,0.00316,0.075,0.161,0.323,137.766,202453,4
+Mean Jeans,Turning Green,3ODPvrNcleVeRL86xGF7eV,10,2019,power-pop,0.389,0.971,7,-3.218,1,0.0529,0.00111,0.0,0.12,0.762,158.527,138680,4
+WYLDLIFE,Contraband,3SccvKMEBEyiqTQQdrjyNF,26,2017,power-pop,0.296,0.851,1,-4.823,1,0.0455,2.54e-06,0.0676,0.13,0.428,179.111,138917,4
+DM3,Foolish,6EsVdl6e7pkVrEAIOLKRTw,0,2015,power-pop,0.324,0.873,4,-6.892,1,0.0445,0.000169,0.000137,0.0694,0.567,152.401,205960,4
+Dwarves,I Want You To Die,6Gcd5OzbLRKmByvvSvcJST,9,2000,power-pop,0.0796,0.984,5,-4.343,1,0.181,1.53e-05,2.4e-05,0.427,0.25,189.683,56147,4
+Freedy Johnston,The Devil Raises His Own,6h5nrdCGe4PhGh60knxath,2,2010,power-pop,0.776,0.637,5,-8.408,0,0.0244,0.34,1.87e-05,0.0951,0.749,105.949,290453,4
+Weezer,"Tell Me What You Want (From ""Wave Break"")",70WNTqirUUwzfBeXoDLGol,21,2021,power-pop,0.651,0.666,3,-3.406,0,0.0465,0.00135,0.000505,0.0733,0.64,133.978,203568,4
+Dwarves,Devil's Level,41V7zzHTrNqxEk6FAcK25B,2,2017,power-pop,0.344,0.989,2,-3.128,1,0.162,0.000933,3.95e-06,0.0795,0.0856,104.334,109992,4
+The Sneetches,I Don't Expect Her for You (Look at That Girl),7H9euhu5vCCNj7onfmEEnK,0,2017,power-pop,0.618,0.892,4,-7.532,1,0.0311,0.282,0.0099,0.0752,0.968,123.889,156700,4
+The Persian Leaps,Hard Feelings,65mrmTfiOamgYRgJjcSntJ,0,2013,power-pop,0.218,0.934,7,-3.876,1,0.0569,0.00427,1.23e-06,0.125,0.468,178.005,180200,4
+WYLDLIFE,Seven,2tbO9Wfree8Ch0zt9sVoii,3,2011,power-pop,0.215,0.921,5,-3.835,1,0.17,0.0109,0.0,0.131,0.674,177.554,159777,4
+Tommy Keene,Nowheres Near,5VtKIvdRU0I7hHfGRe3Z02,2,2013,power-pop,0.419,0.572,7,-6.254,1,0.0294,0.00506,0.138,0.192,0.299,117.023,255600,4
+The Dollyrots,Bury Me in Ireland,05iCUqpmlPHTGyQZr6RJIR,4,2014,power-pop,0.456,0.763,6,-6.771,0,0.0592,0.00104,0.0664,0.253,0.463,169.913,169421,4
+Private Jets,Innocent Bystander,680Cx8fjshWJUPMNX0mFy8,0,2008,power-pop,0.586,0.626,0,-12.427,1,0.0394,0.0836,0.00596,0.0569,0.296,121.925,47053,4
+Robyn Hitchcock,I Watch the Cars,7dpB6Z9ehMG8tBomuZZKlp,4,2007,power-pop,0.399,0.942,11,-7.252,0,0.084,9.32e-05,5.19e-06,0.0633,0.529,111.618,146147,4
+Joe Jackson,Just Because - Vocal,2j2Hx5uPqJNmebItiUMCOZ,2,2000,power-pop,0.552,0.801,2,-8.44,0,0.0373,0.0132,0.000788,0.27,0.679,128.433,285227,4
+Sparkle* Jets Uk,She's My Fave,6l7KrYbBtGuunoI2oPSwAg,0,2001,power-pop,0.357,0.86,9,-6.94,1,0.0515,0.000757,0.0163,0.552,0.899,149.612,148627,1
+The Cowsills,"The Rain, the Park and Other Things (A Cappella)",43K8kJ0VCpRkaTnW8rsb8M,10,2018,power-pop,0.421,0.277,11,-11.626,1,0.0291,0.866,0.0,0.359,0.422,130.526,215592,3
+Lannie Flowers,Nothing New,5PhFDqe7yojRW5OmlgVoGF,0,2008,power-pop,0.318,0.277,2,-7.89,1,0.0365,0.657,0.013,0.138,0.264,120.839,21987,4
+Sinkhole,Smell Isn't Everything,6NK9T51hvRDWUCoodmdxfN,0,2000,power-pop,0.273,0.803,7,-9.092,1,0.0507,0.000323,0.751,0.297,0.617,173.099,133793,4
+Ron Sexsmith,Deepens with Time,4KVtrlsOudOpXfANAQznu5,6,2013,power-pop,0.568,0.32,9,-11.106,1,0.0291,0.877,3.08e-05,0.102,0.531,117.76,187987,4
+The Loud Family,Backward Century,4OJCAaTXOm7Z3zvO6KxvPX,0,2000,power-pop,0.414,0.707,4,-7.053,1,0.0326,0.0203,0.000963,0.0855,0.9,85.822,251027,4
+The Chevelles,Run & Hide,75ALgWyRUK7fOCNBuXxxy1,0,2008,power-pop,0.411,0.867,2,-10.011,1,0.051,0.0022,0.000503,0.11,0.688,154.221,171227,4
+Guided By Voices,Gold Star for Robot Boy - Live,5iZw34IqNc6Y5hqEuSYRkG,6,2007,power-pop,0.309,0.891,9,-8.401,1,0.0611,0.00633,0.0543,0.971,0.591,138.456,118187,4
+Guided By Voices,The Weeping Bogeyman,39xmPqMWBqwpvmhV6zj55v,5,2002,power-pop,0.205,0.439,9,-5.197,1,0.0313,0.791,1.15e-06,0.201,0.311,175.15,95867,4
+Swingin' Utters,(You've Got to) Give It All to the Man,1udeWxeXvTm5TYY5nElgfZ,8,2011,power-pop,0.297,0.976,9,-4.351,1,0.102,0.00175,0.0155,0.644,0.571,190.097,70280,4
+Jonly Bonly,Steady Hand,2dAF0PKiarjyO7TKG8Zeh2,0,2014,power-pop,0.346,0.828,4,-6.251,1,0.0449,0.0017,0.711,0.262,0.682,168.539,303320,4
+Anton Barbeau,King of Missouri,3OSMKUTgxH2lzY9AlRxm36,0,2003,power-pop,0.487,0.713,9,-7.211,0,0.0401,0.0011,0.0,0.281,0.25,132.193,142000,4
+The Hextalls,My Xbox Got The Red Ring Of Death,7q7FWK6VXAfixSqS54gfnX,4,2010,power-pop,0.395,0.959,6,-3.537,1,0.122,0.00127,0.0,0.136,0.418,184.936,150493,4
+The Replacements,"Darlin' One - Live at University of Wisconsin-Milwaukee, WI, 6/2/1989",4aNkPUa5hvJ8pomrMNCDPK,4,2019,power-pop,0.191,0.529,7,-9.987,1,0.0404,0.0328,0.00172,0.925,0.163,185.767,276680,4
+Pink Lincolns,I've Got a Gun,0puL7dZTYwS8ZSFwIC6Wyu,0,2013,power-pop,0.128,0.895,9,-6.812,1,0.0561,0.0328,0.00265,0.16,0.623,199.819,117773,4
+The Kung Fu Monkeys,I Miss the Ramones,3X28GRhxspGrCiCsJ80oid,1,2006,power-pop,0.327,0.828,8,-4.808,1,0.0358,0.0018,0.0,0.0434,0.847,133.303,102573,4
+Cheap Trick,Silent Night,6jYDFx0m2Dba0Dveu5XCA5,3,2017,power-pop,0.151,0.413,2,-9.175,1,0.0335,0.146,0.000228,0.0988,0.0411,89.806,236373,3
+Hüsker Dü,Data Control - Rehearsal,5ddjcS9XFNzmCun2z8e1SM,4,2017,power-pop,0.331,0.823,5,-12.593,1,0.141,0.304,0.00019,0.372,0.0646,125.093,407773,4
+Alex Chilton,Promised Land,43hX9yZ8IBQiSTMhqk4tzv,6,2015,power-pop,0.485,0.865,6,-11.921,0,0.0431,0.276,0.453,0.262,0.392,177.735,283667,4
+The Lemonheads,Mrs. Robinson,6GJTYCoPC0fpirzHUTe341,7,2015,power-pop,0.487,0.918,11,-7.878,0,0.0432,0.00924,0.00282,0.23,0.772,107.446,223851,4
+Jimmy Eat World,Bleed American,4zTPyKq6Llk5i5XvxXus6A,7,2019,power-pop,0.445,0.946,6,-5.573,0,0.0931,0.00637,1.07e-06,0.653,0.582,160.181,182227,4
+Guided By Voices,Free Agents,7GKa1bqDrR3X86WJbPhdjI,11,2021,power-pop,0.46,0.886,4,-6.669,1,0.0351,0.0157,0.00033,0.0753,0.475,143.118,120123,4
+Twin Peaks,Come for Me,7kmljzcVVr6Phj1IL27AVc,12,2017,power-pop,0.62,0.809,4,-7.024,1,0.0249,0.258,0.0505,0.116,0.827,110.018,199488,4
+The Gamits,Bender (Live),6sMOdRBNlDdhluEo5BFRnK,0,2006,power-pop,0.324,0.976,2,-6.066,1,0.0808,0.00291,0.0,0.686,0.179,98.464,132893,4
+The Sugar Stems,Like I Do,54Qdj2CXRGi5BMlHToYI67,0,2013,power-pop,0.46,0.967,11,-4.303,1,0.0585,0.00023,0.394,0.16,0.932,166.664,184867,4
+The Manges,Too Many Freaks,73HBy76X1gdbTVwDcqnJWY,9,2022,power-pop,0.46,0.961,2,-4.358,1,0.0356,0.000856,0.00905,0.383,0.831,180.069,119707,4
+The Dopamines,Business Papers - Reprise,4j9uYwaqe67Wgr1hcO81Xx,6,2017,power-pop,0.168,0.906,4,-5.41,1,0.109,0.029,0.0014,0.146,0.0383,81.05,129294,4
+Cheap Trick,Lookout - Studio Version,3zkRgz7h2uyW898ZwwHDMs,8,2015,power-pop,0.256,0.977,7,-7.137,1,0.0578,0.000172,0.00184,0.353,0.378,164.63,209640,4
+Joe Jackson,"Right And Wrong - Live At The Roundabout Theatre, New York City/1986",1DyqeYzKn20GeeywyuOUFj,4,2001,power-pop,0.687,0.806,9,-4.914,0,0.0315,0.00381,0.0,0.0679,0.83,119.367,275200,4
+Alex Chilton,Shiny Stockings,0jVK66Gk1xNidpB79F4daZ,4,2017,power-pop,0.551,0.443,10,-13.639,0,0.0338,0.00367,0.89,0.121,0.789,136.704,243640,4
+The Eyeliners,"Rock-n-roll, Baby!",4dOIRSASEW6QaJIMHGZBou,2,2000,power-pop,0.597,0.952,4,-4.746,1,0.0349,0.00152,5.89e-05,0.211,0.937,116.053,171160,4
+The Davenports,All Hands on Her Advances,4gTLOqP4tSfIWwt1tdZt12,0,2000,power-pop,0.552,0.525,7,-6.937,1,0.0242,0.0401,0.000149,0.202,0.54,82.049,236520,4
+The Well Wishers,Consequence of Love,6W7u1d4UCRN0uX8BmGCf4r,0,2010,power-pop,0.644,0.724,8,-7.278,1,0.0543,0.0245,6.05e-05,0.0418,0.921,134.698,224000,4
+Hüsker Dü,Sore Eyes - Demo,2eLV0vPXC9mk7WO9LPIyFs,8,2017,power-pop,0.243,0.798,7,-6.614,1,0.0671,0.000399,1.11e-05,0.144,0.254,110.965,139760,4
+The Orange Humble Band,What's Your Crime?,4rUiNtW9POQfgfJThZGfGi,0,2000,power-pop,0.409,0.957,4,-2.925,1,0.0518,0.00169,0.000227,0.0684,0.555,133.615,209093,4
+Fabulous Disaster,Yesterday's Gone,3PzySDTCWv97mg4WDK6B00,1,2005,power-pop,0.485,0.979,9,-3.882,1,0.235,0.0038,0.554,0.188,0.169,97.642,121693,4
+The Dahlmanns,American Heartbeat,3v4z6xW3K7fwAktFKitwQu,3,2018,power-pop,0.446,0.961,4,-5.173,0,0.0553,3.33e-05,0.000758,0.0442,0.796,159.887,171660,4
+The Connection,So Easy,5PQELHgPxwz01z4cbPI5DX,0,2015,power-pop,0.505,0.959,7,-4.252,1,0.0413,0.0235,3.55e-06,0.32,0.828,136.11,201987,4
+The Dahlmanns,Girl Band,3tn8fYuZfenXYzr5L2GCIn,2,2015,power-pop,0.533,0.931,7,-4.878,1,0.0558,0.00898,1.34e-06,0.288,0.698,135.951,168021,4
+The Steinways,Fruitmarket Fantasy,1i2kLosgyHL2TkEoj52iA5,3,2006,power-pop,0.366,0.883,0,-3.814,1,0.072,0.000978,2.55e-06,0.127,0.627,108.717,89307,4
+Sonic Dolls,Boys' night out,6pUEG3D7xqGwQ2OUeavH55,0,2021,power-pop,0.474,0.85,2,-5.763,1,0.0537,0.00213,0.0,0.151,0.596,95.864,97176,4
+Cheap Trick,Everything Works If You Let It - Full Version,39USIjPD5YsMSzIOZXJbK5,7,2004,power-pop,0.391,0.944,11,-7.639,0,0.0791,0.00246,2.94e-06,0.0974,0.401,148.698,235533,4
+Edmund's Crown,She's Never Coming,5wwD546EcqoMbfMuHmjGEW,0,2006,power-pop,0.474,0.671,8,-6.172,1,0.0521,0.2,0.00108,0.146,0.415,91.91,184907,4
+Jetty Boys,Four On the Road,7439bFsCzxLRQG0kN2j8On,0,2014,power-pop,0.49,0.995,7,-6.212,1,0.0735,1.68e-05,0.000364,0.283,0.408,109.08,169240,4
+Guided By Voices,White Flag,1ueRAKTjIOZ7lwIcFC0oD3,5,2012,power-pop,0.472,0.888,7,-7.103,1,0.0384,0.0314,0.00576,0.278,0.424,115.36,134960,4
+Richard X. Heyman,Miss Shenandoah Martin,6sgVWWrI1l1LiKldPAhWlW,0,2017,power-pop,0.44,0.786,4,-5.844,1,0.033,0.149,0.000763,0.157,0.508,169.946,177067,4
+Smoking Popes,"Don't Be Afraid - Live At The Metro, Chicago, Illinois / November 11th, 2005",7Dx4Kc17hIrvGA9VY9QOoT,2,2006,power-pop,0.239,0.937,9,-5.228,1,0.073,1.15e-05,0.565,0.458,0.392,164.098,204680,4
+Fabulous Disaster,Sneak Attack,6wW91Co1tBtyGEBjPsRFom,2,2001,power-pop,0.417,0.947,2,-3.613,1,0.0464,0.000422,0.00473,0.108,0.804,97.217,134360,4
+The Donnas,Everyone Is Wrong,1IgNS2w0GKAhfz9JmgQsSt,2,2005,power-pop,0.589,0.672,2,-6.085,1,0.0443,0.000323,4.2e-05,0.0929,0.669,139.852,208333,4
+Joe Jackson,A Slow Song - Live,69MjPuwpaxHzzBFeqxmVuG,2,2011,power-pop,0.317,0.456,5,-8.469,1,0.0319,0.801,3.37e-06,0.744,0.173,176.073,401547,3
+Halo Friendlies,Me Vs. The World,0tEWMVTwdCaCa6E7vfhJAK,29,2003,power-pop,0.458,0.895,0,-4.547,1,0.0907,0.0064,1.05e-05,0.109,0.553,178.317,227640,4
+The Dollyrots,Kat's Meow,6VdsS5RrZ3MCs736e7JHsM,11,2019,power-pop,0.636,0.819,0,-5.044,1,0.0379,0.000557,0.0103,0.124,0.636,109.029,181446,4
+Andrew Gold,Lonely Boy - Re-Recorded,0QKKI3pKCkSIJnICOWQMvG,23,2008,power-pop,0.573,0.691,9,-4.965,1,0.0322,0.11,0.0,0.0824,0.482,122.906,268000,4
+Jetty Boys,Under Pressure,1zUR4j2aOpLpTzk4RjdpCh,0,2013,power-pop,0.372,0.851,4,-8.297,1,0.0695,1.82e-05,0.0185,0.141,0.724,102.729,133973,4
+The Jeanies,That's the One,7JtL4uk2LoGenpXFhxCfBa,0,2015,power-pop,0.42,0.788,9,-6.72,1,0.0408,0.32,0.557,0.351,0.642,127.806,191853,4
+Nada Surf,When I Was Young,5IZ6enaTv57AJ4DccjC3W3,15,2013,power-pop,0.215,0.557,0,-7.31,1,0.0358,0.0339,1.9e-05,0.106,0.165,147.498,318587,4
+DM3,Never Be Friend - Live,2J4WlvQFYhzp1YUkTWoWdg,0,2010,power-pop,0.257,0.932,2,-4.794,1,0.0565,0.00853,2.59e-05,0.351,0.547,154.861,180493,4
+Paul Collins,Walking Out on Love,4D7ONqoImT1oZbIxDoBUNT,24,2014,power-pop,0.28,0.789,9,-6.812,1,0.0432,0.083,1.64e-05,0.0892,0.69,166.969,104987,4
+The Spongetones,Man with No Skin,2spUU8vHij7lAWHi5KhEif,0,2008,power-pop,0.385,0.851,2,-6.078,1,0.0315,0.00549,0.0428,0.32,0.472,91.703,274947,4
+BOYTOY,Pulp,3qRYz02P2ZjlqX4oUqEzBH,1,2015,power-pop,0.444,0.937,11,-6.322,1,0.055,3.39e-05,2.47e-05,0.47,0.706,134.942,105727,4
+Dinosaur Jr.,Flying Cloud - Live from CBGB's 12/93,01TnZwqGRDdRGAkpHYYhH6,7,2007,power-pop,0.467,0.573,2,-11.365,1,0.0297,0.648,0.000241,0.626,0.349,98.394,172040,4
+Screeching Weasel,Hey Diana,3j1w9609qbkMOiYrOlSMrL,12,2022,power-pop,0.299,0.935,9,-6.326,1,0.0746,5.7e-06,0.668,0.205,0.502,185.034,117720,4
+Be My Doppelganger,Teenage Beat,0lC6lqAuaxTF89n3q296xL,0,2006,power-pop,0.236,0.77,4,-8.068,1,0.0394,9.73e-05,0.169,0.139,0.782,193.927,177707,4
+Nick Frater,Built to Last,6m1DzTlvX82dthvdfVcqI1,0,2018,power-pop,0.334,0.902,0,-3.324,1,0.106,0.00582,0.0,0.244,0.427,134.192,172347,4
+Mike Viola,Columbus Day Parade,3ChTUZkCEId9HnXNXkUFoJ,4,2011,power-pop,0.529,0.662,10,-6.93,1,0.232,0.0814,0.0,0.108,0.37,150.037,187747,4
+George Usher,Lost in Translation,1olwDB8ikTq3N0AOZnwfIi,0,2015,power-pop,0.638,0.341,2,-6.825,1,0.0243,0.821,0.0,0.158,0.393,104.037,220360,4
+Young Guv,Trying To Decide,16z6aXHbO4KYwTcxH78a88,5,2019,power-pop,0.694,0.879,0,-6.864,1,0.037,0.00287,2.01e-06,0.108,0.895,130.041,238154,4
+The Replacements,Skyway,4OmxVfhxnmB9nZtPkI3ofg,5,2013,power-pop,0.388,0.427,5,-9.979,1,0.0293,0.481,0.000569,0.183,0.549,82.313,126240,4
+Enuff Z'Nuff,She Sells Sanctuary,4yPqrjHD1YyftK6fLVCPaE,3,2014,power-pop,0.433,0.844,7,-5.737,1,0.0388,0.00707,0.000504,0.279,0.411,134.987,228987,4
+The Flashcubes,Make Something Happen,5xwBiEIGZK8SYs7uB9NGNz,0,2003,power-pop,0.483,0.873,4,-5.664,1,0.0768,0.00451,0.0,0.0609,0.554,136.058,148613,4
+Superchunk,Learned to Surf,5zaFGFA3xa8x8gUxRHPgfh,4,2009,power-pop,0.38,0.876,2,-4.839,1,0.0368,0.000348,3.82e-06,0.307,0.541,79.256,233933,4
+Tony Molina,Can't Find My Way,0A7tcM6rPLxbKXaB97MLoc,16,2019,power-pop,0.28,0.786,4,-4.687,1,0.0469,0.0197,0.102,0.426,0.572,134.826,48236,4
+that dog.,Your Machine,2ne9N62Fk8a3Omo4UhCmhA,8,2019,power-pop,0.371,0.457,10,-8.213,1,0.0323,0.455,2.77e-05,0.123,0.172,158.962,177582,3
+Anton Barbeau,Clubbing in Berlin,1twMnTETDgqKgaYcLX3fAT,0,2014,power-pop,0.635,0.68,5,-4.799,1,0.0531,0.0161,0.254,0.0776,0.783,127.02,205787,4
+Richard X. Heyman,Incognito,4dLNcdhiRHnkhcmY2KMw4K,0,2017,power-pop,0.508,0.856,8,-3.8,1,0.0325,0.0137,0.00231,0.135,0.408,134.977,250227,4
+Luna,Dizzy,6OJyVmVxAavczRjTyBP9Bm,5,2002,power-pop,0.429,0.474,0,-8.713,1,0.0307,0.014,0.000656,0.171,0.544,183.579,217547,4
+Fabulous Disaster,Painkillher,18zA2XWtCQfzDXoIeF1rud,1,2005,power-pop,0.477,0.951,5,-3.626,1,0.106,0.0025,0.767,0.0899,0.414,109.891,144760,4
+Tommy Keene,Back to Zero Now,6QaoGbP0PtQrL2o2Uq1FQK,11,2010,power-pop,0.316,0.898,11,-6.283,0,0.0461,0.00264,0.0,0.112,0.495,139.451,185760,4
+The Supahip,Everything's Alright,61PZMUEwLGjvNvSkbiacny,0,2005,power-pop,0.431,0.779,0,-7.463,1,0.0528,0.0255,0.0,0.269,0.561,134.859,191853,4
+The Steinways,Voce Tem Labios De Uma Galinha,0BlnovJKQLPgOCCjChowMj,0,2011,power-pop,0.465,0.935,0,-6.001,1,0.0484,0.0111,0.00221,0.365,0.714,110.857,89695,4
+Baby Shakes,Won't See Me,0Mxt4Wo9ZhaAfGuAMoIOXU,3,2017,power-pop,0.337,0.861,4,-5.133,1,0.0343,0.0149,0.304,0.117,0.796,141.486,155274,4
+Old 97's,Driver 8,7pdmOhSxy9uvBnqOOQA6v1,10,2010,power-pop,0.469,0.778,7,-7.408,1,0.0291,0.00341,9.18e-05,0.353,0.67,164.064,202013,4
+Weezer,The Underdogs,3xsrvl7AHZpvC6FZIXQ1M0,17,2009,power-pop,0.686,0.405,8,-6.638,1,0.0255,0.113,0.0,0.0942,0.277,135.988,280467,4
+Michael Carpenter,The Whole of the Moon,1yH7MKrKGBfKVpPUtGBTEj,0,2011,power-pop,0.512,0.744,0,-5.462,1,0.0317,0.0799,1.92e-06,0.0624,0.618,100.014,299236,4
+Nerf Herder,For You,35ALktwd6rFxH5leIaSSqy,9,2000,power-pop,0.61,0.857,9,-5.902,1,0.0337,0.00928,0.0,0.104,0.905,96.825,118800,4
+P76,Sleeping In,59hfpboHexG1gvhsn1xgLM,1,2001,power-pop,0.418,0.929,2,-2.786,1,0.0357,1.9e-05,9.48e-06,0.321,0.806,139.629,150827,4
+Big Star,"Give Me Another Chance - Control Room Monitor Mix, 1972",0yU2RJfRdQGKOGqqLYACPT,3,2013,power-pop,0.267,0.264,2,-10.081,1,0.029,0.195,0.0,0.0568,0.353,72.645,214782,4
+Sloan,Take It Easy,1Q8veeN99eEla4wKbhjHZb,4,2014,power-pop,0.501,0.933,9,-3.694,1,0.0678,0.000845,0.0128,0.26,0.635,131.914,152307,4
+Halo Friendlies,Runaway - Get Real Album Version,6pgX076hXsI0JjaqqMImYy,15,2002,power-pop,0.261,0.883,6,-2.97,0,0.0442,0.000397,0.0,0.261,0.441,173.697,177000,4
+The Cowboys,Prized Pig (Song for Laura),4rqZ5vjvq2PdLYzKEyYI4o,2,2017,power-pop,0.395,0.897,0,-6.003,1,0.0432,0.144,0.0198,0.156,0.947,169.238,100840,4
+The Dahlmanns,Forever My Baby,1hdjMbN3a4GpYsYdTX6uir,3,2017,power-pop,0.525,0.9,2,-3.206,1,0.0429,0.0166,1.77e-05,0.353,0.598,131.972,160860,4
+TSAR,Wrong,5qF2bxNm5MOVpCFTpZQOhg,7,2005,power-pop,0.434,0.938,2,-2.287,1,0.089,6.34e-05,3.57e-05,0.224,0.224,81.261,233987,4
+Shoes,Nobody to Blame,57Ks0tnD37bqmiKy2746Dz,0,2012,power-pop,0.581,0.835,0,-4.874,1,0.0286,0.000998,0.00352,0.194,0.576,120.016,231400,4
+The Cars,Down Boys - 2016 Remaster,7rfXQ3kK6oBMKGVN9mEfuZ,11,2017,power-pop,0.52,0.886,11,-7.352,0,0.152,0.418,1.41e-05,0.217,0.508,154.308,187013,4
+Robyn Hitchcock,Round Song,4Ocz6nZ86V1yI2eemGM3Rp,0,2003,power-pop,0.417,0.756,2,-5.972,1,0.035,0.21,0.0138,0.493,0.629,105.974,267773,4
+The Muffs,Up and Down Around,0vngyKpxHfs2pxH0iaPvz5,4,2014,power-pop,0.485,0.821,10,-2.736,1,0.0402,0.00103,0.0,0.188,0.609,118.259,239653,3
+Joe Jackson,One More Time,7hpMOi8IWXFJ7WUQcrcwEN,7,2001,power-pop,0.564,0.821,7,-3.652,0,0.0316,0.0352,3.6e-06,0.216,0.962,91.92,197960,4
+The Knack,"My Sharona - Live in Los Angeles, 1978",5BxMgyV1H7vDGls9hxrQ6n,4,2012,power-pop,0.362,0.846,7,-9.708,1,0.057,0.0116,0.633,0.954,0.508,152.028,387547,4
+World Party,Waiting Such A Long Long Time,2tgGVcazPRD8gl7HV4mk4L,8,2012,power-pop,0.502,0.815,4,-5.775,0,0.0331,0.496,6.1e-05,0.309,0.349,132.98,237707,4
+Matthew Sweet,Faith in You,3LnyfTJkhJlefSwSqqbAjm,3,2014,power-pop,0.458,0.741,9,-5.887,1,0.0458,0.000107,1.69e-05,0.0774,0.479,128.653,212027,4
+Uni Boys,Tired of Yourself,0GNlwO41kFA5Q3aV6Bosf3,2,2020,power-pop,0.562,0.63,5,-10.789,0,0.144,0.000995,0.683,0.135,0.886,123.081,147119,4
+Hoodoo Gurus,Hung Out To Dry,2rehV1aqWrWI4YiVBkOWF7,17,2020,power-pop,0.549,0.964,4,-3.303,1,0.0936,0.118,1.09e-06,0.246,0.614,116.988,214151,4
+Paul Collins,Helen,6w1Z9mJs0BbDdxxJXeSc59,0,2006,power-pop,0.506,0.903,9,-5.239,0,0.0336,0.000228,2.43e-05,0.197,0.711,141.863,188160,4
+The Muffs,I Don't Like You,6ZBxz2QmpIJdVY1jOyaSfz,11,2012,power-pop,0.32,0.933,7,-4.641,1,0.0676,3.36e-05,0.000954,0.353,0.684,121.38,120107,4
+Huntingtons,Innocent,1SMNXzev4WmLaXPm5p9e0A,2,2020,power-pop,0.469,0.824,9,-5.285,0,0.058,0.0117,0.0,0.273,0.606,169.553,220938,4
+The Red Button,It's No Secret,4P9HtJaJeQCUVqEtCmNC99,0,2017,power-pop,0.642,0.815,8,-3.917,1,0.0253,0.00912,0.000223,0.129,0.639,113.016,220951,4
+Pink Lincolns,Sleeping Song,6Ozt2lFtENwNEkdTygR6k7,0,2012,power-pop,0.264,0.909,0,-5.668,1,0.267,0.00872,0.000489,0.868,0.398,174.919,180160,4
+The Unlovables,Let You Go,2cBo5Vh4lqr76h82ywJG33,3,2007,power-pop,0.386,0.872,1,-2.76,1,0.0345,0.0067,0.0,0.0758,0.807,177.927,216253,4
+Swingin' Utters,15th and T,4ORsUvSOd2EFNRQeuU7iVY,3,2004,power-pop,0.349,0.989,1,-7.862,0,0.069,0.000303,2.77e-05,0.382,0.185,111.379,122867,4
+Dwarves,Act Like You Know,2aLfizyfUoklw0kU4ObQ9u,8,2000,power-pop,0.33,0.971,9,-4.032,1,0.103,0.00274,0.000162,0.855,0.107,91.204,109427,3
+Chris Stamey,Desprate Man (feat. Yo La Tengo),6Q4FBdY3raKcDIAbqFiJrr,0,2004,power-pop,0.611,0.908,9,-5.005,1,0.0321,0.0343,0.0719,0.0869,0.848,132.627,201240,4
+Ron Sexsmith,Worried Song,7nP9b8fCLltQkFXWkRXJGy,12,2017,power-pop,0.601,0.454,3,-8.481,1,0.0265,0.661,0.0,0.099,0.395,126.917,203595,4
+Hoodoo Gurus,Early Opener,4FRYMQm1xagDcnOyQVEe1i,12,2022,power-pop,0.47,0.201,2,-14.834,1,0.114,0.314,0.0299,0.259,0.358,142.14,57226,4
+The Records,The Same Mistake,58cKDryjgPW3Ievt3vibbT,1,2009,power-pop,0.158,0.85,3,-7.834,1,0.0961,0.177,3.21e-06,0.913,0.514,143.22,248067,4
+Retarded,"I Don't Wanna Be Trained - 7"" Version",1WHK6uXAAwnK8FGiNqRbtO,0,2001,power-pop,0.154,0.891,4,-5.433,1,0.0484,0.000103,0.000206,0.187,0.853,186.84,189840,4
+The Records,Insomnia,3lDDNAx5I7uxVw7GlEi0Fu,2,2009,power-pop,0.235,0.924,10,-7.305,0,0.128,0.295,1.22e-05,0.719,0.205,85.417,161293,4
+Todd Rundgren,We Gotta Get You a Woman - Live,3OgtpcbIgsvHeRXCgi9FZb,17,2023,power-pop,0.494,0.676,0,-8.012,1,0.0335,0.275,3.73e-05,0.814,0.587,122.675,208632,4
+The Donnas,I Don't Wanna Go,4BTrDndWoRvNkohKDZkJtB,7,2020,power-pop,0.466,0.954,4,-2.261,0,0.0346,0.00117,0.938,0.215,0.957,95.401,90893,4
+that dog.,Old Timer,4bhU24LIEs4tyVqWbhwBAl,3,2019,power-pop,0.371,0.894,4,-8.029,1,0.0702,0.00173,0.0143,0.234,0.249,123.653,130707,4
+The Davenports,You're on Your Own,3StfXdH3KWNzDgU1epirQR,0,2000,power-pop,0.511,0.181,7,-13.043,1,0.0285,0.27,0.0156,0.243,0.302,106.809,207240,3
+Van Go,Greener,0LstWDl7kV4uHsN6EoVvzW,0,2005,power-pop,0.423,0.929,4,-3.698,1,0.0504,0.0774,0.0,0.235,0.377,156.168,106960,3
+Jeff Rosenstock,Comes a Time,0vj1cURX9g0WUrvmTzOR6I,24,2022,power-pop,0.59,0.622,0,-8.141,1,0.0294,0.00806,3.32e-05,0.345,0.267,167.078,190501,4
+Sloan,Someone I Can Be True With,3lXolgFBRMmpshU7o2z17Y,5,2007,power-pop,0.427,0.842,9,-6.088,0,0.102,0.00131,0.0,0.637,0.483,123.724,92520,4
+Team Stray,Iron Maiden,5aEJ3ZUJc60eOu0AzRUXGK,0,2008,power-pop,0.464,0.969,0,-2.006,1,0.0483,0.000348,2.42e-05,0.299,0.686,92.198,129787,4
+Sinkhole,Spooge,6s8UAKaJlfI8jF7651o9SX,0,2000,power-pop,0.434,0.99,7,-9.884,1,0.0521,3.46e-05,0.538,0.28,0.51,102.098,130450,3
+The Queers,Psycho Over You,0Zuo1VOtd9hMsgvX6AoiiC,17,2002,power-pop,0.482,0.92,7,-4.202,1,0.0326,0.0266,0.0,0.415,0.779,92.881,153040,4
+LMNOP,Fix My Wagon,6P3yRcRD5FVkNOCkS0PjDX,0,2000,power-pop,0.633,0.927,9,-1.908,1,0.0307,0.105,0.0213,0.312,0.978,146.187,105013,4
+NRBQ,My Girl,1vjwYysIBVrDIRc0RnWUx2,1,2003,power-pop,0.668,0.558,7,-11.461,1,0.0435,0.542,5.06e-06,0.884,0.872,108.423,175640,4
+Retarded,"Stupid Girl - 7"" Version",3WTt6llOyYXs185TkKpQhk,0,2001,power-pop,0.47,0.854,4,-6.684,1,0.0322,0.00644,0.0131,0.225,0.777,100.163,189933,4
+Fountains Of Wayne,Revolving Dora,4910IQhbyYHTKNj5FpXChw,12,2007,power-pop,0.543,0.942,2,-3.835,1,0.0484,0.000272,3.83e-05,0.32,0.774,136.778,161707,4
+Joe Jackson,Blue Flame,02sOobEMA9eR7jsSUZEY2G,5,2003,power-pop,0.65,0.388,9,-9.979,1,0.031,0.0859,0.000261,0.105,0.155,118.018,323040,4
+The Smithereens,Tracey's World,2zjxqookainIxcv0LPW1DQ,6,2020,power-pop,0.522,0.865,8,-6.944,1,0.0341,0.0194,0.0217,0.096,0.847,138.239,241627,4
+Old 97's,Time Bomb - Live,3ilW5EyNsP5T7CtEiWlVTF,7,2005,power-pop,0.247,0.946,0,-5.541,1,0.156,0.102,9.18e-06,0.778,0.335,130.657,288200,4
+Robyn Hitchcock,Everybody Needs Love,0DDie1r8N3bVP1O3nmQ8Ee,3,2004,power-pop,0.432,0.426,9,-8.794,1,0.0291,0.358,0.00022,0.128,0.47,133.484,197187,4
+The Len Price 3,You Tell Lies,1rHaJ2rAuKhRekAvc2Sa7C,1,2010,power-pop,0.198,0.969,9,-2.871,1,0.0658,0.00156,0.0,0.377,0.609,160.097,122280,4
+The Riptides,The Creature That Ate My Brain,1cJ4TvEyr4rokZyBzhCnGF,1,2002,power-pop,0.349,0.893,1,-4.66,1,0.26,2.29e-05,0.00721,0.0934,0.476,95.909,118707,4
+The Donnas,5 O'Clock in the Morning,56CrBA6WReeDOVbuhNfRpB,15,2003,power-pop,0.494,0.889,11,-4.375,0,0.0374,4.3e-05,0.00173,0.22,0.942,158.843,251800,4
+Screeching Weasel,Trance,4f9s9xlCnkRqUOpj88blls,12,2023,power-pop,0.259,0.981,11,-6.238,1,0.0685,7.37e-06,0.489,0.0718,0.721,162.684,134880,4
+Parallax Project,Days Like These,2bZgSFzyOQnTitQRXYKqkN,0,2006,power-pop,0.587,0.855,7,-4.252,1,0.033,0.155,9.82e-05,0.0883,0.962,91.064,156027,4
+Smoking Popes,It's Never Too Late (For Love),69RiTxxJaMGW5HoVkgq1O5,2,2008,power-pop,0.519,0.537,6,-7.457,0,0.0271,0.0349,0.0,0.123,0.572,161.108,253907,4
+Smash Palace,I Want to Tell You,0FJ2hkN39gvzukT9qUWsve,0,2008,power-pop,0.547,0.735,8,-5.959,1,0.0339,0.0131,0.00448,0.153,0.426,126.301,180107,4
+Sunflower Bean,Moment In The Sun - Bonus Track,0yqGaBZ0r4av8o40knrpjz,39,2022,power-pop,0.687,0.632,2,-5.14,1,0.0309,0.0572,0.0,0.257,0.559,115.987,189635,4
+The Jellybricks,Sold,709DUHOqd3mLDitPjpYksd,0,2012,power-pop,0.54,0.76,7,-4.558,1,0.0404,0.103,0.0,0.143,0.617,124.002,203107,1
+The Briefs,Sex Objects,4BaWQf0ytFPFD36SjYILfD,8,2022,power-pop,0.148,0.977,11,-3.581,0,0.0931,0.000123,0.0,0.302,0.413,202.535,162293,4
+New York Dolls,Give Her a Great Big Kiss,1tXeeyxsJ9zfpxkeSQTgP2,8,2013,power-pop,0.322,0.852,9,-5.65,0,0.0705,0.000104,7.89e-05,0.928,0.449,92.775,312067,4
+Parallax Project,Suddenly California,2fbQibXcBKYLxySg9eGsf1,0,2009,power-pop,0.659,0.645,2,-4.893,1,0.0335,0.0068,0.0,0.0917,0.689,120.355,233227,4
+Cheap Trick,Blackberry Way,6DqZJxDbwlZ5Ffj7extcCz,9,2017,power-pop,0.619,0.858,0,-3.829,1,0.0269,0.0542,1.41e-05,0.317,0.536,106.959,193720,3
+The Lemonheads,Become the Enemy,6j5zfyccCBrfA25A7WwdzB,18,2006,power-pop,0.276,0.911,4,-4.635,1,0.102,0.00648,0.0,0.242,0.391,107.897,234867,3
+Todd Rundgren,Drive,3wwLFU2p8NMPzYzuhbHqSt,4,2003,power-pop,0.472,0.784,1,-4.779,1,0.0405,0.000232,0.0235,0.0498,0.425,117.302,315933,4
+The Fire Apes,All The Right Things,3Jqs9qHUXhUXvEbqdv94xz,0,2005,power-pop,0.723,0.796,6,-6.384,0,0.0493,0.0752,0.000252,0.0447,0.843,129.791,177707,4
+The Muffs,The Kids Have Gone Away,2ftihTSz7pu7X0093kfgZx,2,2019,power-pop,0.279,0.925,2,-5.545,1,0.066,0.0374,0.128,0.296,0.369,130.004,199558,4
+Guided By Voices,War of the Devils,0KUaXfQj4b7NDU9poC3aDD,4,2020,power-pop,0.467,0.73,9,-6.199,1,0.0321,0.035,0.668,0.169,0.119,103.857,152033,4
+Todd Rundgren,I'm so Proud / Ooh Baby Baby / La La Means I Love You / I Saw the Light - Recorded Live in Dallas 1985,2ro9UXVOoXFS7QCz46NCu4,0,2003,power-pop,0.339,0.603,7,-7.899,1,0.048,0.562,0.0,0.693,0.374,116.746,695467,4
+Blondie,Mile High,5fH2AeAQrabqJi7MTPSqTr,10,2013,power-pop,0.68,0.763,5,-4.673,0,0.0352,0.16,7.24e-06,0.255,0.698,129.016,218595,4
+Screeching Weasel,Three Lonely Days,0BzvrmVTKrVSsLMy8zpjWB,10,2011,power-pop,0.589,0.972,8,-2.928,1,0.0383,0.00511,0.0,0.0389,0.611,106.55,164427,4
+Squeeze,If It's Love (Live at the Fillmore),6aQHdyheoWpi5fn29HLFei,5,2021,power-pop,0.472,0.928,2,-5.632,1,0.0587,0.17,2.01e-06,0.714,0.256,124.294,226973,4
+The Connection,I Think She Digs Me,3Hj8Vkf1i35egoCQitEHLg,1,2012,power-pop,0.442,0.838,4,-4.432,1,0.0302,0.00185,1.99e-05,0.0686,0.759,149.095,159321,4
+The Queers,Keep It Punk,6BfWt4Rz9RYf3zAIk1Q0sL,3,2010,power-pop,0.428,0.943,6,-7.238,1,0.0601,4.77e-05,0.000882,0.0812,0.748,130.19,122707,4
+Velvet Crush,Live For Now,2cM8QgqkxByVEKfyjXhgIV,0,2001,power-pop,0.462,0.963,2,-4.79,1,0.0518,0.0424,0.00117,0.301,0.638,130.902,249760,4
+Jason & The Scorchers,If Money Talks,2do5cya7VhSK0lZ8k5WGjO,20,2008,power-pop,0.299,0.985,7,-3.008,1,0.103,0.0168,0.000204,0.339,0.349,175.934,155093,4
+Superchunk,Rainy Streets - Live,20vs31xzBW9DQtfLMnyWSe,0,2002,power-pop,0.499,0.626,9,-9.551,1,0.0314,0.135,0.00439,0.332,0.716,134.402,139533,4
+Screeching Weasel,Automatic Rejector,6oXniq6R6aPa4TlXKgHHVc,9,2018,power-pop,0.537,0.882,1,-4.506,1,0.0419,8.77e-05,0.0,0.302,0.532,109.703,109296,4
+Kurt Baker,Girl's Got Money,4stueAtLslO1pvwa2vQUEB,0,2017,power-pop,0.373,0.986,9,-3.959,1,0.192,0.012,0.0,0.469,0.407,141.401,168107,4
+Dan Vapid & the Cheats,Anti-Science,5CVkg26F1NyhsOem6Tdat5,4,2022,power-pop,0.566,0.815,0,-12.418,1,0.0528,0.00125,0.0,0.423,0.471,140.042,225214,4
+Richard X. Heyman,Diminishing Her Return,2Vezy1J3S08IL6kTh4tTpK,0,2002,power-pop,0.538,0.732,6,-4.08,1,0.0287,0.726,0.0,0.156,0.63,128.537,163893,4
+Mooner,The Stand-In,2FOdFh6dGEpSO20cdXGKrw,0,2018,power-pop,0.543,0.613,2,-6.732,1,0.0277,0.00177,0.128,0.21,0.317,105.919,206634,4
+Nerf Herder,WTC #7,2oN1Ajk8q40qr4whukmUAR,4,2008,power-pop,0.533,0.913,0,-3.955,1,0.0713,0.145,0.0,0.136,0.321,138.049,194267,4
+Chris Stamey,The Kurdish Shepherd,5m5f34G7fic0aY1TqawrfU,0,2021,power-pop,0.405,0.346,4,-17.697,1,0.0402,0.392,0.353,0.0964,0.312,102.948,247973,4
+Mach Pelican,Airport,6LgPVnMPtJRcnC8pWSOkdk,0,2001,power-pop,0.435,0.803,7,-4.69,1,0.0395,0.281,0.0,0.0924,0.672,159.127,227173,4
+The Red Button,Genevieve,6Imz7dmuK17ejn6DaReUdJ,0,2017,power-pop,0.562,0.611,0,-5.391,1,0.0261,0.174,1.1e-06,0.0894,0.42,97.92,165013,4
+The Flashcubes,I Can't Stop Wanting You,3wQzTtp1k7D801rNed0hzs,0,2012,power-pop,0.499,0.783,9,-6.424,1,0.034,0.00489,0.000211,0.144,0.547,109.94,254413,4
+The Replacements,Bastards of Young,3tKPMw45GlDWc4SjIaVidz,5,2013,power-pop,0.411,0.956,4,-5.447,1,0.159,0.0245,0.0,0.371,0.311,142.926,217067,4
+Lane Steinberg,Pussytalk,37o9cdtEE6FhqFOB6008Yy,0,2010,power-pop,0.586,0.953,5,-3.604,0,0.133,0.163,0.00174,0.368,0.839,166.831,215987,4
+The Nines,She Hijacked Me,5EeFfufxmgjAUHorfSRo9w,1,2007,power-pop,0.483,0.874,5,-5.491,1,0.0364,0.0198,0.0,0.2,0.881,78.569,134987,4
+Sloppy Seconds,Radio On,7yBFdaZdZqON41Ieswe27h,5,2006,power-pop,0.173,0.721,5,-11.258,1,0.0432,0.000345,0.0359,0.237,0.812,188.858,198067,4
+The Young Fresh Fellows,Tad's Pad,7xSzLGUuyWdMEbCckJ0Gs0,0,2012,power-pop,0.564,0.931,9,-5.087,1,0.0993,0.0561,2.42e-06,0.317,0.479,131.117,121307,4
+Cliff Hillis,Good Morning and Goodnight,399qiZBvgOvP0Of2D6M6cR,3,2022,power-pop,0.694,0.701,5,-8.262,1,0.0268,0.0536,0.0042,0.313,0.822,117.037,202051,4
+Nerf Herder,Santa Has a Mullet,13Wo30Jy4nryA1H1RBKrUB,7,2007,power-pop,0.478,0.907,9,-3.567,1,0.0437,0.0577,2.65e-06,0.111,0.712,145.747,139040,4
+Fast Eddy,Kill City,0JTOOZkBUIvpXSf28El0MM,8,2022,power-pop,0.436,0.943,2,-4.404,1,0.0362,0.000949,2.45e-05,0.276,0.613,167.027,191317,4
+Frank Black,Road Movie To Berlin,3b5tmZNhkvuAL7vWRvbQEb,4,2006,power-pop,0.568,0.575,5,-10.166,1,0.0429,0.653,3.2e-06,0.0613,0.595,118.535,149200,4
+Richard X. Heyman,And Now It's All This,6dlqLJtfp62hhJKbYkaxPl,0,2019,power-pop,0.626,0.802,7,-5.379,1,0.0271,0.00173,0.0904,0.278,0.642,121.998,221117,4
+Superdrag,Ready to Go,23YGW7dE63gMGfHXFyZ4Q8,1,2015,power-pop,0.365,0.88,0,-4.941,1,0.0353,2.1e-05,0.00164,0.33,0.547,142.105,214599,4
+Hammered Satin,Rad Cat Records,3uFcj3hzEIV8aHCORfMfOn,0,2018,power-pop,0.386,0.678,4,-14.077,1,0.0448,0.0544,0.0522,0.656,0.699,141.562,129195,4
+Nick Lowe,Poor Side of Town,0iooMhZKmSIQ9qfjz5degT,8,2021,power-pop,0.674,0.574,4,-9.955,0,0.0362,0.655,0.024,0.201,0.59,98.567,231360,4
+The Carmines,Too,46DiORnUIuGpy3mpPIneAc,0,2002,power-pop,0.139,0.989,2,-4.244,1,0.117,0.0053,0.0,0.15,0.229,217.54,150960,4
+The Flashcubes,Catherine,6BuUL3kkhvHQQMlwhc3iDy,0,2003,power-pop,0.3,0.84,6,-5.221,1,0.0473,4.32e-05,0.00414,0.345,0.395,163.277,264520,4
+George Usher,Drifting in and out of Sleep,2bzcC9elTG3FP9QWuYaNwl,0,2018,power-pop,0.653,0.401,7,-12.124,1,0.0285,0.31,0.0,0.126,0.577,112.063,138272,4
+The Well Wishers,Over and Under,0DwnIXEPBvA8yL0NKLKpPN,0,2014,power-pop,0.331,0.826,1,-4.547,0,0.0304,2.26e-05,7.63e-06,0.17,0.67,171.31,162050,4
+The Shivvers,When I Was Younger,2QhzSB2bKVyeozxpkxaOVb,2,2006,power-pop,0.535,0.947,11,-8.08,1,0.0774,0.0218,0.207,0.195,0.477,140.709,177240,4
+Chris Stamey,Skin,7G18RNDHAzoGykfaR4kxUp,0,2013,power-pop,0.632,0.32,6,-10.651,1,0.028,0.779,0.0,0.1,0.169,115.085,206162,4
+The Yum Yums,New York City,42rQgTptz1KMIwEwUO43Tc,0,2009,power-pop,0.397,0.875,7,-6.912,1,0.0617,0.27,2.66e-06,0.575,0.704,103.86,161507,4
+Todd Rundgren,Time Heals - Live,4E9lhgY2l4o1cEppqZVdpt,11,2011,power-pop,0.262,0.8,10,-10.698,1,0.262,0.474,0.000284,0.935,0.33,130.008,391899,4
+The Dollyrots,Everything,2ZVsepXjpvWmajHp5bQsgZ,20,2019,power-pop,0.445,0.942,10,-3.589,1,0.0646,8.95e-05,0.0188,0.319,0.872,180.003,183911,4
+Irwin,Say You Don't,0P0qXEQn1nafpQopOtahUB,0,2018,power-pop,0.285,0.937,1,-4.081,1,0.0583,0.0557,0.00432,0.0772,0.621,189.799,249374,4
+The Kowalskis,Uncontrollable Urge,3TIHvoccWiXPI8z9i2QChv,2,2000,power-pop,0.217,0.961,7,-7.999,1,0.0622,0.00138,0.00583,0.356,0.725,188.138,185933,4
+The Queers,Baby Face Boo Hoo,5ffS6ZmSdikp0YmMDJkkzR,2,2015,power-pop,0.372,0.932,7,-5.31,1,0.0659,0.00738,0.000136,0.231,0.766,146.074,193973,4
+Your Gracious Host,Can't Feel You Anymore,669KtY8q7moleMwAkojHA7,0,2013,power-pop,0.368,0.738,1,-6.154,1,0.0333,0.0337,1.54e-05,0.108,0.201,128.912,222564,4
+The Replacements,"Anywhere's Better Than Here - Live at University of Wisconsin-Milwaukee, WI, 6/2/1989",7hdehO1qK2teRu5zD0K9VX,5,2019,power-pop,0.405,0.948,4,-7.486,1,0.0567,0.00147,0.000141,0.99,0.378,144.051,155747,4
+Weezer,Angels On Vacation,3ZGnO3GsbtjP1wnpwViXnY,31,2022,power-pop,0.414,0.498,7,-7.23,1,0.0383,0.0438,5.31e-05,0.523,0.439,126.174,205120,4
+Guided By Voices,I'll Get over It,7pN8lr8vGuXU8CxOu3FmRB,2,2005,power-pop,0.396,0.823,0,-6.532,1,0.0557,0.0368,0.488,0.222,0.445,78.738,39680,1
+The Genuine Fakes,Earnest Endeavor,5flO33yav5G5oDzFlENLgH,0,2011,power-pop,0.476,0.524,9,-7.555,1,0.0286,0.0211,2.04e-05,0.365,0.39,128.0,263375,4
+The Epoxies,Tragedy,4S4eW8j6RCodrnDB03Hsq7,2,2007,power-pop,0.358,0.941,2,-4.666,1,0.0567,7.27e-06,0.813,0.257,0.341,95.332,114360,4
+The Ergs!,You Bet We've Got Something Personal Against the Steinways,0uAwwhFxNDo2hKpbKnhqSy,4,2009,power-pop,0.153,0.968,1,-5.36,0,0.0975,4.36e-06,0.00599,0.287,0.509,216.171,47240,4
+that dog.,Westside Angst,7b3giX3iRyNMDa9SALV2Vx,3,2019,power-pop,0.429,0.856,4,-8.488,1,0.0698,0.0034,0.000758,0.107,0.661,127.302,110109,4
+Cloud Eleven,Waiting There Without You,1gRL8UeTkhEKNe7NaucpOx,0,2004,power-pop,0.467,0.577,1,-7.782,1,0.0298,0.743,1.33e-05,0.188,0.527,105.937,188000,4
+Teenage Bottlerocket,Statistic,7Kx4fjuwJGn3SkzamcjtvK,17,2021,power-pop,0.421,0.979,9,-2.799,0,0.0626,5.24e-06,0.834,0.219,0.141,85.024,183333,4
+Todd Rundgren,Sweet,3nV2uqC0Tj6WWAoQ6Jv9ob,8,2004,power-pop,0.555,0.788,7,-7.511,1,0.0279,0.56,0.000306,0.604,0.871,109.331,352923,4
+Masked Intruder,Hello Beautiful,2IsnWvRlyWLAeN6xShjAZq,18,2012,power-pop,0.579,0.783,2,-6.854,1,0.146,0.00226,0.111,0.664,0.203,107.103,173267,4
+The Genuine Fakes,Issues,3V3pk3H6Fva2NFdtr89PyR,0,2018,power-pop,0.609,0.882,7,-5.008,1,0.0298,0.0028,3.71e-05,0.122,0.842,126.12,204307,4
+David Myhr,Get It Right,52bjSIK2Fm0WNDzThnr909,0,2012,power-pop,0.544,0.768,10,-7.53,1,0.0311,0.095,0.000613,0.123,0.516,120.143,283120,4
+Velvet Crush,Used To Believe,6m4pfjnhUdZOe7KC7JAZQD,0,2001,power-pop,0.46,0.947,4,-5.136,1,0.05,0.00759,0.222,0.11,0.678,124.703,335720,4
+Mike Viola,Number Crunch,4HD2pLnoZRgRHFNGahK4JT,2,2005,power-pop,0.376,0.27,5,-11.481,1,0.0317,0.915,0.000497,0.687,0.297,77.486,180733,3
+The Gamits,Unknown #4 - Live,2P8m51xad5no6JjkJXHDyT,0,2002,power-pop,0.403,0.981,1,-8.749,0,0.0804,4.38e-05,0.943,0.335,0.349,127.435,26360,1
+Off With Their Heads,Broken Songs,6C2HQ3nrBAR1gD5NS3PX3h,6,2020,power-pop,0.484,0.936,4,-9.58,1,0.0642,0.311,0.612,0.077,0.0755,124.561,195396,3
+The Prozacs,Dreaming Again,6FESJmHpIJ2h2mjyG8CvDC,0,2014,power-pop,0.176,0.943,2,-4.483,1,0.115,0.000152,4.35e-05,0.127,0.52,168.616,200973,4
+The Briefs,She's the Rat,0nHLfKXYznC53Y3tBdRqh8,9,2019,power-pop,0.444,0.931,8,-4.804,1,0.0719,0.000129,9.39e-06,0.303,0.617,85.516,132920,4
+Dwarves,Dominator - Win Friends Version,3Hh8qT4MnL75dZAT5tGRKn,12,2002,power-pop,0.332,0.981,9,-2.882,1,0.111,0.0314,0.0,0.445,0.611,166.563,58893,4
+F.Y.P,Animals,60zCqwnh3aV8kmEWRSCZ3V,2,2000,power-pop,0.398,0.944,0,-5.027,1,0.097,0.000132,0.000216,0.351,0.852,92.769,85133,4
+PoP is ArT,Dangerous,4q7l5y1Yq2U6EwseagZtcr,0,2003,power-pop,0.721,0.563,0,-8.985,0,0.0286,0.25,0.0,0.142,0.568,129.938,255280,4
+J Church,Quickstep,6CeITZtmdYZIMxGUBNghJg,1,2000,power-pop,0.457,0.91,0,-9.813,1,0.0558,0.00193,0.000146,0.186,0.656,147.539,146640,4
+The Queers,Blabbermouth,2pCIhg81cGzkvvavuG693g,2,2001,power-pop,0.34,0.981,2,-6.171,1,0.073,0.000287,0.788,0.111,0.706,145.08,85400,4
+Beatnik Termites,All Messed Up,0jQ1629JYuVZ6MpOBuwgTT,1,2018,power-pop,0.39,0.948,7,-5.451,1,0.0705,0.000134,0.0487,0.109,0.867,172.142,132806,4
+Teenage Fanclub,Everything Is Falling Apart,4uJPyZnCuw3TGyf6wPWPc3,6,2021,power-pop,0.523,0.64,2,-11.79,1,0.033,0.0148,0.0069,0.109,0.416,125.232,268174,4
+Off With Their Heads,My Own Summer,3Gdpj9CAqawvTmssGG9haH,9,2020,power-pop,0.36,0.888,9,-6.877,1,0.0501,0.000169,0.000605,0.456,0.342,72.014,229848,4
+The Feelies,Two Rooms,0qj090uP8h040XpNEy55Ju,15,2009,power-pop,0.368,0.792,2,-10.393,1,0.0382,0.294,0.851,0.114,0.632,141.169,155653,4
+The Del Fuegos,Fade to Blue,4XXPB9HokL0FDaxicondQj,9,2001,power-pop,0.624,0.385,9,-13.619,1,0.025,0.162,1.32e-05,0.318,0.737,90.225,232907,4
+Mach Pelican,Had to Be,4JPDxzSZfzioLf3IOw3ndW,0,2001,power-pop,0.522,0.957,9,-4.441,1,0.0341,0.0233,0.0,0.227,0.844,100.184,193600,4
+Direct Hit!,"Through the Windshield, Holding Hands",40SegemgRchekAlp6ql9HN,6,2015,power-pop,0.478,0.895,8,-5.225,1,0.0294,0.000141,0.0057,0.318,0.895,95.992,183999,4
+Myracle Brah,Dying 310,2pq0ey0VgfxcUdjOTpqaB0,0,2013,power-pop,0.534,0.574,7,-5.887,1,0.028,0.0092,0.0051,0.0621,0.465,74.822,226373,4
+Matthew Sweet,Big Brown Eyes,1wwYTEE6TNEegOXBkppE9h,4,2013,power-pop,0.575,0.799,2,-8.152,1,0.0574,0.00363,0.0,0.185,0.681,126.845,114093,4
+Bill Lloyd,Lonely You,2iVBQEZGGNtSov4w4x8Qym,0,2011,power-pop,0.263,0.853,9,-5.872,1,0.0481,0.0971,0.681,0.173,0.355,91.942,175227,4
+The Manges,I Will Always Do,2MkyQNj6cUOMcp2Wg1cuAk,6,2004,power-pop,0.347,0.92,5,-3.204,1,0.0447,0.0031,0.0,0.308,0.761,136.804,215307,4
+Swingin' Utters,Almost Brave,3xmitOO0klYPQVqyvWVxfu,0,2003,power-pop,0.447,0.687,4,-9.039,1,0.235,0.459,0.00751,0.177,0.603,109.783,124533,3
+Greg Pope,Waking up Alone,6ONVHasegRgZpLQJPBYOwA,4,2018,power-pop,0.462,0.752,4,-8.254,1,0.0448,0.142,0.0,0.192,0.395,83.539,220157,4
+The Krinkles,Let's Go (fucking raw mix),5q0z31VmhpawGuQRkbwn0e,0,2011,power-pop,0.364,0.807,1,-10.057,0,0.0801,0.0395,0.0258,0.199,0.462,131.914,191870,4
+Johnie 3,Bleach Blonde Girls,3SS96mSWonF0ZArOgqrW0G,0,2011,power-pop,0.252,0.958,0,-6.035,1,0.0474,8.21e-05,0.0,0.779,0.812,203.739,93987,4
+Off With Their Heads,Ten Years Trouble,6BQRM1sk25wQA1LXMTQgf8,18,2008,power-pop,0.448,0.979,0,-5.158,1,0.055,0.000975,1.76e-05,0.363,0.789,101.503,178440,4
+The Methadones,Turning Up the Noise,1yyhhF9r2fR2Vc2DQ4oF7F,6,2007,power-pop,0.366,0.903,0,-5.519,1,0.0429,0.000279,0.0,0.372,0.744,186.921,193853,4
+Guided By Voices,Blue Jay House,4IQWSF4Ig0eW2lwE5nfcfU,4,2019,power-pop,0.569,0.769,2,-5.441,1,0.0285,0.0411,0.00143,0.327,0.645,139.944,122180,4
+Squeeze,Going Crazy,46merdyyLSnV6kIIT4iA2s,4,2008,power-pop,0.546,0.772,2,-11.195,1,0.028,0.000661,0.0254,0.0849,0.819,141.102,234747,4
+The Lillingtons,Stay Tuned,657Iynsqb0kwBELMmnCxgT,14,2006,power-pop,0.481,0.941,0,-3.361,1,0.0414,0.000236,0.0568,0.301,0.867,98.455,117867,4
+Graham Parker,Dreamin',69EScyHtGesZ91MRNSp5g6,6,2018,power-pop,0.656,0.53,9,-7.001,1,0.0278,0.144,6.78e-05,0.368,0.837,102.835,150440,4
+Splitsville,The Mentalist,5fWVkiffFUpZDjwLTsLz2B,0,2004,power-pop,0.621,0.46,4,-9.481,1,0.0269,0.195,0.00126,0.0863,0.0437,121.099,293893,4
+The Scutches,Not My Fault,0JHYeJhSGKrC5rOXQkTNof,0,2010,power-pop,0.492,0.968,7,-5.366,1,0.0678,0.000106,0.0,0.175,0.723,112.478,102240,4
+The Queers,Brian Wilson,350uvaDloB9gLYNIfXxKC9,3,2007,power-pop,0.519,0.648,7,-4.538,1,0.0319,0.0112,0.000634,0.0979,0.717,127.044,152213,4
+Magnapop,Pilgrim's Prayer,1s3qbQVhlbxQg1Q9Co3unJ,0,2005,power-pop,0.33,0.7,0,-12.184,1,0.0291,0.000143,0.0,0.0644,0.893,139.971,148840,4
+Cotton Mather,Lost My Motto,0Ky8Zj0Da83iJPsepZgz1N,3,2007,power-pop,0.429,0.894,4,-6.09,0,0.0659,0.0269,3.3e-06,0.0616,0.544,141.773,220827,4
+Luna,4000 Days,3yTCuAEguPm3SJpQ2xmG5W,3,2000,power-pop,0.433,0.701,7,-10.27,1,0.0329,0.212,0.559,0.884,0.608,129.893,252933,4
+Useless Children,In Dreams,6lM5jFvcNRmpMPcoat3NS1,0,2012,power-pop,0.316,0.55,9,-8.02,1,0.0513,0.00188,0.847,0.139,0.384,81.629,124495,4
+Soul Engines,Understand You,6tFOto9R1AHTTD3tDOWUxu,0,2001,power-pop,0.362,0.803,6,-3.345,0,0.0576,0.00436,1.23e-05,0.0761,0.491,102.09,163533,4
+Elvis Costello,Revolution #49 - Parlé,5NAKi5yPI1hD1DBZysrmPh,8,2021,power-pop,0.306,0.249,5,-12.777,1,0.0352,0.251,0.685,0.115,0.0345,132.322,162544,1
+Secretions,Green Eyed Killer,1FLq8rRpUey1s5HcqozZJS,0,2009,power-pop,0.281,0.903,7,-5.48,1,0.0706,0.000143,0.068,0.364,0.812,179.179,132773,4
+Brendan Benson,Dear Life,3H9CgC890QkD4DyYm6YZst,15,2020,power-pop,0.41,0.7,6,-5.57,0,0.0413,0.0105,0.0,0.143,0.51,169.932,199133,4
+The Grip Weeds,Someone - Live,3SGCFwKKxeFneurH32d89N,0,2007,power-pop,0.597,0.713,2,-8.118,1,0.0281,0.262,1.78e-05,0.12,0.826,140.257,184013,4
+Lannie Flowers,Home,7emPRdu8t3NodwWihnScZY,2,2019,power-pop,0.742,0.467,4,-5.751,1,0.035,0.22,0.0,0.168,0.586,122.063,301775,4
+The Shivvers,Remember Tonight,169aTVvawGAMv2j1VQ4Avk,2,2006,power-pop,0.67,0.597,2,-7.928,1,0.0269,0.296,0.000872,0.15,0.907,124.429,204173,4
+The Donnas,Friends Like Mine,2D79BAoGxFQUjz4h3RkslT,12,2004,power-pop,0.558,0.938,4,-3.987,1,0.0619,0.000861,0.00721,0.165,0.488,139.734,218067,4
+The Speedways,A Double Shot Of You,1O7WTkx374bSwgmg9YellK,1,2019,power-pop,0.479,0.934,4,-3.076,1,0.0352,0.000228,0.00372,0.134,0.927,128.832,161213,4
+Fabulous Disaster,"""Bonus Track""",4DH5dVhbdoY9Agp2dql6HG,2,2001,power-pop,0.4,0.992,6,-2.407,0,0.116,0.00928,0.00356,0.23,0.429,84.264,109920,4
+Joe Jackson,Rockin' In Rhythm,0TPciO0HrNhCE2JeT5mt3u,2,2012,power-pop,0.428,0.875,7,-5.769,1,0.0444,0.0651,0.867,0.0886,0.829,102.868,208147,4
+Berwanger,Spirit World,74dWeWnJq3TlZefMUwLBN6,0,2013,power-pop,0.234,0.763,1,-5.841,1,0.0511,0.145,0.847,0.231,0.513,77.421,221627,4
+Suzy & Los Quattro,Hey Lil' Sister,0Fckzk5Sa9pTGBZVmt1kha,0,2015,power-pop,0.487,0.722,6,-5.021,1,0.0298,0.0126,0.000881,0.113,0.91,154.945,210600,4
+The Methadones,Undecided,4jxOWegNcwZ0eR8Zzs1OcF,10,2010,power-pop,0.511,0.804,9,-5.402,1,0.0692,0.000799,1.71e-06,0.209,0.387,141.899,159960,4
+Nick Lowe,Christmas at the Airport,7N0SUinJGHGOpt92vW9FSN,10,2013,power-pop,0.576,0.754,9,-7.683,1,0.0594,0.0325,3.44e-05,0.354,0.677,122.038,229307,4
+Joe Jackson,Down to London,3WGOhtXyKA6ve0RttZk3Ey,4,2004,power-pop,0.452,0.67,9,-5.866,1,0.03,0.0135,0.0391,0.451,0.207,129.171,308036,4
+Squeeze,Farfisa Beat,4ilRrMOT6c3eaZbtrzxGPN,9,2008,power-pop,0.601,0.854,9,-9.005,1,0.0388,0.000664,0.038,0.13,0.744,110.931,177240,4
+DeeCRACKS,Kill Or Cure,4uQOQNdFmAUs4Jp6Ko7E1V,10,2021,power-pop,0.521,0.926,9,-5.381,1,0.0296,1.52e-05,0.111,0.0826,0.799,102.532,89333,4
+"Joe, Marc's Brother",Sleep My Friend,0xRB6WUoSmKHaPPezwUx51,0,2000,power-pop,0.314,0.773,7,-5.02,1,0.0374,0.00589,0.0,0.135,0.364,157.18,179480,4
+Joe Jackson,Happyland,3imThscHIf5rRWnukcJSW7,5,2004,power-pop,0.317,0.717,1,-8.741,1,0.0327,0.679,0.00379,0.31,0.553,97.152,272067,3
+Luna,Waiting On a Friend,43xt4g5104daSjdeLTvX9y,7,2002,power-pop,0.524,0.538,0,-8.711,1,0.024,0.00196,0.649,0.162,0.568,100.616,286240,4
+Lannie Flowers,Good,3CWSHSEmkze0ZWiCXvbnpn,3,2022,power-pop,0.611,0.803,4,-4.552,1,0.0307,0.000785,2.5e-06,0.0846,0.867,112.023,156932,4
+The Chevelles,Steve Mcqueen (I Wish I Was),6cBbewz20IYplN9rNDUvUe,3,2021,power-pop,0.301,0.801,9,-7.675,1,0.0393,2.93e-06,0.339,0.414,0.455,79.494,208299,4
+Sloppy Seconds,Conned Again,6PA6PCCQ5C2SbsXimhgn4t,3,2007,power-pop,0.314,0.814,9,-7.806,1,0.0466,0.0815,0.0275,0.337,0.541,91.349,139333,4
+Dinosaur Jr.,Keeblin' - 2019 Remaster,2w2H9Iv1q0FMVaCEjSZopQ,3,2019,power-pop,0.439,0.156,7,-18.204,0,0.0316,0.653,0.212,0.344,0.456,150.288,222680,4
+The Rubinoos,What More Can You Ask of a Friend,38h2heUoD5bvFEXnuydGGh,0,2014,power-pop,0.535,0.458,9,-8.268,1,0.0276,0.474,0.0,0.34,0.56,170.158,249960,4
+Dan Markell,Carried Away,7x9VgfguGJTgWBwZ0ZES3M,25,2021,power-pop,0.615,0.729,7,-5.918,1,0.0365,0.00567,4.75e-05,0.521,0.846,133.115,157121,4
+Pernice Brothers,Jacqueline Susann,4rezNFkPrIFWCux00R2lrs,2,2010,power-pop,0.432,0.811,1,-4.447,1,0.0408,8.86e-05,0.109,0.0983,0.649,139.099,138093,4
+The Mice,Little Rage,70RWZ6abMD9wWNppjp8iuI,4,2003,power-pop,0.403,0.868,0,-6.02,1,0.0409,0.0032,0.00673,0.083,0.657,117.112,290653,4
+Ron Sexsmith,Cold Hearted Wind,5zXOUwCeGPMLu1ypoBGPMY,3,2006,power-pop,0.576,0.482,1,-12.21,1,0.0362,0.882,0.000207,0.129,0.468,99.862,220333,4
+The Sugar Stems,Wake Up,3VOun7KhbETSgDuPdHDoLE,0,2010,power-pop,0.248,0.99,7,-4.13,1,0.0668,7.87e-05,2.87e-05,0.172,0.304,90.463,174413,4
+The Hextalls,J.S. Giguere is a Robot,4IKQAA263Z30nGwnQ3Wjl2,3,2008,power-pop,0.376,0.952,4,-3.836,1,0.121,0.000134,0.0,0.172,0.29,106.722,85587,4
+Todd Rundgren,Compassion - Live,706MpvjlpPKzsk1LnooIjE,4,2021,power-pop,0.276,0.333,7,-9.429,1,0.0319,0.856,2.04e-05,0.757,0.333,178.505,314468,4
+Fountains Of Wayne,The Man In The Santa Suit,6L53XfBjY4r4XislKmUdRU,10,2005,power-pop,0.623,0.721,9,-6.578,1,0.0255,0.0525,0.0,0.109,0.948,133.917,160347,4
+TSAR,Conqueror Worm,1SYFFo2zJp3XE5wjvuuOkd,2,2005,power-pop,0.374,0.946,2,-2.276,1,0.0499,0.00154,3.82e-06,0.211,0.307,150.312,220360,4
+Nada Surf,Whose Authority (Live),2W7dcYl038pyOMT5ovRGeD,5,2015,power-pop,0.282,0.954,8,-4.592,1,0.0497,2.26e-05,2.63e-05,0.969,0.537,129.112,156693,4
+The Jellybricks,Got Away,4jnI8pnHCQg80hNpSSyDoZ,0,2004,power-pop,0.379,0.936,2,-3.089,1,0.195,0.0134,0.0,0.301,0.535,170.046,188533,4
+Chris Spedding,Motor Bikin',3Bpr96XRNh6CpVIQnMU3ZI,0,2023,power-pop,0.613,0.874,6,-7.128,0,0.0495,0.0847,9.89e-05,0.081,0.853,156.281,157173,4
+Joe Jackson,32 Kisses,0Fx5XAYpt3udZgs8aYz1Gf,4,2019,power-pop,0.707,0.367,7,-8.461,1,0.04,0.762,0.00715,0.0822,0.103,116.934,268307,4
+Dwarves,Fuck You,3OJ7uVN3AMRYDqcZsQBSxY,4,2010,power-pop,0.433,0.973,2,-4.939,1,0.226,0.0012,0.0,0.0732,0.177,115.864,79467,4
+The Posies,I Finally Found a Jungle I Like,2ljBzSWN7BhubXwqbdtE8e,0,2021,power-pop,0.308,0.918,2,-5.278,1,0.0657,0.000502,0.261,0.13,0.324,129.923,194213,4
+Dan Vapid & the Cheats,Just Like Cleopatra,3wda6XtnAtFeC5s2bEO5ec,14,2012,power-pop,0.464,0.937,11,-3.577,1,0.0386,0.000288,0.0,0.397,0.733,110.005,87412,4
+Mikal Cronin,Feel It All,4vWHetT2wTmKAvSObKPloV,5,2019,power-pop,0.337,0.597,9,-6.05,0,0.0279,0.215,0.00212,0.335,0.277,82.761,298760,4
+The Successful Failures,The Girl Who Never Smiled,5uCOvro1JrfW5HrE6rqhnh,0,2007,power-pop,0.62,0.798,7,-7.318,1,0.0268,0.011,0.829,0.12,0.903,128.979,152680,4
+Cheap Trick,Lovely Rita,6Kjj7bgfxK3n7kFVQRk1tF,5,2009,power-pop,0.248,0.824,4,-5.777,1,0.0541,0.0171,0.0,0.781,0.689,191.263,156360,4
+The Maureens,Mary-Ann,4Yjd7YaKgp1KuFkcxYhscA,0,2013,power-pop,0.491,0.765,2,-4.401,1,0.0296,0.000889,0.723,0.142,0.591,140.0,180333,4
+The Dollyrots,Get Radical,4p9Og5GQGdXjowHppyV7hD,17,2018,power-pop,0.488,0.714,0,-7.277,1,0.0623,4.5e-05,0.0595,0.141,0.416,140.037,163991,4
+Alex Chilton,Single Again,7nQ6RebZvGbumuYDahT66r,4,2017,power-pop,0.558,0.338,7,-13.375,1,0.0438,0.034,0.0,0.291,0.715,133.021,175027,4
+Eytan Mirsky,Somebody To Blame,4YquaoyIoVxkXwmxqEvuRk,0,2001,power-pop,0.642,0.628,5,-4.749,1,0.0304,0.329,0.0,0.138,0.569,107.098,155773,4
+Guided By Voices,Screaming the Night Away,1DKKFNzAMmQEsa0ESG0yes,3,2020,power-pop,0.456,0.815,4,-5.883,0,0.0332,0.00536,9.25e-05,0.614,0.399,99.005,116482,4
+Twin Peaks,Getting Better - Live,0JkXxUOktuYNbF8UvGYZI2,6,2017,power-pop,0.289,0.894,7,-6.613,1,0.0383,0.00349,0.817,0.357,0.657,133.738,155453,4
+The Young Fresh Fellows,The Guilty Ones,5jWq7xrYzCbZ6G9DWTXWW1,0,2009,power-pop,0.559,0.858,11,-6.657,1,0.0303,0.302,0.000113,0.166,0.909,125.324,139427,4
+The Mr. T Experience,My Stupid Life,4RWReW1lD1yObYWkUo1WCO,3,2020,power-pop,0.369,0.907,9,-5.143,1,0.0427,9.84e-05,0.0,0.316,0.89,173.484,144347,4
+Pugwash,LIMERANCE,29Pq2iEM7BFyUp9Tm9b1Rs,0,2008,power-pop,0.509,0.497,4,-10.706,1,0.0281,0.232,0.00344,0.305,0.442,138.883,226627,4
+TSAR,Monostereo (Live on KXLU),3HbHdpG1tOkptgpbYQ6SQL,0,2011,power-pop,0.234,0.909,7,-5.455,1,0.109,0.384,0.864,0.263,0.63,159.576,218147,4
+Mike Viola,So Much Better,0bDliVHAwF5Kayr27Ud5di,7,2007,power-pop,0.658,0.731,9,-5.207,1,0.0299,0.0653,0.000647,0.106,0.893,122.789,110293,4
+The Successful Failures,Sunny in My Head,7f9h98Oh6FvKGfNvsCFkSb,0,2014,power-pop,0.602,0.82,2,-6.671,1,0.0341,0.0481,0.000437,0.0661,0.794,126.312,141040,4
+The Gamits,I Don't Wanna Play No More,0JZPlqrZB6395S9S16yK8w,1,2010,power-pop,0.238,0.991,1,-3.273,1,0.124,0.000117,0.00103,0.283,0.202,138.398,143267,4
+Van Go,Rattle in My Brain,6lvY8ARdg2kC4h6Jf76mq8,0,2018,power-pop,0.321,0.967,9,-4.268,1,0.101,0.0446,0.000161,0.35,0.159,149.972,246782,4
+The Boys With The Perpetual Nervousness,Falling Through,2Hk6DiAkleFn55nwppx7ol,12,2021,power-pop,0.494,0.685,0,-7.425,1,0.0276,9.6e-05,0.0527,0.122,0.696,137.371,175295,4
+The Tattle Tales,Lucky Girl,2mI42Ak6y1yuFthVRd6SiX,1,2006,power-pop,0.29,0.92,4,-4.244,1,0.105,0.000516,0.0,0.166,0.474,194.96,124013,4
+Old 97's,Iron Road - Live,62tiv7j5GSJuZuZLWRDu1r,4,2005,power-pop,0.351,0.829,5,-7.317,1,0.0506,0.17,0.000699,0.941,0.695,168.693,227973,4
+Phil Seymour,Precious to Me,3n5Wl27zmieetsaP4VLBFh,0,2018,power-pop,0.717,0.802,11,-7.833,0,0.0284,0.0164,0.0,0.136,0.942,129.808,172733,4
+that dog.,Just The Way,16LSpCpNslxif7Byet0YvB,8,2019,power-pop,0.692,0.649,11,-4.723,1,0.0518,0.0029,2.3e-05,0.288,0.708,103.971,220554,4
+All Day Sucker,Soul Kleptomaniac,61PEgSxfquI9Lg8b42uT8E,0,2004,power-pop,0.588,0.659,1,-4.941,0,0.0672,0.0782,0.0,0.18,0.654,152.023,280507,4
+Matthew Sweet,Run To Me,2i07B1IOYICOmCoG45Xzvy,10,2006,power-pop,0.232,0.499,9,-5.522,1,0.0304,0.0152,0.0,0.105,0.247,146.741,186613,4
+Flamin' Groovies,Dog Meat,0MKSGcSApblZQWFbsNuToo,2,2013,power-pop,0.35,0.782,2,-8.34,0,0.126,0.0907,0.0215,0.123,0.251,170.467,243987,4
+Screeching Weasel,Come and See the Violence Inherent in the System,0sCRXrdGncGaiuqA8qUDIw,11,2011,power-pop,0.563,0.969,2,-3.335,1,0.0437,0.0094,0.0,0.31,0.681,120.989,122867,4
+The Cowsills,Hawks on the Line,5sXAHOiebIDXrOds6UMqHO,4,2022,power-pop,0.455,0.714,2,-8.247,0,0.0299,0.458,0.0,0.182,0.623,94.489,266053,4
+The Plimsouls,Oldest Story In The World,416BxG9416xVKVQrdXDfAf,25,2012,power-pop,0.415,0.806,2,-5.247,1,0.0405,0.557,6.48e-06,0.717,0.211,126.598,217107,4
+Cyanide Pills,Break It Up,2vYUrwZUjZt8mdtMm8lAZh,0,2014,power-pop,0.25,0.929,9,-6.78,1,0.134,0.0253,3.32e-06,0.168,0.659,175.784,126360,4
+Ron Sexsmith,Every Time I Follow,4XX4GwPVnx9m8mZe8d4QVw,9,2011,power-pop,0.43,0.656,0,-5.685,1,0.027,0.179,0.000569,0.219,0.462,139.973,204640,4
+Jim Basnight,Opportunity Knocks,0EC77y7GwEdM15DRwGnp6c,0,2008,power-pop,0.599,0.896,7,-7.574,1,0.0339,0.0141,0.0625,0.0671,0.943,109.351,214893,4
+Superchunk,Kicked In - 2019 Acoustic,0pPX10EIwoyPLRM5CZx0Sd,4,2019,power-pop,0.65,0.594,2,-8.852,1,0.0247,0.145,0.0119,0.103,0.435,98.189,230395,4
+Private Jets,Fireman For A Day,3R1tAK5F4uhuOcnJwXnn0n,0,2008,power-pop,0.516,0.668,2,-6.131,1,0.0315,0.18,0.0,0.105,0.685,130.05,155387,4
+The Rubinoos,"Smile, Be Happy (The Spontaneous Smiley Song)",4JkGmZDByHm9wVeLLMjXs0,0,2011,power-pop,0.688,0.941,0,-3.211,1,0.052,0.474,0.0,0.566,0.968,161.891,144588,4
+Travoltas,She's Gonna Break My Heart in Two,3Wsj3QFoWUpJJ3bReHKDeN,10,2022,power-pop,0.474,0.94,2,-4.77,1,0.0547,0.00527,0.0,0.285,0.904,170.108,141000,4
+Off With Their Heads,Take Me Away,4XqaekYXa9Vm5JK58m5OP3,14,2019,power-pop,0.477,0.913,9,-4.576,1,0.0413,0.000241,0.0036,0.134,0.296,105.018,247707,3
+The Replacements,Alex Chilton,1w4x0bVf3oS1unpPN03LpN,6,2013,power-pop,0.42,0.96,6,-4.876,0,0.0537,0.00368,1.08e-05,0.321,0.762,165.518,193133,4
+The Toms,God Knows,4JHsQUO85ARqrDgUa1nnzJ,0,2008,power-pop,0.575,0.881,2,-4.081,1,0.0295,0.00774,1.84e-05,0.249,0.65,144.985,216491,4
+Bob Mould,Hoover Dam,3K75MBDLgx60Q6MWEQOIO6,3,2010,power-pop,0.373,0.934,11,-4.743,1,0.112,0.0312,0.136,0.705,0.382,112.685,278600,4
+Sunflower Bean,Puppet Strings,6c6DJcfKVlHIFxZDBCkKTf,8,2018,power-pop,0.291,0.618,0,-5.109,1,0.0399,0.000216,0.000615,0.129,0.696,101.333,240973,3
+All,Skin Deep,5A8hEyAeN1rdJbeC1CKqPU,13,2001,power-pop,0.19,0.988,9,-5.409,1,0.273,0.0419,0.0,0.52,0.275,201.856,117227,4
+Young Guv,Livin' the Dream,2zixylwIZ24jALsclhWq5T,5,2015,power-pop,0.487,0.879,7,-3.985,1,0.0343,7.3e-05,0.000806,0.148,0.411,125.002,155368,4
+Pugwash,SUCH BEAUTY THROWN AWAY,2MVnnMK0b4VaGDbtBD3fto,0,2011,power-pop,0.631,0.503,6,-8.884,1,0.0258,0.621,2.33e-05,0.112,0.551,113.987,199747,4
+All Day Sucker,The Big Pretend,3Lrh8d2qjCi3t80m7kW9CU,0,2009,power-pop,0.541,0.688,0,-5.079,1,0.0384,0.476,0.000342,0.371,0.23,120.001,110547,4
+Hoodoo Gurus,Got To Get You Out Of My Life,5GG3nIGF254tKV0ZbRTADk,9,2022,power-pop,0.643,0.641,7,-6.035,1,0.0265,0.119,0.00536,0.105,0.807,112.027,290459,4
+The Jellybricks,Higher Than,3Avmn4xV6wn7CLZDvNQhSk,0,2004,power-pop,0.401,0.96,4,-4.435,0,0.101,0.00814,0.00588,0.38,0.316,154.919,198373,4
+The Prozacs,FYI,2YvjUNLs1V1fmM0uG4O3vM,0,2011,power-pop,0.525,0.981,9,-2.657,1,0.0768,0.000131,0.0,0.446,0.585,139.687,29453,4
+The Records,Hearts In Her Eyes,6Gx90w6pMMSzNVjuw3y99q,3,2009,power-pop,0.211,0.886,1,-7.473,1,0.101,0.0172,1.4e-05,0.415,0.573,130.775,217160,4
+The Tearaways,Not Gonna Make It,4JyT5ZrYpHpn49VuO0R07f,0,2009,power-pop,0.6,0.521,10,-6.121,1,0.0294,0.0241,0.0,0.224,0.57,80.015,225280,4
+The Dahlmanns,Candy Pants,6h4rlNmT2NKsBSwXFz6EGx,3,2011,power-pop,0.456,0.933,4,-5.894,1,0.0471,0.0446,0.00271,0.323,0.722,91.018,184013,4
+The Peawees,'Cause You Don't Know Me,2FoVbCh9E2Wta7V4Sv4Yl5,4,2015,power-pop,0.328,0.955,7,-3.644,1,0.0708,4.64e-05,0.000664,0.418,0.631,161.403,198053,4
+The Boys With The Perpetual Nervousness,Isolation,16SYxKZlGXo0NN418KVVbo,15,2022,power-pop,0.516,0.624,8,-8.729,1,0.0285,0.0316,0.431,0.145,0.805,120.091,168266,4
+Tommy Keene,Alone In These Modern Times,3UhsTFU7b3gV4USV2G3Mk4,1,2015,power-pop,0.47,0.825,0,-5.932,1,0.0309,2.04e-05,0.0,0.0888,0.238,112.065,175773,4
+Chuck Prophet,Rider or the Train,7uShEbaSPNHzehHYTgjqi8,10,2017,power-pop,0.553,0.701,8,-3.724,1,0.0361,0.2,3.5e-05,0.0926,0.582,125.148,173707,4
+Guided By Voices,"Oh, Blinky",7bOSalbBKn6ZBkQ1TMoBHX,1,2000,power-pop,0.361,0.98,2,-8.248,1,0.0434,0.131,0.814,0.252,0.406,133.249,142840,4
+Rockpile,Ju Ju Man - Live,6gRkgmMcBifxjJNCgBridH,3,2011,power-pop,0.203,0.954,0,-6.598,1,0.0759,0.00541,0.0249,0.712,0.523,181.655,201933,4
+Guided By Voices,Tiny Apes,03wUUnjmObgMOldVTk7PnL,4,2019,power-pop,0.65,0.766,7,-5.364,1,0.107,0.0998,0.00637,0.225,0.825,76.584,67473,4
+The Shazam,Always Tomorrow,5AMgAmE2zdAsVZ3EyMY8Jz,0,2009,power-pop,0.51,0.917,7,-5.142,1,0.043,0.00658,3.37e-05,0.357,0.606,132.217,221173,4
+Guided By Voices,Flunky Minnows,076o6VTj3okJV6rjCo166B,2,2013,power-pop,0.252,0.832,2,-4.669,1,0.0392,0.000693,0.0163,0.147,0.497,131.481,131533,4
+Todd Rundgren,Lysistrata - Live,7HB0S6FdYYMm1YhPfRE2sN,3,2021,power-pop,0.413,0.671,9,-6.718,1,0.0327,0.695,2.84e-06,0.719,0.761,139.558,166000,4
+The Jayhawks,Angelyne (Live),3fZF5YipGQQ8cBT7NAz7xq,5,2015,power-pop,0.468,0.678,9,-8.787,1,0.0364,0.013,5.21e-06,0.307,0.578,140.705,215328,4
+Paul Collins Beat,I Still Want You,4F6DKX59hAwlvpgArwwZWI,4,2008,power-pop,0.344,0.618,7,-10.066,1,0.0414,0.0191,0.0047,0.12,0.622,144.035,191507,4
+Huntingtons,Nicki Lovers Her LSD,7mdGvRcpXfjqlCbXHJW0sG,0,2002,power-pop,0.311,0.99,5,-5.127,1,0.069,0.00914,0.0,0.134,0.7,182.17,86400,4
+The Sneetches,How Does It Feel - Home Demo,2HaiX2YsJK8cHrZZ7iy8sV,0,2017,power-pop,0.42,0.28,7,-14.219,1,0.0246,0.868,0.0,0.175,0.147,82.491,278801,4
+Marshall Crenshaw,Calling Out for Love (At Crying Time) - Live,3EMx2DMmiOs7i3zFaTBtdB,2,2021,power-pop,0.442,0.795,7,-7.903,1,0.0703,0.0149,0.000855,0.915,0.464,126.359,327541,4
+Bill Lloyd,'Til the Day That I Break Down,57zfcPQd1SBCY4ni2KEeH3,0,2018,power-pop,0.489,0.655,2,-5.99,1,0.0322,0.000127,0.000261,0.125,0.614,115.072,174573,4
+The Feelies,In Between,441GywWUwzag0ZmRJ0BB5e,19,2017,power-pop,0.605,0.571,4,-13.788,1,0.0691,0.839,0.685,0.408,0.437,125.869,235133,4
+Mike Viola,"Here We Go, It's Christmas Time",5reIwTUJwxRciCKo1GAy2D,0,2018,power-pop,0.514,0.655,10,-4.708,1,0.0244,0.205,0.0,0.0705,0.397,75.721,216791,4
+Direct Hit!,Say Whatever,77ZOFO5cbL8RR74bNugZy6,6,2015,power-pop,0.267,0.978,1,-4.536,1,0.101,0.000955,7.87e-05,0.134,0.33,197.005,167349,4
+The Prozacs,Hang Up the Hang-Ups,3dBbjs2XL7jNYMp2ibzQUt,0,2011,power-pop,0.3,0.984,11,-5.329,0,0.0832,0.000422,4.76e-05,0.64,0.453,135.389,128987,4
+Paul Collins,Don't Know How to Treat A Lady,1Hs95lYY5klIP4I8deR8jA,0,2014,power-pop,0.508,0.963,7,-4.804,1,0.0592,0.00208,0.0,0.304,0.577,140.897,175467,4
+The Scutches,So i didn't,5uZS7YvnNzxboO2YwoPv5C,0,2011,power-pop,0.392,0.979,1,-4.971,1,0.04,0.000354,2.25e-06,0.0417,0.572,150.85,87834,4
+Arlo,Elena,1rqSm9B7ssDh4MA13OYQtE,0,2001,power-pop,0.591,0.393,9,-9.088,1,0.0244,0.181,0.00017,0.195,0.184,87.711,201013,4
+Screeching Weasel,Something Wrong (Demo),7dHsNhWDvHGNvZJVOT92PS,2,2020,power-pop,0.305,0.943,6,-7.86,1,0.139,0.000782,4.13e-05,0.235,0.122,93.08,109413,4
+Smash Palace,Give You My World,5xYmmBdNtBAqxhBNhhQ8jZ,0,2006,power-pop,0.503,0.651,4,-9.186,0,0.0309,0.481,0.0,0.223,0.633,143.17,199493,4
+Lillix,Little Things,0etMPe8OvZvEpqxu8iNgai,11,2006,power-pop,0.615,0.86,1,-4.422,1,0.0508,0.00526,0.0,0.111,0.281,134.987,200867,4
+Falconshield,Super Mega Death Team,3ilUb4rOIXHSF3DZ0b11xO,15,2014,power-pop,0.531,0.712,9,-9.344,0,0.0326,2.43e-05,2.65e-05,0.229,0.575,140.0,215301,4
+Material Issue,The Girl With The Saddest Eyes,3mPuqtnLHdyi6gKAXVzhBd,4,2011,power-pop,0.348,0.974,9,-4.426,1,0.154,0.000906,0.0,0.0894,0.571,168.181,186853,4
+The Toms,Dirty Water,091kWBcvnnKqkKQQh4Op1E,0,2019,power-pop,0.639,0.853,5,-6.913,0,0.0341,0.11,0.0,0.107,0.384,110.208,213504,4
+Velvet Crush,On My Side (Demo),4lI7EabnXfT1SZ4d3FkG6B,0,2003,power-pop,0.561,0.439,0,-8.775,1,0.0276,0.67,0.558,0.0997,0.501,115.654,138933,4
+Spinning Jennies,Löften I Rotterdam,1SduqxBhZMCEDxkaMDLWih,7,2014,power-pop,0.599,0.573,9,-8.448,1,0.0465,0.163,0.0,0.136,0.875,145.287,185853,4
+The Murderburgers,Another Way out of Here,3bdZwYPQpkSadmJlfCI5tY,15,2013,power-pop,0.617,0.836,9,-6.76,1,0.0349,6.78e-05,0.782,0.247,0.837,121.994,97976,4
+The Stanleys,My World,6G2NxgURqWpzjYBLQaL3nI,0,2012,power-pop,0.413,0.814,9,-4.051,1,0.0421,0.000533,0.0137,0.124,0.458,124.996,263533,4
+All,Honey Peeps,0B44b8yVfr9aFjWuPeUyWb,10,2001,power-pop,0.324,0.985,11,-5.683,1,0.287,0.115,0.0,0.649,0.243,128.994,114867,4
+The Grip Weeds,Outside Chance,2jTMdYuwgrJX7CQYrWEAOy,0,2021,power-pop,0.505,0.936,9,-2.111,1,0.0378,0.00183,0.0,0.348,0.822,132.05,162644,4
+The Soviettes,Land of Clear Blue Radio,4pKn3vgPkHi1mqOJZNkQa7,4,2003,power-pop,0.428,0.957,11,-4.119,1,0.253,0.0463,0.0159,0.127,0.732,185.225,156666,4
+The Donnas,Take Me to the Backseat,6fqMNjjh4Uj65okRORX0XC,25,2003,power-pop,0.417,0.917,2,-3.782,1,0.0381,1.05e-05,0.0582,0.323,0.713,167.805,142427,4
+I Was A King,Norman Bleik,1SSbxeFHoijYhMZjCtdBDS,12,2009,power-pop,0.3,0.922,7,-2.368,1,0.0421,3.8e-05,0.00918,0.424,0.408,124.994,177920,4
+Geoff Palmer,Breaking Down,2txSPRXUQ8UA7HCvIxygSJ,0,2010,power-pop,0.609,0.866,0,-2.883,1,0.0339,0.00887,0.0003,0.548,0.754,125.053,200000,3
+Boris the Sprinkler,Huff Puff,21rY5KkvfN9PPEZXyYJPCc,0,2000,power-pop,0.168,0.924,0,-4.739,1,0.0873,0.000487,0.588,0.847,0.194,186.778,168107,4
+The New Pornographers,Higher Beams,1glBbCKrbEun1SHz5OzPzk,21,2019,power-pop,0.541,0.635,4,-6.017,1,0.0344,0.0897,0.657,0.231,0.387,80.018,243533,3
+Michael Carpenter,Never Be Alone,3e1T6GJYBr3PWcFxhupKLg,0,2001,power-pop,0.464,0.692,9,-5.405,1,0.0266,0.0493,0.0,0.0387,0.526,92.015,248040,4
+Guided By Voices,Your Lights Are Out,09HWvjl1exMLn1mcXOYVIC,7,2019,power-pop,0.491,0.959,7,-2.488,1,0.054,0.0654,0.939,0.432,0.579,125.045,205093,4
+House Boat,I'd Be Better off On,4aOTZwcvIup0RE6SS8u9Ne,2,2021,power-pop,0.329,0.955,0,-4.667,1,0.0721,0.000527,1.4e-05,0.0877,0.304,111.467,126907,4
+The Muffs,Rock and Roll Girl,6agOyoUo1D4PgPXtqzO8Rg,8,2011,power-pop,0.343,0.907,7,-7.441,1,0.0432,1.97e-05,6.24e-06,0.129,0.804,162.621,136427,4
+The Red Button,Genevieve (Unplugged),2sEbUN1357ghYLgY2VqP0w,0,2017,power-pop,0.521,0.383,9,-7.149,0,0.0266,0.755,0.0,0.0926,0.266,97.936,164787,4
+Cyanide Pills,Diagnosis,5kqFpRgNa2TJbdOh1UKxBY,0,2010,power-pop,0.618,0.687,7,-7.914,1,0.0323,0.00169,0.00241,0.254,0.921,132.951,145987,4
+The Spongetones,Alayna,1gdmjrVmwlpMweFr62CH6j,0,2005,power-pop,0.591,0.684,7,-9.541,1,0.0332,0.0147,0.000818,0.086,0.507,117.521,150173,4
+Cende,What I Want,6Io2THanzgOrIAoYS2LZbo,30,2017,power-pop,0.385,0.895,7,-6.472,1,0.0487,0.0189,0.282,0.246,0.35,146.078,285030,4
+Travoltas,Pray For Sun,4aQHc7WK46oDXDnvQMjUUb,8,2000,power-pop,0.357,0.899,10,-3.708,0,0.063,0.00357,0.0,0.292,0.596,152.461,240000,4
+The Donnas,Out of My Hands,4JoogJiCunKKv7bgl8fMP6,10,2004,power-pop,0.573,0.901,8,-4.337,1,0.0371,0.000873,5.03e-05,0.348,0.657,137.745,167200,4
+The Dream Syndicate,Trying to Get Over,1FXfzMj5KQf7uH2ZbpwZpe,10,2022,power-pop,0.339,0.937,9,-4.303,0,0.0702,0.000132,0.0751,0.632,0.562,151.756,215880,4
+The Len Price 3,Mesmer,2FNGzZ7n9GmoFW20Q4luyV,1,2007,power-pop,0.605,0.556,2,-5.802,1,0.0299,0.633,0.0839,0.104,0.556,132.965,174161,4
+The Donnas,Have You No Pride,6hyawvI37HZdXkvDbAKLjv,9,2004,power-pop,0.504,0.922,2,-3.586,1,0.0403,0.000127,5.72e-05,0.0931,0.539,135.717,173440,4
+Mike Viola,Dr. Frankenstein,6IfTfDI23K5SXpQPxSzxfn,6,2018,power-pop,0.467,0.27,8,-12.887,1,0.0289,0.902,0.0038,0.113,0.223,100.056,224733,3
+The Grip Weeds,Don't Belong - Demo,37l9SkDrB4ubyGJdkDE4KY,0,2007,power-pop,0.507,0.893,6,-6.404,0,0.0617,0.0217,0.0,0.229,0.813,91.541,141933,4
+Mott The Hoople,"All The Young Dudes - Live at the Uris Theatre, New York, NY - May 1974",2WkgMpyXQeNY2YEIrSNMRh,5,2004,power-pop,0.313,0.895,11,-5.662,0,0.109,0.0665,0.0,0.888,0.24,150.535,228947,4
+Superdrag,Try,2PiKFq3L6lmACxuTObo2lN,1,2015,power-pop,0.317,0.984,11,-3.675,0,0.0738,0.000424,0.0,0.274,0.308,141.677,220404,4
+Nick Lowe,People Change,4z3xgniKerkztsyhSRhO6i,11,2007,power-pop,0.75,0.499,2,-11.567,1,0.0319,0.502,0.000448,0.0633,0.801,120.82,175400,4
+The Ergs!,"It's Like I Say, Y'know",1FxVFLIOJWOFO68PSe2BTv,8,2009,power-pop,0.211,0.948,1,-5.402,1,0.0614,7.26e-05,1.59e-05,0.109,0.468,105.811,118160,4
+Kurt Baker,City Lights,4WXTNI8y5BvHd414aMbH4S,0,2012,power-pop,0.702,0.879,7,-7.721,1,0.0442,0.0454,0.000124,0.0884,0.9,130.979,263840,4
+The Queers,Little Rich Working Class Oi Boy,4ixNGp4F7tXrk0jB1TIviF,4,2015,power-pop,0.532,0.925,2,-6.238,1,0.0402,0.000573,0.000686,0.416,0.961,119.346,114300,4
+Guided By Voices,Doughnut for a Snowman,2puiFkaVV1RPJ3xnvKgLwe,6,2012,power-pop,0.523,0.769,7,-7.548,1,0.0367,0.131,6.32e-06,0.404,0.668,121.769,104813,4
+Paul Westerberg,Don't Want Never,4jz0fEFJSI4kUNtMZZ21nQ,8,2002,power-pop,0.426,0.496,3,-6.606,1,0.0326,0.00859,0.005,0.227,0.211,131.816,206533,3
+The Methadones,Getting Older / Losing Touch,1DtNvh8N5yt94hkpS4X0jo,11,2007,power-pop,0.383,0.87,2,-5.239,1,0.0479,2.53e-05,0.0,0.362,0.667,95.801,196960,4
+Brendan Benson,Baby's Eyes,0B8vxruQsXztQCWJvaljjD,7,2020,power-pop,0.568,0.931,11,-4.622,0,0.0323,0.000155,3.91e-05,0.207,0.811,120.039,181667,4
+The Dopamines,Common Rue,0DrrIccCYx0Nf9K2MZdvky,19,2017,power-pop,0.323,0.993,0,-3.147,1,0.206,0.00482,0.0,0.117,0.217,176.52,116372,4
+A Radio With Guts,Fatal Fatigue,1FfWBZeYAovPse58WGQ91c,0,2002,power-pop,0.281,0.788,10,-6.934,1,0.0675,0.019,1.95e-06,0.253,0.538,148.148,167640,4
+The Donnas,Shake in the Action,6kZAJ204w6wyT15RVAcWY6,7,2020,power-pop,0.237,0.947,9,-9.504,1,0.0642,0.00797,0.881,0.273,0.192,173.188,183840,4
+Tim Lee,All That Much,0hFcE1pDujc6qlInhfWHSi,0,2003,power-pop,0.68,0.211,9,-14.116,0,0.0323,0.655,0.000117,0.0878,0.144,91.052,296147,4
+Ron Sexsmith,If Only Avenue,1tYBQwdXgWEwfPgUQutrHg,10,2013,power-pop,0.636,0.332,8,-10.417,1,0.0279,0.804,0.00137,0.143,0.605,132.913,187947,4
+Cheap Trick,Passing Through,0ruShzjJnabmMYkdrCKOor,11,2021,power-pop,0.285,0.902,9,-3.938,1,0.0545,0.00835,0.0151,0.108,0.295,175.923,199756,4
+The Mayflies USA,Sold on You,4tkDeR2tVXquUxehFAOIkv,0,2000,power-pop,0.555,0.831,9,-5.12,1,0.0336,0.0103,0.0183,0.15,0.892,118.021,178507,4
+Dinosaur Jr.,Every Mother's Son - Live from CBGB's 12/93,49ejCUJdmEmeon4vVRglDI,9,2007,power-pop,0.526,0.525,7,-10.165,1,0.0327,0.703,2.06e-05,0.726,0.258,115.918,202013,4
+The Only Ones,Out There In The Night,1pP4t8P80LxV9onR7LcuVB,4,2006,power-pop,0.518,0.678,7,-12.801,1,0.0894,0.00953,9.39e-06,0.125,0.538,135.185,177840,4
+Joe Jackson,Too Tough,06v8TKHi7eIX38FPTz9hyc,8,2008,power-pop,0.466,0.6,7,-7.029,1,0.0249,0.402,0.000116,0.113,0.44,104.607,277213,4
+Chuck Prophet,Tell Me Anything (Turn to Gold),3CdBO4uFWqz7orhaM8bn9Z,23,2014,power-pop,0.599,0.913,7,-2.454,0,0.0396,0.0585,1.99e-06,0.237,0.488,123.362,202542,4
+Sonic Dolls,"My love, you're a freak show",27u7fE2nS7SmtD5cJ1tA4B,0,2006,power-pop,0.35,0.843,2,-5.461,1,0.0342,3.78e-06,0.0151,0.436,0.581,99.647,159843,4
+Kurt Baker,Kiss Me,4XCY9B5Sb7ZM9bqUHwPWSt,1,2011,power-pop,0.607,0.793,7,-4.961,1,0.0289,0.156,1.36e-06,0.316,0.832,145.954,149413,4
+The 20 Belows,Wreckage,4qf7vg5tXAztGb90vzIGUh,9,2014,power-pop,0.282,0.926,1,-2.044,0,0.0536,5.72e-05,0.273,0.191,0.531,178.275,143370,4
+The Manges,80's Soldier,0KRhKXFHWz6UnYu9Tawh4K,1,2001,power-pop,0.293,0.762,11,-5.445,0,0.0391,0.000969,0.0,0.0573,0.585,153.711,163160,4
+The Grip Weeds,Inca,6ydaa5D3pfxgS6SxgbUB4I,0,2013,power-pop,0.418,0.958,6,-3.67,0,0.0627,0.00107,0.0,0.266,0.632,154.785,242933,4
+The Speedways,Kiss Me Goodbye,4anb75TnMwy3S3HVWPlO7w,7,2022,power-pop,0.439,0.939,2,-5.662,1,0.062,0.000259,0.0,0.308,0.759,163.099,173107,4
+Riverdales,Time Of The Apes,5VtDaS6QXqtccl2Lygpfom,4,2009,power-pop,0.431,0.944,7,-7.121,1,0.0355,8.15e-06,0.0586,0.102,0.734,95.017,139013,4
+Moral Crux,Democracy (From the Barrel of a Gun),1zoUZVkFOk9uKMxzbT1ai9,0,2015,power-pop,0.238,0.58,0,-15.288,1,0.0359,0.114,0.0044,0.766,0.676,105.788,180820,4
+WYLDLIFE,Cowboys and Slutz,3MQduv1nrGI3amCZR3jtaG,7,2013,power-pop,0.566,0.929,9,-5.608,1,0.0429,0.000506,0.0,0.138,0.496,109.599,164956,4
+The Sneetches,Take My Hand,4sVOXOFdXd9iEsM2AlpTZv,0,2017,power-pop,0.376,0.779,0,-7.965,1,0.0463,0.00346,0.0,0.275,0.623,120.555,182842,4
+20/20,Out of My Head,3pdZvieCh6X2BxrrWE6jJG,8,2014,power-pop,0.662,0.767,0,-10.007,1,0.0371,0.0234,0.000289,0.11,0.96,105.31,229587,4
+Joe Jackson,Little Bit Stupid,6jKGSoJQxPLRUdWq3n7lw2,5,2003,power-pop,0.508,0.921,2,-4.41,1,0.0277,3.87e-05,0.000335,0.21,0.57,141.169,208467,4
+Doug Powell,Invincible,7iCOt8pO7be1anZ4B2s4ji,0,2004,power-pop,0.343,0.928,7,-3.467,1,0.0542,0.0154,0.0,0.106,0.524,105.689,241040,4
+The Riptides,Killer Klowns from Outer Space,3GX3CJdoNS416ZBVlPn1El,0,2002,power-pop,0.15,0.93,8,-4.417,1,0.135,4.79e-05,0.0164,0.235,0.742,179.498,118507,4
+The Spongetones,There's a Star,6CmmDTWhCguSBCoYd3pjex,0,2000,power-pop,0.39,0.393,1,-8.822,1,0.0334,0.906,0.0512,0.103,0.26,99.706,368493,4
+Ron Sexsmith,Disappearing Act,7m0QSxF3gkCvGENoR2fiQf,9,2002,power-pop,0.664,0.849,8,-5.997,1,0.0373,0.116,0.0,0.538,0.488,113.534,220973,4
+Off With Their Heads,Sadie,3D1okueKS8VGQFsnbq9Am6,6,2007,power-pop,0.292,0.86,7,-3.478,1,0.0391,0.0146,0.000833,0.34,0.458,79.393,136453,4
+Guided By Voices,Year of the Hard Hitter,1odTkmrcBY776qqkvm19BO,6,2020,power-pop,0.302,0.586,7,-8.373,1,0.0655,0.0442,0.025,0.841,0.234,135.615,241653,4
+Jason & The Scorchers,Moonshine Guy / Releasing Celtic Prisoners,4VuEodW6T0ucEOu9GsEGQ4,7,2010,power-pop,0.437,0.987,2,-2.932,1,0.0614,0.00556,0.00027,0.351,0.443,130.315,173867,4
+NRBQ,Come Softly to Me,3mKX0qpcmeZWCN333wDDmU,1,2002,power-pop,0.672,0.395,0,-11.463,1,0.0327,0.366,0.0137,0.116,0.814,125.039,147640,4
+Mike Viola,Everybody Wants to Rule the World,58HKN84jsoMrA9vR47BIJQ,4,2014,power-pop,0.531,0.42,2,-8.122,1,0.0298,0.735,0.0,0.0801,0.417,167.896,204480,3
+Travoltas,Norwegian Girl,0maTi7K6d3qKFOfBrzsBDt,3,2002,power-pop,0.32,0.874,7,-6.499,1,0.0418,0.0124,7.1e-06,0.445,0.886,180.364,141027,4
+Fountains Of Wayne,Kid Gloves,501R5NIWesUJjvz5thkiQ4,8,2005,power-pop,0.459,0.538,4,-8.533,1,0.028,0.389,0.0183,0.369,0.442,82.524,210893,3
+Ded Bugs,The Backbeat Wouldn't Leave,4vuWxajJtJma6dEh7X6o6Z,0,2001,power-pop,0.558,0.899,2,-4.111,1,0.0623,0.00177,0.00161,0.189,0.71,93.703,113573,4
+Candy Hearts,Bad Idea,4n3ox0zQMfKrVQ1QpUgHOn,5,2012,power-pop,0.571,0.944,1,-3.128,0,0.0451,6.7e-05,0.025,0.133,0.586,108.026,154444,4
+Chris Richards,Seagirl,3PVWoUhLxz8hKNoZYf5A0J,0,2001,power-pop,0.182,0.889,4,-4.343,1,0.0602,0.00906,0.0,0.362,0.598,78.233,161720,4
+The Toms,Hello to Life,3DzXr4ShRmE2pjxdG2YPB3,0,2017,power-pop,0.571,0.797,4,-3.308,1,0.0311,0.0174,1.48e-06,0.126,0.455,119.978,227467,4
+P76,"Me & Her, The Road and Our Ej",3hlktgL3fbykinOxOXOOwp,2,2001,power-pop,0.346,0.915,4,-3.36,1,0.0373,0.000225,0.0,0.204,0.796,147.667,109880,4
+Michael Carpenter,You Just May Be The One,2QkwAIQ3j8C72TXSi6HALg,0,2001,power-pop,0.558,0.684,9,-7.733,1,0.027,0.00336,7.32e-05,0.158,0.701,115.002,173240,4
+Richard X. Heyman,The Day Before Tomorrow,4nY6oueIT8XPYjO7q8sKUw,0,2011,power-pop,0.599,0.717,3,-5.368,1,0.026,0.192,0.0,0.157,0.512,113.998,215293,4
+Old 97's,Auld Lang Syne,3FXbDK00fLVIYJfEvXl39E,4,2018,power-pop,0.267,0.814,5,-5.021,1,0.0384,0.00147,0.0,0.351,0.395,174.944,252600,4
+The Stan Laurels,Gone,56WIW9v2tbOBN2hXY4Yqyq,0,2009,power-pop,0.432,0.602,0,-7.092,1,0.0282,0.363,0.106,0.0877,0.277,100.858,210507,4
+Lannie Flowers,The One,7HAXQ0PdHyOtSpSb6LdMjK,3,2022,power-pop,0.591,0.813,2,-5.641,1,0.0325,0.0132,0.0,0.256,0.55,119.982,221036,4
+The Apers,She's Just in Love,0QOq3enY7acRoySQFv7SnM,0,2003,power-pop,0.455,0.978,11,-4.481,1,0.0661,1.56e-05,5.3e-05,0.156,0.593,102.731,202947,4
+The Queers,Kicked Out Of The Webelos,1HyIuMfFygY80jW5rLbQAx,0,2003,power-pop,0.118,0.967,0,-11.386,1,0.123,0.000287,0.0212,0.589,0.1,156.793,54587,4
+DM3,Foolish (2015 Remaster),454BMpqGbL2SvZu2UpZXIf,0,2015,power-pop,0.301,0.927,1,-5.06,0,0.0629,9.58e-05,0.000537,0.0748,0.462,152.651,202993,4
+Brad Jones,Leaving Candle,4BO6CBfA3hiPITwQgWcuXx,0,2012,power-pop,0.466,0.427,7,-4.963,1,0.0283,0.483,0.867,0.224,0.531,129.974,102870,4
+Falconshield,Blood Moon (feat. Nicki Taylor & Annchirisu),625pPhd0I8EzXU94x2lK6V,16,2015,power-pop,0.531,0.749,4,-8.432,0,0.0418,0.000536,0.0,0.202,0.272,85.019,258429,4
+Fountains Of Wayne,California Sex Lawyer,66I8YnGvk8jaWwSFZ5zwZm,14,2005,power-pop,0.672,0.834,11,-4.851,0,0.0369,0.0101,0.0,0.305,0.657,106.133,179200,4
+Alex Chilton,No Sex,5OWp8f5rR8NVHaGWmJJfGv,4,2022,power-pop,0.689,0.909,9,-7.323,1,0.0343,0.0513,4.78e-06,0.0837,0.931,131.153,228093,4
+Parthenon Huxley,"Buddha, Buddha (With Noodles)",249fSeH69PYdAblMvEpDKv,0,2013,power-pop,0.785,0.499,8,-7.764,1,0.0332,0.0228,0.0583,0.123,0.804,110.015,337107,4
+The Prozacs,Sonic Diffuser,1RtLc8iNVlHwmjMcaT3qUx,0,2017,power-pop,0.234,0.978,11,-3.794,0,0.13,8.19e-05,1.56e-06,0.0829,0.434,168.769,180526,4
+The Peawees,Food for My Soul,1h9eBIhG2yJiGmZAZOzcNs,2,2011,power-pop,0.46,0.91,1,-5.46,1,0.0545,0.00451,0.0,0.0776,0.888,163.042,155547,4
+Sloan,Magical Thinking,2rZmuF3QvwC16YwGeZVSVB,22,2022,power-pop,0.689,0.884,0,-5.174,1,0.0368,0.00957,3.76e-06,0.236,0.969,144.26,221482,4
+The Fleshtones,Alex Trebek,6t1qMGK1nwMxTBgRfGIqFW,8,2020,power-pop,0.507,0.913,9,-5.32,1,0.0354,0.0251,2.36e-06,0.296,0.929,130.949,166405,4
+Elvis Costello,Painted From Memory - 2023 Remaster,6QzExkeb35GZ1sDDOvCs5p,29,2023,power-pop,0.235,0.125,1,-14.016,1,0.0295,0.405,0.00012,0.0627,0.161,85.15,252013,3
+The Riptides,Reefer Madness,6yXoIqp6anDJtFemK02V5n,0,2002,power-pop,0.0934,0.933,5,-4.609,0,0.113,2.65e-06,0.00652,0.222,0.472,191.804,67253,4
+World Party,Mystery Girl Radio Session - Live At Radio Station,1PtxaePqrL95JcLqp3zVof,3,2012,power-pop,0.619,0.459,4,-9.258,1,0.0282,0.715,0.000433,0.115,0.71,96.364,187293,3
+Game Theory,Shark Pretty - Live,0ht7F3wXGKXVmKEQfaXKxV,0,2014,power-pop,0.401,0.816,7,-8.916,1,0.0748,0.0268,0.241,0.0896,0.622,113.559,242653,4
+Screeching Weasel,Without Belief,6oI3VyrCJbN9ROAQ7gR2Ac,3,2015,power-pop,0.522,0.982,2,-6.106,1,0.0474,0.000396,1.14e-05,0.31,0.859,103.486,77907,4
+Spinning Jennies,Blues för Victor Jara,3FQ3tF8MdE5HQr0KFzaGd7,4,2015,power-pop,0.646,0.533,9,-7.74,1,0.0752,0.405,0.0,0.0736,0.727,97.295,197716,4
+Elvis Costello,The Boy Named If - Memphis Magnetic Version,4VLfZoTt2sTF9RafdTpUMt,8,2022,power-pop,0.447,0.639,7,-6.233,0,0.0329,0.00536,0.000474,0.397,0.267,76.688,330320,4
+Superchunk,Art Class (Song for Yayoi Kusama) [2] - Live,6XKUGfK4IHtwXxb89F83X3,0,2002,power-pop,0.696,0.731,2,-8.081,1,0.0369,0.812,0.000204,0.348,0.75,118.938,274773,4
+Fountains Of Wayne,Traffic & Weather,6LHibMfwY5GT3kC0TvQjKO,1,2008,power-pop,0.625,0.842,1,-6.171,0,0.0469,0.357,0.0,0.946,0.71,122.068,241000,4
+Your Gracious Host,Tick Tock,5rVlows0RMr3vWqbPd1Jx7,0,2012,power-pop,0.374,0.82,9,-7.973,1,0.0374,0.103,3.93e-05,0.289,0.506,135.858,153941,4
+Old 97's,Those Were The Days,7gtHL6w17S0XOzVqNwBFIF,9,2017,power-pop,0.349,0.85,7,-6.804,1,0.053,0.00238,8.23e-06,0.432,0.642,189.999,236747,4
+Baby Shakes,What Can You Do? (Single Version),0yCp4uFalUwIYpAXYLAnQS,0,2012,power-pop,0.536,0.882,4,-5.063,1,0.044,0.129,0.863,0.13,0.899,106.731,143882,4
+Richard X. Heyman,Gleam,6mhxpMnsO0oewhPT639HLo,0,2017,power-pop,0.544,0.823,9,-6.578,1,0.0405,0.237,0.0,0.123,0.456,109.979,171440,4
+The Jayhawks,"Life's Little Ups And Downs - Live In Minneapolis, MN / 2000",0eX4RjQFx81NEDZVJy1sRy,3,2000,power-pop,0.371,0.248,10,-13.911,1,0.0315,0.866,0.00546,0.52,0.252,136.922,292853,4
+The Peawees,As Long as You Can Sleep,2VIXKj6cgG1rMlkecQoRhH,10,2018,power-pop,0.485,0.94,11,-3.576,1,0.0415,0.000345,0.0,0.139,0.881,148.984,193120,4
+Superchunk,FOH,2lkqYAN7j6nN2hnkCvTNnS,9,2013,power-pop,0.444,0.954,4,-4.194,1,0.0511,3.39e-05,1.93e-05,0.0478,0.832,163.919,203891,4
+Elvis Costello & The Attractions,Little Triggers - Live At The El Mocambo,3Tj7NXyPtwCsby4zqULYdP,4,2008,power-pop,0.352,0.8,5,-9.797,1,0.757,0.448,0.00038,0.921,0.417,162.995,237640,3
+Graham Parker,Fool's Gold - Live,54GL8Vl0QlOAaKyRrOGFHP,0,2005,power-pop,0.585,0.872,9,-6.455,1,0.0359,0.0217,0.00063,0.709,0.902,125.23,208280,4
+The Plimsouls,I'll Get Lucky,0z4XF0knCCGNGnaeTHasVI,3,2010,power-pop,0.425,0.859,4,-7.136,1,0.0817,0.0336,0.000112,0.53,0.495,82.09,160147,4
+Anton Barbeau,Ski Racer,1tKBGlj7VOK1UCHUzcoDP1,0,2018,power-pop,0.506,0.616,3,-3.878,1,0.0301,0.0329,1.57e-05,0.0768,0.373,117.995,218307,4
+The Jellybricks,Bad Time,3vmvrIod141fYuiLagmvNk,0,2004,power-pop,0.516,0.977,7,-2.904,1,0.0608,0.00349,7.83e-06,0.443,0.493,120.057,206373,4
+Farrah,Scarborough,7igXRw2ZMw9KoqQoKA86MA,2,2010,power-pop,0.553,0.686,11,-8.081,1,0.0282,0.00689,0.000244,0.108,0.52,103.014,183733,4
+Old 97's,The One,31PgLXKW6KloUPjwauCVh1,8,2008,power-pop,0.524,0.831,5,-6.783,1,0.0376,0.000613,0.000253,0.103,0.713,130.011,246453,4
+Alex Chilton,Lonely Weekend,1JC1kUQ4uxHkmcLrEgwnHV,2,2019,power-pop,0.309,0.919,7,-7.104,1,0.0748,0.00301,0.00187,0.328,0.643,189.791,194533,4
+Eddie & The Hot Rods,Romance in a Used Car Lot,1fyuPmLijY4pNVdfCZa2HL,0,2000,power-pop,0.574,0.875,11,-8.065,0,0.151,0.000218,0.422,0.0378,0.694,152.806,238600,4
+The Yum Yums,Out Of Luck,0JFnXUmZ42kDsfzDLoDQoP,0,2009,power-pop,0.426,0.936,9,-2.983,1,0.0484,0.163,1.93e-05,0.274,0.724,106.822,133867,4
+The Dictators,Minnesota Strip,06EUwMLVtGu11FKMS7dKCh,3,2018,power-pop,0.319,0.809,2,-4.231,1,0.0701,0.0122,0.0,0.059,0.442,116.511,266960,4
+Huntingtons,I Just Want To Feel Alive,4A3yxqY8BddUMsiL0ZK0u8,0,2003,power-pop,0.453,0.841,7,-4.344,1,0.0337,0.000118,8.78e-06,0.284,0.376,86.006,201886,4
+The Cowsills,Lend a Hand,6FTQkNlChKr9QMAr5wjaQ1,7,2022,power-pop,0.66,0.772,7,-7.585,1,0.0328,0.0361,0.0,0.323,0.87,124.997,252133,4
+Screeching Weasel,Thrift Store Girl (Alternate Vocal Take),547rdFOY4C1FGEIvARLbte,12,2023,power-pop,0.427,0.978,11,-5.383,1,0.0945,0.000151,3.29e-05,0.313,0.255,128.389,73440,4
+The Lemonheads,It's a Shame About Ray - Remastered,2GAKuPxrTdPL6XqAyqBAjp,15,2022,power-pop,0.645,0.792,9,-8.671,1,0.0304,0.00164,0.000126,0.0799,0.705,131.393,187040,4
+J Church,Sunshine,50q5QAJBo5q0Kx6g1lWP3l,0,2000,power-pop,0.375,0.868,2,-8.919,1,0.0428,2.64e-06,0.776,0.247,0.574,140.866,176560,4
+The Popsters,American Girl,05b3op5jxMhBPn8zGiRw4x,0,2006,power-pop,0.35,0.968,2,-3.461,1,0.0792,7.93e-05,5.77e-05,0.283,0.379,121.164,216827,4
+Sebadoh,Stars For Eyes,01Di7hE1XXuKG9aNU00YLp,2,2006,power-pop,0.351,0.364,9,-13.328,1,0.0449,0.329,0.059,0.111,0.32,127.167,193133,4
+Andrew Gold,"Spooky, Scary Skeletons - DMA ILLAN Remix",5fiH8RdAqIR6bSokyYRn2d,38,2020,power-pop,0.689,0.937,7,-4.389,1,0.0889,0.0208,0.0519,0.0687,0.835,77.045,160560,4
+The Cowboys,(If I) Laugh Enough,1B4XQyIanhsV9EfmTtQcgq,2,2017,power-pop,0.409,0.94,9,-4.318,1,0.0619,0.408,0.00313,0.281,0.697,96.947,81880,4
+Soul Engines,Somebody up There Likes Me,7rQwQoZPqdWq2c1iDV5yZf,0,2001,power-pop,0.541,0.884,9,-2.945,1,0.0375,0.0191,0.0,0.141,0.707,134.882,152267,4
+Luna,La Poupee Qui Fait Non,2LZ9KsibSKIJBsM3WR5VWC,3,2006,power-pop,0.441,0.855,9,-5.994,1,0.0396,0.186,0.763,0.217,0.832,141.534,173213,4
+The Replacements,Achin' to Be - Matt Wallace Mix,27bkJDk2NIJ0gqeeEIdg4M,16,2019,power-pop,0.593,0.88,2,-7.187,1,0.0398,0.164,0.0,0.272,0.719,132.256,219547,4
+Teenage Bottlerocket,I Know You Know - Digital Only,0Zj99zG4Djn2WK1kTXMXFT,11,2008,power-pop,0.533,0.973,2,-3.423,1,0.0534,0.00255,0.000922,0.141,0.745,100.903,148373,4
+Dwight Twilley Band,England - Remastered,6N5BcQHbKyasCxES1V7fzQ,9,2011,power-pop,0.607,0.747,11,-8.217,0,0.0326,0.000867,0.00729,0.1,0.624,121.293,154600,4
+Kyle Vincent,Like Nothing Ever Happened,7i1IqMwUrO2aWpV5clRg4U,0,2015,power-pop,0.317,0.274,7,-9.471,0,0.0317,0.728,0.0,0.0907,0.121,126.793,302907,4
+Cheap Trick,Tonight It's You - Single Version,3lrYDwOW9R1F9c52r3Afhz,7,2015,power-pop,0.337,0.867,11,-5.74,0,0.0526,0.182,0.0,0.182,0.317,115.741,212480,4
+The Boys With The Perpetual Nervousness,Summer,3EAT5zjT5wOSKkDKO1XKtJ,10,2021,power-pop,0.61,0.49,0,-7.879,1,0.0315,0.000895,0.000954,0.07,0.901,136.099,146156,4
+The Mice,Rescue You Too,3Y7BcpsADNMdns2JHYsxch,4,2003,power-pop,0.47,0.844,11,-6.639,1,0.054,0.000808,0.00534,0.285,0.855,150.412,172293,4
+The Riptides,My Girlfriend's Fuckin' Ugly,7B1NfJHPQenXU61NSpKaSz,1,2002,power-pop,0.314,0.9,7,-4.136,1,0.0552,2.87e-05,6.19e-05,0.15,0.781,152.5,90653,4
+The Fire Apes,I'm Always Thinking (How Good It Would Be),1VRuGcD6YtX0Ixjc3z5U0I,0,2005,power-pop,0.59,0.697,0,-6.102,1,0.027,0.0951,0.0,0.0877,0.751,96.039,162787,4
+DM3,Take it All (2015 Remaster),78XjnMrq9DGtlXzH9AYrtJ,0,2015,power-pop,0.351,0.749,2,-5.903,1,0.0271,0.000888,0.644,0.106,0.357,77.776,211997,4
+NRBQ,Florida - Live,0p4m8tajEvYGivUfMiiysV,2,2019,power-pop,0.584,0.494,7,-10.783,1,0.0278,0.0124,0.000193,0.133,0.609,128.861,211658,4
+The Smithereens,Alone At Midnight,0mkiMrYfIFsktMANs6rFzn,9,2022,power-pop,0.353,0.676,8,-13.465,0,0.0282,0.0047,0.107,0.0542,0.775,92.38,222600,4
+Dwight Twilley,Little Sister,61Y7n8TDN0wkbLQUlaEwb6,0,2009,power-pop,0.501,0.875,2,-6.149,1,0.0888,0.0331,0.0,0.101,0.698,126.35,221293,4
+Cotton Mather,Mighty Girl,2yMErXG3Sd9KvlTdDB9IMO,0,2017,power-pop,0.465,0.76,2,-6.007,1,0.033,0.0374,0.0148,0.614,0.662,123.231,239680,4
+The Dahlmanns,Shake Me Up Tonight,3eZHkboB7WdGiYu4MHDEgP,2,2011,power-pop,0.391,0.92,4,-4.535,1,0.0529,0.00504,3.69e-05,0.346,0.672,166.93,182280,4
+PoP is ArT,Light,1KXgmSIzqGmIuYRShDxB9T,0,2003,power-pop,0.494,0.386,0,-9.766,1,0.0235,0.47,0.000173,0.327,0.132,79.974,241387,4
+Shoes,I Don't Miss You,1F2wN9G85fbIDOebgQc0K6,0,2007,power-pop,0.652,0.576,2,-10.877,1,0.0353,0.0114,0.248,0.137,0.605,130.955,214000,4
+Blue Ash,There's Only One Thing,0MwpFbVjZUA1wj91UUjqVF,0,2004,power-pop,0.634,0.714,2,-9.516,1,0.0637,0.0819,0.0,0.289,0.7,110.959,164840,4
+The Soviettes,You Should Know,1Ryfet44MIx0rC22d5myK0,9,2005,power-pop,0.215,0.998,7,-5.204,1,0.151,0.00255,0.00344,0.396,0.21,189.677,87413,4
+The Hextalls,I Don't Want to Play Tiger Woods Without You,4DC5np4oQYo3umsfBnWvHn,3,2012,power-pop,0.474,0.969,7,-2.867,1,0.244,4.75e-05,3.25e-05,0.0842,0.505,194.949,163456,4
+Dan Vapid & the Cheats,Beware of the Fog,42VBMcI1eXpi0g9KNwJghs,13,2012,power-pop,0.516,0.903,11,-4.896,1,0.0345,0.00333,0.0,0.254,0.85,107.496,88307,4
+Mannequin Pussy,Ten - Audiotree Live Version,5DUAnVdpijwnE2VBSGRfWv,10,2017,power-pop,0.0906,0.998,2,-4.04,1,0.0845,0.000123,0.0423,0.157,0.177,200.089,52114,4
+Kurt Baker,Wandering Eyes,29hSlceBn0fDRpaEQxPPXF,11,2020,power-pop,0.581,0.858,2,-7.792,1,0.0427,0.0013,0.0,0.232,0.819,149.991,211547,4
+Team Stray,Walter & Perry,7uiURUgMiFKQ49093VVyeB,0,2003,power-pop,0.393,0.964,7,-2.019,1,0.0702,0.00045,0.000171,0.305,0.709,113.439,69213,4
+Cyanide Pills,Conspiracy Theory,5xjZJh4v6X4C7D0AEy4r4Q,0,2013,power-pop,0.425,0.967,4,-4.475,0,0.0527,0.00148,0.0,0.0546,0.936,160.869,81750,4
+Bill Lloyd,Miracle Mile,1y2m8pHzJap4LFX27HHeWy,0,2015,power-pop,0.516,0.77,4,-7.543,1,0.0314,0.000568,0.0101,0.14,0.357,116.061,225373,4
+Brendan Benson,Eventually,2Cxx4onkQNxaKoHKLpJEiy,9,2009,power-pop,0.57,0.672,9,-8.052,1,0.024,0.06,2.45e-05,0.124,0.51,97.701,255493,4
+Swingin' Utters,Watching the Wayfarers,5rh18Hv2iP2PXgE52htdmj,14,2000,power-pop,0.495,0.908,2,-5.154,1,0.0405,0.0101,0.00981,0.237,0.839,125.859,114973,4
+The Tearaways,More Dollars Than Sense,6ZfJqFlSzOAqNHG0UwVHTd,0,2014,power-pop,0.522,0.85,1,-4.778,1,0.0311,0.0325,0.000224,0.18,0.75,157.973,234711,4
+Blue Cartoon,How Many Times,2NeLNucnUIPVHylMasm2NF,0,2010,power-pop,0.538,0.489,7,-8.584,1,0.0303,0.148,1.61e-05,0.08,0.67,143.688,150147,4
+The Peawees,Leave It Behind,11i3YAhBDxdHrb1uGsQsEl,2,2015,power-pop,0.401,0.837,11,-5.403,1,0.0374,0.0177,0.211,0.112,0.738,162.548,175107,4
+The Flashcubes,I Don't Want to Be a Human Being,6xJAZDzguw1nHkHap9uqLb,0,2012,power-pop,0.497,0.946,9,-6.358,0,0.0456,0.0011,0.789,0.1,0.723,130.013,208667,4
+Cotton Mather,Lost My Motto - Millennium Chrome Version,0yBQGX625ci3AnrbuzwTJh,1,2012,power-pop,0.441,0.877,4,-8.398,0,0.0639,0.0349,0.0,0.12,0.522,141.76,219720,4
+The Jayhawks,Queen Of The World,66ELarIJWfsMzugLRpdLvg,7,2000,power-pop,0.55,0.748,7,-6.365,1,0.0378,0.00174,0.00105,0.0892,0.394,119.971,155267,4
+Paul Collins,Tick Tock,1OwRxjjn5UnAoT9mQgTUd1,0,2018,power-pop,0.555,0.496,0,-9.589,1,0.0266,0.0393,0.00546,0.123,0.56,104.963,210107,4
+Old 97's,Valium Waltz,6TeXeOnOXWxc6NCyEbym6S,6,2004,power-pop,0.456,0.293,0,-12.574,1,0.0337,0.0501,0.74,0.224,0.22,128.185,279667,3
+Suzy & Los Quattro,You Angel You,6xnlD4gJSMseOLtucjxO23,0,2011,power-pop,0.406,0.889,4,-6.06,0,0.0656,0.00472,0.000362,0.109,0.266,141.036,344960,4
+Stinking Polecats,Losers Lament,0fZ3FZNWfOJR0DrSUg6A5p,0,2005,power-pop,0.516,0.898,9,-3.743,1,0.0362,0.000123,0.00455,0.0815,0.471,86.018,247813,4
+Chris Spedding,Girl in the Video,6ZFmYt47KiaiHEsDTXbtEQ,0,2001,power-pop,0.679,0.834,8,-8.558,0,0.0357,0.0363,0.787,0.34,0.792,120.646,185560,4
+Moral Crux,Pathos,6HdohwNs7jzG14CSx7tZlG,0,2015,power-pop,0.359,0.49,11,-17.189,0,0.0418,0.228,0.00103,0.64,0.401,104.055,161019,4
+Superchunk,Staying Home,74YAOplDy3OZRfUBFUWrE6,6,2013,power-pop,0.203,0.975,4,-4.872,1,0.103,1.51e-06,0.0991,0.0873,0.311,190.233,75047,4
+Riverdales,Crash Of The Moons,4SelFwW8ST0GKiilb8Wc6J,20,2010,power-pop,0.427,0.908,4,-4.539,1,0.0339,0.00124,0.0,0.125,0.645,146.994,195840,4
+Herb Eimerman,Believe That I Do,0a9ZzKr6Pd5iGQw9OVmczW,0,2015,power-pop,0.575,0.691,0,-7.922,1,0.0335,0.041,0.222,0.133,0.448,119.966,234000,4
+Tim Lee,Keep It True,6eSoxiFuTVyZbd1Ogdk83j,0,2003,power-pop,0.651,0.614,0,-7.743,1,0.0292,0.0528,0.0164,0.0926,0.563,119.877,174520,4
+Velvet Crush,Stop,2BFmu14eD86dHr17Qmfksy,2,2001,power-pop,0.363,0.948,9,-8.303,1,0.042,0.00573,0.551,0.199,0.653,143.281,140533,4
+Fast Eddy,Take a Look,3cozVActxcxZJ8D8uRpBa0,9,2022,power-pop,0.566,0.945,2,-5.357,1,0.0365,0.0295,8.9e-05,0.442,0.792,122.036,173227,4
+The Manges,Plan Honolulu,3zM9vxnazovRJIspGEFH6n,8,2014,power-pop,0.482,0.862,2,-3.841,1,0.0327,0.0115,0.0,0.251,0.782,117.22,87507,4
+Hüsker Dü,Ultracore - Live,3Fuf0Dkp1SlFYqSCayeLYz,4,2017,power-pop,0.293,0.974,0,-5.168,0,0.111,0.128,0.127,0.315,0.133,81.975,47987,4
+Richard X. Heyman,The Golden Coast,7A5lqOzwOTqg7a6wWb1Ysn,0,2019,power-pop,0.597,0.773,2,-4.231,1,0.0383,0.08,6.14e-06,0.336,0.707,114.903,163007,4
+Arlo,Too Sick To Tango,0ynjSB51herAc8QHqwTq7M,2,2002,power-pop,0.457,0.987,11,-3.686,1,0.0912,0.0114,0.0,0.153,0.399,146.166,225160,4
+Travoltas,Liv Tyler,694UUNV8vCKtlzHNyCEw5C,4,2002,power-pop,0.258,0.831,1,-5.18,1,0.0323,8.29e-05,0.0,0.0504,0.72,166.123,179893,4
+The Hextalls,I Bought You a Singing Toilet,1fa0fLbsvZENUJShLk7H9g,7,2015,power-pop,0.482,0.992,8,-3.184,1,0.137,0.00696,0.00225,0.345,0.28,100.008,152694,4
+Elvis Costello,That's Not The Part Of Him You're Leaving,6yyIVFFv1puaoM8hpVOuEc,3,2010,power-pop,0.348,0.384,2,-10.492,1,0.0348,0.615,0.000106,0.117,0.441,171.954,282640,3
+WYLDLIFE,Keeping up with C.T.,7F273TysSMzvbW4RWA3unT,5,2020,power-pop,0.51,0.885,0,-4.168,1,0.0544,0.000208,1.99e-06,0.114,0.742,127.997,221933,4
+The New Pornographers,When I Was A Baby,0eSA727RhwB4prM3BOJO35,7,2003,power-pop,0.372,0.667,0,-6.122,1,0.0288,0.0541,1.18e-06,0.209,0.618,144.301,146160,4
+Smoking Popes,The Corner,4NPWMBMY8b8WZvusDgleu9,3,2008,power-pop,0.678,0.532,7,-7.869,1,0.0316,0.0784,0.0,0.116,0.341,110.893,302867,4
+Nick Lowe,Lay It On Me Baby,0pU3BtslOPzQIhwgdZMd8O,16,2020,power-pop,0.592,0.597,7,-10.594,1,0.0303,0.163,2.78e-05,0.0728,0.844,119.363,172107,4
+The Manges,Don't Mess It Up,6jQ2OaqL4iokTUKLH2YzGb,7,2006,power-pop,0.39,0.935,11,-3.151,1,0.0438,4.06e-05,0.0397,0.165,0.807,106.073,133253,4
+Greg Pope,Only One You,5E5cUcpTVrpH9gkoJlDr9L,0,2008,power-pop,0.306,0.718,8,-5.058,0,0.032,0.0232,0.0,0.345,0.421,82.977,216253,4
+Tony Molina,Hard To Know,2bDyB2CNIHR9u7FBHk7PHP,16,2019,power-pop,0.232,0.822,4,-4.851,1,0.0465,0.0443,0.000139,0.477,0.582,138.019,43634,4
+Matthew Sweet,Feel Fear,2gBef4ki5GrWgpyxDCYTDF,1,2008,power-pop,0.392,0.615,8,-6.206,1,0.0323,0.177,0.0,0.669,0.319,111.832,224080,4
+The Muffs,Do the Robot,0S16abGhZ1kOjFep7kTmYc,4,2012,power-pop,0.104,0.902,4,-5.766,1,0.0787,0.0171,1.21e-05,0.61,0.608,207.829,288320,4
+Rooney,I'm A Terrible Person,4RNawyIilsNNjOrt0gfXMF,31,2003,power-pop,0.547,0.876,10,-3.15,1,0.0964,0.164,0.0,0.101,0.533,137.244,166600,4
+F.Y.P,God Don't Give 2 Shits About Me,6KgicZUMZObO1tGTIXXYER,2,2000,power-pop,0.237,0.97,0,-6.239,1,0.102,0.000723,0.00025,0.329,0.696,156.638,196360,4
+The Knack,Everything I Do,0gmltsWjyXMFTMVdrcqhmM,2,2015,power-pop,0.472,0.638,2,-6.163,1,0.0271,0.0664,7.35e-05,0.357,0.398,74.948,229893,4
+Elvis Costello & The Attractions,Lipstick Vogue,4ZP4ud4S7tqeVHDJeXawPU,18,2021,power-pop,0.292,0.966,11,-5.926,0,0.091,0.00018,0.549,0.105,0.699,150.84,212200,4

@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Doug Benson,Bane Gumb,2TcjCjjadh8dYfpsJ4dnNR,5,2015,comedy,0.498,0.585,2,-15.253,0,0.946,0.895,0.0,0.936,0.207,93.402,333323,3
+Jeff Dunham,An American Christmas (José),4bWoyGzUrzcxOjByTemRfC,6,2019,comedy,0.658,0.579,0,-7.475,1,0.0382,0.574,0.000165,0.146,0.934,140.052,205360,4
+Ali Siddiq,Half a Blunt,7l6EHG9f6dohSzb22gPqwk,14,2019,comedy,0.662,0.688,10,-11.811,1,0.933,0.802,0.0,0.891,0.288,49.28,186932,4
+Robert G. Lee,Coddling Children,6Dd8vz4xH2sZKmAEWdYfVx,10,2012,comedy,0.744,0.829,4,-8.69,0,0.945,0.845,0.0,0.719,0.254,96.047,38933,4
+Pink Guy,Be Inspired,717FZ6lz3U0dCNQJCcXyyv,30,2017,comedy,0.564,0.623,10,-3.906,1,0.103,0.926,1.38e-05,0.076,0.669,177.928,65411,4
+TK Kirkland,Weak Ass Niggas' Pt. 2,0vsAS1o2mMqEN7spVG8Eq6,12,2008,comedy,0.694,0.243,9,-23.361,1,0.96,0.796,0.0,0.322,0.58,64.657,140400,4
+TK Kirkland,Stank Pussy,69Rwm4BpkSdE1ex35Y7wg3,7,2019,comedy,0.45,0.511,10,-23.795,0,0.862,0.832,0.0,0.706,0.234,120.551,86238,3
+Orny Adams,Phone Sex,681jBmqXjq5SoIDgXKjIxT,10,2006,comedy,0.515,0.767,8,-15.339,0,0.778,0.694,6.64e-05,0.956,0.26,121.108,129200,4
+Nore Davis,WWWIII,5LP4pGxKIANVPttj9GBUr6,2,2022,comedy,0.659,0.759,4,-8.098,1,0.891,0.86,0.0,0.963,0.575,35.411,139633,4
+Steve Sabo,I Like to Be on Time,3PqQrT2QNvi4pWRODOot38,0,2015,comedy,0.685,0.501,2,-11.803,1,0.893,0.95,0.0,0.359,0.541,117.012,212400,3
+Ryan Singer,Blue Pills & $50 Bills,4DDqoQwq2W1SFDissE8Oc2,12,2012,comedy,0.633,0.671,5,-8.333,1,0.916,0.821,0.0,0.736,0.783,72.103,138900,4
+Ophira Eisenberg,Marathon,4emLuOTxpdIjzCzeJkWZ4O,10,2014,comedy,0.699,0.454,9,-10.512,0,0.942,0.92,0.0,0.795,0.421,133.674,83773,3
+Hampton Yount,Godzilla VS Nietzschezilla,3WeG1DRtV7s2KUmSb05fvR,10,2019,comedy,0.718,0.462,7,-11.609,1,0.951,0.846,0.0,0.66,0.67,66.552,165000,4
+Jon Lajoie,Please Use This Song,5OLz8CR3llb4vkfn5u730X,24,2014,comedy,0.639,0.586,9,-4.484,1,0.0416,0.00614,0.0,0.221,0.482,119.989,241522,4
+Andy Farnsworth,"Two Banana, Look Away",3NVJuhouxVn0md8kzAQSGn,2,2022,comedy,0.466,0.496,10,-14.899,0,0.908,0.687,0.0,0.605,0.601,84.74,77783,1
+Billy Gardell,Halftime,61QZB9zqQNr23zY2GNVnBB,24,2019,comedy,0.537,0.944,3,-11.4,0,0.909,0.781,0.0,0.741,0.0511,112.246,213347,5
+Mike Vecchione,Transvaginal Mesh,6sNqt46HZcjA4ZOr6vlDpJ,6,2014,comedy,0.523,0.852,1,-7.333,0,0.93,0.593,0.0,0.824,0.613,110.772,268749,4
+Chingo Bling,They Dont Want None,723UKWhnqo6Mv7M7odbZH5,0,2005,comedy,0.551,0.872,8,-4.208,1,0.507,0.0765,0.0,0.23,0.0705,167.961,591907,4
+Moes Haven,Give Me One Good Reason To Forget About You,7Cu6KkWYjkuepPO0yWGndN,0,2006,comedy,0.497,0.117,6,-14.294,0,0.0372,0.948,0.0142,0.167,0.267,66.117,94880,4
+Dirt Nasty,Mountain Man - Featuring Tony Potato,6Pz8mflA2z1DNQr6mLFuAO,6,2008,comedy,0.811,0.538,7,-8.953,1,0.157,0.303,0.0,0.102,0.857,83.998,211453,4
+Dan Telfer,Tentacles Crossing the Rubicon,4uR2TonJHaqacAwvEEEEnO,10,2015,comedy,0.623,0.516,10,-13.545,0,0.918,0.67,0.0,0.81,0.77,84.13,270190,4
+Anjelah Johnson,Rosetta Stone,4oDVorlRkryl7O2kpaJcN4,10,2016,comedy,0.521,0.852,5,-13.204,1,0.909,0.787,1.59e-06,0.708,0.123,79.629,230555,4
+Greg Proops,Requiem for a Club That's Still There,1iNurDr617OmQtJ9h5PY7G,14,2022,comedy,0.604,0.409,8,-18.17,1,0.896,0.638,0.0,0.839,0.666,119.407,127380,3
+George Lopez,Latino Vote,3VMzMfceN5pb0pFBA3EQ5a,16,2012,comedy,0.433,0.959,9,-4.894,0,0.853,0.922,8.38e-06,0.95,0.0932,98.791,119453,4
+Afroman,Smokers Only,4Dxg5aX5cyUWBRGobDjzvf,18,2013,comedy,0.921,0.2,8,-12.641,1,0.0627,0.0209,0.0019,0.0953,0.493,135.961,296516,4
+Mo Mandel,Florida,2oJGUhInUjdnE5B2Ol0vWE,22,2017,comedy,0.627,0.706,2,-10.197,1,0.944,0.821,0.0,0.783,0.489,71.243,153108,4
+Christopher Titus,Brick O Dildos,5bhDDKyI5PBu5HvhcmE4Rd,20,2015,comedy,0.638,0.891,5,-6.443,1,0.925,0.87,0.0,0.651,0.209,129.099,183058,4
+Captain Dan & The Scurvy Crew,Rime of the Hip Hop Mariners,15HHUtKM8GEb9DyIEkg5dO,3,2007,comedy,0.76,0.712,1,-8.893,1,0.28,0.168,0.0,0.0759,0.647,90.029,226000,4
+David Brenner,Being Jewish,2TACvUOoInEVCSm6lYXcnD,2,2009,comedy,0.52,0.615,11,-7.56,1,0.923,0.697,0.0,0.917,0.319,67.488,499227,4
+Andrew Orvedahl,Title Track,4DX1UkmamaaqWvxxWaMwe9,16,2020,comedy,0.501,0.77,2,-11.048,1,0.93,0.734,0.0,0.672,0.562,80.866,198401,4
+Jim Florentine,Crank Yankers,09It4m7gScBvieZVkHieag,1,2008,comedy,0.556,0.723,5,-10.938,1,0.704,0.828,0.0,0.91,0.625,122.384,134013,4
+Al Madrigal,Chucho Loves Nature,1QWVL305ca9hV2buXpBLH0,21,2013,comedy,0.421,0.953,6,-4.332,0,0.947,0.724,0.0,0.97,0.259,74.929,201533,4
+Stephen Lynch,3 Balloons,0GIorNnH3LXP4uOGzI6wh6,27,2009,comedy,0.547,0.55,2,-9.675,1,0.0347,0.0793,0.0,0.124,0.412,96.473,244413,4
+Papa Razzi and the Photogs,"Ashlee Simpson, Why'd You Go And Fix Your Nose?",7pSMaXz6RyggKMSUjX6g8W,0,2007,comedy,0.516,0.053,7,-16.26,1,0.0513,0.935,0.0,0.0991,0.308,71.731,124973,4
+Drew Barth,Sharing a Bathroom,2hA1KLZUKPpoK5g3Q4OVAr,20,2018,comedy,0.5,0.714,2,-13.68,0,0.878,0.794,0.0,0.63,0.544,45.939,121705,4
+Matt Weinhold,Bald Race,40qWnlEt0Qrz4X3zf7DYGV,0,2008,comedy,0.587,0.791,6,-11.558,1,0.788,0.493,0.0,0.895,0.502,100.194,64507,4
+Jeff Allen,"Happy Wife, Happy Life",2O6YhbjFWaKMvovvXreHlV,16,2011,comedy,0.47,0.851,2,-13.17,1,0.928,0.645,0.0,0.878,0.167,132.127,200867,5
+Jason Allen,Drugs,6NYMc9CwvsZmOjH1ZWCWGm,14,2022,comedy,0.651,0.495,5,-14.665,1,0.941,0.735,0.0,0.641,0.704,93.747,146678,4
+Jim Gaffigan,Singapore - Asian American,0qqIzQapuCdq2TsdJgaT7E,22,2020,comedy,0.617,0.556,1,-13.455,1,0.948,0.695,0.000269,0.398,0.511,105.714,122722,4
+Billy Gardell,Hard to Be in Love,3fnW3VoU1pBX5DvAahkV42,27,2019,comedy,0.598,0.936,11,-11.034,1,0.875,0.78,0.0,0.707,0.039,35.132,141480,4
+Moes Haven,Inappropriately Detailed Response,2LQuYvzXyRT2u4BrgqNVmh,0,2006,comedy,0.813,0.577,8,-14.097,1,0.132,0.794,0.0,0.301,0.842,131.312,104480,4
+Comedian Bob Marley,Dude...I popped a Boner,3fh0FWqPqeBJ2FWfxsEARs,8,2005,comedy,0.512,0.932,2,-6.867,0,0.769,0.829,0.000107,0.919,0.338,92.331,127600,3
+Joe Zimmerman,Name Game,7cOKATFazD4U2CDLTj2JoT,9,2018,comedy,0.489,0.689,7,-12.736,1,0.913,0.874,0.0,0.456,0.298,127.353,376157,4
+Katt Williams,Nuh Uh Mr. Jackson,2reIi6iHy1aZyFd1SjYARp,20,2006,comedy,0.539,0.939,9,-10.298,1,0.949,0.797,0.0,0.864,0.469,85.543,216182,3
+Jake Thackray,North Country Song (Rain on the Mountainside),77wpgqDQ8qR3kouzF8AMRg,6,2003,comedy,0.628,0.132,7,-16.641,1,0.0598,0.969,0.206,0.107,0.564,141.055,164467,4
+Dan Levy,Pee Sitting Down,4zJGcRyURbcOfqGOqL6ASM,6,2017,comedy,0.604,0.709,2,-13.944,0,0.931,0.829,0.0,0.846,0.125,122.925,95581,3
+Chas & Dave,Auntie Skinner's Chicken Dinners,3ltSHTwhCT1mLXHeub4CL2,14,2001,comedy,0.764,0.884,10,-7.828,1,0.0352,0.471,0.0,0.299,0.99,135.652,58667,4
+Comedian Bob Marley,The In-Laws,0cXUJEZvSaXn2QFS6ooO39,5,2003,comedy,0.681,0.86,4,-7.829,1,0.643,0.76,0.0,0.76,0.433,83.403,75813,3
+Warren B. Hall,Basic Floor Model,07NitnACE7oeMZsOyYqiiX,14,2018,comedy,0.555,0.692,5,-16.016,1,0.872,0.824,0.0,0.735,0.252,119.971,183125,4
+Willie Barcena,Willie Interview,3RntTfsdF36NbWVckiBzwE,1,2009,comedy,0.62,0.117,8,-24.442,1,0.922,0.835,0.0,0.461,0.699,85.1,392678,4
+Ryan Dalton,My Favorite Sound That I Have Ever Heard,2QvQQANaUJf4vs1LhYWaT5,3,2009,comedy,0.377,0.329,6,-16.228,0,0.792,0.145,6.24e-05,0.48,0.269,96.954,102560,3
+Steve Hofstetter,Stupid Places,1MAtStKjgTUgq6JISKCxdQ,3,2004,comedy,0.345,0.827,6,-13.143,1,0.911,0.936,0.0,0.213,0.334,75.04,474893,4
+Jeanne Robertson,On TV at Miss 'Amorica',1sE9GyWhQ9UqEtiA3YvA7g,5,2009,comedy,0.608,0.349,6,-17.188,1,0.921,0.969,3.23e-06,0.257,0.17,152.418,142533,4
+Awkwafina,Come Stop Me (feat. Dumbfoundead),4qjEuzxdL9Nbkc5gHDOXo6,17,2014,comedy,0.783,0.903,1,-5.277,0,0.234,0.176,0.0,0.158,0.711,143.953,133333,4
+The Spoiled Chefs,Who Put Coffee in my Mountain Dew?,21nUKrtItmNnqL9vLTxYjl,0,2004,comedy,0.614,0.426,7,-8.636,1,0.0661,0.719,0.0,0.185,0.388,155.301,155347,4
+Baron Vaughn,Space,2qyqiG7GtX2lxuCjyaUNNf,10,2016,comedy,0.533,0.563,10,-13.274,0,0.92,0.799,0.0,0.864,0.517,90.266,329274,3
+Joe Zimmerman,Stars vs. Sand,5vdnPvf3wPY1qB8q7UXBBt,21,2018,comedy,0.532,0.596,7,-13.168,1,0.912,0.899,1.87e-06,0.395,0.466,127.437,67565,3
+Eddie Della Siepe,Virginity & Porn Comments,2TH0Nbphrm7Frek2wlvCDo,19,2020,comedy,0.609,0.455,9,-14.937,1,0.949,0.826,0.0,0.777,0.52,73.839,106995,3
+Miles Jupp,Laser Quest,4EMxOmDM032WzRjKz5EEGQ,5,2008,comedy,0.695,0.462,2,-14.214,1,0.896,0.746,0.0,0.332,0.783,66.745,445973,4
+Robert Kelly,"On a Rock, For an Ice Cream",5N1jlJtzPEDy45frOm2hdp,7,2015,comedy,0.514,0.592,7,-11.181,0,0.925,0.863,0.0,0.792,0.68,92.1,383777,3
+Muck Sticky,Beach Party,5F1ilFdidbtONvBqeSkiCp,4,2022,comedy,0.576,0.694,7,-13.19,1,0.281,0.263,0.407,0.709,0.539,153.071,214163,4
+Mike Birbiglia,Winter in Bermuda,2qVe4WymBocjAWHvn1xucX,20,2013,comedy,0.534,0.715,10,-9.334,0,0.955,0.922,0.0,0.308,0.466,79.334,437684,4
+Lavell Crawford,Fired from Slavery,1SJXliHoJsxu5K2GeDTwAD,10,2020,comedy,0.593,0.866,6,-11.442,0,0.947,0.82,0.0,0.704,0.106,54.79,257848,4
+Derek Richards,Florida Winter Call,25AeTMhSm7pHrrcr6RNEWZ,1,2002,comedy,0.679,0.483,8,-12.213,1,0.936,0.746,0.0,0.745,0.74,73.97,94787,4
+DeAnne Smith,What's Wrong with Us,3jZVYNxDYrRIMFfX0STPEI,9,2016,comedy,0.571,0.277,10,-19.847,0,0.957,0.931,0.0,0.613,0.532,58.568,213760,5
+Afroman,420,5fXxGeJXsfsHeihkWVrB3L,44,2022,comedy,0.848,0.482,1,-10.576,0,0.0968,0.546,0.0021,0.108,0.782,120.008,312059,4
+Bret Ernst,Skipping Class,4DQpFk6jcKWcmV3dsBtAki,10,2022,comedy,0.624,0.847,4,-6.251,1,0.903,0.751,0.0,0.633,0.685,112.593,275792,1
+Josh Blue,Thank You,6i9WubHs2IFXAzePElHs16,9,2016,comedy,0.45,0.845,5,-13.628,1,0.524,0.89,5.49e-06,0.445,0.0394,81.138,66118,5
+Ari Shaffir,Militant Vegetarians,7wfYBnQioBJl7u9doRWPln,12,2012,comedy,0.614,0.487,6,-13.43,0,0.955,0.859,0.0,0.759,0.517,67.018,98360,3
+Mike Paramore,Minimum Wage,0A3aTfa1tWovqiOwRp7RuA,5,2021,comedy,0.389,0.635,4,-17.343,0,0.93,0.674,0.0,0.914,0.294,86.521,194737,4
+Lil Mosquito Disease,The Hive,0rBvBe2sO3hGolc516kiX2,1,2022,comedy,0.744,0.82,9,-4.137,0,0.202,0.083,0.0,0.142,0.641,128.012,230635,4
+Tom McCaffrey,Dickhead Friends,1Zf7nXZ8rUlVHeIiEJI9EI,3,2008,comedy,0.607,0.459,11,-12.455,0,0.852,0.89,0.0,0.587,0.86,100.139,39173,3
+Bill Santiago,Praying to Siri,1HmCqnQNomcaJwQ4SDspPA,1,2021,comedy,0.606,0.313,8,-16.551,1,0.783,0.884,0.0,0.794,0.629,132.532,137287,4
+Blowfly,Suck Around the Clock,4Wsv13cS4r9Kvzag1GwYoE,0,2004,comedy,0.566,0.749,5,-7.535,1,0.407,0.604,0.0,0.689,0.946,176.871,53227,4
+Tommy Savitt,Soulmate,2XiWPbOsg9puh0FyrTg9Gz,0,2007,comedy,0.438,0.86,2,-11.939,1,0.947,0.807,0.0,0.966,0.271,69.159,109080,4
+Tom McCaffrey,Friday the 13th Films,5C1BPUnxEo5VDCnBSHUdL2,3,2015,comedy,0.572,0.816,0,-6.67,0,0.954,0.859,0.0,0.685,0.368,67.206,66626,3
+Donnell Rawlings,Read out Loud,2Mrb5u2VNgCbeXNeqvIaeQ,6,2017,comedy,0.4,0.926,9,-8.801,0,0.915,0.956,3.63e-05,0.62,0.338,87.634,377385,3
+Jamie Kilstein,Drugs,3bOAzmw55xdI0nXA7D0lAq,12,2009,comedy,0.701,0.714,1,-5.761,1,0.84,0.561,0.0,0.844,0.755,118.344,175147,4
+Jimmy Dore,Pre Emptive War,3fCzEsGAPPIecygFp5hPhn,0,2008,comedy,0.675,0.354,6,-18.258,1,0.913,0.815,0.0,0.667,0.965,119.13,27813,4
+Eddie Gossling,Smoothies,47PSfQPqMJYLfIMymt3l5A,2,2012,comedy,0.633,0.789,6,-9.707,0,0.915,0.84,0.0,0.772,0.572,109.127,101750,4
+Lavell Crawford,The Waterpark Incident,3uXyVe6SsCkfkq6n8tDhUx,7,2020,comedy,0.647,0.627,4,-11.644,1,0.95,0.821,0.0,0.714,0.515,104.038,576510,4
+Jessi Campbell,Having Kids,0z3wUmfkLBOjqgfkw6F6Py,2,2010,comedy,0.594,0.482,10,-14.203,1,0.932,0.929,2.16e-06,0.506,0.454,83.893,113241,3
+Mike Vecchione,Strategic Drinking,2BUO0EcuuOQ217aIITBV4X,9,2014,comedy,0.553,0.86,1,-7.594,0,0.854,0.446,0.0,0.711,0.714,107.542,60690,1
+The Boss Hog Barbarians,J-Zone Hoggamix,56I3OCPRxJv07IoFRU9z2G,0,2006,comedy,0.581,0.926,5,-6.142,0,0.292,0.0845,0.00104,0.306,0.693,176.997,134080,4
+Miles Jupp,Intro,1l63GWOGFahXty0cOamhZv,6,2008,comedy,0.715,0.428,11,-15.358,1,0.942,0.636,0.0,0.368,0.767,114.283,546947,5
+Bill Bellamy,You Ain't Supposed to See People Everyday,2RMW7f6yZa5VvnQS7Fw1Wi,7,2022,comedy,0.505,0.624,1,-11.045,0,0.801,0.314,0.0,0.928,0.388,93.022,168906,4
+Steve Byrne,Political Hypocrisy,6tuyeqDMPl9Z6bFtlQTTAk,15,2022,comedy,0.69,0.493,1,-13.315,1,0.951,0.828,0.0,0.903,0.883,138.526,139818,5
+Slade Ham,Behind the Dumpster,0UUxGIcCsJI5kGCrYvQtvM,2,2010,comedy,0.559,0.672,6,-7.717,1,0.881,0.798,0.0,0.849,0.67,70.566,150440,5
+Judy Gold,Kids / Vaginas / Breast Feeding,4hPZhrM4jVWFu9c3oGPDQn,3,2005,comedy,0.598,0.897,1,-4.606,0,0.856,0.765,0.0,0.519,0.64,78.181,208547,4
+Andy Parsons,You're One in 4 Billion,1JBYW4gau8iyh9gzecK2ng,19,2015,comedy,0.445,0.659,2,-17.231,1,0.939,0.82,0.0,0.641,0.425,173.801,106187,4
+Mike Birbiglia,Don't Tell Anyone,6IUMmXy8zMpEdAMarNWduf,33,2011,comedy,0.517,0.834,3,-6.735,0,0.924,0.875,0.0,0.523,0.603,137.886,391853,4
+Larry The Cable Guy,Hot & Cold,5XSrcImB6Im1WEG8cF16j1,20,2020,comedy,0.651,0.775,8,-11.698,0,0.951,0.754,0.0,0.805,0.216,64.778,169129,4
+Triumph The Insult Comic Dog,Underage Bichon,04yIZe5MxQxToKpkb79Y7y,2,2003,comedy,0.697,0.71,0,-6.963,1,0.311,0.697,0.0,0.47,0.797,82.634,183467,4
+Bill Hicks,News / Movies / Religion,5f1HVxUpV4kJSqMtjtgXae,3,2005,comedy,0.467,0.857,2,-11.909,1,0.931,0.77,0.0,0.363,0.259,87.61,837053,4
+Moes Haven,Country Romp,4AMSqFn0dLOOgk0VIH7eax,0,2005,comedy,0.745,0.293,7,-12.469,1,0.252,0.624,0.0,0.111,0.664,115.716,86933,4
+Stanley Holloway,No Like-A da War,4pmX8qBjOhqgVnGaUReKVp,0,2003,comedy,0.69,0.319,7,-15.956,1,0.817,0.988,7.07e-05,0.115,0.379,136.67,175867,3
+Brian Posehn,Dork for Thirty Years,7oXxNtqcjNGoNxFqYhaEnO,11,2006,comedy,0.577,0.896,3,-7.69,0,0.949,0.851,0.0,0.865,0.316,86.06,192280,4
+Alonzo Bodden,Siri vs Alexa,1PGF0GFYLnBkfDOnHNgykT,3,2018,comedy,0.575,0.803,10,-11.052,1,0.926,0.952,0.0,0.682,0.0775,54.578,44773,4
+Arnez J,Four Star Tokyo Hotel,0xHUhrmvkqkjIfkohLWjDh,15,2014,comedy,0.524,0.889,1,-6.209,1,0.948,0.885,0.0,0.699,0.425,168.149,194004,4
+Bill Hicks,God Made a Mistake,5oirc3LWMTyclkLnsRic7r,4,2017,comedy,0.321,0.947,6,-10.456,1,0.865,0.813,2.58e-06,0.747,0.0641,83.96,296388,4
+Lisa Lampanelli,Useless Service Dog,7JD3fwnFkXkvmIzwtDNoLL,5,2015,comedy,0.568,0.403,2,-15.642,1,0.943,0.929,0.0,0.414,0.284,68.437,193407,4
+Hampton Yount,"Give the Constitution a Rest, It's Christmas",2NgQhPKdryv04DeSH1Sb4B,5,2015,comedy,0.615,0.559,10,-12.372,0,0.93,0.788,0.0,0.741,0.753,86.956,224506,3
+Dan Levy,Karate Class,1maILyDqQEwN0gOhi4IFy3,8,2011,comedy,0.468,0.945,1,-4.209,1,0.894,0.797,0.0,0.937,0.41,53.841,260080,4
+Warren B. Hall,Baby Names,2eDrlbe7rsoMj7EMNG3cTC,14,2018,comedy,0.568,0.514,1,-17.603,0,0.909,0.785,0.0,0.522,0.706,112.967,34208,5
+Jim Florentine,Mr. James,31M2CbHYN12uLruJWx8UsU,5,2002,comedy,0.696,0.575,2,-16.684,1,0.877,0.918,0.0,0.368,0.162,104.249,175573,4
+Franklyn Ajaye,Organic Fitness,5exM9QwsQNOvXG3NjFXlqX,0,2004,comedy,0.451,0.71,2,-13.733,1,0.936,0.892,0.0,0.887,0.29,59.545,652693,3
+The Manchvegas Outlaw Society,Basketball Fun,5JVup0AajgxNAJMS6pwipg,0,2009,comedy,0.928,0.38,0,-12.44,1,0.299,0.271,0.0,0.116,0.835,122.154,90000,4
+Chingo Bling,Chente,0oHtwAKLFkxB1MbDuw3xa7,1,2010,comedy,0.758,0.786,11,-5.999,0,0.0916,0.0147,1.23e-06,0.043,0.526,144.996,254903,4
+Louis C.K.,Encore,5vcH61sWhAoSJiPUsTyMVq,18,2012,comedy,0.386,0.582,1,-18.857,1,0.647,0.805,8.01e-06,0.677,0.0393,91.492,133721,4
+Kathleen Madigan,Cruise Ship Day 2,3aP68svOgbz3fmOo0vEXmh,11,2020,comedy,0.59,0.572,6,-11.474,1,0.939,0.746,0.0,0.76,0.578,62.283,265960,3
+Papa Razzi and the Photogs,"Katy Perry, Kiss Me!",6HpIeLHxWALYOyRs7hz9fb,0,2008,comedy,0.599,0.271,8,-12.346,1,0.0652,0.836,0.0,0.14,0.799,139.107,80813,4
+Myq Kaplan,Anti-Drugs and Pro-Drugs,3wIoVC2enyHGvdV6OTgdxv,13,2010,comedy,0.553,0.869,8,-8.124,0,0.598,0.63,0.0,0.931,0.76,87.043,105162,4
+Christopher Titus,My Dad,7rPaEgDpwVUKyB2yNcrPqS,13,2007,comedy,0.652,0.742,6,-8.841,1,0.905,0.647,0.0,0.637,0.773,81.505,36147,3
+Danny Bevins,Offended,2D9vfD9kuFNuvmi9Mhrvvo,3,2009,comedy,0.667,0.695,10,-7.191,0,0.937,0.56,0.0,0.337,0.626,111.317,78507,4
+Dwayne Perkins,Names,62h0T7seDilKxxbskBraxx,12,2020,comedy,0.47,0.629,3,-18.004,0,0.915,0.845,0.0,0.912,0.374,88.165,288336,3
+Matt Braunger,George W. Bush's DUI,6o2phN19UHPY8cAFWYI0c6,15,2009,comedy,0.59,0.775,6,-6.16,1,0.865,0.881,0.0,0.609,0.595,129.938,125293,1
+Afroman,Thank God I'm a Homeboy,21yMysntXKDlVTsqHYKKV9,26,2020,comedy,0.966,0.593,1,-9.512,0,0.156,0.247,2.21e-06,0.222,0.883,105.999,130429,4
+"The Odd Man Who Sings About Poop, Puke and Pee",The Leyna Poop Song,0yVCnvYuGt3KejnNP7jzS9,0,2023,comedy,0.673,0.208,0,-14.687,1,0.0566,0.746,0.106,0.112,0.353,154.879,126314,4
+Tenacious D,Drive-Thru,6oaZvhLj3UqDjwbs67ozVO,30,2001,comedy,0.775,0.2,8,-16.083,1,0.92,0.802,0.0,0.263,0.487,106.968,181880,4
+David Dyer,Slang Change,1EZMLxwcdVFIJbzOdRg8kv,1,2004,comedy,0.607,0.697,1,-11.538,1,0.929,0.706,0.0,0.441,0.433,72.042,123200,4
+TK Kirkland,Raw Deals Pt. 2,6ML7gpR5txZGfzaAdAR4fo,5,2008,comedy,0.568,0.34,8,-24.221,1,0.918,0.812,0.0,0.686,0.26,127.233,264907,4
+Glenn Wool,To See Yourself the Way Others Do,0HvKuuJpAS0qbCaEZ876nG,4,2019,comedy,0.606,0.463,2,-13.714,1,0.914,0.785,0.0,0.702,0.561,53.128,139563,4
+Peter Sellers,Goodness Gracious Me,7CrTISkJV6oELlNRFxo4X5,11,2000,comedy,0.674,0.379,8,-14.041,1,0.108,0.701,0.0,0.131,0.78,98.097,183040,4
+Lenny Bruce,Bloody Discrimination,3bYEFqVBKuJS1fnsoMlCOp,1,2002,comedy,0.653,0.399,8,-19.473,0,0.918,0.94,0.0,0.645,0.323,93.773,109827,3
+Pablo Francisco,Cowboys,6wgt0noa2jTHj4VjFCMuCN,14,2019,comedy,0.372,0.731,6,-21.469,0,0.871,0.822,0.0,0.993,0.123,85.669,291227,3
+Nore Davis,"Got a Dog, Dawg",5ZTVpVOsGreHVEvxrL3xF0,2,2022,comedy,0.515,0.551,9,-13.983,1,0.948,0.805,0.0,0.835,0.48,85.412,167604,4
+Jason Allen,The Gym,5fZXEOPEvtQ59HrFcCHsmu,15,2022,comedy,0.635,0.499,0,-14.425,0,0.834,0.789,0.0,0.859,0.759,133.42,81801,4
+Moshe Kasher,Good Evening Everybody (The Rasta) - Live,6Wd5mitcS5HskpKuYe3il3,13,2013,comedy,0.67,0.881,8,-3.018,1,0.605,0.813,0.0,0.923,0.761,99.148,237867,3
+Nick Youssef,Kids with Iphones,2OS4QznwJ4TwHwTNCmPpIa,2,2016,comedy,0.519,0.562,1,-9.951,1,0.729,0.453,0.0,0.707,0.945,65.59,90269,5
+W. Kamau Bell,Liberal Rapture To Capture,01K6TvCuQygnApis8cEJbl,4,2010,comedy,0.703,0.806,7,-8.201,1,0.928,0.906,0.0,0.668,0.584,107.346,76199,3
+Jim Florentine,Bitch,46tx14OWcQir1D9uvcyEJx,9,2002,comedy,0.73,0.64,1,-14.96,1,0.911,0.989,0.0,0.27,0.31,123.733,88347,4
+Chad Daniels,"Rock, Paper, Scissors, Jesus",36RDt4tcwMGggg0GqIs7YZ,20,2009,comedy,0.59,0.771,8,-9.295,1,0.914,0.784,0.0,0.66,0.433,100.952,255627,4
+Steve Hofstetter,The Seat is Half Full,5NNYLvt8DYlyIsUGKBFQZs,7,2018,comedy,0.482,0.456,6,-20.005,1,0.921,0.771,0.0,0.724,0.321,170.52,258500,1
+Blowfly,Niggaz Ain't Shit,4AZowSvMZL6BLoSwovfSF6,2,2006,comedy,0.66,0.792,2,-13.071,1,0.343,0.603,0.0,0.312,0.681,130.883,202947,4
+Jay Pharoah,Eddie Murphy for President,63eRvSW2ogRVsAxTbtMCYl,12,2015,comedy,0.593,0.738,2,-10.437,1,0.934,0.687,0.0,0.67,0.369,81.949,173198,4
+Jo Brand,Galway,6M1WKaId5n0p7ShNYOQsdK,19,2006,comedy,0.585,0.591,6,-16.816,0,0.911,0.798,0.0,0.814,0.438,110.923,107307,5
+The Lonely Island,3-Way (The Golden Rule),5orUhwRVuVCtRYxg3FzidD,45,2013,comedy,0.736,0.747,6,-5.398,0,0.185,0.0762,0.0,0.312,0.574,89.99,171027,4
+TK Kirkland,Vibrator,2I79XOazP7P4gZe8pDd6PT,4,2017,comedy,0.595,0.555,2,-15.334,0,0.945,0.967,0.0,0.936,0.635,115.605,153398,3
+Arnez J,Men in Jail,4PKcqwCObeVFo2a0kPoH7c,14,2014,comedy,0.423,0.969,1,-5.856,1,0.948,0.904,0.0,0.881,0.101,173.593,316720,3
+Blake Wexler,Stuffed Boy,1oqh9RdDu4FK6VHmSbkB9E,2,2018,comedy,0.613,0.445,5,-10.947,1,0.887,0.757,0.0,0.52,0.604,70.667,142600,3
+Paul Rodriguez,Imaginary Presents,3Mrc1Q0KcEraHtOXpiJWWg,6,2018,comedy,0.638,0.848,2,-8.202,0,0.926,0.602,0.0,0.864,0.569,81.043,65192,3
+Jamie Kilstein,Covid,5ykytwaT2oyThPMJAQiVCL,9,2020,comedy,0.747,0.297,2,-17.634,1,0.953,0.991,0.000185,0.16,0.775,71.435,177125,3
+John Mulaney,Sometimes Babies Will Point At Me,1Li0ftwM3JhDQixBpIZnOG,29,2017,comedy,0.573,0.877,7,-6.911,0,0.9,0.882,0.0,0.848,0.294,86.938,174973,4
+Brad Upton,Nap Out,1oRrmtIx9b6W4h1d176LKo,18,2018,comedy,0.408,0.843,10,-14.371,0,0.934,0.787,0.0,0.829,0.308,76.38,232899,3
+Linda P,Old School-Kriminel,2gnYB7EpCZ4SMjbVenmM0t,7,2012,comedy,0.661,0.713,7,-14.861,1,0.945,0.78,0.0,0.706,0.376,71.776,90948,3
+Gary Gulman,Snooze Button,2I5339TqQGqXi08AwF45bw,19,2006,comedy,0.7,0.323,8,-20.305,1,0.952,0.729,0.0,0.907,0.478,67.593,107755,5
+Das Racist,Amazing,3mJUzJuWOycksXRBpYcyUy,17,2010,comedy,0.571,0.879,11,-7.715,0,0.226,0.478,0.0,0.119,0.311,95.861,240347,4
+Patton Oswalt,My Prostitute,6PQVLgmavsBcfTci2Fzjqt,20,2014,comedy,0.599,0.813,3,-7.189,1,0.955,0.87,0.0,0.904,0.206,79.677,387905,4
+Jared Logan,Old Ladies,0vwiqVvLaIVbLpX1sL65ys,4,2014,comedy,0.548,0.602,1,-11.631,1,0.924,0.809,0.0,0.852,0.636,99.78,401691,3
+Moes Haven,Violin Girl,1JDKcsZNNIQrk5UmnTVEJK,0,2006,comedy,0.377,0.196,5,-13.082,1,0.0525,0.751,0.0,0.32,0.313,81.41,205027,4
+Linda P,Følelser,1drSWqme3Ny8GTTiBgLmE6,5,2012,comedy,0.494,0.63,10,-14.03,1,0.948,0.87,0.0,0.883,0.406,69.679,303069,4
+Milt Abel,They're Awake! (Live),7hVa6IOjEGTnZRZ3f5OOAz,1,2004,comedy,0.677,0.646,0,-14.598,1,0.93,0.845,0.0,0.638,0.127,103.513,79280,4
+Clinton Jackson,19 Year Old Groom,5JaGofrfNAevH3Cgh877Si,10,2007,comedy,0.524,0.99,1,-5.697,1,0.804,0.771,0.0,0.947,0.309,118.776,36733,5
+David Spade,Skiing,3WXYxy5FLZEIFeohf9PPo8,22,2014,comedy,0.58,0.898,4,-5.966,1,0.946,0.816,0.0,0.782,0.391,89.029,112806,4
+Jeff Dunham,Christmas with the Achmed Family (Achmed),1gKYxG9mjFVsanj1IUisQv,11,2019,comedy,0.685,0.636,0,-10.26,1,0.225,0.17,0.0,0.0533,0.925,126.58,124253,4
+Afroman,She Won't Let Me Fuck (Palmdale Sessions),3rpkuydjmF8TnQiMXpLiqw,14,2016,comedy,0.926,0.494,7,-6.592,1,0.383,0.299,0.0,0.0859,0.779,99.989,360547,4
+Greg Proops,Situation in Wyoming,21AjfLfMllXniMvdQHoude,9,2022,comedy,0.559,0.433,8,-16.119,1,0.909,0.679,0.0,0.951,0.685,103.921,165076,4
+Jamie Kilstein,Opener of a Failed Comedian,2jSL2CXTZyJGiBnzb7vcOB,14,2013,comedy,0.658,0.77,0,-6.061,1,0.881,0.591,0.0,0.972,0.75,101.819,123840,3
+Mike Epps,Detective Women,0tyIXbWiCwHDi9n7Yl7T7s,12,2009,comedy,0.438,0.845,6,-11.497,1,0.933,0.877,0.0,0.126,0.0716,82.516,290653,5
+Jo Brand,Posh Audience,2tO6DlysacQVKKZZGftHjd,3,2001,comedy,0.629,0.792,5,-20.739,0,0.89,0.707,0.0,0.177,0.892,79.069,86613,5
+Chingo Bling,Hit The Juan,3b26vedjb2znwIL0rqnhqr,9,2016,comedy,0.748,0.796,2,-3.842,1,0.173,0.0138,0.0,0.205,0.817,80.007,105012,4
+Josh Johnson,NY Bully,2dKtjzJeB91Du2RbzfdrIO,13,2017,comedy,0.475,0.82,6,-9.176,0,0.926,0.919,1.44e-06,0.872,0.423,146.54,111235,3
+Neal Brennan,Last Day of Slavery (Half Hour),3kTtlVZAQ0JI3lIagSxxIy,10,2014,comedy,0.477,0.93,6,-5.741,1,0.938,0.649,0.0,0.905,0.174,79.751,141187,4
+Josh Blue,No Hobbies,5TUFrhQPjWWkGGjxnfrCmR,9,2022,comedy,0.569,0.831,5,-5.589,1,0.932,0.819,0.0,0.936,0.619,97.002,275135,4
+Mike Sheer,Thank You so Much,3rggTQv3uf9276kv6Nr0kg,4,2020,comedy,0.487,0.456,3,-18.523,0,0.868,0.9,1.61e-06,0.588,0.622,97.425,60084,4
+Blowfly,Fuck In Her Behind,35s6dCeJ3bCdypKtXwky0r,0,2004,comedy,0.677,0.667,0,-9.542,0,0.188,0.741,0.0,0.806,0.912,120.087,65867,4
+"Joey ""CoCo"" Diaz",More Stealing & Cocaine,2nzbvaloBhT3V4efon6Jvg,13,2012,comedy,0.627,0.525,10,-17.242,0,0.938,0.877,0.0,0.772,0.497,94.055,510443,3
+Josh Gondelman,As a Man...,3lSoNgupmXaA1iUqbJD6bv,6,2022,comedy,0.677,0.635,11,-13.639,0,0.912,0.609,0.0,0.28,0.562,51.362,140039,4
+Jenny Talia,10 Things,61hICr8qacEUqPTmB5MqoU,2,2004,comedy,0.642,0.512,0,-6.757,1,0.0977,0.501,0.0,0.0557,0.628,161.32,184533,4
+Lavell Crawford,Make What I Make,0ormwMpmw3wNp24MJULNP2,15,2021,comedy,0.538,0.546,10,-9.636,0,0.571,0.689,0.0,0.434,0.385,102.544,76295,4
+David Pryde,Funny Health Issue (Live),1NV3tgtfyrWDbNSqMZE73F,4,2018,comedy,0.618,0.529,4,-13.559,1,0.932,0.855,0.0,0.537,0.656,82.738,87320,4
+Dan Ahdoot,NYC Restaurants,288AfykGc7ecEBjSGWkRdI,2,2006,comedy,0.734,0.412,1,-11.082,1,0.944,0.842,0.0,0.653,0.678,114.843,100226,3
+Stephen Lynch,Tattoo,21PsUTNJAY85BVpzI9qtOP,27,2012,comedy,0.737,0.364,9,-11.141,1,0.034,0.87,2.88e-06,0.125,0.493,126.965,258973,4
+Keith Alberstadt,Comedy in Florida,1bAz7cJmluRLtwT6E6TozV,9,2016,comedy,0.506,0.679,5,-10.092,1,0.943,0.898,0.0,0.722,0.533,85.351,201651,3
+Jim Gaffigan,Waffle House,6CFhT93BUb15qZ1LuHA1gZ,29,2009,comedy,0.485,0.96,5,-7.489,1,0.938,0.811,0.0,0.288,0.0929,148.899,180733,3
+Anjelah Johnson,Night Time Make up in the Day Time,4lVZUBbcJ9DaUwkqvmAHZO,20,2019,comedy,0.556,0.759,8,-12.77,1,0.948,0.792,0.0,0.593,0.0892,62.2,76935,3
+Dan Andersen,Mormors fødselsdagssang,4AF1pPWkJ1HPSyVywqPOgb,8,2006,comedy,0.622,0.404,0,-8.607,1,0.433,0.796,0.0,0.0679,0.797,169.499,83747,4
+Stephen Lynch,Tennessee - Live,2bhAyrDcZXaK9zlLEjkiA9,15,2012,comedy,0.471,0.364,4,-11.223,1,0.0882,0.477,0.0,0.686,0.446,138.482,332613,4
+Jake Thackray,Old Molly Metcalfe,7zFiSdjQgd7L8CYAklSR08,6,2003,comedy,0.657,0.203,0,-18.067,1,0.919,0.902,0.000561,0.0681,0.367,82.767,224307,4
+Whitney Cummings,Twilight,0d2y6cZ9zgx26MNNl283E0,27,2013,comedy,0.414,0.92,8,-2.338,0,0.336,0.859,0.0,0.744,0.704,54.66,105505,4
+Chingo Bling,Botas De Cocodrilo (feat. Kilo),0is74W71BL56zlGVawuvAm,0,2005,comedy,0.588,0.479,2,-10.192,1,0.401,0.613,0.0,0.621,0.833,99.18,148973,3
+Louis C.K.,Comparing Notes,6z1EWFEyXACOSjAE2kuw4w,22,2007,comedy,0.605,0.574,5,-13.473,0,0.886,0.954,3.04e-06,0.86,0.354,115.263,233734,3
+Nore Davis,Transgender,5cl1EWSEliPOoIr7MA6LeS,4,2014,comedy,0.581,0.471,8,-17.161,1,0.92,0.891,0.0,0.78,0.336,131.382,370413,3
+Dwayne Perkins,Only in America,2w1VJByYiIeY6sTDz4xt7e,23,2003,comedy,0.591,0.765,3,-7.187,1,0.898,0.862,0.0,0.818,0.53,113.681,62960,5
+Bill Santiago,Calm Down,5S2BOU3qEaszALTEwD0Dx3,0,2022,comedy,0.515,0.693,7,-13.737,0,0.755,0.978,0.0802,0.702,0.462,110.155,66842,1
+The Toilet Bowl Cleaners,Natalie Portman Poops,6J3LvgqHoKY0RnOwU3ERB3,1,2009,comedy,0.587,0.162,5,-13.12,1,0.138,0.851,0.0,0.104,0.372,81.724,128373,3
+Michael Ian Black,Character Actor,4f0Irrr9pEdpnZLOCy3avC,24,2016,comedy,0.704,0.592,10,-12.721,0,0.956,0.72,0.0,0.26,0.36,84.299,89227,4
+Oblivious Action Figures,Rubik's Cube,48cUo3LUZkUHlZDbxEhRCC,0,2006,comedy,0.87,0.431,9,-8.664,1,0.0565,0.00968,2.61e-05,0.0868,0.81,126.17,214933,4
+Blowfly,"Outro, Pt. 1",5LFQon0I1RFRwjIWHghRqp,0,2004,comedy,0.361,0.847,10,-8.611,1,0.275,0.327,0.0055,0.331,0.907,193.829,31200,4
+Tim Wilson,College Football Song,0tM7JrGyMw3MtB4FZ8L2OA,3,2009,comedy,0.773,0.831,9,-4.906,1,0.0538,0.403,0.000175,0.0505,0.639,112.065,161080,4
+Nick Griffin,Bring Out The Monkey,1yIWrA3Fz0iPueh25UCqaS,3,2010,comedy,0.547,0.764,6,-12.8,1,0.938,0.896,6.96e-06,0.581,0.846,82.099,41143,3
+Aaron Wilburn,It's Been Dry In Oklahoma,5u9Ba9GpbdFcU3HLhAzUkX,21,2007,comedy,0.461,0.941,5,-11.75,1,0.896,0.718,0.0,0.967,0.2,79.891,66333,5
+The Toilet Bowl Cleaners,"When You Poop in Your Dream, You Poop in Your Bed",6SjaObyqcEcRkrmayiyz8B,12,2014,comedy,0.749,0.419,7,-11.865,1,0.127,0.704,0.0,0.306,0.845,145.486,71467,4
+Bill Engvall,Here's Your Sign (Don't Mess with Us),4JNY0FOW3XlXQSq0qPYpED,23,2003,comedy,0.611,0.792,7,-4.65,1,0.0672,0.264,0.0,0.571,0.714,101.208,149333,3
+Gary Gulman,If I Were in the Audience,3UhkVDfE1BBvi6pShPAsNH,15,2006,comedy,0.432,0.432,1,-19.156,1,0.71,0.295,8.89e-06,0.968,0.247,109.821,137499,4
+D.L. Hughley,Stereotypes,5dKjUOkfw9WsidNCCUscSX,14,2014,comedy,0.417,0.954,7,-6.826,1,0.602,0.715,0.0,0.935,0.105,130.699,164267,5
+Afroman,Paranoid (featuring The 2 Zigg Zaggs),6B7XgBGTlTYhNUVDPe5xB5,13,2004,comedy,0.847,0.459,5,-6.925,0,0.0355,0.219,0.00192,0.0869,0.807,90.951,679387,4
+Mitch Fatel,Je Ne Sais Quoi,0hBcmTeOCMYMHCZql6INg2,13,2022,comedy,0.611,0.43,9,-15.971,1,0.949,0.87,0.0,0.885,0.672,126.066,99479,3
+Nore Davis,The Mask Foreshadow,6SIuiZ20IQOkeOMK8IsYOD,3,2022,comedy,0.649,0.444,0,-15.173,1,0.933,0.934,0.0,0.795,0.562,96.774,68492,3
+The Toilet Bowl Cleaners,The Diarrhea Bounce Back,2p6hgylQTnO4gqx74nGIhp,25,2011,comedy,0.701,0.357,2,-12.193,1,0.146,0.196,0.0,0.386,0.539,153.135,84933,4
+Dan St. Germain,I Like Music!,4W4KL6i4zHKYd0npiBBNfw,6,2014,comedy,0.633,0.542,1,-11.953,1,0.931,0.829,0.0,0.728,0.677,96.913,346790,3
+Neil Hamburger,Garden Party II,20OIn7xVfYRt2fuwSZOxMs,0,2008,comedy,0.532,0.542,0,-9.116,1,0.0299,0.117,2.38e-06,0.372,0.588,97.701,181280,4
+Kyle Kinane,Garlic Juice,6cxmYx2CDHRkaTZHVgsykX,22,2016,comedy,0.564,0.652,1,-8.088,0,0.951,0.813,0.0,0.765,0.507,83.802,734025,4
+Doug Benson,Dreams Do Come True,5ASUPv9sigp0V3ugaA8Oga,4,2014,comedy,0.521,0.547,11,-12.337,0,0.95,0.771,0.0,0.626,0.522,69.571,361772,3
+Hari Kondabolu,I Love Ethiopian Food,5ovCcCG0wFU3Yb1LJxLb5r,3,2017,comedy,0.59,0.488,1,-10.969,0,0.623,0.891,0.0,0.28,0.852,143.021,134500,5
+Daniel Muggleton,Don't Dog the Boys,3wYXKhoC2M86U5NwgQWnde,5,2021,comedy,0.741,0.443,4,-12.771,1,0.946,0.804,0.0,0.777,0.703,103.247,209365,4
+Stewart Francis,Annual Procrastinators Halloween Party,47tWoiJ83DCXjJQBfCWtfz,10,2017,comedy,0.502,0.267,5,-32.652,0,0.825,0.59,0.0,0.958,0.0378,112.821,443780,3
+Michael Ian Black,Amusement Park Fun,5teN3dIf4nd7Sb0QhKzEMp,12,2016,comedy,0.656,0.605,2,-12.922,1,0.959,0.812,0.0,0.773,0.568,128.768,330463,4
+Rob Little,Cichlid (S I K L I D) Attack,73Uxviy0xcM57BLNYafFya,0,2002,comedy,0.617,0.42,10,-18.049,1,0.914,0.702,0.0,0.955,0.727,92.041,100480,4
+Billy Connolly,Near You - Live,3JCuCsveHdCoR22a7ZnaYK,0,2003,comedy,0.459,0.395,4,-17.975,1,0.374,0.729,0.000265,0.938,0.644,81.401,447347,4
+Tom Cotter,College,60fwHlnnLX9m3jtvWRgFh0,21,2011,comedy,0.557,0.889,2,-8.141,1,0.93,0.768,0.0,0.699,0.393,54.196,92427,3
+Todd Barry,Audiences at Fahrenheit 911,0hVhlTNSKX6pRWFJqHuUaH,11,2004,comedy,0.617,0.152,1,-22.445,1,0.78,0.596,0.00154,0.496,0.547,118.965,35600,1
+David Pryde,Volunteering (Live),5aYLpQkmKbaaP8ZE7r9oXo,4,2018,comedy,0.675,0.398,0,-12.855,1,0.91,0.868,0.0,0.917,0.699,114.262,219853,3
+"Joey ""CoCo"" Diaz",Kleptomaniac,46Q3ll2viebOlBJlXVltc9,9,2012,comedy,0.683,0.487,10,-15.9,1,0.949,0.827,0.0,0.779,0.59,83.424,522053,4
+Jesse Joyce,German Halloween,49n32iEAZOJAj8hWvGM0BH,8,2006,comedy,0.587,0.61,8,-15.415,0,0.762,0.785,0.0,0.848,0.82,105.948,49520,5
+Rodney Carrington,The Presents Under The Tree (Better Be For Me),4mDQWGzLuzUwTSDXZomvf2,4,2009,comedy,0.557,0.777,9,-3.006,0,0.0419,0.544,0.0,0.0805,0.733,83.312,163120,4
+Josh Wagner,Low T,0AA2y3tylZrBZuMVckzt59,25,2019,comedy,0.579,0.456,2,-12.733,1,0.945,0.842,0.0,0.791,0.372,81.562,103733,3
+Rachel Feinstein,Only Whores Wear Purple,0Rn0zbpITIL7S77CaSNw6C,20,2016,comedy,0.604,0.866,4,-6.39,1,0.875,0.893,0.0,0.917,0.393,58.042,279203,4
+Mark Normand,Middle East Stinks,21eFBmVdZpbbx6RGwbOBfM,38,2017,comedy,0.595,0.891,5,-9.763,1,0.896,0.835,0.0,0.72,0.184,129.604,117001,1
+Laurie Kilmartin,White Lady Teaches Brown Baby To Speak Spanish In Harlem,6zPHBNk5dluzBu39Jp8B6n,2,2009,comedy,0.667,0.436,2,-14.201,1,0.915,0.821,0.0,0.571,0.618,122.182,127269,5
+Jim Gaffigan,Hiking,4IGElx0fd4AATM5dscje4F,24,2017,comedy,0.525,0.857,2,-11.209,1,0.961,0.813,0.0,0.898,0.19,71.929,193796,3
+Kelly McDonald,See You Again,1J7RuIQtvQQ14BvbWTsyUC,0,2007,comedy,0.656,0.764,7,-5.058,1,0.0312,0.418,1.31e-06,0.144,0.627,102.621,158093,4
+Ari Shaffir,Homeless Prank,4KpBHVjuQK1CqF2Iy0pDbi,11,2015,comedy,0.674,0.822,6,-7.206,1,0.854,0.892,0.0,0.559,0.472,47.778,118418,4
+Ryan Sickler,Wired Differently,1DxuWb1FDaQaxo2fBDQQEr,12,2018,comedy,0.624,0.721,3,-6.677,0,0.93,0.854,0.0,0.954,0.465,110.922,137138,3
+Joe Zimmerman,Persistence,621BPpD0Kjr3NLekA7rlAR,18,2018,comedy,0.483,0.835,4,-12.884,1,0.933,0.91,1.08e-06,0.593,0.231,122.544,137955,5
+Loni Love,Kanye Mess,2TSOiwjkIsGPEtGlXnoWUN,8,2019,comedy,0.608,0.724,6,-11.576,0,0.953,0.888,0.0,0.816,0.233,59.576,355587,4
+Mitch Hedberg,Soda Pop,2JsJMpaMypiRCBRO2gl0eV,25,2008,comedy,0.376,0.94,7,-8.384,1,0.957,0.933,2.39e-06,0.95,0.0967,64.556,197067,4
+Dry Bar Comedy,Verbal Response,19ZMlDVRTAeBpSwZw4O3gB,18,2018,comedy,0.569,0.647,1,-13.403,1,0.744,0.705,0.0,0.835,0.805,92.14,88505,4
+Brian Posehn,"The Most Romantic Story Ever Told, Pt. 1",73IBK0TDRHdROix4p6rIEF,13,2017,comedy,0.516,0.517,6,-14.892,1,0.961,0.774,0.0,0.785,0.295,72.34,212403,4
+Eddie Izzard,Greek Heroes,5mhK3tNhZgYiO3RDDQSWAN,2,2021,comedy,0.46,0.805,0,-11.184,1,0.958,0.756,0.0,0.82,0.139,81.008,243467,4
+Ross Noble,Drug Dealer,5OeTKfBQKibsxFFGz5Jcda,15,2006,comedy,0.535,0.725,4,-13.06,1,0.952,0.844,0.0,0.719,0.503,79.39,143867,4
+Brendon Burns,I Don't Remember Buying In,3EQ2WaEP09cS3eWp3A77i4,0,2008,comedy,0.514,0.572,1,-13.576,1,0.771,0.824,0.0,0.673,0.519,87.952,178360,4
+Jessi Campbell,Morons,6wMetN0BtEIWFzXl1EDkou,16,2018,comedy,0.49,0.622,1,-14.102,1,0.679,0.84,0.0,0.573,0.5,81.306,231483,4
+Rudy Ray Moore,Brother Rapp's Dream (St. Peter),5m4RjgL8KkdjUwSR2hSEAy,0,2007,comedy,0.547,0.514,2,-17.308,1,0.817,0.128,0.0,0.387,0.729,89.097,222867,4
+The Motern Manly Band,Never Got over It - Live,6kFDOnq77xMDeQlwcffxDT,0,2023,comedy,0.695,0.34,4,-12.194,0,0.0371,0.628,3.67e-05,0.669,0.12,123.525,208048,4
+Bobby Slayton,Religion,2omSh8YDnfLMFnCfygUcFw,2,2010,comedy,0.634,0.576,9,-11.609,1,0.944,0.786,0.0,0.863,0.96,82.388,76347,4
+J. Chris Newberg,What Goes Through The Mind Of A Man As He's Getting A Lap Dance At A Strip Club (Live),1WifZQzyn1av6jIyMXkpTr,0,2003,comedy,0.464,0.517,7,-8.042,1,0.327,0.854,0.0,0.692,0.772,80.548,55760,4
+Norm MacDonald,"Girls, Girls, Girls",0t0YNn3PJY179Wq7dGno8V,17,2006,comedy,0.584,0.331,1,-14.906,1,0.947,0.633,0.0,0.69,0.496,65.616,480507,4
+Nick Thune,Enough Is Enough,0uyUGsolClw6J2Mhvp2TNG,21,2014,comedy,0.442,0.811,7,-5.544,1,0.21,0.484,0.0,0.591,0.653,135.457,142341,3
+The New York Sports Band,Patrick Ewing Jr.,1xyQcfuk9cXOrIv8dhMmNX,0,2008,comedy,0.669,0.187,0,-12.611,1,0.0459,0.906,0.0,0.237,0.544,124.52,94093,4
+Ryan Sickler,Cocaine Alligator,7zQeZdMebQpaOE0PRAz8YK,11,2018,comedy,0.57,0.57,2,-10.025,0,0.935,0.808,0.0,0.937,0.448,84.736,497657,4
+The Toilet Bowl Cleaners,Moon-Shaped Poop,31GhbSsoULYBeQL7P0ivVY,3,2016,comedy,0.547,0.13,0,-15.088,1,0.0403,0.747,0.0,0.134,0.413,115.026,67000,4
+Dara O Briain,Silliest Thing On Holiday,2UlNWiApa6HKes3o0OVi2M,11,2012,comedy,0.546,0.688,6,-15.506,1,0.965,0.844,0.0,0.951,0.327,72.973,333857,1
+What I Like About Jew,Intro 4,3HjPGD9LxGJJSC4zDPnRnx,0,2006,comedy,0.0,0.268,5,-10.915,1,0.0,0.924,0.0,0.0859,0.0,0.0,11800,0
+Lord T & Eloise,Million Dollar Boots,3kGbpvl7qH0ZVNVm41iMZ5,3,2007,comedy,0.699,0.636,5,-6.972,1,0.15,0.0339,0.0,0.07,0.542,132.184,236040,4
+Nick Thune,Here Girl - Live,0WiKDHji4hk8qjC4ol7EUC,10,2014,comedy,0.596,0.939,2,-5.592,1,0.92,0.837,0.00188,0.924,0.78,52.047,44208,4
+Erikka Innes,Growing Up Christian,7ba5tHRaCTIRPe1sX06ymu,6,2013,comedy,0.678,0.393,5,-17.38,0,0.926,0.894,0.0,0.644,0.705,84.708,121467,4
+Jeff Maurer,Obama Vs. Bush,0SI95z3we7duXU0fb4GQ4J,3,2010,comedy,0.604,0.817,11,-12.052,0,0.844,0.85,0.0,0.78,0.566,77.256,65067,3
+Mo Mandel,Negatron,6CX5eKL4vNEJ6C7JhW7yRa,16,2017,comedy,0.662,0.796,7,-11.081,1,0.939,0.831,0.0,0.657,0.314,132.571,353017,3
+Wyatt Cenac,The Mid-Thirties Single Man,4H86l06q15C5ewOgxXfo3T,13,2014,comedy,0.552,0.644,3,-10.596,0,0.928,0.878,0.0,0.734,0.766,82.631,210218,3
+Tenacious D,One Note Song,4sSvSrnIyXowigoBFVzCCE,33,2001,comedy,0.717,0.29,2,-14.268,1,0.89,0.642,0.0,0.165,0.118,96.09,83493,3
+Bret Ernst,All About Mom's,0ZnYZqHc5VKchCRsT933v7,17,2012,comedy,0.588,0.594,9,-9.848,1,0.9,0.885,0.0,0.93,0.601,86.47,164960,5
+Josh Johnson,Breakup Text,1C0JJjv9KLzGBMGOZp8Ry0,12,2017,comedy,0.465,0.852,6,-10.774,1,0.894,0.917,1.17e-05,0.796,0.303,106.441,116719,5
+Matt Jernigan,Movin',3Ko8JXy5viTgECM6PUu720,0,2007,comedy,0.755,0.725,9,-5.241,1,0.154,0.686,0.00129,0.115,0.916,99.069,187107,4
+Kim McVicar,After Parties,2V0qKXMl7PMbKBujTNbcAJ,20,2020,comedy,0.688,0.569,4,-11.892,0,0.945,0.822,0.0,0.804,0.543,56.541,100476,4
+Martin Short,Big Titties,6FvDl5gNE2A57SAjF9kKXu,4,2007,comedy,0.711,0.589,10,-6.159,0,0.319,0.435,0.0,0.115,0.553,145.024,181133,4
+Robert Kelly,Skinny People Suck,32g5KhygzWx0c5jjcshMdx,12,2015,comedy,0.479,0.729,6,-10.253,1,0.861,0.873,0.0,0.942,0.62,82.916,316621,4
+The Sklar Brothers,Kid Jokes,6mmGKqKyu97w8levr6qwPK,7,2011,comedy,0.602,0.82,5,-8.306,1,0.935,0.833,0.0,0.742,0.465,140.584,179537,4
+Ivor Biggun,The Cockerel Song,0vWh2JMRYsjQnlLJ1ehFrs,4,2000,comedy,0.832,0.844,7,-8.183,1,0.0459,0.583,0.0,0.205,0.949,106.316,137733,4
+"The Odd Man Who Sings About Poop, Puke and Pee",The Isaac Poop Song,6MWja17GCVBS8ty8GvDm7b,8,2019,comedy,0.699,0.173,0,-13.751,1,0.053,0.901,5.74e-05,0.136,0.766,124.367,80900,4
+Andy Haynes,I Don't Think You're Going to Like This,58fxRmB4DvfOK0vOm2pQyx,10,2014,comedy,0.578,0.783,4,-10.182,1,0.935,0.864,0.0,0.917,0.491,61.112,73934,4
+Rudy Ray Moore,Black Chickens Got A Knife,195zcCopqjLlp3IzMeoOV6,0,2008,comedy,0.719,0.734,0,-5.552,1,0.922,0.877,0.0,0.684,0.813,118.969,113580,3
+Jim Florentine,Granpa Takes a Bath,1jq9lbPWGHzzksEWLPY9ad,6,2002,comedy,0.675,0.661,10,-16.327,0,0.949,0.983,1.32e-05,0.607,0.371,83.724,211893,4
+Rachel Feinstein,"Massage Parlor, Pt. 1",3WItxICDLHeLBbrDT23wtg,9,2021,comedy,0.698,0.342,10,-13.141,0,0.933,0.863,0.0,0.19,0.494,138.791,237208,3
+Afroman,Dance Wit Me,0SYSYyfa2H5owAqgwOJ3Hf,6,2004,comedy,0.876,0.355,10,-14.797,0,0.431,0.0705,0.000197,0.309,0.713,93.992,236400,4
+Chingo Bling,Rap Hustlin’ (feat. PJ),49WCRbdUkf1TOu4BPylVOY,0,2005,comedy,0.758,0.656,10,-8.071,0,0.294,0.213,0.0,0.198,0.747,137.573,114560,4
+Jeff Caldwell,Home,2ohWzvLcmvuqU1TKzV3vY3,17,2007,comedy,0.585,0.851,9,-7.306,1,0.931,0.838,0.0,0.523,0.415,69.633,193720,3
+Doug Stanhope,"Farewell, Mother",7wkYYyoOu20J2jefdEzjwi,16,2013,comedy,0.552,0.693,8,-5.47,1,0.87,0.868,0.0,0.935,0.78,82.614,617747,4
+Andy Woodhull,Manly Things,3Ekyg4RvKC7fhGHQcIEVNz,17,2012,comedy,0.615,0.463,6,-13.127,0,0.954,0.836,0.0,0.949,0.72,73.431,82213,3
+Myq Kaplan,Chuck Norris and Owls,6mkXomCrKJsBx39C2L46Gc,22,2013,comedy,0.638,0.855,1,-5.237,1,0.922,0.869,0.0,0.72,0.599,60.746,121653,3
+Doug Benson,2 High 2 Hypnotize,5rAJ5NfNX6kRNRmpBCB8xB,5,2014,comedy,0.495,0.661,11,-11.3,0,0.946,0.825,0.0,0.92,0.46,70.947,440715,4
+Dick Gregory,"Has Been, Is, and Will Be",0nke9TPa3VwrslemyvmSCj,4,2016,comedy,0.664,0.257,8,-15.324,1,0.946,0.631,0.0,0.374,0.38,95.637,286407,3
+Robert Kelly,Food Is My Drug of Choice,3YVKkZRMVlhZmorNvbeASt,7,2008,comedy,0.457,0.992,2,-4.341,1,0.802,0.668,0.0,0.935,0.282,108.138,301907,3
+Steve Soelberg,Juice Pouch,1ZujLRhRXWmIyoikjkB1U3,22,2018,comedy,0.42,0.693,4,-15.329,1,0.941,0.676,0.0,0.289,0.284,181.84,91592,3
+Louis C.K.,Impressions,4y91CYgC8j9kvYDRP5Ep27,19,2001,comedy,0.568,0.281,7,-20.463,1,0.894,0.735,0.0,0.693,0.318,106.885,71613,3
+Forrest Shaw,Bad Drinkers,5ZfyGrwS2jeQadsvk2Bo3Q,3,2018,comedy,0.532,0.57,0,-12.283,1,0.852,0.57,0.0,0.828,0.698,87.818,267953,4
+The Guy Who Sings Your Name Over and Over,The Omar Song,5rGsGrn0YMREnqHmC8n04L,8,2013,comedy,0.656,0.322,0,-14.148,1,0.0495,0.549,0.0291,0.182,0.839,91.14,76107,4
+Sam Evans,My Girlfriend's Sexual Goals,2l78A594Ii6KE4ZO06U2DW,7,2020,comedy,0.569,0.388,0,-16.891,1,0.947,0.781,0.0,0.763,0.587,86.059,191375,3
+1 Trait Danger,Oh Actually,1hzYn58ejDm7hNX3oQM67T,29,2018,comedy,0.53,0.537,0,-10.478,1,0.487,0.259,0.0,0.314,0.519,68.905,290479,4
+Eddie Griffin,Killer Ned,0MysBodruTenrwtzkoqZOz,12,2020,comedy,0.617,0.667,1,-12.033,1,0.929,0.783,0.0,0.708,0.633,108.12,322610,5
+Jono Zalay,Decent Proposals,57SfJOL9TvWRGrNgkSSp7r,2,2022,comedy,0.62,0.335,3,-19.762,0,0.949,0.773,0.0,0.665,0.637,80.299,222425,4
+Aries Spears,Sniff,5lbKFKvTtW6Q6SPPtDzNb4,17,2017,comedy,0.629,0.645,10,-14.412,1,0.956,0.549,0.0,0.727,0.378,76.633,141860,4
+Tommy Campbell,Wife on the Road,2LoQhAJFT2U9Tahy7RUidX,15,2017,comedy,0.581,0.4,11,-16.456,1,0.94,0.726,0.0,0.206,0.454,79.255,306066,3
+K Trevor Wilson,French Road Sign,5CBnvumTIaNm4J3wQB7v62,11,2017,comedy,0.464,0.377,8,-15.626,0,0.932,0.813,2.19e-06,0.492,0.483,72.174,240867,1
+Kevin Hart,Push It On Me - From “What Now?”,0wasgXy8PI6t4EfA49YnXE,38,2016,comedy,0.559,0.662,10,-5.674,0,0.328,0.305,0.0,0.448,0.631,98.989,232807,4
+Peter Sellers,I'm so Ashamed,5RTgIFxi8gvJ7RoHkxni7a,1,2000,comedy,0.42,0.712,8,-5.864,1,0.0399,0.79,0.000305,0.346,0.766,74.501,181667,4
+Dan Ahdoot,Mom,6HrZU05l1A25ZceR7pl73x,2,2006,comedy,0.654,0.403,1,-11.156,0,0.949,0.848,0.0,0.846,0.575,83.659,111986,4
+Anjelah Johnson,"No, You Can Not Use My Tooth Brush.",4tZFrqTORD7Phn4tpblBa6,18,2019,comedy,0.591,0.79,4,-11.453,1,0.93,0.823,0.0,0.804,0.224,72.069,85254,4
+Tenacious D,MAKING LOVE,5wcwabGYzMpRiFL5rza13h,31,2018,comedy,0.608,0.531,7,-6.113,1,0.0385,0.223,0.0,0.0945,0.351,114.014,176520,4
+Jeff Allen,Rice Cakes,3O8MDMEmWPTSQdttBQyx2i,17,2011,comedy,0.498,0.918,1,-12.921,1,0.892,0.594,0.0,0.944,0.107,87.625,104800,4
+Big Jay Oakerson,Getting to Know You,1kY5r1qqDLNWMjHAORQBv1,15,2016,comedy,0.471,0.895,2,-13.646,1,0.92,0.904,0.0,0.937,0.125,114.169,200184,5
+Neal Brennan,Brave,3dI3jWmXrNH3bqV4iWfvFm,14,2018,comedy,0.583,0.628,6,-12.937,1,0.949,0.922,0.0,0.814,0.611,87.438,57984,4
+Chingo Bling,Hoe Ass Nigga (Interlude),7baFRwHCrgUcwoD1MBuYPN,0,2006,comedy,0.635,0.306,10,-13.841,1,0.745,0.773,0.0,0.868,0.606,60.264,325277,4
+Joe List,Buddhist,71OAhH9d7dUfKCcEhgOjaV,15,2016,comedy,0.481,0.854,11,-9.653,0,0.717,0.928,2.82e-06,0.761,0.241,104.309,212769,4
+George Wallace,New Kids Today,0dH4MhN5DekCPS17CQfM2L,4,2015,comedy,0.47,0.833,7,-9.018,0,0.954,0.621,0.0,0.475,0.211,80.517,357309,4
+Jim Gaffigan,Saint John / St. John's Fiasco - Canadian American,28J4B0nFETVsNaWsl0GXGP,27,2020,comedy,0.496,0.887,1,-11.668,1,0.963,0.793,0.0,0.861,0.101,84.079,95737,1
+Hype Duo,We Will Never Forget You,2XuhZdB7HAbMUjIHKuxzJi,10,2020,comedy,0.641,0.153,2,-11.114,1,0.0668,0.559,0.0,0.0914,0.317,96.77,289600,5
+Chingo Bling,Iball,6cRMF8zqWxy54DNRxhH5yT,0,2005,comedy,0.373,0.684,0,-6.744,1,0.182,0.0301,0.0,0.354,0.528,79.928,191187,3
+Jason Allen,Tit Warmth,4x0ICJkXbPOYKliQCG50aG,20,2022,comedy,0.689,0.455,4,-14.586,0,0.939,0.815,0.0,0.719,0.763,76.35,95669,4
+Dan Soder,Legal Weed,1LIa4LSbdVxoSdLuv0UuJW,16,2016,comedy,0.584,0.78,5,-10.963,0,0.942,0.833,0.0,0.63,0.369,86.822,133638,4
+Joe List,Central Park Proposal,0HNy5xqJqQp3MnxgxEXOWx,12,2011,comedy,0.478,0.573,2,-15.397,1,0.897,0.913,9.04e-05,0.589,0.407,81.434,95216,4
+Stuart Thompson,Dating with Voices,5choF4DpvD9hUptLRzUbpk,12,2020,comedy,0.472,0.932,2,-8.994,1,0.611,0.907,0.0,0.72,0.781,77.925,146883,3
+Nick Swardson,Retarded,3j7MfnQi5QJiizlioxiLPQ,25,2007,comedy,0.483,0.85,0,-9.023,1,0.951,0.705,0.0,0.855,0.213,67.175,115733,4
+Robert Kelly,Fat Snake,0hKL9xzzxAThr3L0mMLiqz,19,2008,comedy,0.537,0.974,2,-4.59,1,0.781,0.592,0.0,0.461,0.519,93.797,115413,1
+Jim Florentine,Retard (I Got Mail),4dfYn4nLBgsS9JrfQkm5w8,5,2003,comedy,0.623,0.255,11,-16.951,1,0.929,0.926,0.0,0.0921,0.311,80.972,166600,1
+Jake Thackray,Lah-Di-Dah - 2006 Remaster,0Etm5vrRbdBSZ0NDAMQGGV,8,2006,comedy,0.601,0.32,11,-11.118,0,0.0785,0.811,1.86e-06,0.117,0.556,109.777,198600,4
+Erik Griffin,Sometimes You're an Asshole,3wxb8tTJ4c2oupV3wHSA9R,6,2018,comedy,0.585,0.696,3,-9.988,1,0.947,0.574,0.0,0.402,0.457,93.536,202244,4
+Sarah Millican,The Body Book,2c1O9q5qrR9eQpww8k5oeZ,19,2015,comedy,0.593,0.73,4,-16.013,1,0.926,0.873,0.0,0.719,0.13,76.11,376120,5
+Stephen Lynch,My Old Heart,7u9TVTUA8uMjoZzTFThl4u,19,2019,comedy,0.668,0.203,4,-10.825,1,0.0298,0.889,0.00025,0.104,0.217,138.812,314481,4
+Tom Stade,My Daughter and Her Friends,1BHHwmwlmkCKaQzdIgrvAY,2,2023,comedy,0.5,0.632,4,-11.233,1,0.929,0.743,0.0,0.707,0.358,81.469,459054,4
+Jim Norton,Reality TV,09I5DA0JBwDNXMkYRNjVP8,5,2010,comedy,0.566,0.667,5,-14.694,0,0.928,0.796,0.0,0.809,0.323,117.854,276787,4
+Eddie Izzard,Slidey Poles,19fOlJ5oDe9a1SmJQKul6V,2,2021,comedy,0.587,0.654,7,-11.354,1,0.914,0.835,0.0,0.624,0.289,114.012,231427,4
+Jim Florentine,Deep Voice/Marriage,3DpLztZqeSlKG9lOsN50lI,1,2005,comedy,0.635,0.576,5,-16.023,1,0.872,0.819,0.0,0.852,0.678,108.817,187093,3
+Moes Haven,Uncle John's Niece,3z4t8KdFx5tULyDiZ0VzlP,0,2006,comedy,0.705,0.327,0,-13.808,0,0.126,0.93,0.0,0.175,0.947,116.575,190627,4
+Mitch Hedberg,The Pipe,1MldKJ6Zvn7aohdeqGecwT,29,2003,comedy,0.516,0.851,2,-11.658,1,0.943,0.773,0.0,0.918,0.18,75.943,124400,3
+Afroman,Whack Rappers II (featuring Strange),3ptOOEzjUuh21E6yq1drD1,8,2004,comedy,0.926,0.451,8,-10.892,1,0.385,0.115,0.0,0.109,0.668,96.009,192173,4
+Jim Florentine,Echo,6O1NXkr97iHeucF2XPuei4,10,2022,comedy,0.61,0.703,9,-12.075,1,0.927,0.974,0.0,0.468,0.413,68.917,213012,3
+Steve Martin,Pretty Flowers,58drJqQEBiK6RgHv7ZqTMx,26,2009,comedy,0.466,0.416,4,-7.544,1,0.0327,0.811,7.04e-06,0.148,0.687,135.655,162800,3
+Moes Haven,The Devil Master,7MPtiEigtKsDYnHwq4gd0e,0,2006,comedy,0.609,0.277,9,-9.938,0,0.0511,0.837,0.0,0.305,0.681,121.823,153760,4
+Chingo Bling,Call Me Maybe (Pos Why Ju Hating),1qz93anXrrmqjmhDy9ckuH,13,2012,comedy,0.847,0.688,2,-6.883,1,0.251,0.223,0.0,0.0893,0.884,120.053,182683,4
+Ryan Dalton,Abortion Is Not For Kids,7bc10nUpEXUFE0Mknck7P8,9,2009,comedy,0.647,0.405,11,-12.579,0,0.803,0.578,0.0,0.0833,0.515,64.996,65107,3
+Ivan Decker,Cooking,2JHaFaA0f07BZxkWc5bwjc,7,2016,comedy,0.557,0.663,5,-7.808,1,0.949,0.81,0.0,0.917,0.512,79.196,383500,3
+Gary Eck,Cooking With Ravi,7wUSCHXfFt3moQbY2aRn65,0,2007,comedy,0.604,0.433,5,-13.544,0,0.942,0.79,0.0,0.382,0.965,154.016,38680,1
+Eddie Ifft,I'll Tell You What's Wrong with Me,4If1UGdBFF6I0xagBKYF6K,21,2007,comedy,0.564,0.46,8,-17.207,1,0.95,0.81,0.0,0.972,0.43,84.683,98220,5
+Dane Cook,Justice,79W06e4byFD4dPOTaK44WI,22,2022,comedy,0.571,0.368,1,-23.456,1,0.944,0.811,0.0,0.656,0.502,76.13,437461,4
+Whitney Cummings,Love,0vN49m0IEejMyOBuP8nFpR,29,2014,comedy,0.505,0.952,10,-3.904,0,0.913,0.762,0.0,0.616,0.132,59.126,166720,3
+TK Kirkland,Dropping Some Knowledge,1CqHYwLP29GEso0b4wI5rH,6,2019,comedy,0.444,0.416,8,-22.684,1,0.945,0.843,0.0,0.901,0.334,76.919,600233,4
+Dan Naturman,Job Interview Skills,22OQKVc9l8XOggumeTVPNc,4,2009,comedy,0.717,0.646,7,-6.293,0,0.637,0.793,0.0,0.652,0.744,104.047,130213,4
+David Dyer,Shirt Pocket,7owBhS1X0Ll2sxur10ozTD,3,2017,comedy,0.421,0.761,1,-13.52,1,0.946,0.715,0.0,0.767,0.352,175.169,83309,3
+Al Madrigal,Wireless Network,7JAgqDDJQfTS047uzAO0zH,17,2013,comedy,0.542,0.886,0,-5.608,1,0.89,0.72,0.0,0.729,0.386,125.23,270787,3
+Lachlan Patterson,Favorite Sexual Positions,7I1hPabIh3BSW5JJJnCAII,3,2010,comedy,0.557,0.767,9,-12.747,1,0.914,0.855,0.0,0.148,0.525,94.689,137273,4
+Muck Sticky,Tight AF,0J0roGssuW6m3OWBEQknXC,5,2016,comedy,0.778,0.927,7,-4.028,1,0.189,0.0115,6.44e-05,0.0887,0.787,115.002,222252,4
+Mary Santora,Stuck,4HkPOH6pDl2uYKisjqfbXi,4,2023,comedy,0.598,0.788,0,-8.341,1,0.935,0.761,0.0,0.716,0.527,75.98,293250,3
+Roy Wood Jr,Hunting Nazis,31l0cVyLJoKUkB2bSuvn73,2,2022,comedy,0.682,0.343,0,-14.619,1,0.945,0.794,0.0,0.194,0.792,99.654,74775,1
+Jon Lajoie,Everyday Normal Guy,2KldK81uQyPpbJLwEekaLQ,48,2009,comedy,0.662,0.721,7,-4.726,1,0.316,0.284,0.0,0.106,0.69,169.914,201493,4
+Dry Bar Comedy,Valentine's Day,4yTyTJecuAcVVCqQV2peDC,23,2018,comedy,0.43,0.902,1,-14.514,1,0.937,0.729,0.0,0.949,0.127,133.384,285083,4
+Myq Kaplan,Blind and Deaf Comedy Jam,5kuB4lObTdB6uBNzwJBUuq,26,2013,comedy,0.508,0.779,5,-5.47,0,0.918,0.898,0.0,0.811,0.634,80.476,141173,4
+The Guy Who Sings Your Name Over and Over,The Luke Song,2XQ6NZWXqIQtj43EZv0h3h,4,2012,comedy,0.712,0.366,0,-12.705,1,0.0653,0.593,0.0104,0.179,0.66,91.074,76107,4
+Ross Noble,Interval - Ted Danson's Pizza Shack,7KNQMu3cpsQaPJiHC2gS8i,4,2007,comedy,0.463,0.812,0,-10.197,1,0.948,0.82,0.0,0.365,0.256,63.666,509520,3
+Anjelah Johnson,Just Give It to My Mom,6gEDOEkebrU9X8wsQbBvSq,15,2017,comedy,0.596,0.743,11,-11.6,0,0.731,0.809,0.0,0.831,0.155,74.956,139950,3
+Gabriel Rutledge,Feeling My Feelings,7vfqZTHDFJuOmZMA3hdfCl,3,2020,comedy,0.582,0.759,1,-11.291,1,0.909,0.774,0.0,0.905,0.398,80.006,239542,4
+Tim Minchin,The Fence,0wMvCQWHNRG26cnglyI78M,29,2011,comedy,0.554,0.67,10,-6.363,1,0.0361,0.245,0.0,0.682,0.633,111.374,306000,4
+Chingo Bling,Molly,0iyuJ3AKj8HKtYzolVjlDV,4,2015,comedy,0.755,0.841,7,-7.52,1,0.386,0.158,0.0,0.328,0.719,143.007,251193,4
+Steve Sabo,I Want My Two Dollars,6erezpjNUTRL58txAaJNON,0,2009,comedy,0.677,0.405,5,-16.759,1,0.924,0.773,0.0,0.671,0.542,75.321,100453,4
+Paul F. Tompkins,Questions in the Dark,4s9HdMfYWvyCsAjFt4Xbbi,11,2021,comedy,0.619,0.384,10,-20.086,1,0.953,0.838,0.0,0.705,0.253,146.193,424207,5
+Maz Jobrani,The Coronavirus Lockdown,6azrAbpgVH2NY6JjLpHZ1t,4,2021,comedy,0.706,0.354,7,-12.383,1,0.892,0.71,0.0,0.701,0.675,98.976,134642,3
+Dry Bar Comedy,Sneezing,1pJgaUcOGCHCHHBCdDSTa4,14,2018,comedy,0.523,0.866,6,-15.088,0,0.937,0.699,1.59e-06,0.251,0.287,75.414,188625,3
+Tom Papa,Old People,424eNyQSV28xuLeD9eXwNw,14,2005,comedy,0.444,0.921,1,-8.72,0,0.882,0.793,0.0,0.797,0.466,87.263,182213,3
+Al Madrigal,Look at My Veaber - Live,6xFN7VUcNS9llCRomDoEEz,10,2017,comedy,0.505,0.575,6,-11.922,1,0.939,0.898,0.0,0.724,0.581,62.633,333560,3
+Stewart Francis,Thailand,30t4GgEwrzlvdNbMjZNF6U,9,2020,comedy,0.41,0.817,1,-17.179,1,0.912,0.586,7.01e-05,0.819,0.0425,86.619,416272,4
+Tom Papa,Going to Church,0aQXyKBPUJdn0j1k3k2knY,17,2013,comedy,0.567,0.928,9,-3.908,1,0.819,0.858,0.0,0.599,0.436,86.273,341297,4
+Billy Gardell,Downloading Childhood,409Sa75kH0hR48onC5x7KC,18,2019,comedy,0.504,0.911,1,-12.923,1,0.94,0.782,0.0,0.79,0.039,81.979,325280,4
+Mr.B The Gentleman Rhymer,Rude Britannia,5nizyZHHSnSb6PJICSPtEj,8,2013,comedy,0.7,0.729,0,-7.291,1,0.306,0.00633,0.0,0.417,0.642,159.989,230049,4
+Dirt Nasty,So Forgettable,4799jivngDBydDwvIYRvLR,7,2015,comedy,0.816,0.626,3,-7.288,1,0.0628,0.0099,4.67e-05,0.0882,0.712,140.725,249560,4
+The Sorry Apology Song Person,I'm Sorry I Punched Your Cat in the Face,6TZw17M2HaXARD41cOKYOJ,9,2013,comedy,0.777,0.356,7,-12.817,1,0.37,0.341,0.0,0.285,0.59,93.351,86440,4
+Bill Santiago,Situation on the Ground,2y4GW3fkCHKi02L9riIISw,0,2022,comedy,0.661,0.514,0,-17.167,1,0.935,0.851,0.0,0.581,0.686,77.454,35426,4
+John Mulaney,The Worse Word,5sg2co0cSOHpj6QSEderYt,39,2012,comedy,0.698,0.904,5,-5.793,1,0.914,0.785,0.0,0.677,0.471,69.892,90940,3
+Chingo Bling,In Case They Forgot (feat. Latasha),3TtUQd147U2nyj6nveLVHc,5,2007,comedy,0.746,0.677,4,-5.481,1,0.132,0.576,0.0,0.144,0.758,80.045,197787,4
+Mitch Fatel,Russian Girl,4K6SdOXrEd5BzH6ruZaE2l,13,2006,comedy,0.529,0.789,10,-13.743,0,0.949,0.91,0.0,0.838,0.402,54.595,85187,4
+Dana Gould,Global Warming & Prancy Accents,0ABmwabdEF7cEw5WqkahAv,12,2009,comedy,0.515,0.521,1,-11.659,1,0.951,0.663,0.0,0.861,0.564,61.172,337560,5
+Robert G. Lee,Semantics (Live),6C3SC6f39e1jB7XD4V5SY3,2,2016,comedy,0.647,0.555,0,-13.983,0,0.922,0.844,0.0,0.695,0.722,87.898,94187,4
+Darryl Lenox,Airline Industry,118iM2En8TWUeqGqqAdPyB,22,2010,comedy,0.54,0.754,8,-10.79,0,0.905,0.892,0.0,0.632,0.832,135.285,71763,4
+Bret Ernst,"Techno, Ed Hardy & Hipsters",09FatKBkxSrx9hKIfNOAcf,9,2012,comedy,0.548,0.588,6,-10.545,1,0.917,0.84,0.0,0.956,0.579,137.92,336133,3
+Joe Zimmerman,Andrew Jackson,6d4HsdKXATyNhwTENFFZeP,15,2014,comedy,0.442,0.73,9,-10.668,1,0.949,0.87,0.0,0.759,0.375,81.927,301533,4
+Rudy Ray Moore,Oh Brother,1aUqhFoN4Yo7wemlo2vHLA,0,2002,comedy,0.561,0.874,2,-6.588,0,0.361,0.471,0.0,0.883,0.708,54.851,44347,4
+Neil Hamburger,Blood Pizza,17hieSUciANS06RyNHsMkC,3,2000,comedy,0.828,0.781,9,-11.334,0,0.932,0.978,0.00425,0.109,0.483,36.354,63855,3
+Martin Short,Frieda May's Lament,00U4OvbVbHPh1fv2V2sdLx,2,2007,comedy,0.704,0.763,10,-4.671,0,0.272,0.315,0.0,0.29,0.828,75.878,134173,4
+Jim Norton,Spankin' a Bitch Too Hard,2EGcu5aRjtqDLRBtK2YKLv,13,2012,comedy,0.462,0.889,6,-11.599,1,0.942,0.752,0.0,0.763,0.148,77.68,133520,3
+Stephen Lynch,If I Told You (Reprise),1ZxgNVxDm6AfG29z5Fh9rO,20,2006,comedy,0.374,0.145,1,-12.286,0,0.0357,0.914,0.0,0.0856,0.185,117.382,120573,3
+Zach Sherwin,Letter C,3yxi6fcKoQE6kdBhSBQ3NZ,12,2016,comedy,0.852,0.693,1,-8.735,1,0.299,0.234,0.0,0.0889,0.67,110.818,111407,4
+Ghettobillies,Terminal,4N9AzgVY0gwxuMF5fRzU8g,1,2005,comedy,0.513,0.272,3,-15.043,0,0.0925,0.915,0.0,0.35,0.828,69.949,66973,3
+Moes Haven,I Live In NY,5c7ORENm3aA6ybkJxy7Geq,0,2005,comedy,0.481,0.338,7,-10.017,1,0.0263,0.818,0.0,0.0848,0.312,73.102,145707,4
+"Joey ""CoCo"" Diaz",Meadowlands - Bonus Track,6EmQimtqnPGxIfzZRzr6U9,9,2017,comedy,0.449,0.722,11,-11.328,1,0.92,0.883,0.0,0.673,0.622,68.505,258018,3
+Ben Bailey,Ben vs. Owl,09LycaXwMkAoDbKrFAXI5l,16,2021,comedy,0.476,0.767,1,-19.393,1,0.9,0.648,0.0,0.927,0.0393,135.347,427500,3
+Adam Cayton-Holland,Bootleg,0E9DfcoJ7P9D74J9Y70G4N,7,2015,comedy,0.67,0.605,7,-11.099,1,0.943,0.632,0.0,0.592,0.568,107.985,263160,3
+Christian Finnegan,"Happy Anniversary, Karen",4yQqK7t7UrnasxT13WSY1E,33,2014,comedy,0.551,0.75,4,-11.02,1,0.954,0.877,0.0,0.573,0.376,89.842,142960,3
+Stanley Holloway,Gunner Joe,2b0omIlmfFAoiMEkXYMvWb,1,2003,comedy,0.682,0.314,2,-14.417,1,0.612,0.982,0.0,0.137,0.492,70.837,255493,4
+Dry Bar Comedy,The Drop,0M0akz1CpcKvxXudetzTz0,16,2018,comedy,0.561,0.771,11,-13.55,1,0.842,0.528,0.0,0.725,0.558,100.222,111833,3
+Stephen Lynch,Denial - Live,0HK2j4YxKVnZDlYXnzPCiG,11,2019,comedy,0.579,0.463,5,-8.606,1,0.0295,0.884,0.0,0.688,0.504,117.891,198160,4
+The Sklar Brothers,Maury / Murray,7m5R5gKFLRub3pyl5DXK6A,11,2014,comedy,0.661,0.57,1,-12.669,1,0.933,0.882,0.0,0.594,0.846,127.816,127867,1
+Dan Levy,Dating Issues,7GGQlPuMHiqXAJZl3xfboj,12,2011,comedy,0.535,0.941,1,-5.085,1,0.872,0.804,0.0,0.895,0.28,93.197,191880,3
+Ian Edwards,A Good Black Leader,0RSCTjURrodYARCq8uEmcA,21,2014,comedy,0.64,0.596,6,-13.661,0,0.899,0.796,0.0,0.797,0.624,99.136,106113,4
+Alonzo Bodden,Sports Talk,55GtDyXj0th1404HfCS5uI,17,2001,comedy,0.647,0.806,1,-9.226,0,0.943,0.841,0.0,0.874,0.461,119.98,207040,1
+Jesse Joyce,Bathroom Attendants,1j6umZOc1gj2izRBldQPXV,30,2006,comedy,0.581,0.544,11,-13.004,1,0.725,0.813,0.0,0.72,0.697,108.196,66280,4
+"The Odd Man Who Sings About Poop, Puke and Pee",The Mummy Poop Song,69cR4YNp4BnYCaTxqLrmXw,10,2018,comedy,0.751,0.269,4,-14.313,0,0.0645,0.824,0.00249,0.0995,0.178,124.69,89767,4
+T. Bubba Bechtol,"Buster, Moose Droppings and Igmo Tissue",0uFaROXiq3R5NnqPF4dlwL,4,2017,comedy,0.689,0.347,9,-18.884,1,0.945,0.79,0.0,0.767,0.349,121.739,111747,3
+Bobby Slayton,Still Horny After All These Years,6WKVEHuFiY3OSZtfUqWSJD,2,2010,comedy,0.679,0.712,1,-11.159,1,0.933,0.832,0.0,0.88,0.815,117.633,156920,4
+Eddie Izzard,The Wheel,6lv3ppPAfbHcA4lrUQ0LL9,2,2021,comedy,0.497,0.767,6,-12.491,0,0.954,0.85,0.0,0.763,0.145,76.478,142520,4
+Greg Proops,Mild Anesthesia,2FkOFo42URwaNkHHFvloIE,7,2022,comedy,0.634,0.32,5,-16.534,0,0.936,0.648,0.0,0.326,0.724,81.036,372970,3
+Afroman,Drunk'n'high,5imTFEqzJ6gfW3ovW9FQgO,29,2006,comedy,0.894,0.301,11,-7.208,1,0.0601,0.00681,0.000461,0.0493,0.675,104.013,119253,4
+Katie Hannigan,Having Kids,58zBJP1aojko8RBJe2JhUy,9,2022,comedy,0.657,0.348,2,-11.913,1,0.954,0.835,0.0,0.74,0.598,92.443,96973,3
+Aaron Kirby,Not Tough,4j7spd4apg8kVrs5XNLt54,6,2017,comedy,0.674,0.355,8,-15.893,1,0.92,0.84,0.0,0.754,0.657,109.844,191548,3
+Redd Foxx,The Nasty Shine Boy,61eptCC8AmGtTEYIfZIxk3,4,2011,comedy,0.563,0.508,10,-9.565,1,0.948,0.919,0.0,0.512,0.7,70.185,305187,3
+Bill Santiago,About My Papi,4dRqm8nbi9InzIRIGeCaFK,0,2023,comedy,0.586,0.364,8,-14.375,1,0.608,0.971,0.0,0.728,0.681,106.45,367058,3
+Mike Harding,The Crumpsall Cream Cracker Corned Beef Kamikaze Cubs Go To Camp,63XaWzVVAQMEh3odPm5jdV,4,2005,comedy,0.409,0.694,8,-16.9,1,0.939,0.848,0.0,0.429,0.0743,81.722,558400,4
+Paul F. Tompkins,Daylight Savings Time,58SngQ9k66idCJeEk8rOBe,13,2007,comedy,0.589,0.542,5,-7.421,1,0.955,0.799,0.0,0.855,0.625,84.948,94507,4
+Blowfly,Fuck Me,7bFB2953eapa5RJv5o4t6W,0,2004,comedy,0.498,0.484,0,-10.255,1,0.198,0.808,0.0,0.467,0.573,173.826,52573,3
+Kim McVicar,Death Bed Dad,3y1cEnpcmSuZV3HzurYzzi,14,2020,comedy,0.62,0.546,2,-12.911,1,0.923,0.85,0.0,0.681,0.418,53.461,177329,4
+Lavell Crawford,Fat & Happy,3gMnszM4zP9gMRCoJpIHE2,8,2020,comedy,0.495,0.846,6,-11.019,0,0.963,0.778,0.0,0.548,0.11,69.136,305913,4
+Dave Waite,Bonus Track,6RXdlbhMdj6X0l4ONl1BxB,2,2007,comedy,0.469,0.893,2,-11.296,1,0.937,0.762,0.0,0.957,0.343,77.646,51148,5
+Steve Harvey,Choked & 911,5D6urtT87Dp5wovxD37WDF,14,2019,comedy,0.657,0.488,2,-12.655,1,0.953,0.975,1.61e-06,0.735,0.473,104.017,176996,5
+Evan Lionel,"Single Moms, Differnt Dads",7wdrEdq2fPDalEcy2jjRq7,7,2003,comedy,0.466,0.784,0,-8.362,0,0.922,0.835,0.0,0.657,0.452,64.482,372000,4
+Hal Cruttenden,Why Do A CD ?,3luCxg22erh2RX0qqdHRRR,4,2008,comedy,0.608,0.581,1,-7.94,0,0.644,0.828,0.0,0.597,0.757,88.706,76680,3
+John Bishop,An Apology,6gUOguTCHeUR40A3XXrDfB,23,2011,comedy,0.538,0.45,2,-17.392,1,0.901,0.785,0.0,0.979,0.436,105.071,125554,1
+Dry Bar Comedy,Self-Driving Cars,2X8OEhhvyL0e9JiSjQI0F4,25,2018,comedy,0.436,0.601,10,-13.997,0,0.941,0.747,0.0,0.778,0.381,75.278,208125,1
+Alfred Carcieri,Punish Dumb,6wCwrjBHRs1piiQSk0WJsk,20,2020,comedy,0.52,0.71,4,-12.147,0,0.724,0.919,0.0,0.832,0.718,124.535,147749,3
+Jeff Foxworthy,Common Sense,5AUnTIi48fq66gZEp8YWdD,10,2017,comedy,0.538,0.869,4,-10.033,1,0.93,0.736,0.0,0.785,0.237,64.916,227845,3
+Bengt Washburn,Believing Things,1MDSMcUq9xIp0o10hyX6tH,4,2022,comedy,0.542,0.694,3,-14.193,0,0.912,0.741,0.0,0.877,0.549,72.466,175888,1
+Hva Snakker Du Om?,Festen,3jDoJyYwYnY36Pkf06tgYW,15,2001,comedy,0.715,0.486,8,-8.349,1,0.915,0.739,0.0,0.873,0.623,114.634,406467,3
+Michael Showalter,We Had To Do The Show,0uUy2U1lI45ZP4ALbGsvUw,2,2007,comedy,0.747,0.749,11,-6.74,0,0.289,0.357,3.02e-05,0.104,0.747,88.835,121147,4
+The Singing Animal Lover,Tyrannosaurus Rex (The T-Rex Song),0Qi8d6Mi2d0eAysxqw4Gdi,5,2011,comedy,0.531,0.222,6,-13.381,0,0.0915,0.926,0.0,0.109,0.419,69.217,172973,4
+Steve Byrne,My Parents,4WDs7t0yJr8BVf5yfvJJhZ,8,2014,comedy,0.563,0.907,0,-10.615,0,0.942,0.848,0.0,0.779,0.41,90.383,175680,3
+Eddie Izzard,Odysseus and the Sirens,3b49lQ2prrHHusYKRdQ4uw,2,2021,comedy,0.557,0.663,2,-10.384,1,0.817,0.858,0.0,0.63,0.346,109.034,114360,5
+Doug Stanhope,Intro,36JcTi7FuJWUWb0bAPA50Q,14,2019,comedy,0.519,0.463,10,-13.721,0,0.101,0.632,0.0,0.566,0.824,88.056,60431,4
+Eddie Izzard,Jesus in Religions - Pt 2,45Wyi5sBieGtcLkAyfwwIk,6,2021,comedy,0.579,0.753,0,-14.059,1,0.947,0.955,0.0,0.759,0.299,68.645,74559,3
+Ryan Singer,Wolf Dog,2OxXc7krAKN45HeuNG4sbF,4,2015,comedy,0.626,0.655,7,-6.237,0,0.946,0.856,0.0,0.598,0.77,71.166,136316,4
+Tom Cotter,Women's Hands,2rojHpzre1y07A79ZlfUty,25,2011,comedy,0.499,0.923,10,-6.867,1,0.842,0.778,0.0,0.59,0.764,82.566,67480,4
+Stephen Lynch,A Month Dead,3wJgblsYSIwLdJVoPLLSDR,13,2000,comedy,0.431,0.178,2,-13.168,1,0.0334,0.799,9.72e-05,0.106,0.149,148.272,168467,4
+Marc Maron,Honest Sound Check / Intro,2nYLABBhBmpXTvkzMBBr1K,24,2011,comedy,0.486,0.891,5,-5.64,0,0.91,0.847,0.0,0.924,0.559,83.753,117640,1
+Bruce Bruce,I Like Older Women,7kFYOqGEvwZD8obeSB2kup,15,2011,comedy,0.427,0.585,7,-20.252,1,0.916,0.885,0.0,0.778,0.195,75.065,399466,4
+Michael Jr.,Get My Name Right (Live),5QFU194M2NfMtXdzWIaNlc,12,2016,comedy,0.428,0.878,11,-12.7,1,0.931,0.556,0.0,0.879,0.266,86.055,180973,4
+Nigel Grinstead,The Rural People,3U5LMa85V3jpXK7fs8P48O,17,2019,comedy,0.621,0.215,11,-27.772,0,0.945,0.625,0.0,0.746,0.718,101.067,94904,4
+John Bishop,Liverpool vs Everton,71kgWpq7sy07PqQvtlxhY6,13,2010,comedy,0.601,0.339,2,-22.891,1,0.934,0.778,0.0,0.989,0.393,121.963,449728,3
+Doug Stanhope,Drink to Have a Good Time,5RrFyWrulgyFgTHxUPX7Kt,30,2013,comedy,0.528,0.861,8,-4.317,1,0.672,0.854,0.0,0.931,0.82,85.819,171000,4
+Kathleen Madigan,Meth Labs,0mwjjHcmfCmYlUUfKkz1nH,13,2020,comedy,0.529,0.741,3,-11.072,0,0.934,0.797,0.0,0.943,0.596,134.153,131603,3
+Rudy Ray Moore,Angels On Earth,0NsahgYHgkFNoSuHFzjlfb,0,2000,comedy,0.627,0.653,1,-6.69,0,0.0519,0.969,0.0,0.201,0.895,132.902,133867,4
+Felipe Esparza,Back of the Police Car,4BmyRgYSsMBGUOyXgvtyxv,12,2013,comedy,0.499,0.254,9,-18.262,0,0.663,0.857,0.00377,0.669,0.343,83.05,51318,4
+Jon Lajoie,Listening to My Penis,468DttYUU2bVUs49GOhMFB,22,2010,comedy,0.838,0.842,1,-6.73,1,0.194,0.0867,2.19e-05,0.0566,0.956,105.982,221193,4
+Giulia Rozzi,Stoner Fight,4iYfTRJ1e6mo1UKMwNt8Ku,4,2010,comedy,0.577,0.633,6,-9.363,1,0.86,0.896,0.0,0.521,0.521,133.655,77754,4
+Eddie Griffin,Black Church/White Church,12M4PSJApRmG4FXyXMiqFM,9,2019,comedy,0.536,0.857,1,-13.396,1,0.934,0.892,0.0,0.668,0.186,138.481,293338,1
+Dan Andersen,Megahit,4tJX6QnmcHUYtNJ8pHTnqx,1,2006,comedy,0.691,0.645,4,-7.607,1,0.0584,0.209,0.0,0.175,0.32,115.799,191187,4
+Hannibal Buress,Debit Card,7EmeDw6iH7zEN5TUp5o7ZY,29,2012,comedy,0.67,0.702,9,-7.69,1,0.944,0.867,0.0,0.298,0.52,75.804,215333,4
+Stephen Lynch,The Gathering,63OEuF1jZDAZnsxa3Hqg02,14,2012,comedy,0.596,0.236,0,-11.58,1,0.0312,0.82,0.000241,0.124,0.329,83.914,209960,4
+"Joey ""CoCo"" Diaz","Guns, Coke & Cats",4ojif0G4So2klbZkXB9cYO,12,2012,comedy,0.651,0.583,9,-15.768,1,0.938,0.827,0.0,0.928,0.407,101.694,297562,4
+The Boss Hog Barbarians,J-Zone Hoggamix (Instrumental),6G07pmjLuRaT9r1628e8Xh,0,2006,comedy,0.543,0.671,7,-8.001,0,0.0611,0.0368,0.787,0.249,0.815,176.22,133640,4
+Ivan Decker,Zoo,7fSFWk9vrIysDQLbHPrKOc,9,2016,comedy,0.682,0.53,8,-8.986,1,0.949,0.866,0.0,0.792,0.592,73.403,368000,3
+Michael Loftus,Smoking in Jamaica,11wZ7nRsWxNWsWJWSHNvFV,7,2019,comedy,0.634,0.612,2,-14.15,1,0.93,0.82,0.0,0.924,0.355,112.342,406680,4
+Kyle Kinane,The House is Rockin' (with Domestic Problems),4lPIAZd3QJGw8yB2dPJ61q,22,2010,comedy,0.635,0.596,4,-6.734,1,0.928,0.814,0.0,0.7,0.711,126.229,357600,3
+Felicia Michaels,Poor Bananas,0Z97XPdB3DlnFonmLs4IdX,15,2011,comedy,0.565,0.62,8,-16.383,0,0.873,0.911,0.0,0.903,0.397,115.757,86253,3
+Ryan Sickler,Public Restroom Attendant,7vEF7OrChbeZg7ZAXwnAZT,17,2010,comedy,0.491,0.887,9,-7.859,0,0.862,0.774,0.0,0.699,0.421,131.207,154788,5
+Andrew Norelli,I Need Sleep,5XR1CoBKYhJsRHn32gxvYE,15,2011,comedy,0.592,0.682,1,-13.654,1,0.882,0.824,0.0,0.727,0.551,88.031,170533,4
+Ben Bailey,Steve!,0Glc9f2cIzAnNkwsnxHfZF,7,2018,comedy,0.484,0.957,10,-8.576,0,0.66,0.512,7.59e-06,0.751,0.209,99.557,154313,4
+Christian Finnegan,I Hate the Red Sox,5HQfozTGXZRhSVdNDJJS5f,26,2006,comedy,0.664,0.686,1,-9.013,1,0.954,0.856,0.0,0.598,0.438,81.952,179000,4
+Leland Klassen,Doctors,6mIpjQI8QvG62F9V7vFSFc,16,2019,comedy,0.519,0.699,2,-13.634,1,0.916,0.793,0.0,0.725,0.489,87.928,203136,4
+Paul Rodriguez,Cats & Dogs,7H9Y3hY8m4l85ZqNYL5uXz,4,2018,comedy,0.567,0.898,7,-8.2,1,0.897,0.763,0.0,0.861,0.533,112.155,143615,4
+Doug Benson,What Women Want,74eHv4WN0FjUNGXO98WOPf,4,2008,comedy,0.459,0.628,9,-10.358,0,0.957,0.821,0.0,0.731,0.386,76.263,260119,3
+Brad Williams,Lessons from My Father,1ilOOAxGJTdED8aWfxwdF0,16,2016,comedy,0.589,0.347,1,-23.0,0,0.953,0.596,0.0,0.664,0.265,87.308,365574,5
+Andy Parsons,Bus Whisperer,3MB7QVX5vsX7AxGzoF0g5O,16,2015,comedy,0.533,0.379,2,-14.816,1,0.941,0.877,0.0,0.741,0.572,81.956,122848,4
+Artie Lange,The Fattest Cokehead,6LoUa0NO4ZPX6b1JitD92W,8,2009,comedy,0.516,0.943,1,-8.838,1,0.929,0.83,0.0,0.802,0.16,110.571,303680,3
+Bill Hicks,Australia,7FXviiGwrGJlD5MsQrbHZj,3,2002,comedy,0.648,0.56,2,-10.811,1,0.943,0.941,1e-05,0.286,0.445,65.085,138213,5
+Stuart Thompson,Cake with No Candles,4sQHYpDlCWIylkavnCJCRb,13,2020,comedy,0.536,0.879,2,-10.058,1,0.764,0.902,5.05e-05,0.18,0.638,84.104,108245,3
+The Chicago Sports Band,"Joakim Noah, You've Got To Get Your Act Together",2r0gVP7G2183do9f5Iclct,0,2008,comedy,0.764,0.557,7,-10.124,1,0.337,0.161,0.0,0.349,0.908,138.69,104653,4
+Matt Braunger,A Dream Inside a Dream,7uZyTIcGYVu9kqbCtGFvJY,24,2012,comedy,0.674,0.763,1,-5.794,1,0.74,0.75,0.0,0.668,0.673,87.435,71395,4
+Ophira Eisenberg,Rescue a Nerd,7IxIr8KqnVDAaMStTN7GiE,9,2014,comedy,0.751,0.451,3,-12.493,1,0.95,0.931,0.0,0.838,0.824,55.666,54987,5
+The Spoiled Chefs,Mama's Apple Pie,2ovyvAcZHP4Ap1K4FFJQHn,0,2004,comedy,0.552,0.23,0,-16.677,1,0.0537,0.873,0.000572,0.0886,0.239,128.811,170053,1
+Drew Barth,Jewelry Commercials Are for Guys,4QEUjAMZhOrnadGyHFVdba,19,2018,comedy,0.533,0.521,9,-15.283,0,0.877,0.854,0.0,0.659,0.527,133.493,190899,5
+Brendon Burns,Anti-War Demos,6BpGaRmcpG2z5ZH2T2KIkp,0,2008,comedy,0.737,0.574,1,-9.659,1,0.909,0.803,0.0,0.575,0.512,95.672,100080,3
+Todd Glass,Marijuana,7sKUUm6Uai7p4IHtQRsSP7,12,2009,comedy,0.47,0.799,6,-5.931,1,0.903,0.861,0.0,0.923,0.778,73.147,238440,3
+Rebecca Corry,My Hero,2mAvFkiW2RcJ6KcCtT7WVZ,2,2022,comedy,0.662,0.357,8,-14.702,0,0.943,0.976,0.000483,0.412,0.321,127.176,196010,4
+Tig Notaro,Tapped Out,7Cvk1AEY5jY3xAnn9ZioTl,14,2013,comedy,0.665,0.145,6,-21.257,1,0.93,0.515,0.0,0.674,0.259,101.342,205987,3
+Eddie Ifft,The Vagina Room,02CrdQKTmoZ2ZVt5oeV105,6,2011,comedy,0.645,0.437,8,-9.401,1,0.937,0.956,0.0,0.714,0.671,77.059,96235,1
+Bryan Callen,Complicated Apes,0IWkAuL3wLmTclHHKo2MyG,9,2019,comedy,0.578,0.6,5,-13.673,1,0.96,0.614,0.0,0.885,0.39,163.888,258871,1
+Eddie Izzard,Ghosts,3Fm55BeQM6BNjXUcvJipbV,2,2021,comedy,0.56,0.872,7,-12.902,1,0.921,0.842,0.0,0.703,0.445,84.366,199995,3
+John Mulaney,New in Town,1z5KhanyIT8utYWJuIiHnS,32,2012,comedy,0.525,0.949,2,-6.848,1,0.921,0.818,0.0,0.956,0.155,133.785,152384,4
+Tig Notaro,Baby Shower,4c1QVhMeQgH30gOxjLJx2I,15,2011,comedy,0.484,0.83,2,-10.822,1,0.923,0.904,0.0,0.652,0.656,127.426,131440,5
+Adam Sandler,"Long Ago (feat. Betsy Hammer, James Barbour & Allen Covert)",0xrPsZTurb59MNkcVxUxiT,21,2002,comedy,0.388,0.353,2,-7.847,0,0.031,0.804,0.0,0.404,0.305,107.892,132267,3
+Neal Brennan,Netflix Ratings,4WrIu1MK6WQZj5OhtMSl17,25,2018,comedy,0.628,0.611,4,-12.044,0,0.928,0.841,0.0,0.895,0.637,65.601,57290,3
+Mike MacRae,Superaccents,05MnzSHNGAIWblVg1wnhvX,0,2007,comedy,0.512,0.832,11,-11.671,1,0.862,0.87,0.0,0.944,0.469,77.326,93200,4
+Richard Jeni,Good Luck,5y8s7XACXOGvNdcCQq2cCz,7,2014,comedy,0.452,0.975,2,-2.917,1,0.63,0.866,0.0,0.899,0.29,130.278,65867,1
+Christopher Titus,Pedophile Crucifixions,6nMQ5IhzClEGkXogEpCOcG,14,2007,comedy,0.519,0.922,6,-7.356,1,0.938,0.722,0.0,0.855,0.387,147.394,409200,5
+Gary Eck,Tom Cruise Interview,6gvZMc9jc4zP0cea3suzXO,0,2007,comedy,0.708,0.677,11,-11.162,0,0.92,0.914,0.0,0.181,0.361,59.027,151200,4
+Rudy Ray Moore,The Motor From Manchester,6m9At1Yj8yHSVK2Xf4J0wW,0,2008,comedy,0.587,0.76,7,-7.714,1,0.905,0.948,0.0,0.61,0.735,72.485,147040,4
+Mike Birbiglia,You'd Be Surprised,7jOoudwDVl6z0orUzsk4hS,31,2006,comedy,0.525,0.566,4,-8.544,1,0.923,0.828,0.0,0.681,0.424,82.693,192507,4
+Erikka Innes,Pot Smoking Neighbors,6bHMiDmKPbkjSaRC1MwfgB,8,2013,comedy,0.622,0.457,8,-17.434,1,0.938,0.78,0.0,0.653,0.496,46.257,45835,4
+Gary Gulman,Ketamine,1tfZvo0DPs8VFNOIrSOUtb,19,2020,comedy,0.618,0.446,2,-14.131,1,0.941,0.895,0.0,0.716,0.907,102.394,86161,4
+Eddie Pence,The Walmart Miracle,1HEKAyDS0rjBYca8BJAS0G,12,2020,comedy,0.631,0.671,11,-10.92,1,0.954,0.857,0.0,0.899,0.81,166.585,115124,3
+Greer Barnes,Encore,7C6VVAeIPgmDuAl58vObSr,5,2014,comedy,0.493,0.549,10,-20.491,0,0.925,0.829,1.3e-05,0.418,0.103,151.797,46413,1
+Todd Barry,San Diego,3WMx58ye0E7JGnyIOMwh0I,10,2016,comedy,0.503,0.52,3,-17.315,0,0.937,0.873,3.66e-05,0.477,0.469,67.591,454949,4
+Andi Smith,Date Night at the St. Louis Funny Bone,3Y2UJHcNmBC8fjGBL84PZv,15,2014,comedy,0.485,0.38,0,-20.597,0,0.947,0.863,0.0,0.808,0.418,68.599,213000,5
+TK Kirkland,Sexual Harassment,4YKHO01uXWs22qPmX9ZVAy,7,2018,comedy,0.686,0.579,8,-9.879,1,0.933,0.957,0.0,0.512,0.727,125.52,144867,3
+Sean Patton,The Scorpio Way,5AaJNp4J0F9bXpeN58cupX,3,2012,comedy,0.642,0.401,8,-13.684,1,0.946,0.768,0.0,0.737,0.551,80.068,249547,4
+Kevin Bloody Wilson,Supa Mega Fugly,0xg7fuyskxnHLdYut0z67K,26,2019,comedy,0.666,0.65,9,-5.351,1,0.225,0.248,0.0,0.753,0.89,119.876,162360,4
+Alonzo Bodden,Free Range Children,3ZP3e5UdbXeU7eezz3XVgV,12,2019,comedy,0.661,0.742,5,-9.796,1,0.94,0.798,0.0,0.841,0.302,123.101,237233,3
+Uncle Dane,Build a Sentry,6mHA0ERc5e4vDOiUgJhuZ8,15,2017,comedy,0.664,0.807,2,-5.724,1,0.112,0.0748,0.0,0.442,0.35,85.965,204058,4
+Orny Adams,You're Mean!,5Vm26tdOumr5mPJOtx8JqI,8,2018,comedy,0.602,0.826,2,-11.052,1,0.943,0.783,0.0,0.959,0.336,106.046,178512,4
+Stuart Thompson,Spanish Lessons,0M16Hok840Lu3BKsjnIIDt,11,2020,comedy,0.605,0.919,9,-9.787,1,0.607,0.902,0.000133,0.637,0.661,83.825,100814,4
+Craig Shoemaker,Laughlin Gamble,6j103LRjW1QMCpowG72cVG,13,2015,comedy,0.461,0.955,1,-3.589,1,0.513,0.84,0.0,0.958,0.44,105.84,156292,4
+Muck Sticky,Always,3j1hpO1MPsFdgG8fthKRfs,4,2007,comedy,0.822,0.446,0,-11.229,1,0.0447,0.235,0.00186,0.124,0.769,101.052,232933,4
+Jeff Shaw,Not Being a Parent,5d9a58i7FyS7mMWo9toYft,3,2021,comedy,0.485,0.552,11,-15.511,1,0.948,0.835,0.0,0.879,0.619,65.939,251815,3
+Louie Anderson,Fitbit/Fatbit,5enX6DRsJgoJ0fyMTgXX3b,14,2018,comedy,0.468,0.935,6,-9.415,0,0.918,0.545,0.0,0.488,0.0395,138.937,196835,4
+Greg Proops,Michael Jackson,3zCm8PxmjHeaEJXZxfcd68,5,2007,comedy,0.609,0.704,8,-11.17,1,0.872,0.505,0.0,0.438,0.526,104.159,197347,3
+Blowfly,Big Dick Brown,6neP6AZ8yMqhVzMLj1qTNo,0,2004,comedy,0.627,0.616,3,-8.313,1,0.0467,0.531,0.0,0.304,0.961,129.982,140667,4
+Kurt Metzger,This One Is Hard to Justify!,1DAjYXnq9Uom5ppKEW0LRO,12,2011,comedy,0.493,0.766,2,-7.267,1,0.927,0.914,0.0,0.375,0.483,76.679,133680,3
+Bernard Cribbins,"Scheherazade, Op. 35: The Story of the Second Dervish",4ynY2AbC49v184mowZU2PS,0,2001,comedy,0.703,0.0793,1,-24.69,1,0.937,0.579,0.0,0.125,0.187,132.453,582387,3
+Nigel Grinstead,Dick Things,6XG4TQg6NMS42k9YCL8ewg,14,2019,comedy,0.597,0.248,6,-29.205,1,0.902,0.522,0.0,0.841,0.498,123.976,80037,3
+Nick Youssef,My Thirties so Far,7vYLTudQrLKkqGfALorbnR,2,2016,comedy,0.5,0.733,10,-9.557,0,0.649,0.647,0.0,0.565,0.816,67.554,130977,4
+Liz Stewart,Vampires,7CDBiNToJZBWH4ogeXKsyk,12,2018,comedy,0.653,0.541,11,-12.609,0,0.95,0.828,0.0,0.96,0.593,86.421,69479,5
+Martin Short,A Wicked Memorial,4YwdpvwzWT9qfu8tiQZCy8,1,2007,comedy,0.389,0.495,1,-5.476,1,0.0393,0.67,0.0,0.174,0.216,98.06,74893,4
+Chingo Bling,King Of Wrap,6YRpvRxxW6HjOlY8xqNaCg,0,2005,comedy,0.673,0.654,1,-9.38,1,0.217,0.101,0.0,0.384,0.394,138.334,184240,4
+Rhod Gilbert,Double Battenberg Trouble,7wSacWcAj0M4lUOzaQRNIJ,13,2012,comedy,0.617,0.712,5,-15.444,0,0.928,0.758,0.0,0.69,0.509,121.427,580652,3
+Joe List,Bad Diet,0ifqhkQ4noEesUJIOw5dAe,16,2016,comedy,0.514,0.841,7,-9.631,1,0.909,0.917,0.0,0.682,0.351,80.913,240942,1
+Shane Mauss,Landing on Your Feet,7dHOLnBOaa6UKRCQG8wpyW,11,2015,comedy,0.582,0.57,1,-12.762,1,0.947,0.899,0.0,0.862,0.399,137.516,305547,3
+Todd Glass,Sign Says,5FAhlzyYNZS2oSrphHfF1S,16,2013,comedy,0.575,0.935,6,-2.583,0,0.825,0.835,0.0,0.703,0.521,106.735,268893,3
+Jim Norton,A Humiliating Homoerotic Moment,47i2eeVGP9tUTLLur46Ktu,9,2014,comedy,0.535,0.859,6,-12.061,1,0.914,0.811,0.0,0.873,0.211,107.013,204587,5
+Blowfly,What A Difference,4OaaR4IdbBOV7kXUMXVSJB,0,2005,comedy,0.613,0.45,1,-13.841,1,0.171,0.154,1.13e-06,0.303,0.863,131.23,210427,4
+Mike Vecchione,Private Detective Partner,7tEDABmMaVTUDyt9XVICQn,10,2014,comedy,0.55,0.93,3,-7.263,0,0.915,0.601,0.0,0.895,0.601,78.886,82736,4
+Bill Hicks,Bring Granny to the Show,3nvCHzrBf2WID5zMpbI0ay,2,2015,comedy,0.631,0.731,5,-10.863,0,0.895,0.951,1.6e-06,0.116,0.623,83.387,31345,4
+LaWanda Page,Hannah the Whore,6dGUQtNwDx3ZhUxxc0hcWJ,1,2001,comedy,0.709,0.383,1,-10.886,1,0.94,0.948,0.0,0.725,0.697,81.016,119293,3
+Jesse Joyce,Jeffy,1KM0Ik1jVzHZmBAP0jZpQC,3,2011,comedy,0.65,0.512,11,-11.756,0,0.896,0.79,0.0,0.718,0.684,124.616,92212,5
+Margaret Cho,Lice,71e1ILZVJbpNNgSv7E1pKB,2,2010,comedy,0.418,0.413,8,-10.219,1,0.0313,0.711,0.0,0.109,0.419,128.48,157817,5
+Dave Waite,Magic Kingdom Therapy,4DHX2Z8z0gxywsgH4BLS5d,3,2016,comedy,0.641,0.315,1,-14.338,1,0.908,0.775,0.0,0.29,0.72,78.189,155602,3
+Neil Hamburger,Management,5qqpIFDDqq4LTc3kkXIv40,0,2002,comedy,0.647,0.465,11,-11.51,0,0.951,0.869,0.0,0.433,0.502,93.837,57613,3
+Jamie Kilstein,Serial Monogamist,6PLIgsvI3jXqeGMdD0Saie,9,2020,comedy,0.718,0.273,5,-17.891,1,0.93,0.988,2.16e-05,0.124,0.636,125.363,184375,3
+Afroman,Infro,100yFNIVyavHBUIiu2VB3t,3,2015,comedy,0.496,0.823,4,-5.072,1,0.435,0.824,0.0,0.161,0.579,168.486,258142,3
+Awkwafina,Flu Shot,48DTvKLdv21PrxlaIBsWnc,14,2014,comedy,0.93,0.777,10,-4.485,0,0.22,0.00886,0.0,0.116,0.509,146.014,123833,4
+Matt Kirshen,Politeness,6CebfJ7ZZzRFzgL44tLdZs,21,2009,comedy,0.517,0.819,6,-6.21,1,0.908,0.81,0.0,0.904,0.672,70.017,214920,3
+Eddie Ifft,Eating Marijuana,10pwzQxEAR5sbyzMgo2AUl,2,2015,comedy,0.539,0.589,5,-11.635,1,0.947,0.859,0.0,0.737,0.74,73.479,321850,3
+Noah Gardenswartz,Onion Sandwich,7rN8qH3FqYIC64b7Fv4mxS,6,2021,comedy,0.606,0.503,8,-12.023,0,0.932,0.862,0.0,0.713,0.677,56.172,148055,4
+Jenna Kim Jones,I Can't Die,3G8GCdCcDkXYM4U7AXon7K,1,2022,comedy,0.697,0.343,11,-12.468,1,0.937,0.948,0.0,0.698,0.453,125.701,298625,4
+Ryan Sickler,Childhood Heartbreak,0a4prJHha7In9us3BpkNEg,11,2018,comedy,0.644,0.505,2,-13.212,0,0.92,0.802,0.0,0.745,0.406,129.8,300000,4
+Ryan Stout,Hybrid / Olé,34G6PqXfUHGk0QqVOhzMdN,17,2011,comedy,0.562,0.805,1,-8.084,0,0.925,0.763,0.0,0.734,0.385,139.853,209493,1
+Dirt Nasty,Gone Tomorrow (feat. Elan),4y63T2PEPCsayzKRdyEFBO,5,2016,comedy,0.665,0.79,9,-8.392,0,0.052,0.255,0.0,0.249,0.615,80.01,232370,4
+Tom Papa,Astronaut,5esfS6eu84WbO7Z4GcLFdY,20,2005,comedy,0.579,0.886,8,-9.736,1,0.888,0.797,0.0,0.837,0.731,66.578,60907,3
+LaWanda Page,The Pilot,7txEEhqS3Q72qnwHHd19SG,1,2000,comedy,0.588,0.462,10,-12.897,1,0.796,0.935,0.0,0.961,0.735,88.251,118627,3
+Michael Ian Black,A Special Moment,0K4PM5OWOH0P5iHqfEg9y5,17,2016,comedy,0.602,0.691,4,-12.706,1,0.955,0.82,0.0,0.644,0.392,84.354,236491,4
+Alex Nussbaum,Dummies,2IYGJcLE9t52HTe74YnsXV,3,2006,comedy,0.416,0.762,1,-14.444,1,0.919,0.806,0.0,0.957,0.229,86.356,66413,4
+Tim Wilson,The Clone Song,1V8LjGzolblF1b6hqX7p1u,3,2001,comedy,0.534,0.471,7,-12.874,1,0.16,0.768,0.0,0.138,0.906,176.311,154293,3
+Muck Sticky,Honey Buns,28Z2k3zWiBiguS0equshHq,3,2015,comedy,0.974,0.675,7,-5.55,1,0.0671,0.415,0.0,0.0584,0.962,114.97,169040,4
+Lavell Crawford,Stay in Your Lane,1LpkdeXLbVNN8dUrY8WdjH,8,2020,comedy,0.584,0.778,6,-10.519,0,0.939,0.802,0.0,0.438,0.173,124.466,144176,5
+Andrew Norelli,Bed and Bath (Live),1Pny2fuanbtIW3ao4Dh5kl,14,2018,comedy,0.579,0.357,4,-17.961,1,0.938,0.759,0.0,0.965,0.576,77.942,145589,3
+Andi Smith,Thank You. Goodnight. Enjoy Your Porn.,7C5YIT6DOGBlhYFSIFJF2o,11,2014,comedy,0.524,0.378,3,-20.365,1,0.946,0.843,0.0,0.249,0.49,88.961,285000,3
+Ophira Eisenberg,Senior Slut,1tGUo9rRVfKRg6Nu17MF6z,1,2010,comedy,0.549,0.563,10,-11.507,0,0.789,0.973,0.00164,0.67,0.908,87.197,108757,3
+Uncle Dane,Engie Man,0EofNYYNVuApeDRJFEuCge,19,2017,comedy,0.748,0.519,4,-9.606,1,0.0457,0.665,0.0,0.283,0.961,122.996,123514,3
+Mr.B The Gentleman Rhymer,Refrain,5ZxUs1yK2W7bCHfp8XfZ0A,7,2012,comedy,0.435,0.608,0,-8.531,1,0.055,0.000506,0.122,0.651,0.316,127.452,182400,3
+D.L. Hughley,44450,6LSh3hFVJZBwIGmswELglK,10,2005,comedy,0.516,0.897,10,-6.961,0,0.938,0.736,0.0,0.855,0.502,67.938,217520,3
+T. Bubba Bechtol,Being Southern,1xf220jSC6EmSGvagSeSeQ,8,2017,comedy,0.443,0.652,8,-15.279,1,0.946,0.752,0.0,0.712,0.187,171.715,292133,4
+Jim Gaffigan,How We Treat Animals - Spanish American,1MVqquGfSCy8bEADaxdVVl,23,2020,comedy,0.598,0.663,10,-14.861,0,0.933,0.559,1.91e-06,0.788,0.266,62.988,114753,4
+Ben Bailey,A Foot Too Far,4QFkb1Zq6rEnLtafcDq8rd,6,2018,comedy,0.464,0.957,1,-8.455,1,0.702,0.351,7.09e-05,0.628,0.528,129.051,44562,4
+Afroman,Crazy Rap (Palmdale Sessions),2O8vVVQ2rFIBAcGgyp4cdo,13,2016,comedy,0.907,0.406,5,-8.607,1,0.286,0.423,0.0,0.114,0.795,100.02,434813,4
+Louie Anderson,New Knees,4F4JNRZNz2uHEvruVCttQo,8,2018,comedy,0.357,0.965,6,-9.044,1,0.923,0.675,0.0,0.918,0.0605,62.831,256485,5
+Afroman,Basehead Boogie,1kmHpOvjHK8ugESQE1v7y4,15,2020,comedy,0.673,0.457,11,-9.259,0,0.58,0.048,0.0,0.233,0.693,93.02,262818,4
+Rhod Gilbert,If You're Shit and You Know It,1NauiANcWhwCUeYuPjoDKM,15,2012,comedy,0.49,0.871,0,-12.173,1,0.947,0.887,0.0,0.942,0.462,88.666,345430,3
+Faizon Love,My Legal Team,4ekeuGRCnFeYE6lYuSWVAt,7,2010,comedy,0.393,0.897,8,-12.625,1,0.872,0.797,0.0,0.827,0.256,110.225,120635,3
+Michael Colyar,Jokes for You to Tell,1YyoJgfvwFesodJUltqKjk,11,2014,comedy,0.704,0.778,1,-8.759,1,0.909,0.737,0.0,0.235,0.361,122.547,257281,3
+The Sklar Brothers,Richard Simmons,2UjzKe86oeW3bfA0ZkFqmI,6,2014,comedy,0.595,0.566,1,-12.843,0,0.927,0.871,0.0,0.951,0.744,76.293,641227,4
+Andrew Santino,Where's the Beef?,3JLVmmjpmpd3Cf3oXm7Did,29,2017,comedy,0.51,0.696,11,-9.826,1,0.924,0.459,0.0,0.571,0.493,80.657,62969,3
+Redd Foxx,Kiss Urass Goodbye,7bYEGnrGZ2dUYRiBGngx0y,4,2011,comedy,0.471,0.646,9,-11.449,1,0.938,0.952,0.0,0.848,0.72,168.975,34013,5
+Dirt Nasty,Who Farted in the Club,3hzzfxELWCfGEWV4mOisnc,9,2013,comedy,0.674,0.857,5,-2.909,0,0.0405,0.0222,0.0,0.759,0.509,148.29,165042,4
+Matt Braunger,Bachelorette Parties,73t87crdssA3RyvNDubbx0,14,2012,comedy,0.52,0.819,5,-5.954,0,0.915,0.871,0.0,0.643,0.445,80.443,243078,3
+Brendon Burns,The Future Of Reality TV,2qgkPUItWnY0otaq9IsAuq,0,2008,comedy,0.561,0.494,1,-10.835,1,0.938,0.766,0.0,0.893,0.602,82.133,271280,3
+"The Odd Man Who Sings About Poop, Puke and Pee",The Nathan Poop Song,5DLq2uc93yPdlHIBp6yafg,7,2020,comedy,0.554,0.0713,0,-15.194,1,0.0565,0.831,0.0,0.135,0.147,180.041,127533,4
+Chingo Bling,Jammin Screw (feat. Kiotti),6WLwgiRQwVCrjLONrAXfzH,0,2005,comedy,0.546,0.588,1,-9.603,1,0.508,0.246,0.0,0.0656,0.413,77.162,222547,4
+Jo Brand,Jo Brand,6XMzL6dfidnBhOsrsCw1Is,0,2006,comedy,0.452,0.692,6,-16.88,1,0.95,0.908,0.0,0.295,0.483,70.831,520960,3
+Jim Gaffigan,Steak and Salad,2fiQ2ku9FKIPtA4E9PXShJ,27,2006,comedy,0.481,0.813,4,-17.116,1,0.916,0.928,3.87e-06,0.855,0.122,101.413,161333,4
+Moes Haven,25-Years-Old,61FOpaI5ZM4Cr7URrbICW5,0,2006,comedy,0.666,0.278,5,-12.984,1,0.0811,0.884,0.0,0.219,0.679,66.46,117053,4
+Tommy Savitt,Hey Tommy.Net,3YoSteIhTK53oohHHdzjhg,0,2007,comedy,0.527,0.714,6,-13.918,1,0.923,0.707,0.0,0.921,0.44,90.684,209413,3
+Tim Wilson,But I Could Be Wrong,2Pg3dCK1rWa3FZN6LJ059V,26,2007,comedy,0.523,0.841,4,-3.595,1,0.203,0.603,3.16e-06,0.569,0.658,164.13,176747,4
+Eddie Izzard,Afghanistan,5M1DoZCqm3ceg8hdsMAWZr,5,2021,comedy,0.575,0.455,1,-18.322,0,0.927,0.888,0.0,0.821,0.53,59.239,164560,4
+Chingo Bling,Breakfast Sex,4dX9Sa3lZgcuqBjHDuJK3c,2,2010,comedy,0.818,0.444,3,-10.37,1,0.0477,0.179,0.0,0.198,0.48,120.002,120007,4
+Jon Lajoie,Wtf Collective,7dgNUOH7oVRXEdkAC6am10,28,2010,comedy,0.824,0.89,5,-5.406,0,0.359,0.0592,0.0,0.554,0.378,89.924,272811,4
+Stewart Huff,Uriel & Mary Dyer,6R6JAoQizKHfHYpU3MXcQm,3,2017,comedy,0.598,0.57,0,-12.366,1,0.952,0.857,0.0,0.273,0.658,80.043,230431,3
+Andy Woodhull,Sorry We're Late,00cb5YVkAthmAccAYhFc8I,7,2015,comedy,0.55,0.429,1,-15.433,1,0.952,0.798,0.0,0.899,0.593,79.971,286000,1
+Ricky Gervais,Ken Dodd - Live,65eRqgxRotc4cAt4c8AH8i,24,2013,comedy,0.628,0.759,2,-12.467,0,0.949,0.844,0.0,0.727,0.35,89.073,271325,3
+Doug Stanhope,Occupy Elsewhere,6TNJCVPph9BGZs1VYgWKcN,17,2013,comedy,0.625,0.694,8,-5.197,1,0.813,0.857,0.0,0.494,0.746,101.255,390493,3
+Bobby Slayton,Real Women/fantasies,1KESu0cujbuHKYMhrN0LYX,3,2010,comedy,0.557,0.76,1,-10.149,0,0.945,0.719,0.0,0.933,0.545,82.691,267720,4
+Aries Spears,Questions for the Audience,77terKNhyvJ51hM2YGODau,16,2017,comedy,0.472,0.799,11,-12.945,1,0.956,0.707,0.0,0.517,0.178,69.665,293230,3
+Lavell Crawford,Trump vs Obama,0D5oxBqDEnz0sTIqyngoSC,10,2020,comedy,0.559,0.881,1,-10.456,1,0.934,0.837,0.0,0.676,0.162,83.63,152362,4
+Clinton Jackson,Right Back at Ya - Live,6s3DlV38Hq0EXtPneIP2sY,5,2021,comedy,0.484,0.393,5,-19.8,1,0.912,0.744,9.37e-06,0.935,0.205,89.857,210718,4
+Katie Hannigan,Health Care,7Cn0CGLcGZmCCfVahW9deZ,2,2022,comedy,0.623,0.416,2,-11.719,1,0.955,0.825,0.0,0.7,0.628,77.833,140597,4
+Tim Wilson,The Ballad Of John Rocker - Club Version,428YQP05den3ai8oqqJXcu,5,2000,comedy,0.473,0.567,7,-7.217,1,0.129,0.825,0.0,0.917,0.769,94.998,118840,4
+Louis C.K.,Happy and in Pain,0JH5U85uh9SDbOxGQKveIv,18,2001,comedy,0.65,0.413,5,-15.417,1,0.907,0.563,0.0,0.947,0.285,133.071,42080,4
+Bill Santiago,Uncertainty Principle,5omY7An6OoyvyXA58UiGhT,2,2021,comedy,0.624,0.524,8,-12.859,1,0.916,0.918,0.0,0.873,0.768,89.753,81123,4
+Brooks Wheelan,Internet and Brothers Stuff,5z5jnVCphKiv5PJRw1MpE6,7,2015,comedy,0.517,0.588,3,-13.176,0,0.948,0.601,0.0,0.721,0.463,68.231,525935,3
+ChristianAdamG,All of My Niggas Gay!,4j5z5ay3u17Ur0MAaLB2Dz,19,2018,comedy,0.833,0.433,1,-8.724,0,0.388,0.778,0.0,0.106,0.545,97.985,156891,4
+Christopher Titus,What Are You Looking At?,6pTIEVb5qaNteDICifgnvX,14,2013,comedy,0.451,0.942,9,-6.029,1,0.936,0.848,0.0,0.961,0.355,69.547,451867,3
+Linda P,Mor,5iJUqIoiD06Saqmma1c6ol,6,2012,comedy,0.582,0.827,1,-14.454,1,0.849,0.785,0.0,0.768,0.35,126.035,175013,1
+Rhod Gilbert,The Letter,5Y4wmlsi4nGYuYctCR7b2B,16,2009,comedy,0.486,0.856,1,-10.076,1,0.942,0.647,0.0,0.73,0.368,88.655,540627,4
+Brad Williams,Katy Perry,6a5buMcJfL0cqyJRVvdNSZ,19,2016,comedy,0.688,0.371,0,-22.587,1,0.956,0.783,0.0,0.652,0.679,96.106,74491,1
+Christopher Titus,Arm the Children,78u7yfGcPwTcyijAYfE463,17,2015,comedy,0.601,0.85,6,-7.233,0,0.957,0.93,0.0,0.703,0.27,83.546,812379,4
+Doug Benson,Boo and Hiss,3DPkAVoQ3Tz4jtJ4gJLnft,8,2009,comedy,0.543,0.869,9,-6.542,1,0.938,0.728,0.0,0.837,0.478,99.449,209413,3
+Tom Papa,Big Head,5ZL95ssvOkcmVkGNq4mv7f,24,2005,comedy,0.442,0.917,8,-9.436,1,0.805,0.837,0.0,0.834,0.415,84.049,72667,1
+Eugene Mirman,I Bought Ads on Facebook!,4e5RH0YCrUm4uQF4TQp96P,15,2013,comedy,0.657,0.853,0,-5.405,1,0.73,0.714,0.0,0.922,0.454,81.049,327200,4
+Jim Carrey,"Christmas Means More - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",5frsfYFQH7msjVq8D9kAmb,19,2000,comedy,0.635,0.219,6,-19.098,1,0.896,0.148,1.19e-06,0.149,0.346,162.411,49000,4
+Craig Ferguson,Bad Karma,5DoaDILag0axBGGGtR6s3g,16,2013,comedy,0.611,0.945,9,-3.967,0,0.801,0.88,0.0,0.817,0.437,81.564,125907,4
+Dan Levy,Ashley Madison,1iPDQaAwIEFO2qgyvzaKds,2,2015,comedy,0.681,0.394,4,-13.894,0,0.948,0.655,0.0,0.738,0.595,62.446,121053,4
+Tom Stade,Top Secret Hotel,3ARqx2zl0E9L1UtCOdBa4y,2,2023,comedy,0.579,0.529,2,-14.696,1,0.922,0.81,0.0,0.802,0.177,123.186,403811,3
+Mike Baldwin,5 Second Rule,1XQu3oHnA0iZ8esne7DaWp,4,2018,comedy,0.49,0.826,0,-12.394,1,0.942,0.743,0.0,0.908,0.263,69.005,166486,3
+Muck Sticky,You Are...,0146aM6SyYW4qRmZZXEn4e,0,2008,comedy,0.585,0.218,4,-22.583,1,0.453,0.595,0.0,0.203,0.721,114.601,75640,3
+Mr.B The Gentleman Rhymer,Sillybuggers,439D0TyA23lYm2xhZULaxV,7,2019,comedy,0.785,0.616,2,-6.647,1,0.31,0.388,4.68e-05,0.113,0.789,90.009,133320,4

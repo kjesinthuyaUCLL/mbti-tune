@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Seinabo Sey,Blessed,4EL02W94lT5v7cAJw7i59s,37,2022,swedish,0.483,0.404,7,-11.487,1,0.13,0.73,2.03e-05,0.0878,0.311,117.745,191605,4
+Bobo Stenson,Rowan,7cpLPuyngl9ryoGNLWzFbQ,9,2005,swedish,0.365,0.0186,8,-27.38,1,0.0507,0.961,0.877,0.0882,0.0682,145.836,362067,4
+Jessica Andersson,Jag drömmer om en jul hemma,4CBwW8S4mpxfACERxpozlq,5,2002,swedish,0.519,0.259,9,-8.47,1,0.0283,0.633,0.0,0.169,0.256,119.806,181853,4
+ABBA,Little Things,1vLPyotXnRlM2EJIHK16LW,52,2021,swedish,0.647,0.165,10,-16.328,1,0.0315,0.894,0.00187,0.116,0.59,75.978,188320,4
+Lisa Ekdahl,Since You've Been Gone,4tCklUaQUMToQ1VfVGsNWY,3,2001,swedish,0.605,0.249,0,-14.158,1,0.0303,0.898,1.88e-06,0.0896,0.359,95.939,208240,3
+Zero Horizon,How Could I Forget,0cwennxGl9hIau6vyh2jlS,24,2021,swedish,0.379,0.96,1,-5.797,0,0.112,0.00188,3.74e-05,0.147,0.285,160.086,266250,4
+Lars Danielsson,Yes to You,59f6KRHixp6XhO0e8LgjmU,29,2021,swedish,0.56,0.113,7,-18.923,1,0.0353,0.926,0.882,0.117,0.14,107.329,215743,3
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 31.3 & Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 32.1 - Hunde von Riga",6cw5oNifdY4EdDnMWQryyP,6,2000,swedish,0.645,0.157,4,-24.018,1,0.961,0.472,0.0,0.438,0.437,89.718,215463,3
+Ooyy,Maverick,0O0ltk8VkiO8o5mMZQCKSt,30,2021,swedish,0.457,0.773,5,-7.273,1,0.0436,0.0315,0.0399,0.126,0.36,148.01,185676,4
+Per Myrberg,Så länge skutan kan gå,0A19QHy1Y6yiAt3o60Y6Ez,11,2003,swedish,0.475,0.347,2,-10.388,1,0.0402,0.785,0.0,0.109,0.0968,134.75,190107,3
+Rhys,Starfish (feat. FELIX SANDMAN),0bHv6PVOI7SDQMddrRRQgK,27,2018,swedish,0.601,0.64,4,-6.368,1,0.0358,0.0295,4.3e-06,0.145,0.465,99.986,203400,4
+kent,Järnspöken,3YXUMVKfRy4mwPEAslWg1p,32,2005,swedish,0.325,0.103,8,-16.756,1,0.035,0.895,0.00296,0.0914,0.184,168.539,228507,4
+Lisa Nilsson,Långsamt farväl,2tDewy9sOze6q5wR3fU5D4,39,2003,swedish,0.604,0.599,8,-5.722,0,0.0308,0.593,0.0,0.135,0.371,133.909,265200,4
+Forest of Shadows,Wish,7cQyboYYfMcPfa2YqESN7i,15,2010,swedish,0.346,0.576,1,-6.584,0,0.0396,5.37e-05,0.843,0.375,0.197,99.979,501320,4
+Cornelia Jakobs,Weight of the World - Live At Södra Teatern,6bON1xKdQfk7ZKvkbIYccr,27,2023,swedish,0.363,0.516,0,-7.594,1,0.0399,0.41,0.00037,0.948,0.301,138.825,308733,4
+FO&O,Gotta Thing About You,1dbWrAchrTMYxhbCjbtg6X,31,2017,swedish,0.559,0.729,3,-5.098,1,0.0315,0.0278,0.0,0.284,0.747,135.072,176853,4
+Cecilia Vennersten,Kapten Nemo,5lC75lJBe8zevyfAL3D9QP,21,2002,swedish,0.331,0.231,1,-17.698,0,0.034,0.749,0.242,0.138,0.107,173.731,318933,4
+Toini & The Tomcats,Devil in Me,2VwGPJZbW9v9odbT3XhmJE,20,2012,swedish,0.621,0.852,7,-2.658,1,0.0665,0.0482,9.33e-05,0.155,0.862,102.873,174507,4
+Daybehavior,Close Your Eyes,4woW54gyOs4mTFYakCVd8M,4,2003,swedish,0.584,0.97,7,-7.594,1,0.0355,0.152,0.00257,0.137,0.625,137.978,216067,4
+Chyde,Cry Again,3XBCTNCoEHqC1maXEHOD6a,31,2022,swedish,0.665,0.453,2,-9.148,0,0.31,0.31,2.75e-06,0.144,0.15,137.558,192054,4
+Markoolio,Vandringsvisan,4qdzlzXqKhAHYzHcRzIh4V,15,2004,swedish,0.727,0.522,0,-6.792,1,0.0692,0.419,0.0,0.187,0.746,103.094,500733,4
+Radioaktiva Räker,Bakom Spegeln,19RCzCRRAaIVVSf2WDtVRB,34,2003,swedish,0.292,0.831,9,-4.216,1,0.0384,0.0577,1.21e-05,0.174,0.546,174.032,172133,4
+Måns Zelmerlöw,Heroes,4ciaNqHWA2IzHphZaVRzHI,55,2015,swedish,0.484,0.791,7,-4.27,1,0.0437,0.0743,0.0,0.0491,0.369,124.008,190613,4
+Tord Gustavsen Quartet,Entrance,42exFdKxI8crf2h1b9ycvA,28,2014,swedish,0.428,0.00691,1,-25.651,0,0.0483,0.983,0.542,0.0958,0.0664,74.543,172187,5
+Tupelo Highshots,Move It,4UbuZr8SzwKdDCcfbBVMSN,28,2012,swedish,0.558,0.953,9,-5.528,1,0.0421,0.109,2.96e-05,0.358,0.858,165.073,152478,4
+Elliphant,Make A New Breed,7veXepvSx3HG8fKOmeWcf3,8,2013,swedish,0.671,0.808,9,-4.114,1,0.23,0.0178,0.0,0.144,0.746,145.048,179381,4
+Lars Winnerbäck,Vi åkte aldrig ut till havet,6D3he6ai7WZjerubpBsy0O,17,2014,swedish,0.451,0.284,9,-12.541,0,0.0303,0.781,4.93e-06,0.561,0.0994,99.519,296333,4
+Thåström,Sönder Boulevard - Live från Cirkus,3ZVrJo18vE9DUECmGsghgy,11,2012,swedish,0.287,0.443,4,-11.998,1,0.0447,0.524,0.0158,0.956,0.274,146.187,348440,4
+Ulf Lundell,Och går en stund på jorden,0LiEQ2qgOZA6loykPF508W,13,2015,swedish,0.609,0.444,2,-10.839,1,0.0346,0.407,0.0,0.0773,0.667,127.686,212467,4
+Shout Out Louds,Never Ever,0Fm0uU2ahbQtU8BJjfrvSE,7,2005,swedish,0.371,0.951,9,-4.118,1,0.074,0.0012,0.0201,0.271,0.245,155.159,232533,4
+Loreen,Jag är en vampyr - Så mycket bättre 2020,2NOuNZWj7pxGR0QDnqovep,49,2020,swedish,0.496,0.849,1,-2.72,0,0.0996,0.0665,0.0,0.143,0.292,151.85,184003,4
+Louise Hoffsten,Huvudlösen för aftonen,3p4JRc4yjGz7vvG0bFn8eJ,6,2007,swedish,0.636,0.626,7,-10.426,1,0.0662,0.0301,0.000418,0.123,0.56,121.287,255573,4
+Hannes,Similar,0UBxjuJGXeY3K0Ns56wBIC,34,2019,swedish,0.669,0.304,9,-11.664,1,0.0788,0.886,0.00162,0.0914,0.735,99.943,175246,4
+"Kid, Feral",Sensory Overload in the Afterclass Bathroom,3y7JWTMip6aSURaPSoxaGL,11,2018,swedish,0.123,0.993,7,-6.392,1,0.143,1.59e-06,0.119,0.162,0.0493,149.722,88321,4
+The Kristet Utseende,Boegmunken,5FU2kWViG6Xw7kFxaGwFVy,11,2012,swedish,0.374,0.758,2,-10.7,0,0.154,0.0654,0.0903,0.157,0.143,121.897,266627,4
+Nils Landgren,This Masquerade,5UwsRtUclbJsRBxM2Cu2oM,20,2002,swedish,0.439,0.195,2,-15.306,1,0.0352,0.902,0.00473,0.122,0.0737,209.828,247733,4
+Tikkle Me,Butterflies In My Tummy,2GFobttOHtd8Yu169BAFIX,9,2009,swedish,0.706,0.688,9,-3.711,1,0.0312,0.0191,0.0,0.0533,0.84,129.99,186709,4
+Freak Kitchen,Teargas Jazz,7vkwSfCAFc8FxzRmYJae9X,11,2009,swedish,0.604,0.736,0,-6.834,1,0.0383,0.00363,0.102,0.165,0.405,138.02,341747,4
+047,Trekker,79pPn9KfESJEaMKHdsv2GD,28,2011,swedish,0.79,0.754,2,-7.353,1,0.0583,0.0483,0.893,0.298,0.671,111.997,298387,4
+Neon Nox,Tunnels,3M8edFdvxwMp0hUidEstxQ,21,2022,swedish,0.622,0.859,5,-8.376,0,0.0548,0.000522,0.0632,0.193,0.392,104.983,224250,4
+Chyde,you say you love me,22fHyxmtt0YmQoNOb8H2al,23,2022,swedish,0.595,0.453,2,-7.478,1,0.0294,0.027,0.0,0.0693,0.0765,77.513,103208,4
+Isak Danielson,Believe,67yv2vWtucp2bAjd0gexle,40,2022,swedish,0.593,0.397,4,-8.973,1,0.0266,0.919,0.0,0.0989,0.376,104.177,224990,4
+Falconer,Desert Dreams,75Pf9KKZzzTl7YmA16I3FX,26,2020,swedish,0.403,0.943,7,-11.064,1,0.0701,6.17e-05,0.0238,0.168,0.214,179.973,238547,4
+Albin Lee Meldau,Before & After,1MUbbwQgTHMtToDalsLy2o,21,2018,swedish,0.456,0.0279,0,-15.222,1,0.0449,0.879,8.27e-05,0.0871,0.444,136.037,170613,4
+Peg Parnevik,Break Up a Bit,4i4ktHkSqZ8Ig3Vfr4kIIv,26,2018,swedish,0.579,0.667,1,-5.691,0,0.0847,0.0147,0.0,0.172,0.498,119.857,212093,4
+Sabaton,"Ghost Division - Live, at Woodstock Festival",6iyaRTEIXYRL4qzmO4WOY1,26,2013,swedish,0.443,0.933,9,-7.28,0,0.0631,5.24e-05,0.00574,0.754,0.284,92.992,227520,4
+Shout Out Louds,Suit Yourself,7jU2pDzB4GOtThDYD4Gl6G,6,2007,swedish,0.552,0.902,11,-3.474,1,0.0385,0.0071,0.000123,0.0853,0.669,107.513,178907,4
+The Riven,On Time,2hJVLv6QlfV5e1LQCDchk7,23,2022,swedish,0.465,0.895,1,-5.1,1,0.0554,0.00052,0.115,0.292,0.613,97.198,213481,4
+Millows,Girls Just Wanna Have Fun,70Gsno8tFv3qHXGetP5bJA,40,2023,swedish,0.765,0.679,11,-9.914,1,0.115,0.0299,0.00106,0.392,0.623,124.075,122903,4
+Markvard,Spring,0xhzvGo5g7KoTgWyjGPbQv,22,2020,swedish,0.668,0.854,0,-6.535,0,0.0565,0.13,0.584,0.095,0.359,115.009,183810,4
+Robyn,Between The Lines - The Blessed Madonna Remix / Edit,3OdMeb5j40rYro4lYKxqrt,13,2019,swedish,0.874,0.614,5,-8.118,0,0.0491,0.0263,0.686,0.253,0.566,121.996,232000,4
+Gunnar Wiklund,Vad har jag kvar - 2000 Remaster,4pRW9EM55mujBXVFDKKuIk,9,2007,swedish,0.558,0.471,8,-7.579,1,0.025,0.338,0.0457,0.0761,0.427,108.77,185400,3
+iamamiwhoami,Zeven,1fW3S0ANHrRLxOGd1MbhTP,28,2022,swedish,0.376,0.578,2,-10.029,1,0.0526,0.0952,0.0118,0.091,0.158,117.419,216329,4
+Magnus Uggla,Morsan e' okej,3UrQCBK6xxG94OGoYngjwe,18,2000,swedish,0.544,0.782,9,-2.416,1,0.0377,0.109,0.0,0.108,0.885,166.883,203027,4
+Uno Svenningsson,Simona,1kN5s7HtBVmiPcVUpkEbMg,6,2003,swedish,0.609,0.795,9,-4.726,1,0.0308,0.0904,1.77e-06,0.0978,0.502,125.635,222706,4
+Zonaria,Everything Is Wasteland,0kmw2ed1ozHk2l3bUYX2PE,4,2007,swedish,0.437,0.986,7,-3.884,1,0.132,4.72e-06,0.29,0.174,0.0761,119.981,285920,4
+Brolle,Solo i Stockholm,1Ds8GkFIbArbd7IGv2ddwE,8,2008,swedish,0.51,0.799,1,-6.075,0,0.0343,0.0015,0.0,0.298,0.33,123.021,206373,4
+Falconer,Dimmornas Drottning,61k72CSKAhc181EcfabbUg,12,2011,swedish,0.507,0.819,2,-6.41,0,0.0452,0.000709,3.44e-05,0.514,0.556,119.936,257213,3
+dEMOTIONAL,All That I Knew,613f5O5QjZZVx2KnTUiPXG,19,2021,swedish,0.399,0.932,11,-4.3,0,0.0526,3.4e-05,1.68e-06,0.201,0.352,82.554,238909,4
+Christian Lindberg,Ecuus Ferus II,3ZDigUtGx905vge0wCHU7P,20,2022,swedish,0.344,0.497,0,-13.473,1,0.0518,0.892,0.897,0.835,0.643,146.741,61079,3
+Markvard,Wannabe,17Hx7IfHOw2FecQrDQLXQs,24,2017,swedish,0.616,0.82,2,-9.867,1,0.0417,0.101,0.789,0.126,0.283,110.015,180369,4
+Nomy,The kids aren't alright,3v7u4pUZcvpxDtPgwMMh5u,40,2022,swedish,0.355,0.972,1,-1.055,1,0.0882,0.00019,0.0,0.17,0.547,200.114,180000,4
+Björn Skifs,Mer än tre ord,5kyZOQ53aiVfldksPgT1V8,6,2002,swedish,0.434,0.298,9,-9.104,1,0.032,0.749,4.11e-06,0.109,0.119,175.59,243133,4
+Sabina Ddumba,Conversation (feat. Kojo Funds),59E7kJadiZbcYhek0tEU9s,35,2019,swedish,0.592,0.567,1,-8.209,1,0.0636,0.0366,0.0,0.0831,0.326,102.823,232187,4
+Ooyy,Dreaming of Lhotse,5PkUKLJoY2QtnJPKy1Vjx4,26,2021,swedish,0.576,0.639,7,-9.099,0,0.028,0.00889,0.798,0.141,0.314,92.03,174783,4
+Eberhard Weber,Konstanz,4kEWmgesV1UknA9luaNTol,15,2015,swedish,0.137,0.0453,7,-26.33,1,0.036,0.959,0.967,0.107,0.0384,62.261,196773,4
+Fulkultur,The Ugly Dance (Vocal),0x8jhLMlfDUeMCeIemZrT3,10,2011,swedish,0.767,0.865,1,-3.481,1,0.0436,0.0495,0.0627,0.0752,0.966,119.985,212000,4
+Eclipse,Sos,0VUPGjwh3BJrHl7cy6lOXi,9,2012,swedish,0.498,0.869,2,-3.928,0,0.0327,0.000113,0.0,0.17,0.458,128.02,233120,4
+Seventh Wonder,Warriors,31om04oMDCLnsC6hwNNHd2,29,2022,swedish,0.475,0.942,1,-5.619,0,0.0971,6.23e-05,0.0,0.316,0.373,126.003,282493,4
+Kasbo,Reaching - Original Mix,1zzjHoGaWqtZoUhkqSxnhS,21,2014,swedish,0.549,0.974,4,-4.267,0,0.139,0.0116,0.315,0.074,0.151,149.992,219208,4
+kent,Månadens erbjudande,1yNUr3RpUWKhZ6rvcinOPj,20,2005,swedish,0.348,0.485,2,-7.757,1,0.0351,0.45,4.37e-06,0.0677,0.18,140.079,252240,4
+Elegant Machinery,Do You Know,1F1Moi4e7Lx0GYDtaGXNcM,15,2008,swedish,0.583,0.63,10,-9.499,1,0.0284,0.0046,0.000297,0.314,0.77,117.031,252293,4
+SVEA,All My Exes,2hEWZiyd2lQLVM0FTwgjpT,29,2020,swedish,0.606,0.55,11,-4.614,0,0.0544,0.0694,0.0,0.273,0.466,172.116,213463,4
+Zarah Leander,Kann denn Liebe Sünde sein,59qLlvarYo093tstgavZ15,11,2015,swedish,0.567,0.218,7,-13.715,1,0.0455,0.974,0.0297,0.426,0.614,83.633,179573,4
+Lasse Tennander,Rör Vid Mig,2GP2FntIcnVC5iL1Xb8PKZ,14,2007,swedish,0.625,0.351,9,-11.633,0,0.0445,0.544,0.000183,0.104,0.515,102.888,180160,4
+Anders Hillborg,11 Gates: No. 10. Seafloor Meditation (Whispering Mirrors at the Seafloor),2DPrdZ91tlNrAcitVjyeqb,8,2011,swedish,0.244,0.0017,5,-42.933,1,0.0321,0.329,0.00169,0.18,0.0687,88.647,105213,4
+Agnetha Fältskog,The End of the World,6E6O2AnXZ8cqhNyu9jSI2Q,20,2004,swedish,0.373,0.309,10,-10.45,1,0.035,0.492,0.000158,0.119,0.336,201.87,155307,3
+H.E.A.T,Need Her,7KoybtO3GJ7xYE0brCJeVe,13,2012,swedish,0.626,0.977,9,-1.708,1,0.0467,0.00247,0.0,0.275,0.617,123.904,235747,4
+Nanne,Om du var min,3BXpjLZwj03iXNXDuQPy5v,23,2005,swedish,0.628,0.871,8,-3.043,1,0.0334,0.23,0.0,0.222,0.576,120.033,181187,4
+Oded Tzur,Invocation,4Ib309rmbZxJsLbCsBFsaz,28,2022,swedish,0.178,0.167,0,-17.203,0,0.0426,0.912,0.759,0.105,0.165,76.978,112947,4
+Melody Club,Destiny Calling,4NEKNWD1aWxdm5eaznVulb,30,2006,swedish,0.563,0.921,11,-3.486,0,0.0552,0.00177,2.34e-06,0.248,0.426,137.048,169200,4
+Per QX,Can You Release - Per QX Back to The 80's Mix,6uBd2YrKAiBTl3Xl3JAc8r,0,2023,swedish,0.631,0.98,2,-4.798,1,0.0563,0.0042,0.00358,0.917,0.734,124.021,178185,4
+Christer Sjögren,Kärleken förde oss samman,47o7cAHAl1QgtyzgtojTi9,6,2003,swedish,0.639,0.504,2,-8.39,1,0.023,0.493,0.00325,0.113,0.561,93.639,210907,4
+Lisa Nilsson,Säg det igen,5CJNA6OyQbS8zGuz85cFUo,29,2001,swedish,0.442,0.0951,1,-12.123,1,0.0314,0.939,0.0,0.0635,0.179,83.651,242120,3
+Mustasch,Blood In Blood Out,1ZZRYJ2OpMtPjO83QP2djR,32,2019,swedish,0.209,0.945,2,-3.505,0,0.106,0.000659,2.85e-06,0.196,0.138,149.403,215120,4
+Sonja Aldén,Allt jag ser,3wrKItZ14L3NlQPSBbuGdY,10,2008,swedish,0.468,0.591,7,-6.942,1,0.0316,0.307,4.29e-05,0.101,0.234,79.953,219107,4
+Cult Of Luna,Shun the Mask,6uMOHIkaHgYdMqmgFzfr4p,16,2023,swedish,0.083,0.796,1,-7.507,1,0.0601,0.00202,0.896,0.121,0.144,182.032,718200,3
+Gyllene Tider,72,3K12cpj9ShZX2aHKtf9NKY,11,2004,swedish,0.503,0.874,11,-5.902,0,0.0345,0.0153,5.28e-06,0.318,0.605,133.018,243307,4
+AKI,När solen går ner,0fTA6uvVrXtHr1EeBqpgGt,17,2021,swedish,0.812,0.784,1,-5.642,1,0.161,0.112,0.0,0.0925,0.76,91.993,203187,4
+Advance Patrol,Rör på den!,0ChHpGGYIWvME4ewr8aVsb,9,2005,swedish,0.621,0.815,11,-9.46,0,0.0779,0.0275,0.0035,0.279,0.894,195.994,259440,4
+Kaipa,Folkia,505xPFfiq3hai7leTWYoCp,18,2010,swedish,0.443,0.515,7,-8.585,0,0.0253,0.0366,0.113,0.154,0.742,180.075,152933,3
+LBSB,Nostradamus,51jLcSqCubb02eMBD0rMWA,56,2021,swedish,0.809,0.767,0,-9.065,1,0.218,0.0802,0.0,0.0866,0.479,127.977,163000,4
+Daniel Lemma,No Winners,47rPfUdslLIWWcwv1yrySB,29,2019,swedish,0.85,0.473,8,-11.149,1,0.0434,0.00351,0.00168,0.219,0.719,132.078,245531,4
+Janne Schaffer,Brusa högre lilla å,2MR1PHdfnjk3SEI2Mfo5gs,24,2004,swedish,0.334,0.401,4,-9.09,1,0.0342,0.32,0.691,0.847,0.143,111.337,217920,4
+Emil Assergård,Konstig,3L7wBDPtOqSoMy8EYViNL6,12,2013,swedish,0.704,0.774,10,-4.12,1,0.0332,0.0631,0.0,0.355,0.913,115.018,242973,4
+Orbit Culture,Of Sovereignty,6HcNjCzfDlHeES2Ic89vk7,14,2014,swedish,0.261,0.902,0,-6.665,1,0.106,8.64e-05,0.0327,0.0717,0.047,119.994,334781,3
+Royal Republic,Like a Lover,0mDOkluuCf64m4Zs9JpOAn,28,2019,swedish,0.551,0.481,9,-5.351,1,0.0636,0.000485,4.19e-05,0.262,0.46,115.928,232613,4
+Imperiet,Party - Live,4WVYjf6EZ6A65GHlN4Iy6x,6,2007,swedish,0.543,0.897,10,-6.446,0,0.0948,0.0307,1.47e-05,0.991,0.245,114.784,257293,4
+Wizex,Om du var här,01QEWsZEmKHdvdNKQsJGI7,5,2000,swedish,0.616,0.64,0,-4.362,1,0.0267,0.536,0.0,0.319,0.61,113.948,219533,4
+kent,Ansgar & Evelyne,4swFEDw0yK112g6wm6l5GA,25,2005,swedish,0.42,0.704,4,-5.19,1,0.0328,0.00624,0.00228,0.143,0.26,110.09,256627,4
+Ellen Krauss,The One I Love,4CTkHewevcDjIT3j9qb36e,50,2019,swedish,0.505,0.32,11,-9.86,1,0.0326,0.845,0.00468,0.0995,0.0971,149.382,191387,4
+Imperiet,Märk hur vår skugga,1uIHJP28ZeS3omXVr16UOH,15,2007,swedish,0.509,0.132,7,-11.03,0,0.0368,0.834,0.0,0.126,0.272,119.022,239200,4
+Hearts of Black Science,Protector,0azYYAnmXxL26dsS9F3nTL,23,2015,swedish,0.405,0.856,2,-6.326,1,0.0458,1.25e-05,0.0183,0.243,0.263,150.048,242573,4
+Smith & Thell,DUMB,1jx1bQO9HhA09BwfF7vZeF,36,2018,swedish,0.574,0.733,6,-5.29,1,0.0411,0.182,0.0389,0.103,0.676,196.12,188683,4
+De Lyckliga Kompisarna,Välj Din Verklighet,1flRtPttISC0ubquFRUyGX,18,2018,swedish,0.408,0.972,11,-4.491,1,0.132,5.28e-05,0.0,0.287,0.51,136.067,74767,4
+Daniela Rathana,Återvändsgränd,2glvJpNPCnuhAKLq1lIdWz,52,2022,swedish,0.616,0.693,8,-7.31,0,0.0323,0.00149,0.0159,0.22,0.855,145.933,195973,4
+Wulfband,Aggressivität,2OIgijtaSo9hAvJJZsLbt3,12,2014,swedish,0.688,0.959,7,-4.911,1,0.0927,0.0512,0.116,0.0696,0.835,147.011,166373,4
+Lasse Stefanz,Lonely This Christmas,5diD3pWjyMr8XOSiJtNQ3b,5,2001,swedish,0.677,0.504,9,-9.606,1,0.023,0.617,5.06e-06,0.368,0.575,98.968,218507,3
+Jireel,Cataleya,6MzLJVW8mt7lPAbczvUwkL,48,2017,swedish,0.622,0.813,2,-7.528,1,0.326,0.0294,0.0,0.309,0.505,160.159,177613,4
+Joakim Berg,Barn av vår tid,30RWvBbWAo3HoxhD8EpTKE,0,2023,swedish,0.598,0.866,11,-3.945,0,0.0302,0.0236,0.0,0.11,0.685,103.961,233413,4
+Attentat,Blott ett lag,4Y8Mr5qyBniuKVQNu1CcFq,16,2014,swedish,0.451,0.768,2,-8.678,1,0.0351,0.118,2.47e-06,0.301,0.606,138.19,135440,4
+Christian Lindberg,Eagle Dance One,6r0LoJ1bz8hlagi7lzeXK7,0,2023,swedish,0.527,0.292,9,-19.211,0,0.0491,0.99,0.864,0.0876,0.191,124.22,75690,3
+Mikael Wiehe,Strö all min kärlek,1WhGT793HvO2RxHLj8rMrI,12,2010,swedish,0.518,0.201,5,-10.64,1,0.0339,0.889,7.77e-06,0.105,0.354,142.515,254680,3
+Say Lou Lou,Games for Girls (feat. Lindstrøm),7KKZSYWDprlD2p21DC7vmn,25,2015,swedish,0.794,0.871,3,-5.604,1,0.0348,0.0562,0.00887,0.0471,0.946,117.988,201693,4
+shy martin,Remember you were the one,5a8cdHhMQ6zaQTjiUMFC4N,35,2021,swedish,0.633,0.566,0,-7.198,0,0.0316,0.221,1.52e-05,0.108,0.586,159.993,172017,4
+Kjell Höglund,Drottningen Av Saba,3BfjJxa2nM5OozXMxp2q0P,11,2006,swedish,0.502,0.671,7,-5.686,1,0.0279,0.271,0.0,0.296,0.962,154.424,178787,4
+Siw Malmkvist,April april,1VcdAFk5gO8grhSxIIvxZE,17,2003,swedish,0.631,0.366,5,-8.025,1,0.0311,0.69,0.0,0.353,0.668,110.311,157867,4
+Robert Broberg,Jag Älskar Dej Ditt Helvete - Edit,07jGdxJ1UOMjm1ErGpkGVU,8,2000,swedish,0.563,0.451,4,-9.481,1,0.0403,0.526,0.00502,0.364,0.601,130.938,210187,4
+Roxette,"Fingertips - T&A Demo Jan 28, 1992",1epnNhPMyuzimH8cD906dp,31,2023,swedish,0.539,0.409,4,-10.574,1,0.0304,0.0724,2e-05,0.26,0.354,122.239,206373,4
+Vikingarna,Om du går nu,0dD8AYZwPnkhmmI3d3vMso,8,2006,swedish,0.544,0.588,5,-10.374,1,0.0344,0.134,0.0,0.158,0.63,120.928,197040,4
+The Real Group,The Modern Man,7DT1Nl5NSyK7AJisuQRMDs,8,2009,swedish,0.496,0.136,8,-13.381,1,0.0443,0.863,0.0,0.322,0.352,94.017,269813,1
+Sarah Klang,Mind,1As7Zf2pOE7cfGWbocErVW,33,2018,swedish,0.545,0.215,10,-9.302,1,0.0293,0.865,0.00804,0.109,0.218,129.718,250227,4
+Daniel Lemma,Ain't You Glad,4SAzNJKuq83nt1bhMAAfk7,8,2007,swedish,0.59,0.726,1,-7.198,0,0.218,0.647,1e-06,0.174,0.844,187.873,309120,4
+she,8bit Adventures,7nFYUZ8ZO7VHv5XmVffifB,17,2015,swedish,0.656,0.882,5,-7.354,1,0.0443,0.0107,0.431,0.265,0.846,104.988,182679,4
+Hugo Alfvén,"Limu, limu, lima",3wbSbjptGyHmonIvVJRkqi,22,2015,swedish,0.24,0.0088,5,-35.881,0,0.0517,0.99,0.0289,0.14,0.0532,97.457,85423,3
+The Ark,This Piece Of Poetry Is Meant To Do Harm,6HFzDxTZduTDgFl6fgnrea,20,2004,swedish,0.814,0.431,0,-8.287,1,0.0388,0.0435,0.0,0.1,0.654,129.987,207867,4
+Vargas & Lagola,Ain't Leaving Now,7JUWAYdCTlmEE9Jb7hm2EY,35,2021,swedish,0.453,0.81,2,-5.555,0,0.0352,0.00759,0.0,0.117,0.562,145.297,231067,4
+Søren Bebe Trio,Echoes,6kUqwBA6HD76GYb2AO8xaj,27,2019,swedish,0.368,0.0325,7,-22.44,1,0.0704,0.949,0.834,0.0705,0.139,174.283,283639,3
+Fatboy,Wild One (Real Wild Child),1WWgYkj5p2Xc5NYbo3LUOd,18,2011,swedish,0.469,0.85,9,-5.501,0,0.0506,0.00822,0.308,0.273,0.714,167.765,143507,4
+Blindside,Bring Out Your Dead,2ehAG8LjRfUWnphzzuD30U,11,2011,swedish,0.518,0.951,7,-4.568,1,0.0635,0.00619,3.34e-05,0.341,0.354,145.004,219533,3
+Magnus Uggla,Efterfest,2oxOryNjopb8OtZfWabkrO,37,2004,swedish,0.687,0.903,5,-3.501,1,0.0367,0.151,0.0,0.113,0.919,110.066,257253,4
+Niklas Strömstedt,Torka dina tårar,2qoxzjw5rZ6yfjRgrWNjHF,9,2002,swedish,0.436,0.65,4,-6.841,1,0.0265,0.0853,4.23e-05,0.0801,0.586,75.826,241493,4
+The Pinks,Vilken fest,2kmywx1k8CTkZ3TwYV7jD7,7,2000,swedish,0.601,0.884,2,-6.578,1,0.0303,0.0983,0.000754,0.0443,0.861,146.605,155760,4
+Rasmus Hagen,Lie Down (Bonus Track),36eJzG2sxY8lDfYbdRYGMd,17,2021,swedish,0.591,0.365,2,-6.717,1,0.0316,0.711,0.0,0.105,0.345,130.608,264307,4
+Jonas Rathsman,Conium,3OW4nGSfizDW8t543sejZE,20,2015,swedish,0.593,0.906,10,-10.186,0,0.0377,0.0754,0.927,0.0828,0.285,125.971,411429,4
+Jimmy Jansson,Som en blixt från himmelen,1T1Qf8gpn6kbLXQiLOfB8P,8,2006,swedish,0.457,0.901,0,-3.766,1,0.064,0.00125,6.07e-06,0.0456,0.633,159.941,179493,4
+Dubmood,Krutfotboll,37AqkeIbtDQVyqWJ8kcE9p,16,2003,swedish,0.448,0.992,8,-6.278,1,0.0394,0.000179,0.888,0.16,0.358,101.339,206186,4
+Jubël,Running Out Of Love,2Q80HCE66eNiXMJWMkE4xw,42,2020,swedish,0.766,0.628,5,-4.753,1,0.0295,0.131,0.00187,0.152,0.617,111.998,171429,4
+The Kokomo Kings,Buckle Up!,1i3BqoDlL8K3eOISnz7azD,26,2021,swedish,0.649,0.721,0,-7.856,1,0.0361,0.338,0.000166,0.0797,0.969,153.439,224520,4
+Marti,COMMAS,2HtDmpt6bnznktdaZiv5WL,53,2020,swedish,0.802,0.745,8,-6.158,0,0.0809,0.214,0.0905,0.109,0.825,129.99,202000,4
+Tingvall Trio,Snarestad Folkvisa,0j5wDbpKd3jYml24szNhfE,18,2008,swedish,0.465,0.195,11,-17.813,0,0.0429,0.91,0.858,0.0933,0.118,104.129,199867,4
+Nina Ramsby,Tre små rädisor,4irzl9FWgDI1NXLOK4BW1S,8,2009,swedish,0.579,0.253,2,-10.407,1,0.0828,0.867,0.0,0.105,0.815,76.337,93120,4
+Chyde,Trust Nobody,4eTwR2lwGUnXJHkCiQfQOa,26,2022,swedish,0.483,0.63,11,-8.711,0,0.46,0.471,0.0,0.369,0.586,166.39,178064,4
+Mats Rådberg,Sizzi,3g3G5N0Y8DCtKez974s9yU,5,2002,swedish,0.547,0.591,9,-8.833,1,0.0296,0.297,0.0,0.288,0.59,82.967,244000,4
+she,Axiom,1OaGLTkUKJLIu7Z45Natdv,18,2015,swedish,0.697,0.52,7,-5.829,0,0.133,0.000792,0.000308,0.779,0.791,115.035,127211,4
+First Aid Kit,Suzanne - Live,2PyGJKprEhBjZiJWlLfDe3,25,2021,swedish,0.452,0.14,6,-18.584,1,0.0598,0.887,0.0,0.234,0.198,146.762,220307,4
+The Concretes,Foreign Country,3LwlP1og2puQre2AQn1ER9,8,2003,swedish,0.562,0.347,9,-8.674,1,0.0373,0.967,0.911,0.221,0.164,120.744,105027,4
+Small Town Pimps,rockabilly train,0qoy8EDF5MClmPjdt58grm,19,2008,swedish,0.522,0.954,9,-4.022,1,0.0766,0.573,7.1e-06,0.14,0.752,93.967,191611,4
+Christian Kjellvander,Staying There,6kWRwDzrTmhbOHLKxOeXvt,5,2003,swedish,0.317,0.178,2,-13.07,1,0.0365,0.873,0.000223,0.0901,0.146,51.353,222867,3
+Nicole Sabouné,I Surrender (Bonus Track),5JMEkaqHSv7MeCpeoXCfg2,33,2014,swedish,0.502,0.761,4,-5.151,1,0.0326,0.000955,0.00916,0.154,0.384,127.603,222053,4
+Brolle,Polaren Per Är Kärlekskrank,3gF9xnfVo9biWIS05uGLTJ,7,2005,swedish,0.436,0.702,0,-7.833,1,0.0386,0.00293,0.00762,0.161,0.597,128.919,152843,4
+Soen,Slithering,1VNCPIxzupHZjFV3CDSX7w,31,2012,swedish,0.509,0.803,11,-7.291,0,0.0427,0.000221,0.0525,0.323,0.469,106.445,343867,3
+Vikingarna,Du gav mej ljusa minnen,1T4qOuTfN5xdmE87r0LjKE,8,2004,swedish,0.464,0.537,11,-10.073,1,0.0285,0.529,0.000951,0.348,0.336,93.125,201333,4
+Phosphorescent,I Don't Care If There's Cursing,2pFlOIQGG1cJjeDqqtdV5w,16,2010,swedish,0.396,0.663,5,-9.422,1,0.0329,0.153,0.00475,0.0527,0.739,111.469,295000,4
+Andreas Wijk,square one,490ugBKmexdS4xQAkdaaFD,29,2021,swedish,0.409,0.303,3,-6.985,1,0.046,0.0793,0.0,0.255,0.0671,76.915,175351,4
+The Project Hate MCMXCIX,Godslaughtering Murder Machine,4SAM70hGOo1PEglZSf2YxK,6,2005,swedish,0.401,0.776,2,-4.726,1,0.0382,1.36e-05,0.00518,0.252,0.316,102.949,522853,4
+Cult Of Luna,Synchronicity,2deaBak5MWbMhxfYjPsPWi,22,2023,swedish,0.537,0.668,1,-6.612,0,0.0325,0.000388,0.301,0.115,0.342,121.062,433347,3
+Rydell and Quick,Time to Say Goodbye,4pxzIJRmSY7IeuHpDA05XJ,9,2008,swedish,0.596,0.77,9,-5.717,0,0.0451,0.0798,0.0,0.226,0.598,91.057,210053,4
+Sven-Ingvars,Kristina från Vilhelmina,4eMOjV9M430iYzF1mvfCTR,19,2015,swedish,0.554,0.809,2,-7.052,1,0.0448,0.493,2.61e-06,0.316,0.934,186.446,180413,4
+NOWË,Heart of Gold,7I684YNNQ14kFyCyaoxLKB,33,2017,swedish,0.768,0.915,1,-4.813,1,0.0349,0.00655,0.875,0.233,0.801,115.015,148174,4
+Rydvall Mjelva,"Baggbölebäckens Klagan, Vals",5AlVb6eA2VdxSSZwuZBKCX,14,2013,swedish,0.195,0.13,7,-14.602,0,0.0428,0.988,0.716,0.138,0.357,73.902,215133,4
+Genocide Superstars,Final Descent,56lqpyOTTBCMtp9iqqmJx7,10,2003,swedish,0.318,0.997,2,-3.401,1,0.166,4.34e-06,0.000759,0.411,0.244,115.769,148640,4
+Per QX,Can You Release - TR672,4t5CZDwj5k50fFNuzcBJQu,18,2023,swedish,0.688,0.97,7,-6.83,1,0.0853,0.0523,0.189,0.411,0.578,124.986,199663,4
+Thomas Stenström,Springer om er,4DLR9o2ee2QHPzTRekrBDY,16,2012,swedish,0.521,0.915,10,-3.259,1,0.042,0.000882,4.18e-05,0.192,0.661,121.061,216480,4
+Stefan Sundström,Jan Banan och Marquerite och jag,3d0Nt69mnHfyb66Lk5k50E,9,2000,swedish,0.377,0.943,9,-3.88,0,0.159,0.302,0.0,0.404,0.708,139.498,205307,4
+Molly Nilsson,When I Have No Words,3ua2OZjXWmF2wnYqH6JGfE,15,2009,swedish,0.643,0.523,4,-12.504,0,0.0284,0.727,0.937,0.26,0.399,97.716,270139,4
+Fred Åkerström,Oslo,0dGeZQ0Tb60C3SWgAPyQSx,5,2003,swedish,0.633,0.239,0,-15.29,1,0.0369,0.849,6.71e-06,0.109,0.617,99.141,153973,4
+AWA,Feelings (feat. Alicai Harley & Jamkid) - JIM OUMA Remix,5VhyyFcqviM5GP4tyyvTaM,26,2020,swedish,0.79,0.668,2,-4.869,0,0.133,0.301,5.35e-05,0.0845,0.541,124.944,169404,5
+Anders Fernette,Alone,4mi8GMbS2f6Bhy6Wy5ODBE,21,2011,swedish,0.471,0.497,10,-5.877,1,0.0273,0.0747,0.0,0.286,0.265,144.011,217773,4
+Ola,All Over The World - Cahill Radio Edit,2dpRC8oLeetPm44ethjtwU,5,2011,swedish,0.642,0.885,2,-3.777,1,0.0367,0.00301,0.0,0.0616,0.718,127.911,206516,4
+Aiyo,Ignite,4hNucpiOPpmuW0QxGaCbtr,21,2019,swedish,0.723,0.742,5,-8.144,0,0.0706,0.574,0.44,0.14,0.444,130.026,185867,4
+Arvingarna,En ängel i varda'n,6wHVqCngTgsijbqLNirrWY,10,2013,swedish,0.551,0.929,9,-5.136,0,0.0931,0.000603,0.0,0.0881,0.524,144.761,194747,4
+Machinae Supremacy,Kings of the Scene,43HHwzb7ITnuMVdPDXEMee,11,2000,swedish,0.352,0.817,6,-3.587,0,0.047,0.00061,0.00268,0.139,0.294,123.08,209053,4
+VAX,Bubble Gum,6jqoY5HKd5CagZV5lcxdU2,41,2018,swedish,0.597,0.622,2,-5.472,1,0.0876,0.129,0.0,0.302,0.319,120.042,141444,5
+Hallman,I Don't Really Care,4g1zJ2YqqHgpg43kOSJAcx,36,2023,swedish,0.612,0.757,9,-6.284,1,0.0316,0.055,0.852,0.295,0.337,122.02,175203,4
+Ulf Lundell,Hon måste va en kristen kommunist,6dTABVNViHAtmRU9coYRDp,8,2004,swedish,0.367,0.534,2,-5.536,1,0.0273,0.0591,2.99e-06,0.129,0.168,91.057,290160,4
+First Aid Kit,Palomino,0zosLtbwbykpbPRyZMCeL5,51,2022,swedish,0.488,0.788,5,-3.626,1,0.0471,0.0401,0.0,0.0504,0.614,83.853,197093,4
+Slagsmålsklubben,"Tjeckien, Slovakien Och Tillbaks Igen",3KwhIsorqOv9qhVDIDf43f,16,2010,swedish,0.45,0.726,9,-7.378,0,0.0307,0.00951,0.312,0.0571,0.513,154.022,256133,4
+John Lundvik,Too Late for Love,49dWfaI43QJ9M0IQxGCjJD,0,2023,swedish,0.401,0.744,0,-4.155,1,0.0737,0.197,0.0,0.0658,0.414,104.247,178133,4
+Sugarplum Fairy,Godfever,7lxdag2O5U8dQfNwngnvvr,5,2004,swedish,0.221,0.957,11,-3.291,0,0.0646,0.000165,1.06e-06,0.105,0.696,147.001,209400,4
+Vikingarna,Kommer du till sommaren,2brQccVvnGUWoAzl0ofzWO,14,2013,swedish,0.612,0.747,6,-7.893,1,0.026,0.18,2.96e-05,0.107,0.938,157.9,169987,4
+flora cash,"pretty things, spotlight and sleep",4ZBPFDap6IXMDf9W7lNCOL,19,2021,swedish,0.593,0.663,4,-6.811,0,0.0917,0.854,0.0,0.107,0.126,140.098,167411,4
+Teddybears,Cobrastyle - feat. Mad Cobra Weird Science Remix,3p7o3WNbIdeygniS40djDm,4,2006,swedish,0.666,0.855,7,-5.799,1,0.0335,8.23e-05,0.00542,0.0361,0.848,130.997,279467,4
+Gunnar Wiklund,Han måste gå,5OpbUr18pLDzS3JKcTEA81,13,2001,swedish,0.419,0.347,1,-13.947,1,0.145,0.896,5.7e-05,0.383,0.585,81.965,148333,3
+I'm From Barcelona,Oversleeping,3vO0kvdWQGPxd4arZNVTIy,14,2006,swedish,0.586,0.857,9,-4.334,1,0.0497,0.106,1.69e-05,0.698,0.921,128.468,138187,4
+Eclipse,Born to Lead,6nLHGC8Vzi5KAnZwneB2vW,24,2017,swedish,0.49,0.972,5,-4.431,0,0.0789,9.89e-06,0.00219,0.2,0.514,144.031,201440,4
+Smith & Thell,Statue (The Pills Song) - BUNT. Remix,70IM8GwLBrHRxBAcqGN2bw,37,2017,swedish,0.368,0.864,2,-4.759,1,0.0781,0.0138,2.3e-06,0.455,0.705,116.727,236859,4
+Augustine,Mary Cookins,5UM3vYLQuMrlouoKmqeEHr,49,2023,swedish,0.617,0.671,8,-6.678,1,0.0289,0.132,0.0289,0.221,0.628,109.962,191673,4
+Markoolio,Ingen sommar utan reggae,5YuLlTsWYK9uslUdGM83dJ,48,2007,swedish,0.716,0.932,1,-2.989,0,0.0495,0.00627,0.0,0.347,0.779,107.983,228733,4
+Jumper,Livet som slog in,5C1obRg7oBf6sRR5sIXaoK,5,2000,swedish,0.472,0.929,11,-7.131,0,0.0769,2.38e-05,0.0,0.215,0.414,125.922,265000,4
+Nationalteatern,Bängen trålar,4xe5699CpgknXaLHkFfJ1j,9,2002,swedish,0.803,0.754,9,-6.522,1,0.0452,0.437,0.00246,0.0993,0.945,114.202,255040,4
+The Poodles,Everything,2PY4lNc1P3OlVP4JqDrDkd,21,2015,swedish,0.561,0.945,2,-4.833,0,0.0469,0.000327,0.254,0.112,0.706,126.065,185533,4
+[ingenting],Punkdrömmar,5oB9BIK1mN7THZyz1snsVv,6,2006,swedish,0.354,0.936,7,-4.112,1,0.0434,4.72e-05,0.0219,0.173,0.706,138.836,190480,4
+Olle Nyman,Heart & Soul,0hBce7C8cEEOX7nraAP0Kx,14,2008,swedish,0.586,0.385,9,-9.022,0,0.0291,0.693,0.00232,0.114,0.352,119.02,252000,4
+Dupont,Casino,2YedINoXLff2KczKVg0k2N,11,2004,swedish,0.68,0.825,6,-8.764,1,0.0377,0.0417,0.124,0.0489,0.966,123.052,225293,4
+Anna Leone,Your Light,6ZBdz8MuoTg9ffDIK9gga0,27,2021,swedish,0.412,0.265,0,-12.162,1,0.0315,0.935,0.00152,0.13,0.224,81.012,160093,4
+Daniel Lemma,Last Dance,7ypBQ96cwU73ChFoRy6KiJ,26,2019,swedish,0.755,0.491,9,-11.294,1,0.225,0.111,0.00642,0.08,0.527,80.005,303926,4
+Facebreaker,Walking Dead,1Bl4xDfVMnuVbchwWn8mIt,10,2008,swedish,0.355,0.945,3,-3.594,0,0.0718,0.0105,0.729,0.237,0.119,82.019,238293,4
+Karmanjakah,Breathing,79ZC9LS9OG8RDYx1tnsM3s,19,2023,swedish,0.36,0.838,11,-9.009,0,0.0423,0.0609,0.608,0.607,0.182,160.015,320474,3
+Pain of Salvation,Of Dust,3ngNjGFafmCHitPCXi5ZzA,20,2010,swedish,0.295,0.556,3,-8.469,0,0.0451,0.876,0.000868,0.286,0.336,93.208,152747,4
+Henning Mankell,"Kapitel 59.3 & Kapitel 60.1 - Der Mann, der lächelte",5jGTooq58anCqBSugD0ex0,6,2001,swedish,0.687,0.316,11,-20.172,0,0.96,0.622,0.0,0.405,0.272,130.977,188893,3
+Eldkvarn,Hunger hotell,2pTtOAWjOB4UrQTm6HFm7e,19,2008,swedish,0.277,0.941,7,-4.22,1,0.057,0.00405,0.00262,0.515,0.826,157.135,186693,4
+Writing The Future,A World Of Disaster,07xjgAbcxa8FOAvtqMDn1m,23,2019,swedish,0.51,0.96,9,-3.92,0,0.0689,8.06e-05,0.000508,0.0495,0.15,105.014,212571,4
+BLAEKER,More Of My Life - Instrumental Version,3wLDCT1Lj07FBxpGwMqLVr,12,2019,swedish,0.828,0.728,5,-8.333,1,0.0584,0.0439,0.833,0.0803,0.417,140.052,193662,4
+JJ,My Life,11MhL9WHaX7rqTsT3s2qaF,27,2010,swedish,0.278,0.175,9,-12.366,0,0.0359,0.947,0.000167,0.0931,0.158,75.841,115827,4
+Moist,Under My Skin - Excerpts Version,27wDuJRLQNdKouTMezi05E,24,2022,swedish,0.584,0.559,4,-9.213,0,0.0305,0.382,0.000657,0.176,0.232,115.933,244473,4
+Henning Mankell,"Kapitel 13.2 - Der Mann, der lächelte",0Qundr9VK3c91nNJbDrAQB,7,2001,swedish,0.679,0.28,11,-20.825,0,0.958,0.586,0.0,0.412,0.234,131.171,188400,3
+Peter Erskine,The Way You Look Tonight,3ANZ8xvKSptVK6mItSuY8Z,7,2007,swedish,0.377,0.113,0,-22.659,1,0.0347,0.854,0.183,0.109,0.35,102.664,545733,4
+The Keffat Liv,Färska Olycksfågeln,69FPAnLD7I6oIeLhoRP58y,7,2003,swedish,0.599,0.761,11,-3.415,1,0.184,0.13,0.0,0.332,0.192,92.716,277420,4
+Marie Fredriksson,Äntligen,34k9PgYmlkspfdhWb8aEmg,25,2000,swedish,0.621,0.797,5,-6.553,1,0.0332,0.0112,1.72e-05,0.0744,0.896,92.226,241613,4
+Nomy,Chaos,5jJRNJHhos06UlAPXG1Kfw,32,2014,swedish,0.438,0.737,11,-7.441,0,0.0583,0.00225,0.0,0.105,0.203,170.248,245007,4
+Sara Löfgren,Mitt sätt,0xzFKVn4haPfFtwq6YfmY8,7,2004,swedish,0.548,0.803,2,-4.127,1,0.0312,0.135,0.000106,0.0822,0.198,97.941,212467,4
+Vikingarna,Tre röda rosor,3Ony1VGe6lzA0aayAHbx9L,12,2012,swedish,0.57,0.54,2,-12.581,1,0.0292,0.725,0.0,0.325,0.799,105.999,165000,4
+iamamiwhoami,Play,78b7hkQ2IKIvzVDfr3pEgz,5,2012,swedish,0.299,0.657,8,-7.197,1,0.068,0.197,0.892,0.0587,0.305,114.128,316973,3
+Barbados,Happy People,3njGVA0dbMEX9cQl2QxLsl,7,2000,swedish,0.624,0.943,7,-4.804,1,0.0351,0.00492,0.0,0.243,0.747,99.008,185620,4
+Royal Republic,Save the Nation - Nosebreakers Version,3hx6s3IiN0RYXZqfNPmzNf,26,2014,swedish,0.642,0.77,11,-2.404,0,0.0265,0.000908,0.0,0.0747,0.906,132.973,206040,4
+Mustasch,6:36,4eyRrmEXyEsJf1EXza273i,20,2003,swedish,0.494,0.605,8,-7.479,1,0.0289,0.000426,0.0182,0.166,0.351,91.203,284587,4
+Ketil Bjørnstad,Sjette Sang,3TBHz2FCQAjzrbwoq07VhE,3,2023,swedish,0.355,0.322,5,-12.665,0,0.0352,0.81,0.000261,0.256,0.334,76.318,117653,3
+Måns Zelmerlöw,Fuego,175ibqdhKKKO5qyIVkj8v2,34,2019,swedish,0.564,0.574,8,-8.663,1,0.0334,0.025,0.0,0.169,0.547,90.038,186560,4
+Jon Balke,the suspension,1k95HDTvVAFMAOOLyq8JgL,26,2020,swedish,0.371,0.133,0,-22.426,0,0.0505,0.99,0.87,0.0958,0.251,70.064,136307,3
+Miike Snow,Black Tin Box,5MTxSXmSnkYoHeiIZkbCmy,16,2012,swedish,0.601,0.686,7,-10.092,1,0.0502,0.619,0.828,0.162,0.135,119.995,333507,4
+Ooyy,Östersjön,23hAzqLaGtPzZoh7VDNTgA,30,2021,swedish,0.479,0.869,2,-7.313,1,0.0349,0.111,0.947,0.374,0.0934,116.016,268966,4
+Blues Pills,Dig In,1LWj2FUjLdg5t0dSG3EDbW,17,2013,swedish,0.358,0.665,0,-6.104,0,0.0459,0.0275,0.000198,0.109,0.485,116.461,332995,3
+Zhala,I'm in Love,6dpcQDNdI6oZzXix0D3bwk,8,2015,swedish,0.704,0.733,11,-8.032,0,0.0394,0.325,0.756,0.21,0.365,129.978,240455,4
+Roxette,Turn of the Tide,6QsZWMB6zW0DyxNEe8Fc1r,12,2012,swedish,0.464,0.524,2,-6.002,1,0.0266,0.0892,2.88e-05,0.357,0.472,72.016,250853,4
+Machinae Supremacy,Legion of Stoopid,36uxPhCclwD8mAMO6CIwxc,8,2002,swedish,0.293,0.88,1,-4.428,1,0.0681,0.000147,0.0,0.126,0.262,159.851,293453,3
+Darkwater,In the Blink of an Eye,0k8OYIVwDNxbA04vKpt5HT,12,2010,swedish,0.39,0.861,8,-8.568,1,0.0697,0.000573,0.00194,0.12,0.244,175.029,369227,4
+The Sounds,Turn to Gold,5bhJASEUWKespY4oK9wC0y,10,2017,swedish,0.569,0.872,1,-3.144,0,0.0306,0.000849,0.00189,0.183,0.574,115.972,313507,4
+Säkert!,Det kommer bara leda till nåt ont,1KVNgxCjXXI74Y3XK47xfk,28,2007,swedish,0.64,0.576,7,-8.142,1,0.0251,0.591,0.0106,0.144,0.309,101.98,222907,4
+Ikson,Coastline,33V6RAVApdAYRp4j9dBfe7,24,2018,swedish,0.621,0.666,4,-10.021,1,0.058,0.083,0.867,0.119,0.0368,95.001,209684,4
+Olle Ljungström,Jag spelar vanlig,0VrjJH421pqUiUBoorl5CR,7,2001,swedish,0.618,0.874,0,-5.807,1,0.031,0.0109,0.015,0.207,0.937,112.441,250040,4
+Bo Kaspers Orkester,Kom och håll om mig,1ERQ5ZQJEdGKVyY7cFSPkJ,20,2014,swedish,0.818,0.465,2,-12.629,0,0.0352,0.712,0.034,0.117,0.853,110.731,248627,4
+Andrelli,Sway,6lB3F3JJGPsYvJ2ePgIjzx,32,2021,swedish,0.693,0.883,5,-3.523,0,0.0537,0.0484,2.02e-05,0.062,0.727,121.958,177206,4
+Adept,"Lets Celebrate, Gorgeous! You Know Whose Party This Is",6pjjEaT8DLrDakLfJ9GFc4,12,2010,swedish,0.292,0.887,5,-7.179,1,0.113,0.00327,0.00635,0.11,0.181,99.942,261707,4
+Shirley Clamp,Regn hos mig,6oV9VjQkliph102MZsm4aP,9,2008,swedish,0.694,0.552,10,-7.885,1,0.0362,0.479,4.66e-06,0.115,0.756,86.01,210920,4
+Larz-Kristerz,Knappt en knapp knäppt,2PT5J8tmEJYdgfxAZ5GtdJ,20,2021,swedish,0.632,0.714,7,-6.153,1,0.0413,0.409,0.0,0.153,0.776,150.016,194661,4
+The Alabama Lovesnakes,Cold Hearted Woman,3UlrKPC3pVyxJ4H5ch410k,24,2018,swedish,0.462,0.443,2,-7.099,1,0.0326,0.382,0.000348,0.0795,0.886,138.186,174651,3
+24K,En Grabb Från Programmen,0OBAnD88cBqvLbJwz8aTS2,14,2015,swedish,0.602,0.758,4,-6.539,0,0.349,0.241,0.0,0.334,0.563,82.01,281812,3
+Bengt Hallberg,Pilutta-visan,5xEhLiNtIFRhJ6gCNfadrw,25,2004,swedish,0.773,0.521,7,-5.823,1,0.028,0.818,1.57e-05,0.154,0.796,111.886,170027,4
+Virtual Voices,Annorlunda,1qCPmyrRtyZ0Wd3kOVLRDD,11,2010,swedish,0.536,0.948,4,-3.309,1,0.067,0.0681,0.000506,0.139,0.859,180.039,171895,4
+Knekta Kungar,Håll ut,4j7XXgs16ZO8QcXlFog3Y9,16,2013,swedish,0.72,0.265,2,-10.548,1,0.0305,0.815,0.0,0.127,0.322,107.942,220161,4
+Kikki Danielsson,Jag önskar er alla en riktigt god jul,424i8XecCqiZv7obfcE5VM,5,2001,swedish,0.671,0.586,0,-9.206,1,0.0269,0.522,0.0,0.185,0.761,118.041,200707,4
+Svenska Akademien,Psalm För Mörkrädda,5ogqEh4go1GR8slHcZ9aJM,7,2004,swedish,0.822,0.605,9,-8.962,1,0.246,0.0883,0.00331,0.082,0.839,148.686,315320,4
+Alice Boman,The More I Cry,0akKFgC707bDmHopuhNYzM,23,2020,swedish,0.228,0.423,5,-11.545,1,0.0341,0.749,0.0855,0.181,0.102,99.934,251400,3
+Erik Segerstedt,Hjärtat Slår Upp Sin Dörr,03R4ZQbyMtagp4REcc4zGM,17,2014,swedish,0.588,0.607,6,-7.772,0,0.115,0.382,0.0,0.159,0.575,199.982,124600,4
+Sarea,This Void,0VjtRz8tGJmwcuOMnSDi9g,15,2014,swedish,0.4,0.981,11,-2.165,0,0.0883,6.02e-06,0.815,0.177,0.184,105.99,187520,4
+Kite,Changing,7xf5RglXnlkAz5XfZda0Pr,36,2020,swedish,0.416,0.881,7,-7.176,1,0.0373,1.68e-05,0.51,0.367,0.412,95.96,209760,4
+Dream Drop,Dirt,53XA1dKVms7yau4rY4bqYA,16,2018,swedish,0.451,0.874,4,-4.075,0,0.0643,9.41e-05,7.75e-05,0.119,0.31,130.039,260018,4
+Paul Rey,Company (feat. Molly Hammar),6K1L3LtUFusf76CF6PacGO,38,2018,swedish,0.48,0.162,8,-10.238,1,0.0542,0.914,0.0,0.123,0.0949,75.301,193333,4
+Apocalypse Orchestra,Pyre,4ZdDS3BA044iAdlyYpUFkt,24,2017,swedish,0.231,0.603,0,-6.62,0,0.0333,0.000144,0.167,0.244,0.259,139.926,393387,4
+Forgetting The Memories,Heartfeeder,4X0JR26TwRyZ2mJPE4CkCa,15,2019,swedish,0.332,0.957,3,-3.721,1,0.114,5.15e-05,0.00574,0.122,0.33,160.075,214313,4
+Aviana,Hidden,0yTB79bpLENYjjmPPwFRtY,16,2019,swedish,0.387,0.962,8,-4.385,1,0.0816,1.6e-05,0.00294,0.134,0.195,97.171,248133,4
+Joakim Berg,Nåt för dem som väntar,0iLTYhZNjnvPAUKXCpQAL8,32,2008,swedish,0.366,0.618,9,-7.769,1,0.0368,0.0379,0.586,0.114,0.268,120.205,264267,4
+Cult Of Luna,Echoes,3tgNY0qtXZL3EQby2oP7YA,18,2004,swedish,0.312,0.579,1,-9.641,0,0.0329,0.00656,0.172,0.112,0.0381,104.033,750200,4
+Thorleifs,Ingen torkar längre tåren på min kind,319hYrKSAywT0qI3vA4Y3m,10,2012,swedish,0.317,0.542,9,-6.742,1,0.0286,0.342,1.64e-05,0.157,0.426,81.632,182160,4
+Frans,Liar - State of Sound,6futAOgCEUwOdzWPWDa5ZQ,31,2017,swedish,0.665,0.74,1,-6.348,1,0.0295,0.175,0.0293,0.145,0.503,118.021,220720,4
+Sabaton,"Cliffs of Gallipoli - Live, at Woodstock Festival",1YjvGp93ubstKLbIcGOnsx,23,2013,swedish,0.398,0.828,0,-8.362,0,0.0392,0.000475,0.00319,0.826,0.446,94.595,342160,4
+1.Cuz,RÄKNA MINA DAGAR,39YxFKLZ1xbu1f9gQiwkFz,51,2019,swedish,0.884,0.662,0,-8.518,0,0.0511,0.155,0.0,0.202,0.961,142.067,206197,4
+Victims,How Could I Lie?,1jtB1BBNztFuj5G86umeLA,10,2009,swedish,0.113,0.994,8,-3.275,1,0.0697,2.33e-05,0.908,0.52,0.0896,164.239,70120,4
+Thorleifs,Äntligen hemma,5pV3qxNPBNJc0G1ZshM8Ps,5,2000,swedish,0.537,0.697,2,-6.96,1,0.0286,0.18,0.0,0.391,0.745,165.891,170893,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 2: Mörder ohne Gesicht, Teil 22.2 & Ein Kurt-Wallander-Krimi, Folge 2: Mörder ohne Gesicht, Teil 23.1 - Mörder ohne Gesicht",3DTB2vSNm2rq4fSowbsEu1,8,2007,swedish,0.666,0.271,9,-20.536,1,0.964,0.739,0.0,0.151,0.335,146.342,189297,3
+The Sounds,Home Is Where Your Heart Is,42cwDawdNRH8zwtLCYhUm7,13,2009,swedish,0.505,0.925,3,-3.726,1,0.0396,0.00844,3.1e-06,0.284,0.25,132.968,309320,4
+Evergrey,All I Have,2jb9Rrq5af87VsS4LmhvWT,23,2019,swedish,0.415,0.774,7,-6.645,0,0.0418,0.00183,0.551,0.357,0.239,104.976,378920,4
+The Knife,We Share Our Mothers' Health - Trentemøller Remix,0JGZBcfnqLvz2wGOP47i4i,3,2006,swedish,0.788,0.613,1,-10.134,1,0.0537,0.000985,0.396,0.0659,0.359,122.993,482880,4
+Joel Lyssarides,Mirages,0s8YGmoWPKtb1GynGbHAWK,18,2018,swedish,0.305,0.393,5,-12.407,0,0.035,0.93,0.914,0.111,0.276,91.867,301253,4
+Thåström,Kaospassageraren,66FU0cPn2RTc4WACriwnKa,11,2002,swedish,0.303,0.113,7,-21.5,0,0.0379,0.831,0.848,0.172,0.129,118.377,542787,4
+I'm From Barcelona,Battleships,6RA5cLUrYdWt213Pu9SwRb,4,2011,swedish,0.694,0.929,7,-5.377,1,0.0427,0.136,2.81e-06,0.0801,0.723,129.987,198253,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 2: Mörder ohne Gesicht, Teil 9.3 & Ein Kurt-Wallander-Krimi, Folge 2: Mörder ohne Gesicht, Teil 10.1 - Mörder ohne Gesicht",78yWgYJPucVaQa6Qrr0QUF,8,2007,swedish,0.699,0.245,8,-21.023,1,0.949,0.622,0.0,0.43,0.308,126.908,186927,4
+Ram Di Dam,Half Asleep,2OA3Epqxyq9NflVywb8BLt,16,2009,swedish,0.568,0.67,0,-7.085,1,0.0562,0.265,9.99e-06,0.0904,0.75,129.372,240427,4
+Hallman,Everytime I Fall,7AjgsSp4dAXvZGX2BoUCHi,28,2020,swedish,0.716,0.776,1,-6.291,1,0.0302,0.0758,0.205,0.495,0.516,122.983,189329,4
+Gunnar Wiklund,Mest av allt,7IbrUPEuwHGMRWxPUJZbI7,18,2001,swedish,0.506,0.34,4,-11.761,1,0.0277,0.629,0.000125,0.155,0.55,107.007,157560,4
+Zoo Brazil,Save Us,0plSid5FBCN9tWykcwsdBh,32,2014,swedish,0.772,0.707,1,-9.036,1,0.0486,0.00476,0.718,0.0952,0.528,120.011,383662,4
+The Cardigans,Carnival,10Td150f5podLrVX20toEy,11,2008,swedish,0.531,0.742,2,-5.695,1,0.031,0.0158,3.11e-05,0.36,0.343,110.525,219293,4
+Lars Winnerbäck,Hosianna - Live,3EPXp2GhTSA6AYkhNuO7mn,19,2017,swedish,0.577,0.778,1,-6.008,0,0.0765,0.773,7.76e-05,0.671,0.642,147.638,397293,4
+Mangoo,The Way I Am (with MOTi),5h3neM0bVeTj68h2eBbY8S,29,2020,swedish,0.789,0.698,1,-4.071,0,0.0303,0.0664,1.44e-05,0.112,0.191,107.047,190654,4
+Sabaton,"The March to War - Live, at Woodstock Festival",1xrTHKbgYn6ut2MMOE0KoI,22,2013,swedish,0.434,0.453,0,-12.581,1,0.032,0.00114,0.904,0.601,0.293,94.238,96680,4
+Hallman,Always Late,1wNYxWjrk1uNpj52Yh4DMe,20,2019,swedish,0.566,0.804,1,-5.814,0,0.034,0.0336,0.861,0.144,0.142,109.998,194094,4
+Krux,Popocatepetl,5gHV0rTWQ0Q5D6Gjz1tQto,9,2002,swedish,0.257,0.788,0,-3.874,0,0.0446,7.42e-06,0.0196,0.0525,0.375,76.365,292680,4
+Benjamin Ingrosso,Moviestar - From Benjamin's,2FalMRgPjsiXEMjoNaKSIi,43,2022,swedish,0.586,0.861,5,-5.526,1,0.0421,0.16,0.0,0.0998,0.598,129.776,175926,4
+Robert Broberg,Just Där Havet Möter Stranden - Edit,2KGdVMgIGNJh8m0q4yLHuA,9,2000,swedish,0.227,0.359,7,-11.803,1,0.0337,0.786,0.0,0.632,0.358,80.726,123627,4
+Veronica Maggio,Kvällens sista cigarrett,5Iuoz36lF5sOPJIEWt2xXa,30,2006,swedish,0.568,0.351,0,-8.973,1,0.0334,0.286,2.98e-05,0.128,0.131,139.993,254627,4
+Radioaktiva Räker,Inge Vet,0kjL7KSppqcIB5yIRcBeA9,7,2003,swedish,0.289,0.919,0,-3.556,1,0.0466,0.0842,0.000203,0.266,0.831,118.245,84013,4
+Clara Mae,Drunk On Emotions - CID Remix,5sCCz8Rhv16eYUXDpOQAwr,30,2020,swedish,0.735,0.945,5,-3.084,0,0.141,0.0395,8.65e-05,0.351,0.468,126.027,187143,4
+ViVii,Sign of the Times,0lFJqoyxEjFi4R14KaQ5X5,33,2018,swedish,0.633,0.397,5,-13.708,1,0.0338,0.509,0.302,0.0798,0.388,131.559,275787,4
+Basixx,Tell Me (Spanish Version),53RxAcwlGfo45nUU7vIRQH,21,2020,swedish,0.734,0.67,8,-8.513,1,0.287,0.114,0.0,0.459,0.699,120.045,165750,4
+Zonaria,Damnation Dressed In Flesh,6cNwCjfZkvG0C1PdEO1gif,4,2009,swedish,0.41,0.94,9,-4.78,1,0.0769,1.82e-06,0.111,0.136,0.0661,99.991,240493,4
+Samuel L Session,Marked Spot,25UUhgjRuSFYQJfK5pRcvr,10,2023,swedish,0.787,0.649,10,-13.071,0,0.0527,6.11e-05,0.888,0.111,0.0337,133.996,316800,4
+Stefan Sundström,Möss och människor,5uGuoJqA6cmcBY2pcJgFrp,6,2002,swedish,0.301,0.631,7,-7.975,1,0.0378,0.174,0.0,0.579,0.42,138.871,119600,3
+Einár,Unge Med Extra Energi,07r0YVWQVk4tjuCZWTNQqA,54,2020,swedish,0.688,0.388,7,-15.093,0,0.442,0.772,0.0,0.178,0.595,96.194,190515,4
+Molly Nilsson,Hotel Home,2UMmycvdhlSsx8W7R4L9Pp,21,2011,swedish,0.319,0.473,9,-10.414,0,0.0359,0.472,0.437,0.122,0.262,201.235,289746,4
+Machinae Supremacy,Empire of Steel,4aIwZ6j90Ih8ObUUFvrt4H,38,2021,swedish,0.418,0.918,6,-5.466,0,0.0531,3.66e-05,0.028,0.0522,0.341,170.029,217412,4
+Agnes,One Last Time,0rlrdRaBu47wZxM5QTJfrp,30,2012,swedish,0.66,0.639,0,-5.831,1,0.0299,0.0274,1.56e-05,0.138,0.494,114.03,239597,4
+Barbados,Allt jag har,1oO2bBEQVFjTjmumaaUyxR,8,2000,swedish,0.615,0.905,4,-3.553,1,0.0334,0.000858,1.11e-06,0.229,0.666,145.049,191611,4
+La Lusid,Beehive,0ZeKO7WNv6TqNZ0AHlXABU,29,2020,swedish,0.746,0.544,4,-10.407,0,0.0363,0.781,0.268,0.107,0.257,139.995,170857,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 19.3 & Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 20.1 - Hunde von Riga",5aAZ0sLDzLVxQEIqEgR3cA,6,2000,swedish,0.717,0.199,9,-21.39,1,0.945,0.38,0.0,0.209,0.531,123.379,195369,4
+Alcazar,Burning,5CAvledKuKZTnj6l6YGc75,8,2009,swedish,0.567,0.958,11,-5.775,0,0.0542,8.23e-06,0.00182,0.0996,0.927,126.987,189187,4
+Escape The Day,Can You Hear Me,5CxafZgS2kIwrxLub48Kk8,13,2014,swedish,0.509,0.994,9,-3.335,0,0.135,0.00229,6.83e-06,0.0933,0.209,132.005,270909,4
+Mathias Algotsson,Changes,0mwRlXgR9YkTIRRNLHdM5l,8,2004,swedish,0.397,0.0147,7,-22.538,0,0.0443,0.995,0.949,0.0919,0.213,99.175,188147,4
+PatC Miller And The Tailshakers,Come on Roll,13OVMDldsuRyJ8poOB6iO2,28,2012,swedish,0.419,0.913,4,-2.404,1,0.0889,0.795,0.00627,0.247,0.93,178.022,168613,4
+Tysta Mari,Det var vackert,3qzn7NC7bQael7xKKlc57I,12,2013,swedish,0.319,0.95,0,-1.906,1,0.209,0.00376,0.000232,0.279,0.469,158.005,203573,4
+Soen,Koniskas,0SkrtGpoQy4ldMO9JpQ0GM,31,2014,swedish,0.535,0.789,4,-7.141,0,0.0376,0.0135,0.18,0.101,0.324,146.003,299360,4
+Phosphorescent,Big Red Sun Blues,0D9WCjmk9we5NcJwaYBw75,30,2022,swedish,0.491,0.225,0,-13.607,1,0.0387,0.682,1.94e-05,0.13,0.454,143.45,162048,4
+Crashdïet,Like a Sin,6iczuq74QuHG0muEXxYSLV,15,2007,swedish,0.459,0.951,2,-4.692,0,0.0801,0.000259,0.0,0.104,0.254,92.534,174324,4
+Bolaget,Kan Inte Gå,6KOzO2mUwSwe8a9GiJAn7X,67,2021,swedish,0.721,0.414,11,-9.104,0,0.132,0.219,0.0,0.164,0.652,144.758,146719,4
+Junip,Far Away,3YlFtz805JwhDGy0fLasBO,43,2010,swedish,0.442,0.605,2,-12.946,1,0.0333,0.595,0.736,0.131,0.447,167.405,166200,4
+Ulf Nilsson,Little By Little - Lulleaux & George Whyman Remix / Extended,1QijWCErYuJ1MVu7U3IeNu,32,2015,swedish,0.668,0.586,11,-7.84,1,0.0303,0.0724,0.00904,0.0781,0.715,118.014,313220,4
+Hank C. Burnette,Don't Mess with My Ducktail,1qaaHjbeZmY2abBJEXetEN,16,2001,swedish,0.642,0.922,4,-3.02,0,0.0652,0.573,0.229,0.25,0.765,115.786,199773,4
+Melissa Horn,På låtsas - Live på Cirkus,0a8reMG0XZ7iSi4xrwgWys,10,2012,swedish,0.4,0.332,10,-16.598,1,0.0815,0.685,0.000417,0.696,0.304,83.026,257733,4
+Crying Day Care Choir,Sad Season,47QTfH8RP77K6xdHpOFNEx,28,2018,swedish,0.767,0.721,1,-6.751,0,0.0489,0.658,0.0,0.356,0.681,132.046,158600,4
+ABBA,I'm Still Alive - Live,4kZlykyOQ1w31YA3RirCvQ,27,2014,swedish,0.381,0.514,0,-12.066,1,0.0839,0.518,1.84e-06,0.755,0.172,124.356,269840,4
+Nick Borgen,För dina vackra ögons skull,0aMg9OWgGqDVeFesbjnnt3,10,2006,swedish,0.689,0.68,2,-6.863,1,0.0245,0.606,6.43e-06,0.14,0.578,89.88,289800,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 3.3 & Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 4.1 - Hunde von Riga",6fjAqmapXav3uWlSTafB7w,6,2000,swedish,0.704,0.227,10,-22.786,0,0.96,0.53,0.0,0.351,0.463,68.273,185201,3
+Mikael Wiehe,Ödets sista bud - Simple Twist Of Fate,1N8ypn6eAbVGMJbJyzQyG0,13,2007,swedish,0.469,0.272,1,-13.823,1,0.0313,0.409,7.71e-05,0.751,0.202,132.941,332093,4
+Raubtier,Låt napalmen regna,1mYPGG4vnXPEawUEQXFTr2,42,2012,swedish,0.568,0.965,11,-3.772,1,0.078,0.000108,0.242,0.199,0.368,116.0,204220,4
+kent,Hjärta,4ezYPVfghVzIA1yVjQnZkk,35,2009,swedish,0.467,0.629,2,-7.73,0,0.0293,0.0651,0.000196,0.196,0.135,140.016,330613,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 63.2 - Hunde von Riga",3KxJ2dJXQ7IjNI77ovahgl,5,2000,swedish,0.645,0.208,7,-22.575,0,0.962,0.408,0.0,0.422,0.385,77.91,187400,4
+Erik Hassle,The Thanks I Get,2Kjdy2kwFVSptxsai17S9o,15,2009,swedish,0.522,0.571,8,-6.764,0,0.0296,0.712,0.000355,0.12,0.297,138.523,273373,4
+Råby,Jett on Jett,10lhW2lYT9cLc0ebJwqek1,48,2018,swedish,0.576,0.485,2,-14.208,0,0.499,0.581,0.0,0.19,0.542,85.938,216817,4
+Björn Skifs,Nattens melodi,7edYtU4scQJTBVYkq5j7gw,5,2005,swedish,0.478,0.048,5,-18.314,1,0.0456,0.783,0.0,0.0972,0.24,98.899,149067,3
+ABBA,Rock Me - Live,43iNYzBbyAQF29CjsalAik,30,2014,swedish,0.462,0.721,7,-9.928,1,0.0577,0.0568,0.0,0.712,0.548,132.91,214400,4
+Jenny Wilson,Like a Fading Rainbow,79s8ZiCA8i9ft2CxrT6kGn,22,2009,swedish,0.826,0.346,10,-8.636,1,0.067,0.625,4.52e-05,0.169,0.532,109.052,226613,4
+Style of Eye,Louder (feat. Sirena),2lAhy5xskMkHWIPX6exKXn,21,2014,swedish,0.769,0.892,5,-3.966,0,0.0653,0.00989,0.00246,0.145,0.755,128.001,200747,4
+Lasse Stefanz,Ett litet munspel,1nRffv2HWr9M2FTPR95TS3,8,2006,swedish,0.47,0.727,9,-5.174,1,0.0378,0.0846,5.88e-06,0.0873,0.779,175.976,138840,4
+Eric Gadd,Som du,5JPBZrKzIkd9qs2B9DyYwc,10,2008,swedish,0.78,0.466,2,-11.002,1,0.0491,0.0569,0.0013,0.0662,0.96,144.038,260651,4
+Simon Crashly & The Roadmasters,Tu Tu,3Wuyv5nf7uJndpiVMl2E2f,18,2001,swedish,0.567,0.943,7,-6.227,1,0.0403,0.205,0.00186,0.0267,0.985,161.141,243480,4
+Raymond & Maria,Vi ska bara leva klart,5HYZgSxVcUTKI30t76S7HL,7,2004,swedish,0.554,0.571,0,-8.59,1,0.0292,0.125,0.0,0.265,0.692,140.038,238587,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 4: Die weiße Löwin, Teil 9.3 & Ein Kurt-Wallander-Krimi, Folge 4: Die weiße Löwin, Teil 10.1 - Die weiße Löwin",6wvGNN2R01HQZzI1SBJ0jR,5,2002,swedish,0.616,0.313,4,-18.473,1,0.963,0.525,0.0,0.342,0.396,76.728,195211,3
+E-Type,"Set The World On Fire - 7"" Version",7LtXamiLQxnUnvuXePP0bu,24,2021,swedish,0.604,0.917,1,-6.233,0,0.0306,4.98e-05,0.456,0.219,0.91,136.188,224360,4
+Alex Järvi,Lost Boy,03BTqZzp7T65v9LvMDdrtU,35,2020,swedish,0.448,0.546,9,-6.631,1,0.0994,0.0538,0.0,0.076,0.296,178.462,167360,4
+Beardfish,Hold On,3Ytv2wH6WqPb74wYLgGDX9,16,2015,swedish,0.611,0.628,2,-10.902,0,0.0338,0.0166,0.0115,0.0921,0.602,133.953,467053,4
+Eddie Meduza,Såssialdemåkraterna,7oetSXIYOJ6LSQNJ6VGAoM,10,2003,swedish,0.457,0.924,2,-4.893,1,0.11,0.17,0.0,0.269,0.788,177.977,137533,4
+Willy Clay Band,From Here To Heaven,76E36DT95APnCdxe85G3TO,5,2005,swedish,0.503,0.223,5,-10.547,1,0.0259,0.635,9.35e-05,0.299,0.252,94.037,301213,3
+Winona Oak,Another Story,1wJKRawthhe5HCmJGCscks,30,2020,swedish,0.704,0.388,2,-9.348,1,0.0443,0.78,5.99e-06,0.101,0.165,94.961,184368,4
+Elov & Beny,Vilda Sjömän (Sea Shanty),0rW0U8F6oq3j8a0Hkfx09F,52,2021,swedish,0.555,0.722,0,-6.375,0,0.0634,0.268,0.0,0.304,0.904,208.153,80775,4
+Miriam Bryant,"Finders, Keepers",4SWtoVMzEG7toUCxw1oikL,14,2013,swedish,0.297,0.752,11,-4.85,0,0.0448,0.0317,0.00034,0.139,0.302,160.029,211841,3
+Drifters,Kommer du tillbaks,2AVKrZUrqclKQRMmTxU0bL,19,2020,swedish,0.466,0.635,9,-4.602,1,0.033,0.293,0.0,0.353,0.221,146.175,206270,4
+Lars Winnerbäck,Elden - Live,0apLu2hKekdiHY8sAXRWvA,16,2014,swedish,0.249,0.949,2,-4.86,1,0.0797,0.000289,0.000288,0.671,0.395,147.331,302707,4
+Lappligan,En släktkrönika (Okie from Muskogee),3nskrbdSAYD3Q2SEkjfeT7,8,2007,swedish,0.478,0.633,0,-10.008,1,0.154,0.325,0.0,0.142,0.916,202.989,141720,4
+Mangoo,I Don't Give A F*ck,2WBhDBVqlScv5DmBrWYDKX,30,2020,swedish,0.736,0.759,1,-5.494,0,0.0708,0.0272,0.0,0.0919,0.76,105.027,160000,4
+Sten & Stanley,Regnets rytm,6nTHgmmzyP5pIXjbVp6k68,18,2012,swedish,0.705,0.659,3,-11.176,1,0.0277,0.428,1.25e-05,0.103,0.957,110.948,147200,4
+Alice In Videoland,Numb,15E8uTV7DMIs3E9vZLuJHX,14,2008,swedish,0.619,0.872,9,-6.015,0,0.0392,0.000157,0.509,0.356,0.554,132.027,254320,4
+Sara Löfgren,Utan ord,1py5hDl2I6xyIyaGo6qvAX,5,2004,swedish,0.512,0.748,2,-4.446,0,0.0364,0.00937,0.0,0.36,0.647,138.017,209867,4
+Winona Oak,My Man,74IyZdEk1XXcqm8m1x02rc,30,2022,swedish,0.657,0.715,4,-6.488,0,0.0447,0.0078,5.25e-06,0.361,0.362,110.466,180311,4
+Xenturion Prime,Sweet Harmony,7FGquP3tJFVbs38MdJ9QAF,30,2018,swedish,0.495,0.86,10,-7.749,0,0.0306,5.42e-05,0.114,0.0844,0.216,103.998,288000,4
+Dragonland,The Old House On the Hill Chapter III: the Ring of Edward Waldon,32bazkMvJkrKTX3PpbTZ3h,9,2006,swedish,0.195,0.772,4,-6.772,0,0.0656,0.0578,0.86,0.105,0.176,130.701,377787,3
+Zara Larsson,Right Here,5Wlft6NsN2G4EyXY7tR8hj,37,2021,swedish,0.779,0.665,3,-6.975,0,0.14,0.0347,8.21e-05,0.0994,0.468,120.043,226238,4
+Henric de la Cour,Two Against One,4ga2gMTySxb5PObecdiZKY,26,2018,swedish,0.386,0.801,9,-5.067,0,0.0351,0.000559,0.732,0.0851,0.551,143.038,227413,4
+Stefan Sundström,Vissna blommor,7ekp8VJwgJGH0frFUDerrm,10,2004,swedish,0.331,0.39,0,-9.19,1,0.0288,0.334,4.83e-05,0.0965,0.406,144.377,259867,4
+Zonoma,99 Red Balloons,56tirIo28bF0MY5oMpiDah,26,2018,swedish,0.525,0.521,4,-9.249,1,0.0347,0.0421,4.29e-05,0.131,0.388,115.036,190820,4
+Simon Crashly & The Roadmasters,Sussane,43XAxrEby3TNiSWYNCrxoQ,15,2001,swedish,0.583,0.936,9,-7.247,1,0.048,0.388,0.000128,0.134,0.97,164.647,180933,4
+Jailbird Singers,"Rulla på, rulla på",2rADbPbRPOamvNzyQeI6Mu,7,2000,swedish,0.588,0.561,9,-11.822,0,0.0356,0.86,0.118,0.0925,0.64,123.115,164733,4
+Moist,Far Beyond the Endless - Love|less Remix,1jp80vGiWfFBl3A2lwB4Zj,16,2012,swedish,0.529,0.756,4,-8.851,0,0.0478,0.0993,0.0351,0.246,0.551,180.004,272096,3
+Daniel Herskedal,Call For Winter,0OoBHift0ximqx4SpAQZVe,24,2020,swedish,0.273,0.175,10,-20.023,1,0.0322,0.928,0.965,0.111,0.193,134.782,245373,4
+The Baboon Show,Faster Faster Harder Harder,3pFBmH5IJiDewt4gQ6DFhx,25,2007,swedish,0.409,0.968,4,-3.159,1,0.134,0.0103,0.00971,0.0756,0.376,166.926,119653,4
+Peg Parnevik,Tears,1KEXV4nhFG7lkOU7qqiQyi,42,2021,swedish,0.682,0.593,10,-12.094,1,0.0512,0.0326,1.02e-05,0.0518,0.74,100.016,152400,4
+Coca Carola,Lovar & Svär,4lsPkFCDzZqXgNM0NWUgcr,9,2002,swedish,0.451,0.712,8,-6.608,0,0.0393,0.417,0.0,0.629,0.519,70.252,236680,4
+Omar Rudberg,QUE PASA,1iFLzAXw1mXHZ5NXjj2M5n,36,2018,swedish,0.771,0.683,9,-6.021,1,0.258,0.187,0.0,0.114,0.711,107.165,164299,4
+Melissa Horn,Innan jag kände dig - Live på Cirkus,6i5NV8qagBvMpf1WlZHa1f,10,2012,swedish,0.367,0.337,9,-14.89,1,0.0422,0.485,1.51e-05,0.704,0.319,78.325,220320,4
+Kiihjano,Förförande,5ZbOjmgAJIJ1bhUqXDASPg,22,2017,swedish,0.615,0.674,6,-7.385,0,0.0643,0.233,0.0,0.0812,0.284,179.694,176196,4
+Lillasyster,Umbrella,74VJfktkmKK4a9bFxQNdpz,40,2013,swedish,0.454,0.917,5,-2.513,1,0.0846,0.00882,0.0,0.0503,0.76,174.213,256013,4
+Christer Sjögren,Det är skönt att komma hem,7eAKOr6SFakbt7E6fWvSSu,14,2003,swedish,0.664,0.712,7,-8.99,1,0.0334,0.187,0.0,0.114,0.816,126.14,167427,4
+Naomi Pilgrim,House of Dreams,4DCTUaPQjhAgWogEVkuKg8,20,2014,swedish,0.492,0.7,5,-2.852,1,0.0869,0.0591,5.83e-06,0.169,0.291,71.664,221554,4
+Dina Ögon,Docka kväll,39UGvprnIjdS3JMAcY0bbn,39,2023,swedish,0.566,0.199,1,-17.155,0,0.0301,0.905,0.946,0.107,0.16,82.148,95289,4
+Helt Off,Bla Bla Bla,2i8AR4YJL8QtUrm1vcrLLu,12,2004,swedish,0.601,0.45,6,-8.177,0,0.299,0.0268,0.0,0.142,0.754,171.179,238067,4
+ABBA,Lay All Your Love On Me,4reWOA7oEZski50IiZvKY1,27,2012,swedish,0.662,0.494,2,-14.53,0,0.0275,0.0152,0.0367,0.183,0.683,133.241,275440,4
+Gyllene Tider,Tuffa tider (för en drömmare) - Live '04,7sfv9zDflj11XyVIExSH59,10,2004,swedish,0.56,0.755,2,-6.343,1,0.0438,0.292,2.2e-05,0.962,0.567,80.978,210653,4
+Treat,Papertiger,3aUjNj77IOZDthzPMQ3gDh,12,2010,swedish,0.482,0.938,1,-2.836,0,0.0682,0.000159,0.018,0.105,0.536,131.095,266907,4
+The Sounds,Like a Lady,1gYscCYhQd5aqNWsK1Pawz,16,2003,swedish,0.628,0.823,10,-5.194,0,0.0402,0.00147,0.0,0.0657,0.632,145.059,209733,4
+Tupelo Highshots,Maybe Little Baby,2b6HV8msePFbO154F3PJ4J,22,2012,swedish,0.605,0.952,9,-5.717,1,0.0375,0.0853,0.0,0.136,0.738,98.047,146818,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 37.3 & Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 38.1 - Hunde von Riga",3YYNziKhc9yXsYD8EtNUtO,6,2000,swedish,0.627,0.185,8,-22.721,1,0.966,0.269,0.0,0.308,0.482,84.078,191086,1
+Darin,Satisfaction,54DtVqFHH5KalNbgPE8Rok,28,2022,swedish,0.818,0.537,10,-6.716,1,0.119,0.162,1.35e-06,0.0792,0.765,101.881,187360,4
+Dynazty,Closing Doors,0XZZZZ67tH8jdV5XghatNc,22,2018,swedish,0.413,0.96,7,-5.642,0,0.094,0.000132,0.0,0.532,0.414,160.013,306907,4
+Seinabo Sey,Pistols At Dawn,6cWexxj6B6UnV9VpXP8cvt,18,2015,swedish,0.56,0.516,2,-8.593,0,0.0394,0.0355,6.15e-06,0.0676,0.237,81.89,220801,4
+Lillasyster,Traktor,1zSWz3smHmObtOCdNxuuyf,13,2013,swedish,0.6,0.915,2,-4.681,0,0.11,0.05,0.0,0.102,0.451,136.144,196720,4
+Pain of Salvation,Flame to the Moth,7giXff4D8RsSsMRDuQU4pa,13,2007,swedish,0.24,0.936,2,-4.787,1,0.309,0.0131,0.0,0.331,0.398,80.94,358013,4
+Opeth,To Rid the Disease - Remixed,2U6xuAP1reSetFjZwcqfCi,20,2015,swedish,0.551,0.506,2,-9.991,0,0.0249,0.0101,0.353,0.0975,0.122,133.093,379373,4
+Fredrika Stahl,Oh Sunny Sunny Day,4jaObichf6JbuiRNawHP3R,19,2008,swedish,0.829,0.487,10,-7.435,1,0.0516,0.864,0.0438,0.0917,0.525,142.192,178253,4
+Fjärde Världen,Ännu en gång,1FmgF67Q2yCvEKH0SP1vb1,26,2004,swedish,0.785,0.833,1,-6.114,0,0.28,0.0306,0.0,0.283,0.648,94.001,259030,4
+Kartellen,Så fort,2SBEJ6t5em0e9by8qBWg2k,37,2013,swedish,0.452,0.71,1,-5.357,0,0.314,0.0902,0.0,0.0636,0.59,78.759,241813,4
+Machinae Supremacy,Archangels of Sidaroth,3G8b5XLDKSOrpa6Jub3Mdy,6,2004,swedish,0.441,0.886,9,-6.709,1,0.131,0.000185,0.899,0.383,0.507,135.099,78363,4
+Petter,Nya stilen (feat. Eye N'I),12W4S102lJfQxrVKSpKWsJ,5,2001,swedish,0.89,0.696,1,-5.484,0,0.0444,0.21,5.65e-06,0.0968,0.803,103.031,311480,4
+Junip,White Rain,0xhsI2T1G2YwHjgeZ2MWS9,18,2011,swedish,0.591,0.714,5,-7.524,0,0.0323,0.162,0.754,0.11,0.605,149.25,191587,4
+Agnes,XX,6zolxMGqhc9NL4QMema3tt,34,2021,swedish,0.547,0.671,9,-5.095,0,0.0715,0.129,0.0,0.289,0.351,119.892,242740,4
+Emilia Amper,"ABRÉGÉ - folk suite for nyckelharpa and string orchestra, I. Kapten Kapsyl",44jft6cJQMHTcvGB57823D,14,2010,swedish,0.388,0.246,5,-16.094,1,0.0368,0.84,0.819,0.27,0.507,122.511,160920,3
+Lasse Stefanz,Travelling Light,5vT6NnqPNQteNJzLEIOY0c,10,2006,swedish,0.423,0.5,0,-8.742,1,0.0298,0.0677,0.0,0.187,0.478,105.574,188987,4
+Dubmood,Chiptune,4EuPMzVjFBkGdbyKJHFoeg,33,2013,swedish,0.439,0.841,1,-9.635,1,0.0476,0.0039,0.797,0.145,0.699,200.625,195056,4
+Nils Landgren,Stars in Your Eyes,4buVukfsBTBXKHI0rYde35,20,2011,swedish,0.708,0.434,2,-13.362,1,0.0431,0.761,0.125,0.17,0.393,89.422,268360,4
+Lena Philipsson,Ingenting är längre som förut,4sODukvmRE6TM9bf3GKn0y,9,2004,swedish,0.565,0.672,1,-5.967,1,0.0331,0.186,0.0,0.122,0.539,143.623,238720,4
+Markoolio,Vi ska vinna,7CdPivJnty2kdfBacQsd9Q,12,2004,swedish,0.761,0.882,10,-4.71,0,0.0758,0.155,0.0,0.429,0.715,99.037,182733,4
+The Latin Kings,Cashen dom tas - Originalversion,4W68OLgZkLxLkjI79bFjyh,16,2003,swedish,0.641,0.774,0,-4.465,1,0.369,0.0399,0.0,0.339,0.775,173.729,265320,4
+The Project Hate MCMXCIX,Dominate,3KhEW4Fy1FzWWf1qMCKZwh,4,2003,swedish,0.516,0.989,2,-4.646,1,0.118,0.000157,0.00753,0.248,0.196,125.914,519920,4
+Dubmood,Insert No Coins,32tU9c1c8kXYdnr9Sg4L3q,15,2006,swedish,0.635,0.973,4,-7.876,0,0.0408,0.000482,0.879,0.138,0.646,125.012,146051,4
+Barbados,Himlen och lite till,1LVX4k5LPLVnydGZZnH14R,5,2000,swedish,0.714,0.866,0,-4.142,1,0.028,0.191,0.0,0.3,0.783,99.981,226255,4
+Lars Jansson Trio,Fisherman,5oVaNIPHy2cm1EFHcnnicr,11,2009,swedish,0.476,0.521,10,-13.726,0,0.0294,0.684,0.939,0.102,0.684,96.477,272160,4
+The Kristet Utseende,En liten pipa holk,0QQ9LWzct8JB3a0ePw8g0P,12,2006,swedish,0.548,0.94,0,-6.076,1,0.0735,0.000412,0.000376,0.236,0.265,139.052,153307,4
+Cult Of Luna,The Great Migration,00uZBXRiw76RF6NiEqCRqY,14,2008,swedish,0.409,0.682,4,-7.167,1,0.0336,3.99e-05,0.79,0.107,0.297,186.661,392253,3
+Molly Nilsson,Let's Talk About Privileges,770MPncKsxqYSgT7cJFkfg,16,2017,swedish,0.622,0.755,0,-5.069,1,0.0261,0.0932,0.0355,0.134,0.716,100.335,243615,4
+Jebase,Storyteller,5uRDQztSxN86fguNEVyDfI,23,2017,swedish,0.482,0.955,1,-3.797,0,0.0668,0.168,0.03,0.865,0.607,203.998,212109,4
+Kobojsarna,Unbelievable,2TRI0aot94uqGGGd9b2af4,28,2010,swedish,0.72,0.713,0,-6.09,0,0.17,0.0157,0.0,0.163,0.438,129.97,233000,4
+Sum Wave,Purple Lilies,3GzmeKKLrJ5EkD3xTxgVGQ,24,2020,swedish,0.703,0.575,1,-14.488,0,0.0483,0.729,0.912,0.115,0.518,120.004,186625,4
+Sandro Cavazza,Don't Hold Me,0AWwX1XUeCmIgzhADFLU1c,29,2017,swedish,0.542,0.413,0,-10.833,0,0.0389,0.449,0.0334,0.101,0.111,138.157,170674,3
+Barbados,Pojkarna i poolen,00JCJs1WaaaZkBB8YBqsrU,25,2006,swedish,0.592,0.976,2,-3.203,1,0.0373,0.148,0.0,0.272,0.969,152.063,186707,4
+Ken Ring,Maria,4mEhdnxj4DJEB1XaZDCA9n,6,2000,swedish,0.731,0.718,1,-7.828,1,0.406,0.00516,0.0,0.113,0.849,175.713,253640,4
+Eastern High,Afterglow,5SliNlusgFQ9ved4RPgdOR,31,2017,swedish,0.532,0.622,8,-8.345,0,0.0331,0.0261,0.638,0.115,0.221,112.016,383507,4
+Alice In Videoland,Dance with Me,6iY6K8abisom9MEBNRtcEG,7,2003,swedish,0.673,0.732,0,-5.458,1,0.0351,0.00187,0.31,0.255,0.975,134.982,149133,4
+Basixx,If You're Looking for Trouble,7hmY7jkHkoOOmzHkvVyBUK,33,2019,swedish,0.669,0.781,7,-5.189,0,0.104,0.411,0.00017,0.213,0.336,124.005,192398,4
+Svenska Akademien,Naivitet,7u6rfDa5qHMYOcNa9U8CYg,7,2004,swedish,0.761,0.442,4,-8.534,0,0.0462,0.0244,0.0106,0.0664,0.695,75.502,267920,4
+Good Harvest,Woodstock,6uaEnwfvHKk4UHmaZzf5y1,26,2017,swedish,0.442,0.228,9,-10.029,1,0.0298,0.786,1.36e-06,0.107,0.339,131.209,264240,4
+Thorleifs,En liten ängel,4slDUcbfAwSY4pTy8BFlMD,20,2012,swedish,0.531,0.616,7,-4.652,1,0.0251,0.333,1.76e-06,0.358,0.55,113.985,222522,4
+Andreas Gidlund,Lament,4t9htJTfaYIZJLDYMqrTCs,29,2021,swedish,0.454,0.192,5,-13.349,1,0.0421,0.964,0.845,0.106,0.278,77.195,170068,4
+Hugo Alfvén,"The Sleeping Forest, Op. 28 No. 6",5lTx73OWLvXJrwVtXFG1Pu,26,2020,swedish,0.185,0.0105,1,-32.665,1,0.0435,0.992,0.292,0.0727,0.037,102.618,146374,3
+Darin,Nobody Knows,4MGxXVNj7xEy5lexljqkou,22,2013,swedish,0.516,0.749,0,-5.742,1,0.0289,0.00202,0.0144,0.599,0.293,132.068,216960,4
+Priest,Ghost Writer,3LptXP0mgSmBt9OmItG13U,23,2022,swedish,0.747,0.868,4,-6.138,1,0.034,0.204,0.882,0.0368,0.963,119.979,220293,4
+Elegant Machinery,A Soft Exchange,2VguezCbbFCegmm7Z9jrK6,21,2008,swedish,0.665,0.808,8,-10.195,1,0.0305,0.0896,7.84e-06,0.0965,0.584,123.985,218667,4
+Henning Mankell,"Kapitel 9.2 - Der Mann, der lächelte",3GJkw3mMOTeRB0Xr1qQ5ZU,7,2001,swedish,0.712,0.32,9,-15.591,1,0.955,0.727,0.0,0.598,0.355,110.798,193200,5
+Henrik Berggren,"To My Brother, Johnny",5G9EDMCULzocrXh59ziW2s,22,2017,swedish,0.387,0.856,10,-4.869,1,0.0753,0.00672,0.0,0.11,0.0975,124.979,239013,4
+Peter Bjorn and John,What You Talking About?,2uiRqxWAcZcOOStlaDp7vC,28,2017,swedish,0.727,0.806,11,-6.111,1,0.0281,0.00755,1.18e-05,0.278,0.962,126.97,179253,4
+Bourbon Boys,Rock 'n' Rollin' Man,1FjfwVnpCAjXSQJjY5LH5x,36,2013,swedish,0.512,0.973,2,-4.731,1,0.0608,3.46e-05,0.0568,0.424,0.348,115.011,176103,4
+Skraeckoedlan,Epilog,4lDjoy1SexQcSlpjumG1fX,19,2015,swedish,0.43,0.597,7,-8.113,0,0.0286,0.198,0.872,0.375,0.0791,99.952,261267,4
+Tobias Lilja,A Room with a View,1aEcCl0UBm1xYohXQxJHUi,31,2021,swedish,0.112,0.108,0,-19.823,1,0.0333,0.904,0.836,0.208,0.0324,154.109,210000,5
+XOV,Lucifer,6s135n74YtqWoVuZwP5xse,22,2015,swedish,0.542,0.534,4,-6.582,0,0.0379,0.00356,0.0,0.291,0.09,128.02,187734,4
+she,Excursion,3ULikmGL2dD9JLhWVFrBd7,13,2018,swedish,0.747,0.59,5,-4.67,1,0.055,0.000689,0.61,0.395,0.427,128.05,137857,4
+Shakarchi & Stranéus,Hessingen,2yCbHFZ2spf22BHacJKiED,24,2018,swedish,0.665,0.818,11,-8.085,1,0.0379,0.674,0.841,0.116,0.924,127.429,387402,4
+Ikson,Sahara,05LaSZipL3fhd0KvUOnrJv,24,2020,swedish,0.792,0.71,9,-6.1,0,0.0912,0.282,0.0664,0.0823,0.515,89.957,177604,4
+Flamingokvintetten,När syrenerna blommar därhemma,5Phak7dHEu4FB5ZrlGYYoJ,11,2008,swedish,0.461,0.792,9,-5.226,0,0.0474,0.175,0.0,0.0724,0.679,153.793,167450,4
+Hårda Tider,Fuck Snuten,1MNyoYNdvhxAEAqeotTSU7,8,2008,swedish,0.282,0.974,7,-4.825,1,0.148,3.68e-06,0.00239,0.192,0.218,95.986,157434,4
+The Sounds,24 Hours,1Fpi6DTUhLE7YZX9xXd1wV,23,2006,swedish,0.526,0.842,2,-3.264,1,0.0456,0.000669,0.00289,0.349,0.719,140.979,162200,4
+Mohelá,Lotta & Sanna,1jiDCQUaa9LmWpQJRuOWRb,52,2021,swedish,0.869,0.421,5,-9.09,0,0.416,0.255,0.0,0.115,0.667,139.921,135520,4
+Raised Fist,The Answer,6jY72TT2HsMMnWisCR2ngh,16,2001,swedish,0.319,0.886,0,-8.188,1,0.0576,0.00122,0.41,0.598,0.636,106.87,128173,4
+Sasha,Mark One,5KlHq1L9EA2OwKeUc9ZR6c,24,2020,swedish,0.711,0.664,6,-7.952,1,0.0434,0.0262,0.936,0.178,0.646,118.008,231304,4
+Christian Lindberg,Wings on Fire I,4BD7abEJbJF5SJoFixR3kP,19,2022,swedish,0.33,0.203,9,-14.695,0,0.0372,0.94,0.761,0.383,0.0722,135.329,66640,1
+Amanda Jenssen,Illusionist,6xa8AdLBbLpw4hxlpnez7Q,14,2012,swedish,0.445,0.635,9,-3.837,0,0.0311,0.0578,0.0,0.0662,0.219,75.042,273853,4
+Henning Mankell,"Ein Kurt-Wallander-Krimi, Folge 3: Hunde von Riga, Teil 68.2 - Hunde von Riga",0uZkEYL7HGtNdnNC44Dq3r,5,2000,swedish,0.607,0.242,2,-25.321,1,0.964,0.261,0.0,0.526,0.502,69.923,200549,3
+Henning Mankell,"Kapitel 68.2 - Der Mann, der lächelte",0rzPt2EkVMVWEGR2PHHoks,6,2001,swedish,0.674,0.307,5,-21.024,0,0.957,0.514,0.0,0.409,0.264,112.198,185800,3
+AronChupa,Thai Massage,0NPgN33t7QlDKB5Ciw7CZJ,39,2020,swedish,0.804,0.773,8,-7.567,0,0.0736,0.042,0.0,0.371,0.646,99.986,138895,4
+Maia Hirasawa,Tusen bitar,2m6QrPiTpQjlDjLuFCn6oQ,29,2010,swedish,0.585,0.22,0,-13.626,1,0.0562,0.734,1.79e-06,0.0927,0.446,133.316,188053,4
+Pain of Salvation,Nauticus,2TDPzpT7nCUtvyzU0ySgYc,14,2004,swedish,0.394,0.233,2,-20.183,0,0.0729,0.632,0.00437,0.104,0.317,113.044,298493,4
+Ted Gärdestad,Jag ska fånga en ängel,7yiam21csbzi3AP7xlxUOn,0,2023,swedish,0.608,0.769,10,-5.073,0,0.0252,0.0026,8.06e-06,0.0688,0.765,106.561,234293,4
+Kite,Count the Days,6xAhefDhaZdOUuljfQIvus,28,2015,swedish,0.403,0.953,0,-4.574,1,0.182,0.023,0.000814,0.186,0.252,193.93,196280,4
+Regenholz & Portnoff,Nu kommer aldrig tillbaka - Radio Edit,1BFL65ABUzSL2XYO2w9cXd,40,2012,swedish,0.568,0.861,0,-6.586,1,0.0372,4.53e-05,3.53e-05,0.235,0.913,165.025,219636,4
+ABBA,No Doubt About It,293qCzqLqTYoqAkv1gqkdR,45,2021,swedish,0.615,0.707,2,-5.909,1,0.0288,0.2,0.0,0.0729,0.795,149.981,176573,4
+Daniel Lindström,Nån Slags Verklighet,5JCFoKLAGfxo8cPBWRpAeW,12,2006,swedish,0.452,0.699,9,-4.036,1,0.0335,0.296,0.0,0.212,0.522,175.941,226441,4
+Slagsmålsklubben,Ovningskora,5vn6pVxzLeWJweGa9zqxGD,31,2010,swedish,0.594,0.831,7,-6.871,1,0.0723,0.00557,0.0204,0.492,0.376,170.012,201187,4
+We Are the Emergency,Bring You Home,0p6gmm0T8ewISypMKSq1qN,13,2012,swedish,0.225,0.877,7,-3.854,0,0.0486,5.73e-05,0.0188,0.456,0.317,98.907,208939,4
+Adna,Closure,60C2g9TAJkfIDobWeLvDMk,20,2017,swedish,0.706,0.549,4,-10.935,0,0.0367,0.28,0.056,0.0564,0.334,127.001,206798,4
+dEMOTIONAL,Initialize the Calm,006key4w8cwl9LaYd4HkDs,13,2014,swedish,0.512,0.959,8,-4.319,1,0.0774,0.00047,0.000121,0.314,0.383,110.03,299727,4
+Opeth,Into The Frost Of Winter,2IvbzIi5PkYacj7GW8utAV,8,2008,swedish,0.19,0.881,3,-3.766,1,0.081,0.0179,0.109,0.241,0.17,138.699,380293,4
+Raubtier,Hjärteblod,6J8sA5lIgZoDFdEyRvVMIs,31,2009,swedish,0.586,0.796,8,-5.118,0,0.0274,0.016,0.000218,0.363,0.538,100.05,226093,4
+First Aid Kit,Ruins,3PWW2hb1V9z84dX9w6XkiN,36,2018,swedish,0.53,0.36,5,-9.213,1,0.0328,0.619,0.000141,0.198,0.461,95.242,211667,4
+Lisa Miskovsky,Driving One Of Your Cars,2xrdPQ9t66LGmiA6R59POo,36,2001,swedish,0.584,0.849,7,-3.975,1,0.0336,0.0291,0.0119,0.283,0.38,125.998,225587,4
+The Real Group,Nostalgia World,3dKx0HYVrSwAc15VKTeDCX,11,2009,swedish,0.573,0.386,7,-9.485,1,0.0311,0.598,0.0,0.122,0.228,145.872,234173,4
+Freddie Wadling,Jag är monstret,5eLbRiROWPhwx5fKDZRySD,9,2005,swedish,0.54,0.321,0,-10.431,1,0.0329,0.814,0.114,0.118,0.0718,113.549,266667,3
+Andreas Moe,Volcanoes,2Ak6HZreZATE3X1hxzGWVc,13,2013,swedish,0.645,0.212,6,-11.621,1,0.0309,0.683,0.0,0.36,0.119,128.015,273440,4
+Björn Afzelius,Sång till friheten - Live,7EDZCU0Ow0asnXp6NCXVgj,8,2005,swedish,0.615,0.695,7,-7.803,1,0.0287,0.443,1.15e-06,0.762,0.502,117.374,191853,4
+Elov & Beny,Anti Julen,4kkyCr9lICtAvQDYdofd37,18,2018,swedish,0.723,0.871,4,-3.864,0,0.103,0.256,0.0,0.555,0.452,94.021,160879,4
+Lars Danielsson,Grace,4dNpwQUEViEhuQttWzxebO,23,2014,swedish,0.4,0.048,7,-18.936,0,0.044,0.986,0.912,0.106,0.213,142.211,188013,3
+Andromeda,In the End,6hK6sSAO4ymNOqiObIcVWq,19,2006,swedish,0.536,0.804,7,-10.694,0,0.0433,0.000765,0.000385,0.0849,0.405,76.618,298200,4
+Machinae Supremacy,Escaping the Krut,4U5f58gYkcBbSw1tEfL3zN,7,2004,swedish,0.43,0.905,6,-5.901,0,0.0374,2.61e-06,0.823,0.215,0.037,130.007,125707,4
+Jimmy Jansson,Min planet,1CSTwAQcZRKRQsmLeg9lzk,5,2004,swedish,0.564,0.906,9,-4.868,0,0.0316,0.00225,1.94e-05,0.184,0.732,102.982,257773,4
+Barbados,Kom nära,4Xg6hnoEo5aXLISwgwqmpL,8,2000,swedish,0.712,0.92,0,-5.465,1,0.0574,0.0166,0.000147,0.0672,0.921,139.903,223608,4
+The Legends,He Knows the Sun,1qU32GZtiySslUZabN56fQ,15,2005,swedish,0.575,0.75,7,-5.025,1,0.0276,0.00232,0.0084,0.153,0.463,144.953,208787,4
+Nimo,Lass mal sehn,4STYPm8OnDglqDiId73a7C,60,2023,swedish,0.857,0.634,9,-8.427,1,0.476,0.211,0.0,0.0775,0.518,129.843,164966,4
+Pain of Salvation,Martius/Nauticus II,3FdxcsSvdexWZw3W97BXpf,18,2004,swedish,0.34,0.803,0,-7.525,1,0.0345,0.094,0.00994,0.154,0.541,105.346,401053,4
+Svante Thuresson,"Hej systrar, hej bröder",4NeQNBUqjDRXk2w5CPxHU1,6,2004,swedish,0.598,0.544,9,-5.907,0,0.138,0.103,0.0,0.202,0.75,93.009,113173,4
+Amason,Clay Birds,1l0z330UjkRqqQCST614ur,12,2015,swedish,0.701,0.482,10,-8.601,1,0.0328,0.0286,0.356,0.226,0.857,121.976,263053,4
+Twilight Force,Made of Steel,1ve6YhiyTnA3bVaVnZRHnQ,21,2014,swedish,0.326,0.681,0,-6.188,1,0.0359,0.0372,0.00347,0.343,0.119,119.828,286411,4
+Bo Kaspers Orkester,Vi kommer aldrig att dö - Live på Cirkus,4yQK6Zoryg5z4dhrTcCMov,8,2004,swedish,0.631,0.742,5,-7.354,0,0.0335,0.155,0.00195,0.34,0.659,112.98,220920,4
+Tove Styrke,Mistakes - VAX Remix,7olYfgtltWRbVEbm7MyHV3,16,2017,swedish,0.708,0.8,7,-3.784,1,0.067,0.0209,2.78e-05,0.235,0.57,91.962,182830,4
+Ulf Lundell,Älskling,3L5VogDgASq6eRjGvobtSy,14,2015,swedish,0.463,0.884,7,-5.377,1,0.0402,0.00173,0.000544,0.118,0.662,124.849,341560,4
+Peter Bjorn and John,I Don’t Know What I Want Us to Do,0BhQiscmMmvwVlQxunqLGj,7,2002,swedish,0.293,0.908,0,-4.879,1,0.0885,0.00583,1.05e-05,0.113,0.351,170.306,206787,4
+Sanna Nielsen,"Igår, idag",1kseKQZ1R2yB91UHRYYwx6,7,2001,swedish,0.447,0.442,4,-6.11,1,0.0249,0.224,0.0,0.101,0.118,78.17,171654,4
+Totta Näslund,På väg igen,4lLAY2INxC0XedoHQEk6zE,5,2005,swedish,0.521,0.419,5,-12.418,1,0.0304,0.285,0.000209,0.106,0.661,172.809,242800,4
+Kali Malone,Glory Canon III,0umxKgveXkkQNTlGtuyyKY,17,2019,swedish,0.0847,0.000991,9,-28.096,0,0.0558,0.827,0.466,0.112,0.0337,68.55,1403870,4
+Sarah Dawn Finer,Lean on Me,4u90mHVZ225DvksRcXvcRZ,39,2021,swedish,0.27,0.255,0,-11.051,1,0.034,0.923,0.0,0.105,0.273,79.728,231134,4
+Tad Morose,Take on the World,7k5I8tOUhZCIK14rxCYPlm,8,2004,swedish,0.437,0.936,3,-7.483,1,0.0638,9.48e-06,0.0991,0.351,0.093,130.943,320600,4
+Evergrey,Ambassador - Remastered,3NcLaKgrN9SLF3RmijH5cf,14,2004,swedish,0.488,0.914,9,-5.071,1,0.0524,7.47e-05,5.66e-05,0.301,0.276,129.796,269493,3
+Lasse Stefanz,Den tid vi behöver,7uCwaSXrFeDY2vO9XGbFqZ,8,2002,swedish,0.664,0.65,1,-7.732,1,0.025,0.0502,2.95e-06,0.141,0.797,111.936,213493,4
+Baby Alice,Piña Colada Boy - Extended,3oCKd3qmBE5FgLhTbnxx5X,12,2010,swedish,0.725,0.855,2,-3.789,0,0.0357,0.000559,0.029,0.162,0.734,112.97,281600,4
+Daniel Lindström,Run,3t2IcJQQcBp1oXrikwpueu,5,2004,swedish,0.607,0.79,9,-5.345,0,0.0283,0.00263,0.0,0.285,0.508,115.967,207000,4
+Mona G,Vem får kyssa dig god natt,5NgbQeXnmGgM1vlrCQPsMN,11,2006,swedish,0.581,0.691,3,-5.327,1,0.0305,0.729,0.0,0.399,0.819,135.873,180733,4
+Jan Lundgren Trio,True Love,5oFEPYz8XBXD0hfe5ZuCIy,22,2007,swedish,0.511,0.0256,7,-18.762,1,0.0589,0.994,0.928,0.145,0.0847,76.923,203387,1
+Impious,One,1yRbHL5rJh7Cbf0EaH8rJu,22,2009,swedish,0.338,0.936,0,-4.578,1,0.177,0.000204,0.413,0.127,0.282,116.406,401173,4
+Komeda,Victory Lane,6pHYlkT3UuqPMWfAAzgX5y,6,2003,swedish,0.771,0.719,11,-5.174,0,0.0343,0.00432,0.0088,0.0786,0.699,131.124,223680,4
+Art Nation,All In,4PmGvJrgoaIhroJbkvVytJ,23,2015,swedish,0.542,0.847,9,-6.466,0,0.0358,2.85e-05,0.0037,0.341,0.361,120.046,226680,4
+Siw Malmkvist,Sju vackra gossar,0zuvsyk8DBwpB6XxsDIyS5,8,2003,swedish,0.702,0.473,7,-9.275,0,0.206,0.857,0.0,0.0854,0.768,137.07,174667,4
+Roxette,Let Your Heart Dance With Me,6Zz5roTd5pRgkrH7Mc8qdh,44,2020,swedish,0.548,0.846,5,-7.752,1,0.0353,0.00505,0.00181,0.106,0.798,90.001,187250,4
+Adna,Overthinking,5ACfFPkUWPUQp3EVUNbMD8,31,2017,swedish,0.533,0.538,8,-10.689,1,0.0441,0.354,0.0576,0.138,0.123,119.909,235145,4
+Ken Ring,Precis som förut,48Ta2gPn5rQ4c0IK3MDqB4,6,2000,swedish,0.725,0.711,7,-8.629,1,0.343,0.0577,0.0,0.238,0.537,94.965,234667,4
+Erlando,Riplay,1yOLPaHFwHydAgjz02mHgj,38,2023,swedish,0.458,0.788,9,-6.509,0,0.0617,0.247,0.00549,0.12,0.467,128.11,142539,4
+Vikingarna,Ett fång med röda rosor,721xtMspCKRkWtbuxbwaqh,10,2012,swedish,0.593,0.823,0,-6.856,1,0.028,0.485,0.0,0.0984,0.971,162.135,172147,5
+23,Gomorra,4BB8YaoZav5uvRGymV7Os2,49,2020,swedish,0.737,0.788,0,-5.591,0,0.0939,0.222,4.79e-05,0.141,0.419,89.945,133333,4
+flora cash,Indie On Loud,0DvciUkqmRcWu5y0KF9Ctp,20,2019,swedish,0.279,0.436,6,-6.681,0,0.0268,0.254,1.24e-06,0.162,0.207,98.292,205000,4
+Seinabo Sey,Never Get Used To,4DIXkKtBY1UutnkWWuYnwz,42,2018,swedish,0.797,0.512,5,-8.25,0,0.194,0.11,1.17e-06,0.0853,0.602,114.892,217027,4
+Lisa Nilsson,Viola,1UJkjgGsRDcCxWzZ5VICHP,7,2000,swedish,0.606,0.565,7,-9.269,1,0.0277,0.348,0.031,0.123,0.897,78.071,299933,4
+Daniel Norgren,Wooh Dang,2un0mBToDMptvW1Aex9vVb,28,2019,swedish,0.495,0.33,0,-15.011,1,0.0365,0.993,0.906,0.63,0.437,72.672,82336,4
+Daniela Rathana,Alltid Blå,48MyFm1aVGY2CC5NMdpaqO,0,2023,swedish,0.577,0.434,8,-7.215,1,0.0253,0.0202,0.0,0.0848,0.112,97.83,280167,3
+Miss Li,Nåt för dom som väntar,09Ou1qxCquXlYC80T6qaQV,13,2012,swedish,0.622,0.84,0,-6.906,0,0.0337,0.00426,0.0495,0.194,0.827,129.877,271440,4
+K E M A L,BRAVE,1LiEAia09qw722mpzqfROY,48,2018,swedish,0.475,0.368,6,-11.096,1,0.0327,0.577,0.000137,0.0496,0.162,88.744,277280,4
+Tove Lo,The Way That I Am,281IcwyVh4u6w9qZkmFbya,25,2014,swedish,0.543,0.559,9,-6.472,1,0.0278,0.00497,8.59e-06,0.158,0.15,141.852,187547,4
+Chords,The Dude,4dbS6BPCsCpEQeCpRd51lt,30,2012,swedish,0.513,0.577,0,-5.939,1,0.216,0.0384,6.74e-05,0.115,0.364,146.044,288987,4
+Sickan Carlsson,Vill Du Vissla På Min Lilla Pekingneser,0iOpqPkfMqjw5fnBjjnWL0,9,2009,swedish,0.666,0.416,7,-11.796,0,0.0721,0.98,0.242,0.203,0.817,165.831,190773,4
+Kiihjano,En Plats,5Q4hOR2tR1K822ccj5sjqI,29,2019,swedish,0.655,0.746,6,-7.392,0,0.158,0.0312,0.000122,0.311,0.526,178.026,214204,4
+Zara Larsson,Sexual - Recorded at Spotify Studios NYC,7zqLBFKCBkk5IfbgKgH4VZ,43,2017,swedish,0.699,0.435,1,-6.891,1,0.111,0.578,0.0,0.0884,0.45,110.288,189057,4
+Phosphorescent,Salt and Blues,1Q0hypVRzvkYXWpULOpG1p,10,2003,swedish,0.443,0.234,7,-12.924,1,0.0315,0.555,0.162,0.355,0.0394,113.73,392080,4
+Sebbe Hauta,Stannar Upp,256iVUyFdO85DlwwlCW8UM,21,2021,swedish,0.677,0.255,9,-13.59,1,0.039,0.877,0.0,0.114,0.612,67.995,162279,4
+Kasbo,Found You,5x9agOqzcsrs0yGxG6NJdD,26,2017,swedish,0.479,0.634,0,-6.092,1,0.0697,0.397,0.00899,0.599,0.122,180.173,196010,4
+Ulf Lundell,På den andra sidan,08PrTCLq1dZgu5e6MXrHfG,9,2002,swedish,0.403,0.973,2,-3.558,1,0.0448,0.00202,1.03e-06,0.0675,0.906,136.687,330360,4
+Tord Gustavsen Trio,Sani,7rO1WtHtReTf7mKiSYlRky,21,2007,swedish,0.256,0.121,5,-21.769,1,0.0417,0.971,0.897,0.08,0.0519,76.578,156733,5
+Linn & Freddie,Be Thankful for What You've Got,3b1YKgW2RkxR897j83Z9eW,29,2017,swedish,0.805,0.71,0,-6.377,1,0.0939,0.262,0.473,0.112,0.937,92.487,281080,4
+The Royal Concept,World On Fire,7zDfGITHuqU56P8lHqXgy5,22,2013,swedish,0.57,0.741,10,-4.196,0,0.0684,0.000503,5.31e-05,0.134,0.648,120.029,199867,4
+Beardfish,Sunrise,71KGD4f6iflhalBcqHhmfi,9,2007,swedish,0.364,0.594,9,-8.426,0,0.0386,0.0294,0.186,0.349,0.213,123.706,474347,3
+Ooyy,Retriever,7rgiY0NB3jZqd2uQqD9EPp,31,2019,swedish,0.481,0.649,5,-7.946,0,0.0463,0.0024,0.606,0.0878,0.109,180.014,168616,4
+Priest,Private Eye,42g7vHLAj6TeteYAPMb0UO,29,2017,swedish,0.8,0.991,3,-6.824,0,0.0442,0.00481,0.0184,0.0403,0.976,122.003,172493,4
+Dragonland,The Tempest,6xHr55dk09Q9uNIZict36m,16,2011,swedish,0.109,0.878,10,-5.194,0,0.144,0.00043,1.14e-05,0.298,0.167,65.901,252987,4
+Suis La Lune,"Dance Red River, Dance!",6OBduxxIhiwpHQWQFVOfkj,20,2022,swedish,0.133,0.661,4,-6.884,0,0.0833,0.0281,0.00681,0.215,0.181,168.552,211375,4
+Peter LeMarc,Kosters klippor - 2009,3H9ANWb9BGeDE3WuZ5SJzQ,11,2009,swedish,0.573,0.556,2,-9.026,0,0.0294,0.396,0.583,0.0852,0.241,120.525,337040,4
+The Cardigans,Drip Drop Teardrop,3ewxvkszNGd7ILDTWPpvGv,21,2005,swedish,0.246,0.504,0,-7.299,0,0.0316,0.00263,0.00394,0.0977,0.115,100.433,202858,4
+Kjell Höglund,Pandoras Ask,4B2Bb3Q1mLHlVn3Znvg56l,15,2006,swedish,0.385,0.564,0,-8.155,1,0.0254,0.00107,0.358,0.112,0.59,79.572,267613,4
+Ludvigsson,Dangerous,1SNx5LslzT7kUSxSIbAnDb,33,2018,swedish,0.686,0.609,8,-9.42,1,0.0739,0.585,2.62e-06,0.112,0.449,102.96,154879,4
+Sweet Jazz Trio,Va Dä Du,0ZDIJug4IuDUjjsw4iqXXj,21,2009,swedish,0.488,0.00768,9,-27.608,0,0.0467,0.995,0.957,0.0978,0.946,67.373,64613,4
+Sabaton,Fields of Verdun - Soundtrack Version,1eNYEXeeBzBzsu9MilpCBA,24,2019,swedish,0.432,0.728,2,-11.517,0,0.039,0.386,0.92,0.25,0.429,144.976,225487,4
+Max Peezay,Kvasifilosof,2hyRN2bt9aGXxub3JjXN4I,8,2005,swedish,0.464,0.908,4,-5.456,0,0.337,0.0891,0.0,0.104,0.478,130.094,234215,4
+Miss Li,X,3Tp6XRivI85TAfpgja9ILh,62,2022,swedish,0.854,0.679,1,-4.135,0,0.0339,0.00455,0.0,0.0864,0.946,125.975,161898,4
+Eddie Meduza,Jag släppte en skit på dansrotundans dansgolv,7npD2kn7Wv81aSfGlTridU,17,2014,swedish,0.659,0.461,4,-6.176,1,0.0318,0.237,0.0,0.0719,0.924,126.697,254240,4
+Vapnet,Kalla mig,2nGgvKTQd3NwhWrsVVVC5n,30,2005,swedish,0.647,0.677,2,-6.715,1,0.0278,0.233,3.41e-05,0.0544,0.912,119.968,279200,4
+Katatonia,My Twin (Opium Dub Version),7efdoVMMph7zIcpsRYIP2s,15,2006,swedish,0.402,0.412,5,-13.795,0,0.0277,0.103,0.00282,0.307,0.275,95.622,257733,4
+Dubmood,Shell Spread,4QNYhW5sX1X85pg8B2bizX,12,2013,swedish,0.626,0.783,11,-8.403,0,0.0416,0.0108,0.857,0.177,0.612,142.813,151092,4
+Henning Mankell,"Kapitel 34.2 - Der Mann, der lächelte",40V7kjXRQELD7VSNtwgwKW,7,2001,swedish,0.682,0.341,9,-19.411,1,0.962,0.72,0.0,0.455,0.29,105.221,199000,5
+Barbados,Vänd dig om,53A7XIq2UAw0l6oCA5vHzu,7,2000,swedish,0.626,0.632,7,-6.805,1,0.0228,0.0253,0.000222,0.321,0.57,87.998,232060,4
+Ras Cricket,Du och jag,3id3ghfHgffr5tAObdZ5wR,14,2007,swedish,0.616,0.572,10,-6.992,0,0.114,0.467,0.0,0.0553,0.965,140.173,234057,4
+Dubmood,Toffelskater (Dubmood 2007 Remix),6o6dLmFp7QgnN8ZagW2a5X,18,2008,swedish,0.644,0.844,1,-7.813,1,0.0325,0.000205,0.895,0.275,0.514,128.517,297352,4
+ViVii,Savant,0sPceWiIlP9cejXq0qlpIs,35,2019,swedish,0.479,0.744,11,-8.599,0,0.0465,0.597,0.396,0.0932,0.475,145.993,318133,4
+Run Level Zero,Under the Gun - Cal.50 Remix by X-Fusion,6b4Lr3JocUE9HGEcEjaU9W,13,2004,swedish,0.457,0.944,3,-4.197,1,0.0633,0.000189,0.945,0.261,0.299,145.009,289333,4
+Markoolio,Alla borde va´ som mig,4d4Ckbmz0y0CEFNkWbEqP8,17,2003,swedish,0.862,0.944,1,-2.066,0,0.079,0.0643,1.81e-06,0.162,0.671,105.045,198484,4
+The Ark,"Calleth You, Cometh I",2kvg4AwMIstkygdQhfFfSf,43,2002,swedish,0.399,0.866,7,-2.078,1,0.049,0.00399,0.000274,0.162,0.377,134.586,272360,4
+Biomekkanik,Leather and Steel,1ZmgpX6WN7RPyCTv0JJ48A,15,2014,swedish,0.595,0.645,1,-9.104,1,0.0277,0.00347,0.736,0.0813,0.381,135.005,233200,4
+Victor Leksell,Svag,4SS4YfDAEQG0fZAe1xfgn3,62,2020,swedish,0.595,0.528,5,-8.922,0,0.0621,0.748,0.0,0.112,0.419,153.74,191104,4
+JUNG,Heaven,02jqjdRmy0hsXkDsirfyEw,34,2022,swedish,0.616,0.598,6,-4.524,1,0.0293,0.179,2.07e-05,0.152,0.248,144.926,163303,4
+Club 8,Kinky Love,1LdcRCjhUFNotMTL33v0HX,18,2015,swedish,0.613,0.58,0,-7.726,0,0.034,0.0273,0.00609,0.114,0.26,103.966,175027,4
+Ken Ring,Min bästa vän,4sckWiqRLQzMR4Mf1q0pNp,11,2011,swedish,0.542,0.947,3,-3.627,0,0.466,0.483,0.0,0.78,0.687,82.32,207667,4
+Hallman,Fall Down,7Eq7fMrT27eh4vphrHxgtS,24,2019,swedish,0.625,0.926,9,-5.226,1,0.0337,0.0116,0.553,0.294,0.434,126.017,170952,4
+Caesars,It's Not the Fall That Hurts - US Mix,1TJ3xVuBkySHILj27xyQMy,4,2005,swedish,0.422,0.986,6,-3.532,0,0.14,0.00972,1.34e-05,0.179,0.552,146.164,169067,4
+Erika Jonsson,Sången om Värmland - akustisk version,03ETRZOcr91armxSchgzyt,13,2015,swedish,0.643,0.522,9,-5.575,1,0.0333,0.445,0.0,0.108,0.756,119.96,205638,4
+Gunnar Wiklund,Jag söker ord - 2000 Remaster,0MsoiUiCYF878JtoNjWDpA,8,2001,swedish,0.401,0.369,4,-12.683,0,0.0274,0.496,0.15,0.407,0.244,85.264,186813,4
+Samuel L Session,Smokestack - Samuel L Session Remix 2,3dQG0yDMYcdIvPIx4yJU9M,6,2007,swedish,0.808,0.812,7,-11.624,1,0.0572,9.82e-05,0.929,0.0969,0.581,128.017,303880,4
+Lars Demian,Häxan,1iu7teUoIcMNJRHX3IksFn,6,2003,swedish,0.435,0.546,2,-10.837,1,0.0505,0.309,0.0,0.354,0.312,119.725,353760,3
+Mangoo,SummerDays,6xXDKnPoVf8OzyvFVtMLds,13,2009,swedish,0.756,0.953,7,-4.092,1,0.0323,0.256,0.77,0.169,0.834,139.995,188578,4
+Henning Mankell,"Kapitel 45.2 - Der Mann, der lächelte",19SW2kBR6nnCjz9VZY78UP,7,2001,swedish,0.688,0.295,9,-22.501,1,0.959,0.272,0.0,0.583,0.294,134.149,186300,3
+Maia Hirasawa,Here in Your Arms,0Rjmom8o6D5yQtnUkRk8Fk,31,2023,swedish,0.508,0.6,9,-6.227,1,0.0395,0.128,0.0,0.11,0.225,119.944,217000,4
+Rantoboko,Kumba Kure (Home is Far Away),5ON1EYlNsIbfXiFaC905UW,13,2005,swedish,0.752,0.666,0,-6.232,1,0.224,0.232,0.0,0.158,0.572,98.016,189160,4
+Peter LeMarc,Älskad från första stund,3wn5hmYPe2Xxtd7xVFTnPH,9,2008,swedish,0.425,0.341,2,-13.484,1,0.0376,0.553,0.00672,0.978,0.225,74.179,523800,4
+Marcin Wasilewski Trio,"Variation 25 (From J.S. Bach: Goldberg Variations, BWV 988)",6FCsAVLJWMamkoglmADxS6,34,2021,swedish,0.275,0.0641,7,-25.776,0,0.0359,0.976,0.879,0.0564,0.0834,86.329,431428,4
+Myra Granberg,Psykopat,549YcFCZtSzi5JDzZszYzw,55,2023,swedish,0.648,0.689,0,-5.836,1,0.0654,0.00819,0.0,0.141,0.648,130.062,167141,4
+Magnus Uggla,Gör mig till din man,1Pv1y0A4QJYJwRwUVqbP4H,19,2011,swedish,0.583,0.805,2,-5.505,1,0.0292,0.00321,0.0,0.205,0.901,133.987,235587,4
+Ratata,Jackie,5MLKwQK4YMAoYqEDYNg2yl,13,2003,swedish,0.563,0.709,10,-4.747,1,0.0314,0.573,3.7e-06,0.347,0.942,137.466,201573,4
+Clara Mae,Overused (feat. gnash) - Stripped,4sHavOGo4xQPoZUVyViiFy,20,2020,swedish,0.525,0.357,0,-8.498,1,0.0656,0.932,0.0,0.12,0.715,115.39,161292,4
+Esbjörn Svensson Trio,Rhythm-A-Ning,6Vo22tElHgtJD3VTPoE1PH,13,2000,swedish,0.353,0.387,7,-18.991,1,0.0366,0.661,0.884,0.116,0.599,98.481,243800,4
+Lykke Li,YOU DON'T GO AWAY,43nbNCD4RUkIfxa64HTEw4,33,2022,swedish,0.372,0.411,7,-9.974,1,0.0387,0.887,0.049,0.396,0.139,117.249,193227,4
+Organism 12,Omaka par,61a9sGP7F4L82srqhhutB7,9,2001,swedish,0.713,0.623,1,-8.796,1,0.329,0.316,0.0,0.238,0.619,91.135,237933,4
+Patrik Isaksson,Älska mig som mest då,12jpVJqEaCXCQJ0LptuRWx,8,2006,swedish,0.654,0.383,9,-8.641,0,0.0287,0.724,8.61e-05,0.0984,0.375,110.913,225013,4
+Shout Out Louds,Impossible,58JpcfyiZD3dMlujchP8Zf,17,2007,swedish,0.635,0.74,7,-4.931,1,0.0315,0.12,0.00538,0.0865,0.252,123.08,408400,4
+Tomas Skyldeberg,One More Time,03HtiTEr01RiH2NmJ53bQ0,30,2022,swedish,0.718,0.875,7,-5.348,0,0.0721,0.0535,0.866,0.155,0.311,114.99,142565,4
+ABBA,The Name Of The Game,0WR3hPlHKucNrmJphcRQ8I,25,2012,swedish,0.62,0.509,9,-11.882,1,0.029,0.261,0.000101,0.0378,0.669,76.798,294733,4
+Seventh Wonder,Beyond Today (Farewell Pt. 3),19PVeCRrgjlZu9mONUNHeA,25,2018,swedish,0.205,0.41,11,-7.655,1,0.0298,0.346,0.0,0.374,0.306,82.852,306084,4
+Jay-Jay Johanson,Drowsy / Too Young to Say Good Night,3Fe0SY2RvnIkO4feKdiR9H,24,2015,swedish,0.274,0.709,2,-7.462,0,0.289,0.0408,0.000268,0.322,0.201,168.243,324335,4
+Tobias Lilja,Togetherness I,069BejjtDaQ78oSyBV4OcW,38,2021,swedish,0.223,0.12,9,-21.569,1,0.0328,0.905,0.788,0.352,0.0353,78.398,253093,4
+Sommarpojkarna,Lilla hjärtat - jag vill så gärna ha 6 med dig,2wN9gAS8AcCDur8LzXtNSy,9,2007,swedish,0.577,0.98,7,-4.86,1,0.135,0.0213,0.379,0.3,0.491,140.012,216000,4
+Lasse Stefanz,En ring på ditt finger (Wrapped Around),0yozY4gwqQg2m7zIARyBwN,9,2002,swedish,0.615,0.837,5,-7.517,1,0.0381,0.0042,1.03e-05,0.124,0.676,140.913,185093,4
+Phosphorescent,C'est La Vie No.2 - Recorded at Spotify Studios NYC,0XrjzAczxJw7MnEsJ0jIUI,19,2019,swedish,0.508,0.263,0,-15.441,1,0.0376,0.722,0.0139,0.2,0.319,108.121,214005,4
+Di Leva,Miraklet,5P18cVlpxfzNJuZUTLoQsR,8,2006,swedish,0.559,0.574,7,-8.996,1,0.0357,0.0527,0.0,0.365,0.281,111.883,272333,4
+Takida,How Far I'll Go,3SW1S7tsfcRPk8gq76eJUs,39,2019,swedish,0.536,0.706,3,-6.623,0,0.0346,0.0995,3.29e-06,0.0742,0.394,120.042,203000,4
+Stefan Andersson,Den sista vargen,1VQtNsJFFgpkKRjUHP6vIh,17,2018,swedish,0.408,0.241,6,-12.853,1,0.046,0.759,0.000192,0.085,0.131,109.023,338839,4
+Jacob Karlzon,"Nuclear (From ""Metal Gear Solid V: The Phantom Pain"")",1nt2JmFvXjwzzC4kJMX36g,0,2023,swedish,0.471,0.00686,5,-29.303,0,0.0557,0.991,0.932,0.0759,0.202,127.154,208907,3
+Eddie Meduza,Ge mig en pris snus,5NwA7tuXbLUZyY7lxnJyd1,6,2003,swedish,0.75,0.641,7,-4.503,1,0.0264,0.348,0.0,0.269,0.972,105.324,214387,3
+Eva Eastwood & The Major Keys,Johnny Min Vän,0lWaUt6rj0qqODgtnZbUUJ,9,2004,swedish,0.571,0.704,5,-4.167,1,0.0299,0.786,0.0,0.171,0.686,98.121,164800,4
+Dragonland,Calling My Name,1Ahz73gXmKhWhVJoW4Et3k,12,2004,swedish,0.431,0.93,8,-3.453,1,0.0549,0.000523,0.00361,0.0716,0.243,94.936,289613,4
+Andreas Gidlund,Västerbotten,6zM6wh0b8QjJHoXzUZbPe8,29,2021,swedish,0.488,0.138,4,-15.261,0,0.0381,0.988,0.815,0.102,0.174,89.197,205783,4
+Nomy,Life is a bitch,2ejiKzgju1a8o1tYjmTo7i,8,2011,swedish,0.536,0.915,9,-3.75,1,0.0758,0.0165,0.0,0.0955,0.317,133.473,209510,4
+Europe,Flames,2uHGOIAWL0Laq3WBXUftDc,8,2000,swedish,0.283,0.834,1,-5.806,0,0.0509,0.0517,0.00214,0.963,0.209,133.098,255048,4
+Omar Rudberg,Om om och om igen,1Lg5Qf47RERQQmfYbGZB43,41,2019,swedish,0.779,0.611,2,-6.41,1,0.0385,0.0721,0.0,0.0899,0.765,141.958,167347,4
+Off The Meds,Karlaplan Remix,39rhDYzJpyY8tCymSwNX0A,32,2020,swedish,0.805,0.661,11,-8.061,0,0.0571,0.0126,0.85,0.0827,0.723,129.998,357641,4
+Barbados,Allt som jag ser,2Eci0Rq6KCpKrbpCB5VGFd,10,2001,swedish,0.656,0.834,11,-3.887,1,0.0347,0.0455,0.0,0.0627,0.725,113.009,184627,4
+The Unkool Hillbillies,You´re The One,1ZovHs4REJGoCKKEiaezxm,31,2009,swedish,0.402,0.916,5,-2.87,1,0.0506,0.153,0.0,0.198,0.849,172.215,150720,4
+Claes Rosen,Strolling,2hjF653a3s9e3LREWMU9aW,16,2019,swedish,0.836,0.518,9,-6.485,1,0.0643,0.00695,0.0559,0.471,0.679,121.017,320250,4
+Sabaton,"Soldier of 3 Armies - Sabaton Cruise, 2014, 1st Set",2LNrzxdFx8YNPOHgWq7Rkn,9,2015,swedish,0.528,0.991,7,-3.773,0,0.113,0.000207,7.59e-06,0.979,0.147,101.988,226507,4
+Orup,Det känns som vi setts,0DgeXBsopWADe6Jru2YmGZ,6,2004,swedish,0.522,0.829,7,-5.59,1,0.0274,0.000829,2.7e-05,0.126,0.709,98.88,270467,4
+Sabaton,"Swedish Pagans - Sabaton Cruise, 2014, 2nd Set",4WRAszuSQXuegBoSwlAvIC,10,2015,swedish,0.247,0.993,0,-3.862,1,0.155,0.00187,6.92e-05,0.925,0.09,103.432,253880,1
+Jimmy Jansson,Flickan från det blå,2vvzrYmzitOju7kPHMCFkf,7,2004,swedish,0.506,0.54,2,-6.183,1,0.0246,0.146,0.0,0.138,0.193,180.169,241760,4
+Tommy Nilsson,Too Many Expectations,4G0fWLLZ8jQunoEsThydTs,5,2001,swedish,0.714,0.793,7,-5.944,1,0.0324,0.0581,0.0,0.162,0.962,123.951,267200,4

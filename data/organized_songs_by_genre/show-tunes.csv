@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Susan Egan,A Quiet Thing,4UXijUelhgQcgUglR5CDRp,0,2015,show-tunes,0.477,0.174,7,-14.124,1,0.041,0.945,0.000266,0.109,0.162,48.886,140720,4
+Jessica Keenan Wynn,Yo Girl,2zmuNa0k9apz1QQGk3ClQb,51,2014,show-tunes,0.692,0.426,1,-8.706,1,0.155,0.706,0.0,0.593,0.6,104.303,106373,3
+Brian Stokes Mitchell,Elk Tour Suite Pt. 6,6Q2zSPR8D5C46ZCbgJGZ6H,25,2021,show-tunes,0.49,0.392,7,-12.44,1,0.179,0.15,7.34e-06,0.0831,0.219,79.82,136400,3
+Linda Eder,We're All Alone,0okhCB11aw1Ite0Irn7piy,2,2002,show-tunes,0.499,0.31,10,-8.986,1,0.0296,0.703,1.08e-06,0.126,0.145,65.999,225467,4
+Andrew Lloyd Webber,Potiphar,2bdIT6bN8Ym6ITpQwyOi4D,12,2007,show-tunes,0.544,0.455,4,-11.163,1,0.182,0.578,4.27e-05,0.127,0.234,126.896,282840,4
+Serkan Kaya,Kara Gözlüm,66tn8uFk3eBMxzvkL2GzT5,40,2017,show-tunes,0.676,0.789,6,-4.053,1,0.0396,0.345,0.0,0.0902,0.618,132.805,207627,4
+Leslie Grace,Cómo Duele el Silencio (feat. Luis Coronel) - Banda Version,1qclsFzzplrtjZMXFrDaDM,23,2015,show-tunes,0.646,0.653,11,-3.44,1,0.0325,0.68,0.0,0.0988,0.93,129.933,185702,4
+Caroline O'Connor,Get Happy,796ovZUOrw9DUpbK281Thp,0,2009,show-tunes,0.373,0.00144,3,-5.737,0,0.056,0.761,0.0,0.112,0.972,170.774,310200,4
+Alan Menken,Uwolnienie dżina,0e4gzRyzbs8i3XTcVdP225,2,2019,show-tunes,0.0817,0.113,5,-17.016,1,0.0407,0.734,0.907,0.0706,0.0358,83.799,336830,3
+Andrew Lloyd Webber,Human Sacrifice,76OqPKtTwaQrEEOMvBfUq4,3,2013,show-tunes,0.454,0.323,11,-11.417,0,0.0461,0.668,6.9e-05,0.13,0.382,109.576,300853,4
+Linda Eder,Anthem,5C9FQchBWPRdHdMmczk9dI,8,2003,show-tunes,0.238,0.225,9,-9.558,1,0.0359,0.791,0.00566,0.0643,0.0875,123.216,193733,3
+Stephen Sondheim,"""If You Ask Me to Write a Love Song...""",6WAqBAvQai3gjxuFIObvGc,0,2010,show-tunes,0.677,0.335,9,-23.05,0,0.387,0.952,0.0,0.337,0.906,101.727,25573,3
+Alan Menken,Kryjówka Aladyna,3zUEnP0VnORQGuxZUMXbnA,6,2019,show-tunes,0.17,0.0722,0,-22.991,1,0.0416,0.905,0.705,0.104,0.0608,115.062,115136,5
+Krystina Alabado,The Story of The Phantom,4mOzutLEORL2uc3lXUigQz,46,2021,show-tunes,0.803,0.442,1,-8.825,0,0.179,0.281,0.0,0.0997,0.205,125.767,313360,4
+Caissie Levy,I Hate the Bus,0bohjGsI4TwAtWA5riZ8ob,13,2021,show-tunes,0.643,0.18,0,-9.987,1,0.0602,0.838,0.0,0.0856,0.331,33.493,115267,4
+Stephen Sondheim,Careful My Toe - Instrumental Version,40OCE1d6jZehqN8RwQI3ml,3,2015,show-tunes,0.559,0.0831,1,-21.124,0,0.103,0.921,0.911,0.115,0.397,114.293,71907,4
+Lea Salonga,"I Dreamed a Dream (From ""Les misérables"") [Live]",5ud1fd8CoBHEQjba3UfzCJ,30,2019,show-tunes,0.314,0.313,3,-9.988,1,0.0397,0.858,0.000641,0.154,0.0399,119.948,311823,4
+Original Cast of Amélie,World's Best Friend,1hEwuTau7eFnQRyohXCNBz,20,2017,show-tunes,0.434,0.274,11,-9.961,1,0.0588,0.936,2.12e-06,0.195,0.206,172.213,200120,3
+Cheyenne Jackson,1976: Opening Montage / Safe / The One I Love,2ZfRIFrGFpArWw9bdFJNTU,4,2018,show-tunes,0.43,0.571,8,-8.563,1,0.0461,0.58,0.000168,0.156,0.173,125.979,569000,4
+Alan Menken,Storm And The Aftermath,7MoKVrDFJl4KTdM8Y3OPRQ,6,2004,show-tunes,0.227,0.209,0,-17.91,1,0.0441,0.558,0.651,0.157,0.0529,103.014,186627,3
+Barlow & Bear,Worker Bee,1C0UimnSshlEMOMm8MBY4c,35,2021,show-tunes,0.69,0.27,0,-9.575,0,0.0399,0.745,0.0,0.0955,0.485,103.921,51061,4
+Maricel,Até Depois da Vida (Para Dias de Sol),7g72T0C7GFl7iRC71ZuuXV,0,2020,show-tunes,0.692,0.428,9,-12.573,0,0.0295,0.305,2.02e-06,0.0963,0.388,89.998,271668,4
+Drew Sarich,Donna,5brV3s4r4DLYTvVB3xRZ3V,0,2001,show-tunes,0.604,0.967,8,-3.922,1,0.0932,0.295,0.0,0.197,0.668,104.99,131533,4
+Adam Jacobs,A Whole New World,5SngLe0KKO7mDzt5XYWLvz,37,2014,show-tunes,0.385,0.229,1,-10.419,1,0.0364,0.844,2.41e-06,0.0819,0.222,127.365,247427,4
+Liza Minnelli,I'll Build A Stairway To Paradise - 2009 Digital Remaster,0Ji1zsl7GFUrBGRpRuMoGL,2,2009,show-tunes,0.449,0.452,1,-12.659,1,0.0484,0.558,0.0,0.246,0.69,110.68,127587,4
+Bebe Neuwirth,Mr. Bojangles (Live),23WWnehqJYOckvav5JL8NK,0,2013,show-tunes,0.506,0.398,0,-14.383,0,0.28,0.918,3.62e-05,0.779,0.487,139.318,292573,3
+Carin Filipcic,"Nein, nein, nein (Reprise)",7C4l7smGto7QEMGRKmcfhL,0,2011,show-tunes,0.599,0.0462,0,-25.745,0,0.0996,0.806,1.35e-05,0.0852,0.13,100.021,64520,3
+Andrew Lloyd Webber,"Angyali hang - Global Edition / 2003 Hungarian Cast Recording Of ""The Phantom Of The Opera""",4tSXMemdS1gZK5fga1gwk8,9,2022,show-tunes,0.367,0.0887,10,-13.427,1,0.0351,0.92,0.0,0.585,0.164,88.095,125000,3
+Lea Salonga,"A Whole New World - From ""Aladdin"" / Soundtrack Version",1J6NZTIrHhLpAcut7Q748J,3,2012,show-tunes,0.225,0.371,0,-8.422,1,0.0322,0.845,8.36e-06,0.0956,0.216,90.011,161520,1
+Susan Egan,"The Sound of Music (from ""The Sound of Music"")",3XXtl4RVaVWxuc58EINmFy,0,2002,show-tunes,0.332,0.0757,2,-17.25,1,0.0349,0.893,1.84e-05,0.0991,0.0832,112.167,193493,3
+Colm Wilkinson,We Are One,7vZzx9Tfh3md66UlcfrjiT,4,2002,show-tunes,0.662,0.213,0,-12.337,1,0.0376,0.927,0.000909,0.0954,0.305,137.189,226800,4
+Emma Thompson,The Hammer,6OtcjuJxpDEkNUhyrWGCzF,53,2022,show-tunes,0.493,0.415,11,-8.538,1,0.0884,0.845,0.0,0.112,0.506,77.155,203680,4
+Lea Salonga,Act One Finale: A Hundred Million Miracles,6o5tTAsrBlhHWD2lLrJdFu,2,2003,show-tunes,0.352,0.443,3,-6.756,1,0.0314,0.722,0.314,0.0983,0.19,106.317,101267,4
+Christy Altomare,Lightning Bug,4TIeIPsHBCJGbNFpdIg4mi,2,2021,show-tunes,0.776,0.0724,0,-13.484,1,0.0412,0.914,0.0,0.103,0.334,108.761,127013,4
+Lisa Antoni,Die Royal Doulton Music Hall,5g0rk3D6h3icrHv7dndRNb,9,2018,show-tunes,0.583,0.471,9,-12.389,1,0.274,0.634,0.0,0.318,0.602,105.414,181173,4
+Andreas Bieber,Moon River,5sDnAgoDOQQd5dkNbdU1ev,0,2007,show-tunes,0.441,0.301,0,-9.654,1,0.0275,0.705,1.28e-05,0.156,0.147,76.08,200880,3
+Andrew Lloyd Webber,Nothing Like You've Ever Known,4lVGN0A5TiGTa1R3aJrnSd,2,2003,show-tunes,0.321,0.045,8,-22.229,1,0.0458,0.959,1.05e-05,0.0794,0.235,167.267,226387,3
+Lea Salonga,Sitsiritsit Alibangbang,3rddIsrIbt0wdF8e3olv7B,7,2017,show-tunes,0.75,0.446,6,-4.967,1,0.0659,0.835,0.0,0.188,0.781,165.053,96893,4
+Kelli O'Hara,Something Wonderful,6xwP0aihbyY9TOTE43xd4n,8,2011,show-tunes,0.259,0.148,9,-12.566,1,0.0459,0.939,9.6e-06,0.0733,0.15,175.617,158800,4
+Stephen Sondheim,ACT ONE: Isn't It?,7nkHjeNO4YcR2nb6lAxI7x,4,2005,show-tunes,0.436,0.126,2,-16.643,1,0.0443,0.838,7.14e-05,0.0549,0.26,62.419,168133,4
+Jason Tam,Bring on the Girls,3bm9oCSa3Rfbd7TJAx7b8b,1,2013,show-tunes,0.467,0.126,9,-13.564,1,0.0461,0.914,0.0,0.145,0.312,88.236,102147,3
+Anja,` t Was Een Heerlijke Avond,6Wd26CW6ibs4WfELITViBn,0,2017,show-tunes,0.347,0.4,2,-7.78,1,0.0334,0.925,0.00036,0.626,0.717,119.141,177000,4
+Kevin Chamberlin,Alone in the Universe - Live,0MieKFggmv9bmQUBJl19Et,0,2014,show-tunes,0.432,0.393,11,-14.013,1,0.25,0.873,0.0,0.901,0.447,131.533,332813,4
+Alan Menken,En ven som mig (finale),6K6CFVTsqkr7L6khzYXH3E,0,2019,show-tunes,0.692,0.615,10,-7.435,0,0.0336,0.00208,0.829,0.11,0.412,98.072,91266,4
+Shoshana Bean,When You're Low,5d6l2NQOOGsRLduPAmWYdO,0,2010,show-tunes,0.597,0.363,10,-9.512,0,0.048,0.235,4.8e-06,0.0908,0.199,140.007,232213,4
+Ethan Freeman,Boomtime,5DLobMEobDedPvIFCq2J1v,0,2013,show-tunes,0.563,0.403,9,-9.438,1,0.222,0.903,0.000399,0.0646,0.446,142.966,281040,4
+Patti LuPone,The Ladies Who Lunch - Live,0LdZMENt0KbEdglUdoYkWA,9,2017,show-tunes,0.509,0.45,9,-10.613,1,0.173,0.919,3.61e-05,0.971,0.398,125.531,265200,1
+Mandy Patinkin,Not Going Anywhere,1Qt0Abas0qNT6rYXqFAuJG,0,2018,show-tunes,0.398,0.237,7,-11.752,0,0.0436,0.983,0.044,0.0876,0.148,74.75,179747,4
+Ben Fankhauser,Feel the Flow,1GxNpfZArUsX24GhBDMmU3,2,2022,show-tunes,0.612,0.386,10,-10.208,1,0.0537,0.735,0.0,0.401,0.46,119.794,157280,4
+Christopher Jackson,Etch,4t5XDrv7zGYtmN0yi4N2ri,2,2022,show-tunes,0.29,0.529,9,-14.255,0,0.09,0.668,0.915,0.111,0.319,79.589,150361,4
+Tourneecast 2011,Wenn ich tanzen will,43DnTchcmPreGsBrL1JhuR,23,2012,show-tunes,0.453,0.556,2,-6.322,1,0.0313,0.244,0.0,0.684,0.216,148.077,217933,4
+Andrew Lloyd Webber,"Other Pleasures (From ""Aspects of Love"")",6KByJSUxUmHZggpz2Zjjqn,0,2001,show-tunes,0.485,0.0393,4,-22.445,1,0.0449,0.948,2.24e-06,0.109,0.176,114.505,157667,3
+Alan Menken,La Palabra de Aladdin,6tbhMghH3xbxuKsZFh2IkF,5,2004,show-tunes,0.27,0.0521,5,-24.171,1,0.0355,0.964,0.235,0.121,0.295,89.176,111627,4
+Pia Douwes,Erinnerung (Live),5bs3WWIGh6IZJ4z7ry5bhY,5,2017,show-tunes,0.192,0.465,10,-11.008,1,0.069,0.749,0.0,0.959,0.109,79.967,302264,3
+Kerry Butler,Whatcha Wanna Do?,1XmGBbpTsXLrSk06zivBw6,13,2001,show-tunes,0.719,0.676,4,-5.51,0,0.46,0.506,0.0,0.139,0.749,102.821,132493,4
+Lea Salonga,Something More,5NT6EUnkamvSoA3L52dSFq,17,2001,show-tunes,0.144,0.232,9,-12.133,1,0.037,0.949,0.0108,0.0859,0.119,63.225,272787,4
+Spotlight Musicals,Weltvernichtung,27VMoVBWO6sBQkyF1JXSp8,3,2012,show-tunes,0.45,0.731,9,-6.099,1,0.213,0.27,0.0,0.352,0.577,97.084,187873,4
+Anna Maria Kaufmann,Smells Like Teen Spirit,5f2Ccg4pnTyT31D9zvHmaa,0,2019,show-tunes,0.597,0.925,2,-6.01,1,0.0379,0.00301,0.00219,0.326,0.554,117.041,300373,4
+Barbara Obermeier,Natürlich blond,5QwxRvVE6yProDDf9VBZwJ,13,2013,show-tunes,0.456,0.28,0,-13.669,1,0.172,0.775,0.0,0.715,0.281,139.589,266703,4
+Liza Minnelli,"Baubles, Bangles And Beads - Live",2GkfTNRx56rePEgplIaSEQ,1,2000,show-tunes,0.202,0.295,3,-17.512,0,0.0682,0.812,0.0,0.914,0.118,78.241,236933,3
+Kristin Chenoweth,Babette,2r9Vw1FiBvPQjLPidXsdfP,5,2015,show-tunes,0.539,0.362,2,-10.847,1,0.0881,0.852,0.0,0.183,0.434,117.411,370400,4
+Betsy Wolfe,Still Hurting,2RenEZCEoGncxt5xf17fNd,17,2013,show-tunes,0.428,0.269,0,-7.3,1,0.04,0.881,1.06e-05,0.461,0.135,124.493,305813,4
+Adam Jacobs,Never Never Land,4hGT0mdvltN21bycNURr7S,7,2020,show-tunes,0.4,0.242,6,-11.805,1,0.0431,0.845,7.39e-05,0.107,0.111,118.009,168207,3
+Hugh Jackman,The Sadder But Wiser Girl for Me,5IEvxsFqpr6dUSHL7iM8uw,23,2022,show-tunes,0.405,0.588,4,-10.56,0,0.2,0.742,0.0,0.173,0.501,205.647,184200,4
+Tom Pierson,Ballade,0vxsmQSi0BSgrYRmTbXFKL,0,2013,show-tunes,0.338,0.107,4,-12.637,1,0.0348,0.886,0.7,0.107,0.0687,107.432,368083,1
+Frank Nimsgern,Ocean Of Love - Radio Edit,4bxYsqBcGrWdH4apEriT9M,0,2009,show-tunes,0.477,0.22,0,-10.826,1,0.0266,0.777,0.0,0.141,0.282,87.006,212115,3
+Andrew Lloyd Webber,Red Shoes Blues,2q4c435BsWOrH4HtxAD35j,15,2011,show-tunes,0.459,0.397,6,-10.424,1,0.154,0.722,0.0,0.655,0.535,172.754,131080,3
+Idina Menzel,Have Yourself a Merry Little Christmas,0sK0y24gYQBbusvcG8nGKi,15,2014,show-tunes,0.201,0.281,7,-8.537,1,0.0313,0.757,7.63e-05,0.0896,0.0975,79.968,343093,3
+Kate Baldwin,Timeline,71eZpMv37Y7pr677pZwmKt,3,2015,show-tunes,0.45,0.445,5,-7.547,1,0.132,0.824,0.0,0.164,0.388,81.278,358413,4
+Rebecca Luker,I Got Love,1Fzh7qlvi9mMwWb5tcM6E3,0,2013,show-tunes,0.622,0.352,2,-5.92,1,0.0405,0.747,0.0,0.0739,0.566,138.825,176093,4
+Alan Menken,Marketplace (Alternate) - Remastered 2022,2rVGFGBoQsPPiM4OA5kbQW,10,2022,show-tunes,0.374,0.0708,0,-19.161,1,0.0388,0.798,0.144,0.399,0.157,143.455,149560,4
+SMASH Cast,Crazy Dreams (SMASH Cast Version) (feat. Megan Hilty),14aylLCwgRzaVPXkutHeYW,17,2012,show-tunes,0.573,0.286,4,-11.257,1,0.036,0.884,1.91e-06,0.11,0.223,85.038,190360,4
+Kate Baldwin,"""My Favorite Sheldon Harnick Show..."" (Live)",29OY8aLK1GyMa8BwbZzbJu,0,2011,show-tunes,0.709,0.195,9,-19.298,1,0.937,0.788,0.0,0.557,0.865,60.223,34267,3
+Original Cast Wien,Klara und Sesemann (Live),3OPZrE0ehoEKXe4fYjGMZF,0,2019,show-tunes,0.629,0.255,5,-16.567,1,0.818,0.436,0.0,0.604,0.0695,123.573,529267,3
+Patti LuPone,Come To Me,3cjvqLc4yRWL2ZHK3uCCNA,3,2009,show-tunes,0.293,0.169,5,-16.299,1,0.0397,0.966,0.000262,0.118,0.117,114.929,224987,1
+Kristin Chenoweth,The Christmas Waltz,50VwQgp58mm2mbFX1NqxWd,8,2008,show-tunes,0.286,0.259,4,-10.955,1,0.0333,0.923,0.0,0.0745,0.0891,115.277,178707,3
+Billy Porter,I’ve Gotta Be Me,65N0rMxfSDibEQK5b6pos4,7,2014,show-tunes,0.746,0.531,5,-9.197,0,0.0426,0.123,0.0,0.223,0.752,126.092,303307,4
+Lea Michele,Cannonball,0PkxXCMpK6IGEhDqPss6zm,29,2013,show-tunes,0.564,0.816,4,-3.134,1,0.0466,0.0236,2.33e-05,0.194,0.567,91.985,215427,4
+Jenn Colella,I Slept with Someone (Who Handled Kurt Cobain's Intervention),2NEcr0JrrM3CJjcKLdjuxq,4,2007,show-tunes,0.461,0.157,9,-12.116,1,0.0463,0.923,0.0,0.0418,0.321,84.15,145480,4
+Jeremy Jordan,Nothing Left to Lose,48WJUYrl91l90PZ86pkqqV,47,2020,show-tunes,0.364,0.62,2,-5.967,1,0.0328,0.219,0.0,0.139,0.136,139.499,210733,4
+Michael Cerveris,"Jolene, F**k You (Live)",61xbKH5dnyyq3R1Ri2ytcs,0,2013,show-tunes,0.484,0.77,11,-5.271,0,0.0569,0.656,1.66e-06,0.602,0.597,104.175,276293,4
+Michaela Schober,"Niemals allein (From the Musical "" Der Graf von Monte Christo "" )",5cS4unIQOReZyAO9o2Zoy8,8,2013,show-tunes,0.361,0.355,5,-7.884,0,0.0319,0.718,0.0,0.1,0.131,134.428,296733,4
+Jubiläumscast Wien 2012,Uns´re Kaiserin soll sich wiegen,3H0cQMzMfoBxF5bgfMF8do,22,2012,show-tunes,0.579,0.514,0,-10.644,0,0.281,0.454,0.0,0.673,0.711,158.302,99600,4
+Felix Martin,Anthem (from CHESS),1HczK6T3QRG5Ki7sp8qI8e,0,2004,show-tunes,0.254,0.272,2,-8.272,1,0.0304,0.891,0.077,0.138,0.0808,81.008,188550,4
+Liz Callaway,"You There in the Back Row (From ""13 Days to Broadway"")",7mCFXKDoO4V41kdYKdJwdE,4,2015,show-tunes,0.332,0.458,8,-11.327,1,0.0459,0.54,4.74e-06,0.0664,0.331,120.07,191080,4
+Alan Menken,"Go the Distance Medley (From ""Hercules"")",6siwhXQlmiy7EZpbU92bBa,0,2008,show-tunes,0.349,0.306,8,-10.358,1,0.033,0.793,0.0,0.116,0.189,101.658,275507,4
+Andrew Lloyd Webber,Variations (Complete),0Tm1ATGqtuMerl0q14R8u4,0,2014,show-tunes,0.151,0.151,4,-16.183,0,0.0346,0.816,0.772,0.108,0.0397,136.692,2272000,4
+Kelsey Grammer,Cocktail Counterpoint,556a4eJs1fzfPhEGIrdn1Q,12,2010,show-tunes,0.661,0.471,8,-8.906,1,0.528,0.773,0.0,0.0502,0.865,128.495,150093,4
+Laura Osnes,"""He Was Tall""",5ezuHIXXlsPQY4rbsSKT1W,26,2013,show-tunes,0.334,0.255,2,-12.12,1,0.0531,0.895,0.0,0.125,0.123,78.2,90707,4
+Andrew Lloyd Webber,Are You Sure You Want To Be Famous?,548sKOJ1DFtzzyJ4nrXPZF,8,2002,show-tunes,0.747,0.428,4,-13.229,1,0.0384,0.441,2.08e-06,0.0677,0.409,136.06,229253,1
+Alan Menken,Bedtime,3kE7t1IYWJCJeqZGRzarYI,15,2014,show-tunes,0.189,0.185,7,-14.775,1,0.0374,0.954,0.0259,0.55,0.149,81.026,80827,3
+Claude-Michel Schönberg,La Primavera Regresò - Demo Version,3jR5AkyqaYePe4LMSYXt2d,1,2017,show-tunes,0.477,0.525,2,-4.31,0,0.0311,0.879,0.00223,0.25,0.249,88.891,125899,4
+Tourneecast 2011,Alle Fragen sind gestellt (Reprise),2j22xyCpfymAVU3frGH0me,7,2012,show-tunes,0.404,0.716,11,-7.43,0,0.175,0.14,0.0,0.388,0.497,102.647,148187,4
+Linda Eder,Some People (From Gypsy) - 2007 Remaster,01L8vqiL6CWZCn3kIWVSyP,4,2007,show-tunes,0.518,0.346,0,-9.64,1,0.0854,0.557,0.0,0.129,0.521,138.705,179907,4
+Company,Vai Sobrar Amor,3aUp5DFRk6sg1neRok4khC,0,2019,show-tunes,0.55,0.302,7,-7.983,1,0.0527,0.898,0.0,0.137,0.284,125.312,172617,4
+Alex Brightman,The Darkening Blue,0NzQntfNpf1aYbkTlMK4jZ,3,2014,show-tunes,0.276,0.267,1,-12.656,1,0.0343,0.912,0.000105,0.426,0.285,171.472,252413,3
+Andrew Lloyd Webber,"As If We Never Said Goodbye - From ""Sunset Boulevard""",2Hu17lKDU0dhmvUhJWVygq,19,2018,show-tunes,0.241,0.223,3,-11.34,1,0.0316,0.865,1.39e-05,0.168,0.172,93.343,277093,3
+Andrew Lloyd Webber,"Don't Cry for Me Argentina (from ""Evita"")",3hv6K5phnRMJZr3HHmTNj0,0,2013,show-tunes,0.229,0.0759,1,-16.896,1,0.0389,0.909,3.14e-06,0.076,0.0783,171.862,336360,4
+Charlotte Heinke,Ich will - Ich kann,0UIBI2cbxjTJiySmg0mCyt,0,2022,show-tunes,0.425,0.378,0,-9.536,1,0.0393,0.441,0.0,0.0519,0.338,145.601,212573,4
+Bring It On: The Musical - Original Broadway Cast,Cross The Line,1frT0VkClOmVZSWCxBgMKx,37,2012,show-tunes,0.613,0.899,7,-4.404,1,0.174,0.267,0.0,0.113,0.425,131.852,226040,4
+Aaron Tveit,Elephant Love Medley,5JRgVMONxTRjC1g1d0XsvX,50,2019,show-tunes,0.397,0.62,3,-4.904,1,0.0726,0.349,0.0,0.108,0.378,143.53,325293,4
+Alan Menken,Magic Lab - Score,5Z4OKfoncoswBb3jsZrzck,0,2006,show-tunes,0.357,0.0713,2,-23.079,0,0.0369,0.905,0.802,0.0921,0.0647,119.523,137027,4
+Janet Dacal,Through the Looking Glass,7acDTXHXAjtqCKbh4pqsc2,24,2011,show-tunes,0.371,0.651,8,-9.744,1,0.0481,0.257,0.0,0.169,0.528,100.45,162960,4
+Lisa Antoni,Ich fühle keine Liebe,1j9U40qXmV7n3YEAwA0CAh,17,2018,show-tunes,0.48,0.394,8,-8.436,1,0.0348,0.619,0.0,0.1,0.253,82.469,156920,4
+Sabrina Weckerlin,In the End,0NGLJ9JLSUXUIlIQIp4zXR,3,2019,show-tunes,0.495,0.514,7,-4.958,1,0.0301,0.491,0.0,0.151,0.0961,134.153,247453,4
+Samantha Barks,Let Me Be Your Star,4PpF8zlBV7pmYu0rjxPiCX,13,2021,show-tunes,0.346,0.527,1,-7.235,1,0.0353,0.72,0.0,0.115,0.201,74.644,206120,4
+Raimund Theater Ensemble,Wir sind aus Fleisch und Blut,3cDjA4cbJdOzePlxcMUqEw,14,2005,show-tunes,0.799,0.7,11,-7.481,1,0.0754,0.543,0.0,0.0531,0.737,117.989,214733,4
+Alan Menken,Opening,3zQk15tUZyS4ynfr7EyKTe,9,2012,show-tunes,0.169,0.329,7,-13.572,1,0.0324,0.733,0.94,0.0984,0.0952,130.251,222693,4
+Kate Baldwin,"""What a Daredevil..."" (Live)",1TzxmEpkZIJYvJyuvrnVzH,0,2011,show-tunes,0.0,0.259,9,-20.4,1,0.0,0.847,0.0,0.534,0.0,0.0,32187,0
+Andrew Garfield,Therapy,1iFgG6BeEPTbXsAok6zYxR,58,2021,show-tunes,0.554,0.593,0,-5.492,1,0.215,0.207,0.0,0.0529,0.618,147.743,164164,3
+Jonathan Groff,Mushnik & Son,7blcvza0oy5dJLWx3dxx4T,28,2019,show-tunes,0.633,0.624,5,-9.833,0,0.166,0.0817,0.0,0.123,0.759,153.83,201501,4
+Kelli O'Hara,Best for You,34Td6NxHdUMP91X0vhZa7i,0,2006,show-tunes,0.373,0.161,0,-14.411,0,0.0373,0.956,0.00247,0.109,0.0622,77.986,280960,3
+Paul Kribbe,"Die Schatten werden länger (From the Musical "" Elisabeth "" )",0elDpdvPnddMIwCHLDex6E,0,2004,show-tunes,0.686,0.489,5,-8.761,0,0.0299,0.196,0.0,0.113,0.125,110.06,256027,4
+Alan Menken,Uma Simples Lâmpada a Óleo,3gnnDoi8oeRzHBAFzp7TD6,1,2019,show-tunes,0.132,0.199,3,-18.49,1,0.0354,0.647,0.925,0.117,0.0464,143.843,51966,3
+Lea Salonga,The Story of My Life,6shbqCjUgVfEkwLXbjZ1ha,4,2017,show-tunes,0.42,0.307,5,-9.154,1,0.0369,0.912,8.97e-06,0.723,0.231,111.419,262480,4
+Olivia Foa'i,City Got Your Name on It,6VqWSQF3IyJgjO1edeSClB,7,2018,show-tunes,0.513,0.503,10,-8.11,0,0.0842,0.595,6.5e-06,0.0568,0.577,139.964,209118,4
+Chess In Concert,Anthem - Reprise,2fcyxrWcZNhbGvMSh83XBK,17,2009,show-tunes,0.259,0.479,8,-8.232,1,0.0775,0.783,1.2e-05,0.786,0.62,97.476,102520,4
+Caissie Levy,I Don't Want My Child to Hear That,7outV6HBpQ7qJQIe2sNstl,2,2021,show-tunes,0.619,0.372,3,-7.749,0,0.38,0.826,0.0,0.139,0.646,134.218,68520,4
+Lea Michele,Who Are You Now? - Reprise,7G6fp18CaId06qwgG4eys4,30,2022,show-tunes,0.231,0.148,1,-13.053,1,0.0357,0.951,1.17e-05,0.123,0.121,104.239,257413,1
+Sophia Anne Caruso,Jump in the Line / Dead Mom - Reprise,37tuc3TemjNvmVWObkSKNJ,46,2019,show-tunes,0.568,0.777,0,-6.156,1,0.0541,0.22,0.0,0.0821,0.483,112.385,125742,4
+Raimund Theater Ensemble,Liebesglück,0EPVjEn8c2sPuOzPmPvvcg,12,2005,show-tunes,0.399,0.447,2,-8.429,1,0.0291,0.328,6.52e-06,0.0942,0.102,87.004,213720,4
+Maya Hakvoort,"Kirchenmedley (Bordersong, Morning Has broken,You and I)",4hlD2a3W0sxbhSOVY00Xby,0,2010,show-tunes,0.502,0.328,10,-9.903,1,0.0775,0.946,2.92e-06,0.511,0.43,138.564,446280,4
+Mandy Patinkin,How Could You Believe Me?,3ZfG1lJDTvK56woHnXQGui,1,2001,show-tunes,0.578,0.722,10,-7.415,1,0.323,0.673,1.24e-06,0.394,0.889,80.175,127400,4
+Alan Menken,The Big Ship,1y23Brum5gago2JELsY9M0,38,2019,show-tunes,0.418,0.202,0,-15.725,1,0.0336,0.494,0.531,0.486,0.238,127.872,77108,4
+Anthony Ramos,Either Way,13t6YtFrjvs8VWUvB78tbp,27,2019,show-tunes,0.755,0.567,8,-6.582,0,0.43,0.162,0.0,0.205,0.786,110.062,193880,4
+Andrew Lloyd Webber,The Trial,3kx0KZFIERC6cJNRIIWVOW,0,2013,show-tunes,0.414,0.226,0,-14.213,1,0.0704,0.826,0.0,0.18,0.305,100.527,308347,4
+Paul Kribbe,Die Schatten werden länger - Playback Version,1gIi83kmPdTqLUypgtp0Gr,0,2004,show-tunes,0.669,0.516,5,-8.969,0,0.0301,0.0102,0.312,0.126,0.103,110.022,259040,4
+Felix Martin,Bridge over Troubled Water,2xVxRuZPRhveqrJBzTQOok,0,2022,show-tunes,0.278,0.209,0,-13.497,1,0.0316,0.726,2.71e-06,0.362,0.22,92.144,251080,4
+Andrew Lloyd Webber,"Nothing Like You've Ever Known - From ""Tell Me On A Sunday""",1rmk6i8a6YLsZ2kkDmCcMZ,5,2002,show-tunes,0.323,0.119,9,-15.08,0,0.0433,0.986,0.0404,0.156,0.207,121.217,189400,3
+Andrew Lloyd Webber,Prima Donna - From 'The Phantom Of The Opera' Motion Picture,5KES6ut3LAZxmgSOX0ijex,46,2004,show-tunes,0.267,0.268,5,-17.37,1,0.0431,0.914,0.0,0.163,0.405,103.296,209733,4
+Claude-Michel Schönberg,The Dinner Party,3NRZY7EmSVwMVhzFVMdI0n,0,2003,show-tunes,0.285,0.183,9,-15.798,1,0.0418,0.781,0.694,0.121,0.066,91.45,494707,4
+Stephen Sondheim,Barcelona,3IsGSzdTtX4KXloFymbzuS,22,2007,show-tunes,0.325,0.0565,0,-17.313,0,0.041,0.959,0.0,0.149,0.165,166.085,208333,3
+Rachel Bay Jones,Down in Yon Forest,5yEeKHM75wvS3ewWU5pcbp,4,2017,show-tunes,0.319,0.472,0,-5.978,1,0.0321,0.615,0.0,0.0988,0.213,135.381,220880,4
+Liz Callaway,Blowin' in the Wind,13Ew33LY3dwxCMCy29v9X9,0,2011,show-tunes,0.367,0.438,8,-10.469,1,0.0937,0.84,0.0,0.69,0.377,92.698,276907,4
+Frank Nimsgern,Wohin Der Weg Mich Führt,00efLQvpvkMrDnMbBWFuCa,0,2007,show-tunes,0.659,0.709,1,-8.227,0,0.0378,0.551,0.0,0.109,0.494,109.954,205093,4
+Gavin Creel,Agony,1YAQhZFvl6agDLB707xpgt,41,2022,show-tunes,0.414,0.308,4,-10.901,1,0.0587,0.835,0.0,0.0985,0.34,139.438,146223,4
+Stephen Sondheim,Our Time / Everybody Says Don't,6b9MzZqCbeAkPuQIYIfJGJ,0,2010,show-tunes,0.383,0.674,11,-7.019,1,0.107,0.768,0.0,0.237,0.45,142.287,156333,4
+Len Cariou,To Life,4li16FScJT2GjJI7t3oeet,0,2018,show-tunes,0.471,0.663,7,-11.073,1,0.211,0.745,0.000107,0.109,0.691,146.312,224920,4
+Chess In Concert,Chess Game #1,4J8kWGImxQ9VZU5yqZKyEv,17,2009,show-tunes,0.296,0.0719,7,-16.307,0,0.036,0.86,0.886,0.329,0.0757,104.186,192280,4
+Joel Hatch,Movin' Up/In Numbers,3dIGdQClHOS36bHvnONocY,1,2008,show-tunes,0.6,0.494,4,-10.596,1,0.478,0.736,0.0,0.121,0.235,86.065,149387,3
+Liz Callaway,"Joey, Joey, Joey (From ""The Most Happy Fella"")",2Q3VZuc3CKxClucErF3FGO,0,2013,show-tunes,0.482,0.572,10,-10.937,1,0.0401,0.313,3.73e-06,0.0618,0.244,113.619,291867,4
+Alice Ripley,Bubble Boy,5peEDSEqQbbYsQacoWwTk2,9,2017,show-tunes,0.524,0.34,5,-8.215,1,0.0407,0.682,0.0,0.0951,0.61,133.835,338640,4
+Kristin Chenoweth,On A Turquoise Cloud - Vocal,05FGQgNLCqDTRHo4ZMT8zv,2,2001,show-tunes,0.269,0.224,1,-12.979,1,0.0348,0.966,0.955,0.107,0.0792,81.655,184707,4
+Andrew Lloyd Webber,Don't Cry For Me Argentina,3aUnxEdBZZk13ljJnCmbgY,0,2014,show-tunes,0.425,0.0745,11,-15.252,1,0.0364,0.929,0.818,0.107,0.0718,80.025,336300,4
+Patti Murin,"Colder by the Minute - From ""Frozen: The Broadway Musical""",0nTApgZlgDcAE2kXpCnOZJ,35,2018,show-tunes,0.29,0.446,8,-7.869,1,0.0529,0.251,0.0,0.356,0.213,76.133,241320,4
+Patti LuPone,Night Life - Live,3JyCT40aw5pAs4aFm4IcYc,2,2013,show-tunes,0.384,0.663,11,-9.21,1,0.662,0.555,0.0,0.969,0.773,90.778,180307,4
+Hadestown Original Broadway Company,Way Down Hadestown,5fnl0Tyeh4r5gPANdaVu61,50,2019,show-tunes,0.655,0.622,10,-5.413,0,0.187,0.657,1.86e-05,0.0637,0.547,93.088,300246,4
+Frances Ruffelle,Slap That Bass,2lfMNSNmnplHBwnZ32v0cp,0,2012,show-tunes,0.616,0.189,8,-12.747,1,0.07,0.623,0.0,0.118,0.36,103.212,214800,4
+Lea Salonga,Boy Band Medley (Live),0mgD1AKcM4gutX6m6i8twg,15,2020,show-tunes,0.355,0.76,2,-5.483,1,0.0522,0.349,0.0,0.808,0.391,108.185,434587,4
+Santino Fontana,New York Day,3XZqm4JcErKU6ECo5ceSin,0,2020,show-tunes,0.334,0.2,0,-11.479,1,0.0307,0.847,3.83e-05,0.144,0.186,137.233,146787,3
+Stephen Sondheim,Follies: Broadway Baby,0adxTmyyhzksTf4Q8i57X1,0,2015,show-tunes,0.618,0.184,7,-20.498,0,0.49,0.821,6.78e-05,0.695,0.424,112.415,156587,4
+Andreas Bieber,Mit 66 Jahren,7yOBlf2Si476XJhmfNgmkk,0,2017,show-tunes,0.69,0.785,2,-6.463,1,0.0508,0.169,0.0,0.343,0.627,123.972,233920,4
+Michael Cerveris,Wouldn't You Like to Be on Broadway?,73D2UIrlYStq36mjqWJnZR,0,2007,show-tunes,0.658,0.202,7,-12.828,1,0.0944,0.894,0.0,0.216,0.487,115.053,82387,4
+Original Hamburg Cast,Heute ist dieser Tag (Reprise),1vHZVK3HX6gbmZ4jaaqHQC,0,2020,show-tunes,0.739,0.575,0,-8.968,1,0.0406,0.365,3.12e-05,0.087,0.901,99.937,54800,4
+Alan Menken,"Fireworks - From ""The Little Mermaid""/Score",62gcnlMg9KuTMqtf2AtULb,11,2002,show-tunes,0.306,0.125,7,-17.326,1,0.046,0.571,0.306,0.196,0.0985,117.684,37840,5
+Liz Callaway,Never Really Knew the Guy - Live,5sTKL8g3IP8Ani5Sk2QYFT,0,2014,show-tunes,0.541,0.5,10,-13.321,1,0.853,0.785,1.18e-06,0.759,0.903,149.662,248093,4
+Linda Eder,Christmas Stays the Same,78puuHVOeL8tXc3LgGfwCp,0,2021,show-tunes,0.304,0.316,0,-9.026,1,0.0302,0.876,1.15e-06,0.126,0.145,107.997,179533,4
+Eddie Redmayne,ABC Café / Red & Black,5WTm2HOC7Sbhl2wFsD1uJx,24,2012,show-tunes,0.477,0.205,11,-13.404,1,0.0599,0.903,0.0,0.162,0.325,58.998,261800,4
+Nathan Lane,Timeless To Me,7zpjTXALwPBDqr8b1r9wqW,21,2007,show-tunes,0.606,0.392,2,-8.393,1,0.196,0.738,0.0,0.121,0.517,120.75,245347,4
+Kelli O'Hara,Only Pretend (Reprise) / Tender Shepherd (Reprise),5gcYrAE8zwUHIdGAkCln2h,4,2014,show-tunes,0.252,0.209,8,-12.127,1,0.039,0.842,7.45e-06,0.287,0.299,80.316,169613,4
+Gwen Verdon,Who's Got the Pain?,4e5hUhgoQ7m66BkVBmhQAf,1,2014,show-tunes,0.674,0.422,2,-12.341,1,0.157,0.733,0.0008,0.167,0.948,114.233,175920,4
+Andrew Lloyd Webber,We Have All Been Blind,7INfvdwN774P6hKTIt7ogZ,26,2004,show-tunes,0.357,0.0366,7,-24.022,0,0.0765,0.79,0.0,0.479,0.1,139.666,235533,3
+Susan Egan,I Won't Say (I'm in Love) [From ''Disney's Hercules''],3MVSwlkvc2POFzquZ2Tc30,26,2011,show-tunes,0.677,0.56,0,-6.207,1,0.0448,0.255,0.0,0.136,0.417,121.164,142000,4
+Andrew Lloyd Webber,"Overture - From The Motion Picture Soundtrack ""Cats""",2Sf3GbW7OekrWOssszwxqd,24,2019,show-tunes,0.197,0.574,5,-8.134,0,0.0412,0.435,0.927,0.273,0.32,185.459,98933,3
+Kerry Butler,When You Wish Upon a Star,7xWqYzmEnUyow2oZWWMMmo,2,2008,show-tunes,0.622,0.217,0,-9.94,1,0.0346,0.912,0.0,0.0944,0.465,121.767,136653,4
+Liza Minnelli,Cabaret,4zpF3ZUBoVFbg7dBf5rQg8,20,2021,show-tunes,0.583,0.232,5,-13.734,1,0.0825,0.916,0.0,0.424,0.638,108.725,211200,4
+Kristin Chenoweth,Born On Christmas Day,7yn05rkc1P8IjFZfxpdPjx,4,2008,show-tunes,0.351,0.304,3,-10.039,1,0.0311,0.567,1.06e-05,0.0885,0.203,137.935,252827,4
+Andrew Lloyd Webber,Nur Ein Blick (Sunset Boulevard),06Nv7KvVi1RpHLVkCtGxix,0,2005,show-tunes,0.252,0.384,8,-7.757,1,0.0334,0.844,0.0,0.118,0.255,107.038,199627,1
+Alan Menken,Jasmine Runs Away,64AC0QnDQMSKezzB59Oo7Z,17,2004,show-tunes,0.183,0.0321,5,-31.452,0,0.0477,0.984,0.631,0.114,0.0796,73.716,46867,3
+Walter Lochmann,Kiss of the Spiderwoman,1pz10CVU0zSee1rQgSkNT3,0,2010,show-tunes,0.551,0.272,4,-9.951,0,0.044,0.921,0.0,0.129,0.509,104.681,144987,3
+Alan Menken,Downtown Majestic,6N1ZJo8iX5TXlymQDwaOtP,0,2014,show-tunes,0.429,0.268,7,-9.859,1,0.0408,0.445,0.0208,0.127,0.25,105.118,154600,4
+Rory O'Malley,Bikini Beauty,2EaNSGWPCyPDcYZWKDVIDT,2,2008,show-tunes,0.575,0.602,2,-6.009,1,0.151,0.889,0.0,0.0765,0.912,116.251,54573,4
+Nathan Lane,Betrayed,1WOFcduRJxsAfLjSXjm48G,24,2001,show-tunes,0.574,0.503,8,-11.099,1,0.803,0.866,0.0,0.125,0.586,149.114,292373,4
+Alexander Klaws,Wie vom Traum verführt / Schliesst jede Tür (Live),2U4XT1aYmldi3bDNujXN9T,7,2017,show-tunes,0.373,0.346,7,-13.01,1,0.0547,0.229,0.0,0.991,0.276,127.548,422544,4
+Anna Maria Kaufmann,Huron Carol,0E2NN780kU8milS326x8YH,1,2015,show-tunes,0.185,0.3,9,-11.904,0,0.0429,0.879,0.00054,0.396,0.195,69.648,284720,4
+Idina Menzel,We Need A Little Christmas,3jRyOnlDmpOdMJ5RQ1t0fH,16,2019,show-tunes,0.482,0.598,0,-7.35,0,0.0819,0.566,0.0,0.304,0.519,132.313,196227,4
+Stephen Sondheim,Somewhere,4hS2TtQzSm4ZefqNDaqcdG,5,2022,show-tunes,0.355,0.18,4,-10.531,1,0.0317,0.895,6.61e-06,0.0992,0.0772,97.014,231533,4
+Orchester der Vereinigten Bühnen Wien,Kings Of The World,1KtUEQctw6yxbyccBPMmw6,7,2005,show-tunes,0.614,0.874,1,-5.227,1,0.0628,0.0484,0.0,0.118,0.418,126.02,179573,4
+Bernadette Peters,Trust Your Heart,5LDFcrsGNoCiqDW0NBI79E,0,2008,show-tunes,0.35,0.215,0,-11.646,1,0.0355,0.979,6.22e-06,0.0969,0.269,109.767,192333,1
+Walter Lochmann,Someone Else's Story/Where I Want to Be,7GUb9puM07LzZSFMuOdqwy,0,2010,show-tunes,0.492,0.148,6,-11.697,1,0.0596,0.944,0.0,0.0935,0.318,87.886,297987,3
+Alan Menken,Oddanie bransolety,38ug3nn2FtfE2mgghEACxg,5,2019,show-tunes,0.105,0.101,0,-20.854,0,0.0404,0.762,0.888,0.111,0.0385,87.408,58615,4
+Judy Kuhn,To a Child,3POTfkFRbjBPoXPgkozWJs,1,2007,show-tunes,0.574,0.141,10,-14.297,1,0.0331,0.857,0.0,0.15,0.263,135.841,206653,4
+Alan Menken,Marketplace - Remastered 2022,5LqeZLogyFkIehgSAZsmTY,20,2022,show-tunes,0.404,0.0395,0,-25.0,1,0.034,0.814,0.0103,0.175,0.122,142.767,157667,4
+Andreas Lichtenberger,"Regen, Regen, Regen",2QzdXuYHYJcbDq4bXiotf5,1,2017,show-tunes,0.566,0.579,2,-9.617,0,0.351,0.275,0.0,0.639,0.344,144.746,320640,4
+Andreas Bieber,Funhouse,7mYo45hpTInYM8ZfxijyVq,6,2018,show-tunes,0.498,0.89,10,-8.247,0,0.0988,0.0341,0.0202,0.0663,0.575,110.212,371480,4
+Andrew Lloyd Webber,The Phantom of the Opera - Arr. For Trombone & Organ,1zUrVIkh8bE16HzKy45Wqt,3,2021,show-tunes,0.0685,0.126,2,-15.907,1,0.04,0.832,0.301,0.0793,0.0504,70.923,602613,3
+Andreas Lichtenberger,"Genug, genug",32uj3nNmRBbbwzj2aH9YsI,1,2017,show-tunes,0.616,0.763,0,-8.033,0,0.395,0.461,0.0,0.708,0.665,111.76,189762,4
+Joel Hatch,"Harmony, Not Discord",4VklMzgYCBWUm3GdWllUaS,2,2008,show-tunes,0.631,0.243,2,-19.026,1,0.272,0.212,0.0,0.239,0.584,141.683,170933,3
+Stephen Sondheim,You Could Drive a Person Crazy,1o3pm8un0Ylzf0ZjcMSwWn,29,2007,show-tunes,0.604,0.297,7,-9.417,1,0.52,0.794,0.0,0.103,0.608,197.722,196373,4
+Stephen Sondheim,Losing my mind,3BpX8eM93tpaTeXutZRW71,2,2006,show-tunes,0.277,0.0107,3,-28.202,1,0.0492,0.985,9.03e-06,0.139,0.0605,76.864,243187,4
+Jeremy Jordan,The Schmuel Song,6jXT02NbBVcc6arVDvzQw8,33,2015,show-tunes,0.456,0.398,6,-8.596,0,0.0719,0.727,0.0,0.131,0.387,81.74,462160,4
+Lin-Manuel Miranda,Meet Me Inside,6p7jXaTJdpzGWnOJoK2jYr,60,2015,show-tunes,0.732,0.643,10,-8.318,0,0.474,0.378,0.0,0.363,0.644,88.543,83632,4
+Original Cast of Amélie,A Better Haircut,7IzEoGHwj4a3h78Yl5r4xq,20,2017,show-tunes,0.491,0.288,2,-7.512,1,0.0434,0.816,0.0,0.209,0.371,76.413,275413,3
+Aaron Tveit,Finale (Come What May),15WMlUoRLfIs4hSoDiDI9M,42,2019,show-tunes,0.335,0.243,9,-9.347,1,0.0369,0.801,8.73e-05,0.0883,0.145,133.037,163373,4
+Brian D'Arcy James,Joy to the World,7wzme5mZKYGU1TozeKk5QY,0,2004,show-tunes,0.508,0.75,4,-6.941,0,0.0826,0.00709,3.18e-05,0.0834,0.818,183.94,222360,4
+Anthony Rapp,“The perfect setting for her memorial…”,7pSEYRFuNKWiYTmmI5hP7R,3,2012,show-tunes,0.465,0.126,11,-23.295,1,0.0413,0.875,0.00109,0.106,0.635,122.342,36000,4
+Rachel Bay Jones,In the Bedroom Down the Hall - Demo,0Xxp5uwvCpdTQmzqzN4V17,35,2017,show-tunes,0.353,0.298,10,-9.323,1,0.0357,0.719,2.12e-05,0.1,0.247,168.146,319719,4
+Andrew Lloyd Webber,All I Ask of You,09ipoT6mDoY8MbKrEKAgsv,4,2012,show-tunes,0.26,0.237,1,-12.762,1,0.0344,0.875,0.0,0.103,0.237,104.806,216840,3
+Claude-Michel Schönberg,"Do You Hear the People Sing (From ""Les Miserables"")",61zpghiEM7e87w2IjY4sZo,3,2003,show-tunes,0.292,0.244,7,-12.565,1,0.0341,0.898,0.0,0.087,0.216,81.904,123267,4
+Andrew Lloyd Webber,Jacob In Egypt,4jZ7KNFgSxbTEdxibfR4c8,9,2007,show-tunes,0.338,0.828,0,-7.5,1,0.142,0.135,6.98e-05,0.596,0.663,97.678,64933,4
+Derek Klena,A Thousand Things That Were You,68CgWwq3kOGFu06c0nqq6Z,14,2021,show-tunes,0.389,0.141,7,-12.934,0,0.0354,0.853,0.0,0.29,0.347,131.096,156600,4
+Liz Callaway,Half as Big as Life,4TCwm3oy4zIMFtBZguvF7J,1,2001,show-tunes,0.373,0.591,0,-4.962,1,0.0925,0.653,2.85e-05,0.227,0.713,174.899,138841,4
+Frank Wildhorn,Erinnerungen an einen Wiener Sommer,1u2IfwtcqNUk9f5HQBLocs,0,2021,show-tunes,0.229,0.16,2,-18.113,0,0.0364,0.92,0.891,0.136,0.0817,105.868,492169,3
+Janet Marie Chvatal,Moon River,14wfjHqSenQMDiR2Dgc2BE,0,2009,show-tunes,0.241,0.351,9,-10.566,1,0.0343,0.98,0.0576,0.0883,0.134,79.822,198307,3
+Beth Leavel,It's Not About Me,4w7U8qa9E0bRJmtyHKnVcR,31,2018,show-tunes,0.516,0.608,9,-5.63,0,0.0634,0.527,0.0,0.194,0.638,157.971,232787,3
+Michael Cerveris,I Don't Love You,4CANXp58jhVb2faO3Y46rZ,0,2007,show-tunes,0.416,0.141,11,-15.999,0,0.0651,0.916,7.81e-06,0.345,0.326,84.215,202907,3
+Stephen Sondheim,The Demon Barber - Arranged By Kenji Bunch,0B4XuU8Pb6MoeUI8xQBwyA,2,2015,show-tunes,0.262,0.111,2,-21.037,1,0.0361,0.983,0.878,0.0971,0.06,64.043,307067,4
+Julie Andrews,O Little Town Of Bethlehem,7tWPUadZOPDzsRhbYYAuum,6,2000,show-tunes,0.331,0.125,7,-18.912,1,0.0345,0.769,0.337,0.21,0.31,115.268,165267,4
+Stephanie J. Block,The Human Heart (feat. Stephen Flaherty),5FUTsvvPNXbKe117ye32NP,4,2009,show-tunes,0.37,0.328,9,-8.648,1,0.0339,0.86,0.000155,0.0864,0.196,151.838,222160,4
+Sutton Foster,"""I Tried to Tell You...""",2WD43W9WYjiYl27eOn1lxk,5,2014,show-tunes,0.729,0.233,8,-16.769,1,0.955,0.52,0.0,0.203,0.391,72.445,90453,1
+Drew Sarich,Northern Blossom,2SaVA9RuyFqkPn27OWkfsh,0,2005,show-tunes,0.758,0.165,7,-15.129,0,0.034,0.858,0.151,0.118,0.238,115.033,255760,4
+Michael Ball,The Winner Takes It All,3YIGIQNbaJl8EV8Ox9qPes,0,2014,show-tunes,0.312,0.239,8,-14.463,1,0.0413,0.776,4.94e-05,0.124,0.113,125.52,298093,4
+Carrie Hope Fletcher,I Won't Say (I'm in Love),5DkVKfwglZe6BIGC3U77Fh,43,2018,show-tunes,0.624,0.596,0,-7.061,1,0.0438,0.213,2.43e-05,0.295,0.618,121.632,146707,4
+Tom Wopat,The Last Night of the Year,1x1gjiGNK2viWGAI7MiYFV,0,2013,show-tunes,0.578,0.134,1,-10.188,1,0.0507,0.937,0.0,0.139,0.335,127.157,227493,4
+John Cullum,Mr. Cladwell,2jguMcLIOf5QbTAtpTCdAr,29,2001,show-tunes,0.582,0.327,1,-10.666,1,0.19,0.861,0.0,0.293,0.638,119.499,163667,4
+Frank Wildhorn,Prolog,50vLNLBz8duu2hIFFuKSYh,10,2009,show-tunes,0.231,0.419,8,-10.966,1,0.0329,0.585,0.118,0.137,0.109,54.441,163533,4
+Linda Eder,If I Should Lose My Way,44SCKzDTy91iqyJ6bCMRYB,4,2002,show-tunes,0.351,0.0789,10,-16.314,1,0.0372,0.932,0.0,0.102,0.316,120.384,217667,4
+Frank Wildhorn,Storybook - 2003 Digital Remaster,5a7sbr09UsLHcvtWNYENRK,4,2003,show-tunes,0.302,0.487,8,-7.082,1,0.0308,0.565,0.0,0.112,0.32,186.393,280307,3
+Andrew Lloyd Webber,"Don't Cry For Me, Argentina",3N2mN6NlZuoMRAHio6GwsC,0,2008,show-tunes,0.248,0.349,1,-7.903,1,0.0286,0.891,0.00021,0.128,0.193,81.387,317707,4
+Stephen Sondheim,Stay With Me - Instrumental Version,3D2Dj5V3Y3KQor0Wi22VeO,5,2015,show-tunes,0.123,0.0467,3,-17.551,1,0.0375,0.957,0.945,0.27,0.141,72.397,194453,4
+Alice Ripley,Beautiful Eyes,6lYxIHDgjO89oYhXXAsWWN,0,2012,show-tunes,0.655,0.441,7,-7.068,0,0.067,0.132,0.0,0.204,0.491,112.229,276080,4
+Patti LuPone,Sweet Dreams (Close Your Eyes),5BWAJausxEImlpu9OuVdaO,1,2018,show-tunes,0.51,0.197,4,-17.098,0,0.029,0.917,0.0471,0.0583,0.103,104.958,183493,3
+Cheyenne Jackson,Bean,1Ec4tJskxdNS4QOI0qnvgp,2,2019,show-tunes,0.528,0.454,8,-6.845,0,0.0312,0.346,0.0,0.201,0.232,139.974,240429,4
+Rob Rokicki,Pick a Side - Bonus Track,5qKmpxvgudYVIyt3V2I0YO,36,2019,show-tunes,0.585,0.843,5,-4.115,0,0.288,0.379,0.0,0.0678,0.641,152.785,153360,4
+Original Cast of Amélie,Halfway,5m0E1jUOPKOdGtWhY0pOnO,21,2017,show-tunes,0.466,0.154,0,-10.7,1,0.0355,0.95,0.00111,0.119,0.183,126.995,181520,4
+Janet Marie Chvatal,Lo How A Rose E're Blooming - Feat. Bruno Grassini,3djVw9NweOrFLNwFeeMit1,0,2009,show-tunes,0.352,0.269,5,-12.738,1,0.0407,0.957,0.0,0.0673,0.423,79.49,119960,1
+Sutton Foster,"The Late, Late Show",06op0PjaSE46nefxWsQa4R,3,2009,show-tunes,0.719,0.263,1,-10.543,1,0.0419,0.837,0.0,0.0977,0.495,63.121,132573,5
+Santino Fontana,I Won't Let You Down,4zuTDnCEL6xupDUj4N5bqn,17,2019,show-tunes,0.414,0.287,4,-10.868,1,0.0337,0.529,0.0,0.138,0.226,112.027,182987,4
+Marika Lichter,Wenn Du gehst,5ZsCmdT5UiOorOBMpBYVzg,0,2009,show-tunes,0.647,0.693,9,-4.071,1,0.0258,0.679,0.0,0.127,0.637,121.964,161316,4
+Alan Menken,Street Urchins - Remastered 2022,06fjrysb2vx3q9VkAj37QB,31,2022,show-tunes,0.291,0.0327,11,-22.681,1,0.0423,0.946,0.536,0.25,0.045,75.905,112547,3
+Stephen Sondheim,Not While I’m Around,7IlihakFGebvOY3wg86K8t,0,2009,show-tunes,0.409,0.11,4,-21.838,1,0.0455,0.993,0.695,0.0681,0.268,116.958,168307,4
+Julie Andrews,Poor Butterfly,4pwtxMzBvtkztBBFPLJveu,6,2009,show-tunes,0.364,0.207,6,-19.531,1,0.115,0.952,3.99e-06,0.376,0.386,82.477,211507,5
+Anthony Ramos,Lose My Mind,48umo4ObD6mUEbQNDyHUr3,30,2021,show-tunes,0.645,0.776,9,-4.56,0,0.0545,0.00173,0.0,0.0939,0.481,112.036,198251,4
+Idina Menzel,Embraceable You - Live from Soundstage,0aoS8UHHcqTlSCHGdxYbeE,8,2007,show-tunes,0.382,0.264,3,-7.695,1,0.0388,0.953,0.0,0.71,0.266,112.455,118507,3
+Tom Wopat,50 Checks,6R5Ou10sWcSRKaMDxGHkUB,0,2011,show-tunes,0.614,0.324,5,-8.32,1,0.0374,0.336,0.0,0.119,0.323,119.1,203173,4
+Thomas Borchert,Careless Dreams,4yU8prO32FW1Z2EOOgDHOJ,0,2008,show-tunes,0.579,0.24,10,-7.552,1,0.0643,0.78,1.11e-06,0.219,0.238,116.798,225493,3
+Ryan McCartan,Everything,344zHw3gazOjTziJRA6O9G,4,2017,show-tunes,0.284,0.204,8,-11.143,1,0.0375,0.887,4.99e-05,0.0982,0.138,80.098,212000,5
+Aaron Tveit,Intro: Not Your Average Lullaby - Live,6ES8GtChzOmwkGy8ivPNzS,12,2013,show-tunes,0.697,0.315,8,-18.238,1,0.937,0.585,0.0,0.309,0.791,58.812,80253,4
+Alan Menken,Jafar and Iago Scheme - Remastered 2022,6F0rDfOYJQvTuM3QgpYNZQ,14,2022,show-tunes,0.259,0.0354,2,-22.474,0,0.0387,0.895,0.269,0.0973,0.14,86.19,128920,4
+Frank Wildhorn,The Man i used to be (from The Count Of Monte Cristo),3SvcDfZZyHQGSbvdVUkJZS,3,2011,show-tunes,0.336,0.363,7,-11.525,1,0.217,0.436,0.0,0.71,0.0728,85.7,346453,3
+Andrew Lloyd Webber,The Phantom Of The Opera: Music Of The Night,1daCuQClOC4nfHsYbVphrH,9,2001,show-tunes,0.098,0.125,8,-18.522,1,0.042,0.984,0.917,0.0883,0.0577,170.567,253133,3
+Serkan Kaya,Hatıran Yeter,1YJG8yfhjurW98HUatYoOg,34,2021,show-tunes,0.508,0.683,0,-5.524,0,0.0743,0.56,0.00123,0.264,0.471,82.954,333652,4
+Andrew Lloyd Webber,All I Ask Of You - From 'The Phantom Of The Opera' Motion Picture,5klrh466oGToybceGHPGAX,54,2004,show-tunes,0.194,0.119,1,-20.926,1,0.0398,0.854,0.000737,0.109,0.14,85.698,294160,3
+Derek Klena,Everything to Win,3ND1Fohc2kkhgu4gSQ2DbA,38,2017,show-tunes,0.334,0.207,5,-12.369,1,0.0356,0.864,7.89e-05,0.111,0.176,79.884,167160,4
+Sutton Foster,My Heart Was Set on You - Live,6CK6BAAKYNubaghCyPJiUu,8,2011,show-tunes,0.55,0.484,4,-12.03,1,0.378,0.935,2.49e-05,0.95,0.398,103.335,268307,4
+Caroline O'Connor,Hymne a L’amour ( Studio Version ),4tu0emtL7GQSsn0VIuww1D,0,2009,show-tunes,0.269,0.0835,3,-16.241,1,0.0409,0.961,6.37e-06,0.19,0.191,80.336,156467,5
+Alan Menken,Friend Like Me - Instrumental,7lMumvsTDyhgbYgVsu0IrU,24,2019,show-tunes,0.713,0.546,1,-10.729,1,0.0323,0.00202,0.857,0.0701,0.53,97.504,154107,4
+Alan Menken,Long Ago - Japanese Version,6C9YNFEQCBi5OtURucQ2q7,4,2000,show-tunes,0.513,0.256,8,-18.997,1,0.316,0.778,0.0,0.532,0.584,107.55,30760,4
+Kelsey Grammer,Look over There,1hDYF3oJj49GtlE4J5Uq8u,13,2010,show-tunes,0.456,0.123,5,-14.898,0,0.0503,0.855,0.00106,0.106,0.453,70.079,174627,4
+Jonathan Groff,Reindeer(s) Are Better Than People (Cont.),1AHAYbZklQkUj7wgxhQPIo,17,2019,show-tunes,0.543,0.0885,3,-21.804,1,0.441,0.855,0.0,0.166,0.311,118.489,26371,4
+Spotlight Musicals,Jahrmarkt in Saint Denis,3HMIIfEIRGnxHYyLLwT1ku,12,2012,show-tunes,0.337,0.535,9,-10.169,1,0.0681,0.309,0.0,0.873,0.256,169.882,336039,3
+Liz Callaway,The Morning After,5q9oiCciLztpirL9eRMSez,0,2020,show-tunes,0.353,0.396,1,-9.198,1,0.0388,0.206,2.62e-06,0.221,0.254,82.098,170106,4
+Claude-Michel Schönberg,The Return,7w2BUptjDxaksCQ1yfgrgJ,0,2003,show-tunes,0.296,0.16,0,-16.628,1,0.0446,0.92,0.908,0.0762,0.0393,119.095,496120,4
+Michael Cerveris,Wagon Wheel (Live),1LyU48GCWwNl0B6wmztHaz,0,2013,show-tunes,0.457,0.754,7,-4.641,1,0.0321,0.29,0.0,0.667,0.649,137.126,385147,4
+Sierra Boggess as Ariel,Part of Your World,1iVkEiZS6ijZ76KeMsrXG6,45,2008,show-tunes,0.415,0.0791,7,-20.023,1,0.0488,0.887,0.0,0.0573,0.312,137.314,204573,1
+Alice Ripley,Windflowers,64OF8nhtfafRVb2M7G8AQj,0,2001,show-tunes,0.313,0.153,7,-15.197,1,0.0374,0.988,0.000149,0.0635,0.156,107.506,200267,4
+Caissie Levy,Out of the Blue,1sstOhg8ZyQxJnnJDzewvm,2,2013,show-tunes,0.582,0.28,6,-7.508,1,0.0301,0.562,0.0,0.11,0.249,128.066,215493,4
+Judy Kuhn,California Shoeshine Boys,4fstwDKKtN8IQIr0PeDI3Q,1,2007,show-tunes,0.705,0.618,9,-7.253,1,0.0626,0.608,0.0,0.208,0.885,102.807,140173,4
+Idina Menzel,We Wish You The Merriest,7bAKFfjbniaMKGuvKPp7XP,17,2019,show-tunes,0.372,0.572,0,-7.683,1,0.0837,0.67,0.0,0.144,0.704,173.225,146387,4
+Die Nacht der Musicals,I´m Not That Girl,2KVKuMYAf8gggjDrrotrI5,0,2017,show-tunes,0.264,0.339,0,-6.268,1,0.0288,0.923,3.35e-06,0.0986,0.168,179.005,182973,4
+Andrew Lloyd Webber,Joseph and the Amazing Technicolor Dreamcoat (Arr. by Erik Rozendom),5Y13L5GaIGEvqU7gf2CYRB,0,2008,show-tunes,0.344,0.179,3,-14.044,1,0.0384,0.943,0.706,0.105,0.121,114.199,958013,4
+Jan Ammann,Once Upon Another Time - Live,2xt67Dg1M8klQkn8EOfo7p,0,2013,show-tunes,0.298,0.392,4,-11.945,1,0.0747,0.891,0.0,0.936,0.221,96.581,242280,4
+Kelli O'Hara,Finishing the Hat,0DLcol3UUsLW53CfeT6KEo,5,2011,show-tunes,0.392,0.275,2,-12.261,1,0.0367,0.591,7.75e-05,0.0601,0.302,137.652,190560,4
+Linda Eder,Havana (From Havana) - 2007 Remaster,540addkRH8xOVZdjiLjjJh,4,2007,show-tunes,0.504,0.542,9,-6.816,0,0.0626,0.491,0.0,0.187,0.541,122.698,239613,4
+Victoria Clark,Right as the Rain,58RopmTZvVavf8JyU8uB3P,0,2007,show-tunes,0.238,0.134,9,-12.522,1,0.0348,0.85,0.0,0.106,0.104,78.673,284200,4
+Andrew Lloyd Webber,"Wishing You Were Somehow Here Again - from ""Phantom of the Opera""",6avBHrEUFmmELtadRj3a3g,1,2011,show-tunes,0.184,0.225,10,-8.856,1,0.0388,0.904,0.000118,0.139,0.058,85.276,228200,3
+Männerchor,Dreh Dich Nochmal Um,4UMHOtJzapw78swvZiTWYr,13,2017,show-tunes,0.425,0.266,5,-13.867,1,0.0275,0.904,8.09e-06,0.112,0.39,89.966,202401,4
+John Bolton,Straight White Man,2GKzyw0LG9blhdvl4RseM4,0,2013,show-tunes,0.548,0.774,1,-5.497,1,0.105,0.00886,0.0,0.255,0.614,128.532,130187,4
+Susan Egan,"Much More (from ""The Fantasticks"")",5rhWuV6QNs8gcCedS3iMlE,0,2002,show-tunes,0.487,0.164,4,-14.275,0,0.0664,0.886,0.0,0.161,0.311,124.734,127280,4
+Caroline O'Connor,Milord ( Live Version ),4XW0Ix4VqwmIEiJo6gpP9s,0,2009,show-tunes,0.532,0.22,0,-15.797,1,0.0714,0.787,0.0,0.14,0.415,121.98,129160,4
+Alice Ripley,It's Gonna Be Good,1HEIpxQ62idX0qd5O6fbsy,30,2009,show-tunes,0.707,0.54,1,-8.533,0,0.109,0.509,0.0,0.286,0.961,157.405,85853,4
+Linda Eder,O Holy Night,3fmCcJ7YYCRsxJtlY11vGh,5,2000,show-tunes,0.142,0.533,7,-8.798,1,0.0386,0.636,0.000155,0.125,0.0862,185.805,239707,3
+Valerie Link,Jenseits der Nacht,3cC08ydKSjhViMyb5KeawY,18,2012,show-tunes,0.315,0.599,9,-7.82,1,0.0774,0.484,0.000604,0.129,0.282,103.093,145293,4
+Liz Callaway,"Since You Stayed Here (From ""Brownstone"")",5SO1GvIQpC3N1a5IF99PvJ,11,2015,show-tunes,0.265,0.177,6,-14.792,1,0.0337,0.861,0.0021,0.0912,0.154,91.933,199933,5
+Alan Menken,Destruction Of The Agora,3mONg0jXlYiLPfz48hRHKg,1,2000,show-tunes,0.237,0.142,9,-24.543,1,0.0443,0.876,0.461,0.115,0.0774,141.929,126800,4
+Liza Minnelli,Return to Oz March,0OVa7j84BybJEE3tfTOzgP,0,2012,show-tunes,0.47,0.502,8,-7.404,1,0.171,0.798,0.0,0.0658,0.656,109.106,56107,4
+Alan Menken,Happy End In Agrabah - Remastered 2022,2DjfKDEwfDfdHQLqUSpXny,13,2022,show-tunes,0.21,0.118,5,-16.95,1,0.0382,0.897,0.478,0.116,0.101,107.485,257213,3
+Reeve Carney,Rise Above 1,46uhQJt7GSn14w1b46rIvn,20,2011,show-tunes,0.471,0.733,10,-5.754,1,0.0535,0.00972,1.61e-05,0.0942,0.362,83.973,232320,4
+Andreas Bieber,So kann das Leben sein,1pmhhKUFXJ2ztRQ4pC8S09,1,2017,show-tunes,0.394,0.552,5,-7.943,1,0.037,0.0923,0.0,0.111,0.269,142.875,233987,4
+Liz Callaway,The Miller's Son - Live,001zuaZaKOIGaTwX7BPKlW,2,2022,show-tunes,0.504,0.302,9,-13.343,1,0.124,0.825,0.0,0.677,0.26,138.003,287947,4
+Julie Andrews,Smarty,5ubjRkklbTP0xINRZ9SEp5,2,2015,show-tunes,0.596,0.38,10,-10.878,1,0.121,0.876,0.0,0.322,0.728,101.035,163587,1
+Linda Eder,Unusual Way,0q0rEEMHRrAyIw2yo8Blxf,4,2003,show-tunes,0.473,0.361,10,-11.632,0,0.0327,0.358,9.9e-05,0.157,0.0919,118.936,268160,4
+Company,Old Crow's Complaint,19PfcH3CdsBm2btKTzIZAN,0,2008,show-tunes,0.524,0.846,7,-5.316,1,0.0307,0.361,0.0363,0.12,0.808,128.37,248667,4
+Andrew Lloyd Webber,"King Herod's Song - From ""Jesus Christ Superstar""",7B1adJAgZHjHwfZzmUXv7a,8,2018,show-tunes,0.712,0.786,9,-8.627,1,0.0842,0.777,0.0,0.192,0.666,105.046,180947,4
+Amber Gray,Our Lady of the Underground,1OQ6Jk2d4bv622LStoYapx,45,2019,show-tunes,0.532,0.582,11,-6.738,0,0.153,0.392,0.000164,0.0831,0.402,131.021,324031,4
+Stephen Sondheim,Evening Primrose: I Remember (Arr. for Piano),4p5tZ6OOYuidU3ZU0ixBoh,0,2018,show-tunes,0.437,0.0263,0,-29.876,0,0.0365,0.995,0.889,0.246,0.113,65.278,128400,3
+Maya Hakvoort,Ich Bin Die Frau,24AMOuKSYpPz1vTx0G9N45,0,2010,show-tunes,0.465,0.284,8,-12.555,1,0.0608,0.972,1.37e-06,0.709,0.344,102.939,230253,3
+Andrew Lloyd Webber,Finale,6IhaJt0agCxBYJLCusLycp,20,2021,show-tunes,0.458,0.0593,3,-20.549,1,0.0485,0.828,5.47e-05,0.171,0.153,101.764,263627,3
+Nathan Lane,"Hakuna Matata - From ""The Lion King""",710tM2ACx4jS5cNFt6mm1V,7,2018,show-tunes,0.504,0.536,0,-10.137,1,0.101,0.576,5e-06,0.104,0.708,83.589,212333,4
+Frank Nimsgern,Nichts mehr wie es war!,4Bfpl4PlE7sRggljd2kFPv,1,2022,show-tunes,0.401,0.262,0,-18.304,1,0.197,0.886,4.67e-05,0.257,0.075,84.532,46653,5
+Idina Menzel,Let It Go - English Version,78EQZFdiuoAfYddqBVQt74,39,2014,show-tunes,0.546,0.485,8,-6.876,1,0.0306,0.58,0.0,0.124,0.351,136.912,224027,4
+Cheyenne Jackson,C'mon Everybody,4AdMauEVccLI15uAOdtCiy,29,2005,show-tunes,0.5,0.679,8,-7.483,1,0.241,0.191,0.0,0.206,0.782,184.809,195427,4
+Andreas Bieber,Ich Wär so Gern Ein Producer,4J2FVvvOJI8hy9EMW0ew9J,2,2008,show-tunes,0.434,0.526,10,-9.745,1,0.144,0.539,0.0,0.687,0.388,135.759,385893,4
+Bruno Grassini,EIN LEBEN LANG BIS MORGEN,3WRyWrAuIsE1BXZ0S5FGhk,0,2022,show-tunes,0.271,0.253,5,-12.257,1,0.0335,0.882,5.09e-05,0.0617,0.127,71.016,286746,4
+Renée Elise Goldsberry,All About You,19uAPamlHMiGTENeJMb4Kp,10,2002,show-tunes,0.374,0.289,2,-13.996,1,0.102,0.566,0.0,0.101,0.225,81.727,182827,4
+Andrew Lloyd Webber,Wishing You Were Somehow Here Again - Phantom Of The Opera,0l5X6mu7thl3c4qPtXQuma,2,2008,show-tunes,0.205,0.184,7,-15.29,1,0.0397,0.958,4.84e-05,0.118,0.0866,86.506,210027,4
+Chris McCarrell,The Last Day of Summer,2psVFCWNGRqNY3Xs0y0ngI,43,2017,show-tunes,0.498,0.38,11,-9.072,1,0.135,0.605,0.0,0.503,0.384,104.049,215987,3
+Alan Menken,Under the Sea,37KbjOaqznH66QaSl7pgRg,24,2023,show-tunes,0.658,0.734,5,-8.957,1,0.0381,0.799,0.0,0.117,0.835,100.047,124280,4
+Norbert Leo Butz,Not Even the King - Live,1ghXqDi6K8zqpbQi8mIIad,0,2014,show-tunes,0.473,0.226,7,-16.701,1,0.078,0.827,0.0,0.982,0.338,124.751,209720,4
+Catherine Zeta-Jones,You Must Meet My Wife (Act One),0WldkXRqEch1KD3YHAANHz,10,2010,show-tunes,0.433,0.313,7,-10.411,1,0.144,0.8,0.0,0.263,0.328,167.384,234773,3
+Rebecca Luker,I Have Loved Hours at Sea,5h1RiEeg3VHMoDK7Z4ICLD,0,2020,show-tunes,0.333,0.115,2,-15.569,1,0.0427,0.926,0.0,0.168,0.153,169.47,113966,3
+Laura Benanti,Leading Man (from Joe),5ngKC4d3njzzltXgnOrb12,0,2005,show-tunes,0.441,0.381,2,-14.697,1,0.218,0.941,1.62e-05,0.682,0.419,101.05,154026,4
+Alan Menken,Aladdin and Jasmine Confront Jafar - Remastered 2022,6KiCzXeMkTKL7L8wqiIQf6,15,2022,show-tunes,0.116,0.0278,1,-22.596,1,0.039,0.926,0.462,0.119,0.0772,76.326,160467,3
+Kristin Chenoweth,Beautiful Dreamer,2feam8gBwkrO2MACYspHYs,10,2018,show-tunes,0.399,0.0873,7,-14.852,1,0.0421,0.978,1.31e-05,0.125,0.218,105.212,170645,1
+Reeve Carney,New For You,4r8slqwskSBYn72lZ127nD,36,2012,show-tunes,0.364,0.396,10,-11.758,0,0.0293,0.822,0.0292,0.125,0.267,159.905,188720,4
+Jan Ammann,"Wunder gescheh'n (From the Musical "" Das Wunder von Bern "" )",0HIlLrQJlXElmlDWTD7BIf,2,2017,show-tunes,0.504,0.316,2,-10.706,1,0.0305,0.338,0.0,0.109,0.203,144.689,210893,3
+Derek Klena,Dreamer in Disguise,2LADlcbtJMesFBrbW72Q1w,31,2012,show-tunes,0.478,0.105,8,-17.962,1,0.0519,0.903,0.0,0.121,0.426,107.812,99867,4
+Linda Eder,Accidentally In Love,74B5hxSidbOzwncHId4QMp,25,2009,show-tunes,0.666,0.306,0,-13.116,0,0.0399,0.73,0.000137,0.105,0.502,124.041,177800,4
+Andrew Lloyd Webber,High Flying Adored (Evita),1T15sK9bcIfowkjY0ZoONP,7,2012,show-tunes,0.685,0.259,5,-12.772,1,0.0325,0.665,1.99e-05,0.107,0.338,125.979,208587,4
+Jan Ammann,So sehr fehlt mir dein Gesang (Live),5H8gctplKyOnLejZUDic5h,7,2017,show-tunes,0.284,0.3,3,-13.3,1,0.0488,0.447,0.00189,0.749,0.0793,133.452,205720,4
+Kristin Chenoweth,Desperado,5woeOtGVa2yxSUCAexTOHY,12,2019,show-tunes,0.356,0.179,8,-8.981,1,0.0334,0.957,3.72e-05,0.122,0.19,118.843,223453,3
+Laura Osnes,How 'Bout a Dance (Reprise),3bnQ3O9aphcCIvtFGMKLmW,26,2012,show-tunes,0.18,0.168,7,-16.388,1,0.0325,0.777,0.483,0.119,0.0811,145.911,99667,3
+Raimund Theater Ensemble,Die Verzweiflung,0NUPYWlFNyNj8mJimc19jJ,9,2005,show-tunes,0.571,0.351,6,-8.12,1,0.0316,0.746,4.85e-06,0.111,0.147,127.838,252253,4
+Patrick Stanke,Hold the Line - Live,4uO0dWnAmCh7dNXBVrv2ai,0,2017,show-tunes,0.545,0.938,6,-2.184,0,0.115,0.0468,0.00167,0.976,0.405,103.733,232040,4
+Patrick Stanke,For Good,5jR9ZjgIay3bMZRwcfkaOL,1,2014,show-tunes,0.362,0.264,5,-9.209,1,0.0311,0.818,0.0,0.0893,0.153,76.992,269963,5
+Naomi van Dooren,Jeder Moment,3lSwZO2vey0vnCGvAvI1Vu,0,2017,show-tunes,0.653,0.499,9,-9.672,1,0.0314,0.655,0.0,0.109,0.553,93.028,216160,4
+Faith Prince,Medley: Somewhere That's Green / Suddenly Seymour (Live),1d3Rn0lcMd6oohuVmhXqlG,0,2013,show-tunes,0.405,0.109,5,-15.203,1,0.0764,0.79,0.0,0.853,0.217,73.517,445300,3
+Cole Thompson,I Guess This Is Goodbye,73zyF7XyI6SLS1N0t31IIe,34,2022,show-tunes,0.329,0.178,4,-15.957,1,0.0709,0.834,0.0102,0.203,0.556,181.793,62043,4
+Andrew Lloyd Webber,If We Only Had A Plan,3n5WuxIJmQ9q0rrOupu9YP,7,2011,show-tunes,0.755,0.241,9,-17.101,0,0.362,0.835,0.0,0.0587,0.528,109.817,75227,3
+Original Hamburg Cast,Vielleicht - Reprise,2O8nxoQoJNHRU3jyn67dVN,0,2020,show-tunes,0.561,0.937,1,-6.051,0,0.126,0.177,0.0,0.396,0.429,77.966,53533,4
+Patrick Page,"His Kiss, the Riot",5COXzddFkxwPdVOcMe84fX,41,2019,show-tunes,0.217,0.506,10,-10.434,1,0.114,0.553,0.00517,0.0878,0.229,78.476,183794,4
+Liza Minnelli,Come In from the Rain,1BXNI9ptAvNeYzZ5IymGkQ,6,2022,show-tunes,0.409,0.358,10,-12.061,1,0.0613,0.665,0.000179,0.979,0.303,116.368,296907,4
+Laura Bell Bundy,Texas,0CrePibpSKNkNaHnoNJN9d,2,2007,show-tunes,0.736,0.489,1,-8.424,1,0.0252,0.208,0.000377,0.125,0.551,107.065,258560,4
+Anja,Ik Heb Me Zo In Jou Vergist,77XqUhRr1kLTienAslvrUg,0,2014,show-tunes,0.371,0.429,10,-9.365,1,0.0316,0.862,1.47e-06,0.11,0.675,72.357,153000,4
+Jubiläumscast Wien 2012,Prolog,02dDPehf0XkrxWaagfIWel,25,2012,show-tunes,0.496,0.324,0,-16.278,1,0.211,0.309,1.39e-05,0.589,0.0541,122.205,64080,4
+Bebe Neuwirth,Simply a Waltz / It Only Happens When I Dance with You (Live),7vpHhYJYCyiPBUmbhfosog,0,2013,show-tunes,0.487,0.381,5,-11.233,0,0.357,0.905,4.15e-06,0.904,0.383,89.284,332267,4
+Andrew Lloyd Webber,Once Upon Another Time,6NbKczvIV3btZHGKVG4AGE,20,2018,show-tunes,0.315,0.215,6,-14.001,0,0.0423,0.913,7.14e-05,0.328,0.107,101.22,249747,4
+Robert Preston,"Ya Got Trouble - From ""The Music Man""",66iKWf4UB0K2h6DIU1hLPX,13,2018,show-tunes,0.677,0.419,1,-14.513,1,0.703,0.475,0.0,0.473,0.881,121.588,227667,4
+Lin-Manuel Miranda,Unstoppable - Outtake,7pYWp5Bj4iSnUSGoNXp38s,4,2017,show-tunes,0.617,0.624,4,-8.733,0,0.41,0.399,0.0,0.0743,0.366,130.085,239427,4
+Lea Michele,Christmas in New York,6ojf8Uq0jgu9zJggnifDHg,27,2019,show-tunes,0.567,0.54,2,-7.276,1,0.032,0.708,0.0,0.116,0.6,126.857,195907,4
+Brandon Uranowitz,Dressing Them Up,7wP8JaaRe9jb6WEIN4vvFw,3,2018,show-tunes,0.549,0.533,1,-6.44,1,0.17,0.575,0.0,0.159,0.842,96.466,158088,4
+Christian Borle,When Willy Met Oompa,664yc46QT1fAVAYL5ewId6,24,2017,show-tunes,0.692,0.659,2,-6.454,1,0.315,0.672,0.0,0.286,0.819,145.05,234949,4
+Andrew Lloyd Webber,Will This Last Forever?,5FaxfKeN8CYTXgE1nvOpHT,0,2005,show-tunes,0.38,0.353,4,-13.135,1,0.141,0.868,1.76e-06,0.635,0.387,125.097,282107,4
+Nicolas Colicos,Thick Skin,50pLJNu2Cr7ZhGt75KORwP,2,2006,show-tunes,0.615,0.399,5,-12.407,0,0.422,0.749,0.0,0.0863,0.581,109.498,222507,4
+Alex Brightman,"The Whole ""Being Dead"" Thing",7BKbcBpIS7jMKsjbry09JF,55,2019,show-tunes,0.525,0.84,5,-5.779,0,0.123,0.433,0.0,0.43,0.666,155.95,223565,4
+Audra McDonald,I Wonder Where Our Love Has Gone,72AS4wWqIwlp2n2GKVfqzh,3,2014,show-tunes,0.448,0.334,5,-13.688,1,0.0921,0.756,5.34e-06,0.695,0.388,84.844,104827,3
+Julie Andrews,It Might As Well Be Spring,5jVU9Ngh91HaJdneEyVfXG,4,2000,show-tunes,0.416,0.244,5,-11.246,1,0.0365,0.852,0.0,0.127,0.5,110.177,150440,4
+Brian D'Arcy James,Space,2xRv4rz7KDQyWFxnWDvMxv,0,2006,show-tunes,0.421,0.316,5,-9.24,1,0.0576,0.895,0.0,0.0772,0.362,80.434,302453,4
+Adam Pascal,Santa Fe,2TN1LttjDusbg3hzeH9MzJ,41,2005,show-tunes,0.697,0.56,9,-6.926,1,0.121,0.594,1.71e-06,0.112,0.448,157.521,207640,3
+Claude-Michel Schönberg,"Bring Him Home (From ""Les Misérables"")",2TTgXA0m73Y3UtU8BCkRke,0,2013,show-tunes,0.276,0.0321,5,-21.216,1,0.0363,0.982,0.0209,0.0726,0.136,147.447,209880,3
+Kristin Chenoweth,"Finale ""Wicked""",31eh2tzcB4VjsNUp8pvJR4,17,2019,show-tunes,0.251,0.198,7,-10.587,1,0.0358,0.962,0.0524,0.246,0.0725,128.231,101693,3
+Company,You Turn My World Around,5avHoGnq9Z2Clofe37mxW0,0,2000,show-tunes,0.634,0.765,10,-6.701,1,0.0423,0.481,0.0,0.164,0.185,122.494,290013,4
+Shoshana Bean,Maybe It Starts With Me,7lBv7MWOlSLTJCM0VsDyrY,30,2022,show-tunes,0.539,0.493,8,-6.493,1,0.118,0.622,0.0,0.116,0.562,131.26,170162,4
+Lea Salonga,Kaibigan,50nbhcjErdMrUB54ZUDT4Z,1,2001,show-tunes,0.575,0.62,8,-8.439,1,0.0364,0.66,0.00109,0.303,0.64,155.112,120533,4
+Marin Mazzie,"They Go Wild, Simply Wild, Over Me",0NrTl0WHIoI0zRDc3x4EU3,9,2014,show-tunes,0.513,0.421,0,-10.714,1,0.433,0.632,0.0,0.318,0.665,81.195,186760,4
+Beth Leavel,As We Stumble Along,2U2goWDTnxAYwFJDSrRy4a,29,2006,show-tunes,0.511,0.338,10,-8.201,1,0.134,0.89,1.09e-05,0.198,0.403,118.463,205213,3
+Rebecca Luker,Be Careful/Dear Theodosia,6JSIR5dM8UehucyvapUX8F,1,2020,show-tunes,0.362,0.236,3,-10.739,1,0.0282,0.906,0.0,0.108,0.252,93.299,351691,4
+Rob Rokicki,Nice Young Man,1nQozX7ZIMYUWvxki8BOrj,0,2012,show-tunes,0.461,0.481,7,-9.897,1,0.0822,0.393,0.0,0.11,0.53,94.149,204000,4
+Melissa Barrera,Champagne,2gah9yPIORW56kLHfZpnSn,44,2021,show-tunes,0.633,0.463,11,-9.743,0,0.417,0.301,0.0,0.235,0.187,93.438,173935,4
+Christine Ebersole,"Isolation (From ""Soldier of Orange"")",4nryM7DOPm2njDtqHOCC4w,1,2013,show-tunes,0.313,0.0993,9,-13.117,1,0.038,0.953,5.14e-05,0.0872,0.137,131.035,251529,3
+Männerchor,Jeder Mensch Braucht Gnade,7BbxmRX5lg5dFPM5NEU8KI,10,2017,show-tunes,0.269,0.22,0,-13.078,1,0.0313,0.824,7.49e-06,0.267,0.135,102.691,229848,4
+Lin-Manuel Miranda,In the Heights,4dS1QQw8askb1KSDLCKuvK,47,2008,show-tunes,0.622,0.468,5,-7.146,1,0.435,0.516,0.0,0.337,0.692,170.878,458907,4
+Tourneecast 2011,Die fröhliche Apokalypse,5ceKLgChuRSX1cTjj3bZEp,8,2012,show-tunes,0.561,0.537,2,-8.579,0,0.488,0.632,0.0,0.716,0.634,124.216,193800,4
+Billy Porter,I'm Gonna Wash That Man Right Outta My Hair,08XLTIokqI0U2TKnW657cb,7,2017,show-tunes,0.606,0.77,1,-7.135,0,0.0655,0.378,0.0,0.5,0.707,89.991,253400,4
+Chess In Concert,You and I,6zxVOOrOtFRHiqVoF2Lkb3,19,2009,show-tunes,0.181,0.129,5,-14.895,1,0.0397,0.938,1.64e-05,0.159,0.114,176.801,177600,3
+André De Shields,"Wait for Me (""Hey, the big artiste..."") [Intro]",6FNYKnVrG1u0IaMvVcUcMU,45,2019,show-tunes,0.693,0.336,9,-12.299,0,0.109,0.619,0.0,0.489,0.178,89.089,91425,4
+Leslie Odom Jr.,I Know That You Know,5G7ktqLjOjN2EV18cuix8i,20,2014,show-tunes,0.435,0.676,0,-6.708,1,0.0302,0.0553,0.0266,0.181,0.359,115.999,262867,4
+Michelle Duffy,Shine a Light,0YmK2XraSa4UQR07q4FQvR,47,2014,show-tunes,0.749,0.77,9,-4.959,1,0.106,0.467,0.0,0.0651,0.856,111.968,151893,4
+Andreas Bieber,Der Blick,4iuSQGmDpzY7fIQQXPrrpX,1,2008,show-tunes,0.423,0.322,5,-12.958,1,0.0997,0.803,0.0,0.715,0.393,91.232,396613,4
+Kate Shindle,For No Apparent Reason (from Room to Grow),55jbuyL1crpc771PSsEi4o,0,2005,show-tunes,0.348,0.251,10,-12.381,1,0.102,0.911,4.31e-06,0.698,0.287,160.928,277866,4
+Rebecca Luker,The Land Where the Good Songs Go,3QDl5bC6PlNAkZuyyDftvC,1,2012,show-tunes,0.295,0.224,3,-13.293,1,0.0347,0.8,0.0,0.16,0.194,145.272,200360,4
+Catherine Zeta-Jones,Cell Block Tango,28Tmk14BdrfaV2YzxpB35c,57,2002,show-tunes,0.601,0.34,1,-12.092,1,0.363,0.393,0.0,0.456,0.654,125.309,442733,4
+Kelli O'Hara,What Do You Call a Man Like That?,7BQVQq5SQ4zd2ZrB8x5npr,19,2014,show-tunes,0.22,0.343,10,-7.925,0,0.0357,0.925,0.0,0.19,0.156,180.49,136133,3
+Lea Salonga,"Let It Go (From ""Frozen"") [Live]",55CP7JaSHZgoZ8f0dhxLzv,19,2019,show-tunes,0.38,0.566,7,-6.256,1,0.0413,0.652,0.0,0.944,0.368,135.426,231991,4
+Spotlight Musicals,Wunder Oder Wahrheit,0pOG4BncoBVeCX9yokjhEZ,4,2012,show-tunes,0.495,0.753,11,-4.587,1,0.149,0.291,0.0,0.122,0.82,188.157,157910,4
+Nathan Lane,'Til Him,6PvkgNl39geFWiBMzEeWjM,18,2001,show-tunes,0.306,0.205,5,-15.206,1,0.0486,0.933,6.39e-06,0.762,0.266,82.138,222147,3
+Rebecca Luker,Not Funny,79QS08GbnPRof0E1zhaf1h,2,2020,show-tunes,0.586,0.289,8,-9.774,1,0.0791,0.86,0.0,0.172,0.58,97.357,163063,4
+Audra McDonald,Daybreak in Alabama,76JL8FVOnjGwVYtK8ZKWQl,0,2001,show-tunes,0.33,0.218,6,-13.716,1,0.0444,0.957,4.21e-05,0.11,0.261,79.938,197320,4
+Alan Menken,Prolog 1,74ON69lqtuEa40an5dxJcI,1,2017,show-tunes,0.281,0.331,2,-16.399,0,0.104,0.784,0.000564,0.217,0.393,89.741,42640,4
+Laura Benanti,Scene Of Professors,5mjmLYSWmGaaSdsHppOBbu,1,2009,show-tunes,0.455,0.297,7,-13.711,1,0.143,0.875,1.48e-06,0.0847,0.443,60.688,269413,4
+Kerry Butler,"Hold Me, Bat Boy (Reprise)",0aJFBtgqfJLzB1PEDlfXX0,10,2001,show-tunes,0.477,0.251,9,-9.979,1,0.031,0.666,0.0,0.0736,0.22,73.362,123787,4
+Kate Baldwin,To Life (Live),7BQenJ6AeGcaXz2hLGzTfK,0,2011,show-tunes,0.612,0.348,2,-12.869,0,0.624,0.84,0.0,0.797,0.624,123.99,194440,4
+Mark Seibert,Crying in the Rain,2P3leyvPb6BDCVXhLPoRIC,2,2012,show-tunes,0.493,0.442,2,-11.113,1,0.0329,0.0861,1.18e-05,0.845,0.205,87.461,281267,4
+Andrew Lloyd Webber,Superstar,6KuzGRjDuKHp1aFaZHJcq9,18,2001,show-tunes,0.553,0.717,9,-8.643,1,0.0635,0.491,0.0,0.799,0.467,124.06,276973,4
+Ana Milva Gomes,Luna,341BtPvs6c8JejupgvgzmG,1,2017,show-tunes,0.47,0.767,7,-3.797,0,0.038,0.466,0.0,0.576,0.471,125.982,153347,4
+Rebecca Luker,Chelsea Morning,5z3pXeiOseNjSDp1lBHCvX,1,2004,show-tunes,0.578,0.401,9,-7.556,1,0.05,0.79,0.0,0.161,0.627,83.944,173307,4
+Serkan Kaya,Bu Şehrin Geceleri,6Xyykk1RigrvX50lDCqqXM,25,2017,show-tunes,0.634,0.786,0,-3.695,1,0.0278,0.364,6.98e-06,0.372,0.469,104.993,373523,4
+Orchester der Vereinigten Bühnen Wien,Zauberhaft natürlich (Live),3gIrTYE4uzWef3z2AYKRhv,25,2022,show-tunes,0.376,0.294,8,-11.808,1,0.0312,0.824,0.0,0.207,0.193,103.428,130092,3
+Anthony Ramos,Right Now,3hSUXx0eJLcriOYB61Yz22,27,2021,show-tunes,0.717,0.439,1,-7.041,1,0.0836,0.00817,0.0,0.0689,0.602,109.805,176813,4
+Andrew Lloyd Webber,Come Back With The Same Look In Your Eyes,27vP2xbA96v1H13wV81wYo,3,2003,show-tunes,0.654,0.226,10,-15.7,1,0.0363,0.562,0.0,0.106,0.38,118.204,208813,4
+Bobby Steggert,Is It Like This for Her Here Always?,1b5Bzr0veme2iF52zatUlQ,0,2011,show-tunes,0.56,0.308,2,-11.523,1,0.35,0.484,0.0,0.19,0.687,99.6,180920,3
+Leslie Odom Jr.,The Room Where It Happens,2TK2KSrzXD6W01qjXVjNGh,65,2015,show-tunes,0.638,0.49,4,-9.382,0,0.426,0.271,0.0,0.664,0.511,173.552,318215,4
+Brian Stokes Mitchell,It Ain't Necessarily So,0lruGpwv8uaHNLBEaXx7Fw,3,2012,show-tunes,0.551,0.265,2,-10.701,0,0.0415,0.96,5.89e-05,0.483,0.269,107.728,246258,4
+Wietske van Tongeren,Und das und das und das,1tmNJYD2Nkccc8tENl16M5,14,2007,show-tunes,0.508,0.384,2,-9.364,1,0.067,0.882,0.0,0.189,0.458,69.463,114213,3
+Frank Nimsgern,Manchmal - Königin,4aqm3LZA3uhecBzcubFEl2,0,2012,show-tunes,0.566,0.303,0,-11.216,1,0.0322,0.627,0.0,0.271,0.216,119.876,211252,4
+Kelsey Grammer,Masculinity,6RHEMBNsfm16efjGESNaL4,13,2010,show-tunes,0.651,0.473,5,-8.271,1,0.336,0.742,0.0,0.113,0.775,114.549,199933,4
+Patrick Stanke,Heavy Cross - Live,6dPdu5g6z3OdBuZPm2Jkhq,1,2017,show-tunes,0.567,0.823,2,-4.407,1,0.0913,0.0886,1.91e-05,0.93,0.312,124.332,224280,4
+Isabel Dörfler,I´m an American Woman,32dmfc29BWDK2EG4sQ0AAc,13,2012,show-tunes,0.487,0.723,11,-7.064,1,0.201,0.496,0.0,0.763,0.344,125.135,167173,3
+Frank Wildhorn,Ein Leben Lang,1GQS7J314fsQsTjOSigyNY,9,2009,show-tunes,0.346,0.517,9,-8.605,1,0.039,0.463,0.00638,0.0876,0.216,125.606,191138,4
+Julie Andrews,When You Act,4sUzexExjg3N7azKotkOto,10,2017,show-tunes,0.862,0.364,5,-11.247,1,0.184,0.696,0.0,0.0789,0.443,124.009,102813,4
+Patti LuPone,If - Live,6W1CBHTtTjKmA91iHJI0A8,5,2017,show-tunes,0.586,0.464,3,-9.464,1,0.565,0.913,1.11e-06,0.73,0.61,66.606,221520,4
+Chris McCarrell,Home,0Xgm4855fK6eQihRBKPbCd,4,2020,show-tunes,0.255,0.743,2,-5.785,0,0.163,0.325,0.0,0.336,0.386,166.156,141012,4
+George Salazar,Prom Night 2208,2NP9VFoLlq7CxOuGdAABKm,15,2021,show-tunes,0.632,0.437,6,-7.742,1,0.0317,0.59,0.0,0.0634,0.431,142.021,305480,4
+Stephen Sondheim,Boca Raton,6DtXSUrSCC7TUdCfKFZ3va,1,2009,show-tunes,0.516,0.344,5,-8.392,1,0.347,0.855,0.0,0.246,0.433,78.951,333067,5
+Anna Maria Kaufmann,Highway to Hell,3Bc69p19QMqadolpIGj2qs,0,2019,show-tunes,0.678,0.921,0,-5.704,1,0.0353,0.00884,0.00976,0.128,0.447,115.968,194827,4
+Leslie Odom Jr.,Last Man,2bOgtnuiK8ziFPA3Fe9xvx,24,2014,show-tunes,0.636,0.506,6,-7.826,0,0.0618,0.194,0.0,0.0918,0.21,91.903,221867,4
+Kelli O'Hara,A Cockeyed Optimist,3onKcy7dbqyahtVokVsx8x,24,2008,show-tunes,0.625,0.0532,0,-17.175,1,0.046,0.902,0.0,0.139,0.459,109.804,96987,4
+Sascha Th. G. Krebs,Es muss etwas bleiben / Finale,76Xm1XpsH94FVwThdxvX55,2,2008,show-tunes,0.23,0.789,0,-6.016,1,0.0787,0.0787,0.0,0.354,0.31,69.825,435253,3
+Zachary Levi,Allison's Theme #1,6fmZohskAssE3jFMaYNkCD,14,2013,show-tunes,0.516,0.456,8,-8.733,1,0.131,0.779,0.0,0.121,0.365,141.922,50747,5
+Kate Shindle,"""Miss Hickok, I Must Ask You to Come Back Inside.""",5LEiz4S5aogNY8802BKDDM,0,2003,show-tunes,0.686,0.206,5,-15.602,1,0.456,0.889,0.0,0.243,0.313,88.814,87173,4
+Alan Menken,アラジン・ハイライト,02BJ465QLF1NErikUMFNy5,4,2013,show-tunes,0.278,0.301,5,-14.956,1,0.0451,0.93,0.904,0.699,0.15,121.698,439040,4
+Hugh Jackman,Pick-A-Little Scene,41c3nZAfqJl7DtdZxl4uOx,22,2022,show-tunes,0.693,0.297,9,-17.789,1,0.957,0.723,0.0,0.185,0.369,85.617,111560,4
+Andrew Lloyd Webber,"No Llores por Mí Argentina (From ""Evita"") - Remasterizado",5DfnMVvL9MhGkvdSobTjDS,6,2008,show-tunes,0.228,0.188,0,-15.338,1,0.0519,0.957,0.00687,0.731,0.0715,84.424,345720,4
+Jana Stelley,Plötzlich und unerwartet,4zxBTpMxXFY31Wc7WfQ7Lr,1,2011,show-tunes,0.453,0.298,4,-11.22,1,0.0424,0.912,7.41e-06,0.0736,0.359,152.459,199400,4
+Alan Menken,En simpel olielampe,6yRoy7yPbpjBb4CFSHeE8x,0,2019,show-tunes,0.132,0.199,3,-18.49,1,0.0354,0.647,0.925,0.117,0.0464,143.843,51966,3
+Karen Olivo,Un Hombre Asi (A Boy Like That) / I Have a Love,0diTTEecTVttfTFiT3BqJ5,18,2009,show-tunes,0.244,0.162,2,-11.611,1,0.0393,0.9,4.44e-06,0.195,0.0531,58.868,329293,4
+Christine Ebersole,The Revolutionary Costume for Today,5Ho5oad2BpiRpcOhmFZmiL,13,2007,show-tunes,0.735,0.32,1,-11.46,1,0.338,0.834,1.12e-05,0.131,0.621,117.36,253520,4
+Ramin Karimloo,Empty Chairs At Empty Tables,378TS8gMrKOVuRbbGIIwCZ,30,2014,show-tunes,0.212,0.34,4,-8.83,0,0.0309,0.742,1.11e-05,0.108,0.108,168.896,209378,4
+Laura Osnes,Intro: My Story - Live,2uN2azyjM4bBgM9HSOC8r6,0,2012,show-tunes,0.603,0.625,0,-16.396,1,0.943,0.882,0.0,0.923,0.0961,75.773,15267,5
+Christopher Sieber,"The Song That Goes Like This - Original Broadway Cast Recording: ""Spamalot""",69rYbvvX6cwU27tdlKJyC1,0,2021,show-tunes,0.239,0.686,5,-4.304,1,0.052,0.72,0.0,0.228,0.24,181.081,173973,4
+Jeremy Jordan,Nobody Needs to Know,5js84vxnbNu8Kz4wxANnaR,33,2015,show-tunes,0.228,0.17,8,-11.79,1,0.033,0.689,1e-05,0.0522,0.118,82.64,427333,5
+Miss Saigon Original Cast,Kim & Engineer - Live,244DdUIzgfD7VjZYtm60dt,21,2014,show-tunes,0.431,0.307,9,-13.259,0,0.154,0.859,3.59e-06,0.708,0.369,102.011,193440,3
+Company,In The Jaws of the Lion,1SV0prwWtJp0rGLf1bkgV5,0,2005,show-tunes,0.354,0.54,2,-11.983,1,0.0288,0.356,0.272,0.0751,0.443,116.073,263893,4
+Alan Menken,On a Dark Night - Remastered 2022,6RNAZpIVVrkzHmxKKxiBDJ,20,2022,show-tunes,0.175,0.033,5,-19.693,1,0.04,0.907,0.134,0.0866,0.045,103.661,175600,1
+Company,The Global News,6ROOsTMGHdjoy1wIXQF0pw,0,2007,show-tunes,0.615,0.671,0,-9.543,1,0.108,0.783,0.0,0.0429,0.423,108.325,37640,4
+Kelli O'Hara,Autumn in Connecticut (Reprise),2vjT9fhNqWPpa4bzbQagxL,0,2013,show-tunes,0.379,0.234,6,-11.386,1,0.111,0.906,0.00519,0.147,0.488,80.952,76853,4
+Linda Eder,Do You Hear What I Hear?,58WzoWMSdA3BU7CX2lGMH9,6,2000,show-tunes,0.544,0.712,5,-8.031,1,0.0536,0.27,7.88e-05,0.127,0.641,87.986,234533,4
+"Wietske van Tongeren, Uwe Kröger",Jenseits der Nacht (Reprise),1d63O3nVHYJIRz0YeJmMTQ,18,2006,show-tunes,0.566,0.548,9,-6.69,1,0.0296,0.642,2.48e-06,0.23,0.118,99.154,210947,4
+Tom Wopat,Baby It's Cold Outside,5iZz3M0pjPPSxfHNeVaWqP,0,2000,show-tunes,0.526,0.0941,8,-16.486,1,0.042,0.953,3.3e-06,0.127,0.338,85.886,235000,4
+Alan Menken,Sultan's Magic Carpet Ride - Remastered 2022,2MttAfDorWjCit70IfpRqo,14,2022,show-tunes,0.602,0.324,2,-15.409,1,0.0462,0.633,0.831,0.324,0.67,74.949,45547,1
+Stephen Sondheim,Company,02551EFieSMoojjDauMIh7,32,2007,show-tunes,0.577,0.488,2,-5.628,1,0.0362,0.874,0.0,0.16,0.66,79.091,277293,4
+Ethan Freeman,There But For You I Go (from Brigadoon),6dDGsXsECbjpD6hDb4b7vX,0,2017,show-tunes,0.169,0.128,0,-18.089,1,0.04,0.982,0.00596,0.0458,0.163,91.529,241373,4
+Renée Zellweger,Over The Rainbow,5hpZ9i1nomrw6PKkhbqa42,12,2019,show-tunes,0.241,0.111,5,-11.677,1,0.0331,0.901,0.000831,0.112,0.146,83.331,215240,3
+'Legally Blonde' Ensemble,Blood in the Water,2ewb4VJoSMG1FuSkFKoMgO,43,2007,show-tunes,0.578,0.293,1,-12.594,1,0.479,0.647,0.0,0.334,0.51,139.609,289960,4
+Kristin Chenoweth,Merry Christmas Baby [with Keb' Mo'],1H62J4ULsAQ7WIGmI4bcC2,7,2021,show-tunes,0.459,0.485,6,-7.885,1,0.0619,0.445,0.0068,0.07,0.388,95.49,314547,3
+Claude-Michel Schönberg,Cleopatra and Mark Antony,6I3pmi6U64dlI7Lc4MExeI,0,2011,show-tunes,0.26,0.0437,5,-21.757,1,0.0393,0.772,0.33,0.139,0.0955,133.1,354213,3
+Anna Montanaro,Liebe macht uns schwach - Live,1G8VEo5cSLhga8DBqaghC3,0,2017,show-tunes,0.449,0.436,7,-11.54,1,0.128,0.862,0.0,0.778,0.49,84.442,197067,1
+Original Cast of Amélie,Window Seat,2qhbarUPrqgpMyRNEaGZzT,16,2017,show-tunes,0.289,0.165,4,-11.434,1,0.034,0.959,0.00183,0.112,0.154,142.534,82440,4
+Laura Osnes,My Grandmother's Love Letters,17t3KjoNv98HmBHClT6uUd,2,2013,show-tunes,0.485,0.147,0,-13.834,1,0.0371,0.914,0.0,0.0968,0.273,97.725,221520,4
+Lea Michele,Yellow,4vg728xHQfMRJMAQ8H0KK6,22,2021,show-tunes,0.379,0.322,2,-10.574,1,0.0337,0.833,3.5e-05,0.0895,0.163,171.892,263033,4
+Idina Menzel,The Wife's Statement,6E7icoeEc3uqYLjwhrw9Yn,1,2006,show-tunes,0.479,0.143,11,-14.714,1,0.151,0.981,0.000116,0.137,0.129,93.179,68547,4
+Patti LuPone,"Blow, Gabriel, Blow - Live",5mKuCFgCox8zFI9DvspI5g,6,2017,show-tunes,0.421,0.506,7,-8.998,0,0.42,0.901,3.39e-06,0.759,0.708,72.593,207467,4
+Julie Andrews,Intermission Medley: (A) Thoroughly Modern Millie (B) Jimmy (C) Jewish Wedding Song (D) Baby Face,43YCIsYCrZqNx12HCER0FH,7,2009,show-tunes,0.394,0.346,3,-14.111,1,0.0492,0.958,0.0,0.311,0.54,113.412,224467,4
+Andrew Lloyd Webber,Love Is Here - Reprise,6jox92LjRnesIBUvh4uL8x,0,2005,show-tunes,0.574,0.306,6,-16.805,1,0.73,0.903,0.0,0.314,0.64,133.55,72320,5
+Patina Miller,Magic to Do,3s0y0NRvDGpgvJ4dq8lXZl,39,2013,show-tunes,0.352,0.616,9,-7.359,1,0.0434,0.106,4.41e-06,0.0779,0.253,124.824,275253,4
+Lea Salonga,We Are Yours,1M1BEAqO0ltjja1R0fNhKh,7,2003,show-tunes,0.451,0.45,5,-8.415,1,0.029,0.744,0.0,0.359,0.422,143.926,311565,3
+Constantine Maroulis,Prey (Live),0ecXpDfUk7UmE9P9OGHHJ1,0,2020,show-tunes,0.688,0.434,4,-11.984,0,0.409,0.331,0.0,0.735,0.687,117.42,210500,4
+Stephen Sondheim,"Sooner or Later (From ""Dick Tracy"")",3UrWkwlaVu7jVBshASFuc8,4,2020,show-tunes,0.281,0.291,0,-13.917,1,0.0325,0.498,0.000259,0.146,0.173,117.984,187036,3
+Alan Menken,Dschinnis Freiheit,4nd8tEIwJ59u00sVLWkjeL,10,2019,show-tunes,0.0817,0.113,5,-17.016,1,0.0407,0.734,0.907,0.0706,0.0358,83.799,336830,3
+Caroline O'Connor,La Goualante Du Pauvre Jean ( Live Version ),41bFBecFxAVthD1roSSCua,0,2009,show-tunes,0.485,0.738,8,-10.345,1,0.503,0.562,0.0,0.948,0.939,105.917,99933,4
+Linda Eder,Over the Rainbow - 2007 Remaster,0jF27ibek2YlcWw2Tl9htL,5,2007,show-tunes,0.359,0.0741,10,-15.112,1,0.0366,0.97,0.0,0.106,0.153,86.585,183933,4
+Die Nacht der Musicals,Hinterm Horizont,0NptaTMOti1qqtOQPvalrb,0,2017,show-tunes,0.562,0.654,7,-4.274,0,0.0267,0.106,0.0,0.0831,0.186,96.082,233307,4
+Jennifer Damiano,If The World Should End,7zlvwVRAQeFNd9M5RO1cJR,22,2011,show-tunes,0.414,0.268,10,-8.933,1,0.0267,0.933,4.18e-05,0.13,0.164,89.812,223387,4
+Liz Callaway,Feed the Birds,53w4DMp79IBEBx6piCdmWv,3,2001,show-tunes,0.333,0.359,7,-8.059,1,0.0323,0.864,0.0,0.177,0.254,78.946,235840,4
+Orchester der Vereinigten Bühnen Wien,All By Myself,1Z6IEbuhnCovHTpEJacbm1,4,2008,show-tunes,0.243,0.366,11,-9.054,0,0.0437,0.784,6.4e-05,0.688,0.11,122.233,209547,4
+Frank Wildhorn,A New Life,65tUVrm8J24BoS5hPfGEK3,5,2006,show-tunes,0.235,0.206,6,-8.399,0,0.0367,0.851,0.0,0.132,0.0933,75.958,229293,4
+SMASH Cast,Shake It Out (SMASH Cast Version) (feat. Katharine McPhee),2zOCduzcLsY8xgwB2jBd7a,22,2012,show-tunes,0.539,0.669,7,-6.284,0,0.0343,0.0528,0.0,0.153,0.293,107.401,168187,4
+Maricel,Vem cá,5eLD9DydeTtLpc6spNqULp,12,2023,show-tunes,0.634,0.651,0,-6.358,1,0.0297,0.266,0.00233,0.134,0.754,145.831,186930,4
+Orchester der Vereinigten Bühnen Wien,Ehrlichkeit und Vertrauen (Live),75yfwOT1JOyr7B8FoavJcd,23,2022,show-tunes,0.505,0.332,6,-14.217,1,0.0684,0.761,0.0,0.71,0.336,102.791,132207,4
+Will Connolly,Cecily Smith (Bonus Track),0EhYGqH7kjogumPfbKWh0t,43,2015,show-tunes,0.771,0.263,7,-13.072,1,0.0816,0.821,0.0,0.0872,0.372,119.726,289893,4
+Faith Prince,Medley: Take Me Back to Manhattan / Before the Parade Passes By - Live,0n2O26gWhzVqpAcpN9jId5,0,2013,show-tunes,0.528,0.294,9,-15.691,0,0.394,0.696,3.94e-05,0.498,0.321,113.469,255897,3
+Jan Ammann,Vivo Per Lei (Live),3WI89Hl0dcUrgFDmlGyQVu,13,2019,show-tunes,0.317,0.69,6,-11.461,0,0.49,0.343,1.7e-05,0.983,0.351,137.088,417621,4
+Christopher Murray,Le joli rond de sa bouche,0vVtOphdzvbWZs06VUm2GD,0,2018,show-tunes,0.675,0.398,6,-9.367,0,0.034,0.846,0.000812,0.12,0.472,107.991,248733,4
+Frank Wildhorn,"You Are My Home (From ""The Scarlet Pimpernel"") [Arr. K. Bestor]",4dnKM6u6Z13aRdUL8syfGF,0,2005,show-tunes,0.187,0.257,0,-11.425,1,0.0335,0.937,0.0,0.094,0.13,70.675,267400,4
+Will Connolly,Sunscreen,7Fhw6mJchI8cUV2Xvj9IbC,2,2020,show-tunes,0.52,0.278,5,-11.278,1,0.0269,0.0955,0.000156,0.32,0.323,75.525,200500,3
+Kelli O'Hara,He Loves Me,4Qgtp5KococyRbhTa1ZRE4,4,2011,show-tunes,0.568,0.477,5,-10.515,1,0.261,0.289,0.0,0.107,0.591,117.716,160453,4
+Orchester der Vereinigten Bühnen Wien,Gold von den Sternen,1O3cTvlmGDcgvrk7N4ZfGy,15,2008,show-tunes,0.405,0.393,0,-9.033,1,0.0645,0.847,0.0,0.692,0.346,129.299,231160,4
+Thomas Sanders,Crofters: The Musical,0X0TXgYzRfOJqmM4thNJfl,28,2018,show-tunes,0.579,0.331,5,-9.751,1,0.0501,0.766,0.0,0.378,0.742,130.548,142000,4
+Colin Donnell,The River Won't Flow,4Cf4x7lxls5ksUs8YLCoKL,22,2019,show-tunes,0.634,0.692,0,-4.963,1,0.169,0.32,0.0,0.0785,0.643,78.515,244027,4
+Emily Rohm,The New Birthday Song,4BCE1CwYilOvUK5BrpFcLC,41,2021,show-tunes,0.461,0.16,7,-14.11,0,0.0507,0.742,0.0,0.13,0.869,174.719,44579,4
+Alice Ripley,The Break,4ok6HjWjuQD5UbKJz44Aca,28,2009,show-tunes,0.538,0.61,4,-8.411,0,0.303,0.801,0.0,0.383,0.217,89.54,83093,4
+Lin-Manuel Miranda,Jokainen - Instrumental,0RF5NI8u0yWuK6xs7V7qI7,8,2021,show-tunes,0.492,0.38,11,-12.904,1,0.0385,0.46,0.854,0.106,0.256,114.938,293347,4
+Rob Rokicki,Say Goodbye,7uPlwVVxPt5TdXjECgfgEf,10,2017,show-tunes,0.312,0.324,9,-8.356,1,0.0286,0.607,1.1e-06,0.156,0.123,139.281,252227,4
+Jubiläumscast Wien 2012,Boote in der Nacht,6esoO2PNKpUbRNgkeoSLgc,26,2012,show-tunes,0.335,0.311,7,-11.557,0,0.0411,0.828,0.0,0.75,0.165,89.299,240360,4
+Alice Ripley,Some Day,5EalCiDZihoJ80gF6i3VAc,0,2001,show-tunes,0.216,0.188,4,-17.291,0,0.039,0.973,0.00429,0.094,0.199,79.391,128560,3
+Miss Saigon Original Cast,The Movie In My Mind - Live,5m3c1hyH0XRV1DQu5YPcHA,37,2014,show-tunes,0.245,0.134,9,-14.683,0,0.037,0.824,3.06e-06,0.706,0.065,84.799,306173,4
+Pia Douwes,Finale - Erster Akt,17oB2OiZ6dxNukiikXkSTO,13,2012,show-tunes,0.3,0.536,6,-8.232,1,0.12,0.373,4.35e-06,0.719,0.304,96.035,122093,4
+Sabrina Weckerlin,War das schon alles? - Live,5S5A8kpsX6sdf4rUU7C0EY,0,2017,show-tunes,0.449,0.404,8,-11.3,1,0.15,0.858,0.0,0.692,0.463,115.792,193280,1
+Kristin Chenoweth,Obedience School,1JJD68Ssezz9ppR37dxvrN,1,2017,show-tunes,0.679,0.467,0,-8.947,1,0.0303,0.661,0.0,0.171,0.561,123.876,124056,4
+Colin Donnell,Last Time I Came to Memphis,2zz9LQ2p023zIUQmR1Vef0,9,2014,show-tunes,0.462,0.4,9,-10.306,0,0.0848,0.479,0.0,0.368,0.323,140.82,140907,4
+Julie Andrews,Anything Can Happen In The Theater Part 2,0DH76TvC2wYDxaYFEUTpD5,3,2017,show-tunes,0.68,0.499,2,-10.422,1,0.522,0.588,0.0,0.0747,0.597,130.748,111440,4
+Stephen Sondheim,I Remember (Arr. E. Treiman),3SxiKlIEtEDCz6TIecgHIj,0,2017,show-tunes,0.437,0.0263,0,-29.876,0,0.0365,0.995,0.889,0.246,0.113,65.278,128400,3
+Jana Stelley,Wer,42kbVgpX6JX6wDZmra4lkI,1,2011,show-tunes,0.454,0.143,0,-14.128,1,0.0358,0.924,6.89e-06,0.113,0.19,122.089,194613,4
+Andrew Lloyd Webber,Marry For Love - Full Version / Bonus Track,5d0kSBsWTGJa2mHqSnQdx7,17,2021,show-tunes,0.218,0.356,8,-11.869,1,0.0341,0.533,0.0,0.177,0.268,132.621,141067,5
+Alan Menken,Prologo (2 Parte),5HYXGrVaMakw5Nixzlz6Mv,0,2017,show-tunes,0.388,0.482,3,-10.859,1,0.0523,0.809,0.000512,0.123,0.435,129.496,141600,3
+Liza Minnelli,Under The Bamboo Tree - Live,0i27FTmj49iod7pfMF2tHh,0,2000,show-tunes,0.707,0.57,6,-9.19,0,0.164,0.553,0.0,0.373,0.695,81.087,107133,4
+Leslie Grace,Cómo Duele el Silencio,1QMF8Mkdbee1mM04j2DRN0,33,2015,show-tunes,0.691,0.815,11,-4.287,1,0.0556,0.576,0.0,0.113,0.746,129.999,231488,4
+Original Cast Dresden,Butter aus der Milch,66tSK3NFrEINWbTdMaO9Py,1,2015,show-tunes,0.602,0.365,2,-11.779,1,0.641,0.659,0.0,0.636,0.6,116.49,346197,4
+Alexander Klaws,Take Me Tonight,1WLp5X9YrbIUkEBYTU10sh,28,2014,show-tunes,0.52,0.586,8,-5.802,1,0.0332,0.456,0.0,0.131,0.41,143.753,243870,4
+Frank Nimsgern,Stories From The Past,2eufVA5gWzDZgzAA1hVG6H,0,2009,show-tunes,0.466,0.401,9,-12.602,0,0.0337,0.0194,0.434,0.376,0.118,128.46,445173,4
+Thomas Sanders,Forbidden Fruit (The Duke's Theme),2gJrI85ikrpVSd1QhbEdWr,38,2019,show-tunes,0.746,0.456,1,-13.6,1,0.151,0.083,0.0,0.0753,0.528,96.472,164000,4
+Frances Ruffelle,Island,3L7mrT04KZg6dnWRc0qazY,0,2004,show-tunes,0.672,0.443,5,-8.2,0,0.0254,0.388,0.00892,0.0839,0.505,81.507,286787,4
+Linda Eder,Here Comes the Sun,2uu1XTInWKTP88P5Mi2NjQ,6,2002,show-tunes,0.577,0.36,11,-9.975,1,0.0264,0.37,0.0,0.116,0.21,110.058,184293,4
+Michael Ball,Omaggio: II. Barcarola,2DFv9u38kcqJipzoIec5gd,0,2012,show-tunes,0.0621,0.0692,9,-21.721,0,0.0439,0.972,0.682,0.0794,0.0351,68.094,589440,4
+Stephen Sondheim,The Frogs: Evoe for the Dead,2A61rsjMSAaHDXtHxcHfED,2,2001,show-tunes,0.738,0.462,1,-11.996,1,0.769,0.767,0.0,0.166,0.409,79.755,153467,4
+Anja,Wacht Maar Tot Het Donker Is,1f6AKcn8mcCxFMzmk37im8,1,2014,show-tunes,0.549,0.551,0,-13.579,1,0.0571,0.642,0.0,0.704,0.966,117.669,177000,4
+Caissie Levy,Aquarius,7mzRCPX2iuUbB03YDBYgj8,4,2019,show-tunes,0.556,0.343,8,-6.809,1,0.037,0.801,0.0,0.116,0.282,151.572,214080,4
+Sutton Foster,Up on the Roof,2Wuzu6WnyU30JofUaTeCkq,6,2009,show-tunes,0.473,0.0888,2,-17.257,1,0.0352,0.893,0.000303,0.118,0.398,107.868,178773,4
+Jan Ammann,Wie kann ich sie lieben (Live),77So1FoMeNOA3jmnymqgx9,8,2017,show-tunes,0.264,0.381,0,-11.618,1,0.0494,0.428,0.00029,0.966,0.139,133.044,254058,4
+Andrew Lloyd Webber,It's Not The End Of The World,610KqcrDV8TGq9kNqyRRNH,3,2003,show-tunes,0.512,0.118,5,-20.305,1,0.0481,0.683,0.0,0.122,0.336,71.55,90840,3
+Idina Menzel,O Holy Night/Ave Maria - Medley,6mdQnbitkqSi72d4u78GBN,13,2019,show-tunes,0.193,0.255,0,-11.671,1,0.0372,0.913,0.0,0.325,0.182,87.888,330773,4
+Patrick Stanke,Was Macht Einen König Aus,2BxtysHaWJt9a4CeeE6tEp,21,2014,show-tunes,0.439,0.458,1,-5.741,1,0.0369,0.773,1.34e-05,0.0931,0.166,69.559,189364,3
+Anja,Droog Maar Je Tranen,3g9oLvazlOW8Dcr9PxZhx9,0,2013,show-tunes,0.599,0.311,2,-13.093,1,0.0352,0.831,0.0,0.156,0.731,119.147,148360,4
+Bernadette Peters,Small World - Reprise,3p3emV5Mzy3zGDlymizA4P,3,2003,show-tunes,0.29,0.0192,0,-25.536,1,0.0387,0.907,8.77e-05,0.229,0.289,85.258,75787,5
+Rob McClure,Honeymoon In Vegas / Finale - Honeymoon In Vegas Broadway Cast Recording,2vNnjvKYOXjiu2LINav5wf,7,2014,show-tunes,0.391,0.733,2,-4.889,1,0.204,0.551,0.0,0.309,0.61,202.707,178067,4
+Barbara Obermeier,Wie Leinwand und Farb,43yDKhSmXhPFQpV1GNSfo0,0,2009,show-tunes,0.566,0.44,5,-6.673,1,0.0248,0.73,0.0,0.269,0.26,76.068,203000,3
+Alex Brightman,Holiday Party (I Did a Little Cocaine Tonight),3T54LU4kw77rCO0vioar5g,19,2019,show-tunes,0.681,0.536,4,-7.48,1,0.0563,0.804,0.0,0.218,0.733,110.081,170379,4
+Emily Rohm,The Slow and Treacherous Disintegration of You from Me,4Zv2UDSbEQYWUxIbTodPqG,10,2021,show-tunes,0.687,0.496,6,-5.5,1,0.0372,0.552,0.0,0.106,0.331,111.855,277602,4
+Billy Porter,I Need You Now - Live,5Xt6fNFOyrKmzUwLFvX18o,3,2005,show-tunes,0.241,0.267,8,-12.158,1,0.0416,0.796,0.0,0.392,0.204,75.177,307720,4
+Original Cast Vienna,"Mut zur Tat (Live) (From ""Rudolf - Affaire Mayerling"") - From ""Rudolf - Affaire Mayerling""",0ITZcvoi0ppTLWoEgUt5UF,8,2011,show-tunes,0.277,0.55,11,-9.574,1,0.0817,0.418,0.0,0.696,0.408,155.218,166227,4
+Betsy Wolfe,Some Lovers,1ylBUdmLIz01wYybCTON9I,15,2021,show-tunes,0.488,0.525,7,-5.186,1,0.0491,0.53,0.0,0.249,0.418,121.707,136173,4
+Spotlight Musicals,Die Schande Preußens,4U5ek4LBr4vGZA13Wi3m8n,6,2012,show-tunes,0.39,0.519,5,-9.399,0,0.0517,0.73,0.0,0.125,0.553,106.282,182361,4
+Patina Miller,Take Me To Heaven (Reprise),3lLlHFmym35iLalAYucjbk,23,2009,show-tunes,0.4,0.724,5,-6.447,1,0.27,0.236,0.0,0.14,0.524,147.904,345067,4
+Janet Marie Chvatal,Over the Rainbow (feat. Bruno Grassini),0fo11Xavxjek5yMWSzEV2y,0,2009,show-tunes,0.132,0.228,11,-11.685,1,0.0344,0.945,0.0889,0.112,0.0446,82.539,299773,4
+Andrew Lloyd Webber,The Phantom Of The Opera Symphonic Suite - Pt.2,3i39d7KtpiAHW5elg1WupN,21,2021,show-tunes,0.185,0.0654,1,-19.665,1,0.0372,0.8,0.968,0.102,0.0386,87.218,142480,3
+Michael Ball,Time in a Bottle,6ElZtUu8iko1VFkBRoB6ax,5,2003,show-tunes,0.674,0.222,2,-15.714,1,0.0387,0.89,0.000656,0.143,0.551,133.92,145840,3
+Andrea Burns,Wedding Bells,7x3uyysF697Mm5QiLVT0Yv,0,2004,show-tunes,0.571,0.497,0,-7.477,1,0.0427,0.808,1.23e-06,0.218,0.827,101.218,129533,4
+Bebe Neuwirth,It Only Happens,5L9Yt3wJYJs3Fey84Habel,0,2011,show-tunes,0.598,0.105,2,-20.83,1,0.0659,0.94,0.0142,0.137,0.19,67.318,132533,4
+Len Cariou,"Sunrise, Sunset (from ""Fiddler on the Roof"")",3RiceS11nijjlYeXMmHIbq,0,2006,show-tunes,0.222,0.307,5,-22.54,0,0.3,0.827,0.0,0.716,0.29,79.373,249133,4
+Gerard Canonico,Joannas Lament,2vT9ExsCzhqar9V1ueAfdQ,0,2005,show-tunes,0.638,0.272,9,-12.841,1,0.416,0.593,0.0,0.0933,0.404,161.592,66386,3
+Idina Menzel,A Hand For Mrs. Claus,5GMaaILYpTiAo1SAhvvBKi,31,2019,show-tunes,0.644,0.573,5,-6.804,0,0.0859,0.482,0.0,0.311,0.802,111.895,149000,4
+Lea Salonga,"Something's Coming (From ""West Side Story"") [Live]",0mol3aaLdZmJMEs7VYpgvX,9,2019,show-tunes,0.318,0.601,0,-8.173,1,0.125,0.553,0.0,0.974,0.59,92.975,179229,4
+Audra McDonald,Beat My Dog,62L7G6bygIFIVmbl8ZUKe5,2,2002,show-tunes,0.711,0.193,7,-13.158,1,0.252,0.725,0.0,0.105,0.317,117.092,138187,4
+Ben Fankhauser,Run Away With Me,38fqQmjJm5i5QtmUJXw3w6,39,2020,show-tunes,0.431,0.461,2,-6.704,1,0.0391,0.732,0.0,0.129,0.267,113.502,241261,4
+Kelli O'Hara,Wonder in the World,5e18EQrGekn5VLMLzzsSC2,3,2008,show-tunes,0.409,0.174,0,-12.793,1,0.0323,0.853,1.07e-06,0.112,0.141,88.978,252267,3
+Christy Altomare,The Motion of You,4OAzvLwsPRpt2PdihgWj4D,4,2009,show-tunes,0.603,0.399,2,-9.852,0,0.225,0.817,0.0,0.137,0.665,87.193,216840,4
+Anthony Ramos,One More Hour,4km1hd3ZGIP4V0cYYkB47S,35,2019,show-tunes,0.663,0.302,0,-9.154,0,0.4,0.395,2.72e-06,0.12,0.626,176.107,204387,4
+Jeremy Jordan,When I Drive,2j3eVGegSHxpSZiZV9QE93,35,2012,show-tunes,0.698,0.675,11,-7.89,1,0.0489,0.269,0.0,0.239,0.741,115.367,134600,4
+Victoria Clark,Departure,4OyQl1Dz2mLZLdBTTjtZ9T,0,2007,show-tunes,0.36,0.0545,8,-14.773,0,0.0395,0.922,2.16e-06,0.0992,0.219,78.461,275427,3
+Andrew Lloyd Webber,"The Phantom Of The Opera - 1988 Japanese Cast Recording Of ""The Phantom Of The Opera""",00pjsilIT8hu64HxL6v3gD,11,2022,show-tunes,0.46,0.461,7,-12.623,0,0.0333,0.285,9.3e-06,0.468,0.309,119.652,255867,4
+"Wietske van Tongeren, Schatten, Ensemble",Ich hab geträumt von Manderley (Reprise & Finale II),1b4bFEqeB9B866Vz78UdxC,17,2006,show-tunes,0.424,0.502,10,-7.247,1,0.0286,0.834,0.000163,0.0746,0.108,104.125,168520,3
+J. Robert Spencer,With the Windows Rolled Down,0TY1WLav9NCnzESeeIPo8J,0,2020,show-tunes,0.455,0.551,0,-14.102,1,0.0345,0.207,0.0,0.198,0.346,129.775,243560,4
+Claude-Michel Schönberg,I Dreamed A Dream (Les Miserables),3L0YuZY0DxhvGdxMON7FTo,2,2022,show-tunes,0.215,0.339,7,-10.383,1,0.0325,0.826,0.697,0.122,0.24,134.005,221240,4
+Andrew Lloyd Webber,The Beautiful Game: Our Kind of Love,5ezfbRKtb7oytuGdasrozE,3,2001,show-tunes,0.164,0.114,9,-20.38,1,0.0396,0.967,0.939,0.0861,0.124,90.357,228360,3
+Karen Olivo,Built for Longing,1pqU5FYXH2eWFMCXisUO5N,8,2013,show-tunes,0.62,0.379,9,-8.502,1,0.0321,0.884,2.09e-05,0.315,0.186,139.912,199667,4
+Patti LuPone,A Cottage for Sale,3yedambzhM9QY685SR2Xfg,1,2006,show-tunes,0.491,0.0693,8,-18.294,1,0.0664,0.916,0.0,0.235,0.158,120.733,209267,4
+Alan Menken,Prince Ali,58vlBCiQpeOP1lJVJULLaR,0,2012,show-tunes,0.344,0.218,10,-21.565,0,0.044,0.992,3.21e-06,0.112,0.534,128.843,172600,4
+Andrew Lloyd Webber,You Can Get Away With Anything - Live At The Palace Theatre / Opening Night / 2004,5jsMHO0ROjOAbLUztRcPew,2,2004,show-tunes,0.368,0.341,11,-14.657,1,0.189,0.849,0.0,0.688,0.271,74.426,350587,4
+Claude-Michel Schönberg,Les misérables: I dreamed a dream,2gVS04HmowY66il6bW8N3G,5,2017,show-tunes,0.534,0.00456,0,-30.442,1,0.115,0.995,0.879,0.0734,0.29,75.298,146867,4
+Mandy Patinkin,Beautiful,1YduyAYE0FECHZkg6WxUxe,2,2002,show-tunes,0.292,0.0892,11,-20.399,0,0.0487,0.982,0.000979,0.197,0.129,78.935,162880,1
+Company,Daddy Sang Bass [1969],2c0QXkqEqAD7389g6vwNdQ,2,2008,show-tunes,0.659,0.711,2,-4.768,1,0.0943,0.723,0.0,0.0845,0.599,105.009,291160,4
+Frank Wildhorn,Winter Rhapsody,3MD8sKgISZRQauuFSjpEP2,0,2021,show-tunes,0.166,0.127,10,-16.634,1,0.0351,0.911,0.859,0.288,0.0623,78.096,466060,3
+Alan Menken,A whole New World (《阿拉丁》主題曲),7hgjxCcXLASmoWnOY6P9Ir,0,2015,show-tunes,0.452,0.252,2,-15.671,1,0.0323,0.405,0.0107,0.18,0.154,107.847,246584,4
+Renée Zellweger,San Francisco,0gFyCrDH1h3nQtKuCwar6T,3,2019,show-tunes,0.428,0.48,0,-7.496,0,0.0337,0.252,0.0,0.317,0.444,91.222,165133,4
+Alan Menken,A Whole New World (Aladdin)(432Hz Piano),477G0diZtoLlYPNJG1ACZO,5,2020,show-tunes,0.599,0.0944,0,-15.464,1,0.0474,0.992,0.911,0.102,0.245,121.986,301854,4
+Laura Bell Bundy,Drop On By,4oi1AzKxKpCrJ6XTb6r8Lm,16,2009,show-tunes,0.541,0.592,9,-5.923,1,0.0319,0.293,0.000116,0.228,0.518,80.533,189627,4
+Idina Menzel,White Christmas,3D3KklOixVL9Katdn9HsVA,15,2014,show-tunes,0.243,0.317,0,-7.421,1,0.0335,0.772,6.51e-05,0.241,0.0558,140.388,252040,3
+Patrick Stanke,Eye of the Tiger - Live,5C6tnAoW5Kzkk3yQzCyviO,0,2017,show-tunes,0.595,0.946,7,-2.329,1,0.154,0.152,9.2e-06,0.981,0.396,116.371,239693,4
+Orchester der Vereinigten Bühnen Wien,Die Stärke einer Frau (Live),1dvZveWcQy5eELtU72aqbP,23,2022,show-tunes,0.387,0.417,3,-8.084,0,0.0412,0.541,0.0,0.863,0.176,77.563,100108,4
+Lea Michele,"Oh, What A World",1b6bXlMsPidxLVz6B4P6TS,20,2021,show-tunes,0.394,0.338,4,-9.805,1,0.0328,0.797,0.000144,0.102,0.217,80.98,252419,4
+Liza Minnelli,"Ring Them Bells - Live In New York, NY/1972",3g34YaGF9ZdaIUrfzvPZ8S,1,2001,show-tunes,0.634,0.525,0,-8.425,1,0.464,0.746,0.0,0.759,0.799,124.103,336067,4
+Original Cast of Amélie,"Goodbye, Amelie",1soct2LOkcyAE72p9eeqcS,18,2017,show-tunes,0.351,0.56,4,-6.545,1,0.0821,0.741,8.65e-06,0.111,0.47,166.332,189840,4
+Maya Hakvoort,Our Time,3vM7BZfC7Zgvr22Zp4CqMT,0,2011,show-tunes,0.508,0.262,3,-14.338,1,0.0668,0.965,0.000467,0.965,0.349,93.65,200560,3
+Original Cast Vienna,Du bist meine Welt,6GR2mTiInqoZ6MZNprEOz0,2,2010,show-tunes,0.261,0.291,10,-11.936,1,0.0335,0.797,0.0,0.411,0.18,93.305,206280,3
+Liza Minnelli,Come Saturday Morning,1Nb8w4s11LiQJXsuQIWt73,1,2001,show-tunes,0.369,0.436,5,-10.151,1,0.0316,0.893,0.000134,0.143,0.449,87.197,106760,4
+Betsy Wolfe,Harthouse,4TDMLd92HMNUGPV3ZayJUH,0,2020,show-tunes,0.512,0.576,10,-8.817,1,0.0385,0.238,0.00366,0.0894,0.361,111.087,53041,3
+Nathan Lane,I Love to Travel (Reprise),07tXDiJotZhXyCYiSFQt6e,9,2012,show-tunes,0.686,0.494,9,-9.421,1,0.526,0.618,0.0,0.11,0.785,102.129,73173,4
+Pia Douwes,Helena,6OyvopShUoiGPbbdy3vqdo,2,2018,show-tunes,0.457,0.303,9,-8.675,1,0.0355,0.79,0.0,0.109,0.248,70.614,157173,5
+Andrew Lloyd Webber,Any Dream Will Do (From 'Joseph and the Amazing Technicolor Dreamcoat'),5iAtdO5q6d1xIZAg4cxpDA,18,2012,show-tunes,0.503,0.348,0,-12.376,1,0.0357,0.644,0.0,0.167,0.394,116.817,164227,4
+Andrew Lloyd Webber,Heaven By The Sea (Reprise),0oQJTOj5m3a3smHLlk9m7A,16,2010,show-tunes,0.48,0.666,0,-11.1,1,0.336,0.759,0.0,0.653,0.542,138.817,147973,4
+Linda Eder,Pirate Song,5v9zEYOsh5azIDCJFSK9gO,1,2005,show-tunes,0.564,0.33,1,-13.841,1,0.0926,0.944,0.00361,0.476,0.477,91.112,127520,4
+Lea Salonga,Introduction to Story of My Life (Live),5pKjNa4UlrekYilNhwpNus,9,2019,show-tunes,0.552,0.357,7,-20.675,0,0.946,0.699,0.0,0.284,0.437,171.457,68454,5
+Alan Menken,Escape - Remastered 2021,2Hjf5EKwuohuqHCxwVB5sl,6,2021,show-tunes,0.0835,0.0394,0,-25.207,1,0.0397,0.907,0.5,0.641,0.039,77.812,471267,5
+Andrew Lloyd Webber,Engel Der Muse - 1990 German Cast Recording Of “The Phantom Of The Opera”,2nW8HyBsTrhTXx3o3qyWRL,21,2022,show-tunes,0.321,0.25,9,-16.672,1,0.0407,0.899,0.000527,0.14,0.195,124.573,93067,1
+Danny Burstein,More More More! (Encore),5ByTSN9402oBlZ2E0IwjX3,43,2019,show-tunes,0.465,0.884,7,-3.881,1,0.182,0.044,1.5e-05,0.346,0.74,140.138,233187,4
+Brian D'Arcy James,When Words Fail,7sTipl0QI4XIA95xR0rFGh,36,2008,show-tunes,0.481,0.26,7,-10.659,1,0.0623,0.832,0.0,0.145,0.394,115.301,189400,3
+Original Cast Vienna,"Konferenzzimmer (Live) (From ""Rudolf - Affaire Mayerling"") - From ""Rudolf - Affaire Mayerling""",0Zcyt9LqxRlsPKtY1WcVlf,4,2011,show-tunes,0.634,0.573,4,-15.707,1,0.913,0.575,0.0,0.355,0.359,83.93,69867,4
+Laura Benanti,Home,2L8IIs4j9YCnKIDYF2I6bX,4,2003,show-tunes,0.355,0.368,7,-7.462,1,0.0372,0.917,0.0,0.206,0.147,113.696,378240,4
+Rob Fowler,Der Stärkste siegt,4eqfJ0VyvdVm7fkEXRhRf4,2,2008,show-tunes,0.63,0.561,8,-7.689,1,0.0378,0.559,0.0,0.063,0.212,118.022,213560,4
+Alan Menken,Jafar diventa sultano,7hi0Ox79WePg1rYxpSx2XX,6,2019,show-tunes,0.303,0.477,6,-9.022,0,0.0334,0.172,0.969,0.0703,0.0397,99.246,57428,4
+Liza Minnelli,I'll Build A Stairway To Paradise,1WcRDdAT2pcCbCxMPLn5rD,0,2001,show-tunes,0.491,0.484,8,-10.991,1,0.0513,0.703,0.0,0.814,0.779,110.549,126667,4
+Original Cast Dresden,Meine liebste Zeit,4yUpU4P0sTmtcJ4g3LQpzq,1,2015,show-tunes,0.357,0.223,7,-17.34,1,0.0573,0.851,0.0,0.932,0.471,133.804,216372,5
+Cheyenne Jackson,Before You,2Q8fZ7hMVWj49L1KgfG5oc,10,2013,show-tunes,0.492,0.749,11,-3.306,1,0.0366,0.0771,0.0,0.128,0.803,175.224,170518,4
+Christopher Jackson,Because of You,5J337O96UiAUkRjOblUOiw,0,2020,show-tunes,0.296,0.535,3,-6.434,1,0.0463,0.617,0.0,0.11,0.274,84.24,205080,4
+Mark Seibert,The Wellerman - Live,5Fw2xXxAslTuwbFeuJQl7m,11,2021,show-tunes,0.502,0.246,0,-11.788,0,0.0368,0.902,7.88e-06,0.142,0.332,78.949,184507,4
+Andrew Lloyd Webber,"High Flying Adored (From ""Evita"")",0EpgLC19gsBBdVAlEFnmuI,2,2021,show-tunes,0.684,0.259,5,-12.772,1,0.0325,0.665,1.99e-05,0.107,0.337,125.982,208587,4
+Frances Ruffelle,Hymne a L'Amour,3xWRqOC2RQFFoIdoK1jSY7,0,2015,show-tunes,0.317,0.356,3,-9.925,1,0.0326,0.377,3.93e-06,0.122,0.105,139.348,171323,4
+Andrew Lloyd Webber,Damned for All Time / Blood Money - Live,2K4ONn6cV8YwahBKy1DTUP,3,2018,show-tunes,0.199,0.671,7,-7.801,0,0.0557,0.368,0.0,0.222,0.227,84.217,405333,4
+Patrick Stanke,Have Yourself a Merry Little Christmas,47EJbwmBz7lnhywLhqQocJ,0,2021,show-tunes,0.35,0.115,9,-18.22,1,0.0319,0.974,6.71e-05,0.0958,0.14,140.025,239000,4
+Lin-Manuel Miranda,How Far I'll Go (From Vaiana),6MO9FC5zwJlrlyt9W1mQka,10,2017,show-tunes,0.326,0.271,3,-11.415,1,0.0337,0.9,0.929,0.336,0.147,76.895,176677,4
+Norbert Leo Butz,Home - Live,2dc3ZRkXPu4PevHK1LNKWL,0,2013,show-tunes,0.602,0.533,2,-8.937,1,0.255,0.515,1.12e-06,0.763,0.255,83.044,352533,4
+Lea Michele,If You Say So,6Fumoc72rTwXPGYwWUHhmh,44,2014,show-tunes,0.342,0.436,0,-5.932,1,0.03,0.61,0.0,0.0975,0.237,140.228,255293,4
+Felix Martin,Soliloquy (from TANZ DER VAMPIRE) - English Version of 'Die unstillbare Gier',1m7qNACmVsqrHuwO3p9b64,1,2005,show-tunes,0.444,0.248,2,-12.106,1,0.0523,0.871,5.68e-06,0.3,0.104,112.422,415400,4
+Jan Ammann,"Sieh zum Mond (Live) (Aus ""Doktor Schiwago"") - Aus ""Doktor Schiwago""",2dk7RSGkcKBuzksdbYaoRH,5,2019,show-tunes,0.336,0.0951,4,-17.678,1,0.0376,0.929,0.0,0.0494,0.139,83.74,199120,4
+Tourneecast 2011,Debrezin,40svlOemdMG223jVPoIJjp,7,2012,show-tunes,0.432,0.224,10,-17.885,0,0.0378,0.679,0.000966,0.17,0.0403,135.002,62240,4
+Andrew Lloyd Webber,"Macavity: The Mystery Cat - From ""Cats""",6CcEl4YbsLfhNkQ9yCFMNK,9,2018,show-tunes,0.496,0.281,7,-9.497,0,0.14,0.711,0.0,0.678,0.169,86.269,237427,4
+SMASH Cast,Let Me Be Your Star (SMASH Cast Version) (feat. Katharine McPhee & Megan Hilty),7p3U7sNusuZxawkLpMEIMa,27,2012,show-tunes,0.337,0.512,11,-7.522,1,0.0382,0.0432,0.0,0.159,0.148,146.614,192520,4
+Len Cariou,Our Love Is Here to Stay,3eopUGTbZ2jdyrjGtRKIJw,0,2017,show-tunes,0.5,0.194,10,-13.242,0,0.0636,0.868,0.0,0.0987,0.129,104.042,221187,3
+Alan Menken,Now's Our Chance,5LyMb5I0rhypNPlIGsxVAt,10,2015,show-tunes,0.274,0.225,0,-16.471,1,0.0325,0.885,0.95,0.104,0.309,144.675,65747,4
+Christian Schöne,So leb' dein Leben,7ygPeOENeExShi6oYhLjVy,0,2011,show-tunes,0.584,0.225,2,-12.512,1,0.0295,0.879,9.17e-05,0.0647,0.193,74.51,247507,4
+Liza Minnelli,Triplets - Live,5yEDaBKbaOdhPlgYlOPJpF,0,2000,show-tunes,0.657,0.793,7,-8.473,1,0.341,0.51,0.0,0.872,0.851,118.098,190733,4
+Liz Callaway,Better,0et8tT3XpeCWeRMmFhpIHn,0,2009,show-tunes,0.579,0.33,1,-8.384,1,0.0587,0.544,0.0,0.0735,0.505,82.894,198893,4
+Stephen Sondheim,Evening Primrose: If You Can Find Me I'm Here,1bQNCZQti3gE5TF3bigw1G,10,2001,show-tunes,0.484,0.268,9,-13.195,0,0.0388,0.737,0.0,0.0859,0.169,112.03,211400,1
+Charlotte Heinke,Herzwerk (Gutes Leben),1of1onSRNyXu5shvEYN6B3,0,2022,show-tunes,0.65,0.507,9,-8.925,1,0.0373,0.563,1.62e-05,0.0688,0.212,139.993,242947,4
+Idina Menzel,Surprise,5fRw4Fxzc5kHF9DgvMmDqp,17,2014,show-tunes,0.486,0.439,2,-8.488,1,0.0815,0.778,0.0,0.381,0.568,118.339,223427,4
+Company,V Rytmu Ranní Nálady,7hX5avMjxoKlqKlxyrFHd0,0,2008,show-tunes,0.542,0.436,0,-11.404,1,0.307,0.798,0.0,0.102,0.51,153.594,267507,4
+Julie Andrews,My Favorite Things,6nyuqOWNUNrDe88nWf9eTg,6,2021,show-tunes,0.622,0.247,1,-12.472,1,0.0758,0.87,0.0,0.14,0.627,114.417,140893,4
+Hunter Foster,God Answered My Prayers,7ronccWmD0ZcgLvowB39XZ,4,2013,show-tunes,0.381,0.381,11,-9.88,1,0.0378,0.59,0.000173,0.107,0.189,145.969,312840,4
+Company,The Saturday Night Medley,0YGy4l2IVbCsj82zgfWSjg,0,2007,show-tunes,0.519,0.607,10,-9.144,1,0.161,0.737,0.0,0.675,0.691,115.199,373640,4

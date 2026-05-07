@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Smithmonger,Things You Do - Breaks Mix,31RuvNEmj4xvgyTvtDFGl3,0,2015,breakbeat,0.719,0.808,11,-6.864,1,0.055,0.000173,0.827,0.0651,0.602,133.012,426485,4
+Rektchordz,Higher - Stretch Monroe Remix,1dohZoHpqJYija1741P3Sw,0,2013,breakbeat,0.799,0.955,7,-3.455,1,0.324,0.0103,0.149,0.0329,0.333,121.04,349561,4
+Midfield General,Reach Out - Radio Edit,3MeRoRS6LLLtUTDx6FcAm9,0,2000,breakbeat,0.471,0.568,0,-3.891,1,0.0432,0.00404,0.267,0.177,0.428,155.948,186253,4
+Meat Katie,Nutron,72eKoZDtz39j1rW6rVQIh5,3,2006,breakbeat,0.578,0.887,7,-7.52,1,0.0896,0.000146,0.762,0.0816,0.661,131.972,392947,4
+DJ Fixx,DOWN WITH IT,6kbnEViMqB4IcOCWm0DDxt,0,2019,breakbeat,0.863,0.951,1,-1.266,1,0.318,0.0103,0.00134,0.122,0.54,109.988,213818,4
+Merka,Rising Sky - Retrodub Remix,7FtFXoZLBIxcFsMB92uxsR,0,2007,breakbeat,0.599,0.972,6,-6.829,1,0.0481,0.0028,0.844,0.371,0.868,134.002,448747,4
+Freestylers,Could I Be Dreaming?,5hvH9Zo5yjB6zvhd4qOTpM,11,2006,breakbeat,0.58,0.905,5,-4.33,1,0.0311,0.00314,0.0,0.535,0.504,102.013,264640,4
+Rennie Pilgrem,Painstrippa,1ORnyN3z6ICPktUiqmahd5,0,2010,breakbeat,0.726,0.846,1,-5.374,1,0.048,0.000124,0.872,0.475,0.738,125.001,269240,4
+Aphrodite,See Thru It,1fQ94o282uPAKC9N7XV2y1,3,2002,breakbeat,0.616,0.879,1,-6.009,0,0.0698,0.000736,0.017,0.666,0.443,173.561,386107,4
+Lee Coombs,Future Sound of Retro - Remix,7jOZ5ysbJVPHlsUCH6egzf,0,2001,breakbeat,0.616,0.92,5,-7.751,1,0.0453,0.000337,0.884,0.0334,0.74,132.002,441229,4
+Son of the Electric Ghost,The Great & Terrible - Revelation,2qgIkS7ZeHGegzWWU1kKJ0,0,2004,breakbeat,0.71,0.754,9,-8.766,1,0.0651,0.0182,0.48,0.0552,0.386,130.989,303467,4
+Timo Maas,Dos Vida Loca - Apnoea Remix,62Yxog2kDVWJQEOML3A6TD,4,2021,breakbeat,0.752,0.703,7,-6.638,1,0.0499,0.00216,0.747,0.0981,0.256,123.011,423871,4
+DJ Fixx,Where We Go - Original Mix,1ynHOLNaPXhz1tenps5VWs,0,2020,breakbeat,0.62,0.946,8,-1.218,1,0.344,0.00932,0.00769,0.345,0.677,126.678,232421,5
+Etostone,Giabroum,5JWaXHgMMTTBsxDZmXyy8n,0,2010,breakbeat,0.652,0.866,1,-7.022,1,0.059,0.0537,0.917,0.13,0.572,130.028,405480,4
+The Brainkiller,Me & You - Original Mix,1Krlk6wRTE3X7xihXXexGg,1,2015,breakbeat,0.702,0.84,7,-5.651,0,0.0871,0.0279,0.0539,0.0551,0.382,131.994,415000,4
+Aquasky,Addiction - Chris Carter Vip Mix,2kdg1ZXp897FLQX41kw3gt,4,2006,breakbeat,0.785,0.64,6,-11.012,0,0.101,0.00201,0.752,0.0641,0.854,134.996,398133,4
+Overseer,Horndog - Radio Edit,2DXDUWixcI5lkixILQ94FC,6,2003,breakbeat,0.691,0.913,4,-2.92,1,0.0396,0.0305,0.0181,0.175,0.806,104.993,200213,4
+Hybrid,Power Curve - Original Version,1NqSBBmTCTwoAAqeaELNaK,13,2016,breakbeat,0.613,0.787,9,-8.437,0,0.0303,0.000718,0.876,0.109,0.323,122.008,291148,4
+Curtis B,Hit U Wit It - Original Mix,42Oey7joH5jVuCDtTWFhdm,0,2014,breakbeat,0.703,0.951,11,-5.837,0,0.0545,0.000289,0.863,0.0634,0.708,130.036,206769,4
+Plump DJs,Don't Let Go - Plump DJs Edit,5m7Ho5zLnDrSjHlRw7DBFV,0,2011,breakbeat,0.918,0.719,7,-7.336,1,0.0564,0.00348,0.692,0.15,0.0382,127.99,296231,4
+The Darrow Chem Syndicate,Tupolev 95 - Bad Legs Remix,1Zt8fahnuqsQtjMG2YIC6W,1,2021,breakbeat,0.617,0.928,9,-5.757,1,0.0404,0.00321,0.942,0.062,0.494,135.025,236463,4
+Aquasky,The Krush Groove - Aquasky vs. Masterblaster,1hXVQA7APy8xqQGOqWXeMY,0,2003,breakbeat,0.699,0.725,1,-7.477,1,0.0566,0.00171,0.73,0.0692,0.268,137.989,391653,4
+Huda Hudia,Bass Up,5AGEFBdT2NMCZbkRnDbltF,0,2018,breakbeat,0.649,0.986,10,-2.431,0,0.0693,0.00224,0.0662,0.043,0.899,129.984,228923,4
+DJ Fixx,What I Need,1zUArCkC3CSXWVZWR62AVo,0,2019,breakbeat,0.609,0.843,2,-3.812,1,0.123,0.089,0.000361,0.217,0.352,127.896,227000,4
+Future Funk Squad,Towards The Sun - FFS Radio Mix,5opnQ1qwPqBVAKs9NhEPbl,0,2009,breakbeat,0.642,0.857,7,-5.444,1,0.0377,0.0105,0.00556,0.0624,0.667,126.97,206467,4
+Huda Hudia,Ruff Bass,0DhKVZjRBhsW0YwhhVP6Nm,0,2019,breakbeat,0.62,0.961,4,-2.306,0,0.267,0.00983,0.0267,0.134,0.324,128.03,264375,4
+Baymont Bross,Handz Sky Up - Alex Mind Remix,0KeI7W8ApYUAMvl1COca8H,0,2011,breakbeat,0.832,0.638,8,-6.627,0,0.138,0.101,0.842,0.129,0.397,130.008,320000,4
+Freq Nasty,Mindsweeper,2pNMvvrOqI1QBcIS38ceCr,2,2019,breakbeat,0.767,0.868,1,-8.186,1,0.0552,0.00146,0.879,0.11,0.445,130.165,317653,4
+Afghan Headspin,Soundboy - Lorne Remix,6wl0NLnelr41HS1oXd6RsW,0,2022,breakbeat,0.629,0.888,5,-3.137,0,0.0465,0.000145,0.808,0.0906,0.271,173.981,222069,4
+Layo & Bushwacka!,The Big Dream,3fkrnm1YGc1c0MLaqH8Bmc,4,2012,breakbeat,0.711,0.186,1,-15.169,1,0.0418,0.19,0.919,0.107,0.19,123.998,374001,4
+Huda Hudia,Freak Poppin,05HatRmGWIXvcr7JKq0Ctk,0,2018,breakbeat,0.706,0.961,11,-5.483,1,0.0643,0.0289,0.00545,0.431,0.599,132.015,225455,4
+The Darrow Chem Syndicate,New Coker - Hankook vs Woter & Under Break Remix,6wFuGrP8Ifgklwbhaa1TFD,0,2022,breakbeat,0.638,0.996,1,-2.461,1,0.0508,0.000619,0.629,0.0468,0.844,129.987,255712,4
+The Crystal Method,Drown in the Now,4OWiFV0qBuw6fD0xIbJEUA,28,2009,breakbeat,0.576,0.841,7,-2.759,1,0.0366,0.26,9.96e-05,0.095,0.114,105.013,349013,4
+Lee Coombs,Acorde Masivo,7pJDJSWiUH8w8gogE2i9bm,0,2020,breakbeat,0.753,0.946,7,-6.015,1,0.0699,0.000186,0.841,0.163,0.526,125.989,438095,4
+Meat Katie,When You're Dead,7I0xrh7mUmAHb99lr1Hp3i,0,2016,breakbeat,0.672,0.61,5,-6.682,1,0.0409,0.00393,0.843,0.0837,0.204,127.995,439600,4
+Suga7,Yess Yall - Outselect Remix,3B0O7EpFXub3WLBxFjwIUt,0,2015,breakbeat,0.69,0.966,4,-3.508,0,0.0572,6.47e-05,0.867,0.0328,0.224,130.009,208615,4
+Ed Solo,Champion Lover - Ed Solo 2020 Remix,2470dtedNuj7qAsGlFc5Xi,10,2020,breakbeat,0.691,0.937,10,-3.71,0,0.138,0.000921,0.0238,0.2,0.839,174.172,250057,4
+DJ Icey,Lockin',7inzqxLW0kQx53ErmkEWK5,10,2016,breakbeat,0.73,0.838,1,-5.422,1,0.0347,0.00119,0.639,0.116,0.222,127.993,197093,4
+The Brainkiller,Powerful,6gHCm1HpRnurNMwPmFKTTI,0,2018,breakbeat,0.731,0.838,6,-2.978,0,0.0356,0.00393,0.128,0.115,0.244,132.037,303630,4
+Lee Coombs,Blues I'm Singing - Lee Coombs Analog Delayed Remix,189p2DS66tYP23m3A5sRat,0,2019,breakbeat,0.734,0.579,9,-8.449,1,0.0484,0.00155,0.0782,0.0685,0.52,125.995,386612,4
+The Breakfastaz,Green Light - Original Mix,14cWvz8qrYpqE28cOK53Yy,16,2004,breakbeat,0.622,0.927,1,-7.473,1,0.0413,0.000289,0.845,0.0422,0.385,136.981,476760,4
+Colombo,I'm Sorry,43wiHzFQFsecD0CdVXlyY7,5,2016,breakbeat,0.786,0.974,11,-7.663,0,0.0826,0.000289,0.412,0.0216,0.834,134.0,372542,4
+OnDaMiKe,OnDaMiKe Anthem - Original Mix,0sDvpMCa0TYFnmiBhkMDw9,3,2022,breakbeat,0.849,0.908,2,-3.907,1,0.13,0.00111,0.00731,0.26,0.265,130.052,241846,4
+Lionrock,Packet Of Peace - Spektre Remix,5KLPrpYxCwihUcuSY0w13k,2,2009,breakbeat,0.734,0.795,2,-8.644,1,0.0409,0.000945,0.315,0.0688,0.0395,127.005,458987,4
+Slyde,Kiss Kiss Bang Bang,2hozWUlsvWZOCiflVXhket,10,2008,breakbeat,0.761,0.566,6,-8.088,1,0.0626,0.000261,0.0549,0.0464,0.717,134.988,390760,4
+Dan F,Double Take,0nLe66sEqST3P6RriWsSyP,0,2021,breakbeat,0.712,0.538,10,-12.55,0,0.0556,0.000507,0.865,0.137,0.625,133.999,395127,4
+Cut La Roc,Jack Once Again,4hvZ9UIZhSFvToceAcem6O,0,2020,breakbeat,0.894,0.494,0,-10.004,1,0.0465,0.00173,0.891,0.171,0.607,120.004,280781,4
+DJ Fixx,First Bass,4Nkm8ww8OW8HCjIu7JCOHu,0,2019,breakbeat,0.826,0.934,5,-2.162,0,0.197,0.00435,7.3e-05,0.0981,0.352,135.016,190222,4
+Orbital,What a Surprise (feat. The Little Pest),06A28LYsX4GYnNMiOG6P4r,36,2023,breakbeat,0.63,0.857,11,-7.089,1,0.0514,0.0232,0.366,0.0997,0.679,140.121,231293,4
+Baymont Bross,Rock The House - Big Bass Album Mix,59xQY9KGjYwHYfIwIhDvqs,0,2017,breakbeat,0.752,0.879,2,-4.338,1,0.0605,0.0346,0.41,0.0567,0.753,129.978,326485,4
+Bassnectar,Window Seat (feat. Double You),19oe5rjskhk4BYz10c0zeG,16,2009,breakbeat,0.531,0.742,11,-8.983,1,0.0738,0.00456,0.232,0.0772,0.102,179.99,436000,4
+Colombo,Locomotion - Original Mix,0Fx78bFAsHnU16If0WUWIw,1,2021,breakbeat,0.809,0.669,11,-6.338,1,0.0675,0.000374,0.639,0.05,0.559,134.02,489573,4
+Future Funk Squad,Hands Up - Future Funk Squad Remix,46M3swYPsz1RRAwL3d220h,6,2022,breakbeat,0.672,0.985,1,-4.532,1,0.0843,0.000502,0.0445,0.578,0.594,127.002,328819,4
+Meat Katie,Roll Player - Specimen A Remix,2IppLky5JfX8o0XC7F98ml,0,2016,breakbeat,0.643,0.848,2,-5.519,0,0.0412,0.000178,0.776,0.165,0.279,130.047,354915,4
+Bentley Rhythm Ace,Run On the Spot,4Q4iw5v3x4EdRbAJSf3p6R,0,2020,breakbeat,0.739,0.927,7,-7.2,1,0.0368,0.00543,0.842,0.355,0.838,130.992,310867,4
+Beat Assassins,Deny (feat. ELi) - Original,1Ey79XK4IHLY9Lasbk3SSA,0,2016,breakbeat,0.495,0.819,4,-3.601,0,0.0366,0.000292,0.195,0.0421,0.157,173.951,223448,4
+Baymont Bross,Wise & Start (feat. Javo Scratch) - The Brainkiller Remix,7ot9tiO6mJ4kpC0Knb10dd,10,2019,breakbeat,0.765,0.962,6,-1.139,0,0.119,0.00708,0.0453,0.105,0.743,131.981,267240,4
+Rektchordz,We Shake Down,4qztKOXOd3v6vRKCHlKChX,0,2011,breakbeat,0.813,0.773,9,-7.361,0,0.0977,1.66e-05,0.913,0.095,0.181,127.989,331964,4
+Dub Pistols,Our Life,1kE3DfAlqUe45sBmWh5a9G,6,2015,breakbeat,0.538,0.712,0,-7.542,1,0.0481,0.000494,0.455,0.0814,0.417,175.06,355652,4
+Plump DJs,Dreamland - Pirate Jams Remix (Radio Edit),1EZkvQyjnvcBtPll8gklpf,10,2022,breakbeat,0.547,0.961,7,-3.246,1,0.0363,0.00101,0.0365,0.023,0.482,127.973,323493,4
+Huda Hudia,Feels Good,0WkEnsJrVZLqOEelQtTKnR,0,2006,breakbeat,0.783,0.802,0,-10.278,1,0.0561,0.000205,0.725,0.0792,0.443,136.016,385829,4
+Huda Hudia,Moonlight Serenade,3U7aj0aTLHnFXelCNjhnsT,0,2020,breakbeat,0.877,0.83,7,-5.434,0,0.167,0.00922,0.00236,0.0999,0.612,127.999,228750,4
+Hybrid,We Are Fearless,4Bc7c7hdtefSzyVIwyNHBa,20,2018,breakbeat,0.504,0.874,0,-8.169,0,0.044,0.00016,0.305,0.373,0.0485,122.008,379167,4
+OnDaMiKe,90's Head Strong - Original Mix,7zzYGzIUWzlyXYG91YcyKG,0,2017,breakbeat,0.704,0.529,7,-11.859,1,0.066,0.000657,0.479,0.0362,0.358,131.912,316420,4
+Suga7,Hard One,5s7TVQGwDamnoLXRdFFgcc,11,2022,breakbeat,0.709,0.898,11,-3.198,0,0.058,0.0294,0.564,0.192,0.512,132.047,250909,4
+Hankook,The Beat - Original Mix,4Gz1EEASz71fj65eP4mdbG,0,2014,breakbeat,0.769,0.793,1,-5.696,1,0.136,0.00226,0.824,0.071,0.812,133.018,354498,4
+Freestylers,"Weekend Song - 12"" Version",1zp4lw1W6p16lqls2de5ZO,0,2002,breakbeat,0.865,0.545,11,-12.35,1,0.105,0.034,3.93e-05,0.0555,0.638,109.899,338354,4
+Bassnectar,Above and Beyond,1L6vkK5QANbenFLzn2kHgA,21,2011,breakbeat,0.32,0.795,7,-3.652,0,0.0374,2.99e-05,0.856,0.0854,0.146,80.801,237037,4
+Bassnectar,Don't Hate The 808 (feat. Lafa Taylor),49viJ9t6ifbJ856X3XN17Z,33,2014,breakbeat,0.511,0.97,5,-2.299,1,0.0531,0.000337,1.39e-05,0.402,0.27,160.044,197250,4
+A.Skillz,Who Am I,67cqMLHS5yer8a51K48Yng,0,2018,breakbeat,0.616,0.803,7,-2.697,1,0.335,0.0218,0.0,0.281,0.495,94.593,300000,4
+Colombo,Hanss - Dubstep Mix,6f1nGZ2f1s2SSNukVOtPU4,0,2012,breakbeat,0.741,0.923,10,-5.938,0,0.0507,0.0132,0.153,0.073,0.868,137.965,396400,4
+Freddy Fresh,Low Gravity,3UFJAeAiHjkzJ2JnxH7jlQ,0,2018,breakbeat,0.596,0.938,1,-5.705,1,0.0557,0.0483,0.523,0.255,0.951,166.006,317349,4
+Deekline,Sugar & Spice,1ey2UB0EcgDVdS0qJqOXbe,9,2018,breakbeat,0.719,0.887,0,-2.489,1,0.0332,0.000145,0.769,0.0839,0.557,129.995,288000,4
+OnDaMiKe,Electric Body Movement - Original Mix,38ZyVX4YxyrD6XdyLnFsfK,1,2022,breakbeat,0.676,0.923,7,-3.975,0,0.0415,0.000499,0.000236,0.33,0.201,132.027,210909,4
+Baymont Bross,Dandome de Respirar,7hyzwTMqnDBvHN0AzLaMb5,0,2018,breakbeat,0.648,0.813,9,-5.816,0,0.0356,0.056,2.56e-05,0.0506,0.732,149.945,240065,4
+Rektchordz,Dropkey - Original Mix,4oq1msPTWf7n45glozH2Ai,0,2015,breakbeat,0.709,0.746,10,-7.023,0,0.0864,0.000145,0.887,0.0807,0.113,121.995,458796,4
+The Crystal Method,Over It - Audiobotz Remix,6nhRpORYHEo8BVku6CSgGx,4,2015,breakbeat,0.496,0.752,10,-4.541,0,0.0355,2.02e-05,0.288,0.0931,0.114,135.029,317615,4
+Freq Nasty,Dread at the Controls - Culprate Remix,5oLTpSVTLLIODzC2njJrER,0,2017,breakbeat,0.761,0.7,7,-5.147,1,0.272,0.00301,0.389,0.0892,0.34,139.918,302063,4
+Fluke,Groovy Feeling,3BLe9XIJAHFV24SV61kLPS,6,2001,breakbeat,0.593,0.608,1,-12.712,1,0.0345,0.00118,0.824,0.329,0.193,122.919,471573,4
+Orbital,Oi!,6O51B7aAeUfrchqfhqWvnO,17,2001,breakbeat,0.77,0.803,2,-7.483,1,0.0517,0.00679,0.262,0.712,0.365,116.991,304040,4
+Elite Force,Melodik Hypnotik - Original 2003 Mix,31cZgz7kQhhDgxP3kV2GQ4,0,2008,breakbeat,0.644,0.868,5,-8.664,0,0.0512,0.00311,0.836,0.252,0.251,131.99,509108,4
+Nick Thayer,Fly Shit featuring Mikill Pane - Explicit Mix,3OGJr8t6UG75vJ4HxTrcv5,0,2015,breakbeat,0.701,0.877,11,-3.437,0,0.135,0.00199,0.0142,0.239,0.402,170.054,201176,4
+DJ Fixx,Chasing Stars - Original Mix,2hJdyoy0SgKgm4psgLgZeK,0,2020,breakbeat,0.548,0.792,1,-6.468,1,0.121,0.154,0.00935,0.0667,0.452,170.054,214379,4
+The Prodigy,Roadblox - The Jaguar Skills Ninja Terminator Remix,7kgeabHafHW7uzsE5zHtRR,7,2015,breakbeat,0.47,0.977,9,-3.454,1,0.262,5.57e-05,0.362,0.0774,0.458,174.002,258529,4
+Freddy Fresh,Owl Theme,25vMgIAqx5pyCgTp6Bswdb,0,2022,breakbeat,0.661,0.454,0,-15.62,1,0.0387,0.235,0.892,0.0972,0.472,162.001,388234,4
+The Darrow Chem Syndicate,Happy Fluid - DA FISH & Bad Legs Remix,7iPIdaQvYI5YMa39tXjL1c,3,2022,breakbeat,0.698,0.989,7,-2.081,1,0.0707,0.00642,0.636,0.038,0.654,127.996,247500,4
+Suga7,Rhythm - Original Mix,55gH783TkFAldtWHMgt2IE,0,2016,breakbeat,0.797,0.701,7,-7.002,1,0.0582,0.00113,0.898,0.0605,0.374,130.001,304865,4
+The Brainkiller,Music & Science - Guau Remix,2eiOin8IVJx5FHlbJo6TXM,1,2014,breakbeat,0.664,0.922,8,-4.71,1,0.0629,0.000175,0.873,0.0608,0.265,132.014,327273,4
+DJ Icey,Going Back,53BZVU88pXCnstZ8i1XnA1,15,2021,breakbeat,0.747,0.9,3,-5.006,1,0.0395,0.00179,2.72e-05,0.0745,0.538,122.943,144390,4
+Nick Thayer,What Props Ya Got,2myR2r0nv3vmH2SpazHnw4,1,2012,breakbeat,0.632,0.92,6,-5.793,1,0.242,0.00138,0.0177,0.946,0.646,173.99,277680,4
+General Midi,The Eastoner,6ANFYQWACIRtJ6jMX9QTLE,26,2005,breakbeat,0.598,0.355,6,-15.187,0,0.0293,0.0966,0.85,0.167,0.302,134.002,323896,4
+Shade k,Zelda's Story - Original Mix,6PYoODMBHopzuw64lNDSfv,0,2015,breakbeat,0.743,0.88,9,-4.492,1,0.0776,0.000705,0.845,0.185,0.559,129.981,186920,4
+Atomic Hooligan,Who Stole Monkey's Clothes - POD & Jay Cunning Remix,6yFbqE3grkoo7IiOh0Xqxy,0,2005,breakbeat,0.619,0.939,1,-6.267,1,0.0403,0.00063,0.846,0.138,0.111,130.967,307853,4
+Beber,Travelling On - Koma & Bones Remix,7INTsfAjjgK2QAUO5aGvK7,0,2001,breakbeat,0.615,0.894,10,-8.554,0,0.0571,0.000811,0.658,0.0411,0.937,135.039,530293,4
+Yo Speed,Earthquake,1MYm39Kb7Xq7YUqVwvSKVQ,0,2018,breakbeat,0.412,0.952,6,-4.083,1,0.0544,0.00123,0.542,0.111,0.308,129.922,273231,4
+Etostone,For Eternity - Killer Bassline Remix,5nbjVeeQEslYu8A6YNe35e,0,2012,breakbeat,0.705,0.619,8,-6.798,0,0.0605,3.6e-05,0.0331,0.0562,0.731,128.01,322061,4
+OnDaMiKe,Swag Twerk - Original Mix,1Gj9jlD0G1wrsl1Gidpv6g,0,2018,breakbeat,0.794,0.972,1,-5.141,0,0.0897,0.0113,0.815,0.036,0.85,129.984,254769,4
+Meat Katie,Thirteen Coils - Guau Remix,5LB6ph16KdbnvpVad1TwII,15,2020,breakbeat,0.578,0.972,0,-4.082,1,0.0531,0.00909,0.9,0.229,0.576,129.992,254769,4
+Krafty Kuts,Who's the DJ,2jepWtBWm1vRVWMlUoGGyJ,15,2017,breakbeat,0.697,0.813,1,-3.951,1,0.304,0.0191,0.0,0.0661,0.824,100.171,213984,4
+Huda Hudia,Represent That Shiz,5OA15PUeEsSzg1idSkYAet,0,2018,breakbeat,0.794,0.871,2,-1.938,1,0.231,0.0219,0.000101,0.041,0.312,130.048,214154,4
+Beat Assassins,Crazy (feat. Alex Holmes) - SKMA Remix,4iAIwXu5RIDZtq6t2nsBlL,0,2017,breakbeat,0.51,0.835,6,-3.987,0,0.0392,7.51e-05,0.65,0.151,0.0346,173.974,333203,4
+Shade k,Sensei Gotcha,1HMKpYNgGRyS3XvlA4qzqS,0,2018,breakbeat,0.824,0.927,6,-5.323,1,0.0717,0.00148,0.22,0.0827,0.791,130.007,247375,4
+ILS,No Regrets,3R1WEs4fqtDR06Fkpma5Hz,3,2013,breakbeat,0.516,0.782,4,-7.662,0,0.0357,0.00158,0.208,0.0859,0.0684,155.99,278727,4
+Aquasky,Another Dimension,5duJGBw1inz6cFExIGJW9u,0,2014,breakbeat,0.841,0.756,5,-6.738,0,0.396,1.8e-05,0.0406,0.0361,0.328,125.973,385544,4
+The Crystal Method,Falling Hard (feat. Meiko) - Peace Mix,33zEzuB0EtshBAg7VKpA8V,2,2015,breakbeat,0.675,0.551,11,-9.522,0,0.0285,0.56,0.000228,0.083,0.482,120.023,266240,4
+Merka,Back Home - Original,26mZ1lAeTdLPTdhchxya6K,0,2008,breakbeat,0.803,0.77,5,-6.544,0,0.114,0.15,0.000307,0.268,0.62,133.956,258973,4
+Freddy Fresh,Paths,5Ua9JHSsLbyuLm6NsxDi5m,0,2003,breakbeat,0.829,0.799,2,-8.162,1,0.045,0.046,0.494,0.077,0.642,111.021,338107,4
+Deekline,Let The Music Play - Edit,0gznunE8ldVgToSWaFLUTo,9,2020,breakbeat,0.67,0.821,8,-1.584,1,0.0373,0.0271,3.72e-06,0.0572,0.524,86.994,178966,4
+The Darrow Chem Syndicate,You Don't Know Yours - Kid Panel Remix,13SSzCpJeRSYpRsRtLeuC6,0,2021,breakbeat,0.61,0.97,5,-2.669,0,0.0467,0.00289,0.689,0.0296,0.705,129.986,251077,4
+Colombo,Found My Peace (feat. BBK) - Original Mix,0YipB0EyhR7FBcPxFnRLB9,7,2015,breakbeat,0.772,0.65,1,-7.668,1,0.0656,0.00039,0.653,0.106,0.341,134.02,402868,4
+Meat Katie,Momento - Original Mix,62HPnN5LGaL3S7A0cWun6P,0,2016,breakbeat,0.791,0.714,8,-3.507,1,0.089,0.000693,0.83,0.0701,0.363,129.999,416428,4
+Etostone,For Eternity - Radio Gagga Edit,13zsvpjDzVnKiaiiYlIFlb,0,2012,breakbeat,0.586,0.837,8,-5.394,0,0.0488,0.00135,3.57e-06,0.132,0.495,128.039,185017,4
+Baobinga,South Manchester Weather - Caninesounds North London Remix,0BSAQfI1RvgIgMIHCkAh8F,0,2008,breakbeat,0.798,0.714,9,-7.848,0,0.055,0.00381,0.887,0.161,0.42,128.008,391187,4
+Beat Assassins,The Raid - Jay C Remix,190PZBJOrJ5lTLyMOgCj7C,0,2016,breakbeat,0.71,0.97,9,-5.386,1,0.0668,0.00498,0.75,0.114,0.8,125.0,406126,4
+Colombo,Your Dream Will Go - Original Mix,4vbQHDRVim32a6sjdY6Vzz,1,2017,breakbeat,0.9,0.79,1,-7.064,1,0.231,0.000569,0.601,0.0548,0.64,134.01,458777,4
+The Brainkiller,Drama,2zsGslSibPsAGzbiT1e8sm,0,2020,breakbeat,0.589,0.91,5,-2.126,0,0.0528,0.0082,0.141,0.441,0.161,131.993,298636,4
+Suga7,No Law,0RnbHLeKHjRyH707wZlOmH,2,2021,breakbeat,0.661,0.93,5,-3.973,0,0.0438,0.00209,0.621,0.094,0.205,131.993,332732,4
+Adam Freeland,Reality 3D,6PiQsHXZmcd7KnFbwO3CYv,7,2003,breakbeat,0.708,0.792,7,-8.317,1,0.0509,0.000537,0.573,0.445,0.257,128.029,299227,4
+Suga7,Flavor,0ctoCL8lJiyHE4y1rC7Jd0,1,2017,breakbeat,0.723,0.833,8,-6.823,0,0.0623,0.0205,0.196,0.148,0.711,130.014,251317,4
+Evil Nine,The Night,0HaYJlBZ02U5ocQGimjP5P,2,2009,breakbeat,0.356,0.661,10,-4.587,0,0.0584,0.00285,0.000196,0.0742,0.29,125.006,364507,4
+Shade k,Tobacco,6Eh5lwGpTR0q68GQ0G6mnl,0,2016,breakbeat,0.705,0.938,2,-5.997,1,0.0571,0.00518,0.000879,0.112,0.631,128.028,210664,4
+Digital Base,Schranzinger,7uKL7aRoHWnGn9yXK7HxcX,3,2023,breakbeat,0.789,0.959,10,-7.48,0,0.081,0.124,0.798,0.0466,0.488,129.987,415765,4
+Freq Nasty,Punkadelic - Radioactive Man Remix,20iAX76Wv18UL436ndaTks,0,2010,breakbeat,0.774,0.76,11,-6.457,0,0.0435,0.000397,0.865,0.0868,0.209,132.98,339360,4
+Fluke,Blue Sky,33IsnsNLlgIhJMxw95UG6F,9,2003,breakbeat,0.527,0.69,6,-9.225,0,0.0568,0.291,0.038,0.0851,0.473,87.004,348920,4
+Force Mass Motion,Collision Course,7DczU7Iep6l90ef2sxT11L,0,2019,breakbeat,0.617,0.984,7,-5.764,1,0.0499,0.000205,0.893,0.22,0.778,149.967,325168,4
+Hybrid,Break My Soul - Hybrid's Kill City Sounds Dub 01,6hhdizpmLSBuYM4LWIk70R,2,2010,breakbeat,0.588,0.74,10,-10.573,0,0.0389,0.00306,0.745,0.752,0.137,127.993,442500,4
+Hybrid,Dreaming Your Dreams - Original,2isjz1SycoE4LtzCPGFM9s,9,2000,breakbeat,0.619,0.874,0,-9.07,0,0.0405,0.0808,0.812,0.601,0.358,134.113,433187,4
+Roni Size,All the Crew Big Up,1G4NdDPhhj7suj0gX77ayC,4,2015,breakbeat,0.65,0.921,9,-7.473,0,0.0654,0.000758,0.89,0.126,0.518,160.028,319118,4
+Digital Base,Breaker's Song,0fijkcGgGHGXvr216Y4u3E,0,2020,breakbeat,0.754,0.995,1,-1.377,1,0.0862,0.00242,0.427,0.0512,0.468,129.979,269543,4
+Deekline,Every 1,7mpOjCALovZyWkNiIPp3Dv,5,2021,breakbeat,0.668,0.938,2,-4.833,1,0.0425,0.00651,0.916,0.0872,0.384,127.97,336094,4
+Afghan Headspin,Going Down - Skin Teeth Remix,7xzQbQpcHtt7DRLBEmlD6r,0,2022,breakbeat,0.563,0.995,11,-3.242,0,0.095,0.00123,0.426,0.391,0.286,139.985,383293,4
+Lo Fidelity Allstars,Battleflag (feat. Pigeonhed),3sIECaqZOSDpZF57PpHK6X,5,2001,breakbeat,0.663,0.868,10,-9.624,0,0.112,0.0399,3.43e-05,0.0485,0.348,100.481,339240,4
+Deekline,Go Down Baby - Original Mix,3eJbqGB6x1XJMOhpzkatiS,0,2012,breakbeat,0.667,0.988,6,-3.626,1,0.074,0.000645,0.45,0.162,0.961,154.966,215613,4
+OnDaMiKe,Know How Bass - Bass ReWrk Mix,6R4vfBTbKvTTzyNlOZWPAs,0,2021,breakbeat,0.799,0.964,2,-2.19,1,0.0693,0.000152,0.162,0.0264,0.258,129.976,225231,4
+Quadrat Beat,Broken - Shockillaz Remix,4MtzLvFbsXeKl3Jv7ri0T6,0,2014,breakbeat,0.728,0.951,8,-4.158,0,0.133,0.00289,0.142,0.314,0.487,132.962,239098,4
+Huda Hudia,We Got That Funk - Underground Utopia Remix,5DiNZ9cRV1td7mrzY2B0Kr,0,2017,breakbeat,0.657,0.813,11,-8.335,0,0.0424,0.0023,0.198,0.0298,0.237,133.956,255500,4
+Earth Leakage Trip,Everso - Original Mix,0k1RXD6DWF6DiFWTb4242t,0,2012,breakbeat,0.404,0.977,10,-6.29,0,0.0893,0.0786,0.696,0.853,0.527,76.196,211013,5
+Stanton Warriors,Get Low - UFO Project Remix,111aVPC8c8jHhCZeHULfVC,3,2017,breakbeat,0.841,0.826,5,-5.707,0,0.0759,0.0454,0.0254,0.191,0.375,127.0,310404,4
+The Crystal Method,Born Too Slow - Erick Morillo Dub Mix,1HH4rGvli47Qlv05lrW26B,1,2003,breakbeat,0.715,0.845,6,-6.523,0,0.0306,0.000304,0.873,0.679,0.599,130.032,430000,4
+Shade k,Mortal,1dpyEpcVYap3jEMz6V69Gk,16,2021,breakbeat,0.557,0.958,8,-5.165,1,0.0975,0.000836,0.0738,0.09,0.315,135.259,223338,4
+The Darrow Chem Syndicate,Lousy Human Bastards - Kid Panel Remix,6dcOcRfek5QPS1JKgX7T1f,0,2018,breakbeat,0.632,0.947,9,-4.465,1,0.104,0.00165,0.652,0.0921,0.62,128.02,210000,4
+Future Funk Squad,Zones - Karton Remix,3lZKA2ShT23NVx1ybYHt26,5,2010,breakbeat,0.58,0.944,0,-6.154,0,0.0545,1.28e-05,0.912,0.435,0.541,131.996,389300,4
+The Prodigy,Invaders Must Die,1j6lrR4BzRGKwvAPfrIcbf,55,2009,breakbeat,0.606,0.9,6,-5.168,1,0.0547,0.000508,0.901,0.112,0.115,140.035,295027,4
+Hybrid,Disappear Here - Losers Mix,1ytPrXf0yr89rDIIBqE3Ve,0,2010,breakbeat,0.57,0.732,6,-5.923,1,0.0455,0.00156,0.00291,0.12,0.146,135.018,389980,4
+Ed Solo,Love Your Life,0Hh1aLHlILgOvu2Ysa45os,27,2017,breakbeat,0.843,0.904,9,-3.345,0,0.0363,0.0548,0.469,0.262,0.927,137.963,297882,4
+Colombo,Brightness - Seth Vogt Remix,74dbXd19QDRZ82UJxpT9Tj,0,2015,breakbeat,0.658,0.776,10,-5.567,0,0.0465,0.000257,0.87,0.0457,0.7,134.02,263283,4
+Bassnectar,Disrupt The System,31sEpdUSf06bxRuyto4cJS,22,2017,breakbeat,0.643,0.994,9,-3.574,1,0.0516,0.000739,0.234,0.13,0.795,139.982,210857,4
+Huda Hudia,Drop The Bass Now '18 - Si-Dogs Triple Dog Dare Remix,1eSQAkVar1xkbsy5TECo9J,0,2018,breakbeat,0.72,0.977,2,-4.99,1,0.0526,0.00134,0.726,0.286,0.525,129.995,339692,4
+Lo Fidelity Allstars,Vision Incision - Edit,42X4MK8upaYlzMBALaa2j4,0,2007,breakbeat,0.568,0.918,7,-5.019,0,0.0562,0.0503,0.0944,0.338,0.35,129.927,334493,4
+Rennie Pilgrem,Drumma - Original,2nCroKhVcsmVzrxGhkAiSW,0,2008,breakbeat,0.763,0.697,8,-6.834,1,0.067,4.37e-05,0.925,0.0864,0.626,135.974,414027,4
+Elite Force,Scrammed,0qurJ7cVLUZA5Qi6hLcwQY,1,2010,breakbeat,0.8,0.839,10,-4.781,0,0.0638,0.00043,0.757,0.261,0.708,132.016,368527,4
+A.Skillz,Gimme The Breaks,6Vscehmox5Kk11j9w1RARs,7,2003,breakbeat,0.769,0.856,7,-7.505,1,0.0688,0.00345,2.62e-05,0.296,0.744,113.964,303427,4
+Noisia,Into Dust - Current Value Remix,2p7jbrMIDeHaaGSHc911zZ,14,2022,breakbeat,0.48,0.959,8,-2.69,1,0.457,0.00789,0.907,0.0971,0.147,171.971,276977,4
+Huda Hudia,Your Good-Bye,5nFAJ7gwCpw7nGZVOFr9fy,1,2007,breakbeat,0.782,0.537,6,-10.709,0,0.0619,0.0163,0.739,0.0511,0.96,135.997,438015,4
+Deekline,The Place Is On Fire,1V1AbOYwAxu6Gmm5iwPiC0,1,2021,breakbeat,0.792,0.85,11,-7.591,0,0.0649,0.000866,0.000554,0.106,0.774,128.029,232500,4
+The Brainkiller,Narcotic (feat. V.Aparicio) - Original Mix,4evyujoDgjks4xYzzzesK2,0,2015,breakbeat,0.708,0.677,11,-5.123,0,0.0447,0.0203,0.814,0.236,0.678,132.019,431818,4
+Midfield General,Noel's House Party (feat. Noel Fielding),5Va3lN2TYwFVemKCIuovvW,0,2001,breakbeat,0.709,0.961,1,-6.447,1,0.0518,0.000205,0.817,0.0726,0.147,129.973,356227,4
+The Brainkiller,Stop & Star - The Brainkiller Remix,6LmVotG77jbLCGSWoPsOzB,0,2014,breakbeat,0.742,0.761,7,-5.876,1,0.0555,0.00066,0.23,0.523,0.368,132.024,305455,4
+The Body Snatchers,I Like What I See,4VjeIPEvJPAHpX1U7xnvqJ,0,2008,breakbeat,0.738,0.605,11,-6.499,0,0.104,0.000361,0.0,0.0503,0.861,99.014,185480,4
+OnDaMiKe,Get It Poppin - Original Mix,0cwr3HCZbfyV4GXwPVDfIi,7,2023,breakbeat,0.635,0.985,10,-3.786,0,0.0899,0.000304,0.274,0.329,0.495,129.946,270692,4
+The Autobots,The Future,4PcKpltQujU8XMSixts8Hk,0,2004,breakbeat,0.634,0.954,6,-7.483,1,0.0576,0.000516,0.926,0.0613,0.603,135.006,406439,4
+Bassnectar,Bomb the Blocks - Magik Johnson Remix,5fvxP4jAL00UJs75ZPZYg3,2,2012,breakbeat,0.821,0.766,1,-9.711,1,0.0558,0.000235,0.705,0.0438,0.19,125.0,389180,4
+General Midi,Never Gonna Stop The Show - Way Out West Mix,3SQ0r8QnKIvQJOSiQgVje1,0,2006,breakbeat,0.707,0.844,6,-13.1,1,0.06,0.0197,0.128,0.0783,0.906,127.986,382500,4
+Colombo,Laud VIP,6CVSDY0K2ptMyjCUXdwEo3,13,2022,breakbeat,0.677,0.848,11,-8.893,1,0.0475,0.00419,0.773,0.0772,0.151,133.978,403000,4
+Colombo,No Good - Original Mix,1R1oldgjJabaYfcFQfrgFi,1,2015,breakbeat,0.725,0.82,8,-6.331,1,0.0497,0.0272,0.874,0.118,0.645,133.981,376166,4
+Elite Force,Engine - 2019 Remaster,2K6mcLQBogOTJHIyJzxbI1,2,2019,breakbeat,0.722,0.791,11,-6.628,0,0.0695,0.00318,0.346,0.668,0.439,128.02,465313,4
+Datsik,Domino,6lVldDvIUGtTOKVAgoo86w,8,2011,breakbeat,0.351,0.913,11,-5.819,1,0.0398,0.000342,0.634,0.208,0.235,105.032,278239,3
+Huda Hudia,Angels,2mNIWb1sTIwTnvYzQLanlK,0,2019,breakbeat,0.682,0.881,1,-2.831,1,0.111,0.00221,0.0333,0.112,0.353,133.039,263459,4
+Shade k,Baked Beans - Original Mix,4NvXTRKe8luA4VZOKGSnpH,0,2014,breakbeat,0.494,0.97,10,-6.097,0,0.0434,4.68e-05,0.808,0.362,0.332,135.064,297982,4
+Huda Hudia,Jhakass,0EsOx8ADGIhzvJv0vZppxY,0,2018,breakbeat,0.739,0.886,11,-3.266,1,0.0533,0.0405,0.317,0.0489,0.936,132.015,254545,4
+Beat Assassins,Sting Ray Dub,2b1MhlxTODquaoP9M89lmw,0,2020,breakbeat,0.394,0.937,7,-1.089,1,0.206,0.0182,0.425,0.0567,0.19,173.805,270345,4
+Malente,Don't Stop - Extended,7cMjrjxpjRzwuvzjCn8NLF,3,2012,breakbeat,0.821,0.82,4,-6.002,0,0.0566,0.0117,0.349,0.0704,0.718,124.031,311731,4
+Hybrid,Snyper - Live In Tokyo,5s8jaVGr3g3wazLGCQDB8t,5,2000,breakbeat,0.463,0.947,5,-7.899,1,0.0603,0.000158,0.919,0.393,0.0646,134.975,497200,4
+The Chemical Brothers,No Need,2aFMKYlFl3iE3pjb9NdWeo,20,2007,breakbeat,0.634,0.665,0,-6.472,1,0.0423,0.00246,0.879,0.0655,0.107,111.97,315307,4
+Amb,Way Up,0vgjafHe5cS9d2QhvAjsUq,1,2016,breakbeat,0.755,0.802,0,-6.9,0,0.0617,0.0438,0.893,0.159,0.962,148.006,249730,4
+Dub Pistols,Real Gangster - Original Mix,5mXYXoQA9eStHDfXxGcNEe,0,2015,breakbeat,0.567,0.937,7,-4.447,1,0.276,0.363,1.12e-05,0.86,0.869,173.982,270160,4
+Aphrodite,Basslights - Jungle Renegades VIP,7vicsmMds144Ymd9r3u4eH,1,2020,breakbeat,0.356,0.998,6,-1.165,0,0.157,0.0134,0.521,0.203,0.625,169.762,336533,4
+Quadrat Beat,Drop The Bass - Original Mix,4qNBCO4Ym5tXkNSS7N99v8,0,2015,breakbeat,0.719,0.867,1,-8.812,1,0.0985,0.0054,0.767,0.0873,0.844,132.946,335653,4
+Huda Hudia,Ripped - Trap Mix,0JamQXLzVTufeGu896Wuhw,3,2019,breakbeat,0.721,0.936,2,-4.009,1,0.0938,0.0176,0.874,0.0494,0.937,149.96,236800,4
+The Prodigy,Need Some1,096XPlwrRCdsfbnZz3MQQQ,45,2018,breakbeat,0.398,0.988,2,-7.556,1,0.0978,0.0517,0.552,0.429,0.0961,184.076,162895,4
+Aquasky,Tell Me You Love It - SliPZ n' DaPZ 4x4 Mix,6q8nix0Zc8JJkFvutQwx5b,0,2008,breakbeat,0.79,0.898,1,-4.502,1,0.117,0.0333,0.0304,0.152,0.577,137.942,311560,4
+Lady Waks,Groove Shake - Lowriderz & Distant Future Remix,6jKYQm223QjExeQYBSn0nE,6,2019,breakbeat,0.517,0.996,7,-2.104,1,0.119,0.000264,0.797,0.769,0.395,175.01,208718,4
+Freddy Fresh,Tangerine,7zKxuGhRUHwLb2GCsbh2Tr,0,2005,breakbeat,0.672,0.495,10,-18.68,0,0.049,0.0541,0.214,0.117,0.503,135.518,357467,4
+Noisia,Ease Forward,0SRpRcXfheiFBTXRaeO8yE,0,2019,breakbeat,0.544,0.498,1,-6.781,1,0.0741,0.00515,0.908,0.11,0.132,114.446,337674,5
+Baymont Bross,Do It!,0wU9dIQX7BTzIDg0ez4Snl,0,2017,breakbeat,0.699,0.796,10,-6.083,0,0.0321,0.00475,0.88,0.0372,0.755,128.048,264210,4
+Dub Pistols,Problem Is - Dub Pistols Breaks Mix,6U2C1kIIPMqQVCbA50eJZc,1,2003,breakbeat,0.725,0.629,9,-12.053,0,0.0555,7.07e-05,0.865,0.322,0.68,130.103,448387,4
+Hybrid,Air Ride,2zmI9aytXChhzZJVCz1VAg,9,2012,breakbeat,0.318,0.724,2,-9.504,1,0.0348,6.35e-05,0.923,0.118,0.0467,169.986,186909,4
+DJ Fixx,D.D.L,5DiMkDrvyCkKUhJV0kEA9B,0,2019,breakbeat,0.7,0.97,8,-3.09,0,0.0677,0.00391,0.00692,0.335,0.531,160.078,273000,4
+DJ Fixx,Ride Out!,7iYSUdqBo1VOLkjlouQ0Eo,0,2018,breakbeat,0.477,0.963,1,-3.07,0,0.107,0.00255,0.0168,0.0607,0.318,109.063,292916,4
+The Crystal Method,Ghost In The City - DJ30A Remix,53F34izhx3GWVISR37bcuR,11,2019,breakbeat,0.62,0.924,1,-2.887,1,0.0404,0.000489,0.777,0.0453,0.602,150.01,230400,4
+Guau,Euphoria - Original Mix,2fGzS6DSQEEfxFr2UgcuFY,0,2012,breakbeat,0.783,0.78,11,-7.835,0,0.0635,0.000238,0.871,0.0856,0.387,134.972,360046,4
+Soul Of Man,Dirty Waltzer - (Denney's Nubreed Edit) [Mixed],1VMtyxG0UUGO7Q9R1SUMZN,1,2018,breakbeat,0.813,0.909,4,-8.526,0,0.121,0.00412,0.129,0.155,0.202,125.008,253400,4
+Aquasky,Cobra (Chris Carter Remix) [Aquasky Vs. Masterblaster],4ZVONPUbEPNakb40pDTQFM,2,2004,breakbeat,0.677,0.875,1,-7.342,1,0.0522,7.62e-05,0.837,0.0757,0.433,135.011,394133,4
+Digital Base,Better Be Rich Bro,0IuRoI1gMxNYOqRlhBbV0E,0,2020,breakbeat,0.777,0.973,11,-2.39,1,0.114,0.00417,0.365,0.0461,0.308,131.985,298187,4
+The Brainkiller,Zion,60vXseYtLWmUVa1CxbPHMm,0,2017,breakbeat,0.77,0.767,4,-4.923,1,0.0687,0.00948,0.46,0.228,0.567,132.01,356364,4
+The Chemical Brothers,Don't Think,6p6tmpBnST1dwj7jpkA8Cp,20,2010,breakbeat,0.674,0.901,1,-5.805,1,0.0656,0.000239,0.0652,0.0691,0.221,129.978,462378,4
+Noisia,Split The Atom - Kito Remix,6Ke5qvh9EcJ4sIXnY7GC4z,1,2012,breakbeat,0.573,0.879,9,-2.593,0,0.0792,0.000892,0.477,0.225,0.102,144.916,253892,4
+Freddy Fresh,Rhythm No. 7,12vKZFM7mwYI9IZfwiZUp5,0,2001,breakbeat,0.726,0.576,7,-12.665,1,0.044,0.0249,0.84,0.103,0.168,113.912,279840,4
+Elite Force,Ghetto Fabulous - Fine Cut Bodies Remix,379ViWI0kvSYVz5H8WEapn,0,2008,breakbeat,0.769,0.796,1,-7.629,0,0.0533,0.000567,0.778,0.0196,0.355,129.014,422520,4
+Left/Right,Bad - Born Dirty Remix,0fa9Dzxbuy79S94QhGCdvI,0,2017,breakbeat,0.761,0.966,11,-6.588,0,0.0631,0.000541,0.334,0.0904,0.231,127.997,225566,4
+Roni Size,Sound Advice,6YjUczLSNx6zg6tmI7VFht,4,2016,breakbeat,0.3,0.751,11,-8.826,0,0.0573,0.0704,0.874,0.176,0.29,179.995,561644,4
+The Future Sound Of London,Sorrow,2aSn9ks7QgLIoVe34g24Ev,7,2015,breakbeat,0.517,0.826,5,-12.529,1,0.0633,0.0639,0.721,0.122,0.379,151.057,233324,4
+Orbital,Ringa Ringa (The Old Pandemic Folk Song) [feat. Mediaeval Baebes] - Edit,4Gc26iQ2ymekdCD7WBbDZM,28,2022,breakbeat,0.546,0.917,1,-8.597,0,0.0489,4.04e-05,0.879,0.111,0.716,124.984,199398,4
+Krafty Kuts,Work That Body,0OUU6X6iFDPMMBb7AtyUfN,3,2012,breakbeat,0.772,0.89,4,-3.193,1,0.0531,0.0119,0.000127,0.0868,0.658,130.007,268191,4
+Stanton Warriors,Up2U,4ds9yTZMpfnIAQ5MlQLjen,29,2019,breakbeat,0.611,0.936,7,-3.911,0,0.0321,0.00659,0.692,0.238,0.777,127.999,200320,4
+Shade k,Sax Nympho - Danny Dee Remix,0WE3W80niHcPt4ja7ZljUC,0,2015,breakbeat,0.732,0.875,4,-6.512,0,0.0812,0.057,0.379,0.244,0.763,134.999,279998,4
+Shade k,Peace,1d58kXf8U5PWjya8CyMPwo,0,2015,breakbeat,0.608,0.968,0,-4.199,1,0.0409,0.00397,0.754,0.177,0.81,134.981,239955,4
+The Crystal Method,Play for Real - Team Awesome Remix,4fo27aAK5q58OhP5H48IvB,14,2011,breakbeat,0.566,0.87,8,-3.542,1,0.0763,0.00209,0.0127,0.109,0.278,89.944,282201,4
+Rennie Pilgrem,He Said She Said - Dub,5op3kIr3jPYOSE4IEiryw9,0,2021,breakbeat,0.704,0.659,4,-7.451,0,0.0554,0.0114,0.887,0.118,0.274,132.008,366453,4
+Cut La Roc,The Preacher,2ACzEGmCOFF7evxGXnWTdf,0,2016,breakbeat,0.667,0.938,10,-6.307,0,0.0445,0.00507,0.897,0.0866,0.805,126.006,329531,4
+Huda Hudia,Destroy The Club,79Mgro9RCiWhfpdI9rsCQO,0,2019,breakbeat,0.676,0.957,0,-3.224,1,0.103,0.000351,0.667,0.0596,0.762,134.007,291940,4
+Rennie Pilgrem,2 Freaks - Original,2mNugadSiU49kC0YlhSkyX,11,2012,breakbeat,0.718,0.908,1,-10.216,1,0.044,0.00092,0.892,0.114,0.717,131.903,489520,4
+General Midi,Good To Go - DJ Icey Mix,05fX9SnAvsqNQv1OZXthL1,0,2007,breakbeat,0.785,0.981,0,-7.235,1,0.0498,7.2e-05,0.897,0.091,0.899,134.974,370947,4
+Afghan Headspin,Stay Young,72jriWpRVggGLj6SSXkbDA,0,2011,breakbeat,0.549,0.994,0,-4.592,1,0.253,5.18e-05,0.748,0.324,0.284,175.026,438047,4
+Timo Maas,Heaven Is Hell - Original Mix,6OK5me2B9jD1pToHugXreM,0,2018,breakbeat,0.8,0.826,0,-8.692,1,0.0477,0.0888,0.891,0.149,0.342,119.984,418100,4
+Dub Pistols,Pistoleros,4C1WU0y9i3BfzlgpeoxwpM,12,2015,breakbeat,0.681,0.842,11,-5.948,1,0.164,0.121,0.0,0.289,0.689,176.083,305160,4
+Stanton Warriors,Under the Lights - Instrumental Mix,6VGw7hqql25mBBnklJ1OTQ,0,2017,breakbeat,0.489,0.91,0,-6.565,1,0.052,0.00478,0.908,0.694,0.31,127.01,327170,4
+Rektchordz,Future Shock - Original Mix,0lIx6ym0xC0SSsphwP4Vuv,0,2012,breakbeat,0.688,0.949,1,-5.45,1,0.0954,0.00958,0.172,0.0594,0.16,128.001,365625,4
+Noisia,The Approach - Clouds Essential Club Sound,4m7QT1msWFz4xdcdObCIIt,11,2022,breakbeat,0.631,0.991,10,-5.618,0,0.0457,8.64e-05,0.889,0.0982,0.845,144.002,321747,4
+Drumattic Twins,Crazy Love - Peo De Pitte Remix,0QuzlWrDQbDYhRLJpW7jqg,2,2001,breakbeat,0.751,0.98,4,-4.404,0,0.125,0.000791,0.0386,0.559,0.776,127.999,343464,4
+Nick Thayer,Grimey,4rhiBzG0d9vYiWaCo4ESi7,1,2016,breakbeat,0.592,0.972,1,-3.736,1,0.143,0.000417,0.0328,0.331,0.34,75.025,225745,4
+Hybrid,Be Here Now - Koven Remix,3aWWVMOLXwuO7YKuXg60Nv,19,2016,breakbeat,0.467,0.918,1,-3.631,1,0.0603,8.32e-05,0.641,0.0934,0.249,175.025,223522,4
+ILS,Ill - Logic,451azv63pKrJWe1lAs16Tq,8,2005,breakbeat,0.648,0.776,2,-7.243,1,0.0436,0.00704,0.872,0.689,0.224,134.877,351240,4
+Dylan Rhymes,Musika (Rolling Groove Mix),54yKgPiVpIUwEtPp3c6Ch5,1,2003,breakbeat,0.635,0.913,6,-7.289,1,0.0468,0.0006,0.881,0.352,0.33,135.554,339987,4
+OnDaMiKe,Much Better - Bass Mix,0PeV8Sjp3QLIKZT3jgOxeR,0,2019,breakbeat,0.618,0.951,1,-3.923,1,0.115,0.000116,0.313,0.0483,0.25,169.982,321855,4
+Aphrodite,Control Yourself,2O0iFgwvQrEedSVuQ03RIt,1,2020,breakbeat,0.5,0.983,9,-2.866,1,0.266,0.013,0.79,0.101,0.312,162.236,387846,4
+Merka,Back Home - Urchins Remix,7sdZbNRJpvZiYsEZK6mqek,0,2008,breakbeat,0.898,0.732,11,-6.088,0,0.171,0.000229,0.871,0.0608,0.827,132.025,350840,4
+Huda Hudia,Go Rage!,3NKIlCkPdkhFPQa1FbtXjC,0,2018,breakbeat,0.609,0.991,2,-2.967,0,0.126,0.00331,0.588,0.285,0.142,128.038,225000,4
+Nick Thayer,Worlds Collide,5S8xqMCxvgk3O8mKLz18SV,3,2013,breakbeat,0.562,0.924,5,-2.29,1,0.136,0.0343,0.609,0.0909,0.374,109.884,229361,4
+Shade k,Flipendo,2ybPIz0osAHWZVQb1nsPIa,15,2023,breakbeat,0.759,0.637,1,-8.726,1,0.0448,0.00292,0.525,0.0811,0.635,127.983,195010,4
+The Crystal Method,Sine Language - Omega Remix,2goCFiEJrCVun2TVnnziN1,2,2010,breakbeat,0.755,0.934,1,-5.257,1,0.171,0.00306,0.0,0.173,0.822,99.992,242422,4
+Plump DJs,Spheres,0frbuSn6HlzRX0jnmJEmTg,10,2015,breakbeat,0.76,0.706,1,-4.836,0,0.0481,0.00346,0.783,0.0938,0.409,125.957,282024,4
+Dub Pistols,Ganja - Atomic Hooligan Remix,4Jicsyg4JcYBBso3TKbw7O,0,2010,breakbeat,0.684,0.828,10,-7.106,0,0.106,0.0046,0.00519,0.115,0.691,132.023,298861,4
+Earth Leakage Trip,Bygone - Original Mix,1hUKEEIvd378tvfeGhSjma,1,2008,breakbeat,0.671,0.642,4,-10.549,0,0.0352,0.0204,0.929,0.103,0.112,94.009,111080,4
+Future Funk Squad,Disease - Eshericks Remix,64G7v8QJqNQKrEDFseX7RS,3,2014,breakbeat,0.526,0.978,11,-4.202,1,0.0552,8.08e-05,0.835,0.111,0.552,132.028,345455,4
+Deep Impact,Prophecy,690ZLpTdY0pOg3CTnHPfnL,0,2022,breakbeat,0.343,0.994,1,-1.938,1,0.0907,0.00217,0.649,0.233,0.102,137.982,283696,4
+Rektchordz,I'm Feeling You - Original Mix,3SwFA1RmtrRPkhynf6M6WG,0,2013,breakbeat,0.82,0.918,11,-4.463,0,0.0772,0.0337,0.442,0.367,0.566,124.047,391177,4
+Roni Size,It's A Jazz Thing,14ClZGryYSBkYrGwGGfdX9,5,2011,breakbeat,0.552,0.957,8,-4.059,0,0.0929,0.000196,0.827,0.153,0.542,174.0,360000,4
+Splitloop,Hot Rock Boy,3B4yjg8vgYj1qkzLcJwulA,0,2006,breakbeat,0.658,0.908,10,-4.558,0,0.0364,6.02e-05,0.827,0.434,0.591,135.005,312827,4
+Drumattic Twins,Back To The Old School,5Y7Q3FlYIiYAzbghmQDgpz,0,2008,breakbeat,0.601,0.665,1,-7.934,1,0.0353,0.00432,0.735,0.194,0.319,132.039,316467,4
+DJ Fixx,Sawtooth - Original Mix,00GGFbf7e5sLYa69pp1IuA,0,2013,breakbeat,0.667,0.75,11,-9.179,0,0.0363,1.1e-05,0.604,0.0563,0.349,131.988,225231,4
+General Midi,Audio Assault - Club Dub,1IFGF6MEX3Haa5ZfBjk6tx,0,2010,breakbeat,0.664,0.878,4,-11.363,1,0.064,0.0135,0.392,0.0399,0.321,128.016,401250,4
+Slyde,Sex n Drugs,3CNXTREx6P6JEr845c3yRN,2,2007,breakbeat,0.727,0.73,1,-8.421,1,0.0901,0.00234,0.00233,0.409,0.788,135.033,313387,4
+OnDaMiKe,You Got To Live - Original,2T9snxHI09F15siCOaip8j,0,2013,breakbeat,0.778,0.781,7,-8.468,1,0.0643,0.00737,0.164,0.0677,0.871,130.012,324943,4
+Freq Nasty,Drum Play - Freq's Mash up the Dancehall Edit,2hh5Z1HZLbpOaMRkjro3X4,0,2014,breakbeat,0.731,0.583,0,-4.103,1,0.0303,0.000454,0.116,0.0594,0.314,117.909,302727,5
+Soul Of Man,Shake Em Down - Dylan Rhymes Remix,5v499pWrPyRS33CNy5uRlF,2,2011,breakbeat,0.579,0.82,6,-7.221,1,0.0367,0.00533,0.929,0.119,0.569,132.498,304320,4
+Amb,Backbone Giggle - Vibesquad Remix,04JBzG2seYTp4crdFoXmB4,0,2012,breakbeat,0.642,0.687,8,-3.328,1,0.176,0.00721,0.726,0.0524,0.691,179.98,260041,4
+The Body Snatchers,Nox,5QKKwBsiFj3c4YYyJMJ7Hn,0,2016,breakbeat,0.417,0.66,1,-8.995,0,0.0509,0.0428,0.0414,0.147,0.362,159.791,422277,4
+Noisia,Containment,49aT4NnUYd1rn66WGdkwmJ,9,2012,breakbeat,0.625,0.951,8,-4.441,1,0.251,0.000542,0.698,0.146,0.238,171.957,245581,4
+Rennie Pilgrem,Coming Up For Air - Koma & Bones Remix,08oN1mYSF9TG85YNqEUOxy,0,2004,breakbeat,0.55,0.75,0,-9.812,0,0.0336,0.000153,0.0206,0.447,0.506,131.993,431533,4
+Colombo,Hesitation - Original Mix,7ju7bnEvgbPniKqaxYRfC4,20,2015,breakbeat,0.701,0.866,4,-5.765,0,0.0342,0.00294,0.901,0.122,0.381,124.998,310415,4
+The Darrow Chem Syndicate,Dielectric - Hankook & KALOCOM Remix,7bCllAcdBR2tK65Qybetu0,0,2022,breakbeat,0.657,0.984,7,-2.299,1,0.037,0.000161,0.0825,0.27,0.515,133.007,236748,4
+Krafty Kuts,Monkey Dance - Ed Solo Jungle Dub,6EiDWC4me3KK7zBFiZStcm,0,2012,breakbeat,0.656,0.927,6,-4.069,1,0.0789,5.35e-05,0.846,0.0523,0.764,175.007,249655,4
+Orbital,Lush 3 (3-1 & 3-2),13hdYXLs18288sJpUJQC1R,14,2009,breakbeat,0.644,0.769,6,-8.872,0,0.0488,2.62e-05,0.873,0.264,0.843,129.996,622333,4
+Freddy Fresh,Bajo El Agua,7uagwK1hY82ko7sbm8DIKB,0,2022,breakbeat,0.812,0.716,10,-12.49,0,0.0513,0.163,0.926,0.129,0.777,119.99,294080,4
+Yo Speed,Man Of The Speed,080eW08V4uDhe4Cv0Vw7XL,1,2017,breakbeat,0.49,0.985,1,-3.936,1,0.0736,0.00138,0.825,0.104,0.246,129.979,317558,4
+General Midi,Get It Down - Album Version - Clean,3apKC22UTGZRLlMIRMDgdA,0,2009,breakbeat,0.676,0.879,7,-6.734,1,0.11,4.71e-05,0.00337,0.0687,0.56,125.067,272659,4
+Freestylers,Over You - Piyush Bhatnagar Remix,5ojGz1hGFj4D94jJhlOCMm,0,2012,breakbeat,0.385,0.944,5,-3.046,0,0.0927,0.0074,0.243,0.177,0.372,73.511,339771,4
+The Brainkiller,Sumerio - Wardian Remix,6kSuWHxjG9WDLao1BR9iuA,0,2013,breakbeat,0.665,0.916,1,-4.295,1,0.0471,0.000558,0.731,0.0493,0.337,129.996,385846,4
+Huda Hudia,Get Some!,1kp3EFFuoKuW5gaSfe8SOU,0,2018,breakbeat,0.693,0.987,8,-3.461,1,0.162,0.00678,0.0019,0.0601,0.715,90.004,261333,4
+JDS,Detonate,1z4DtWblPHiR0qsGbocUve,0,2005,breakbeat,0.604,0.988,7,-6.79,1,0.0977,0.00356,0.886,0.317,0.158,129.987,226875,4
+DJ Fixx,WEIRD AS F**K,1EoOyTwboG27XfYoh9j6lY,0,2019,breakbeat,0.571,0.662,6,-3.739,1,0.0681,0.105,0.0707,0.13,0.199,75.013,185600,4
+DJ Icey,"Dreams - Extended 12"" Version",3tAjPEOUAKnfaQE5psPr4a,1,2003,breakbeat,0.775,0.644,11,-6.306,0,0.0405,0.00028,0.0156,0.0675,0.27,135.017,372053,4
+Yo Speed,This Night,0OR1aDZ6ADNMMA8Jm6TFyi,0,2018,breakbeat,0.671,0.964,6,-3.621,0,0.0458,0.000389,0.0299,0.0718,0.245,130.01,315697,4
+Stanton Warriors,Da Antidote - Original Instrumental,6wtgD4HVi0OcMg67DBEY4i,2,2001,breakbeat,0.781,0.97,0,-7.19,0,0.111,0.0136,0.855,0.277,0.753,129.988,365827,4
+Freddy Fresh,On the Verge - Sickness Mix,4NfkqWC68TO716fqZHJ36X,0,2020,breakbeat,0.682,0.619,11,-11.245,0,0.0403,0.552,0.87,0.139,0.46,121.485,194440,4
+Lee Coombs,Fire,2zrPirazNFm3VFVZOh0dHH,0,2022,breakbeat,0.711,0.835,1,-6.127,1,0.0432,9.22e-05,0.867,0.143,0.375,124.988,405616,4
+Shade k,Say Arrr,2Lqz1ZN0yRMDrBmpPcZK09,2,2018,breakbeat,0.821,0.919,4,-4.237,0,0.102,0.00887,0.000706,0.377,0.459,128.007,225082,4
+Noisia,Reptilians,5hTw8wtCVxfwxHYAonbFTG,22,2015,breakbeat,0.699,0.919,10,-1.83,0,0.237,0.00172,0.017,0.0843,0.666,171.955,213488,4
+Deekline,Why Don't U - Radio Edit,7lYdHlXWimWJmLxkFIjZQh,6,2004,breakbeat,0.763,0.826,8,-5.73,1,0.0672,0.000249,0.599,0.0424,0.965,138.015,330107,4
+Malente,It's Gonna Blow Ya Mindz - Extended,16Krioj9mKihFev5sUpoQZ,0,2011,breakbeat,0.741,0.825,4,-4.404,0,0.0892,0.000704,0.0788,0.406,0.712,125.318,364000,4
+Noisia,Mouthbreather,1FoAdub11NVEvzDii6lih6,12,2015,breakbeat,0.545,0.988,1,-4.278,1,0.376,0.00662,0.016,0.514,0.283,171.96,283256,4
+Evil Nine,They Live! - Instrumental,1vECGEUKtlxJbr6so7g2ps,0,2008,breakbeat,0.788,0.98,2,-2.76,1,0.0381,0.0022,0.946,0.0622,0.871,131.992,267467,4
+Freddy Fresh,Orange Krush,1WYcNIxbHGJt4OA9M7a9kz,0,2003,breakbeat,0.519,0.926,10,-3.824,0,0.0561,0.0317,0.431,0.105,0.836,133.857,283240,4
+Noisia,Voodoo (Noisia's 'Outer Edges' Remix) (Live),6tvnwaAB4JVQRHOcXQYjFR,3,2020,breakbeat,0.6,0.881,11,-12.245,0,0.14,0.046,0.0732,0.0606,0.385,177.046,102793,4
+Shade k,Don't Know - Original Mix,5UqhxrkhtxRjRfuOMVvKte,0,2018,breakbeat,0.736,0.909,7,-5.709,1,0.0659,0.00105,0.00112,0.0703,0.866,130.0,249159,4
+Dub Pistols,Soldiers - Ben & Lex Remix,79E4ccs42j3ua0udGpwvKY,1,2011,breakbeat,0.641,0.864,7,-8.81,1,0.265,0.00274,5.33e-06,0.327,0.498,172.973,299427,4
+Orbital,Belfast - 30 Something Years Later Mix,0ZVAfgh63pu019xJYnKCn1,17,2022,breakbeat,0.336,0.938,0,-5.946,1,0.0536,2.78e-05,0.0177,0.106,0.165,122.981,579495,4
+Freddy Fresh,Fly Girls,6IYcwStePiJSxDa3QaErJI,0,2020,breakbeat,0.621,0.855,1,-11.673,1,0.163,0.465,0.0657,0.185,0.418,171.619,242625,4
+Splitloop,Bad Boys For Life,4U7R0E5PFhkpJLD4RIyQrc,0,2021,breakbeat,0.714,0.817,9,-9.716,1,0.0719,0.000655,0.555,0.362,0.493,128.009,405938,4
+Orbital,Choice,2TwYihiZUm2NzzTb98k8mq,11,2009,breakbeat,0.626,0.982,10,-5.413,0,0.0792,0.00318,0.726,0.108,0.566,122.996,334200,4
+Huda Hudia,Back N Forth,4Vzap9Dyq2uyhQmqD09GkD,0,2018,breakbeat,0.718,0.967,5,-3.053,0,0.0699,0.00244,0.014,0.0498,0.81,132.008,254545,4
+The Prodigy,Fuel My Fire,2QENPLMCZyWi1bKiAB1QTO,19,2012,breakbeat,0.403,0.955,1,-4.692,1,0.0606,3.8e-06,0.872,0.101,0.682,170.002,258907,4
+OnDaMiKe,Break Down - Original Mix,36RvvyCVIR7RHOt9e0Au7a,0,2016,breakbeat,0.723,0.741,7,-8.239,1,0.0471,0.000226,0.929,0.0924,0.335,134.996,216778,4
+Hankook,Harmony,7wPYIyZymB6t1tui0ZUUid,1,2018,breakbeat,0.793,0.92,10,-4.882,0,0.0574,0.184,0.523,0.123,0.668,131.989,297994,4
+Stanton Warriors,Dakota,25ITAXbbVEWcVqItvgQpIW,19,2011,breakbeat,0.701,0.385,11,-13.329,0,0.04,0.00126,0.85,0.317,0.805,124.985,122880,4
+Ed Solo,Ragga Tip (Walk & Skank) - Original Mix,10KfeBlwx6L5lTwqlo6mA9,21,2010,breakbeat,0.714,0.958,9,-6.769,1,0.0527,0.000976,0.0118,0.0466,0.85,174.977,289371,4
+The Crystal Method,Starting over,196M5Mb3Hcs7APhTM1MNeG,31,2004,breakbeat,0.663,0.948,10,-7.14,0,0.0472,0.317,0.744,0.104,0.191,128.002,242933,4
+DJ Icey,Light Year,5ibBcrNCkzKjyqr9L3RkmD,0,2017,breakbeat,0.731,0.931,6,-4.102,1,0.044,7.24e-05,0.571,0.0232,0.294,127.976,262500,4
+Shade k,Secrets - Original Mix,2Ll5nbSyG0FQITM1jdzVyN,0,2014,breakbeat,0.554,0.976,4,-4.424,0,0.0424,0.000281,0.922,0.121,0.804,132.998,232683,4
+Bassnectar,Heads Up - California Style,09XIskLCZdQj3n0KZ10OsE,3,2008,breakbeat,0.597,0.67,1,-7.992,1,0.0675,3.44e-05,0.871,0.174,0.678,89.979,282000,4
+Huda Hudia,Nobody Like U,4obuW3qolXGW2Eo13yLxyp,0,2019,breakbeat,0.774,0.899,10,-2.038,0,0.179,0.0385,0.0016,0.0788,0.893,127.992,275625,4
+Nick Thayer,Rocking It,3hwtfsLK6Rh2x4sDnrIgip,0,2010,breakbeat,0.793,0.895,10,-5.36,0,0.0787,0.00635,0.0443,0.0558,0.898,130.029,317539,4
+Huda Hudia,Get Crunk!,4LP7HmBnv9tnO36D3n6MvF,0,2018,breakbeat,0.67,0.997,7,-2.881,1,0.0653,0.00112,0.862,0.143,0.489,128.057,240000,4
+Stereo 8,Me Encontrei,03LNQUD7VP5JMf9J3nuiOe,0,2019,breakbeat,0.411,0.822,7,-7.894,1,0.0423,0.000183,0.0,0.233,0.767,157.99,174873,4
+Colombo,Homesick - Original Mix,4Q8RSG0IE0JmP1CLoGB1yt,2,2015,breakbeat,0.818,0.693,1,-5.661,1,0.109,0.011,0.804,0.0197,0.921,134.035,361549,4
+Ceasefire,Lady Luck,2CxDRMdmqJvRJZAyTjF3OD,8,2015,breakbeat,0.357,0.936,0,-4.311,1,0.127,7.11e-06,0.0,0.519,0.385,185.15,105703,4
+Deekline,Hit The Road Jack - Mixed,7HmkAlx1XqAs5DwYVJ2T9q,8,2022,breakbeat,0.565,0.762,1,-10.081,0,0.0457,0.000822,4.9e-05,0.102,0.689,175.005,135771,4
+DJ Fixx,Forever - Original Mix,4zVYoft3KcLJAPsjoxYD3g,2,2021,breakbeat,0.628,0.883,7,-4.928,1,0.0506,0.000611,0.000269,0.121,0.502,165.013,267636,4
+Aquasky,Sucker Punch,2fNrPfRfnr9jkMAetkYUCU,0,2002,breakbeat,0.55,0.732,4,-10.202,0,0.0522,0.001,0.807,0.0773,0.392,176.049,428627,4
+The Prodigy,We Are The Ruffest,2Izg9QeyEMClNaUAbhdOxo,12,2005,breakbeat,0.615,0.987,1,-3.682,1,0.102,0.00112,0.872,0.374,0.324,145.026,318813,4
+ILS,Sabotage - Original Mix,7fBIk7nHNxqNuGjinpdDMx,0,2009,breakbeat,0.707,0.509,6,-11.739,1,0.0404,0.00142,0.894,0.131,0.388,127.852,336718,4
+Freddy Fresh,Sinister,6ufoYudNCh8Dcf5OmGPPwy,0,2005,breakbeat,0.796,0.611,7,-13.761,1,0.0496,0.00384,0.906,0.428,0.133,119.995,436760,4
+Future Funk Squad,Blow - Wrexx Remix,4QlPZrwx7Jc9pJaY9u3ciD,3,2010,breakbeat,0.747,0.911,0,-7.521,1,0.0984,0.00874,0.28,0.0683,0.762,130.018,467500,4
+Tony Faline,Black Rabbit,7MS6xbcCTDBYKfD0IYhX7r,0,2014,breakbeat,0.72,0.805,11,-4.166,0,0.0757,0.00592,0.0373,0.0608,0.32,130.003,295314,4
+Lee Coombs,Detox,0jxQeII9S5U6zkhuGvs4If,0,2019,breakbeat,0.636,0.899,1,-5.152,1,0.0558,4.68e-05,0.472,0.0611,0.511,125.987,320382,4
+The Prodigy,Funky Shit,2aAtQ0u23EYvF9u2Y4k0e6,23,2012,breakbeat,0.704,0.99,4,-5.208,1,0.0812,0.157,0.802,0.629,0.252,125.011,316427,4
+Hybrid,Finished Symphony - Deadmau5 Remix,0E7jzEMqlvYKhgGzekUJcY,1,2014,breakbeat,0.858,0.47,9,-6.76,1,0.0646,0.00281,0.827,0.122,0.41,127.999,404200,4
+Myagi,Payback,0xJhT6Q5ZfhraAvG8KFIbH,0,2008,breakbeat,0.613,0.971,10,-5.15,0,0.042,6.33e-05,0.657,0.0795,0.795,128.008,372424,4
+Myagi,Q,0BRvFv3otAwO3yiZEyDPL3,0,2012,breakbeat,0.591,0.948,0,-4.764,1,0.0596,0.002,0.423,0.308,0.271,127.983,448801,4
+Noisia,Diplodocus (Noisia's 'Outer Edges' Remix) (Live),2U5FLEUNOuPkTQeStFw5LT,5,2020,breakbeat,0.719,0.601,11,-14.45,1,0.225,0.042,0.0679,0.313,0.286,88.561,182989,4
+OnDaMiKe,Synthetic Bass - Original Mix,191fbgVx5RvHBhfcFTBLfv,0,2012,breakbeat,0.784,0.846,1,-8.616,1,0.0758,3.14e-05,0.815,0.0697,0.564,132.994,343840,4
+Etostone,Vesna,21HtEslcTfOkLndncOHfvt,0,2010,breakbeat,0.518,0.994,7,-5.762,1,0.0395,0.000861,0.819,0.311,0.811,137.983,260080,4
+Freestylers,B-Boy Stance - Live,0vzel91zPyUJNLaQ1J1bqT,1,2000,breakbeat,0.542,0.876,7,-6.51,1,0.205,0.0126,0.0,0.519,0.433,105.064,319467,4
+Noisia,Brain Bucket,3qt61vDHDR4zhf7A6gCpaK,8,2010,breakbeat,0.662,0.932,10,-0.443,0,0.106,0.000155,0.858,0.114,0.731,85.994,298793,4
+Malente,Rokk Der Haus - Original,5614bpb7yPUlgakLkwqgkw,0,2012,breakbeat,0.774,0.956,11,-4.472,0,0.0552,0.0168,0.577,0.0444,0.952,126.05,216787,4
+Plump DJs,Plumpy Chunks,1VqYeZfpjlYrQIUu9EWYnH,6,2000,breakbeat,0.872,0.812,6,-5.829,0,0.163,0.00192,0.0532,0.0776,0.604,126.06,374812,4
+Yo Speed,Earthquake - Le Duke Remix,7bi6OAyiqhKEsNQ808KDEx,1,2018,breakbeat,0.873,0.761,6,-4.683,1,0.0915,0.00101,0.00364,0.126,0.483,127.988,278438,4
+Jason Sparks,Our people,7IsnINtcHwbhXbZNXTqh5t,0,2003,breakbeat,0.738,0.813,7,-9.701,1,0.0854,0.119,0.348,0.119,0.143,131.833,385987,4
+Hybrid,Truth From The Lies,60KBI62NsdX4bnApGlLIGP,11,2021,breakbeat,0.595,0.655,8,-9.515,1,0.0403,0.0048,0.123,0.11,0.0939,128.01,369460,4
+Colombo,Prone - Original Mix,0gzPG9Hz5donvwk7c1lrDV,0,2013,breakbeat,0.803,0.83,11,-7.382,0,0.0778,0.000193,0.893,0.0264,0.649,127.01,393067,4
+The Brainkiller,Fly With Me - Original Mix,02lkCPZSN2eDbB97vljHlz,0,2013,breakbeat,0.743,0.864,8,-4.751,1,0.0394,0.208,0.636,0.103,0.557,131.003,392061,4
+OnDaMiKe,Bootylicious - Original Mix,4musYE28pk5OXv0SMniQea,0,2022,breakbeat,0.744,0.948,4,-3.86,0,0.0809,8.42e-05,0.21,0.301,0.23,133.994,263284,4
+Mekon,Boy Bitten - Padded Cell Remix,0Zs1UjkeKfv97Bvseirjyn,0,2006,breakbeat,0.861,0.909,9,-5.099,0,0.0492,0.197,0.906,0.666,0.911,126.023,436133,4
+Aquasky,Dreamland - Teamplayers Edit,2bW45EJlWwMg1kltrnU52J,1,2006,breakbeat,0.594,0.967,6,-6.01,1,0.0417,0.000131,0.221,0.236,0.537,138.011,285227,4
+Hankook,Yallah,0kC1UJJ9eOrTp1htyMMFh5,1,2019,breakbeat,0.67,0.989,2,-5.631,1,0.0415,0.00911,0.755,0.0358,0.382,130.022,358178,4
+Amb,Bug Buzz - Original Mix,3QYxKjwTpsqCqJZH8QWg8T,0,2012,breakbeat,0.568,0.635,0,-5.328,1,0.162,0.0527,0.69,0.172,0.338,110.902,277297,3
+Amb,No Regrets,2KrGOCCWG94n6mVjrPUp8C,2,2016,breakbeat,0.626,0.705,10,-6.362,0,0.0874,0.0708,0.377,0.0718,0.231,168.009,211429,4
+Freddy Fresh,Mighty Fin,3IpPZ1c5WL9VvH1XIwhqlK,0,2003,breakbeat,0.666,0.736,11,-11.023,0,0.113,0.142,0.873,0.11,0.686,173.98,412280,4
+Freddy Fresh,Bass Patrol - Original Mix 1994,7gDPGbfi4XydTtTFW3ZzCw,0,2021,breakbeat,0.73,0.833,3,-8.87,1,0.0584,0.0685,0.855,0.103,0.316,146.724,467468,4
+Noisia,Incessant - IMANU Remix,7Cc6AryZQcJRVX2ZKYNp5g,38,2021,breakbeat,0.622,0.954,8,-0.933,1,0.0654,0.0147,0.834,0.15,0.474,172.029,217711,4
+The Rogue Element,Notre Dame,6bfrN7toFCT7SCbDI7daJA,0,2010,breakbeat,0.78,0.692,11,-7.794,1,0.0607,0.0222,0.733,0.0348,0.613,128.018,350625,4
+The Prodigy,Wild Frontier - Wilkinson Remix; Edit,059Kw4n25FYO3DLMTY7tUt,1,2015,breakbeat,0.291,0.879,7,-6.041,1,0.0658,4.07e-05,0.0173,0.147,0.144,173.993,244766,4
+The Crystal Method,Over It - King Arthur Remix,3ik1LAd7P0XWaAVVB3fhA4,3,2015,breakbeat,0.804,0.849,11,-5.234,1,0.0855,0.00157,0.481,0.0742,0.375,123.988,278710,4
+Layo & Bushwacka!,Love Story (vs Finally) - Tim Deluxe Club Mix,4yhmMOsMvAGE6KtLXKA5jJ,18,2003,breakbeat,0.768,0.846,2,-12.812,1,0.0646,0.00501,0.269,0.377,0.717,131.983,498893,4
+Myagi,Heads N Tails,4qYs9fW7neTB57AefxJoSO,0,2008,breakbeat,0.365,0.716,3,-8.595,1,0.0459,0.151,0.8,0.137,0.268,170.017,295209,4
+Dan F,Tell Nobody,13D9aAtrk2vsi93QHKI4sL,0,2021,breakbeat,0.797,0.666,8,-12.574,1,0.0563,0.00194,0.83,0.104,0.416,124.028,431814,4
+General Midi,Get It Down - Radio Edit - Clean,0Bsra07HNC0vy0QWQIF3Bp,0,2009,breakbeat,0.677,0.911,7,-3.999,1,0.208,0.000117,0.00118,0.323,0.532,124.978,177401,4
+Break The Box,Prostitutes and Video Games - Llupa Remix,0bDhcGn6B3TWMocNHQ7EUi,0,2008,breakbeat,0.673,0.836,0,-8.015,1,0.0444,2.28e-05,0.867,0.387,0.28,134.992,440000,4
+Evil Nine,Pearl Shot,6U711nYIWQJstPgYAx2Gk7,14,2004,breakbeat,0.674,0.952,9,-4.986,1,0.0555,0.000611,0.408,0.329,0.602,131.979,319293,4
+Lee Coombs,Detox - Trent Cantrelle Remix,3MdhoiegQSDjZk02UlghyG,0,2019,breakbeat,0.722,0.944,0,-4.811,1,0.0847,0.00179,0.0795,0.288,0.43,125.993,382180,4
+Mint Royale,Singin' in the Rain - Short Radio Edit,1iuwDwyh1XS5NRGNCEtsgO,28,2005,breakbeat,0.515,0.772,0,-12.208,1,0.0405,0.00048,0.259,0.192,0.609,130.991,127613,4
+Guau,Rhodium - Original Mix,5AsTLZbsPnFzlCYaygpzDv,0,2013,breakbeat,0.748,0.713,4,-9.199,0,0.0834,0.000237,0.702,0.0583,0.683,135.032,355605,4
+Noisia,Machine Gun,2e2jrRbtSWS5muWM9zPK5Z,31,2012,breakbeat,0.685,0.797,6,-2.132,0,0.0508,7.85e-05,0.875,0.198,0.143,128.014,319893,4
+Overseer,Pump Action,2NMWvP1hvj4NkC17OYSx71,48,2019,breakbeat,0.609,0.828,4,-9.443,1,0.0318,0.000728,0.695,0.126,0.5,105.005,134908,4
+DJ Fixx,Droppin' Science,10kfdjcdg9rzuNK1yxILFU,9,2001,breakbeat,0.78,0.802,6,-8.787,0,0.0588,0.000306,0.842,0.0339,0.309,135.99,496353,4
+Precision Cuts,Afterlife - Precision Cuts Remix,0TsFMjELTo6peJDjFmhjgT,0,2016,breakbeat,0.68,0.956,5,-3.622,0,0.0379,9.42e-05,0.763,0.0684,0.426,132.995,454879,4
+Aphrodite,Out Of Time,4UgLRAAVJPfxwwpSuf6ETe,1,2006,breakbeat,0.512,0.953,10,-1.918,0,0.0352,0.00485,0.091,0.109,0.11,94.973,334987,4
+DJ Fixx,Closer,54Y34ZW4VAqlVqv2GzHYdx,0,2019,breakbeat,0.632,0.966,8,-1.174,0,0.156,0.0586,0.00644,0.318,0.609,150.062,211200,1
+Datsik,Ronin Riddim,19OYebXEFi5j72sVgcPYt2,24,2018,breakbeat,0.579,0.858,2,-4.963,1,0.268,0.0314,0.016,0.111,0.0933,112.558,195467,3
+Noisia,Collider,4IQiuJmUs1KzqR9RiFjXo4,31,2016,breakbeat,0.388,0.936,9,-4.171,1,0.0737,0.00405,0.774,0.178,0.3,122.833,286523,4
+Datsik,Too Late To Say No,6Yi2plOLHur6Mks5OD1nlp,13,2013,breakbeat,0.549,0.893,10,-4.225,0,0.171,0.0021,0.00133,0.0782,0.283,140.024,282857,4
+DJ Fixx,Forever,12Z0VHihnaMH1Yzzk4i0w6,0,2019,breakbeat,0.66,0.916,5,-3.461,0,0.0684,0.0665,0.152,0.0578,0.852,126.029,240000,4
+Rennie Pilgrem,Eraser - Original,1e7Bl0N68DMLTjWYHhms1w,0,2012,breakbeat,0.732,0.933,7,-9.064,1,0.0812,0.000367,0.856,0.0723,0.373,134.972,420333,4
+Freddy Fresh,Toppaccia,0rPW68KRA0uWxXxOu0MC5z,1,2022,breakbeat,0.53,0.77,2,-7.831,0,0.0325,0.615,0.92,0.109,0.424,159.984,340698,4
+Suga7,Whoa! - Guau Remix,7doZib0BOcfaDA8cr8qqSt,0,2017,breakbeat,0.791,0.933,9,-3.848,1,0.162,0.00661,0.535,0.0278,0.394,129.991,245538,4
+The Prodigy,Voodoo People - (Live at Milton Keynes Bowl) – 2020 Remaster,4aIRmiRIH3gOGA7BxW0Djk,24,2011,breakbeat,0.491,0.996,8,-3.837,1,0.256,0.0165,5.34e-05,0.614,0.119,148.887,225693,4
+Elite Force,Kinetika,7uNLpTfeHz31vQXIl6qu9U,1,2018,breakbeat,0.627,0.979,5,-4.099,0,0.0461,0.00135,0.927,0.109,0.082,127.995,374050,4
+Keith Mackenzie,Work Dat - Original Mix,5AKgeLjLeoSNInz0utYYXi,0,2013,breakbeat,0.835,0.854,7,-7.119,1,0.182,0.00259,0.724,0.119,0.695,128.039,199385,4
+Noisia,Anomaly (Live),2tLD0EAfkP1MbIeUAnCmAT,6,2020,breakbeat,0.35,0.776,3,-11.177,0,0.119,0.000387,0.0658,0.155,0.0825,177.085,130056,4
+Quadrat Beat,Commotion - BreakZhead Remix,41sUc4Q3WbNcKVDjaJ8eF0,0,2009,breakbeat,0.734,0.94,4,-9.388,0,0.0598,0.000128,0.897,0.363,0.512,136.987,333768,4
+The Chemical Brothers,The Darkness That You Fear - The Blessed Madonna Remix Edit,42D3h0va6gF6KvqU9piOn5,12,2021,breakbeat,0.622,0.874,6,-5.395,0,0.0359,0.00651,0.553,0.135,0.341,127.991,218763,4
+OnDaMiKe,BullShitn - Original Mix,236hJHcNPaAQoU5zMcxWJ1,0,2015,breakbeat,0.727,0.853,7,-7.508,1,0.0856,4.9e-05,0.00028,0.0543,0.736,135.0,184889,4
+Elite Force,Used & Abused - Klaus Hill & Dopamine Mix,0z94B9953jY0MKeWAwnbmL,0,2008,breakbeat,0.758,0.794,4,-5.861,0,0.115,0.00341,0.563,0.338,0.149,127.962,392493,4
+The Brainkiller,Goofballs (Bass Boosted),08SzapOgeWpeiELoHy9lWr,0,2017,breakbeat,0.768,0.891,0,-3.672,1,0.0483,0.00162,0.314,0.349,0.208,130.007,233538,4
+Force Mass Motion,Back to Back,3fppTwUVa5SIY8Ahzv7Imb,2,2022,breakbeat,0.713,0.972,1,-3.622,1,0.0432,2.62e-05,0.863,0.698,0.732,140.019,341464,4
+DJ Fixx,Major Malfunction,3PuQ51BMgD3xtRfkDnpRoQ,4,2008,breakbeat,0.733,0.896,9,-8.095,1,0.0441,0.00117,0.674,0.0901,0.222,134.005,344160,4
+Noisia,Sinkhole - Posij Remix,75fd9z7QEJ1aEhyEj7c0uv,9,2017,breakbeat,0.671,0.934,5,-4.533,0,0.0561,0.000585,0.178,0.411,0.209,107.451,276483,5
+ILS,Feel Alright,7c50R2biHDsuVA2V0ZlRoM,1,2002,breakbeat,0.658,0.886,2,-6.079,1,0.0467,0.00306,0.827,0.0868,0.621,131.874,335267,4
+Shade k,Funk Broads,1AcfykgZlCD6RXJAuDyZBp,1,2020,breakbeat,0.821,0.988,10,-4.525,0,0.0831,0.000639,0.488,0.387,0.709,130.052,236428,4
+Dub Pistols,Boom - Suro Remix,4n9VwaJdYNWzK1JPxcl5vO,0,2018,breakbeat,0.853,0.773,6,-6.391,1,0.0571,0.0526,0.0254,0.0849,0.855,128.961,267494,4
+Layo & Bushwacka!,All Night Long,1r6tGt1nh2xPgeukItAElz,16,2002,breakbeat,0.753,0.723,1,-9.045,1,0.0862,0.000621,0.166,0.204,0.49,135.961,341973,4
+Noisia,Hand Gestures,59R0fomW1gMLAQkGI0Q2If,13,2010,breakbeat,0.706,0.58,8,-6.93,1,0.0903,0.00555,0.867,0.154,0.167,172.003,191053,4
+Deekline,Duppy Destroyers - Original Mix - Mixed,2JtwkNvUoLEpZHaD4I8ZF8,2,2021,breakbeat,0.634,0.88,1,-6.655,1,0.177,0.0498,0.0,0.617,0.689,174.994,109714,4
+The Prodigy,Take Me to the Hospital - Adam F. And Horx Remix,1cxxENmxXKQA8ynHYL6nHg,1,2009,breakbeat,0.725,0.944,1,-4.187,1,0.125,0.00223,0.79,0.105,0.614,128.009,330853,4
+Break The Box,Ghostlicker,5uoUSdb1gFkxeaQDdx6tHH,0,2008,breakbeat,0.719,0.922,7,-7.568,1,0.175,0.0015,0.0276,0.289,0.222,130.003,321692,4
+The Future Sound Of London,Hardhead - Frothin' At The Mouth Mix,54a7cNBKSWOHe1xPm7DQ14,0,2009,breakbeat,0.63,0.88,1,-9.165,1,0.0744,2.19e-05,0.895,0.119,0.968,134.996,365773,4
+Curtis B,Get Up (Will Bailey Remix),0AEuIdty4n80CSuF6SRfik,0,2010,breakbeat,0.854,0.887,7,-6.658,1,0.183,0.00329,0.123,0.11,0.21,127.985,289274,4
+Plump DJs,Pressure,2sMu2ksM90qL2EgWD4kda8,3,2005,breakbeat,0.687,0.811,7,-6.246,1,0.0473,0.0224,0.851,0.209,0.338,136.029,312933,4
+Stanton Warriors,Precinct,6iK6fqylTol9zw6kmUguyH,5,2009,breakbeat,0.754,0.75,7,-7.39,1,0.0456,0.0333,0.83,0.111,0.0334,134.016,368427,4
+Dub Pistols,Rapture - Dub Pistols Combat Roack Mix,4fySsJi4b2r2qjaqQxjspa,0,2007,breakbeat,0.726,0.515,11,-8.511,0,0.0589,0.000401,0.587,0.0704,0.795,130.004,388160,4
+Meat Katie,Nain Rouge,1UI54rYjBOoMPGo14ezQvD,0,2022,breakbeat,0.765,0.689,7,-7.729,1,0.0792,0.000659,0.913,0.0774,0.253,127.997,408000,4
+Malente,Dwarfs,5KvoTY25Z60ljEA6oeqfRw,0,2009,breakbeat,0.854,0.431,11,-9.006,0,0.0558,0.0521,0.892,0.0467,0.0562,128.991,308000,4
+Huda Hudia,Punks Around Me,5tgRWb9OS5nAeCLrsqelKT,0,2018,breakbeat,0.824,0.614,9,-3.282,0,0.135,0.00283,0.0919,0.131,0.453,126.005,259048,4
+DJ Baby Anne,Shine (feat. Nikki Carabello & D-Bo),4ZyB36Di3aaFM1B5TvKy9j,3,2016,breakbeat,0.732,0.78,5,-5.642,0,0.0375,0.0015,0.028,0.408,0.549,127.979,221734,4
+Meat Katie,Queen For A Day,1i3KEpOzSSTfAjGcFIlMNV,0,2019,breakbeat,0.64,0.982,7,-3.552,1,0.0733,9.07e-05,0.856,0.0688,0.24,131.996,425455,4
+Huda Hudia,My Year!,0HgmOWvip3pHgRYOtlm0TE,0,2020,breakbeat,0.758,0.918,11,-5.715,0,0.0472,0.00076,0.00443,0.115,0.523,131.993,221818,4
+Rennie Pilgrem,Machine,2MfqwxXkCoTwjwm0kM6QEr,0,2011,breakbeat,0.752,0.685,0,-10.623,1,0.0582,0.000483,0.902,0.224,0.162,121.99,241987,4
+The Future Sound Of London,Papua New Guinea - Translation 3 - The Lovers,0ZWg8VZovpY4MRAkxPW0Bw,2,2001,breakbeat,0.601,0.813,5,-8.583,0,0.0352,0.0605,0.638,0.534,0.587,113.005,543053,4
+General Midi,4 Million Ways - Ginz's Purple Interpretation Mix,6MT7otk0AfHVrir8vzPHGg,0,2009,breakbeat,0.661,0.866,0,-4.32,1,0.132,0.00213,0.00152,0.215,0.883,140.021,287427,4
+Orbital,Where Is It Going? - Radio Mix,0deKnK3KgUqvlg7nmBR10G,2,2012,breakbeat,0.622,0.659,11,-7.3,1,0.0338,0.0147,0.443,0.0798,0.51,129.003,231109,4
+Slyde,Vibrate To This - Trouble Soup!! Remix,5oxL5atoYhZ9OdBEDmx95V,1,2011,breakbeat,0.721,0.796,1,-6.549,1,0.0358,0.000478,0.627,0.086,0.583,131.967,508027,4
+Guau,Resilience - Original Mix,4Dhq1a0ewFbo9N4NzJ6qpp,0,2012,breakbeat,0.497,0.704,2,-8.156,1,0.0902,0.006,0.894,0.164,0.0398,135.018,325381,4
+The Darrow Chem Syndicate,The Trioxin - KAZ NISHIMURA Remix,7IBwTU0Cby3fcMeq7Guyv0,0,2009,breakbeat,0.615,0.69,0,-5.457,1,0.0508,5e-05,0.928,0.0777,0.29,124.985,315410,4
+Tayo,Bloodline - Dub,73o6P7gNH1QRdofMosh0jA,0,2004,breakbeat,0.663,0.889,1,-9.103,1,0.0569,0.000129,0.812,0.354,0.744,133.968,411044,4
+Myagi,Shapeshifter Pt 1 - Malente Remix,4b90ycECo9PeIp6ysCrIWI,0,2008,breakbeat,0.956,0.647,7,-7.944,1,0.34,0.00312,0.474,0.0774,0.642,126.001,291765,4
+Beat Assassins,Brap For The Reload,0caLolUZSppGXQiYALkGbG,0,2020,breakbeat,0.515,0.962,4,-2.59,1,0.168,0.00104,0.103,0.656,0.347,173.965,299310,4
+Hybrid,Green Shell Suit - Original,42n2WpEEwTL6QxzKeTw94v,14,2010,breakbeat,0.514,0.561,7,-12.033,1,0.0356,0.25,0.907,0.104,0.252,160.012,318027,4
+Colombo,Heart Player,7KErxv8ZQu6lkp8U9EcDn7,0,2017,breakbeat,0.79,0.931,7,-3.874,1,0.0914,0.012,0.848,0.0716,0.334,134.038,289440,4
+Lee Coombs,Congo Bongo - Tomcraft Remix,4NXGuXAZrORp4HsUKMKNxj,0,2017,breakbeat,0.913,0.6,9,-7.63,1,0.147,0.0466,0.839,0.083,0.25,121.995,367607,4
+Deekline,Good Looking Girl,7mhovvoicl6E3LRCzU3jH3,2,2018,breakbeat,0.584,0.981,6,-4.031,0,0.0697,0.00171,0.1,0.146,0.953,174.019,347417,4
+The Rogue Element,Dead Drummers,0QWvMCcWbLhKUyFr7sulRf,2,2006,breakbeat,0.829,0.54,1,-10.151,0,0.0984,9.91e-05,0.864,0.117,0.589,131.984,424520,4
+DJ Fixx,Like It Rough,0gawQzg082C3G6yIxtdRVG,0,2018,breakbeat,0.657,0.921,11,-5.162,0,0.0665,0.000189,0.882,0.0888,0.208,128.003,337500,4
+Timo Maas,The Religion of Love - Mixed,6khZkd2VAes42M8DPpZ6zX,0,2022,breakbeat,0.762,0.478,1,-11.624,0,0.0725,0.00034,0.898,0.133,0.0394,123.02,374633,4
+DJ Icey,Something About You,2KJtXzALsmzzrGDjaSdjKu,27,2019,breakbeat,0.637,0.814,0,-4.908,1,0.0286,0.0203,0.708,0.0662,0.464,127.998,218177,4
+Krafty Kuts,Boom Bangin (feat. Pavan) - Badjokes Remix,6XwB6LllOSTTzEsRmzhYPy,1,2017,breakbeat,0.801,0.943,7,-3.037,1,0.282,0.0102,0.0643,0.138,0.418,129.004,230698,4
+Atomic Hooligan,Wiggiddi - Atomic Hooligan Remix,5hepEOijuvmiVoQoHUO4dC,0,2005,breakbeat,0.698,0.996,6,-4.802,0,0.0803,6.25e-05,0.918,0.493,0.378,134.989,440625,4
+Dub Pistols,Revitalise - Dogtown Clash Remix,3MwqWa9fXE8ktE05gBTnsA,0,2011,breakbeat,0.671,0.936,5,-6.435,1,0.0606,0.0573,0.045,0.141,0.521,139.998,370286,4
+Freddy Fresh,Undercurrent,20ukk6nMAzWmHnCLuDxxwP,0,2022,breakbeat,0.814,0.643,7,-10.304,0,0.0873,0.108,0.908,0.2,0.147,120.001,216214,4
+DJ Quest,Peel me a grape - Original,4VMbZzO3vNxsBzglw8qUK2,0,2021,breakbeat,0.591,0.939,2,-5.254,0,0.102,0.0735,0.131,0.122,0.365,175.009,370033,4
+Beat Assassins,War Dem (feat. Miss Stylie) - Trei Remix,27a8U9wH1T9IZ5BhMQnxj8,3,2016,breakbeat,0.549,0.904,7,-2.058,1,0.0563,0.000346,0.166,0.85,0.146,174.028,248276,4
+DJ Fixx,Ill Technique,47HuSxIShdndmE5aYFm2gN,0,2007,breakbeat,0.763,0.85,5,-11.218,0,0.0715,0.000176,0.819,0.192,0.192,137.963,415360,4
+Noisia,Homeworld,6ZEt6veHNJAZBaflSlUE38,4,2006,breakbeat,0.466,0.932,5,-5.935,0,0.0674,0.00236,0.857,0.262,0.378,171.962,496221,4
+Ed Solo,Da Bounce,7reIirQoN6VCnTHFZBjkc0,0,2000,breakbeat,0.704,0.828,2,-8.191,1,0.0624,5.3e-05,0.887,0.386,0.381,90.664,208467,4
+The Chemical Brothers,Sun Collapse,3latLvEAJeLE7NhQKy0IqH,0,2011,breakbeat,0.0,0.358,0,-14.534,1,0.0,0.402,0.979,0.851,0.0,0.0,11067,0
+Future Funk Squad,Tactics - BETA Remix,5nHPjXhl0DFA6Rf23UpUo3,4,2014,breakbeat,0.627,0.972,9,-3.596,1,0.0519,0.000379,0.899,0.0416,0.94,133.001,385403,4
+Guau,Eternity,7I6sfyYXD7cA37aRulE8VB,15,2020,breakbeat,0.601,0.946,1,-8.528,1,0.0476,0.0328,0.93,0.309,0.15,130.013,302769,4
+Freq Nasty,I Was Made for Loving You ft. Amaziree,7J52hxIK379EtF4avjowX6,1,2019,breakbeat,0.765,0.851,6,-6.685,0,0.0718,0.0106,0.000591,0.0926,0.626,133.01,248355,4
+Aggresivnes,More Contempt - Original Mix,698qu7NRv6qPRvjSQom5dW,0,2012,breakbeat,0.693,0.952,7,-5.003,1,0.0452,0.000125,0.739,0.043,0.57,132.991,310439,4
+DJ Icey,This Is Realist,48PseNp5dOBN5ygNYIQRCe,10,2022,breakbeat,0.805,0.663,7,-6.658,0,0.054,0.0183,0.127,0.668,0.296,127.979,292500,4
+Huda Hudia,FWTH - Original STVKD Mix,6B9hetLkS4QXBjqNKGuURw,0,2019,breakbeat,0.647,0.95,9,-3.839,0,0.0543,0.0125,0.16,0.0443,0.376,140.063,246857,4
+Etostone,Can U Feel It - EnPon & Sven Moustopoulos Remix,3TxKDcFV39fNqTp1iIRIRl,0,2013,breakbeat,0.432,0.819,11,-4.509,1,0.1,0.000186,0.173,0.0463,0.502,128.009,322500,4
+The Chemical Brothers,Wide Open - Kölsch Remix,2gGtbxbgqnk33PUXDBX75B,13,2015,breakbeat,0.554,0.673,7,-8.584,1,0.032,0.076,0.773,0.171,0.0638,125.002,513426,4
+Lee Coombs,Make Me,1zhem5l8OqBpJ9WARb9SyB,0,2020,breakbeat,0.656,0.904,5,-7.592,1,0.0571,0.00337,0.896,0.0716,0.141,123.998,470000,4
+Aquasky,Disco Biscuit - Remastered,5tpKt2Wkr8bTPbouQjvHtc,6,2002,breakbeat,0.726,0.991,11,-4.951,0,0.0589,0.000677,0.814,0.308,0.718,138.043,386057,4
+Tayo,Classy and Fresh,6rw8PnsvPzSqJEKMAMhuyL,0,2021,breakbeat,0.868,0.705,9,-9.057,0,0.293,0.293,0.0,0.13,0.709,121.062,251901,4
+The Chemical Brothers,Come With Us - Fatboy Slim Remix Edit,1IVXqhSI4GGPRdxhG1hwvq,2,2002,breakbeat,0.614,0.939,7,-10.995,1,0.0612,0.118,0.788,0.426,0.735,124.962,198813,4
+DJ Baby Anne,Mad Max Danny Bandito,6G6wXTzcNJ8C7Gf7eTZhQE,8,2018,breakbeat,0.776,0.827,7,-3.353,1,0.0543,0.0013,0.00538,0.114,0.563,127.986,256992,4
+Digital Base,2 Frecuency,0DNvS9BlZsIVErzYFSzEqw,1,2023,breakbeat,0.714,0.735,7,-6.828,1,0.0641,0.014,0.614,0.0688,0.344,131.043,355840,4
+The Chemical Brothers,Out Of Control,1stNyR4hTDdHX9DPe4TMGD,24,2019,breakbeat,0.549,0.936,10,-4.126,0,0.0335,0.000554,0.0949,0.0859,0.421,131.97,439760,4
+Guau,Beat - Millennial Mix,35ACrFvHPeHL4dYARInNL0,0,2020,breakbeat,0.765,0.983,2,-4.381,1,0.0811,0.00808,0.242,0.327,0.613,131.968,225455,4
+Ed Solo,Hot This Year - Original Mix,4RWRHyMm6VzQYA7o16qWZU,8,2014,breakbeat,0.584,0.941,7,-2.972,1,0.0438,0.004,0.00666,0.636,0.514,175.088,260571,4
+Quadrat Beat,BlackJack - Blazer Remix,7CasgO7z3PE0Iz8ReknCy3,12,2012,breakbeat,0.651,0.787,10,-3.498,0,0.0574,0.000626,0.175,0.0826,0.528,134.014,301343,4
+Bassnectar,Hologram,2tAPmLKj1NjzvAyyM4SUTM,18,2012,breakbeat,0.454,0.949,7,-3.68,0,0.0707,0.000551,0.000207,0.11,0.392,140.03,288000,4
+Beat Assassins,Heavyweight Sound - Phibes Remix,5wKPS4u5ego0ybj9uItj8D,8,2019,breakbeat,0.647,0.851,6,-1.955,1,0.0768,0.000278,0.0327,0.458,0.366,173.979,320000,4
+Slyde,Feel Alright,2tJLiwp8hv0ey2BTzYkRQw,0,2015,breakbeat,0.714,0.675,4,-4.579,1,0.0292,0.114,0.00608,0.24,0.338,108.09,216627,4
+Hybrid,Until Tomorrow - Stafan Anion & Starfire's Surviving Another Day' Remix,0zcRZuXquA4Ffn2UiWlFwB,5,2007,breakbeat,0.449,0.969,11,-8.828,0,0.0668,0.00217,0.214,0.0769,0.24,136.005,566693,4
+Krafty Kuts,Bass Phenomenon - Core Overload Remix,6hD15cMIzjlhdNWYbyg1DP,0,2006,breakbeat,0.738,0.669,11,-4.431,0,0.165,0.00754,0.427,0.111,0.0759,129.982,364933,4
+Suga7,Heaven - Original Mix,6lw7b7WAxgr04X03ELmMAb,0,2017,breakbeat,0.77,0.75,10,-7.531,0,0.0412,0.00174,0.739,0.0694,0.491,132.013,281823,4
+Hankook,Zoko,7foF5s9GGhvMZiGfLo8eZ9,0,2021,breakbeat,0.684,0.995,8,-4.243,0,0.049,0.000597,0.818,0.213,0.358,132.001,240000,4
+Nubreed,Satellites,2r5lt9JAa6H61wAZrbFpA0,3,2002,breakbeat,0.65,0.785,1,-9.962,1,0.0413,0.000343,0.247,0.255,0.718,135.015,457027,4
+Noisia,Tommy's Theme - Munchi's Fear is Weakness Remix,6CKnvEr8nJG2sWvTZqFwp6,15,2012,breakbeat,0.437,0.803,1,-2.538,1,0.0604,8.86e-05,0.536,0.0593,0.101,107.983,213484,4
+Freddy Fresh,Filter Queen,1mY4QU6z2Bfu0jm8yM7v0e,0,2008,breakbeat,0.879,0.827,10,-7.569,0,0.152,0.00298,0.443,0.251,0.426,120.049,327707,4
+Rektchordz,Rising Up - Behling & Simpson Remix,3aIFBbIlxgHivUHpdTMmDu,0,2013,breakbeat,0.818,0.885,11,-4.395,0,0.103,0.00248,0.654,0.0322,0.784,116.01,366490,4
+Digital Base,Baby Don't Go,36kPCV0jD1HSNwsnfJfsfy,0,2020,breakbeat,0.786,0.997,2,-1.793,1,0.107,0.00297,0.577,0.137,0.32,129.992,295572,4
+Roni Size,Funny Bone,4koZWR5N2rUCPTRMfJW5cv,2,2014,breakbeat,0.385,0.876,4,-3.92,0,0.0432,3.26e-05,0.808,0.128,0.558,174.962,239184,4
+Curtis B,Like A G - Rob Analyze Remix,0gqzheWmElQZgMB6b1sg0H,0,2016,breakbeat,0.767,0.775,6,-7.765,1,0.0542,0.00148,0.0342,0.139,0.357,127.998,270000,4
+Shade k,Brick Beats,7IWyuvPVUEzWHxucB5CRSo,0,2017,breakbeat,0.794,0.947,4,-4.764,0,0.0485,0.0344,0.865,0.118,0.586,129.995,244192,4
+Huda Hudia,System Overload,3aTmaELSgtjbq2O8FXYGjL,15,2001,breakbeat,0.789,0.84,1,-7.143,1,0.0509,0.0017,0.751,0.0595,0.632,133.986,408549,4
+Hankook,Combat Rhytm,0nqgSOyZeaTTMCPsSAFs40,0,2022,breakbeat,0.634,0.982,7,-4.155,0,0.0514,0.00105,0.857,0.454,0.535,130.004,246736,4
+Hybrid,Empire,75KrDV6LAQThlXqAOuvyol,2,2011,breakbeat,0.472,0.595,1,-10.789,1,0.0297,0.000331,0.86,0.344,0.0883,135.023,360440,4
+Aquasky,Lords of Motion,3X51gTBSoOPEnI9e95moxo,2,2000,breakbeat,0.615,0.935,5,-6.097,1,0.0941,0.0102,0.602,0.33,0.207,176.043,528387,4
+Aphrodite,Beautiful Dub,3aQB50mLEL4ycmEBVbIBdB,5,2015,breakbeat,0.536,0.964,2,-2.161,1,0.0523,0.000153,0.637,0.688,0.402,175.891,300036,4
+Stanton Warriors,Dig Deeper (feat. Eva Lazarus) - Rhythm Masters Remix,0jlWrYEkWfqxE3k2lumUc3,2,2016,breakbeat,0.805,0.853,11,-7.302,1,0.0479,0.000197,0.835,0.0638,0.483,123.002,440976,4
+Guau,Unexpected - Original Mix,2JhKJmJObgmiNwMJTVbCYM,0,2014,breakbeat,0.688,0.93,1,-4.378,1,0.148,0.000976,0.319,0.479,0.315,133.98,293799,4
+Lee Coombs,Jx Grooves,7rNGm0hLPMKzhXsyzDaLqx,0,2020,breakbeat,0.727,0.839,3,-7.673,0,0.0696,0.026,0.909,0.104,0.893,122.001,379547,4
+Lo Fidelity Allstars,Your Midnight,1GBX9irtI64KzxE2MdG5zY,0,2013,breakbeat,0.607,0.973,11,-7.311,0,0.0508,0.00247,0.573,0.0498,0.781,117.007,251000,4
+Aquasky,Ready for This - Teamplayers Edit,2HJjSjMFQsj49IiWDLvK0A,1,2006,breakbeat,0.815,0.93,6,-5.391,0,0.162,0.0247,0.0,0.166,0.707,138.003,250720,4
+Mike & Charlie,Needing Your Love - Miraj's 'Mo Money' Mix,4DpddHzSLYmSizv8xkUPsQ,0,2000,breakbeat,0.739,0.861,0,-10.028,1,0.0442,0.00273,0.235,0.0983,0.819,135.004,423520,4
+Guau,Lambo,6hZg803agEnmkxlNv1fJ5a,8,2023,breakbeat,0.597,0.977,2,-2.105,1,0.0393,0.00316,0.778,0.0676,0.48,135.033,220444,4
+The Brainkiller,Dreamy - Original Mix,2K2u4IfzP1pxG1r4FWl0Ue,0,2015,breakbeat,0.691,0.609,9,-5.976,0,0.0364,0.0201,0.905,0.131,0.281,131.999,390909,4
+Plump DJs,Shifting Gears,6WUwHaMGIOhUaGv3t4V9WA,12,2008,breakbeat,0.706,0.966,7,-4.116,1,0.0576,0.0085,0.000189,0.0894,0.789,123.038,168416,4
+The Brainkiller,Me & You,32mAsKiDJO8hVT30RoBali,0,2019,breakbeat,0.702,0.84,7,-5.651,0,0.0871,0.0279,0.0539,0.0551,0.382,131.994,415000,4
+Aquasky,Feel the Sound - 601 Mix,4eE8FHP2RIYaeMOKEk6C4k,0,2011,breakbeat,0.726,0.925,11,-3.822,0,0.0894,0.000799,0.361,0.0655,0.821,139.96,302860,4
+OnDaMiKe,In Love - Bass Mix,6JXRvccvFQj2hv4tcL1LNh,0,2021,breakbeat,0.742,0.981,1,-3.844,1,0.0703,0.000211,0.297,0.0441,0.631,129.985,269538,4
+Myagi,Sun Goes Down,5mhE7PNzUbhcpezz2ytoxE,0,2014,breakbeat,0.702,0.795,6,-5.509,1,0.182,0.0639,0.0318,0.0658,0.671,128.986,342326,4
+General Midi,"I, Robot - Album Dub",51JesBnFRE9ioiltIxgpEx,0,2010,breakbeat,0.642,0.865,0,-9.953,1,0.0919,0.000522,0.862,0.187,0.185,128.013,333750,4
+DJ Fixx,Got That Booty - Original Mix,4bvoh5rKs3UFZdtUo7AZ5Y,17,2015,breakbeat,0.768,0.92,1,-6.656,0,0.0442,0.00611,0.592,0.0498,0.834,127.97,198747,4
+Cut La Roc,Electric Forces Funk - Original,4mE9FtHKOe8gKxGP7UcsJ6,0,2010,breakbeat,0.7,0.676,2,-8.833,1,0.0453,0.000933,0.817,0.154,0.461,128.992,510515,4
+Meat Katie,Dog Eat Dog - Noisily Rework,2bUp4Zxx5s0aIwuB4ghIKg,0,2016,breakbeat,0.792,0.568,2,-6.054,1,0.0587,0.000506,0.497,0.486,0.27,125.994,367680,4
+Left/Right,Deeper - Original Mix,6Jj9k9JjldHiUUvGliDx9Q,21,2023,breakbeat,0.334,0.718,8,-4.508,0,0.0431,0.0413,0.858,0.094,0.329,90.719,201692,3
+Plump DJs,Let's Bounce,2MC3ZZx8OfjZ7ssbgdRNe9,15,2018,breakbeat,0.904,0.75,1,-3.189,0,0.0549,0.00336,0.105,0.0685,0.671,126.006,241908,4
+Deibeat,Rise Up,6H4CwIISUyWLhUnRznQV12,1,2020,breakbeat,0.786,0.829,8,-5.068,1,0.0887,0.000385,0.152,0.0527,0.704,130.004,273396,4
+Yo Speed,Cvlt,4pd7zQ0NowYvgd1yiOjrGu,12,2021,breakbeat,0.667,0.94,11,-5.661,0,0.0348,0.00101,0.838,0.469,0.118,125.007,209290,4
+Layo & Bushwacka!,Sleepy Language,3jlRRMWlz3TgZpUkGdGmMN,32,2002,breakbeat,0.802,0.613,2,-8.624,1,0.167,0.0078,0.825,0.0888,0.336,91.009,340200,4
+Digital Base,Nightmare In The Club,3AqQ8tyRxKDoH900ZPiLos,0,2019,breakbeat,0.733,0.912,10,-2.394,0,0.0986,0.034,0.229,0.126,0.739,131.981,269096,4
+General Midi,A Recording,6eEAlP26Jq4uROylIfvTIG,2,2005,breakbeat,0.522,0.944,6,-9.253,0,0.0749,0.000891,0.803,0.596,0.512,193.98,288224,4
+Deekline,Bam Bam - Benny Page & Deekline Remix,5jZtZxnrPmvwkqFOFLHqvN,28,2020,breakbeat,0.73,0.893,5,-1.326,1,0.0415,0.0213,0.0244,0.0934,0.428,88.017,293486,4
+Aggresivnes,Risky - Original Mix,5EJKev8VyxMiLiSUog4tOf,0,2013,breakbeat,0.788,0.475,9,-4.924,1,0.099,0.0037,0.0566,0.132,0.632,125.978,356270,4
+Baymont Bross,Do It! - Original Mix,5dwbbA5kuZAMEvBvDQlta7,0,2017,breakbeat,0.699,0.799,10,-6.083,0,0.0315,0.0047,0.887,0.0367,0.766,128.029,264210,4
+Etostone,For Eternity - Original Mix,7gau1kk5UgA8m9pBnVOp5P,0,2012,breakbeat,0.781,0.464,1,-7.401,1,0.079,0.000255,0.0039,0.0945,0.725,127.992,325822,4
+The Brainkiller,Miami - Original Mix,6bn24oOMZt1zWp8SKsCSgd,0,2013,breakbeat,0.73,0.966,6,-4.222,0,0.236,0.0123,0.565,0.361,0.303,131.98,383636,4
+Etostone,The Revenge,39uYKAwxNQfVSL6NkjPFo1,0,2010,breakbeat,0.583,0.945,8,-5.709,0,0.0424,1.6e-05,0.887,0.86,0.247,139.913,320947,4
+Shade k,Back To Fuck,6o8mtSilkmRfnKq2FrSopf,5,2017,breakbeat,0.796,0.847,10,-8.503,0,0.0644,0.00715,0.341,0.132,0.486,129.97,200899,4
+Shade k,Sinister Cuts,2wqNAW0OFrDDGhB2G4Tsbo,0,2014,breakbeat,0.662,0.966,7,-3.251,1,0.135,0.000313,0.823,0.914,0.377,135.038,228402,4
+OnDaMiKe,My Name - Original Mix,4bLchCw6mZtaG5z76tD3KO,0,2022,breakbeat,0.765,0.841,11,-6.462,0,0.0853,0.000169,0.0191,0.866,0.643,128.029,248438,4
+OnDaMiKe,Badd Ass Beat - Original Mix,14wbb6JHOt8XnuSG9CIGVM,12,2023,breakbeat,0.647,0.976,2,-2.832,1,0.0399,0.000146,0.396,0.11,0.284,133.998,263284,4
+Freq Nasty,Drum Play - FreQ's Mash Up The Dancehall Edit,45FONuDNSht5qNOnwFF4LK,0,2011,breakbeat,0.731,0.583,0,-4.103,1,0.0303,0.000454,0.116,0.0594,0.314,117.909,302727,5
+Huda Hudia,Break It Down!,79BvRJogyqRwCuXH2OtbeN,13,2018,breakbeat,0.647,0.973,0,-2.588,1,0.0436,0.000409,0.291,0.181,0.365,133.992,300896,4
+Huda Hudia,Maximum Power - DJ X Remix,4ErLMXXRSNg6NfgzrAkKOo,0,2007,breakbeat,0.87,0.819,6,-8.329,0,0.0651,0.0337,0.453,0.0547,0.143,134.043,353364,4
+Freddy Fresh,Tapestry of Lies,4RfLJpDWrdlq59DlilUBEu,0,2022,breakbeat,0.514,0.603,10,-14.928,0,0.0346,0.0362,0.811,0.0844,0.659,120.019,217652,4
+DJ Fixx,NBD - Original Mix,5C0ohHJSXSRsvExdEwM1XQ,0,2018,breakbeat,0.709,0.995,11,-0.535,0,0.0966,0.114,0.725,0.233,0.603,130.026,228923,4
+ILS,Still Crazy - Under This Remix,5e2oAGYyU9H5Kwy8u3onMr,3,2013,breakbeat,0.677,0.827,5,-5.179,0,0.0496,0.00259,0.707,0.0531,0.428,135.009,384245,4
+Noisia,Thursday - Black Sun Empire Remix,3KNy4EaEgeovDzx5tuo8U2,13,2012,breakbeat,0.393,0.89,7,-3.486,0,0.205,0.00225,0.862,0.466,0.246,85.358,258847,4
+Lee Coombs,Head Trip,6BTJDL28xiUcCMQiYlsy4J,2,2016,breakbeat,0.649,0.734,0,-12.406,0,0.0494,0.00149,0.869,0.0765,0.502,129.63,267800,4
+DJ Fixx,Beats and Basslines,6j9nHGqQROu9vejxjUMofI,1,2001,breakbeat,0.783,0.727,7,-6.659,1,0.058,0.000497,0.873,0.0696,0.55,135.981,429787,4
+Paul Hartnoll,Awakening,2sHHxYLHljwD651JvyI5Xa,0,2017,breakbeat,0.531,0.445,0,-14.42,1,0.0425,0.438,0.953,0.0931,0.133,119.978,140404,4
+Aquasky,Advancements - Instrumental,5RDAJezrmZmFDzOhbqJT4k,0,2008,breakbeat,0.822,0.521,8,-5.904,1,0.151,0.014,0.836,0.0835,0.641,87.992,180307,4
+Lo Fidelity Allstars,The All the All - Instrumental,3PtiSrG9kftBYFAJ4eEb0V,0,2007,breakbeat,0.484,0.704,2,-10.149,1,0.0351,0.0412,0.471,0.202,0.127,129.986,347147,4
+Drumattic Twins,Crazy Love - Peo de Pitte Remix,60n40iU1IVeztm3HTZsvRS,7,2009,breakbeat,0.748,0.978,4,-4.832,0,0.11,0.00112,0.0559,0.541,0.777,127.993,343484,4
+Yo Speed,No Bross,4vndxoFZrV9wydLXbi3CJV,0,2016,breakbeat,0.708,0.952,8,-6.57,1,0.0577,0.0116,0.00618,0.14,0.716,128.027,354380,4
+Meat Katie,Bizarre Is Beautiful,7b0JCAWF940WUNuEfBPc8M,0,2019,breakbeat,0.74,0.918,6,-5.965,0,0.0627,0.000175,0.864,0.0698,0.321,130.009,371833,4
+Malente,Lions - Bassnectar&Amp Ill Gates Remix,1zu4cFGx0k2Im9FbTmzCbG,4,2009,breakbeat,0.806,0.585,6,-6.077,0,0.0663,0.000405,0.325,0.105,0.281,138.009,316893,4
+Ed Solo,Ghost Town - Original Mix,7BZh8tw29QoH2aBvZ8uQRs,32,2011,breakbeat,0.597,0.99,7,-3.918,1,0.0526,5.89e-05,0.835,0.0283,0.864,174.967,290811,4
+ILS,Precious (Instrumental),4JyEgPyAkZHv5LCAI8JpxE,0,2010,breakbeat,0.556,0.715,9,-9.044,0,0.0381,0.0281,0.559,0.301,0.404,83.907,224653,4
+Evil Nine,Hired Goons,1NvBjEUgjA4IAcvVf68I5h,32,2004,breakbeat,0.765,0.493,11,-6.834,0,0.0422,0.00207,0.891,0.0966,0.742,126.97,344400,4
+Ed Solo,When I Was a Yout - Krafty Kuts Remix,4BMj0xMSqJqQIO9aOZ9AFF,6,2008,breakbeat,0.659,0.937,1,-6.399,1,0.0505,5.99e-05,0.261,0.0643,0.577,131.977,410707,4
+Cut La Roc,Make Some Noise,6f5zqEW3LAxPXgmynjSVuc,0,2011,breakbeat,0.684,0.507,11,-6.422,0,0.0601,8.15e-06,0.806,0.0886,0.617,127.017,385801,4
+ILS,Angels - ED 209 Mix,3vGnq9G9pldQxbGqpWGn1D,0,2005,breakbeat,0.63,0.968,1,-6.226,1,0.0516,0.00142,0.63,0.264,0.207,137.054,430680,4
+The Darrow Chem Syndicate,On The Roof - Perfect Kombo & Urbano Remix,0sulBCDqpOQW65tcemRB1B,0,2021,breakbeat,0.614,0.915,11,-6.677,0,0.0397,0.000369,0.0648,0.0698,0.37,131.998,283636,4
+Future Funk Squad,Towards The Sun - Evil Nine Remix,4wYi0O5Q9ROdiI215Bg627,3,2009,breakbeat,0.678,0.49,9,-6.802,1,0.044,0.000197,0.181,0.11,0.0482,131.982,437987,4
+Noisia,Diplodocus - The Upbeats Remix,6dAPJRzAjAa58iObsKPELp,15,2012,breakbeat,0.811,0.73,10,-5.551,0,0.382,0.000113,0.0071,0.114,0.405,171.994,275827,4
+Adam Freeland,Morning Sun,4fMEBi72fESvujgofIsdIg,8,2009,breakbeat,0.53,0.851,10,-6.253,0,0.0308,0.00151,0.575,0.387,0.305,132.983,312344,4
+OnDaMiKe,Beetlejuice - Movie Mix,5Bnskg62akyOni3zQRaKnf,1,2022,breakbeat,0.679,0.983,4,-4.545,0,0.0447,0.00642,0.178,0.0359,0.475,132.011,220000,4
+Aquasky,Tranquility (Forces of Nature Remix) - Remaster,3O8AdHub7dQQzvstggVogN,5,2015,breakbeat,0.517,0.754,9,-8.722,0,0.0416,0.0053,0.853,0.0721,0.759,152.856,504429,4
+Stanton Warriors,Get Low - Infrakt Remix,3GVMSiIF4b9qvbutFAhVAF,0,2017,breakbeat,0.734,0.948,5,-3.869,0,0.256,0.147,0.0028,0.109,0.537,127.934,230762,4
+Madox,One More Shot - Albert Wallin Remix,6DSeHX22oVGbAYnWSyw67c,0,2019,breakbeat,0.655,0.835,5,-7.066,1,0.067,0.0077,0.305,0.617,0.528,102.016,211765,4
+Mint Royale,Wait for You - National Forest Production Line Remix,7l4Okv15ESdLyQ20PEsG8j,0,2005,breakbeat,0.594,0.506,1,-6.914,1,0.0303,4.13e-05,0.00246,0.0896,0.701,125.991,293933,4
+Deekline,My Desire - Original Mix,6Y4aAYifGVy9kYN5z1KKLA,0,2015,breakbeat,0.697,0.934,6,-5.578,0,0.0429,0.000737,0.81,0.286,0.615,129.991,336136,4
+Plump DJs,Like a Boulder - Remix,5EHR6uJ8Ba0R2scSwscoMI,0,2015,breakbeat,0.69,0.97,7,-5.884,1,0.07,0.0327,0.14,0.164,0.413,132.027,305312,4
+Smithmonger,Love What You Feel,3bGfiGOhEiZg7esEhdk3Mf,0,2005,breakbeat,0.736,0.764,10,-9.558,0,0.0485,0.00113,0.929,0.0789,0.761,130.006,423160,4
+The Crystal Method,Realizer,0AuhRB6bdvKY7cFpDdCJv9,30,2004,breakbeat,0.648,0.769,10,-6.433,0,0.0324,0.0526,0.848,0.0819,0.448,129.989,228960,4
+The Prodigy,Poison - 95EQ,6ICPqMxKVTYUgZ0JvW0wLF,23,2005,breakbeat,0.713,0.943,1,-4.884,0,0.0841,0.000802,0.644,0.257,0.546,104.034,241200,4
+Bassbin Twins,Woppa,3LGuqRWXGF87eSw0gnWnjh,7,2008,breakbeat,0.699,0.926,7,-7.136,1,0.0671,0.000661,0.884,0.162,0.162,135.985,361765,4
+Curtis B,Bout Dat - Original Mix,4aA89zGDVWUw7KEUT7S02m,0,2015,breakbeat,0.487,0.967,6,-6.407,1,0.311,0.0071,0.801,0.0554,0.558,170.81,195938,5
+Baymont Bross,Wise & Start - Mutantbreakz Remix,0xVktFgfoRTTXifGdexP2O,2,2019,breakbeat,0.702,0.861,1,-4.287,0,0.0569,0.218,1.26e-05,0.0489,0.784,129.937,265900,4
+Freddy Fresh,From the Bottom of My Heart,3zLqwDGeA3uQZO2OpJkPzU,0,2022,breakbeat,0.646,0.392,0,-15.273,1,0.0501,0.0042,0.0502,0.344,0.186,160.0,292049,4
+Hybrid,Out Of The Dark - Original,6blvGVnIpzZstqqt7P9cQL,8,2003,breakbeat,0.552,0.926,11,-8.739,0,0.0557,0.0251,0.577,0.449,0.195,136.041,437707,4
+Hybrid,Noble Tempest,1axVuPfE0rPKl4VxkRInZ6,8,2012,breakbeat,0.498,0.596,2,-11.776,1,0.0369,0.0302,0.865,0.105,0.039,106.968,250093,4
+OnDaMiKe,Freaks Come Out,4gzioqRYXXj6QXdIz9wlgr,0,2019,breakbeat,0.805,0.972,1,-1.761,1,0.0625,0.0122,0.421,0.12,0.552,128.002,243750,4
+Freddy Fresh,21voices,5YACAuYMqc0j4IZk3rJWBh,0,2020,breakbeat,0.32,0.898,0,-6.169,0,0.29,0.315,0.129,0.374,0.194,124.442,387030,4
+Stanton Warriors,Hope Time - Extended Mix,3eoag0epjFSGpYASL5rU7x,0,2016,breakbeat,0.776,0.806,11,-6.948,1,0.0551,0.000995,0.616,0.0201,0.378,129.975,424307,4
+DJ Fixx,On My Mind - Lady Luck And DJ30A Remix,0idHE1xefS41ohQ8oCAFDf,0,2018,breakbeat,0.757,0.977,9,-1.823,0,0.0628,0.0132,0.118,0.0431,0.844,128.054,228750,4
+Curtis B,Hit You Wit It - Original Mix,41Ik92aNdydDEqTkQChR4G,0,2013,breakbeat,0.703,0.951,11,-5.837,0,0.0545,0.000289,0.863,0.0634,0.708,130.036,206769,4
+Meat Katie,Lucia - Flavio Diaz Remix,1bs69j1xMGwJPeLBI4ePKe,0,2016,breakbeat,0.793,0.96,1,-8.076,1,0.055,0.000642,0.913,0.134,0.0385,128.012,360029,4
+DJ Fixx,Shake Ya Body - Original Mix,0Q2FQTWhlUMVfbReyOYC4v,0,2021,breakbeat,0.774,0.94,2,-3.975,1,0.143,0.00219,0.000733,0.0258,0.485,100.01,203400,4
+PMT,Hangover Part 2,1EcN6pJAT4eiev1aioaNz7,0,2013,breakbeat,0.485,0.859,2,-7.968,1,0.0624,4.69e-05,0.929,0.101,0.936,79.554,111947,4
+Drumattic Twins,Fly Young Canaboids,4kGt3FYQTP9zNXZIBlkGDH,1,2008,breakbeat,0.714,0.725,4,-7.286,0,0.0305,0.00131,0.775,0.262,0.881,128.116,209733,4
+Beber,Travelling On - Original Mix,57GsmhjWWcAmYXHvOmKOd1,1,2001,breakbeat,0.736,0.556,1,-13.368,1,0.0652,0.00188,0.109,0.051,0.712,132.002,348627,4
+Hybrid,Washington,3OY2I3aQmcVP5cohlDvBSp,1,2013,breakbeat,0.249,0.868,5,-9.51,1,0.0477,0.0399,0.672,0.036,0.0699,99.922,134230,3
+Freestylers,Infernos,0OsUIO0FQflBOWA0Rn7xWT,7,2006,breakbeat,0.641,0.696,9,-6.331,0,0.0351,0.00654,1.18e-05,0.228,0.416,142.934,231040,4
+The Darrow Chem Syndicate,Poleja! - Perfect Kombo & Urbano Remix,3GO6FQpnQFKI9EYR5zciVU,1,2022,breakbeat,0.368,0.992,7,-5.193,1,0.104,0.0147,0.596,0.223,0.328,134.025,250746,4
+Lo Fidelity Allstars,Left to Listen,4IM3p78b5y2NB7QHeJe9FH,1,2000,breakbeat,0.58,0.749,7,-7.518,0,0.038,0.0223,0.917,0.108,0.926,76.292,171494,4
+Noisia,Asteroids - Tsuruda Remix,6qDV5BXt0UHiIKdUROgNxu,38,2023,breakbeat,0.48,0.775,8,-5.88,0,0.462,0.115,0.159,0.761,0.248,69.964,260571,4
+Elite Force,Stranger,4BrSMW1CIjyupOO7mmyHYA,0,2009,breakbeat,0.591,0.661,3,-11.434,1,0.0414,0.0031,0.0307,0.0859,0.105,109.999,412560,4
+Aquasky,Bounce - Instrumental,7ni4zm9d4aR8qpw8AUlpqO,0,2014,breakbeat,0.72,0.708,0,-6.716,1,0.0421,0.0253,0.624,0.037,0.38,135.009,246607,4
+Bassnectar,Flash Back,27lTnhGJZr4OcXrQqO3pFe,21,2014,breakbeat,0.443,0.755,2,-3.801,0,0.0323,0.0288,0.0014,0.28,0.206,140.123,251357,4
+Bassnectar,Yo - Speaker Junk's Jackin Brazilian Rave Remix,0LitICyxNFdsRdpdH3A8Zu,0,2012,breakbeat,0.804,0.937,4,-5.124,0,0.16,0.0623,0.0507,0.0662,0.699,126.002,399387,4
+Stanton Warriors,Loving Me Wrong (Worthy Remix),6suHSrO45qN6L71nEfqoBU,0,2015,breakbeat,0.558,0.951,7,-4.125,1,0.0356,0.0254,0.309,0.101,0.456,125.008,338000,4
+Digital Base,Bad Habits,5PYG37W6ALz0i8RrLqqkbi,0,2020,breakbeat,0.781,0.893,7,-3.049,1,0.0843,0.00166,0.51,0.0796,0.448,129.994,306466,4
+Meat Katie,The Real El Santos - Original Mix,7e5WatYM5g3LdsqtcW3Hd9,0,2016,breakbeat,0.798,0.632,1,-7.155,1,0.0723,0.00224,0.845,0.104,0.398,128.014,360205,4
+Stanton Warriors,Up2U (Badjokes Remix) - Mixed,3bQEBX2U4IwcpnFYqjTW4W,4,2019,breakbeat,0.392,0.99,6,-4.719,1,0.0658,0.00107,0.974,0.84,0.0794,127.838,44999,4
+Malente,Hot Daddy - Original Version,7ENHWnIDfATprGdiev6fyu,0,2006,breakbeat,0.764,0.67,1,-8.989,1,0.0495,0.000283,0.543,0.115,0.868,128.993,424925,4
+DJ Fixx,Rubber Bands - Original Mix,4tVFwZsk2NVplxT49rPTES,1,2021,breakbeat,0.599,0.992,10,-1.305,0,0.179,0.0324,0.0444,0.126,0.658,160.011,207000,4
+OnDaMiKe,Come Back For More - Agent K Remix,2qLzRcfNPYQeYafVSHgVEZ,0,2015,breakbeat,0.744,0.498,5,-8.768,0,0.0677,0.000572,0.299,0.046,0.497,140.022,294857,4
+DJ Fixx,Lil Stinker,6XBguE5XzttXAifcERBuUN,0,2007,breakbeat,0.736,0.972,7,-11.276,1,0.0684,0.000829,0.558,0.283,0.74,138.001,386627,4
+Shade k,Humanproof,0VKU1ax4LTW7K7oD3vuvlt,0,2014,breakbeat,0.793,0.892,1,-4.533,1,0.263,0.00157,0.761,0.355,0.593,128.238,243781,4
+Hybrid,Theme From Wide Angle - Radio Edit,1zjJ3fQoSCEI30BLZCECMh,0,2003,breakbeat,0.602,0.914,5,-13.43,0,0.0428,0.00175,0.872,0.418,0.553,135.979,215333,4
+Huda Hudia,Freak That,0A6Usb1fxTYWzv5OiZELVN,0,2020,breakbeat,0.831,0.852,2,-2.046,1,0.0461,1.47e-05,0.709,0.102,0.425,150.025,196800,4
+Hybrid,Accelerator - Live In Tokyo,3tWmNqovmkDaR4WD2bRnEQ,5,2000,breakbeat,0.494,0.98,1,-10.393,0,0.0488,0.000385,0.889,0.47,0.323,137.715,431773,4
+DJ Fixx,Ratchet,3KjmrtJN9GgqMmY3wfV87m,0,2019,breakbeat,0.719,0.995,3,-1.183,0,0.256,0.0364,0.142,0.195,0.292,100.009,194400,4
+The Prodigy,Nasty - Zinc Remix,39aUndmEXLVPPyme6y2ivJ,6,2015,breakbeat,0.651,0.996,1,-3.769,1,0.068,0.000545,0.52,0.0338,0.763,137.999,251313,4
+Hybrid,Flashpoint - Demure Remix,0hrgp5Ql0zCjQNX01tFzkW,2,2021,breakbeat,0.582,0.718,10,-11.562,0,0.0463,0.00423,0.794,0.155,0.0752,131.972,252159,4
+Freddy Fresh,Screwdriver,6d5OqzJL6GYqncYENQBDqD,0,2009,breakbeat,0.756,0.942,4,-5.563,0,0.0462,6.84e-05,0.542,0.0932,0.147,117.336,364387,4
+Rektchordz,I Want It - Original MIx,4fOw6BYLhDtLLNseaW0ajr,0,2012,breakbeat,0.736,0.84,1,-5.263,1,0.0583,0.0012,0.818,0.0879,0.368,127.995,362898,4
+Rennie Pilgrem,Defy - Original,2n8UUMYu975Qawcljwwqzl,0,2012,breakbeat,0.413,0.594,9,-7.389,0,0.0548,0.0816,0.428,0.221,0.188,139.888,317141,4
+The Darrow Chem Syndicate,Malicious Venus Pt.2 - Pray For Bass Remix,2aC35VASmZAnTg7PxatyJY,0,2020,breakbeat,0.65,0.986,7,-3.312,1,0.073,0.00466,0.761,0.0219,0.621,133.037,234466,4
+Baymont Bross,Let It Go (feat. Sporty-O) - Original Mix,2DY0vcRSjtV1kWu0dppUQy,12,2012,breakbeat,0.871,0.657,0,-5.204,1,0.047,0.00538,0.000375,0.0433,0.564,130.008,299126,4
+The Chemical Brothers,Swoon - Boys Noize Instrumental,2Cjo3SUfKpB8RsWGWBJhAG,6,2010,breakbeat,0.584,0.805,2,-5.255,0,0.0442,0.00492,0.943,0.0505,0.284,123.997,321587,4
+The Darrow Chem Syndicate,Burial - POK3R Mix,2nPQdnXFJsRyLl3rWTU2Mt,1,2022,breakbeat,0.642,0.95,6,-4.415,0,0.0578,0.0204,0.598,0.181,0.145,132.0,269105,4
+Hankook,303,4YAXZLOywe50pGAi1iRtqm,12,2023,breakbeat,0.756,0.989,9,-1.876,1,0.0396,0.00118,0.914,0.0157,0.445,132.003,234560,4
+Noisia,Program ∴ Incessant (Live),05QRFXla0ua9RHjwzJIJfI,5,2020,breakbeat,0.476,0.94,2,-12.855,1,0.0842,0.000865,0.0664,0.0647,0.547,177.148,151738,4
+Malente,Music Forever - Solo Remix,3w22yQ6HF1RyBvd6XAYX69,0,2009,breakbeat,0.834,0.549,11,-10.206,1,0.181,0.00213,0.517,0.111,0.569,127.007,375427,4
+Bassnectar,Interlock,7jrqdNlJSQ59NqdCXSWVQq,29,2017,breakbeat,0.691,0.946,7,-3.567,0,0.0334,0.0045,0.0826,0.0956,0.22,139.999,219429,4
+Orbital,Where Is It Going? (feat. Stephen Hawking),03BE96OW0KcjB5xSfhrhwa,24,2022,breakbeat,0.549,0.875,11,-6.932,1,0.0417,0.005,0.311,0.27,0.752,128.996,182280,4
+The Prodigy,Wild Frontier - Wilkinson Remix,11PAU0iByaBU82OM8ztHHx,6,2015,breakbeat,0.383,0.88,7,-6.041,1,0.0619,3.96e-05,0.015,0.145,0.155,123.799,256897,3
+Colombo,Hanss - Original Mix,3GYRCQbnWo86EkpBewpywA,0,2012,breakbeat,0.785,0.734,11,-7.502,0,0.1,0.000873,0.563,0.0472,0.392,133.971,374062,4
+Dub Pistols,Mucky Weekend - Danny.Wav Remix,3AWIWlHCWJRO2r4ALvntbz,1,2019,breakbeat,0.763,0.976,11,-2.749,0,0.0689,0.00515,0.00358,0.145,0.848,140.013,294857,4
+Stanton Warriors,Green Light - Majestic Remix,3rD2lgCJuc8eQ6rL7eIuas,18,2020,breakbeat,0.699,0.887,8,-5.487,1,0.045,0.00588,0.697,0.0719,0.71,125.003,158040,4
+Evil Nine,Icicles - Shir Khan Remix,3f9OTi1FpZqzfmW0V4RffL,0,2009,breakbeat,0.789,0.794,0,-7.249,1,0.0364,2.05e-05,0.892,0.0794,0.694,124.977,345918,4
+The Breakfastaz,Freefall,7fUsp5n5w1qno9EfeTXKpP,9,2003,breakbeat,0.655,0.899,10,-7.95,0,0.0369,0.00013,0.83,0.0694,0.588,138.01,394000,4
+Datsik,Solace One - Datsik Remix,4FzB2KbL6ijJvjQQWUmrdV,2,2012,breakbeat,0.605,0.967,7,-4.799,1,0.177,0.00547,1.25e-05,0.0732,0.338,140.001,263910,4
+Keith Mackenzie,The Weekend,2mjEJSpDwu8PIeCfBjarID,3,2022,breakbeat,0.747,0.686,1,-5.637,1,0.0452,0.000752,0.179,0.0771,0.546,128.016,244687,4
+Deekline,Gotta Believe - House Mix,2L2nll1BsOws0Ms4XwmWFT,2,2014,breakbeat,0.69,0.93,9,-3.897,0,0.0493,0.000875,0.238,0.125,0.448,122.036,347045,4
+Shade k,Coscurrent,06qVBRXBiY1FsyzYoMAOPS,0,2017,breakbeat,0.7,0.958,4,-4.564,0,0.0713,0.000122,0.493,0.314,0.479,128.043,205889,4
+Noisia,Swallowed,6oxueFcf5cg8tB9VNPmVyj,13,2013,breakbeat,0.465,0.322,6,-20.125,1,0.0438,0.0567,0.311,0.145,0.139,172.019,103256,4
+Hybrid,System Meltdown,2EFInWVJJdJFXt6Gqt7RLP,0,2015,breakbeat,0.488,0.729,7,-12.769,0,0.0451,0.00445,0.875,0.112,0.127,154.974,221538,4
+Deibeat,New Sensation,1Rp9M38TnOS1514tmQQBej,0,2017,breakbeat,0.85,0.899,9,-4.734,0,0.0787,0.0195,0.429,0.0542,0.571,128.011,277500,4
+The Prodigy,You'll Be UNDER MY WHEELS,09VNMcoG07KTeCPhHcNUgv,35,2004,breakbeat,0.672,0.944,4,-5.214,0,0.0761,0.0102,0.9,0.321,0.382,114.015,236973,4

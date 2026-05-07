@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Gentleman,Man a Rise - Live,3hWVGwhJ41l3kVzEnB1qX0,9,2003,german,0.498,0.755,3,-7.964,0,0.344,0.185,0.0,0.406,0.589,82.516,323777,4
+Johann Sebastian Bach,"Toccata, Adagio & Fugue in C Major, BWV 564: Fugue",2CGweyhq93Ovw41WMYXDs3,6,2002,german,0.488,0.296,0,-20.905,1,0.0349,0.986,0.87,0.0913,0.601,95.504,295200,3
+Daniel Kehlmann,Kapitel 2 - Die Vermessung der Welt,2BTaGVcbLYYdDKaunomc2y,16,2005,german,0.699,0.336,4,-17.89,0,0.949,0.2,1.18e-06,0.15,0.505,108.235,181336,1
+Hans Zimmer,Back to MI6,11WbhdAS2KjLpejK3oQNJM,35,2021,german,0.218,0.279,5,-14.159,1,0.0419,0.473,0.791,0.111,0.0643,128.647,90120,4
+Hans Zimmer,"Cheldorado - From ""The Road To El Dorado"" Soundtrack",5HxzMJEKrD5ssUTVH9Ov3m,23,2000,german,0.654,0.209,6,-16.145,1,0.111,0.795,0.54,0.17,0.307,124.143,266333,4
+Chakuza,Hellboy,5KY7JuNp5hapO7ggq2mgve,14,2010,german,0.335,0.945,0,-5.283,0,0.329,0.0845,0.0,0.11,0.182,84.008,192027,4
+Miami Yacine,Fegefeuer - KMN Street EP.2,7rjB7pSba0OdR30oLCz54o,55,2017,german,0.737,0.818,1,-3.823,1,0.364,0.136,0.0,0.0994,0.175,172.069,83392,4
+Mr. President,Sweat (A La La La La Long),3qaPqQVK0nt80Tw1sWdIaU,29,2012,german,0.707,0.806,0,-5.733,1,0.127,0.078,0.0,0.311,0.606,173.1,230618,4
+Money Boy,Monte Carlo,2uuXKTgNVT6KU6w5aTpW3A,51,2017,german,0.723,0.605,7,-10.789,1,0.149,0.226,0.0,0.457,0.125,91.063,192527,4
+Puhdys,Wut will nicht sterben - Extended Mix,53vLp5vzLhN5UXPDSOLTx3,21,2004,german,0.634,0.859,9,-6.106,1,0.0291,0.0711,1.65e-05,0.26,0.431,110.033,264067,4
+Rising Insane,Chemicals,2CfcG2JGvkVZCE3q7qBgXv,30,2022,german,0.419,0.919,11,-5.633,0,0.0652,2.19e-05,0.0139,0.212,0.514,178.053,203638,4
+Dú Maroc,Das ist Frankfurt,7wO8MVtLgi6hSTOMPU9bVR,15,2013,german,0.528,0.835,1,-6.362,1,0.499,0.34,0.0,0.141,0.467,82.459,176613,4
+Klaus Badelt,Main Title,3tJx7M8Q93WWsGC8zhHEQ0,12,2002,german,0.423,0.242,2,-18.333,1,0.0361,0.694,0.865,0.127,0.0362,198.198,143600,4
+Mystic Prophecy,Eye to Eye,3ojlZUEkinb7XA4tZuvx3y,29,2019,german,0.457,0.973,11,-4.146,0,0.0709,3.73e-06,3.16e-06,0.311,0.379,105.015,255685,4
+Sondaschule,Pommesbude,2jNHL2YC6pGmFKFNC1me6s,9,2002,german,0.505,0.816,7,-5.263,1,0.0899,0.169,0.0,0.438,0.942,195.31,205120,4
+Hans Zimmer,The Capponi Library,5btyrGhDmZYN4rNJWDENzt,17,2001,german,0.0953,0.232,10,-24.223,1,0.0601,0.688,0.917,0.663,0.0372,161.778,74747,4
+Testosteron,Punx & Skins,3LkDcitrhDLmfijYkXwext,21,2009,german,0.543,0.929,2,-1.802,1,0.0318,0.00818,0.0,0.355,0.811,98.939,167973,4
+Hans Zimmer,"Wonders Of The New World - From ""The Road To El Dorado"" Soundtrack",2n3gnyg5dHNoDINgyHIQJP,24,2000,german,0.375,0.662,7,-10.043,1,0.0496,0.2,0.242,0.213,0.386,120.07,355840,4
+Ramin Djawadi,When The Sun Rises In The West,7vM9kol3olJ5Iz3hRtSoNL,19,2011,german,0.146,0.043,5,-29.408,0,0.0438,0.644,0.572,0.16,0.0257,80.017,160253,3
+Electric Callboy,2 Fat 2 Furious,3yOnj5QrGtRnCQqjMenfUC,42,2015,german,0.481,0.967,4,-2.263,0,0.0811,0.000406,0.000508,0.329,0.344,136.967,226266,4
+Collapse Under The Empire,Sacrifice,06KSl0ANq90roamMrkzYK3,16,2014,german,0.395,0.71,0,-9.816,1,0.0359,0.0477,0.884,0.112,0.224,90.023,496987,4
+Namito,Stone Flower - Original,1QrxggFof36TcpeREbDAXI,33,2019,german,0.751,0.621,7,-9.689,1,0.0482,0.000334,0.608,0.116,0.148,113.997,468816,4
+Johann Pachelbel,Partie a 4 in G-dur: Un orage d'avril,64LrULHHUh5GgS9Y0tomIn,8,2007,german,0.359,0.155,6,-17.302,1,0.0418,0.861,0.863,0.107,0.427,106.887,495400,4
+Our Mirage,Vicious Cycle,4JgmARXR3UXn1rRRrjtFhN,27,2022,german,0.481,0.965,8,-6.72,1,0.0681,0.000129,0.000975,0.178,0.351,145.003,262538,4
+Milky Chance,Loveland - Studio Version,4Cc4KB0pMtAEnGZMN6AHUD,36,2014,german,0.339,0.452,8,-9.043,1,0.0371,0.878,1.96e-05,0.18,0.346,84.442,212000,3
+Sinbreed,Newborn Tomorrow,4vrTGfTl2QH1yLjHDvUHSR,15,2010,german,0.396,0.957,11,-4.221,0,0.0559,0.000348,0.0,0.313,0.204,170.021,284333,4
+Johann Sebastian Bach,"Goldberg Variations, BWV 988: Variation 9. Canone alla Terza. a 1 Clav.",0ESLhbThoxgnl9hxR5mFJE,11,2002,german,0.472,0.31,4,-20.496,0,0.0436,0.994,0.904,0.204,0.909,103.448,37907,4
+Alban Berg,"Jugendlieder, Vol. 2 (excerpts): Er Klagt, Daß Der Frühling So Kortz Blüht",2Y74qAIAd1E6Q39aWr39PK,15,2012,german,0.387,0.0363,9,-24.44,1,0.0455,0.988,0.000753,0.203,0.475,145.877,58800,3
+Marsimoto,Wellness,6cGCDFguvr4vEOPSzhFZ45,27,2012,german,0.499,0.771,1,-5.601,1,0.387,0.000829,1.73e-05,0.143,0.241,80.109,199507,4
+B. Bilbo,Tag Team,2LGh6yqxqmT4to8g2TrxeP,33,2021,german,0.802,0.488,4,-11.824,0,0.3,0.441,0.789,0.0978,0.494,152.048,178421,4
+Ufo361,YKKE,4tT9mBO8n3pEuCeUDnzE4s,42,2019,german,0.777,0.445,11,-9.798,0,0.231,0.514,0.00552,0.27,0.456,148.02,264205,4
+Felix Mendelssohn,"Lieder ohne Worte, Op. 62: No. 6 Allegretto grazioso ""Frühlingslied"" (Arr. Ottensamer for Clarinet and Strings)",2O9xI0hT9BNX7TyEDZ8z37,28,2021,german,0.288,0.0936,9,-20.699,1,0.0553,0.93,0.227,0.129,0.208,99.055,116773,4
+Prinz Pi,So viele Fragen - Akustik Version,6PelsQYbY6JxOG6jmYGvXQ,14,2011,german,0.702,0.572,7,-7.757,1,0.329,0.538,0.0,0.116,0.69,79.878,214240,4
+Adam Falckenhagen,Sonata no.5 in F Major: Allegro,5Lo7jQMBowiKgrCpAiHv7E,7,2006,german,0.312,0.179,3,-24.779,1,0.0319,0.948,0.819,0.0913,0.418,86.042,223893,4
+Samba,Samba Do Brasil,2THGVy4wWnkDZUxLjan1nN,19,2014,german,0.535,0.765,11,-10.057,0,0.0792,0.0797,0.962,0.0956,0.546,97.26,126368,4
+York,Iceflowers,1o3WOg3x0KmglLt1dleeLb,21,2005,german,0.578,0.425,7,-12.199,1,0.0392,0.195,0.273,0.0984,0.313,90.016,365147,4
+Moscow Death Brigade,Brother and Sisterhood,2cTyIGfWtfMjfoPkPgxjiQ,34,2017,german,0.73,0.98,11,-2.097,0,0.178,0.0795,0.0,0.308,0.734,139.953,165277,4
+lityway,Für dich (feat. ille & MABU),2e9SUhfqprCWCWNXcZNjxP,55,2021,german,0.794,0.545,8,-7.154,1,0.106,0.344,0.0,0.149,0.329,95.022,196908,4
+Miss Platnum,Come Marry Me (feat. Pete Fox) - Radio Edit,2gIko4hI8B2fepsOCo2yBb,44,2007,german,0.887,0.862,5,-6.297,0,0.152,0.453,0.0,0.316,0.961,99.12,215493,4
+Johann Sebastian Bach,"Toccata and Fugue in D Minor, BWV 565: II. Fugue",1AVgZlTfpHzhpuPqcZh8zs,8,2004,german,0.244,0.191,2,-18.318,0,0.0373,0.758,0.0505,0.0934,0.167,90.895,356360,4
+Current Value,That Smile,0lD5mEmYg13h6LMKHF6yfl,36,2017,german,0.42,0.878,1,-3.473,0,0.066,0.000184,0.484,0.394,0.18,177.122,306641,4
+Ramin Djawadi,Jaws of the Viper,1RFPtQJ3vQjcbkQcI9n2kZ,22,2015,german,0.145,0.0983,8,-22.853,1,0.0413,0.728,0.849,0.106,0.0337,143.964,151413,4
+Blind Guardian,Into the Storm - Live,1a0VyKdZWKi9f5lnoNGMqr,19,2003,german,0.44,0.976,8,-7.047,0,0.113,0.00136,0.713,0.918,0.0392,102.037,292160,4
+KYTES,Alright - RAC Mix,58MELIXApCKPOcOih1j8YX,52,2019,german,0.749,0.641,5,-4.385,0,0.0348,0.446,0.111,0.14,0.791,130.0,195808,4
+Reclam Hörbücher,Kleider machen Leute - Teil 46,7azVoaJjHZ2Qr7RqEQ2CWP,8,2004,german,0.702,0.286,11,-16.441,1,0.956,0.267,0.0,0.207,0.604,85.064,91176,4
+Richard Strauss,"Strauss, R, String Sextet from Capriccio, Op. 65",0ikGKOEhmahJPTpjN5FAif,15,2006,german,0.0998,0.0534,5,-26.14,1,0.0468,0.954,0.853,0.247,0.039,82.047,577160,3
+Einmusik,Dune Suave,3RkZM4hPoN6AupH4Ir1RAO,37,2019,german,0.799,0.674,1,-10.703,1,0.0449,0.00123,0.911,0.0884,0.164,124.003,496563,4
+We Butter The Bread With Butter,Bang Bang Bang,3fqLERO54bYUINY8ruSiQ2,30,2015,german,0.552,0.955,4,-3.663,1,0.211,0.00101,0.0124,0.129,0.272,75.037,146613,4
+Die Prinzen,Sie,1kC06P3QlQnGgU0rwZnmZ1,18,2001,german,0.723,0.709,4,-5.802,1,0.0335,0.0908,2.67e-05,0.247,0.698,120.011,225667,4
+Chris SX,Connecting People,5hh3Q14ZT1AjDILPcRwIU9,19,2017,german,0.454,0.899,9,-6.422,1,0.0395,0.000587,0.834,0.342,0.124,140.014,224571,4
+Basslovers United,Drunken - Radio Edit,6wSdtcFruiwiSGIPtpE3va,32,2012,german,0.479,0.949,7,-5.71,0,0.0395,0.135,9.9e-05,0.446,0.691,144.937,192345,4
+George Frideric Handel,"Messiah, HWV 56 / Pt. 3: O Death, Where Is Thy Sting?",2w6L6p8VeAYYoBiVkj3Tpg,11,2013,german,0.313,0.161,3,-20.197,1,0.0908,0.865,0.0,0.496,0.584,173.393,64867,4
+Johannes Brahms,"Serenade No. 1 in D Major, Op. 11: IVb. Menuetto II",7GOiZIvI2FdRFWck1g3UqJ,21,2017,german,0.162,0.0286,7,-26.804,0,0.0462,0.959,0.91,0.14,0.0399,99.638,98040,3
+Carl Philipp Emanuel Bach,"Trio Sonata in B-Flat Major, Wq. 158, H. 584: I. Allegretto",1BjdhXcvTPJw5Xo0DcY17R,11,2013,german,0.363,0.121,9,-18.566,1,0.0411,0.83,0.0,0.0979,0.327,68.094,304440,4
+Philipp Dittberner,Das ist dein Leben (Radio Version),30iEmCEttOpd3HTQi9szB7,52,2015,german,0.591,0.672,1,-7.676,0,0.0305,0.212,0.0,0.235,0.338,91.986,210770,4
+Tangerine Dream,Mother of All Sources,4ITSaHC4CvU2PdcWHRwQDE,23,2015,german,0.542,0.517,0,-12.861,0,0.0315,0.00628,0.698,0.107,0.158,113.696,533667,4
+My Sleeping Karma,hymn 72,0SAjQbUDHz8w1eUUZo3qyB,16,2006,german,0.333,0.727,9,-8.268,1,0.0341,0.0766,0.823,0.107,0.654,172.028,298453,4
+Powerwolf,When The Moon Shines Red,5jhnTWC6U28MhVjFj2iVw1,37,2007,german,0.283,0.696,5,-4.027,0,0.0395,1.68e-05,0.143,0.0837,0.382,123.732,265067,4
+Reyer,Tremble - Reyer Remix,57tn9QFNpa03TQUY7iXwRQ,24,2019,german,0.557,0.705,8,-6.14,0,0.0463,0.0386,1.76e-05,0.0942,0.416,147.978,212787,4
+Anja Schneider,All I See - Mixed,5roHZrFFcPvKNm9MDKgH9d,32,2018,german,0.811,0.627,0,-13.342,1,0.0906,0.0432,0.21,0.118,0.205,119.996,224136,4
+Jennifer Rostock,Himalaya,5eb9KjDxy61Y6AYcfirYNa,39,2008,german,0.576,0.726,0,-5.387,1,0.0291,0.000658,0.0,0.0997,0.41,126.032,218453,4
+Volker Bertelmann,Comrades,5U6gSShluDcUmFwESJVOpb,40,2022,german,0.214,0.0927,3,-20.251,1,0.0449,0.948,0.415,0.096,0.0357,76.212,234586,4
+Hanne & Lore,Karma Supra,6mDycVAJEQGy4FXUu7Nxqa,35,2015,german,0.84,0.746,3,-5.467,1,0.059,0.00208,0.717,0.0478,0.768,120.004,165500,4
+The Blue Angel Lounge,Looming Solid Massive Steamer,28BgkUbp4QDMKHAEGYz5gF,18,2011,german,0.32,0.573,1,-5.914,0,0.0337,0.279,0.799,0.117,0.0513,99.796,355500,4
+Blank & Jones,City Lights - Radio Edit,2xvLahWZQtVzvS9zkmyuQE,41,2007,german,0.668,0.697,6,-8.634,0,0.028,0.492,0.0266,0.101,0.561,103.007,198455,4
+Hans Söllner,I hintere 4-2,5TZh5eYG22dfmzub4SBA9P,17,2001,german,0.649,0.78,2,-8.48,1,0.0845,0.0832,0.0,0.845,0.965,170.561,494093,4
+Groove Coverage,Summer Rain - Rob Mayth Radio,2b2G0CNyd74CdR9q0UwAuW,21,2006,german,0.559,0.959,0,-5.845,1,0.0454,0.000527,0.772,0.133,0.672,139.963,225675,4
+Favorite,30,5thj458auOCM7orqjPbGmq,17,2008,german,0.668,0.529,1,-6.605,1,0.0799,0.127,0.0,0.126,0.0391,86.018,213520,4
+Rammstein,Sonne - Instrumental,7hynkPnzGN2WTonPbLREqy,35,2020,german,0.469,0.85,4,-6.649,0,0.0448,0.000256,0.778,0.122,0.392,75.022,272067,4
+Georg Muffat,Sonata II In G Minor: V. Aria (Muffat),1TNachmLUTMrq3WU2VmuB9,16,2006,german,0.361,0.115,9,-16.359,1,0.0403,0.914,0.494,0.592,0.528,124.822,104880,4
+Scorpions,Can You Feel It,6T2Qm2FRbiWb1QQQ4jNxuP,9,2004,german,0.534,0.857,8,-4.534,1,0.0473,0.000144,0.000102,0.138,0.333,92.994,227613,4
+Ufo361,Next,3yEin2B5mUWnHS26e499E1,50,2019,german,0.823,0.75,10,-4.801,0,0.17,0.0193,0.0,0.139,0.309,154.953,164471,4
+Topic,Let Us Love,2Ln8KzONjBfBYoap9lNh7W,34,2019,german,0.705,0.777,8,-5.126,1,0.0314,0.00283,0.0,0.102,0.567,123.976,182335,4
+Hans Zimmer,Dream of Arrakis,5maXVyAZAkkB3Cf0vca9CY,46,2021,german,0.289,0.206,9,-21.706,1,0.0415,0.28,0.662,0.0968,0.0384,159.959,188747,4
+4LYN,Whooo,2PawtFBqJTgSCx8oUGbliJ,37,2001,german,0.524,0.91,7,-6.106,1,0.173,0.0163,0.0,0.241,0.274,106.268,215987,4
+Johann Sebastian Bach,"The Art of Fugue, BWV 1080 - later version of the original print edited by Christoph Wolff: Contrapunctus No. 1",12VdZvyrs6WyJwPT88Vi7V,7,2008,german,0.459,0.18,2,-23.221,0,0.0584,0.994,0.817,0.083,0.334,115.618,181227,4
+Johannes Brahms,"Piano Quintet in F minor, Op. 34: 3. Scherzo (Allegro)",2MyRikj06G0oWicSQdpEXm,6,2007,german,0.446,0.185,0,-19.341,1,0.0467,0.903,0.847,0.0989,0.373,120.008,480560,4
+Feiert Jesus!,"Ich will dir danken, Herr",1M36C7NJtz4qxDa0YmGihI,11,2007,german,0.575,0.781,7,-5.301,1,0.0317,0.0245,0.0,0.265,0.687,108.006,221373,4
+Scorpions,Knock 'em Dead,7C4zaOhbVdjiLugduwm8GS,33,2022,german,0.561,0.977,7,-2.998,1,0.059,0.000323,0.106,0.138,0.549,127.012,251323,4
+Powerwolf,Conquistadores,6yWWHGGIVyg25SzeT38BGL,30,2015,german,0.288,0.903,1,-5.078,0,0.0439,5.69e-05,0.49,0.219,0.161,173.956,285307,4
+SNAP!,The Power,1O48hr7qbT9KBKxDbS0Bge,10,2004,german,0.761,0.885,0,-6.811,1,0.0586,0.049,0.0173,0.476,0.686,108.882,229040,4
+Culcha Candela,Schöne neue Welt,3OxxaGeo4W3LuvMoulB72I,47,2009,german,0.794,0.865,7,-4.529,1,0.037,0.14,4.76e-06,0.353,0.394,138.989,220120,4
+Helloween,Dreambound,5layzZQ6KrrkoHugLP6U8G,20,2007,german,0.427,0.979,0,-5.87,1,0.172,8.06e-06,0.128,0.173,0.0395,127.904,357053,4
+Jan Hegenberg,Haare,5bJ26VusOanIIx4oyy9kGb,21,2012,german,0.584,0.47,9,-7.268,0,0.0819,0.548,0.0,0.104,0.798,104.59,193653,4
+Hans Zimmer,Day One - Original Demo,1GelvXCuNRJkSTV8UwAAGw,46,2014,german,0.347,0.0213,9,-24.608,0,0.0356,0.97,0.926,0.0803,0.0385,96.101,229146,3
+Kool Savas,Nur ein Skit,4B315WpXYt97xMgR6YMYG5,12,2009,german,0.702,0.834,2,-5.702,1,0.258,0.00594,0.0139,0.615,0.957,148.977,76453,4
+Future Breeze,Temple Of Dreams - Radio Edit,3aJEME36nrUEBYZ4mjuuBV,30,2001,german,0.648,0.947,0,-7.275,0,0.134,0.00348,0.127,0.339,0.253,139.017,183438,4
+Krickz,Démon Idéal,1XDGcTHrOqSIxN2mnECkV1,21,2016,german,0.613,0.884,4,-3.457,0,0.108,0.0831,0.0,0.117,0.407,102.074,218824,4
+Marc Streitenfeld,Writing the Letter,0aw0vltyEiIK6ZZTeBfzBA,29,2012,german,0.204,0.215,0,-25.142,1,0.0816,0.795,0.839,0.101,0.0396,135.709,120467,4
+Powerwolf,Incense & Iron,5KDcHol0FbJZCmNivYabkJ,54,2018,german,0.487,0.952,1,-4.429,0,0.0613,0.000228,0.0,0.161,0.329,125.993,237933,4
+Jacky Terrasson,A Paris,4UsVAmkeeWhxAp942wC8am,12,2000,german,0.422,0.103,0,-19.489,0,0.0444,0.969,0.908,0.152,0.146,169.235,532627,3
+Falco,"Rock Me Amadeus - 12"" American Edit",5SjPfAiNn5rqPkQNcglgVR,41,2016,german,0.685,0.921,10,-6.486,0,0.0715,0.106,0.00419,0.348,0.967,94.089,350133,4
+George Frideric Handel,Rinaldo / Act 1: Aria: Furie terribili,3akq8ZhjKUaquodfW2onnn,11,2000,german,0.362,0.505,1,-15.784,1,0.105,0.689,0.000369,0.103,0.391,158.976,110760,3
+Primal Fear,Fight The Fire,6TZCj6bozPtb2CDx0oomvF,13,2001,german,0.498,0.986,4,-3.733,0,0.111,9.21e-06,0.00132,0.0841,0.0891,95.094,265173,4
+Felix Mendelssohn,"A Midsummer Night's Dream, Incidental Music, Op. 61, MWV M 13: 1. Scherzo",3cADO09dyKoRgZ6qoP8IY5,7,2000,german,0.443,0.271,7,-24.108,0,0.0322,0.895,0.886,0.264,0.523,132.619,267507,3
+George Frideric Handel,"Oboe Concerto No. 3 in G Minor, HWV 287: I. Grave",2BiIDVMQ0uNsPhHkejjLTy,10,2007,german,0.307,0.0495,7,-24.524,0,0.0437,0.926,0.838,0.485,0.366,100.777,149027,4
+Ramin Djawadi,"Stand And Fight - From The ""Game Of Thrones: Season 2"" Soundtrack",2J7ttDmGoE1LS1wvQD61cR,21,2012,german,0.247,0.69,4,-10.983,1,0.0409,0.288,0.92,0.0882,0.215,76.363,125693,4
+Coronatus,Howling Wind,4y7MlNFDdzVhVZ04jEkDFr,27,2017,german,0.513,0.882,5,-5.668,0,0.0386,0.00541,8.16e-05,0.351,0.354,123.027,298987,4
+Johann Sebastian Bach,"The Well-Tempered Clavier, Book I: No. 7 in E-Flat Major, BWV 852: Fugue",6E9pxReuxpFk1HO5h1Fj5p,10,2004,german,0.514,0.397,0,-16.032,0,0.0316,0.992,0.856,0.283,0.965,109.427,87467,4
+Söhne Mannheims,Das hat die Welt noch nicht gesehen - MTV Unplugged,5OZmLczRbs6i7pmqHVKE9m,37,2015,german,0.583,0.458,7,-9.709,1,0.0759,0.533,0.0,0.687,0.268,145.904,315853,4
+Leaves' Eyes,Norwegian Lovesong,2MN8hEyc1hGnN8qDYWdeA9,26,2004,german,0.356,0.893,9,-5.003,0,0.0416,0.00384,0.000129,0.106,0.218,161.817,223453,3
+Wirtz,Geschichten ohne Sieger,1Yn7LknGo5s7CLj8H9wP3Q,16,2009,german,0.376,0.764,10,-4.008,1,0.0438,0.0497,0.0,0.0606,0.527,116.153,213027,5
+Friedrich Kuhlau,"Piano Sonata in A Major, Op. 59, No. 1: II. Rondo: Allegro scherzando",2FKrlvLrMDIqpPVnIPbqlT,13,2008,german,0.409,0.103,9,-22.718,1,0.0492,0.99,0.912,0.0755,0.594,131.445,176467,4
+Oli. P,Haste nicht gesehen (feat. Dekka),0PgoYslkvkELdftlqF0fe9,5,2001,german,0.805,0.468,7,-11.375,1,0.146,0.0374,7.03e-05,0.111,0.416,95.978,200427,4
+Marc Streitenfeld,Alpha,3tDfBzg1VZBL3MkEm6bbIp,48,2012,german,0.102,0.15,0,-22.262,1,0.0349,0.969,0.95,0.0688,0.062,72.551,136027,4
+Loco Dice,Tight Laces,6MtmEAjjYO5MKvyTsYEofN,22,2008,german,0.806,0.486,10,-8.624,0,0.0952,0.000151,0.874,0.0724,0.539,127.009,363831,4
+Kid Kopphausen,Das Leichteste der Welt,43n7UfSXnMEjatKAfdAYHG,40,2012,german,0.544,0.846,9,-6.207,1,0.157,0.0107,4.1e-06,0.115,0.363,127.975,256933,4
+Money Boy,Perkys,2qBl6nPXhJMTN7A5R9KvqM,52,2019,german,0.912,0.592,9,-8.658,1,0.368,0.0279,1.03e-05,0.0969,0.213,136.049,134586,4
+Kool Savas,Afsoun & Derya Skit,5OF3fi0RlGttQuX6AGYC9e,18,2010,german,0.705,0.454,7,-16.311,1,0.927,0.908,0.0,0.891,0.689,102.599,60480,1
+My Sleeping Karma,Prithvi,0JgxXDXQJJazskzpC3Cciq,29,2015,german,0.293,0.682,9,-10.774,1,0.0368,0.173,0.86,0.33,0.142,136.776,389213,4
+Pink Cream 69,Wasted Years,5YVPdAejng26ob1Zu54oxs,14,2013,german,0.447,0.921,0,-5.618,0,0.0739,0.00102,0.0098,0.24,0.326,158.015,235947,4
+Scorpions,Love Will Keep Us Alive,0bn7UmspbFfCEzsv9AzNuX,28,2007,german,0.542,0.734,2,-3.409,0,0.0316,0.0243,0.0,0.0868,0.267,116.975,272120,4
+Thomas Schumacher,Stella,3mdap2EJvA7MJR988IDL0g,28,2017,german,0.755,0.938,5,-6.524,0,0.0392,4.47e-06,0.915,0.0762,0.0306,127.996,567049,4
+Jaill,Tagträumer,7BdqoSHhIMbev0vFZv1ScW,28,2019,german,0.853,0.696,6,-7.08,0,0.296,0.163,0.0,0.0933,0.622,143.093,181566,4
+Ardian Bujupi,Panorama,4XBUenjR9pWDFtM9dSckEa,45,2020,german,0.901,0.697,9,-5.569,0,0.0601,0.213,0.0,0.115,0.644,96.003,185896,4
+Tangerine Dream,Dolphin Dance,7G320pnUSkT3rizGXarT0G,17,2011,german,0.485,0.637,11,-9.886,0,0.0321,0.00303,0.436,0.113,0.949,171.986,306840,4
+Johann Sebastian Bach,"Bach, JS: Herz und Mund und Tat und Leben, BWV 147: No. 10, Choral. ""Jesus bleibet meine Freude"" (Arr. for Piano)",4YgQ5x2VdVLYYxCPBMcnnn,21,2006,german,0.224,0.188,7,-20.499,1,0.0642,0.995,0.881,0.136,0.494,204.313,211760,3
+Gregor Hilden,It's Not Easy,7psEfBGgiKwFi0rK3ZDZZA,20,2011,german,0.715,0.533,8,-4.749,1,0.0278,0.74,0.0,0.0823,0.434,98.014,242573,4
+Felix Mendelssohn,"Lieder Ohne Worte No. 1 in E-Flat Major, Op. 30: Andante Espressivo",2z5A7a1LRsXvHCsUDwiDfG,15,2009,german,0.373,0.0127,3,-27.575,1,0.0373,0.994,0.916,0.104,0.0754,70.9,301173,4
+Sarah Connor,Ring Out The Bells,03qftRowv8aPZnNZbILxUR,51,2022,german,0.673,0.813,0,-4.082,1,0.046,0.0224,0.0,0.0608,0.771,139.996,239707,4
+Metalium,Break Out,5HlDmNSakgdMYJI7dtLvHA,13,2000,german,0.495,0.971,8,-6.57,0,0.144,3.45e-05,0.0583,0.11,0.118,112.858,251787,4
+Avantasia,I Don't Believe in Your Love - Alternative Version,70S9QyNI7j80HKIE5LKhh0,18,2008,german,0.408,0.836,7,-12.681,0,0.0532,0.000697,6.91e-05,0.0563,0.264,153.056,330160,4
+Johann Sebastian Bach,"Goldberg-Variationen, BWV 988: XXIX. Var. XXVIII",1ahMebWY7hyIozfqqA5Gqt,12,2009,german,0.431,0.176,7,-23.982,1,0.0383,0.995,0.871,0.132,0.715,84.81,68453,3
+Emanuel Satie,Disconnect,0xjLPJViOccQ5EBKu7CsUz,34,2022,german,0.719,0.684,5,-10.085,0,0.0395,0.00271,0.896,0.11,0.205,121.998,427115,4
+DAZZ,I Just Got 2,0v5I3HwpNzrwfl5ffI0RNZ,30,2020,german,0.627,0.862,6,-4.773,1,0.104,0.00204,3.63e-05,0.169,0.313,126.041,142143,4
+666,D.E.V.I.L. - Club Caviar Radio Edit,4NMmg7ocsyab0S0EXVTuwx,24,2000,german,0.695,0.993,0,-4.624,1,0.0641,0.00453,0.692,0.0494,0.562,137.987,214785,4
+Hans Zimmer,Do You Bleed?,0gI04tkiRuV9TPNPElVFyE,26,2016,german,0.196,0.659,4,-11.839,0,0.0586,0.209,0.92,0.0982,0.037,96.084,276033,4
+Frei.Wild,Böse und gemein - 2013 Version,0KcDIk5w4MgP09Lccblzji,21,2013,german,0.515,0.939,11,-1.818,0,0.0728,0.0029,7.44e-06,0.3,0.602,134.938,217360,4
+Mike Singer,Deja Vu,6X02CaLihYpdBFLbpid6V5,46,2018,german,0.672,0.871,10,-3.442,0,0.356,0.122,1.78e-06,0.0947,0.397,111.872,191000,4
+lùisa,Under The Wild Skies,5YvndxcKrPS7zWcRUdInib,20,2015,german,0.691,0.5,9,-11.047,0,0.033,0.372,0.782,0.0784,0.288,130.022,235200,4
+Caliban,Liar,2A321EMTX8uf8svZwCxqEu,14,2009,german,0.265,0.966,7,-4.634,1,0.125,0.0122,0.000394,0.17,0.0682,149.908,280173,4
+Hans Zimmer,Sacred Pool Of Tears,3T6IEz4XeCj8N8sUVBMeoJ,41,2008,german,0.229,0.148,0,-18.077,0,0.0398,0.779,0.811,0.108,0.0498,133.235,590813,4
+PA Sports,Dank dir,1PXh6lFHSj7ZGqf2D8olQd,17,2011,german,0.76,0.642,2,-7.202,1,0.215,0.0173,4.26e-05,0.273,0.474,92.018,220933,4
+Michael Patrick Kelly,iD (feat. Gentleman),1mKnXWjyN6MUYpz84F4u7A,53,2017,german,0.789,0.727,5,-5.464,0,0.0467,0.231,0.0,0.176,0.871,97.461,198733,4
+Die 3 vom Ast,07: Lied: Weil Jesus Christ mein Anwalt ist - 06: Die 3 vom Ast kann nichts erschüttern,2jgShqsYQsOic58xxOf6oo,12,2002,german,0.649,0.207,5,-13.926,0,0.289,0.338,0.0,0.34,0.406,110.684,194764,4
+Scooter,Jumping All Over the World - Remastered,2Ysqm6rzOS9Ak3J8vO2r1X,35,2013,german,0.552,0.986,2,-4.244,1,0.0801,0.0177,0.244,0.429,0.447,149.985,229253,4
+Johann Sebastian Bach,"Suite No. 3 in D Major, BWV 1068: Suite No. 3 in D Major, BWV 1068: I. Ouverture",4irTmKmAoIpdhl6XyE0b4U,15,2011,german,0.371,0.32,1,-16.985,1,0.0396,0.866,0.756,0.06,0.502,120.904,589147,4
+CRO,HIGH (feat. Claudia Valentina),4KoSb4nqOjLMptbDaTbOJv,54,2022,german,0.822,0.577,6,-6.581,1,0.0582,0.347,0.00762,0.116,0.79,107.894,168093,4
+Frei.Wild,Geartete Künste hatten wir schon,4aXXAkCWhTksgzdpueLaQn,23,2018,german,0.573,0.957,4,-1.96,1,0.0651,0.0339,0.0,0.238,0.146,109.945,299493,4
+Jaded Heart,Dreams You'll Never See,7hGpn5Dulu4fN1jjrAGToL,27,2005,german,0.454,0.875,3,-3.0,1,0.0451,0.000138,0.0,0.253,0.304,124.027,277627,4
+Alin Coen,Andere Hände,3jDSY10pKQIwE0wFIuXYYY,28,2011,german,0.635,0.198,6,-17.79,0,0.0365,0.9,0.000512,0.105,0.579,152.826,133264,3
+Söhne Mannheims,Can You Feel It? - Live,25D3mG7GxUQ1x7FM9u85l3,7,2001,german,0.466,0.865,1,-6.801,0,0.0765,0.0191,0.0145,0.968,0.244,119.916,424813,4
+Musketeers,งานเต้นรำ,3jQEXiy7AtzDMiilrYlO0H,58,2015,german,0.577,0.749,8,-3.368,1,0.031,0.0827,6.55e-06,0.0977,0.499,124.15,229888,3
+Eunique,MAN NENNT MICH,4pnGmHL2PXPGfmgP61eoei,32,2022,german,0.708,0.649,10,-7.365,0,0.227,0.0858,0.0,0.22,0.477,147.043,135407,4
+Long Distance Calling,Enter: Death Box,7wPMUF9WR1lp3HQG7FESrt,19,2022,german,0.507,0.238,6,-20.841,0,0.0341,0.918,0.938,0.344,0.151,94.75,76800,4
+Sarah Connor,Vincent,7vs1Yi6SUphHp0eW6ys8HG,54,2019,german,0.703,0.78,1,-4.393,1,0.0361,0.151,0.0,0.203,0.519,96.998,283200,4
+Johann Sebastian Bach,"Clavierbuchlein for Anna Magdalena Bach, Book 2, BWV Anh. 113-132: Menuet in G Minor, BWV Anh. 115",4saI3HPkNkAPdlKcdsBDJU,7,2000,german,0.401,0.131,6,-25.931,0,0.0314,0.919,0.0213,0.11,0.556,73.594,127240,4
+We Butter The Bread With Butter,Warum lieben wir nicht mehr,3nRPFlUZFJeuNQYMnTQ4gk,23,2015,german,0.487,0.985,0,-1.541,0,0.122,6.49e-05,0.00396,0.236,0.118,119.963,246053,4
+Ufo361,Paradies,6Hcu2fH44noCEYArOL1A0r,52,2018,german,0.753,0.485,10,-7.77,0,0.113,0.352,5.88e-06,0.138,0.242,136.001,231071,4
+Geier Sturzflug,Bruttosozialprodukt,1LlLan4zpvidJRUBgdTO2U,24,2005,german,0.662,0.931,2,-5.946,1,0.0402,0.326,1.08e-06,0.302,0.965,165.982,188280,4
+Coronatus,My Rose Desire,2f8RqOopxXOnA9Hzd9PzAf,18,2007,german,0.516,0.935,9,-4.772,0,0.0538,0.00285,0.000162,0.169,0.306,93.001,241920,4
+Cascada,Everytime We Touch - B3nte Remix,57W0BeadXDvfEd9GzjKfpv,37,2017,german,0.69,0.923,8,-2.096,1,0.0662,0.0236,1.2e-05,0.333,0.286,128.059,185183,4
+ATB,Eternal Swells,5HJWrBAPKE2v8eAHF4qtvB,15,2004,german,0.57,0.783,0,-8.19,0,0.0295,0.296,0.906,0.822,0.458,110.007,314693,4
+Pulsedriver,Cambodia - Money-G Edit,6nRJdWtI1xKe9UVK8TXETW,28,2001,german,0.748,0.837,0,-3.951,1,0.0508,0.00305,0.00633,0.125,0.381,130.001,236000,4
+Vega,Dem Himmel so nah,3vjAHzd1AGvEGf5cL6PxUz,20,2011,german,0.674,0.697,10,-7.165,0,0.275,0.233,0.0,0.0921,0.525,93.356,204003,4
+Turbostaat,Es fehlte was im 2ten Karton,7nM5u2DktcYtyT70DbRMZC,9,2003,german,0.4,0.91,4,-4.833,0,0.0689,5.76e-06,0.000817,0.12,0.523,103.513,180680,4
+Diary Of Dreams,Epicon,3rn2rvbTdKPlqPovUIZtEk,30,2017,german,0.624,0.945,1,-5.389,0,0.0316,0.0162,0.112,0.0951,0.602,123.991,336240,3
+Ayla,Singularity (Brainchild II) - Ayla's Club Mix,3lSszVVwjjbisUuYBeOSCw,29,2000,german,0.705,0.875,6,-8.591,0,0.0453,0.0658,0.943,0.0565,0.254,136.982,477774,4
+Carl Czerny,"Huit Nocturnes, Op. 368: No. 4 in D-Flat Major",5ZhtgYoKJHzeaJWkwNG0Us,12,2010,german,0.343,0.0147,1,-34.312,1,0.0389,0.983,0.819,0.149,0.0737,133.507,231467,3
+SNAP!,Do You See The Light,72949NPlEqLiHkr3I2x9ew,3,2004,german,0.578,0.883,6,-5.912,0,0.0323,0.00266,0.0017,0.18,0.417,135.976,269000,4
+Johann Sebastian Bach,"The Well-Tempered Clavier, Book I: No. 18 in G-Sharp minor, BWV 863: Fugue",0TSWEV8owHek3Ns8jdCrBc,9,2004,german,0.687,0.0938,8,-24.18,0,0.0564,0.995,0.927,0.111,0.37,97.413,205600,4
+Cascada,(I Need A) Miracle [Radio Mix],3oBAg9YN4pUtX3pWSUf3Sk,18,2004,german,0.639,0.976,0,-6.653,1,0.0408,0.0564,7.6e-06,0.204,0.547,140.024,220987,4
+Milky Chance,Peripeteia - Acoustic Version,6scnbvoSZJWZVmEohgpWRA,25,2017,german,0.824,0.154,6,-14.592,1,0.0376,0.741,2.2e-05,0.109,0.348,111.184,199080,4
+Scooter,Aiii Shot The DJ,1PClUxd4mSItFvaB2Kq65Q,20,2013,german,0.47,0.993,11,-4.457,0,0.0535,0.000362,0.18,0.4,0.547,142.004,210387,4
+Blinded Hearts,Infected,6i6Fg2F39jzzU7nsqX5wcl,36,2021,german,0.708,0.932,6,-3.645,0,0.046,0.0205,0.0,0.248,0.64,126.063,143092,4
+NANA LE VRAI,SAY LESS,3bGQUFxLo7407RlrYZx0E8,36,2020,german,0.609,0.62,11,-7.581,0,0.172,0.0189,0.00229,0.143,0.309,134.201,132770,4
+Kontra K,Social Media,0i0W5j4NdatFguUK0WHzPJ,0,2023,german,0.615,0.802,4,-4.687,0,0.283,0.0463,0.0,0.151,0.763,87.918,170933,4
+Day Din,Breaking Dread,23P8CwZDn4PAChiDBabSli,33,2013,german,0.894,0.633,11,-5.884,0,0.0796,0.0514,0.41,0.111,0.162,138.012,406957,4
+Scorpions,When The Smoke Is Going Down - Live,4TzCcpgbbP9ZNjwePNPviR,1,2023,german,0.433,0.424,1,-10.235,0,0.028,0.137,0.000136,0.846,0.17,106.018,156693,4
+Scorpions,Rock 'n' Roll Band - MTV Unplugged,7nq17PGdgT17BfsgoWXzfs,21,2013,german,0.47,0.954,6,-4.268,0,0.0759,0.107,0.00106,0.973,0.477,171.953,272227,4
+Mach One,Nichts zu verschenken,2Wu16aSmDIk3pnkyqkjbwT,13,2005,german,0.933,0.718,9,-5.397,0,0.281,0.165,0.0,0.11,0.808,110.961,176253,4
+Johannes Brahms,"21 Hungarian Dances, WoO 1: No. 5, Allegro in F-Sharp Minor",6aTRnKSQLlip18PCJAJBYu,13,2013,german,0.32,0.233,7,-12.157,0,0.0342,0.823,0.179,0.268,0.4,139.477,158627,4
+Sash!,Stay - Reloaded Edit,4gZWcKNB5txfLT2hTEC5NA,28,2009,german,0.593,0.942,7,-3.508,0,0.0373,0.00936,0.139,0.121,0.35,134.01,242836,4
+Die 3 vom Ast,20: Schaufel-Otto und der Weg zum Himmel - 09: Die 3 vom Ast zwischen Himmel und Erde,2O78qGwrPPIDj0WnkCzckn,9,2003,german,0.653,0.247,5,-16.664,1,0.958,0.429,0.0,0.48,0.439,70.095,247500,4
+Hans Zimmer,Chimera,0gu3P9LgvSIFbQs2VRBneH,17,2000,german,0.0787,0.0493,2,-24.31,1,0.0359,0.422,0.882,0.107,0.0469,186.779,102173,5
+ITCHY,Why Still Bother,5v8NOFjQCxBxpCNlul11Mg,55,2011,german,0.51,0.686,10,-3.437,0,0.105,0.000481,0.0,0.0781,0.822,161.977,189360,4
+Hans Zimmer,You Look Good Jack,1LkaBc6M1samdvFvAoaGVe,33,2006,german,0.0939,0.103,8,-20.063,1,0.039,0.625,0.918,0.138,0.0385,87.27,334333,4
+Johann Sebastian Bach,"English Suite No. 3 in G Minor, BWV 808: V. Gavotte I/II",07jWgLluMYc9vxLb0LgvKV,15,2011,german,0.407,0.239,0,-22.633,1,0.041,0.989,0.912,0.253,0.574,103.371,170280,4
+Felix Mendelssohn,"Symphony No. 2 in B-Flat Major, Op. 52, MWV A18 ""Hymn of Praise"": IIa. Chorus. Alles was Odem hat lobe den Herrn",77iwbNRrM7zbozq6gzpUGO,5,2023,german,0.188,0.258,10,-16.78,1,0.0325,0.966,0.939,0.437,0.126,104.292,329693,4
+VENUES,We Are One,1ccfGUhdLfsMGy2FmjRrV9,31,2018,german,0.375,0.976,4,-4.92,0,0.168,0.000274,0.0397,0.0687,0.362,175.112,252573,4
+Nikitaman,OhGottOhGott,7blYnl0w43CgIEZLeTdXOL,11,2005,german,0.798,0.738,6,-6.163,1,0.0651,0.101,2.33e-05,0.431,0.817,106.032,197707,4
+RPWL,Wait Five Years,5wxqZ1V5pwjmAl2he3Y7v2,22,2000,german,0.512,0.207,2,-11.247,1,0.0308,0.344,2.16e-05,0.123,0.119,123.069,184653,4
+SDP,Viva la Dealer - Gestört aber GeiL Remix,1twCDBPDERLBAYFhGjmNfI,47,2019,german,0.759,0.805,0,-6.849,1,0.0753,0.207,5.35e-05,0.0938,0.782,121.999,217869,4
+Johann Sebastian Bach,"Bach, JS: Piano Concerto No. 7 in G Minor, BWV 1058: I. —",4EGKtqGjL061Bmr7vVb6oj,18,2008,german,0.503,0.276,7,-19.563,0,0.0376,0.986,0.561,0.119,0.711,90.556,235440,4
+Reclam Hörbücher,Kleider machen Leute - Teil 07,1YcmQTF5UuyAkr1jFqX8AC,9,2004,german,0.759,0.408,8,-14.944,1,0.945,0.583,0.0,0.182,0.718,59.475,110875,5
+RAF Camora,Unnormal,3ZPaurmc1sAep3Wo5UXaAm,52,2019,german,0.658,0.73,10,-6.002,0,0.252,0.448,0.00312,0.193,0.448,88.894,199875,4
+Paul van Dyk,I Don't Deserve You - John O'Callaghan Remix Edit,6WpaocWPsHF7G1ADuxb3uu,38,2013,german,0.582,0.942,11,-5.872,1,0.0571,0.00292,0.319,0.331,0.327,139.937,198857,4
+Hans Zimmer,"This Land (From ""The Lion King"")",7DPJzYJSSdqWoV47GuwApi,32,2017,german,0.156,0.199,7,-16.038,1,0.0334,0.922,0.839,0.123,0.0755,96.213,237093,3
+Blondee,Augen zu und Tanzen - Blondee Remix,085sOv2w3TbTFURoalNPtV,19,2016,german,0.799,0.605,6,-6.88,0,0.0397,0.0325,0.00105,0.0731,0.663,123.991,360000,4
+Johannes Brahms,"Brahms: Piano Concerto No. 2 in B-Flat Major, Op. 83: IV. Allegro grazioso",32BQ1GAxF7HH9QOtJw3Xer,1,2023,german,0.332,0.268,5,-14.015,1,0.0391,0.967,0.85,0.111,0.129,104.057,566867,4
+Ludwig van Beethoven,"Violin Romance No. 2 in F Major, Op. 50 - Live",1iCiiRPthTpOmU0R7gw0Th,13,2002,german,0.286,0.0873,5,-24.347,1,0.0461,0.833,0.0925,0.144,0.109,112.101,503000,4
+Cascada,Just Like a Pill,751Cuu2nMcXPu6FCVe0lRw,15,2006,german,0.59,0.994,9,-4.996,1,0.118,0.0036,2.66e-06,0.285,0.223,137.989,202217,4
+Oxo86,Fussball und Alkohol,2UAFfFFQtjaTpoC5mnpQnh,9,2002,german,0.476,0.968,7,-5.07,1,0.0767,0.000826,1.51e-06,0.346,0.523,102.475,208040,4
+VIZE,White Lies,2QuQkdLLzgktXwruPAz6f4,56,2021,german,0.839,0.751,1,-5.208,0,0.0924,0.177,0.0,0.067,0.525,127.996,183588,4
+Tanzwut,Ihr wolltet Spaß,5aEucuIVnTeOPJ8ruBQ0Ok,20,2003,german,0.613,0.958,9,-5.004,1,0.0677,0.00587,0.0,0.037,0.686,144.95,221707,4
+Ludwig van Beethoven,"String Quartet No. 12 in E-Flat Major, Op. 127: III. Scherzando vivace - Presto",4jxFYjCYCxAtAueh5rabqG,10,2011,german,0.375,0.135,3,-20.294,1,0.0488,0.942,0.121,0.067,0.453,177.481,500947,4
+Tocotronic,Explosion - Live,2JGotLKksYEKSomwq15N8L,13,2008,german,0.191,0.799,6,-8.324,0,0.0905,0.265,0.662,0.708,0.0397,159.61,447707,4
+Bodybangers,Quit Playing Games (With My Heart),7K4soCmLtWWFiECrQjAajz,39,2021,german,0.66,0.885,11,-4.899,0,0.201,0.0748,0.0,0.128,0.449,124.975,149760,4
+Primal Fear,Metal Gods,6W0fJRKcmfVTPZ0rIcFbYM,10,2006,german,0.47,0.847,6,-4.516,0,0.0322,1.42e-05,0.0438,0.521,0.179,102.973,218697,4
+Schrottgrenze,Fernglas,7wDwSGyCsizyk5vwUNujcL,11,2004,german,0.373,0.777,5,-5.131,0,0.0333,0.0105,0.000759,0.328,0.604,173.811,229560,4
+Ramin Djawadi,Two Worlds Colliding,4t5qvoxUF015zMYywfPPU0,22,2016,german,0.55,0.449,5,-13.226,1,0.0411,0.448,0.826,0.0924,0.0925,101.815,202951,3
+Tom Tykwer,New Direction,5aT3i6xNWxRKiTC8CtzCTn,11,2012,german,0.129,0.316,1,-17.505,1,0.0357,0.841,0.879,0.0836,0.217,92.109,106544,3
+Johann Sebastian Bach,"St. John Passion, BWV 245: Part II: Recitative: Und von Stund an nahm sie der Junger (Evangelist, Jesus)",1oPraPT19MbksRXmo4xwtW,17,2011,german,0.403,0.0145,10,-32.406,0,0.0494,0.924,0.0,0.136,0.0502,92.893,79920,4
+4 Promille,Die Nacht,4UaHbJywQbaXowUsRt5RfN,14,2007,german,0.468,0.933,9,-4.902,1,0.0586,0.00435,3.63e-05,0.261,0.791,99.463,224467,4
+LIZOT,Sober,5jQxnJIy96OrUKQy8phVzh,49,2021,german,0.753,0.919,9,-4.709,1,0.15,0.0501,0.144,0.0697,0.27,132.029,120000,4
+Avantasia,Invoke the Machine,2wqiV4aIMOosmQMqnLxXbA,22,2013,german,0.543,0.983,2,-4.27,0,0.066,0.00124,0.00149,0.332,0.27,109.992,332893,4
+George Frideric Handel,"Handel: Coronation Anthem No. 3, HWV 260 ""The King Shall Rejoice"": III. Glory and Great Worship",5StZhfFuuFRge5FKiP2VRq,13,2001,german,0.309,0.21,1,-15.342,1,0.0388,0.914,0.788,0.16,0.0926,75.967,30960,4
+Johannes Brahms,"Intermezzo In E Flat Major, Op. 117 No. 1",3pcnQOXqsB3G2pai7cVrjk,17,2011,german,0.457,0.00569,3,-32.576,1,0.0487,0.994,0.91,0.0878,0.135,75.279,253973,5
+YouNotUs,Good to Me,1Uwk0iRYfQzFfNaGJUhqGs,28,2016,german,0.605,0.869,7,-4.918,0,0.0478,0.0882,1.11e-06,0.246,0.478,122.002,196823,4
+Swan Valley Heights,Take a Swim in God's Washing Machine,4FRb49GiLf0LubhBCReSQG,22,2019,german,0.358,0.585,0,-9.772,1,0.0345,0.000397,0.625,0.299,0.342,131.102,486004,4
+EMMA6,Wunderbare Jahre,7w5By5ofAH8zI7ixAquFj9,38,2011,german,0.558,0.758,10,-4.418,1,0.0519,0.0359,0.0,0.0951,0.537,104.364,175963,4
+Electric Callboy,Lost,17YWWJ4mOV7IYk4B3R9p0y,30,2019,german,0.514,0.937,5,-4.785,0,0.0418,0.000312,3.23e-06,0.313,0.48,89.986,197353,4
+Bushido,Es klickt,64rZUjpQ4ogfUreQY22BoW,14,2008,german,0.772,0.859,9,-4.136,0,0.22,0.0496,0.0,0.114,0.486,94.509,217013,4
+Luciano,MoneyGram,3a8SCGDMZVKRPgjY8MplFQ,46,2018,german,0.779,0.792,10,-6.17,0,0.231,0.0548,0.000398,0.266,0.597,160.05,158053,4
+Oswald von Wolkenstein,Skak - Frolich geschrai so well wir machen,5K0eSV1XTd2KPIbZdJPk29,18,2015,german,0.445,0.168,2,-18.244,0,0.0497,0.981,4.38e-06,0.0974,0.45,117.084,73627,4
+Kadavar,II - I Fly Among the Stars,1EDHvCOOHy9ZMhC9RMUaRA,39,2020,german,0.44,0.63,8,-9.859,0,0.0355,0.196,0.000653,0.136,0.0753,153.438,288320,4
+Ramin Djawadi,Rehoboam,0ExYqZoOXL6Ttipp0KXo0I,24,2020,german,0.0899,0.135,4,-26.238,1,0.0438,0.323,0.835,0.109,0.0319,81.756,159769,4
+Ramin Djawadi,Atonement,0mBEhyPsJfnJzscrm1vxBn,22,2015,german,0.078,0.113,9,-15.995,1,0.0534,0.806,0.888,0.131,0.0311,171.922,174107,5
+makko,Switch Heel,0Pcv9iUz4JeLvNmagCNWvu,53,2020,german,0.765,0.422,8,-12.102,0,0.316,0.457,3.85e-06,0.0967,0.407,159.976,204480,4
+Mogli,Lost,0ugkpTkD73FwCblykqbJsx,30,2017,german,0.285,0.0833,1,-14.322,1,0.0348,0.981,0.0038,0.116,0.198,170.175,195707,4
+Paul Hindemith,Symphonic Metamorphosis after Themes by Carl Maria von Weber (arr. K. Wilson): IV. March,3VURR9ScOzsmw9UIOLAdxT,4,2001,german,0.361,0.209,10,-19.659,1,0.0407,0.925,0.913,0.0685,0.208,144.134,306680,4
+Die Toten Hosen,Auswärtsspiel,7gGPWOTNO4GuBJBDOV2XG3,42,2002,german,0.316,0.967,5,-2.807,1,0.0612,0.0339,6.16e-06,0.357,0.571,171.017,155947,4
+Reclam Hörbücher,Kleider machen Leute - Teil 33,5QQoP68kqMmQwb0ASJwJxD,9,2004,german,0.633,0.258,8,-17.728,1,0.964,0.359,0.0,0.538,0.52,169.315,96965,3
+Hans Zimmer,I'm Not a Hero,56pKYnSA0CyayMJWcEU5kH,53,2008,german,0.3,0.289,10,-17.109,1,0.0557,0.688,0.683,0.0772,0.0492,129.673,394440,4
+HARDBONE,Bang Goes the Money,5ZGDDlADojvIDUuHTbC7CB,29,2020,german,0.341,0.97,2,-2.389,1,0.0723,0.000514,0.0104,0.27,0.26,169.862,175916,4
+Johann Sebastian Bach,"Goldberg-Variationen, BWV 988: XXXII. Aria da Capo",2PJ4lSHv5JNpbr64IKH8lN,13,2009,german,0.324,0.0173,7,-32.18,1,0.048,0.995,0.915,0.135,0.226,160.837,163267,5
+Tokio Hotel,Screamin',4cQ1y3SfBBHotC1BFvOl9z,9,2009,german,0.611,0.928,11,-4.117,0,0.103,0.0396,0.0,0.303,0.256,113.023,237253,4
+Hans Zimmer,Epilogue,0amcaiJos20bV8kBFAqB9r,31,2016,german,0.156,0.164,10,-19.516,1,0.0371,0.937,0.979,0.0837,0.0334,107.191,79893,4
+Cascada,Truly Madly Deeply - Club Mix,4EAJNSIVlBogvG1fbPyaJf,12,2010,german,0.68,0.946,9,-6.382,1,0.0711,0.000192,0.00533,0.067,0.776,140.013,272269,4
+Rrotzer,Break my heart,3z0XA6usBDO0hVNoRpIFPg,56,2019,german,0.828,0.253,8,-14.784,0,0.119,0.277,0.0,0.0797,0.918,112.041,197146,4
+Mystic Prophecy,Satanic Curses,1CjuFFsKUtpdbKgr5Ln5uS,15,2007,german,0.237,0.953,2,-3.961,1,0.0926,0.000128,0.0,0.239,0.199,134.269,220013,4
+Tom Tykwer,Cloud Atlas End Title,3as324lcN486uiE7m0QkUC,31,2012,german,0.354,0.228,0,-10.304,1,0.0296,0.854,0.8,0.113,0.0717,82.758,476164,3
+"Lukas, Der Rapper",Herz Tot,1pTAhLBMztXQ2qUvnybXXs,19,2016,german,0.842,0.362,2,-15.483,0,0.28,0.853,0.0,0.229,0.673,124.944,238704,4
+Freedom Call,A Perfect Day,502MvC2wPyj0C7GQpYUk1l,18,2010,german,0.494,0.974,11,-5.727,1,0.0533,0.00518,0.0,0.0638,0.447,155.067,237467,4
+Groove Coverage,Living On a Prayer,2PqTOM0EK21PlugsuOUMYW,26,2008,german,0.499,0.736,0,-5.822,1,0.205,0.00642,0.0,0.0707,0.0794,139.589,198653,4
+Electric Callboy,Cstrp,01T97xTI5hu1nl0UfLnD7F,37,2014,german,0.484,0.932,5,-5.35,0,0.243,0.00392,0.0,0.792,0.212,150.097,77507,4
+ATB,Summer Rain - 136 BPM Edit,48h9rEVoQpKqplNMqSCuaX,8,2012,german,0.508,0.982,11,-6.568,0,0.0569,0.00211,0.407,0.11,0.416,135.972,261177,4
+The Notwist,Consequence,4Uarjnm77btqIwgozzrnZx,29,2003,german,0.658,0.33,0,-9.479,1,0.0259,0.0455,0.776,0.11,0.256,96.953,313733,4
+Favorite,Faustkampf,3t5ylObkNDZTdkC8164aSb,12,2008,german,0.728,0.87,4,-2.775,0,0.33,0.117,0.0,0.0929,0.675,85.817,230733,4
+Dynamite Deluxe,Zornig!,7HOHkcYEx26VPBrrpLwmrG,16,2000,german,0.711,0.583,9,-6.438,0,0.0737,0.00194,0.0,0.366,0.225,87.85,146760,4
+RPWL,In Your Dreams,42MVF1W6ORr9FrapkOpePn,19,2000,german,0.514,0.721,7,-5.978,1,0.0252,0.000518,0.0879,0.889,0.294,92.999,409947,4
+Hans Zimmer,Revelation,5bVTVPTf4pK90QjQqCU4IW,51,2023,german,0.0858,0.153,2,-18.525,0,0.0405,0.654,0.946,0.0933,0.0296,83.806,180340,3
+Jasmon,Paradise,5YA6WgEFIklDHdHoCZwE55,11,2012,german,0.747,0.805,0,-8.238,1,0.035,0.0697,0.723,0.114,0.795,115.013,236427,4
+Ludwig van Beethoven,"Symphony No. 3 in E-Flat Major, Op. 55 ""Eroica"": II. Marcia funebre (Adagio assai) - Live",3qJioJo6bGZ5RMIauMHVdl,7,2004,german,0.0756,0.0324,8,-23.232,1,0.0414,0.966,0.632,0.0691,0.0357,64.988,1060000,4
+Chakuza,Tanzmarie,6Eh3AXhIDtVvrpQhXzO7gX,17,2016,german,0.519,0.319,5,-12.611,1,0.279,0.619,0.000274,0.0855,0.0899,116.25,203533,4
+Boris Brejcha,Welcome To Real Life,1BbqPu0MLwWoFneoVriOCG,30,2016,german,0.874,0.555,0,-8.672,1,0.0502,3.18e-05,0.872,0.0937,0.234,125.014,462720,4
+Alex Mofa Gang,Nacht aus Gold,3BC0ICiDuHO0b4xQ6muz6l,21,2019,german,0.34,0.927,10,-5.546,0,0.111,0.000409,1.35e-06,0.0986,0.562,175.363,151440,4
+Milky Chance,Sadnecessary - Acoustic Version,1gQitNg0GqMh8NrHk4T2iD,34,2022,german,0.801,0.415,2,-8.413,1,0.0407,0.701,0.0,0.232,0.59,106.024,203927,4
+Cascada,Because the Night - Nightcore Edit,2AmsekQ0WLnjrcn9Ukz55J,41,2015,german,0.54,0.954,1,-7.751,1,0.108,0.00934,0.0705,0.337,0.358,175.043,162789,4
+Alex M.O.R.P.H.,An Angel's Love - Extended Mix,3sVrXqvmEbXGiraK1S4GJZ,19,2012,german,0.47,0.973,0,-5.671,0,0.0632,0.00016,0.725,0.338,0.0655,136.979,510959,4
+Ludwig van Beethoven,"Symphony No. 9 in D Minor, Op. 125 ""Choral"": IV. Finale: Presto - Allegro assai",6IwzbhVYPDbOnF2EmhXrFZ,7,2000,german,0.239,0.187,2,-19.917,1,0.0522,0.951,0.0458,0.136,0.0942,75.34,1381333,4
+Johann Sebastian Bach,"The Well-Tempered Clavier, Book I: Fugue No. 3 in C-Sharp Major, BWV 848",4oGgm03jvj8m9svvsnKKfQ,15,2009,german,0.393,0.202,1,-26.308,1,0.0341,0.994,0.914,0.113,0.868,107.578,128067,4
+NMZS,Nie so wie Ihr,51v5HgRoMzjC4u5OTGRbL2,18,2013,german,0.781,0.831,4,-6.208,1,0.242,0.0298,0.0,0.197,0.834,92.957,170333,4
+Ramin Djawadi,"Prison Break Theme - From ""Prison Break""/Ferry Corsten Breakout Mix (Radio Edit)",0mqfgq6ikjKdRPAhgzTt0j,21,2006,german,0.469,0.595,1,-11.621,1,0.027,6.83e-05,0.797,0.0979,0.106,134.959,221707,4
+Instinkt,Forge,0LTRyV5dvNNXrZk2ZKBelu,13,2018,german,0.505,0.97,10,-2.787,1,0.167,0.000108,0.733,0.0876,0.442,175.054,307200,4
+Felix Jaehn,Hot2Touch - Nu Aspect Remix,6ll4FnPBkb9TI01ykUt7Aj,35,2018,german,0.716,0.893,8,-5.224,0,0.0633,0.0045,0.00275,0.313,0.581,125.024,188067,4
+George Frideric Handel,Walking the Wire / Largo,0pj0O8Yk4ZPHd0CHlWLojw,24,2017,german,0.383,0.582,4,-8.476,1,0.0284,0.898,0.866,0.346,0.216,99.946,258067,4
+Johann Sebastian Bach,"St. John Passion, BWV 245: Part II: Aria: Zerfliesse, mein Herze (Soprano)",5oVLafgtGOXmuzroATL4Fb,18,2011,german,0.241,0.0226,4,-28.662,0,0.0444,0.985,0.323,0.085,0.0379,114.332,422893,4
+Georg Philipp Telemann,"Viola Concerto in G Major, TWV 51:G9: I. Largo (Live)",2GA0hVvgpRjTEDSzSXqUZq,18,2018,german,0.236,0.0841,7,-18.388,1,0.0409,0.968,0.807,0.213,0.142,104.285,207957,3
+Black Raven,Give Back - Remastered,4HVQeVhvQK5lCWLUsCeq4M,15,2001,german,0.661,0.869,4,-5.479,1,0.0757,0.296,3.94e-06,0.108,0.782,107.12,212373,4
+Felix Mendelssohn,"Symphony No. 3 in A Minor, Op. 56, MWV N18 ""Scottish"": II. Vivace non troppo - 1968 Recording",2PsDGc3miq7zTZHH82Liyu,2,2023,german,0.368,0.265,5,-16.047,1,0.0387,0.986,0.83,0.159,0.306,127.806,255000,4
+Max Raabe,Fahrrad fahr´n,4QYPN8GPhpXQ35nrcSPnmw,43,2017,german,0.786,0.424,0,-14.258,1,0.041,0.689,0.00107,0.12,0.445,123.045,183893,4
+Anton Webern,"Fünf Sätze für Streichquartett, Op. 5: I. Heftig Bewegt",3y80tFuWHL1nJvxVSYsr4w,12,2000,german,0.365,0.124,8,-19.945,0,0.0962,0.919,0.0308,0.0435,0.147,85.656,141600,3
+Solomun,Your Love Gives Me Gravity (feat. Planningtorock),45Vag5rYBEtMIFV9pQoNxU,37,2021,german,0.712,0.68,9,-10.441,0,0.0396,0.00168,0.19,0.112,0.135,120.007,279833,4
+Paul Kalkbrenner,Graf Zahl,33R7eq2Yqrhjz7eP6XhCsy,44,2021,german,0.677,0.431,1,-14.526,0,0.0504,0.569,0.87,0.111,0.477,128.024,332870,4
+Juju,Hardcore High,4qX18Am6dJZg0ovgddL7w6,52,2019,german,0.745,0.717,10,-6.101,0,0.0861,0.211,0.0,0.0916,0.334,97.014,184407,4
+Primal Fear,Rulebreaker,3EY3Cg7rs2NYYDXokhc93G,25,2017,german,0.499,0.904,4,-5.117,0,0.0502,7.87e-06,0.00232,0.151,0.707,138.031,278573,4
+MEUTE,Underground,4X6zUY1EljE8sdkW2oaJoz,25,2016,german,0.803,0.772,0,-5.954,0,0.0513,0.0408,0.852,0.0871,0.967,124.008,376750,4
+Fallbrawl,Eyes for an Eye,5qacuxEt6ufAs3OVsT1fg1,22,2012,german,0.323,0.933,7,-5.417,1,0.177,0.00055,0.333,0.0987,0.184,155.025,111947,1
+Johann Sebastian Bach,"Bach, JS: Orchestral Suite No. 4 in D Major, BWV 1069: V. Réjouissance",5WxdV8tk7vR2SkKCz14BNd,13,2023,german,0.713,0.347,1,-15.07,1,0.0385,0.829,0.919,0.0632,0.904,120.752,148960,3
+ATB,Hold You - Airplay Mix,5Vc0NxgHQqWyHXphnmk56V,5,2012,german,0.695,0.945,9,-6.498,0,0.0314,0.0821,0.815,0.242,0.822,133.973,211960,4
+Muff Potter,Bis zum Mond,7wEaKaX8w1Us2OwnyejAdc,11,2003,german,0.477,0.94,2,-4.985,1,0.0611,0.00413,0.00476,0.115,0.476,127.012,167773,4
+CÉLINE,Wenn ich will,1IQbVHOsJiZsuEuZqiyN6N,55,2020,german,0.702,0.451,2,-7.498,0,0.281,0.227,0.0,0.0466,0.543,93.367,128564,4
+Michael Schulte,Someone,5BvgXGcLKnMGtf3irvFA8b,40,2019,german,0.665,0.532,10,-4.362,1,0.039,0.693,0.0,0.0953,0.308,120.031,217000,4
+Josef Rheinberger,"Organ Sonata No. 11, Op. 148: II. Cantinele (Arr. Cullen for Cello and Orchestra)",0xesPVGzrpjF9AcYYNw5yn,6,2004,german,0.15,0.0811,5,-24.171,1,0.0428,0.98,0.901,0.106,0.039,90.62,374187,3
+Orden Ogan,Hollow,0CfzGYjkfxyorEOO83CLvJ,27,2021,german,0.426,0.966,5,-2.653,0,0.0589,1.36e-05,0.0536,0.205,0.254,95.006,347019,4
+Johann Sebastian Bach,"Keyboard Concerto in D Minor, BWV 1052: III. Allegro",035zXJUZfaM1p2I5qPx7qa,10,2000,german,0.459,0.454,2,-15.024,0,0.0313,0.845,0.213,0.0938,0.671,116.251,477133,3
+Kool Savas,"30 Sekunden (feat. Olli Banjo, MoTrip & Alex Prince)",1NopZQ1FPRDzj1lRB3VxX1,20,2010,german,0.625,0.56,7,-8.164,1,0.192,0.00924,1.36e-06,0.35,0.316,97.93,189333,4
+Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",6yz69UL2Cn6d4BLGuuX3Uq,9,2013,german,0.201,0.0639,7,-22.921,1,0.0609,0.968,0.957,0.0947,0.276,132.648,172035,4
+Johann Sebastian Bach,"Overture (Suite) No. 1 in C Major, BWV 1066: II. Courante",6C9ZrQ63AwfP2P9BUvGhRp,12,2000,german,0.35,0.135,0,-20.27,1,0.0474,0.902,0.815,0.312,0.541,67.784,153427,3
+K.I.Z,Walpurgisnacht,36fc7ffgOJZmEAavDEmbwu,53,2007,german,0.788,0.709,9,-5.324,0,0.207,0.0376,0.0,0.532,0.516,119.923,301173,4
+Cascada,(I Need A) Miracle [S.A.D. Radio Mix],5ILFLRWPg4zuZpBOJtI9lI,8,2004,german,0.596,1.0,5,-5.527,1,0.0604,0.0307,0.00605,0.0964,0.556,140.002,207693,4
+Chefdenker,Stalker,5PKFJ4Pw6zRlP1e8JWE89W,10,2010,german,0.621,0.917,1,-3.256,0,0.061,0.00979,7.71e-05,0.957,0.439,130.097,230827,4
+KC Rebell,Polizei,21nMasJVN7cJ9gxtxUEPsu,47,2021,german,0.81,0.731,8,-6.957,1,0.237,0.0264,1.85e-06,0.169,0.71,158.005,147720,4
+Favorite,Für einen Guten Zweck,74EImCQQOiTLIbhKq5krZO,11,2007,german,0.765,0.801,11,-6.733,0,0.35,0.156,0.0,0.0694,0.709,95.025,228293,4
+Böhse Onkelz,Sowas hat man...,3VfjPOymQw4WqzVaAt51yO,18,2011,german,0.621,0.776,6,-5.734,1,0.0292,0.125,0.0,0.115,0.552,99.991,301720,4
+Tigerskin,Neontrance,2WEmgioxwOr7IoDxIf8MGc,15,2006,german,0.826,0.528,11,-9.53,0,0.0713,9.82e-05,0.907,0.0855,0.191,127.008,438200,4
+Gentleman,Be Yourself,7gw9IvBkLfSYhq513XFzU8,15,2004,german,0.703,0.671,10,-5.986,0,0.169,0.291,0.0,0.327,0.924,142.051,229800,4
+Torfrock,Die Sonntagsjäger,2K8fQlQVynHb2Ms0QEc1Nm,9,2001,german,0.686,0.924,2,-3.821,1,0.0833,0.29,0.0,0.319,0.964,81.85,201867,4
+Scorpions,SLY,251NWV5NpXsGQJ6OR2YjVi,34,2010,german,0.32,0.53,1,-5.131,0,0.0294,0.121,0.0003,0.282,0.0822,104.966,316747,4
+Santiano,Frei wie der Wind,7igiMPUSsr5jGIQi4I9CjG,24,2012,german,0.326,0.858,4,-4.852,0,0.0784,0.283,0.000206,0.146,0.666,208.108,185733,4
+Xavier Naidoo,Ich kenne nichts (das so schön ist wie du) - Radio-Edit,1E3HbBRkIbgmgPYNQANDQQ,49,2012,german,0.664,0.614,5,-7.146,1,0.0456,0.144,7.56e-06,0.149,0.425,87.959,336593,4
+Mach One,WennSchonDennSchon,40bMtJt6AT0hJMmOAOD5Z5,12,2007,german,0.773,0.662,6,-7.012,1,0.334,0.208,0.0,0.139,0.601,91.933,211440,4
+Powerwolf,Lust for Blood,4vtjBupNjcXWhS839SGbLX,29,2013,german,0.452,0.924,1,-5.931,1,0.0449,1.15e-05,0.0266,0.0405,0.349,145.476,234613,3
+Electric Callboy,Jagger Swagger,7kUlCGLHEfXnm5QPwfTunn,38,2014,german,0.317,0.982,2,-3.441,1,0.325,5.22e-05,3.67e-05,0.115,0.164,122.463,201027,4
+Farin Urlaub Racing Team,iDisco,2gknpdj7mGEGuaBuQ2DhjA,42,2014,german,0.603,0.974,8,-4.206,0,0.0566,0.00504,0.0,0.171,0.592,132.0,242960,4
+Human Fortress,Skin and Feather,6NPLUyGWqGteZ3NBcKAOoP,13,2003,german,0.535,0.94,11,-7.656,0,0.0733,0.00104,1.87e-05,0.27,0.45,129.958,242733,4
+George Frideric Handel,"Handel: Keyboard Suite in D Minor, HWV 437: III. Sarabande",6ASttL8vAG2Em7dn1JjTC8,7,2011,german,0.662,0.0026,2,-32.693,0,0.415,0.993,0.973,0.0695,0.0515,47.77,182693,4
+Ramin Djawadi,"Spoils of War, Pt. 1",07OCvp44fIyFjp7IJBVnQD,38,2017,german,0.302,0.625,0,-11.988,1,0.0409,0.264,0.899,0.0895,0.128,180.042,233960,3
+Regy Clasen,Kann ich bleiben (heute Nacht),67QRdZ3aSHZwZVAPwAs4cu,7,2004,german,0.579,0.219,2,-11.141,1,0.0373,0.894,0.00121,0.11,0.22,140.155,286973,4
+Exploded View,One Too Many,0w7Yo7oLwlMnrkwLvoHLPr,16,2016,german,0.223,0.265,0,-11.066,1,0.0334,0.521,0.779,0.111,0.0919,81.962,301233,4
+Hans Zimmer,Doomsday Is Family Time,5uqyTkEg9zra2QF9Y2P9sh,6,2007,german,0.185,0.134,7,-19.694,1,0.0403,0.955,0.952,0.122,0.039,72.308,147093,1
+Xavier Naidoo,Wir gehören zusammen - Live,5XrXI7658DWo3j6tPqcRH8,9,2003,german,0.65,0.722,0,-8.2,0,0.0598,0.113,7.03e-05,0.978,0.368,91.987,359707,4
+Hans Zimmer,Spider Pig,0uRLBpJ1DM6w9gQ7mRRvvu,20,2007,german,0.543,0.11,8,-23.044,0,0.0425,0.962,0.0245,0.102,0.374,113.846,64120,4
+Die Lokalmatadore,Gut Holz,4xmmAfQzoSe9gqvQwfjYWW,6,2000,german,0.293,0.991,0,-3.097,1,0.158,0.00443,0.0232,0.0716,0.396,160.774,139827,4
+Seeed,Dancehall Caballeros,6b2vkaiDawOcupyDxNNCba,55,2000,german,0.666,0.627,1,-8.356,1,0.485,0.174,0.0,0.353,0.493,85.487,192453,4
+Axel Rudi Pell,Sea of Evil,0CgwOHqo2tXexR1qYEvLpI,25,2004,german,0.397,0.511,1,-6.617,0,0.0304,0.000163,1.17e-05,0.105,0.215,127.933,505747,4
+Bass Sultan Hengzt,Die Freaks kommen um Mitternacht,2OYqfXCWn5Ok7D514vrLH5,17,2014,german,0.556,0.896,0,-5.815,1,0.248,0.196,0.0,0.142,0.542,169.475,226227,4
+Johann Sebastian Bach,"Gottes Zeit ist die allerbeste Zeit, Cantata BWV 106: No. 1 Sonatina",0LnnOMsDQ3sbPbSZwbMKWA,10,2000,german,0.0733,0.00597,3,-37.509,1,0.0443,0.969,0.759,0.111,0.07,67.545,155933,4
+Hans Zimmer,"Guilty of Being Innocent of Being Jack Sparrow - From ""Pirates of the Caribbean: On Stranger Tides""/Score",0ahHgsbKvBEd3yYQmxHBoj,46,2011,german,0.4,0.408,2,-16.564,1,0.0543,0.661,0.956,0.0814,0.117,181.746,100520,3
+Rising Insane,Heathens,3TnQXEIawq7Q7AMbJcCrVF,35,2020,german,0.518,0.886,0,-7.946,1,0.0405,0.000205,8.38e-05,0.193,0.399,90.036,191333,4
+Von Wegen Lisbeth,Lisa,2XsbdCHvpifPWQ5LPTnFBU,42,2016,german,0.863,0.626,7,-5.449,0,0.0456,0.341,0.0,0.101,0.829,107.016,204973,4
+Rapsoul,Zeig' deine Gefühle nicht,6salcRGMJdRUzYm6sz7aN5,11,2006,german,0.643,0.611,1,-5.428,0,0.073,0.1,0.0,0.0623,0.221,90.921,256920,4
+Ramin Djawadi,"The Kingsroad - From The ""Game Of Thrones"" Soundtrack",7AoHeuLq7LpyeP7S8suz2e,38,2011,german,0.102,0.137,0,-20.27,0,0.0368,0.754,0.969,0.101,0.0493,80.237,126053,4
+Georg Philipp Telemann,"Oboe Concerto in D minor, TWV 51:d1: 1. Adagio",4xko90ve9MvNPdAegGPLko,9,2002,german,0.178,0.2,2,-17.137,0,0.0415,0.916,0.853,0.109,0.0404,87.719,152760,4
+Dekker,Maybe October,4TkGiH6W0MYjPpLgy11sP9,50,2021,german,0.78,0.508,6,-9.689,1,0.0403,0.606,1.81e-05,0.113,0.667,130.015,164196,4
+Brüder Grimm,Hans im Glück - Kapitel 1,0TLM6cm1Pm6NbGFYp4IdaV,17,2013,german,0.701,0.417,5,-10.125,0,0.95,0.629,0.0,0.0905,0.449,89.172,276828,4
+Wolfgang Petry,"Marmor, Stein und Eisen bricht",1gpHcivaEZ1XJJOLgEEqyv,30,2006,german,0.807,0.734,4,-5.751,1,0.0509,0.125,0.000123,0.102,0.924,120.051,189400,4
+DJ Gollum,Don't Look Back - Radio Edit,0Pk8ZxiMZNm1OZzdzVT9WZ,34,2012,german,0.606,0.964,9,-5.253,0,0.0647,0.00108,0.000514,0.0734,0.653,144.976,209504,4
+Japanische Kampfhörspiele,Abflussbestattung,2wInyp2w6BXojggN8KqW0w,12,2004,german,0.456,0.965,6,-4.67,0,0.271,0.0105,0.725,0.128,0.17,113.407,208827,4
+Westernhagen,Wieder hier - Remastered,5ELi6euOZl4dVQ07RDwSmA,30,2000,german,0.581,0.552,0,-8.281,1,0.027,0.19,0.166,0.0761,0.289,119.091,389360,4
+666,D.E.V.I.L. - Radio Devil,067zOoSRJMNytf6qw9gZzA,25,2000,german,0.746,0.995,11,-4.269,1,0.0876,0.00396,0.536,0.189,0.653,129.956,224305,4
+Gottfried Heinrich Stölzel,"Bist du bei mir, BWV 508",62oygX7Lq3UFrvEuGABgOn,6,2000,german,0.304,0.104,2,-17.86,1,0.0592,0.987,1.52e-05,0.0698,0.14,73.09,155187,3
+Clueso,"Tanz aus der Reihe (aus ""Sing meinen Song, Vol. 9"")",3SB9br5OpuleWlHzyeGbVG,26,2022,german,0.79,0.661,6,-8.325,0,0.283,0.0754,0.0,0.677,0.53,94.038,191453,4
+Oli. P,Tief in der Nacht,6isM90a421ioWEzwLCF1IH,5,2001,german,0.696,0.566,9,-11.993,1,0.122,0.0284,0.0206,0.385,0.567,92.99,326520,4
+AnnenMayKantereit,Marie,0YIPrzShvIvlcsZkEnZ4FL,54,2018,german,0.692,0.674,6,-7.308,1,0.0314,0.257,0.0,0.0906,0.544,98.149,209208,4
+MOGUAI,Commander,0ANhtoLYOgtn2BGrOkEvTc,28,2019,german,0.671,0.867,4,-5.365,0,0.0448,0.0306,0.864,0.147,0.234,122.985,206681,4
+Blank & Jones,Illusion,6FwkuaHmqxu7EJ21PNYS5v,31,2015,german,0.766,0.565,9,-8.338,0,0.0594,0.0728,0.907,0.0624,0.623,105.988,301723,4
+Any Given Day,Dead and Gone,7syGLGlZRILCU4JMy6nQqx,22,2014,german,0.274,0.994,10,-2.04,0,0.154,1.58e-05,0.107,0.34,0.228,199.936,249893,4
+Real McCoy,Another Night - Radio Mix,21jeSYnETogdAbpgI5c3db,39,2014,german,0.807,0.83,7,-10.119,1,0.0423,0.0904,0.0028,0.0883,0.889,125.979,237640,4
+Niklas Ibach,Hungry - Remix,1ynanpsKuALvzjvS0BCJxk,47,2015,german,0.762,0.657,10,-8.636,1,0.0524,0.172,0.0123,0.103,0.594,120.992,248645,4
+Electric Callboy,Hypa Hypa (feat. The BossHoss),1is198N8rMlpvIyAVi6PVI,36,2021,german,0.554,0.889,2,-5.114,0,0.057,0.0164,0.0,0.152,0.559,125.975,178480,4
+ABS,Schlagzeilen,5hSMeYpM9hncrR7mOHJDTc,13,2001,german,0.777,0.604,1,-5.622,1,0.188,0.0443,0.0,0.12,0.501,88.025,252333,3
+Silbermond,Irgendwas bleibt - Single Mix,5rq9xjWOyKCbgfSBVYHqbx,14,2009,german,0.523,0.593,4,-6.887,1,0.0245,0.0231,5.3e-05,0.134,0.31,100.185,195333,4
+Egotronic,Meine Sonnenbrille,4y1dp6UIfObkOIFYZ9bpfY,10,2007,german,0.813,0.642,9,-8.274,0,0.125,0.00845,0.00367,0.411,0.793,126.989,260827,4
+Johannes Brahms,"Brahms: Piano Quartet No. 3 in C Minor, Op. 60: II. Scherzo. Allegro",24a9eXMqyNlWeVHuq08aQX,13,2008,german,0.298,0.189,5,-18.922,0,0.0429,0.977,0.421,0.0763,0.173,90.08,253093,3
+Subway To Sally,Angelus,22maVZfB1idXz3OgJwmbt6,32,2009,german,0.445,0.737,11,-6.278,0,0.0306,0.00704,0.0,0.353,0.245,159.941,313040,4
+Boys Noize,Cathryn's Peak,1fcWHJtidaVrJJ9fupyKyY,22,2017,german,0.387,0.688,1,-11.234,1,0.0382,0.303,0.831,0.342,0.0378,109.996,205467,4
+Van Canto,Black Wings of Hate,1XNKsaP9xxyuDJMcuGBEdz,13,2011,german,0.536,0.945,2,-4.399,0,0.0841,0.0402,1.12e-06,0.267,0.488,184.057,281147,3
+Hans Zimmer,Dear Vera,5LwfIEN2RC3q6TiUuvCy4x,20,2010,german,0.0652,0.116,2,-22.036,0,0.0437,0.732,0.769,0.106,0.0329,70.197,106827,3
+Razz,Red & Blue,3bmhQ0lxeJeLDe8ElVLOND,46,2022,german,0.623,0.733,7,-7.005,0,0.0382,0.0154,0.203,0.0689,0.489,130.001,213419,4
+AnnenMayKantereit,3. Stock - Live,5a1oLH15OThDOWdmhlvYxh,29,2016,german,0.427,0.445,9,-9.987,0,0.0442,0.309,0.000589,0.349,0.237,108.046,281693,3
+257ers,Springt!,3y4hOYYA2xFoG3FuG6u4EY,14,2009,german,0.916,0.47,11,-8.67,0,0.282,0.00558,0.0,0.443,0.412,119.987,214013,4
+Johann Sebastian Bach,"Cello Suite No. 1 in G Major, BWV 1007: V. Menuet I & II",3N0lhaKkzEwAVCVFogwyoZ,14,2017,german,0.237,0.028,7,-28.081,1,0.0498,0.988,0.754,0.116,0.345,90.559,196670,3
+Collapse Under The Empire,Seven,6TMrokW46YDdUQu1L51cK8,31,2020,german,0.415,0.72,7,-7.619,0,0.0298,0.00629,0.944,0.175,0.436,180.172,206173,4
+Leoniden,1990,1Hig7RNxPMrYZ9aN5lZtAd,41,2017,german,0.689,0.773,9,-4.342,0,0.0418,0.00262,0.0,0.114,0.473,127.03,174337,4
+Frank Nimsgern,Jack Is Back,1gRxcfxUpKpKkdR9FqkUEO,31,2022,german,0.366,0.451,4,-7.136,0,0.0312,0.691,0.003,0.436,0.0765,111.221,56693,4
+Vega,UNTERWEGS,07XcT9QCuzUBwh7uhTEbjt,23,2020,german,0.649,0.697,10,-5.208,0,0.551,0.167,5.71e-06,0.113,0.348,84.529,196911,3
+Johannes Brahms,"Brahms: Piano Concerto No. 2 in B-Flat Major, Op. 83: II. Allegretto appassionato",69xRZdgkCq88suW9FcGUc9,11,2023,german,0.284,0.142,2,-17.054,0,0.0338,0.987,0.854,0.118,0.103,87.026,559880,4
+Heinz Rudolf Kunze,Kapitel 14 - Folge 1: Die Grube und das Pendel,0lm46nYyKkPf6uFc00vE3H,9,2003,german,0.628,0.475,1,-17.711,1,0.936,0.596,0.0,0.199,0.214,80.573,180010,4
+Marcel Barsotti,Skull Ring,6KlFXDISE0dV8UkILr9CIG,19,2019,german,0.379,0.342,8,-17.874,1,0.0443,0.889,0.632,0.107,0.0396,95.065,117307,4
+ATB,Starfire,6EywVJXKD4Y9sqUmZU7oqV,36,2021,german,0.581,0.718,2,-6.467,0,0.0403,0.00411,0.652,0.0592,0.165,129.993,289846,4
+Robert Schumann,"Davidsbündlertänze, Op. 6 - First Edition (1837): X. Balladenmässig, sehr rasch",7kwzGQ6auYfSBPvBxlnfZW,8,2001,german,0.189,0.165,7,-23.604,0,0.0319,0.992,0.872,0.0945,0.409,88.767,79453,4
+Die Toten Hosen,Walkampf,53zU97cCLDQqGLQvGmDG5X,37,2004,german,0.372,0.663,0,-4.938,1,0.0383,0.0204,0.0,0.202,0.472,143.863,213693,4
+Wisecräcker,¿Porqué Te Vas?,7gBFqCbisYGY03Kj21S9Jl,30,2016,german,0.66,0.922,1,-3.432,1,0.0384,0.00614,1.32e-06,0.216,0.803,102.406,150493,4
+"Lukas, Der Rapper",Claus ist tot! Minecraft Flucht,1vseevo8A0HK6ABp635weo,23,2019,german,0.515,0.352,8,-9.962,1,0.0398,0.748,0.0,0.0957,0.54,100.107,196896,4
+Ben Klock,Before One - Original Mix,2fHh8rJLuuui0SO4K5pk3A,17,2009,german,0.839,0.561,7,-14.322,1,0.0453,0.0528,0.845,0.14,0.597,127.996,444328,4
+Hans Zimmer,Running Out,2S55wdtM46ufVMrRCQwm5o,50,2014,german,0.472,0.112,5,-36.284,1,0.0387,0.978,0.921,0.117,0.357,96.003,117241,5
+Chuck Girard,Sometimes Alleluia,1bazZFAIMX3UR4NJXOJjyX,26,2010,german,0.303,0.413,4,-11.389,1,0.0289,0.58,5.07e-05,0.191,0.303,132.154,334947,4
+Hans Zimmer,Strength And Honor,7csY1TD57HiVc1TpnlLvL5,38,2020,german,0.213,0.0633,0,-28.951,1,0.0408,0.642,0.962,0.124,0.0353,94.316,129907,3
+T78,I Got What U Need,1pvxrDVfVp5NJJzAOfTwJE,31,2019,german,0.65,0.891,7,-5.445,1,0.0644,0.000293,0.892,0.0853,0.205,129.985,426542,4
+Georg Philipp Telemann,Trio in D major / Ré majeur / D-dur: II. Allegro,0XJ89svKa20TAPkXZXqZzx,14,2010,german,0.532,0.0654,1,-25.21,1,0.0508,0.955,0.276,0.213,0.637,129.322,126053,3
+Electric Callboy,Hate/Love,6mGQXpf6ESEb0qVHpuA5Kg,40,2020,german,0.51,0.885,0,-4.296,1,0.0612,0.012,0.0,0.424,0.46,139.982,188000,4
+Carl Philipp Emanuel Bach,"Bach, CPE: Flute Concerto in A Minor, Wq. 166: I. Allegro assai",5hlFW1Eer3qcjbgf6nMFDb,20,2016,german,0.549,0.225,9,-20.591,0,0.0455,0.945,0.894,0.0602,0.572,86.558,497132,3
+Max Bruch,"Scottish Fantasy for Violin and Orchestra, Op. 46: II. Scherzo: Allegro",7n01gdETd55z6ArS6OVEkC,21,2018,german,0.378,0.239,7,-11.405,1,0.0431,0.908,0.15,0.134,0.125,115.05,392533,3
+Von Wegen Lisbeth,US-Studie,0pPj8kGUV0Ie7WXcZW4BKn,43,2014,german,0.778,0.805,11,-5.767,0,0.0294,0.0452,8e-06,0.0724,0.924,110.006,170240,4
+R.I.O.,The Sign,4CKkgaaGV8t0s39wM1HEg0,36,2017,german,0.7,0.824,9,-2.941,1,0.0302,0.0904,0.0,0.0912,0.565,102.983,210000,4
+Clara Schumann,Lorelei,0O8avtJwZZaeyTNYTmk7Ny,7,2006,german,0.323,0.142,7,-19.71,0,0.0449,0.964,0.0102,0.128,0.251,68.676,131000,4
+Daso,Meine,5DfMPwcEud6Xn0VOJCv8AE,44,2007,german,0.685,0.598,11,-8.56,0,0.0325,0.021,0.742,0.103,0.868,126.004,475187,4
+Veysel,Kleiner Cabrón,44x9yNoB69sjlC1plLsGuL,59,2017,german,0.719,0.676,2,-7.453,0,0.15,0.112,0.0,0.175,0.344,128.071,213310,4
+Ramin Djawadi,Not Today,1liDIUrQ6W9LLb4RYZ8wyQ,43,2019,german,0.218,0.0387,8,-23.565,1,0.0504,0.732,0.768,0.115,0.031,125.964,141821,4
+Laith Al-Deen,"Jetzt, hier, immer",2W9UNp0nupBAcfHGJzBKni,16,2002,german,0.556,0.888,2,-6.76,1,0.0491,0.00947,2.57e-06,0.147,0.354,106.045,232027,4
+ATB,Feel You Like A River,4qZWiz2cZsuaSK00zd7W1Y,14,2000,german,0.675,0.809,9,-8.993,0,0.0362,0.506,0.0561,0.101,0.815,125.991,228573,4
+Iriepathie,Play,1xkLFgj9lqJ4O55ZgAXI54,32,2021,german,0.835,0.793,11,-6.737,0,0.163,0.0962,0.0,0.159,0.687,82.003,183016,4
+Original Hamburg Cast,Die Sterne stehen gut,7uWkE3zpbj6A56Z4qt5UaR,15,2004,german,0.694,0.715,0,-7.567,0,0.028,0.0264,0.0,0.386,0.787,135.991,127373,4
+Xandria,Emotional Man,4lVxxT1KFYdd1Onxh1xntm,14,2007,german,0.472,0.86,10,-4.53,0,0.0489,0.00138,3.1e-05,0.324,0.424,77.019,243173,4
+Johann Sebastian Bach,"Magnificat in E-Flat Major, BWV 243a: Gloria in excelsis deo",2TlruJjACXe8LpcCLWp9Mo,12,2006,german,0.276,0.162,1,-19.036,1,0.033,0.99,0.558,0.09,0.458,142.154,76000,4
+Vanden Plas,Vision 11even * in My Universe,6Wn3oywOi6IaUDsNP2nCDk,23,2015,german,0.475,0.777,4,-7.238,0,0.0408,0.0493,0.000309,0.174,0.417,96.623,385907,3
+Ramin Djawadi,Dissolved Girl,2gcC9LsgZMabltUNH9HBQG,25,2020,german,0.618,0.364,3,-17.242,1,0.0283,0.375,0.854,0.141,0.404,131.992,207951,4
+Ocboyblau,Schatten,6crY4Pe5y1irnAKpyNBFXM,56,2022,german,0.851,0.465,2,-10.297,1,0.403,0.252,0.0,0.128,0.642,150.004,89733,4
+Ramin Djawadi,Strong Bones,2E4Bw7OHb3Rcry1qfZChmz,20,2016,german,0.155,0.0517,0,-27.214,1,0.0427,0.973,0.709,0.0941,0.0395,135.872,94419,5
+Funny Van Dannen,Nur du nicht,1TXid1RuPgXKCRaeFkKfmt,10,2002,german,0.571,0.251,0,-12.686,1,0.265,0.778,0.0,0.788,0.73,129.967,312187,4
+Andreas Volz,Du allein,1wYzl9EKi2oJuEak9sgwIg,13,2012,german,0.676,0.523,11,-6.463,1,0.0309,0.32,0.0,0.116,0.202,122.025,226973,4
+Varg,Guten Tag,5ekaJJpk1v5NtD2xWZCera,25,2012,german,0.501,0.992,4,-3.488,0,0.21,1.95e-05,1.84e-06,0.385,0.285,145.967,224400,4
+Silbermond,Durch die Nacht,2jzxiC3UWXAZpA91xcSjn0,14,2004,german,0.513,0.715,2,-6.241,1,0.0299,0.00331,4.94e-05,0.147,0.339,139.993,250040,4
+George Frideric Handel,"Rejoice, the Lord Is King, HWV 286 (Arr. for Choir & Organ)",7azyITeh3Ek5EDRdcOKYLH,9,2000,german,0.219,0.191,0,-14.511,1,0.0322,0.944,6.32e-05,0.226,0.382,90.801,138333,4
+Frank Nimsgern,Ihr lasst uns sterben,6v9rt0qYEzWmJB9sENnnVR,29,2022,german,0.516,0.65,0,-8.633,0,0.102,0.0774,0.0,0.0942,0.403,126.927,251453,4
+LEA,Treppenhaus,0psIeufUtT83Ot2dkLjQ0v,55,2020,german,0.624,0.713,6,-6.071,1,0.167,0.0696,1.99e-06,0.084,0.233,161.714,188747,4
+Hans Zimmer,Coward,4GBZUZe04pHVN0TLhejCSS,51,2014,german,0.427,0.262,0,-18.505,1,0.0429,0.244,0.879,0.227,0.0405,119.983,506876,4
+Sudden,Monster,3uN3QEQjqOFXCwPICJwSaJ,15,2011,german,0.426,0.673,1,-7.032,1,0.304,0.241,0.0,0.0951,0.651,85.578,216019,4
+Johann Pachelbel,Canon In D,4uzjk39dpsIZpjPVfAieLg,19,2012,german,0.159,0.124,2,-20.432,1,0.0387,0.808,0.464,0.116,0.299,73.894,376533,4
+Yung Hurn,Nein,46LJJTfA92zdG1paFBG9AC,42,2016,german,0.736,0.697,0,-8.996,1,0.0303,0.202,0.000145,0.104,0.243,116.054,126078,4
+Illegal 2001,Sei mein Freund - live,7MKQDPVTQ9RQ76XnbN8Bo0,14,2002,german,0.358,0.527,7,-8.771,1,0.031,0.0642,1.4e-06,0.804,0.122,71.111,544867,4
+Rammstein,Sonne - Clawfinger K.O. Remix,06h7pDpxIQ78tQ97DoTMCr,36,2020,german,0.435,0.937,8,-4.603,1,0.0413,9.02e-06,0.318,0.126,0.475,159.984,249227,4
+Traitor,Mad Dictator,3WGMxrtnHowRRdmHctXfpW,26,2018,german,0.338,0.974,11,-2.977,1,0.122,0.000162,0.53,0.153,0.415,110.022,267253,4
+Georg Philipp Telemann,"Oboe Concerto in F Minor, TWV 51:f2: III. Vivace",7e4kZiEqhdvT7VfDVCSnxp,14,2000,german,0.527,0.31,4,-13.727,0,0.0276,0.853,0.882,0.121,0.553,106.951,137827,3
+Danny Plett,Oh Messiah,7oIpaIJmRhD4yuz4o6rPvy,11,2004,german,0.535,0.723,7,-7.641,1,0.0719,0.191,0.0,0.274,0.763,199.981,229133,4
+Mark Tarmonea,Pull Revisited,6E4dNyHTXZ12ljb4xjOGs6,34,2019,german,0.803,0.717,5,-10.11,0,0.0431,0.0252,0.626,0.0617,0.106,122.009,402000,4
+Zate,"In Liebe, dein Ex 2",5WDztXxLiqYL4qQmk9dZRT,25,2020,german,0.555,0.61,8,-10.848,1,0.469,0.605,0.0,0.113,0.631,81.577,229024,4
+Johann Sebastian Bach,"Bach, JS: Herz und Mund und Tat und Leben, BWV 147: No. 6, Choral. ""Wohl mir, daß ich Jesum habe""",714Qu5RHKTOIxkscu26ICw,11,2005,german,0.261,0.133,7,-21.152,1,0.0429,0.978,0.928,0.171,0.28,95.202,210373,4
+"Time, The Valuator",In Control,1mYFrKSccOuXISu7DanQ77,39,2018,german,0.444,0.968,7,-5.092,1,0.185,0.00032,0.0,0.128,0.329,142.902,230058,4
+Ludwig van Beethoven,"Beethoven: Piano Trio No. 7 in B-Flat Major, Op. 97 ""Archduke"": I. Allegro moderato",0UCq4EutsDqvEd69mNWtjZ,10,2003,german,0.368,0.102,10,-18.697,1,0.0393,0.975,0.459,0.095,0.166,126.717,750560,4
+Beyazz,Wach,3nLN2SHqCmL062EndJnDNs,57,2020,german,0.75,0.567,1,-6.44,1,0.237,0.4,0.0,0.139,0.454,83.994,165440,4
+Johann Sebastian Bach,"Anna Magdalena's Notebook, Book 2, BWV Anh. II 113-132: Minuet in G Major, Anh 116",2aDPJqpjwCaF0zdv33c59m,17,2012,german,0.256,0.152,7,-26.27,1,0.0392,0.993,0.953,0.165,0.667,143.064,104453,4
+Tokio Hotel,1000 Oceans,1F6rYWzKultNCXC3IQLHsP,27,2010,german,0.547,0.901,11,-3.349,1,0.0386,0.00636,9.52e-05,0.217,0.444,120.009,244507,4
+Captain Jack,Captain Jack - Short Mix,44l1XP0GIVJtE4MCHIv9b3,24,2005,german,0.667,0.999,1,-4.375,0,0.0828,0.0726,4.16e-05,0.238,0.566,149.875,248533,4
+Richard Wagner,"Rienzi, WWV 49: Overture",3VvMt06n54rCppoJ9G3Oa2,14,2003,german,0.189,0.312,2,-13.442,1,0.0394,0.91,0.913,0.0519,0.0801,87.441,702000,4
+Hans Zimmer,The Da Vinci Code Orchestra Suite: Part 4 - Live,0arkidGcSyMzPvzrFczFZ2,38,2019,german,0.171,0.285,5,-14.665,1,0.0384,0.0418,0.917,0.702,0.0411,108.409,264013,4
+Ludwig van Beethoven,"Piano Sonata No. 18 in E flat, Op. 31 No. 3 -""The Hunt"": 4. Presto con fuoco",2F1GWw7rYm2Lj4q4UI4Oi8,5,2023,german,0.282,0.214,3,-19.843,1,0.0398,0.986,0.862,0.106,0.111,90.692,309000,4
+Paul van Dyk,Avenue,076eUPHpeRl7gOYCFTD15d,24,2000,german,0.547,0.996,5,-6.177,1,0.0473,2.72e-05,0.887,0.256,0.618,142.007,449390,4
+Jan Hegenberg,Die Zockerbraut,35ULF2eAEggLGzmmWrdSji,18,2012,german,0.681,0.697,0,-6.719,1,0.0372,0.175,0.0,0.101,0.743,92.058,221920,4
+Carl Maria von Weber,"Horn Concertino in E Minor, Op. 45, J. 188: I. Adagio - Andante",2uoSngqnDDCFlEiFdx2Kgr,10,2008,german,0.257,0.0337,4,-25.074,1,0.0492,0.993,0.661,0.167,0.124,85.162,335613,4
+York,Everything Changes - Vocal Mix,1i4H8dTR1NQ41wYgpFXZtG,36,2021,german,0.741,0.581,2,-9.097,1,0.0821,0.0717,0.000341,0.0882,0.387,127.901,215713,4
+Böhse Onkelz,Ein langer Weg - Live auf der Loreley,6qYeW1bC1jL8L2uGbZglAO,14,2011,german,0.373,0.806,6,-5.79,1,0.0361,0.0197,0.0,0.315,0.391,169.759,264800,4
+Tangerine Dream,Rare Bird,4RWLYUaxby7CbX2fWHg7U8,20,2011,german,0.484,0.566,1,-10.682,1,0.0281,0.0068,0.0187,0.747,0.147,85.116,236307,4
+Moritz Moszkowski,"Guitarre, Op. 45 No. 2",5ZSracw4v8EqDRkcYhZTq7,25,2014,german,0.332,0.106,7,-21.531,1,0.0523,0.905,0.000757,0.154,0.228,114.691,217960,3
+Johann Daniel Mylius,Courante II,4ZBz3B1vy4k5WBZZSDvUXb,15,2000,german,0.47,0.0664,11,-27.447,0,0.0387,0.972,0.894,0.0966,0.564,114.945,103533,4
+Kadavar,Last Living Dinosaur,5JWT9cWwbLttKe7zrfNnn7,43,2015,german,0.246,0.877,6,-4.534,0,0.0512,5.7e-05,0.0262,0.0777,0.483,172.189,245585,4
+Unantastbar,Ich lebe frei,053TtqsoaU5vleEOsbKdro,14,2011,german,0.465,0.95,2,-2.165,0,0.084,8.22e-05,6.84e-06,0.361,0.26,189.917,191653,4
+Broilers,Alles geht weiter - Live,7sqZjQcULwDBr9uZczsTs4,18,2012,german,0.513,0.969,11,-3.072,1,0.037,0.00509,1.87e-06,0.948,0.608,94.963,177413,4
+Herzog,Auf Chemie und Natour,0p37g5VDYioMi65AAySZiP,17,2014,german,0.709,0.714,6,-6.479,0,0.319,0.152,0.0,0.0732,0.349,99.217,142250,4
+Cascada,Like the Way I Do - Vau Boy Remix,1DUIA59RqyY5L0wSjV3sUX,29,2020,german,0.572,0.887,5,-4.398,0,0.0784,0.0063,0.0,0.37,0.551,140.138,157714,4
+Hans Zimmer,Election by Adoration,0xLltL65frZXbcjhT2QhjG,28,2009,german,0.0887,0.184,2,-19.611,1,0.0487,0.792,0.964,0.114,0.0337,172.725,132400,4
+Mo-Torres,Zuhause,7gsN1dNBJEPfkt5BC92I4O,39,2020,german,0.718,0.792,9,-7.175,1,0.193,0.289,5.02e-05,0.186,0.65,132.051,161320,4
+Tut Das Not,Freidenkeralarm,40KGLseI1b7dtRFcMe6q1V,10,2004,german,0.708,0.847,4,-5.154,0,0.0369,0.0344,1.39e-06,0.391,0.694,100.098,202987,4
+Ramin Djawadi,We Are The Resistance,0EbWH52lxn0FemKbhhzNU7,20,2013,german,0.593,0.482,0,-13.152,1,0.0407,0.708,0.883,0.0787,0.329,135.046,109627,4
+Von Wegen Lisbeth,Meine Kneipe,5NBCRuSpMGY5ckTP6TfWDQ,54,2016,german,0.866,0.723,6,-4.772,0,0.0529,0.07,2.98e-05,0.0803,0.871,110.005,184240,4
+LX,N.T.M.,15Q7CNhQ3ljqUO8e8loEq0,49,2015,german,0.646,0.632,10,-5.763,0,0.179,0.0516,0.0,0.191,0.106,94.252,159402,4
+Kool Savas,Brainwash (feat. Kaas & Sizzlac) - Stiffla Remix,6mljXjHzQhwPaKmn9jZFMA,11,2008,german,0.719,0.676,11,-4.94,1,0.195,0.14,0.0,0.157,0.542,154.061,303253,4
+Sondaschule,Besser nix als ich,7lHcrlaghqPBskhPQTu7xh,11,2008,german,0.535,0.943,7,-4.057,1,0.0904,0.0012,0.0,0.21,0.654,128.017,204280,4
+Gumbles,So wie wir,3tftWEUoU5isawIVEaHpre,10,2008,german,0.547,0.9,2,-4.579,1,0.0533,0.000827,0.0,0.26,0.701,112.175,190187,4
+Favorite,Kalt,6e8sedHSTmAf6i0UdgoagM,22,2011,german,0.82,0.838,2,-3.227,1,0.189,0.0298,0.0,0.207,0.584,93.999,240293,4
+Hans Zimmer,Verso E Prosa,3FJfTXIWuJgjifJFTLqjlx,34,2006,german,0.727,0.262,7,-17.183,1,0.0414,0.751,0.902,0.0968,0.621,112.003,119040,4
+Matthias Reim,Wilde Pferde,3V5hZnyCC3PNIQHQhx5zBL,11,2003,german,0.623,0.717,11,-5.675,1,0.0356,0.129,0.0,0.231,0.678,126.074,202267,4
+Robert Schumann,"12 Gedichte aus Liebesfruhling, Op. 37: No. 9: Rose, Meer und Sonne",4DWEaoESLobp6WSUx4ouh6,13,2005,german,0.347,0.089,9,-23.695,1,0.0488,0.992,0.00559,0.0885,0.125,106.384,245773,4
+Ludwig van Beethoven,"Trio for Violin, Viola & Cello in E-Flat Major, Op. 3: I. Allegro con brio",4fOadxVb2Xg1B6NWQsvVIy,9,2006,german,0.423,0.0419,3,-23.258,1,0.0546,0.984,0.842,0.105,0.326,129.887,770240,4
+Johann Sebastian Bach,"Goldberg Variations, BWV 988: Var. 18, Canone alla sesta",3mNO6Laie5TuzA5hNHAovc,8,2002,german,0.466,0.159,7,-26.773,1,0.0467,0.987,0.901,0.18,0.936,94.793,63200,4
+Hans Zimmer,Shush Club #3,516VfYNKlKekBJOlPIp078,15,2011,german,0.371,0.496,11,-9.349,0,0.141,0.501,0.0717,0.461,0.774,179.312,271640,4
+Robert Schumann,トロイメライ,5YH6qLexMGY9pUNLrq3WBq,21,2008,german,0.215,0.0562,5,-21.047,1,0.0451,0.986,0.933,0.0997,0.102,77.437,195560,4
+Silly,Bataillon d'amour,4PugcFoPlZTVzhix97RPvj,14,2007,german,0.683,0.578,0,-8.096,1,0.0298,0.0706,0.000762,0.294,0.516,116.053,228333,4
+Jan Hegenberg,Der Heiler,7N19gX7bEvzSf2kFzrGKwt,18,2012,german,0.57,0.432,2,-7.993,1,0.0475,0.863,0.0,0.0648,0.766,121.604,225427,4
+CIVO,Weg von mir,0h14I7cPYi1RZG6GmVpMso,64,2022,german,0.566,0.481,9,-10.706,1,0.205,0.783,0.0,0.575,0.671,143.857,136667,3
+TJ_beastboy,(Party) CRASHER,6CX6yDrSFidhuOdHxOjdnW,49,2019,german,0.86,0.763,0,-5.656,1,0.185,0.0644,0.0,0.0923,0.381,126.034,234000,4
+Robert Schumann,"Waldszenen, Op. 82: Vogel als Prophet",5wsyCLYltRUem8ITo06v2Y,18,2011,german,0.362,0.00818,7,-32.032,0,0.0565,0.991,0.781,0.0808,0.098,64.74,180760,4
+LIZOT,Don't Say You Love Me,0UaV0TmHdXvihhsbZeeIG4,48,2022,german,0.708,0.85,7,-3.858,1,0.0953,0.04,0.0,0.248,0.51,125.97,184267,4
+ATB,The Fields Of Love - Instrumental,0BDaro3GRttOf5aJYduDZ1,9,2000,german,0.714,0.862,9,-8.553,0,0.0481,0.0169,0.942,0.153,0.744,134.998,385840,4
+Luciano,SUVs - DJ JEEZY REMIX,33FGBcIYOExggpjnf7Wmr4,49,2022,german,0.838,0.619,1,-7.863,1,0.109,0.038,0.0523,0.0629,0.151,126.048,184762,4
+Knorkator,Warum,5MySJMbM9UW0DSVboh8Oeb,35,2011,german,0.484,0.804,7,-5.067,1,0.0409,0.000447,0.0029,0.0963,0.492,74.986,251437,4
+Helloween,Get it Up,3amn76FjAJoDuZpXKoNwMB,16,2005,german,0.412,0.989,11,-4.33,1,0.0992,6.16e-05,0.000268,0.0295,0.296,107.589,254653,4
+Blank & Jones,Risin' to the Top - Buddha-Bar Beach Edit,6hz0Lxl8DVcohvU7G3DIjG,39,2017,german,0.749,0.55,1,-10.168,1,0.0482,0.0431,0.222,0.116,0.669,91.994,246347,4
+Hans Zimmer,Dune: Paul's Dream - Live,727Z4R72JLHwq9HYJgTlvJ,36,2022,german,0.175,0.407,7,-12.31,1,0.0329,2.89e-05,0.887,0.678,0.0396,96.067,328666,4
+Moonbootica,Lost & Found,1TlSsrURYTeXDcuQ7RbBWy,39,2018,german,0.809,0.808,0,-5.824,1,0.0354,0.00334,0.583,0.116,0.769,120.024,267531,4
+Daniel Kehlmann,Kapitel 138 - Die Vermessung der Welt,4pdgneeBBMC4J3qiQHrj9u,10,2005,german,0.624,0.334,7,-16.64,1,0.966,0.496,0.0,0.247,0.367,82.028,190055,4
+Johannes Brahms,"Trio in A Minor, Op. 114: II. Adagio",6TgQO7vxnnElHeQxzpP8cp,9,2000,german,0.142,0.0236,2,-25.922,1,0.0444,0.984,0.907,0.127,0.0389,98.982,465333,4
+DONDON,Lange,6mGHhHTJGB7CCd2lvWrDkp,37,2021,german,0.693,0.524,0,-9.003,1,0.0365,0.138,0.0,0.525,0.557,125.956,153019,4
+Johann Sebastian Bach,"Partita No. 6 in E Minor, BWV 830: V. Sarabande",0RVF1kXDFcD4MayJpOUmCx,12,2009,german,0.288,0.0637,4,-27.042,0,0.0409,0.989,0.949,0.114,0.133,72.04,333093,4
+Rapido,Vollautomatisch,1IPYEvBMlbSTgr8m1VYgRG,18,2016,german,0.427,0.831,8,-6.682,0,0.511,0.111,0.0,0.0548,0.462,90.69,188144,4
+Revolverheld,Halt dich an mir fest (feat. Marta Jandová) - Duett Version,2jzMr4GqNXRNVgdHTyC9Gr,53,2010,german,0.454,0.807,10,-3.915,1,0.0365,0.153,0.0,0.157,0.387,165.932,211053,4
+Eisheilig,Flug der Möwen,3AvCkyVviq5W7OPhrssucq,18,2006,german,0.391,0.928,5,-7.097,1,0.0477,0.000394,0.444,0.13,0.232,188.054,199853,4
+Johann Pachelbel,"Canon and Gigue in D Major, P. 37: No. 1, Canon",32QKDM1xom1Mhff0bYmY1W,13,2014,german,0.37,0.0986,2,-21.766,1,0.0594,0.911,0.925,0.106,0.39,74.267,225453,4
+Milky Chance,Don't Let Me Down,4hoNqOv7FRMefk6yC83yqP,53,2020,german,0.854,0.674,0,-7.32,1,0.0597,0.345,9.82e-05,0.12,0.729,109.958,200391,4
+Van Canto,Stormbringer,3xI9OoemEXvqzRe71s3ETC,14,2011,german,0.476,0.931,4,-5.678,0,0.0414,8.13e-05,0.000147,0.0993,0.509,89.993,231840,4
+Johann Pachelbel,"Musikalische Ergötzung, Suite in C Major, P. 374: I. Sonata",0Wj9yqfXdrhuzwf4EGUfj0,16,2016,german,0.261,0.277,11,-13.521,1,0.0397,0.719,0.055,0.4,0.375,81.833,80627,4
+Johann Sebastian Bach,"""Gleichwie der Regen und Schnee vom Himmel fällt"" BWV 18",7xfbhJKHIIywLjwb0QLDF0,18,2007,german,0.278,0.0276,8,-25.451,0,0.051,0.976,0.928,0.117,0.229,67.399,74200,4
+Pascow,Too doof too fuck,2igEc5WQxLqPq0MOXQfAjX,38,2010,german,0.547,0.751,2,-5.328,1,0.0414,0.00233,3.02e-06,0.29,0.447,107.289,137227,4
+Manuellsen,Warum machen Sie das?,1Ha91fGvlfQUUZ5XqZ1Xi0,13,2010,german,0.511,0.561,5,-4.706,0,0.123,0.118,0.0,0.0975,0.118,73.355,211227,4
+Doro,All We Are,4ZBRF5Q08ykvANbvsMofXI,39,2012,german,0.447,0.987,3,-4.286,1,0.108,0.0117,3.84e-06,0.345,0.168,135.4,184120,4
+KAYEF,Ich würd' lügen,5T2RHnuyK2sa9R0pleO9yP,55,2020,german,0.772,0.599,6,-7.259,0,0.194,0.0337,0.0,0.0729,0.459,92.018,163000,4
+Dionysus,True at Heart,387v6OpY9isWDQrYADlcdl,16,2006,german,0.565,0.951,4,-5.632,0,0.102,0.000156,1.56e-06,0.077,0.143,123.001,287040,4
+Hans Zimmer,Interstellar Suite: Part 2 - Live,5qKiSZJ6lAvTlzdzDLTGpT,37,2022,german,0.0987,0.0234,5,-19.751,1,0.0492,0.0135,0.899,0.69,0.0254,89.469,334318,4
+Johann Sebastian Bach,"Goldberg Variations, BWV 988: Variation 23 a 2 Clav. - 1955 Version",6Ihgq37xzPAbjoPTgzYwbI,10,2002,german,0.399,0.493,7,-16.892,1,0.0543,0.994,0.933,0.215,0.982,110.344,54400,3
+NMZS,NMZS 2,3vRS9T7DANDWeLvCVI8MLY,15,2013,german,0.589,0.78,2,-6.675,1,0.305,0.0767,0.0,0.158,0.463,99.021,185080,4
+Liaze,HIGHLIGHTS,5p5InkYRaihax5vtbidYOC,27,2021,german,0.582,0.76,10,-7.015,0,0.107,0.482,0.0,0.0892,0.214,139.069,187105,4
+Söhne Mannheims,Power of the Sound - Live,0tIqepJ0NchSFN3PKkXmT1,8,2001,german,0.615,0.945,11,-7.674,0,0.366,0.237,2.08e-05,0.708,0.517,85.779,390853,4
+Carl Reinecke,"6 Songs, Op. 48: No. 4. Die Ehre Gottes aus der Natur, ""Die Himmel ruhmen des Ewigen Ehre"" (arr. C. Reinecke)",2ESBJSPluUt0ih8ybXc0Ea,23,2010,german,0.205,0.11,2,-22.128,1,0.0361,0.981,0.0,0.152,0.0459,77.119,134000,3
+Johann Sebastian Bach,"Herz und Mund und Tat und Leben, BWV 147: Chorale: Jesus bleibet meine Freude (Jesu, Joy of Man's Desiring) (arr. by L. Stokowski for orchestra)",2Q1zK4ZSYkpfRNPXHFpO17,13,2009,german,0.219,0.0878,7,-23.332,1,0.0404,0.976,0.905,0.139,0.0892,66.436,212213,3
+Iron Savior,The Battle - 2022 Version,1fir2Btw7itnoKXlHBvE4I,18,2022,german,0.499,0.98,2,-3.523,1,0.172,9.49e-05,0.0159,0.124,0.125,114.992,348747,4
+Georg Kreisler,Schützen wir,2SxnhhYl1I83NpHXHnQqFz,11,2006,german,0.636,0.845,10,-9.539,1,0.838,0.875,8.85e-06,0.27,0.799,124.819,202067,4
+Hans Zimmer,Coming Clean,7xbHRL0W5k4Vlv1vaAYkwz,26,2023,german,0.172,0.0427,6,-26.956,0,0.0367,0.883,0.908,0.0751,0.0581,84.354,141285,4
+Loredana,Kein Plan,17d5deyzyNjNzml5EHq7Dr,52,2019,german,0.878,0.699,0,-5.035,0,0.0464,0.0689,0.00215,0.0753,0.78,102.01,155018,4
+Elevation Youth,Heights,3Q1L8ieMgd0iY6kVs3EK2i,18,2016,german,0.546,0.683,7,-6.044,1,0.0313,0.0189,1.03e-05,0.227,0.077,93.941,267467,4
+Miksu / Macloud,XXL,60Yyqzr83eKaUOgpogcyfF,59,2020,german,0.798,0.527,5,-7.671,0,0.0447,0.227,3.82e-06,0.108,0.548,114.008,166173,4
+Störte.Priester,Im Himmel nur Idioten,1nW6HXOOyGZTIr0DnNjkfj,21,2008,german,0.507,0.934,7,-2.82,1,0.0667,0.00059,1.47e-06,0.184,0.432,119.923,222947,4
+Unantastbar,Dreh dich nicht um - Version 2019,3zudmXDVtMIGQrv94DmZDZ,22,2019,german,0.56,0.989,10,-1.676,1,0.0794,0.135,0.0,0.163,0.552,134.996,214120,4
+Blind Guardian,Bright Eyes - Live,4T5YWcxs6ub0GxCi5e3YvF,17,2003,german,0.41,0.92,8,-6.151,0,0.0551,0.0615,0.388,0.808,0.276,93.935,326733,4
+Bausa,Was du Liebe nennst,4hKWUzhQWsOkgT6LnDEASe,59,2017,german,0.874,0.487,2,-8.154,1,0.0641,0.393,2.96e-05,0.0524,0.746,144.956,203630,4
+Modern Talking,From Coast To Coast,2qdp0i9ricAsJjXJ8XbVyY,36,2001,german,0.642,0.927,10,-5.039,1,0.0297,0.0153,0.0392,0.107,0.816,130.001,267373,4
+Käptn Peng,Der Anfang ist nah,22zBw5WWAW4Nh6bti8lzop,38,2013,german,0.596,0.754,1,-6.875,1,0.172,0.0347,0.0,0.338,0.347,89.484,311987,4
+Georg Philipp Telemann,"Overture (Suite) in E-Flat Major, TWV 55:Es5: Aria IV: Allegro",4HaGRqrplzwwWfVPPiOXF5,10,2003,german,0.598,0.275,2,-17.29,1,0.0694,0.843,0.99,0.157,0.754,127.323,48240,4
+Dj T.H.,Devil's Deal,3iMR9x7qT6yNdiyF1i1ra0,34,2022,german,0.594,0.919,11,-3.891,0,0.0761,0.0169,0.0187,0.392,0.109,133.965,214925,4
+Georg Philipp Telemann,"Concerto In G Major TWV 40:201, For 4 Violins Without Basso Continuo: 4. Vivace",1gF92svxxaSaDpa8E4tTkl,7,2002,german,0.651,0.0877,6,-19.201,1,0.049,0.954,0.869,0.0931,0.527,109.708,101640,4
+01099,Altbau,4XC1jFNjPxGRkeCvp4TK3S,56,2022,german,0.769,0.466,2,-11.954,0,0.127,0.689,0.041,0.168,0.414,128.009,139493,4
+Masterplan,Far from the End of the World,3SymLbZpWcYJchUljvR5s9,18,2010,german,0.374,0.979,3,-4.335,1,0.0693,2.76e-05,0.035,0.149,0.203,97.507,214493,4
+Scorpions,Rock You Like a Hurricane (with Johannes Strate) - MTV Unplugged,4puxcWmFcIa1KnF2QCsis0,32,2013,german,0.583,0.873,2,-5.271,0,0.0493,0.538,6.67e-06,0.965,0.304,124.027,298653,4
+Farin Urlaub,Glücklich,0HvmtI95bqXyPFJYAlQimT,39,2005,german,0.577,0.87,5,-4.958,1,0.0481,0.0174,0.000429,0.15,0.52,110.992,178107,4
+Tingvall Trio,Vag In,572FPMbg9lvvbShVqwfsf4,25,2009,german,0.464,0.145,11,-19.984,0,0.0523,0.821,0.085,0.167,0.195,94.96,150653,4
+Pascow,Mathilda und der Blues,4OFdtynTSZcBC0URoyUvIy,12,2007,german,0.327,0.977,5,-4.202,1,0.161,0.000471,2.81e-06,0.219,0.398,171.656,157333,4
+Ardian Bujupi,Peligrosa,0ZVk8VH9GlgaTSx6LQCA7G,46,2021,german,0.735,0.677,6,-7.044,0,0.0998,0.362,0.000407,0.157,0.585,179.867,151724,4
+Bosca,Alles richtig gemacht?,3f4vNr1IcLjVIIL84rmEpl,17,2012,german,0.795,0.829,1,-6.008,1,0.389,0.0175,0.0,0.0918,0.338,90.104,157115,4
+Marsimoto,Blaue Lagune,656dGEDLF4Raz7FY3A9ARs,21,2012,german,0.642,0.639,10,-7.038,0,0.37,0.357,0.00344,0.0969,0.411,76.258,208520,4
+Johann Sebastian Bach,"Overture (Suite) No. 2 in B Minor, BWV 1067: II. Rondeau",433oilMYnooAATlehaV1pL,14,2000,german,0.545,0.116,11,-21.436,0,0.0401,0.952,0.00183,0.119,0.794,151.204,100867,4
+Reclam Hörbücher,Kleider machen Leute - Teil 02,79ccQ9i8IiqFCqavqpAQPb,11,2004,german,0.705,0.304,9,-16.544,1,0.963,0.628,0.0,0.308,0.657,109.866,97679,3
+Johann Sebastian Bach,"Brandenburg Concerto No. 2 in F Major, BWV 1047: II. Andante",4MgH0Qcu6ohe7JxG5XwUu8,12,2008,german,0.23,0.0877,1,-17.539,0,0.0408,0.873,0.0269,0.0789,0.0981,115.269,225507,3
+Johann Sebastian Bach,"Cantata ""Christ lag in Todesbanden"", BWV 4: ""Den Tod niemand zwingen kunnt""",1jDdCLgw3N9SzNzv1hyGUL,11,2001,german,0.28,0.0572,1,-27.737,0,0.0416,0.993,0.358,0.149,0.0426,110.992,91160,4
+Julien Bam,Changes,6Zi774FhL2LggcNzV5ZYUK,22,2019,german,0.512,0.453,0,-6.997,1,0.0338,0.798,0.0,0.0871,0.38,140.223,297785,4
+Moonbootica,Hear Your Love,0xR4cuAoqQnY01Hj1V48fE,21,2016,german,0.706,0.836,11,-6.595,0,0.0408,0.00934,0.633,0.302,0.238,122.007,186885,4
+Gottfried Heinrich Stölzel,"Stözel: Bist du bei mir (Arr. Yang for Guitar, Formerly Attibuted to Bach as BWV 508)",7bNrBM77YqKENhuN2oljH2,20,2012,german,0.412,0.0297,0,-27.543,1,0.0485,0.995,0.912,0.0648,0.213,75.765,159106,3
+Shoreline,Bent / Broken,6s1ERO1lfulqbvQ7G8ZE1r,34,2019,german,0.403,0.947,5,-7.947,1,0.0609,0.00131,0.532,0.425,0.506,164.995,156267,4
+I Am Noah,Defendant,2Ro3Ijf2gammBhfufoWSpS,16,2016,german,0.242,0.963,6,-2.855,1,0.202,0.000105,0.981,0.212,0.0375,129.983,96720,4
+Nico Santos,Weekend Lover,6rNV70K6yK3qd19aNYtf8E,56,2022,german,0.598,0.826,11,-4.867,0,0.293,0.0646,0.0,0.108,0.698,104.405,186080,4
+Die Höchste Eisenbahn,Vergangenheit,0l2VxuE9VO8oaPg9UkVRYj,35,2012,german,0.651,0.623,4,-8.841,0,0.0702,0.489,0.0,0.12,0.54,99.939,289027,4
+Olexesh,Treppenhaus Authentic,2YRtka8E0anCvY4niBtCmi,49,2014,german,0.664,0.85,0,-4.925,1,0.549,0.109,0.0,0.276,0.764,125.21,130957,5
+Unheilig,Für immer,0cC2BWlRGQY8b3nuks47Hz,19,2017,german,0.556,0.904,11,-5.235,1,0.0469,0.0018,3.69e-05,0.0613,0.632,137.982,202373,4
+t-low,Lonely,1MVwBDSydyRUX3RoSeH8Os,23,2019,german,0.412,0.585,6,-6.823,0,0.172,0.297,0.0,0.112,0.321,163.73,184619,4
+Johannes Brahms,"Concerto for Violin and Cello in A Minor, Op. 102: III. Vivace non troppo",2nskozppnNpwohKUCnTj05,11,2004,german,0.211,0.087,9,-21.277,0,0.0443,0.871,0.625,0.188,0.249,76.671,534387,4
+Johann Sebastian Bach,"Violin Sonata No. 1 in G Minor, BWV 1001: IV. Presto",5jWKziVgN8Bq1Mjrw9hbUt,13,2005,german,0.478,0.168,7,-21.435,0,0.0613,0.995,0.51,0.164,0.896,119.928,217680,3
+Edguy,Misguiding Your Life,54zHp4SzSuRYO2KTKwXeQe,14,2000,german,0.349,0.981,7,-4.246,1,0.112,2.1e-06,0.00912,0.359,0.388,165.787,244360,4
+Achtabahn,To The King,0PcB6qZVA0wK7D6in6CVDr,45,2015,german,0.896,0.578,5,-5.274,0,0.116,0.239,0.00347,0.298,0.843,119.949,144000,4
+AnnenMayKantereit,Jeden Morgen - Live,6jKuMrSyQf0DAyL9J4i9pm,29,2016,german,0.434,0.59,4,-8.83,1,0.0595,0.117,0.000304,0.965,0.199,144.608,235373,4
+Johann Sebastian Bach,"St. Matthew Passion, BWV 244, Pt. 1: No. 15. Erkenne mich. mein Hüter",0Rfx5IohNXAWmZAvI3miS3,24,2020,german,0.176,0.161,3,-17.286,1,0.0381,0.977,0.971,0.216,0.349,79.286,54760,3
+Das Pack,Heavy Metal Kind,02yPd2iG85h8HYvSWdQ7EU,32,2010,german,0.467,0.821,8,-5.007,1,0.106,0.0333,0.000586,0.129,0.635,123.25,157627,4
+Claptone,Right Into You,68sRAo8UPT1QGtSdmEUgvz,39,2021,german,0.62,0.72,1,-6.856,1,0.0351,0.027,1.06e-05,0.13,0.482,120.054,193320,4
+Johann Sebastian Bach,"Overture in G Minor, BWV 822: VII. Menuet III (excerpt)",4SxWOkWLRIOHcbhT6eb9pH,11,2010,german,0.331,0.413,1,-19.393,1,0.0398,0.798,0.226,0.119,0.714,85.312,40707,4
+Johann Sebastian Bach,"""Du Hirte Israel, höre"" BWV 104",5Xrxx5SiODNPSwcs9dB86K,16,2007,german,0.207,0.0846,8,-25.091,1,0.0511,0.99,0.988,0.121,0.227,76.815,66840,5
+Johann Sebastian Bach,"Bach, JS: Matthäus-Passion, BWV 244, Pt. 2: No. 44, Choral. ""Befiehl du deine Wege""",3d02X1P5xCODfb6AvhjAA8,17,2001,german,0.272,0.123,1,-21.364,1,0.0419,0.993,0.461,0.13,0.15,116.172,64280,4
+Ludwig van Beethoven,"String Quartet No. 13 in B Flat Major, Op.130: III. Andante con moto, ma non troppo",5oADwpLUg3ZQDxPrrfNoRc,8,2005,german,0.463,0.0431,1,-26.878,1,0.0417,0.967,0.622,0.162,0.323,112.689,396613,4
+Royal Republic,Uh Huh,2ihCd4qXzYttcxpEqkhtER,28,2016,german,0.529,0.901,5,-3.536,0,0.0843,1.9e-05,0.000365,0.32,0.302,75.014,137813,4
+Enemy,69 Symphonie DADA,2AZjPXPzTTfhWuwkpAbJOk,24,2019,german,0.585,0.67,2,-8.112,1,0.398,0.558,0.000287,0.104,0.295,124.043,214289,4
+MEUTE,Mental Help,7eAflorNeZVT843cy9xZBT,33,2017,german,0.746,0.671,9,-8.104,0,0.0386,0.0163,0.897,0.058,0.398,122.043,303855,3
+Zwette,Home,0T26riswexwPY9w3UCMwYE,49,2022,german,0.785,0.748,2,-6.674,1,0.0458,0.121,0.005,0.563,0.618,120.025,190400,4
+Favorite,Blind,4A3LbOS9zfDPAI0LBg0Ntp,17,2011,german,0.68,0.826,0,-5.792,1,0.468,0.18,0.0,0.122,0.598,164.31,203600,4
+OG LOCKE,CLASSIC,06ZtPFzf0Dx7WPRSibYP2N,27,2022,german,0.816,0.688,9,-6.399,1,0.268,0.0282,0.000311,0.123,0.836,120.088,128853,4
+Hans Zimmer,Once Upon A Time In Africa,4sWet4Bqgt1pd8WRxH0qPu,43,2008,german,0.343,0.55,7,-8.592,1,0.0671,0.801,0.763,0.136,0.442,141.597,224133,4
+Leaves' Eyes,The Dream,0ZLVfBd4Pn6FxAtExL9tab,15,2004,german,0.209,0.878,7,-3.811,0,0.0825,0.00042,0.000605,0.357,0.245,194.972,299747,3
+Felix Mendelssohn,"Mendelssohn: String Quartet No. 2 in A Minor, Op. 13, MWV R22: III. Intermezzo",2OA6l6j7B5sOKDobBTm9tw,15,2017,german,0.382,0.0835,9,-27.15,0,0.0519,0.959,0.279,0.347,0.33,102.776,298091,3
+Wizo,Ganz klar gegen Nazis,6CWbnFaVAhWLacSZBbS3h8,41,2014,german,0.587,0.966,7,-2.315,1,0.0751,0.0124,0.0,0.34,0.811,137.938,210307,4
+Johann Sebastian Bach,"The Well-Tempered Clavier, Book I: Fugue No. 13 in F-Sharp Major, BWV 858",5g7gpsexlU28tnVEVYc5dU,10,2009,german,0.436,0.0918,6,-29.514,1,0.035,0.995,0.879,0.106,0.597,130.661,132560,4
+Oxo86,Endstation,41EaEmcpZYrIoFloG91iyE,10,2004,german,0.337,0.955,0,-3.423,1,0.0914,0.00585,0.0,0.24,0.524,140.37,144480,4
+MOGUAI,Say A Little Prayer,4ChIjjM2irWTqNe29QmMdQ,32,2017,german,0.377,0.873,6,-5.496,0,0.0443,0.103,0.00018,0.196,0.351,121.953,186536,4
+Mert,Piskopat,2wbzVoc6RvFNJVjWRO8kIe,20,2018,german,0.823,0.872,6,-4.475,0,0.348,0.0361,0.00139,0.242,0.53,125.97,136903,4
+Shindy,Babygirl,16CYL2WICF2nt6ZRDVsIVk,32,2019,german,0.746,0.671,3,-5.956,1,0.306,0.239,0.0,0.106,0.74,89.642,170993,4
+Vega,Nie aufgegeben,677hdmovQ0OAFTgaOzQeJA,19,2016,german,0.637,0.835,1,-5.678,0,0.366,0.253,0.0,0.0855,0.28,79.672,198039,4
+Milky Chance,Loveland - Live From Spotify Berlin,3Jk2Qv1UA5NgYr7q7haHgD,17,2014,german,0.363,0.322,7,-11.662,1,0.0363,0.825,1.55e-06,0.688,0.192,69.281,294229,3
+Johann Sebastian Bach,"Er rufet seinen Schafen mit Namen BWV 175: Chorale: Nun, werter Geist, ich folg dir",6kGG5Nq29wa51Nxbalvir6,11,2007,german,0.138,0.0371,6,-25.966,1,0.0416,0.981,0.113,0.29,0.339,73.12,102827,3
+Daniel Kehlmann,Kapitel 146 - Die Vermessung der Welt,2o8GiOExHOlTuh1ti5BfrZ,10,2005,german,0.633,0.273,11,-16.665,0,0.963,0.413,1.83e-06,0.139,0.345,164.031,181536,3
+Uli Jon Roth,Doctor Doctor (Live),2P3WPVMNPSVGbQKvb18CBv,12,2002,german,0.2,0.917,2,-5.912,0,0.3,0.123,0.00149,0.782,0.183,76.351,426200,4
+Daniel Kehlmann,Kapitel 145 - Die Vermessung der Welt,6Sht9YgLmg9dpUhTt4Tg80,10,2005,german,0.711,0.371,0,-13.92,1,0.934,0.425,0.0,0.104,0.52,128.497,183440,4
+Paul van Dyk,Tell Me Why (The Riddle) - Club Mix,3fR7orZJICJkAE7sbBOdqt,13,2000,german,0.664,0.952,4,-5.313,0,0.0347,0.000142,0.766,0.0533,0.683,137.972,292243,4
+Johannes Brahms,"Brahms: 16 Waltzes, Op. 39: No. 15 in A-Flat Major",3e4fRjgxKbNIOpgMQ8CctN,6,2001,german,0.424,0.0599,8,-23.63,1,0.0586,0.994,0.904,0.103,0.0525,97.322,99400,3
+GlenGang 030,Wieder Mal,78UmGDirWNTLjwM8eAbcaj,20,2018,german,0.766,0.681,6,-8.57,0,0.339,0.749,0.0,0.0911,0.713,134.603,198120,4
+Marc Streitenfeld,Eyes Glowing,4zM5lsIbwvvZHQQxdbOOKQ,15,2012,german,0.175,0.162,9,-22.87,1,0.0411,0.868,0.891,0.11,0.0341,69.214,85827,4
+ATB,Here With Me - Short Edit,7gu51RinmMe43o3uYppNRA,7,2012,german,0.594,0.927,5,-7.336,0,0.0367,0.244,0.0207,0.09,0.288,136.972,218400,4
+Modern Talking,Atlantis Is Calling (S.O.S. for Love) - Extended Version,0Sdre5xgAlETR0iunvpZQj,24,2008,german,0.679,0.855,3,-6.521,0,0.0329,0.0366,0.000603,0.0754,0.835,113.549,318600,4
+Ramin Djawadi,"Half Orc, Half Human",6SAMiy26EBx03W2IMcbHa7,22,2016,german,0.137,0.0101,0,-33.607,1,0.0477,0.978,0.949,0.0701,0.0608,142.817,86649,4
+Hans Zimmer,Homecoming,5Qgr5Xb0dNctE523te5Sxs,28,2020,german,0.351,0.206,0,-19.663,0,0.0405,0.633,0.568,0.157,0.0607,128.448,215973,5
+Maikel,Winterlove - sped up,2XmSVyyLzmbH83GESZUP8g,58,2022,german,0.585,0.365,7,-14.756,1,0.25,0.0328,8.94e-06,0.165,0.453,185.074,76541,4
+Kontra K,Straßenkinder,6UQXWCSKilLWiJpCLXoudC,23,2010,german,0.488,0.902,4,-4.067,0,0.288,0.318,3.3e-06,0.575,0.555,81.912,258507,4
+Ramin Djawadi,"Victory Does Not Make Us Conquerors - From The ""Game Of Thrones"" Soundtrack",2gJobE6MTzx3OZmZCdJ4RY,36,2011,german,0.125,0.0214,0,-26.924,1,0.0464,0.891,0.858,0.103,0.0395,63.156,96307,5
+Johann Sebastian Bach,"Orchestral Suite No. 2 in B Minor, BWV 1067: VII. Badinerie",5l63sPSao14K6eFLLmc247,16,2016,german,0.583,0.447,10,-16.692,0,0.0313,0.812,0.00729,0.0746,0.972,138.13,77547,4
+Johann Sebastian Bach,"The Well-Tempered Clavier, Book I, BWV 846-869: Prelude and Fugue No. 1 in C Major, BWV 846",3F194xUWKTxufRSuRA9Hg0,16,2004,german,0.289,0.0635,0,-27.148,1,0.04,0.993,0.928,0.0707,0.157,111.466,167147,4
+Johnny Diggson,4tel-Finale vs. Timatic,4yPSwREOLSorAwDsplqGxQ,17,2015,german,0.628,0.883,10,-4.768,0,0.394,0.483,0.0,0.0967,0.678,89.073,287111,4
+Funny Van Dannen,Dingficker,2e6T2rAhIhKlcRcCs0sSeR,12,2005,german,0.703,0.51,5,-8.922,1,0.085,0.495,0.0,0.144,0.83,100.384,173027,4
+I Am Noah,Drowned,14OzzHJnQt8y4z02ujEIfi,13,2016,german,0.352,0.981,11,-1.322,0,0.135,2.38e-05,0.000855,0.382,0.111,152.02,248827,4
+Leyya,Wannabe,3r2EoI2MJFhUnrKtFJZV3R,18,2018,german,0.644,0.431,1,-10.166,0,0.0508,0.202,0.382,0.125,0.28,152.477,222540,5
+Klaus Badelt,Wish Me Luck,5aXngei6RUHCSfqqDrLh3J,28,2002,german,0.389,0.178,7,-14.753,1,0.0319,0.985,0.498,0.114,0.221,137.22,85360,3
+Robert Schumann,"Mädchenlieder, Op. 103: Madchenlieder, Op. 103: No. 4. An den Abendstern (Evening Star) (arr. J. Lloyd Webber for 2 cellos and piano)",6gAPbykg582AjVqQN7ae3x,15,2013,german,0.168,0.0671,8,-21.796,1,0.0353,0.993,0.85,0.0941,0.104,90.21,146267,4
+Ramin Djawadi,One More Drink Before The War,6CTKANQI4SaZPSUs9mKZdN,27,2012,german,0.125,0.227,1,-15.889,1,0.033,0.75,0.889,0.187,0.0625,89.072,126587,4
+Xandria,Dreamkeeper,1pe10BCDa6TEjWCuvCrhlv,24,2014,german,0.498,0.779,0,-6.466,1,0.0454,0.000252,3.49e-05,0.449,0.251,125.956,276227,4
+Haldolium,Song for Isabelle,7Ec11vcdDYr2dki7MkdxBP,30,2017,german,0.725,0.814,11,-7.64,0,0.0702,0.058,0.844,0.083,0.296,137.997,386087,4
+Scorpions,The Cross,741hORWJSEfq5JihFA4PpL,17,2007,german,0.505,0.903,7,-3.995,1,0.0772,0.000232,0.0745,0.343,0.403,139.929,269573,4
+Original Hamburg Cast,Der Engel von St. Pauli,7jQ8Qw4K4yLIrJb7VhxGEC,12,2004,german,0.476,0.346,3,-10.465,1,0.0258,0.786,0.0,0.193,0.353,161.936,168040,4
+Johannes Brahms,"Brahms: Violin Sonata No. 2 in A Major, Op. 100: II. Andante tranquillo - Vivace",0G4l1UzOaydUq8bJNLSebj,13,2005,german,0.14,0.014,5,-32.726,1,0.049,0.87,0.0128,0.0565,0.107,179.846,411747,3
+EMMA6,Der Elefant,03BBK1I2DJdWnTqLeZfOE9,53,2017,german,0.65,0.341,7,-14.556,1,0.0313,0.716,0.0059,0.113,0.0886,113.994,173267,4
+Mono & Nikitaman,Es kommt anders,2HXTbA4gq6wlXSeuMror4i,12,2008,german,0.766,0.888,4,-3.742,0,0.0862,0.0317,0.0,0.0741,0.899,160.03,261573,4
+Toxpack,Aggressive Kunst,4gm4lC1wb8ovPZ1OkwfIxC,16,2014,german,0.181,0.965,2,-3.646,1,0.0853,0.0181,0.000425,0.552,0.475,97.092,196680,4
+Hans Zimmer,Inception: Time - Live,2XEDx510eJjhUZeEPgspto,52,2023,german,0.172,0.139,7,-16.354,1,0.0399,0.00307,0.84,0.119,0.0602,117.545,277203,1
+Human Fortress,Border Raid in Lions March,6K6u2GTmK9W4HcCUpVJksg,9,2003,german,0.531,0.707,11,-6.345,0,0.0272,0.0108,0.0,0.0547,0.314,106.026,311160,4
+Endzone,61 Grad,2eQX1H3FXR7y5OhmZ60YrW,58,2020,german,0.922,0.479,7,-11.742,0,0.17,0.61,0.00381,0.104,0.633,128.008,113680,4
+Ramin Djawadi,A New Voice,0bwGq7qIg0DeR10hcLFD2S,21,2018,german,0.0927,0.125,7,-17.082,0,0.0439,0.805,0.822,0.142,0.0391,86.482,210150,4
+Prinz Porno,Weil Ich Kann Was Ich Kann,7dVmGFvUhQcu8ddugwgE2Z,10,2006,german,0.481,0.634,1,-6.071,1,0.312,0.0608,0.0,0.206,0.873,68.299,239613,4
+Serum 114,Ich bin so,1nu09xcG9rFU0i4t4SIPMO,16,2011,german,0.512,0.871,11,-6.432,1,0.0419,0.00111,0.0,0.116,0.403,127.978,273160,4
+Hans Zimmer,The Beauty In What Is,277Z2ZyE7We0kTJzI7E7P4,26,2020,german,0.091,0.56,9,-10.053,0,0.0445,0.285,0.969,0.132,0.0383,86.783,228920,4
+Blümchen,Die Welt Gehört Mir,3yUN0oXAlyyFqaIsmcViN2,17,2000,german,0.558,0.961,1,-6.781,0,0.0384,0.00514,0.0579,0.151,0.862,140.957,255893,4
+Hans Zimmer,"When You Believe (From ""The Prince of Egypt"")",4wmGvL3otv4rGXQlzX90ul,7,2000,german,0.183,0.0695,8,-19.517,1,0.0377,0.825,0.881,0.0952,0.0918,127.28,321933,4
+Stefan Waggershausen,Zu nah am Feuer,1M3nns66BR1nO4IJiMzuwF,12,2003,german,0.651,0.513,9,-13.046,1,0.0285,0.288,0.0,0.331,0.823,109.677,282667,4
+Sarah Connor,Bounce,4suwdakbo49IdFNbYcf5iO,36,2002,german,0.77,0.825,1,-5.324,0,0.158,0.124,0.0,0.07,0.925,94.982,251733,4
+Oxo86,So schön,6lYtdqJx94JobhXouBvAp8,16,2002,german,0.385,0.951,0,-5.063,1,0.0697,0.00484,3.04e-06,0.112,0.838,122.979,194933,4
+Boris Brejcha,Nothing Seems To Be,3iM7XpmfT97KXqPlSKe9ZM,35,2020,german,0.803,0.762,4,-10.439,1,0.0701,0.00555,0.857,0.111,0.31,124.999,558720,4
+Troopers,Teletubbies,6U9wMswDzUEppTvwYF4rTb,9,2000,german,0.59,0.961,11,-5.792,0,0.0559,0.0107,0.0,0.0717,0.447,119.711,183680,4

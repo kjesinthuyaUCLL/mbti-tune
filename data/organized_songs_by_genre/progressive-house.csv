@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Cold Blue,30 Degrees At Midnight - Original Mix,5Wmiha4C8yVw6LOifXTN5u,9,2009,progressive-house,0.616,0.924,6,-8.253,1,0.0418,0.0183,0.876,0.0966,0.329,135.023,312827,4
+Lange,Out of the Sky - Chris Schweizer Remix,4W4CPMsAzCTdJ8oXA6Qewa,37,2021,progressive-house,0.612,0.968,0,-4.698,0,0.0914,0.00491,0.321,0.375,0.289,137.963,252178,4
+Duke Dumont,Need U (100%) (feat. A*M*E) - Skreamix,6Uc6yEJR5Vdy0SB3kc7ise,22,2013,progressive-house,0.688,0.613,10,-7.471,0,0.0556,0.00322,0.505,0.0234,0.362,123.983,392832,4
+R3HAB,Be Okay (with HRVY) - Clear Six Remix,3to41NSINoUt0r1FZlAqCN,25,2020,progressive-house,0.37,0.968,5,-3.576,0,0.0799,0.0659,5.14e-06,0.179,0.786,123.819,143831,4
+Avenue One,Upstairs Terrace,0t5McVQCj8MkTIO2AR2P2U,31,2022,progressive-house,0.413,0.924,5,-7.612,1,0.0444,0.000154,0.812,0.115,0.0356,122.957,296337,4
+Pryda,Stay With Me,7twthmMegoAskip42GJocW,33,2017,progressive-house,0.71,0.776,10,-7.315,0,0.0409,0.00576,0.555,0.116,0.243,125.989,441905,3
+Sunnery James & Ryan Marciano,Triton - Dance Valley 2013 Anthem,55UkfSFKTIHJdiq9QDXN9h,11,2013,progressive-house,0.684,0.894,10,-4.997,0,0.084,0.000593,0.942,0.104,0.335,125.996,396191,4
+Lucas & Steve,Up Till Dawn (On The Move) - Club Radio Mix,4hYgTSNY1COMszRt6iAC89,29,2017,progressive-house,0.622,0.763,3,-5.938,0,0.0531,0.047,0.000423,0.185,0.243,126.014,214281,4
+DT8 Project,Hold Me Till The End - Ronski Speed Remix (Album Edit),2e1RPCE6ybzMwFnEsGQUC9,1,2007,progressive-house,0.573,0.864,9,-7.783,0,0.0493,0.000255,0.402,0.183,0.118,135.804,352840,4
+Grum,Cybernetic,64hZ3DUo8p2EilXya6kqYS,24,2020,progressive-house,0.547,0.851,0,-6.311,1,0.0366,7.27e-05,0.648,0.0819,0.271,124.006,259396,4
+MOTi,WKND (with Louis III),4ii9KrZtmbaBdWbbYkOLI7,35,2022,progressive-house,0.768,0.845,11,-4.297,0,0.0651,0.213,0.00234,0.0997,0.651,124.006,171290,4
+Armin van Buuren,Strong Ones,3qUC7MQio9LNQkUxeDv1yz,34,2015,progressive-house,0.576,0.848,11,-5.347,1,0.0603,0.0118,0.0,0.246,0.704,127.94,188653,4
+Sander van Doorn,Mant Array,6NYhmMLazOA9Hxfrpo4sYh,19,2017,progressive-house,0.698,0.933,10,-3.274,1,0.0566,0.00166,0.898,0.0661,0.481,126.017,240001,4
+Lange,Live Forever - Mat Zo Dub,28tneiea6nfqWgrbzMQwwB,7,2010,progressive-house,0.553,0.945,10,-7.083,0,0.0489,0.00151,0.537,0.0657,0.521,133.821,337107,4
+Yoel Lewis,Nepal [ANR062] - Original Mix,4rtO1TGBhhmGwqrUmJPxMP,24,2015,progressive-house,0.406,0.891,7,-11.238,1,0.0401,0.00134,0.971,0.389,0.0608,127.547,164723,4
+Nicky Romero,Feet On The Ground,71qYFShXoloHX098oKWIaU,11,2015,progressive-house,0.614,0.849,2,-6.087,0,0.124,0.22,0.0,0.344,0.361,126.049,176720,4
+Don Diablo,Everybody's Somebody,3n4EvkiVDIkj4ylqNX1zYp,35,2018,progressive-house,0.456,0.875,0,-3.389,0,0.0896,0.0413,1.57e-06,0.0537,0.457,160.086,198000,4
+Jaytech,Headcase - Original Mix,789g8GNWH5IcKZ62xi3wCb,3,2008,progressive-house,0.752,0.438,11,-9.964,1,0.101,0.000717,0.876,0.0475,0.61,125.979,446214,4
+Hardwell,Arcadia - Extended Mix,4u6ygQW07tzG62fPbJA5mZ,14,2014,progressive-house,0.649,0.915,6,-2.896,0,0.0321,0.000264,0.029,0.108,0.13,128.007,298125,4
+Oliver Smith,Solina,2uVIxV2ZXvIC9JJb0GbWZK,19,2019,progressive-house,0.557,0.792,9,-6.146,1,0.0393,0.000808,0.355,0.0587,0.168,128.014,217559,4
+Mike Williams,Feels Like Yesterday (feat. Robin Valo),6dzFe2IgWQ5nDrgbf6AHiR,31,2018,progressive-house,0.657,0.902,7,-4.387,0,0.0361,0.00166,1.87e-05,0.341,0.24,125.999,219069,4
+Chuckie,"Makin' Papers (feat. Lupe Fiasco, Too $hort, Snow tha Product)",7eMueuut6na1feCvWsxUmG,15,2013,progressive-house,0.716,0.827,8,-3.877,1,0.188,0.0241,0.0,0.131,0.476,150.011,230917,4
+Kaskade,Jesu Parvule (feat. Late Night Alumni),0UbnJc9GmsRbubkTlmhQhW,16,2018,progressive-house,0.884,0.742,5,-7.687,0,0.0795,0.00591,0.32,0.395,0.705,140.067,199987,4
+Mark Knight,Nothing Matters - Noisia Remix,2IDT0MopeNw1nVCzxc9ZAM,24,2012,progressive-house,0.517,0.923,11,-4.486,0,0.168,0.000159,0.0135,0.215,0.0738,114.017,398024,5
+Rank 1,Such is Life [ASOT 001] - Original Mix,3KrLcgO9sWuPqRGseu2eOT,3,2001,progressive-house,0.545,0.829,5,-11.695,0,0.0532,9.9e-05,0.811,0.0975,0.303,140.706,380578,4
+Hiroyuki Oda,Transmigration [ASOT 227] - Original Mix,24H5rp6EOkBd19dIhieNCl,0,2005,progressive-house,0.39,0.973,1,-9.689,1,0.0422,1.3e-05,0.965,0.391,0.264,138.152,364797,4
+eleven.five,When People Become Numbers,5CuqsrPwQXniZ4DzGTDtrt,23,2017,progressive-house,0.696,0.612,4,-9.022,1,0.0585,0.048,0.897,0.0962,0.162,114.018,410000,4
+Breeze & Quadrat,Indra,2m4CG8f8hkYhEmMv4OcJjD,8,2012,progressive-house,0.835,0.503,9,-7.284,0,0.0747,0.00257,0.721,0.126,0.161,123.985,410323,4
+Ilan Bluestone,Big Ben - Original Mix,30LI01I73s3PKZJOL6fnw5,20,2014,progressive-house,0.741,0.776,3,-5.171,0,0.128,0.0239,0.902,0.527,0.5,128.029,459545,4
+The Thrillseekers,Synaesthesia - En-Motion 2004 Re-edit,62YoU3HL4XBINRp4lk709b,12,2009,progressive-house,0.646,0.956,7,-9.536,0,0.0315,0.000196,0.884,0.135,0.687,139.982,433487,4
+Steerner,Blue,6VL2DDWD5RaI2xp9DPAOJP,28,2015,progressive-house,0.526,0.855,1,-5.916,1,0.0554,0.0208,0.675,0.0822,0.245,128.001,196660,4
+System 7,Dance of the Deer,16OJRYXlRbg2bgabF7eJks,0,2004,progressive-house,0.692,0.91,10,-9.174,0,0.0545,0.00134,0.877,0.0648,0.599,130.0,474960,4
+John Digweed,Voices(Pt 2) - Freelance Icebreakers Mix,1w7kiiWG00Bvx4nwKNtLBx,3,2000,progressive-house,0.695,0.581,8,-17.409,1,0.0819,0.00128,0.909,0.0955,0.109,131.999,521849,4
+Robbie Rivera,In Too Deep - Dero & M.o.n.d.a.y Remix,3IzSyrjioiJbqNUCyRXSrH,0,2008,progressive-house,0.784,0.547,7,-3.891,1,0.0781,0.00838,0.383,0.0695,0.291,127.997,470640,4
+Andrew Rayel,All Falls Down (FYH346),7Hs8RUlQUtbYD5wa3IuT00,19,2023,progressive-house,0.516,0.817,0,-5.161,1,0.0724,0.00448,0.0,0.693,0.161,128.039,93750,4
+Armin van Buuren,This Is What It Feels Like - Maddix Remix,1KsoDDooUtrKCA3ve09nMY,29,2020,progressive-house,0.404,0.873,8,-4.987,1,0.046,0.000949,0.00135,0.278,0.216,140.074,231857,4
+John O'Callaghan,Every Lesson Learned - Original Mix,7jwgBD2PjFgMYPrdCyKPCZ,10,2009,progressive-house,0.53,0.982,0,-7.674,1,0.0371,0.000356,0.785,0.175,0.33,139.991,339653,4
+MAKJ,Too Far Gone (feat. Matthew Santos),49CtnfeIJn2czXYnMZyVQO,16,2017,progressive-house,0.605,0.916,9,-1.176,0,0.0807,0.0134,2.42e-06,0.125,0.297,115.041,162783,4
+Judge Jules,Absolute Control,4aHl4qtsuhTbkBkegkS7ND,0,2006,progressive-house,0.5,0.802,8,-12.551,1,0.0331,0.000546,0.914,0.332,0.379,137.954,266200,4
+Luttrell,Don't Forget To Breathe,4tHOLt2m7PhhcTtKz3oQLe,17,2017,progressive-house,0.618,0.805,7,-7.667,1,0.036,2e-05,0.852,0.115,0.0361,122.991,271220,4
+Eli & Fur,Parfume - Dosem Remix - Edit,4nxAZSsAGMlVzsBXPHsB6t,33,2018,progressive-house,0.758,0.563,0,-9.483,1,0.0396,0.00461,0.864,0.108,0.223,123.002,265366,4
+Kaskade,Chains (with Project 46),7IcfnHpe6bvwdUmBIFpKSU,30,2020,progressive-house,0.638,0.762,0,-5.317,1,0.0363,0.0159,0.107,0.103,0.169,126.997,223041,4
+Brooks,Lynx,6pK3iM545Mqv3vI5Xmdnzq,40,2018,progressive-house,0.63,0.793,5,-6.624,1,0.0355,0.00138,0.938,0.118,0.337,128.014,208125,4
+Rex Mundi,Perspective [Mix Cut] - Original Mix,6faFI4raZkdphZg6RGMfUx,3,2007,progressive-house,0.524,0.979,11,-7.174,0,0.0596,5.87e-05,0.484,0.516,0.0663,136.034,253627,4
+Ferry Corsten,Mo Chara,3W2aEQGZtqyX3eTWvSj6Ub,27,2020,progressive-house,0.416,0.962,1,-6.307,0,0.039,0.000515,0.861,0.093,0.187,136.009,268828,4
+Pako & Frederik,Organism,3mcS4k3m6NgB0EkMa7iGD4,0,2006,progressive-house,0.577,0.46,5,-17.682,0,0.0381,0.691,0.854,0.135,0.342,120.016,305467,4
+Dezza,Xafilah - Roddy Reynaert Remix,2Su0ZHTAbbHQFZEkkyVg0L,0,2009,progressive-house,0.662,0.904,2,-6.984,1,0.0523,0.0278,0.934,0.0403,0.771,128.005,444137,4
+Dimitri Vegas & Like Mike,Untz Untz - Coone Remix,1vnJSFjkU4AvvKt0a08xCF,40,2019,progressive-house,0.439,0.975,1,-4.688,1,0.207,0.0087,0.362,0.0468,0.0925,150.1,190071,4
+Super8 & Tab,Live For Tonight - Scorz Remix,4RHFjle9srlZWXn7mjEpcj,31,2021,progressive-house,0.595,0.901,5,-5.5,1,0.0424,0.00321,0.00225,0.481,0.361,124.012,160650,4
+Medway,Motivo - Medway's Breakbeat Remix,1K750sJAvRCVf58BUI30RY,0,2006,progressive-house,0.766,0.461,4,-13.315,1,0.0584,0.000632,0.894,0.0813,0.726,131.876,538802,4
+Lane 8,Clarify - Tinlicker Remix,3ZGFCKDg4mMPOinnjJPO5h,30,2018,progressive-house,0.691,0.777,6,-8.735,1,0.0503,0.0963,0.669,0.0659,0.137,123.992,499476,4
+Quintino,Make It Louder,1EGnZyqD5vuRYyORxQPYDN,40,2021,progressive-house,0.267,0.969,2,-5.697,1,0.0472,0.00023,0.225,0.324,0.0339,130.153,157885,4
+Hypnotic Duo,Autumnal Logo - Cuddlecake & Bukaca Remix,6sHUd5tBneF8C64pNmK0lx,8,2011,progressive-house,0.792,0.533,10,-9.838,0,0.0975,9.52e-06,0.833,0.0988,0.463,127.018,440315,4
+Mat Zo,Hurricane,3B7EhilQhz5r6TubJ7jyfw,16,2013,progressive-house,0.418,0.738,1,-7.292,1,0.042,0.00147,0.0475,0.11,0.231,129.924,315718,4
+Borgeous,Zero Gravity (feat. Lights),3yOGd8VH4LzHjmCxpTQ9u1,20,2015,progressive-house,0.617,0.754,4,-6.405,0,0.0388,0.119,0.000157,0.0841,0.0385,130.009,313846,4
+Matias Larrosa,Every Time You Move - Original Mix,451xkOEoU0qqBYB7PnLqWS,9,2010,progressive-house,0.794,0.688,1,-6.845,1,0.0605,0.0145,0.901,0.117,0.211,125.003,521385,4
+Joel Armstrong,Serenity - Chillout Mix,5Bi3rVUCrEQfoIvDYPa0jw,0,2005,progressive-house,0.572,0.621,1,-9.083,0,0.0337,0.0132,0.9,0.328,0.0644,110.011,483273,4
+Marco V,C:/del*.mp3 - Radio Edit,4y1js1CXLaYhvgaAoeDgLN,0,2003,progressive-house,0.596,0.677,7,-10.41,1,0.043,0.0197,0.827,0.109,0.392,139.984,167547,4
+Thomas Bronzwaer,Close Horizon - Giuseppe Ottaviani Remix,6eMSQaByabR2U5W663Vt64,7,2005,progressive-house,0.568,0.915,6,-10.299,0,0.0779,0.000137,0.88,0.084,0.784,140.004,516429,4
+Circulation,Topaz - Mix B,0SxOvnTA9NVg0Y4IhS9yfE,7,2001,progressive-house,0.624,0.574,6,-11.393,0,0.0315,0.112,0.799,0.133,0.199,130.035,563172,4
+Jordin Post,Jupiter,57bJWt9jcma2vUAhvbAY75,37,2022,progressive-house,0.654,0.912,1,-6.78,0,0.0409,0.0174,0.779,0.167,0.078,119.993,229875,4
+Markus Schulz,Remember This,5Lhin7S8YJsCBXzgItbx5W,29,2014,progressive-house,0.539,0.914,7,-6.63,0,0.046,0.00138,0.935,0.261,0.18,129.978,177231,4
+Solarstone,Late Summer Fields - Alucard's Shadow Lord Remix,0M0XIdnwQ9Z06C5QZ6d0Fc,0,2007,progressive-house,0.643,0.778,1,-6.198,1,0.0406,0.000112,0.53,0.131,0.24,126.996,555967,4
+Dannic,Bump N' Roll,5UqxaK4S2p9a7g7ZoHI73k,33,2019,progressive-house,0.643,0.942,11,-2.668,0,0.0398,0.000207,0.792,0.35,0.0954,128.022,151875,4
+Mike Koglin,The Silence - Prospekt 2009 Remix,5JTFeCzw8wQMZ7QPMfK0WK,0,2009,progressive-house,0.795,0.885,7,-7.622,1,0.147,0.015,0.779,0.102,0.372,138.01,476444,4
+Distant Fragment,Utopia - DJ Tarkan & V-Sag Remix,3V2qyJPqCxGn26XGYFMbet,2,2006,progressive-house,0.78,0.972,10,-6.314,1,0.0586,0.0334,0.86,0.0592,0.153,127.004,650079,4
+Fatum,Radiant,1iyxxUxyptXWtEdRXRBeda,32,2021,progressive-house,0.557,0.846,10,-8.084,0,0.0857,0.0871,0.364,0.277,0.115,125.981,185714,4
+Calvin Harris,We’ll Be Coming Back - Killsonik Remix,75WzBbSn1uEmAgKySFq2sC,12,2012,progressive-house,0.459,0.819,11,-4.038,0,0.0518,0.00354,2.15e-05,0.108,0.181,139.955,332867,4
+R3HAB,Eyes Closed,5UxbKeslsZXeTbq3XnK9fU,26,2018,progressive-house,0.416,0.7,9,-8.528,0,0.0375,0.0319,0.896,0.0771,0.1,141.934,110915,4
+Arnej,"People Come, People Go [ASOT 334] - Maor Levi Remix",3TIsV5owiW6lMZEMEKFsgi,4,2008,progressive-house,0.598,0.726,1,-12.745,0,0.0553,0.000474,0.509,0.62,0.0396,131.014,432761,4
+Julian Calor,Find My Way,0U3U2BbtXbgPscRIaGWLtJ,31,2022,progressive-house,0.605,0.669,8,-10.122,0,0.0512,0.0898,0.0339,0.355,0.177,125.911,183333,4
+R3HAB,Wrong Move (feat. Olivia Holt),0rtYRtOYiXy8islpKQQm7Z,37,2018,progressive-house,0.722,0.705,5,-5.821,0,0.0505,0.161,1.63e-06,0.113,0.533,124.016,211093,4
+Jef Miles,Follow Your Heart,3B8u8OeWCeEt8a287stYxb,18,2015,progressive-house,0.719,0.689,6,-10.194,0,0.0611,0.0649,0.783,0.185,0.0319,126.009,310482,4
+Pablo Acenso,Backgrounds - Original Mix,2KhIMJaA4igGBIHHM5EPgW,9,2010,progressive-house,0.669,0.542,8,-7.992,0,0.0536,0.00875,0.752,0.0988,0.509,127.993,459375,4
+16BL,Goodbye Pluto Version 2 - Original Mix,2pwtlRmRDoPLMK8CZ7WsQL,1,2007,progressive-house,0.798,0.851,0,-7.834,0,0.0572,0.00129,0.877,0.0509,0.363,126.004,472956,4
+Joseph Ray,Room 1.5,7KNAX5vcVQpGalIP1TiQuP,34,2019,progressive-house,0.737,0.749,6,-8.238,1,0.0416,0.0251,0.918,0.0977,0.138,123.999,503409,4
+Marshmello,FRIENDS - Justin Caruso Remix,72J8O7kyKTicwoUxuu0eYy,31,2018,progressive-house,0.686,0.728,9,-4.581,0,0.0743,0.0173,0.0,0.085,0.733,95.0,194526,4
+Kastenholt & Dee,Massive Selecta - Radio Edit,1iWRXnyOl3e4ceElhtfvMw,23,2012,progressive-house,0.736,0.957,8,-2.869,1,0.117,0.00323,0.4,0.845,0.677,127.989,187240,4
+Calvin Harris,Promises (with Sam Smith) - Extended Mix,5XkDD1oPfuXdgi84ezQ2ts,30,2018,progressive-house,0.767,0.664,11,-8.073,1,0.0485,0.00145,0.0475,0.248,0.524,123.024,507449,4
+Yotto,Ingern,23WSd4TMp2ar1GRxa0WZQG,37,2022,progressive-house,0.701,0.807,1,-7.535,1,0.0734,0.00173,0.954,0.065,0.202,123.994,229437,4
+Swedish House Mafia,19.30,7BgkJI365GgBnvdG8D5zLp,38,2022,progressive-house,0.661,0.699,1,-6.262,0,0.159,0.0333,0.859,0.462,0.23,119.974,117024,4
+Cristoph,Swoon,6vxhkA7ZW49V0fBgnyAIfC,24,2023,progressive-house,0.736,0.849,10,-8.959,0,0.055,0.000153,0.887,0.0891,0.173,124.993,480923,4
+Martin Garrix,There For You - Goldhouse Remix,63LdoxgPG1bY3WnooMUp0J,23,2017,progressive-house,0.854,0.733,6,-5.38,0,0.0927,0.00245,9.2e-06,0.142,0.531,117.995,183531,4
+Ferry Tayle,The Most Important Thing - LTN Radio Mix,3rCtK8vPJzQf8va5iIxBPb,15,2015,progressive-house,0.407,0.812,6,-4.512,0,0.0998,0.0031,0.0,0.067,0.181,127.984,217505,4
+Aly & Fila,Perfect Love,2LvtS0ujfEgkmIOcu6PqQO,22,2012,progressive-house,0.651,0.804,9,-6.801,0,0.0487,0.0133,0.000615,0.285,0.772,131.994,221250,4
+Sasha,Mujhe Dil Se,47YhXv5mmZ9maST6qne3BK,0,2002,progressive-house,0.83,0.478,8,-8.357,0,0.0416,0.169,0.0635,0.12,0.363,101.679,285133,4
+John O'Callaghan,Exactly - Giuseppe Ottaviani Mix,0VqNrXBr7QC5oKvg3fEy64,4,2006,progressive-house,0.763,0.993,7,-5.251,1,0.0649,0.00148,0.773,0.736,0.627,140.022,466787,4
+Dada Life,We Want Your Soul,0NdanRmIU752yqD302CNlS,12,2017,progressive-house,0.479,0.783,8,-6.241,1,0.178,0.0122,1.23e-06,0.165,0.0468,128.046,193440,4
+Dirty South,The End - Arno Cost Remix,3M5kiF8h0ewz6wmmkWWT8H,0,2008,progressive-house,0.734,0.687,9,-6.628,0,0.055,0.0142,0.182,0.082,0.505,125.001,419595,4
+Hardwell,Apollo - SICK INDIVIDUALS Remix,3fPvGPYwM6tSVIgE0T6KaV,31,2021,progressive-house,0.677,0.957,6,-5.21,0,0.0725,0.00827,0.0182,0.164,0.152,128.01,213007,4
+Lemon8,The Only Way,0xQREH5vzUYFhyT8T8J0Eg,6,2002,progressive-house,0.71,0.792,6,-10.556,0,0.0422,0.0329,0.91,0.105,0.115,130.998,498440,4
+Lucas & Steve,I Want It All,3oSCJeOl0XjcpNcigO9vj7,44,2020,progressive-house,0.612,0.726,1,-5.934,1,0.036,0.0374,2e-06,0.105,0.478,119.964,191835,4
+Jay Hardway,Million Reasons (feat. Zophia),0VDv1emqLx0yUIrvIi3Rqi,26,2021,progressive-house,0.735,0.819,1,-4.652,0,0.0326,0.0445,2.16e-05,0.331,0.16,123.013,175610,4
+Pete K,Kenopsia - Mixed,6KIQeqmwXHkk89Rp6gioQE,24,2020,progressive-house,0.656,0.862,7,-6.996,1,0.0534,0.000146,0.885,0.276,0.252,123.553,264265,4
+Markus Schulz,Safe from Harm - Markus Schulz In Bloom Mix,6Hqm9zzlNf6LL0OsZgbFcw,28,2018,progressive-house,0.514,0.87,2,-8.43,0,0.0478,8.62e-05,0.279,0.116,0.0746,132.202,203293,4
+Kaskade,Only You - Dragon & Jontron Remix,0GQjuEvbKKv9tSqmTRkvFq,5,2011,progressive-house,0.657,0.847,11,-7.183,0,0.244,0.000341,0.00182,0.312,0.373,127.015,412716,4
+Above & Beyond,We're All We Need (ABGT250) - ilan Bluestone Remix / ABGT250 Acoustic Edit,6zFsiOEeuXKxBf9FGaHp7p,22,2017,progressive-house,0.504,0.563,3,-13.122,1,0.0558,0.0147,0.0075,0.739,0.175,129.612,264236,4
+Dimitri Vegas & Like Mike,Momentum - Michael Calfan Remix,6gv0haZkJPwGEnoUegBnXC,17,2012,progressive-house,0.703,0.83,9,-3.839,1,0.0425,0.0033,0.909,0.213,0.0588,128.022,360000,4
+Denis Kenzo,Ashes,2G7mR9HLpRtbrSGYbZDOOF,30,2015,progressive-house,0.485,0.925,3,-3.314,0,0.0592,0.0188,0.000198,0.104,0.071,129.988,232682,4
+Nicky Romero,Love You Forever - Metrush Remix,2O5nUHrtyIAmUyzRUaRHO5,24,2019,progressive-house,0.614,0.805,11,-5.162,1,0.0504,0.044,1.85e-06,0.362,0.395,125.906,188437,4
+Cubicolor,No Dancers - Adam Port Remix,7GRJRRR4nwZ4EGSnTapBmh,33,2019,progressive-house,0.773,0.835,11,-9.508,0,0.0454,0.00663,0.794,0.122,0.0784,120.003,405051,4
+John O'Callaghan,Big Sky - Armin van Buuren's Intro Edit,6JcXRSTQYYC65dJyDgzok3,16,2012,progressive-house,0.592,0.86,6,-10.368,0,0.0874,0.00254,0.723,0.0863,0.049,129.997,517534,4
+Dinka,The Sleeping Beauty - Original Mix,6hU7COgESodgmCb9PHKnM3,11,2011,progressive-house,0.644,0.879,1,-5.908,1,0.0301,0.00219,0.166,0.0693,0.482,128.013,337493,4
+CamelPhat,Easier (feat. LOWES),4xiMBaax2U0j1QPUvae5Ma,39,2020,progressive-house,0.517,0.927,11,-6.532,0,0.0417,0.0219,0.0484,0.0973,0.0755,122.956,310787,4
+Blugazer,Whisps,3jJRUKShu3R44wT1wwb5OP,30,2020,progressive-house,0.533,0.802,10,-10.242,0,0.0423,0.127,0.934,0.0539,0.278,120.033,363000,4
+Pryda,SW4,5yVIQnxrPYRxbe96Q9eF3X,11,2012,progressive-house,0.577,0.959,2,-7.558,1,0.0347,0.00856,0.886,0.101,0.357,126.008,326547,4
+Genix,Arrival,3ngtIP7KG0taFjh0P7WhI2,18,2017,progressive-house,0.578,0.754,7,-7.737,1,0.0615,0.000748,0.896,0.305,0.175,128.003,251309,4
+Duke Dumont,Ocean Drive - Purple Disco Machine Extended Mix,3jV2xbNYK1MxrpfYudEmUo,38,2020,progressive-house,0.801,0.711,8,-6.086,0,0.0479,0.00462,0.0334,0.022,0.942,118.498,361568,4
+Lane 8,All I Want,47cmM6ptQ3dH7iQlcWg9ac,43,2022,progressive-house,0.686,0.406,9,-10.6,1,0.0307,0.122,0.694,0.1,0.237,121.995,240000,3
+DT8 Project,The Sun Is Shining (Down On Me) - Andy Morris Remix,2UmmNdshGsQUJIUECeL9xK,0,2004,progressive-house,0.602,0.91,7,-4.776,1,0.0538,0.00104,0.0802,0.0481,0.345,128.038,454248,4
+Swedish House Mafia,Moth To A Flame (with The Weeknd) - Extended Mix,7adZFwp4PnLDL2QrQhv8fD,50,2022,progressive-house,0.705,0.643,0,-8.766,0,0.0548,0.000831,0.000605,0.136,0.223,119.987,298750,4
+Mat Zo,Superman - Original Mix,1nBF8JsROsqkgbw9mRwUoB,8,2012,progressive-house,0.715,0.855,8,-8.165,1,0.0636,0.000587,0.9,0.605,0.5,127.991,457825,4
+Transa,Electronique (with Cascade) - Original Mix,62VwYh46axIeH5ZpG6tDqg,0,2002,progressive-house,0.684,0.97,8,-9.779,0,0.0629,0.00169,0.82,0.343,0.841,138.027,494864,4
+Lostep,Burma - Trafik's A.M. Rub,3efpI0i0lFttolm1EczZcT,1,2004,progressive-house,0.529,0.923,4,-7.017,0,0.0392,0.000999,0.827,0.318,0.383,130.017,606240,4
+Airwave,Mice - Remastered Original Mix,2HDdF6gaqsGUX2Ul9YZsaP,0,2005,progressive-house,0.636,0.957,6,-9.82,0,0.0664,0.12,0.897,0.1,0.231,129.989,445613,4
+Dash Berlin,Time After Time - Festival Mix,1IXNN7Kc4PDeVb67ldki4Z,45,2023,progressive-house,0.701,0.992,11,-4.203,0,0.0719,0.0222,0.0106,0.413,0.296,128.016,181406,4
+BT,"1AM in Paris - 7""",0uGjQJUMZgrnEvQ1WrtBww,26,2020,progressive-house,0.574,0.843,6,-6.884,1,0.04,0.00601,0.792,0.397,0.516,127.987,201880,3
+Avao,Text Me,1iDvWsd0i0tONCO8lfOqC1,51,2022,progressive-house,0.683,0.911,10,-5.704,0,0.0691,0.00141,0.275,0.286,0.329,134.005,155606,4
+16B,It Doesn't Have To End,3GIeMaLfYatIZKHtr04wdF,8,2009,progressive-house,0.854,0.812,1,-9.689,0,0.0554,0.199,0.783,0.105,0.637,125.985,379093,4
+Genix,Waterfall - Factoria Dub Mix,1gPQaISgx3m9rKrRPaE5UJ,0,2007,progressive-house,0.507,0.922,0,-7.424,1,0.0402,4.01e-05,0.909,0.118,0.153,140.006,432002,4
+Hypnotic Hour,Dark Eyes - Bobby Deep Remix,7wQcdPvk6kmNN2xaf71M3N,8,2009,progressive-house,0.71,0.539,1,-8.639,0,0.0546,0.0018,0.832,0.0665,0.194,129.968,537236,4
+Mike Koglin,Find Me - Khaomeha Dub,3jC2B9OxvvnDjwjK1nZUZo,0,2009,progressive-house,0.502,0.985,7,-4.666,0,0.0565,0.00289,0.827,0.458,0.172,138.008,427826,4
+Stan Kolev,Total Control,0BP4nFsbiC8VTHQhuxguQ4,0,2005,progressive-house,0.686,0.945,7,-8.14,1,0.055,2.86e-05,0.883,0.0981,0.478,130.002,575935,4
+Calvin Harris,Blame,7B83XczYSjqkdojHFppmXX,26,2015,progressive-house,0.637,0.842,0,-4.53,0,0.0571,0.0279,0.00663,0.429,0.377,128.008,210034,4
+Tilt,New Day - Serge Devant Dirty Dub,0tTU1Hfg1hIA6NdgzpSh1q,0,2005,progressive-house,0.7,0.902,2,-8.447,1,0.0631,0.00286,0.877,0.646,0.574,132.007,508360,4
+Lustral,For A Lifetime - Vox Mix,1AOeKQEqAidEnVgrh35HpB,5,2008,progressive-house,0.622,0.525,3,-8.417,1,0.0414,0.0249,0.265,0.106,0.195,134.028,385688,4
+Marco V,Tolerance,3lTT2rJOh68lcnFtOEfRJx,5,2000,progressive-house,0.74,0.844,0,-9.088,1,0.0507,0.0047,0.914,0.101,0.198,137.987,503536,4
+Eddie Thoneick,Deeper Love - Eddie Thoneick's Big Room Radio Mix,5pc2XMj1DGxOus1WzH1tav,0,2007,progressive-house,0.62,0.801,4,-9.808,0,0.123,0.0065,6.18e-05,0.0997,0.647,128.032,199929,4
+Lucas Nord,Run on Love (feat. Tove Lo) [Extended Mix],4dJjxcSC6k6s9mEdSopC6R,9,2015,progressive-house,0.657,0.748,11,-4.169,0,0.0506,0.0502,3.07e-05,0.0665,0.518,127.999,290625,4
+Andy Moor,YearZero [ASOT 263] - Original Mix,57vfeSDyGwH9Z3pNFZqiXJ,0,2006,progressive-house,0.491,0.896,10,-10.852,0,0.05,5.1e-06,0.824,0.323,0.19,137.793,344805,4
+Tinlicker,I Am Free,1JRSuXtaM9ecKdwI91RjRa,36,2022,progressive-house,0.548,0.839,1,-7.599,0,0.0338,0.0167,0.948,0.0557,0.403,125.001,251646,4
+Lane 8,The Rope (feat. POLIÇA) - Le Youth Remix,7toata3kAxgvAPer5XCwHE,36,2020,progressive-house,0.565,0.824,2,-7.668,1,0.0308,0.0037,0.382,0.44,0.33,125.03,279081,4
+Cass,Lost Life - Lottie Remix,4v6SrhIaUc7u86mZ6FLm1I,0,2007,progressive-house,0.733,0.548,10,-8.065,0,0.0412,0.0109,0.804,0.0667,0.888,126.997,368293,4
+Satoshi Tomiie,Black Opal,6In5W6IVbSGEZSIVH0v6J8,2,2000,progressive-house,0.439,0.375,7,-12.138,0,0.034,0.414,0.405,0.126,0.159,125.828,320027,4
+Paul Keeley,Kaleidoscope - Original Mix,3doAYyxeNkt9mGIXRYkGbP,4,2010,progressive-house,0.726,0.561,7,-10.143,0,0.0551,0.0131,0.92,0.106,0.256,126.993,438898,4
+Filterheadz,Yimanja - Markus Schulz & Austin Leeds Remix,6Vv2VqJ6rhhdxvf48QmvUr,1,2004,progressive-house,0.646,0.909,6,-10.646,0,0.0378,0.0122,0.893,0.0706,0.667,130.997,552867,4
+Robbie Rivera,Float Away - Nicola Fasano 80's Club Mix,6wp4n8J2lUfS2O2oPPjAhS,0,2006,progressive-house,0.743,0.834,0,-7.411,1,0.0577,0.000256,0.422,0.0907,0.931,127.988,334560,4
+Fedde Le Grand,3 Minutes To Explain - Beatchuggers Sidelmann Remix,2lHp5zkyEkr5nh1ROeigUt,0,2008,progressive-house,0.708,0.772,8,-10.738,1,0.0882,0.000222,0.502,0.0639,0.416,125.928,427031,4
+Simon Patterson,Bulldozer,0kj5SJzGoig2maHKU5mH2s,12,2007,progressive-house,0.64,0.939,6,-6.238,0,0.0866,6.11e-05,0.918,0.113,0.0386,139.985,514056,4
+Protoculture,Out of Reality - Original Mix,7byKpnNtCm0nz0idDTOSk0,11,2006,progressive-house,0.583,0.925,10,-8.728,0,0.0504,0.00253,0.64,0.246,0.518,140.008,460480,4
+Kosling,Believe,0gMwiYFfWh6h51opG6JhQz,29,2018,progressive-house,0.418,0.837,6,-3.929,1,0.0449,0.17,0.0144,0.0798,0.332,127.993,200861,4
+Spencer Brown,Audio,5bHV6UowNC1YVu8LYDkUjU,31,2018,progressive-house,0.636,0.745,3,-8.418,0,0.0381,0.000652,0.218,0.155,0.143,125.072,368080,4
+Sunny Lax,By My Side (ABGT514),70B6YfWLFl8iADPwdrWn5U,34,2023,progressive-house,0.531,0.808,0,-9.142,1,0.0641,0.000101,0.151,0.147,0.083,124.122,262978,4
+Nicky Romero,Love You Forever,2gqzTQEn4g5ly0n5ScdMx0,40,2019,progressive-house,0.382,0.698,6,-3.409,1,0.0374,0.00236,5.24e-05,0.108,0.151,127.816,234609,3
+Alex M.O.R.P.H.,New Harvest - Human Blue Remix,3v7TfCNrPN5PaNk9O5faDm,0,2005,progressive-house,0.551,0.968,1,-7.804,0,0.0563,0.000136,0.901,0.0999,0.069,135.009,474373,4
+Eelke Kleijn,Will I Love,5FkpplnIHUMwk0DCPN23pe,15,2010,progressive-house,0.754,0.532,7,-10.464,1,0.0349,0.000983,0.022,0.112,0.542,123.034,413780,4
+Maor Levi,Pick Up The Pieces (feat. Angela McCluskey) - Radio Edit,6cs5yBsyalLKy5eBBoTYgz,18,2014,progressive-house,0.503,0.757,8,-6.319,1,0.0602,0.00239,0.000473,0.569,0.353,127.928,191540,4
+Judge Jules,So Special - Original Mix,05BkMLIbZ2HL3FlfjUZLfA,0,2006,progressive-house,0.552,0.799,11,-11.321,1,0.053,0.0328,0.000254,0.1,0.29,137.589,328080,4
+The Stain,The Last Stand - Original Mix,3VrJkWNMwVYmmaNSERYwVE,8,2010,progressive-house,0.7,0.681,10,-9.24,0,0.064,0.000147,0.868,0.0815,0.525,126.003,495238,4
+Alesso,TIME - Alesso & Deniz Koyu Remix,6EHfy60U5dH5QJcQKdbNPQ,41,2019,progressive-house,0.723,0.672,7,-5.716,0,0.0387,0.000133,0.401,0.0593,0.279,124.985,234240,4
+Eddie Thoneick,Love Sensation - Eddie Thoneick’s Nu Tribe Dub,0qhFlCHrk9tgGM3uPASVda,0,2007,progressive-house,0.726,0.975,6,-3.376,1,0.0833,0.00438,0.814,0.0351,0.675,125.992,427164,4
+Space Manoeuvres,Zone Two - Micah Mix,2c4i6jBeY6cJX6f6fF3mZm,0,2006,progressive-house,0.549,0.698,10,-9.975,0,0.03,0.000411,0.873,0.795,0.175,128.98,491163,4
+Gareth Emery,Breathe,62j91CmgCmz6z9I6ycyut5,39,2022,progressive-house,0.507,0.513,6,-10.323,1,0.0312,0.0935,0.0932,0.0981,0.216,130.043,197561,4
+Sick Individuals,Runaway,4pzQBLftVIu10ux5hxipwZ,39,2020,progressive-house,0.649,0.917,8,-2.677,0,0.0559,0.19,0.0,0.0729,0.391,127.973,165528,4
+Rub!k,Alpha-45 (Mixed),58r0NZpyQP25D95ISb23Lm,43,2022,progressive-house,0.473,0.904,5,-8.041,1,0.039,0.0327,0.767,0.499,0.316,132.955,93773,4
+Shogun,Save Me,2w9gQpjkhen7rVANUCDN4k,15,2012,progressive-house,0.537,0.915,1,-5.886,0,0.0476,0.028,0.0292,0.384,0.17,131.977,264500,4
+Steve Angello,Rollin - Original Mix,3ngdi2x42LLtz1I4cbMQpd,0,2008,progressive-house,0.703,0.92,10,-6.884,0,0.0673,0.00177,0.929,0.0623,0.483,126.99,292920,4
+Airwave,Escape From Nowhere - Remastered Original Mix,4k3K1LbVa4EOFkPvUEnvZR,0,2004,progressive-house,0.638,0.924,8,-8.206,1,0.0537,0.00619,0.86,0.371,0.665,131.002,436640,4
+Way Out West,Intensify [ASOT 007] - Peace Division Remix,2V5U5QZaIJJmSO6z85Z6Xh,1,2001,progressive-house,0.822,0.942,7,-7.361,0,0.0694,0.00242,0.755,0.029,0.356,129.783,503500,4
+Dyro,I Know U,37RqXKYpYnCLXJolKH8uuE,22,2018,progressive-house,0.845,0.899,2,-2.861,1,0.505,0.00684,0.0169,0.0394,0.384,130.046,208032,4
+Somna,Till Oblivion - Original Mix,2OfbC1fuEv1zLTsnIiDb5V,24,2013,progressive-house,0.745,0.926,3,-5.397,0,0.158,0.00121,0.0275,0.364,0.492,132.016,443636,4
+Oliver Heldens,Gecko (Overdrive) (with Oliver Heldens) - Radio Edit,62xmHGK6xUejAf4PFIxpaY,45,2019,progressive-house,0.621,0.878,0,-5.506,1,0.0634,0.00537,5.34e-06,0.233,0.722,124.965,166360,4
+Nari & Milani,Gnuk!,7xvHEl7W6olTua6X10LUBz,14,2007,progressive-house,0.822,0.871,0,-4.882,1,0.108,0.000844,0.831,0.207,0.123,129.995,325080,4
+Domased Electronica,Mars - Ewan Rill Remix,3v9rvwoj9gDtYHbow9PFNH,8,2013,progressive-house,0.761,0.503,7,-9.344,1,0.0952,0.00153,0.905,0.0834,0.629,123.995,518710,4
+Airwave,The Division Bell - Remastered Original Mix,3FTriC8sZJT9LjRN93dNY3,0,2004,progressive-house,0.658,0.864,1,-8.135,1,0.0872,0.000345,0.929,0.0643,0.328,135.009,431480,4
+Deorro,Bomba,3rJHtp9aZnAnbYpTOCpP3l,26,2017,progressive-house,0.777,0.581,8,-6.003,0,0.175,0.0251,0.293,0.368,0.69,114.939,193359,4
+John Dahlbäck,Above It All,3fL1ZmjzqwmXHjzlmF5X1l,36,2023,progressive-house,0.651,0.875,7,-9.032,1,0.042,0.0231,0.901,0.0935,0.203,122.991,220488,4
+Solarstone,3rd Earth [ASOT 088] - Original Mix,3ZHDB3hn4LW7SoSBgywh7k,0,2003,progressive-house,0.483,0.967,11,-10.237,0,0.0682,0.000137,0.917,0.253,0.0785,134.313,390063,4
+Andy Moor,So Much More [ASOT 361] - Original Mix,1ThcFyuCn4jNehmdvh1NQi,7,2008,progressive-house,0.518,0.978,11,-10.723,0,0.0786,0.000489,0.625,0.574,0.626,130.01,383656,4
+Space Manoeuvres,Stage One - Gardner & Southall Balearic Mix,47jFdLsnE2ia6qLSRSOzFF,0,2004,progressive-house,0.562,0.946,0,-8.963,0,0.0803,0.00771,0.653,0.82,0.24,110.515,374307,4
+Filo & Peri,C1999 [ASOT 137] - Original Mix,4TUObKTnWbY9qjI3RFjw7y,0,2004,progressive-house,0.413,0.707,7,-18.371,1,0.0673,0.000117,0.664,0.343,0.0392,138.449,344875,4
+deadmau5,superbia (ov) - Matt Lange Remix,1lP15gkrgTH8SKnPZLg5VW,22,2019,progressive-house,0.783,0.642,4,-11.928,0,0.051,0.0106,0.916,0.108,0.171,126.008,567327,4
+Human8,Harmonical State - Original Mix,6yPrsKeJG7pjDegxW2Na1t,8,2010,progressive-house,0.668,0.693,0,-10.097,1,0.0353,0.012,0.891,0.0929,0.168,128.009,423811,4
+Eli & Fur,Nightmares,5YkrnvyHUHlhecSvqNBNkn,10,2013,progressive-house,0.712,0.555,11,-10.022,1,0.0407,0.0023,0.591,0.23,0.333,124.936,311459,4
+Armin van Buuren,Burned With Desire - Rising Star Vocal Mix,0hocATHAfap6fAFXVwVuVY,31,2014,progressive-house,0.487,0.916,4,-7.986,0,0.0302,0.000638,0.513,0.333,0.429,137.953,181827,4
+Eryo,"Wind City - Michael & Levan, Stiven Rivic Remix",0HADbP06N4SGXwQqSMVbL5,8,2010,progressive-house,0.549,0.915,11,-6.003,0,0.048,0.000901,0.77,0.301,0.222,128.013,592505,4
+Aly & Fila,FSOE797 Intro (FSOE 797),5hXCfEZiBCU83Ws4laPgiw,12,2023,progressive-house,0.327,0.92,8,-9.717,1,0.133,0.000499,4.81e-06,0.406,0.294,140.128,49412,4
+Luttrell,After All - CIOZ's Whale Remix,1MuErI5CJDLl57UuseAlcj,20,2019,progressive-house,0.692,0.821,5,-9.146,1,0.0427,0.00056,0.831,0.0631,0.434,122.003,234858,4
+Pryda,SOL,5HEk3QNISmrCCkPb9x3r3S,34,2015,progressive-house,0.658,0.786,8,-9.78,1,0.053,0.0677,0.905,0.0873,0.351,127.011,557242,4
+Austin Leeds,Africa - Original Mix,6NzPqYUGN6Joaqi6XERpLI,0,2006,progressive-house,0.722,0.861,4,-9.915,1,0.0684,0.0489,0.721,0.12,0.733,130.937,519893,4
+Sound 5,Do Humans Belong On Radio,7tlVFnMYmNg4Onazd9eb3g,0,2000,progressive-house,0.486,0.681,11,-15.281,1,0.653,0.498,1.23e-06,0.778,0.833,130.015,51493,3
+Stan Kolev,Obsession,7oftQD2vyi2l79CX3uSAsY,0,2005,progressive-house,0.783,0.831,9,-8.679,0,0.0893,0.016,0.886,0.276,0.592,128.015,508280,4
+MaRLo,Whisper,25Zpz0UPRYPyxuj88AKl3p,31,2019,progressive-house,0.445,0.89,2,-4.325,1,0.0777,0.0056,0.000157,0.117,0.116,132.001,232727,4
+Menno de Jong,Tundra [ASOT 201] - Fierce Dub,5Tbplz0TeKG0pSr3P7HTHU,0,2005,progressive-house,0.411,0.892,2,-10.393,1,0.0475,1.81e-05,0.925,0.433,0.111,137.14,357000,4
+Joseph Ray,Cos Of You,7nAbkjtxvS00NBcOlapI9V,32,2023,progressive-house,0.803,0.695,5,-7.725,0,0.0531,0.009,0.818,0.144,0.412,125.993,373452,4
+Stan Kolev,Time Of Passion,6nJslKhATyfUX02oIGsAMy,0,2005,progressive-house,0.784,0.933,7,-6.412,1,0.0567,0.0193,0.879,0.182,0.593,128.0,473188,4
+tyDi,Tear Me Up (feat. Nash Overstreet),7oDoRBy8UxGS6X1dd3qrSq,16,2015,progressive-house,0.64,0.697,8,-3.176,1,0.076,0.0275,0.0,0.0858,0.387,124.957,201600,4
+Signalrunners,These Shoulders - Club Mix,0TxXRgqGIwNN6Uyjn9V7ox,22,2019,progressive-house,0.541,0.877,7,-8.148,0,0.0609,0.014,0.124,0.334,0.303,128.027,217031,4
+Marsh,Sleep,32RLcMmJDrcNsW0QE0zAji,39,2023,progressive-house,0.682,0.738,5,-8.107,0,0.042,0.0247,0.904,0.105,0.104,126.01,283635,4
+Marco V,Rise! - Extended,1mn0gQIeO4gnj2SMNi5om0,0,2002,progressive-house,0.6,0.996,2,-4.645,1,0.0718,0.00163,0.838,0.808,0.459,138.004,416987,4
+Armin van Buuren,Face Of Summer,4u51z6hVh3pmoP7FSiibDW,20,2015,progressive-house,0.515,0.841,11,-6.878,0,0.0339,0.0202,0.186,0.0911,0.105,126.999,398320,4
+Dimitri Vegas & Like Mike,Higher Place - Afrojack Remix,3XqcH72SduQhCP7nWkPHhG,21,2015,progressive-house,0.567,0.598,0,-9.925,1,0.0503,0.319,0.00114,0.0888,0.601,127.988,195586,4
+Blusoul,I'll Come to You - Oleg Soul Remix,4RxtltcV8S3rVNKokKPhTp,9,2011,progressive-house,0.798,0.693,1,-11.635,1,0.0606,0.00069,0.901,0.0229,0.483,128.001,420000,4
+Marshmello,Happier - Sped Up,3g7nyIGI5KepLGdonmWjh7,51,2022,progressive-house,0.715,0.853,7,-2.464,1,0.0566,0.184,0.0,0.187,0.691,114.604,187062,4
+CamelPhat,Hypercolour - ARTBAT Remix,3FjrPIo2CGtyNI9yfzU5md,45,2020,progressive-house,0.572,0.63,6,-11.4,0,0.0423,0.00604,0.577,0.131,0.0361,124.011,510968,3
+Arnej,They Always Come Back,0GM9f21tdYnBigvkOcJLCf,11,2013,progressive-house,0.772,0.652,10,-9.327,0,0.0395,0.00804,0.967,0.1,0.273,127.95,204304,4
+Airwave,Space Beans - Remastered Original Mix,5x0Zq8LL0VLxMkyONCfUku,0,2005,progressive-house,0.622,0.61,1,-10.178,1,0.0546,0.0615,0.67,0.0825,0.151,109.992,413413,4
+KhoMha,White Swan,6asTXRKW3irS4X9HubyzXi,42,2020,progressive-house,0.55,0.913,5,-6.311,1,0.0452,0.00434,0.517,0.295,0.0981,127.996,176255,4
+Solarstone,Solarcoaster [ASOT 322] **ASOT Radio Classic** - Midway Remix,26Npwt4Zgy49bR73erQRFe,0,2007,progressive-house,0.416,0.801,10,-13.738,0,0.0346,0.000291,0.878,0.172,0.357,138.017,438750,4
+Sunnery James & Ryan Marciano,Let It Lie,3dlmZ4lh7sO8wBim2WAXdB,37,2021,progressive-house,0.737,0.701,8,-7.138,0,0.033,0.00727,0.00292,0.306,0.542,125.964,152381,4
+MSZ,Memories Fade in the Coldest Winter,5LQ2O26nmcJYUZWtmkKRsv,9,2011,progressive-house,0.546,0.73,1,-10.443,1,0.0329,0.0695,0.898,0.28,0.188,128.989,609535,4
+Dim3nsion,Before The Rain,6vf5nYyeV635AORRH4tez3,26,2021,progressive-house,0.657,0.718,4,-8.82,1,0.0325,0.0413,0.902,0.146,0.0399,124.005,190016,4
+Chris Lake,Drop Top,5KjGeN6trGA6e09HDprMmd,31,2018,progressive-house,0.764,0.886,11,-5.692,0,0.0466,0.000221,0.428,0.114,0.695,126.015,266667,4
+Lange,"Another You, Another Me [ASOT 267] - Original Mix",5u2WjERcy7voORZxjep2CR,1,2006,progressive-house,0.504,0.922,1,-12.753,1,0.0402,0.00116,0.814,0.285,0.281,136.537,348078,4
+System F,Dance Valley Theme 2001 - Almar Remix,2BtL1PVKSSh7b1iT8DsRJY,0,2001,progressive-house,0.683,0.986,6,-7.767,0,0.157,9.62e-05,0.846,0.145,0.0412,136.003,473121,4
+Eelke Kleijn,The Magical Number 7,0Atnleu7IjaacmllGZxq7K,2,2007,progressive-house,0.767,0.55,6,-10.503,1,0.0714,0.000283,0.881,0.139,0.596,127.017,351480,4
+Armin van Buuren,"A State of Trance (ASOT 1111) - Announcement 'Feel Again' album - release on March 31, Pt. 1",6PzWzHKwkuIGaT4WUFYJw7,39,2023,progressive-house,0.608,0.825,2,-6.77,1,0.36,0.0279,0.0,0.485,0.654,130.473,33188,4
+Daniel Kandi,Breathe - Sunny Lax Remix,6VvRTwnFeSUomRxClWCjWs,6,2006,progressive-house,0.495,0.824,6,-6.46,1,0.0399,0.00732,0.466,0.31,0.264,137.018,521280,4
+Passenger 10,Avantgarde,4HOIGLD6c8s35t6HuasDRc,0,2009,progressive-house,0.791,0.824,1,-6.522,1,0.0483,0.00463,0.886,0.66,0.312,126.998,382154,4
+Madison Mars,My Feelings,0t6N8ig7BJAEHrCUfEQxhU,31,2018,progressive-house,0.681,0.988,6,-1.371,0,0.131,0.463,8.86e-05,0.359,0.234,125.954,177000,4
+Matt Rowan,Dish It Out (Original Mix),3HJcO2fBStA27getlax4FN,0,2007,progressive-house,0.797,0.885,7,-9.93,0,0.0555,0.0025,0.877,0.0658,0.864,128.0,510804,4
+Matt Fax,Obsidian,3bfAKAVYli8Sd2W9UucI1C,31,2021,progressive-house,0.578,0.882,3,-6.419,0,0.0611,0.00026,0.244,0.173,0.208,122.025,198689,3
+Chuckie,Let The Bass Kick (Part 2) - Extended Mix,3F7ab8w7smlBPkAIUrMDl4,16,2015,progressive-house,0.834,0.731,4,-5.886,1,0.189,0.0053,1.6e-05,0.088,0.552,128.018,303750,4
+Gudowski,Madenat an Noor - Blusoul Remix,3WUTOuB4cBLFPQKFPAhvDe,9,2010,progressive-house,0.675,0.575,8,-9.439,1,0.0485,0.000221,0.865,0.411,0.159,126.986,613750,4
+Dyro,Bring It Down,0fgLB3x4AqMd3Pgdm0j6vD,23,2018,progressive-house,0.579,0.955,1,-2.974,1,0.0439,0.00314,0.577,0.387,0.524,125.914,184762,4
+Jaytech,Overdrive,1N4tULmChJ7mqF56lyqNWH,8,2011,progressive-house,0.616,0.892,9,-8.253,0,0.0892,0.0159,0.816,0.137,0.233,130.377,309220,4
+Gareth Emery,Laserface 02 (Thoughts In Pieces),1D3SuGn6a1Va9ivT0ALGvs,24,2019,progressive-house,0.417,0.98,8,-5.068,0,0.083,0.000384,0.295,0.119,0.199,140.015,219528,4
+Ciaran McAuley,All I Want,3x1zkKlLRzqJtvv2dGtpoM,36,2019,progressive-house,0.42,0.945,0,-6.538,1,0.177,0.00358,0.00633,0.248,0.138,135.839,228321,4
+Audien,The Reach - Intro Mix,5fO6dEwcPqqn2zHEdB00eo,11,2012,progressive-house,0.634,0.783,5,-5.342,0,0.0385,0.0546,0.633,0.169,0.256,130.018,273231,4
+Envotion,Vessel Of Poison - A Soul's Morning Mix,0kgSj9k5hfpRMqZfP6E6UT,1,2005,progressive-house,0.752,0.803,8,-9.631,1,0.0529,0.00599,0.756,0.243,0.2,124.983,511530,4
+Lange,Frozen Beach - Original Mix,0YJHm9mJ50XACVDDGaHiZ5,4,2005,progressive-house,0.518,0.472,9,-13.801,0,0.0311,0.0431,0.918,0.0874,0.0334,136.021,365225,4
+System F,Dance Valley Theme 2001 - John Enola Remix,3sbLf5lN5Ds5gHJdOBShFa,0,2001,progressive-house,0.672,0.704,9,-8.787,0,0.0589,0.00242,0.862,0.0755,0.0391,132.002,449428,4
+Nox Vahn,Prospect - Mixed,4oKnstbUCdTHZwT2BAEUzG,22,2019,progressive-house,0.58,0.811,7,-9.239,1,0.0403,0.0123,0.937,0.494,0.239,120.003,208000,4
+Third Party,Remember - Amy Wiles Remix,6rI0gvx9hD1su02d8nYWFn,21,2023,progressive-house,0.479,0.936,7,-3.847,0,0.0375,0.000259,0.776,0.232,0.164,132.015,194091,4
+The Thrillseekers,By Your Side - Aly & Fila Remix,2BwsKKCdXTRqT1PnHAehfC,2,2006,progressive-house,0.459,0.962,7,-7.22,1,0.0454,0.00334,0.828,0.379,0.381,140.014,443478,4
+Temple One,Magic Moment (ASOT 1068),2PA10EyZidf1I2WR0EdTYq,51,2022,progressive-house,0.484,0.863,8,-9.346,1,0.0621,0.0055,0.911,0.251,0.296,138.037,110540,4
+Morel,True (The Faggot Is You) - FC Kahuna's Headstart Mix,42W9Cv9vDepPWohLfHs4r6,0,2000,progressive-house,0.689,0.473,1,-17.464,0,0.0482,0.00128,0.011,0.123,0.583,128.007,537850,4
+System F,Cry - Friday Night Posse Remix,0oxh2s84umPFtyrTYxT9LT,11,2000,progressive-house,0.624,0.995,11,-7.45,1,0.0611,9.35e-05,0.126,0.0951,0.685,144.011,385627,4
+Steerner,YOU,0yAaEFmW5NJ5mXL58jjxnY,31,2019,progressive-house,0.415,0.792,11,-6.536,1,0.0508,0.0511,3.87e-06,0.075,0.522,124.086,226230,4
+AFROJACK,Chords - Original Mix,1bU7HxCMU09mMUIVew9ulv,6,2011,progressive-house,0.776,0.795,5,-7.13,1,0.107,0.172,0.601,0.087,0.243,125.015,458790,4
+Hypnotic Duo,Autumnal Logo - John Hellson Remix,1OjLpLfxc8CuxWBsvgSXvd,8,2011,progressive-house,0.7,0.796,1,-9.889,1,0.0422,0.00129,0.937,0.0524,0.243,127.012,398745,4
+Armin van Buuren,Always,6N5LgeWjMMD47D8QCWZU6E,26,2019,progressive-house,0.599,0.913,3,-5.248,0,0.0423,0.00063,0.0361,0.096,0.0456,127.023,219212,4
+Hardwell,Spaceman - Edit,07WtSvEmkyAbFP6hZJkojQ,13,2013,progressive-house,0.403,0.73,3,-3.512,0,0.0662,0.000276,0.714,0.256,0.249,127.983,183648,4
+LOOPERS,Feel It,3J1HvoU2tJvAsKaUNJYpEY,27,2019,progressive-house,0.789,0.921,0,-2.195,1,0.0979,0.00601,0.868,0.129,0.302,128.004,157734,4
+Above & Beyond,See The End - Last Heroes Remix,7yhpjcryLj59QhXVMPCynt,19,2019,progressive-house,0.401,0.599,7,-6.39,1,0.0366,0.074,0.0,0.0824,0.0901,139.858,222000,4
+Eli & Fur,Light Up Your Eyes,7hACwWTOnukAWtIZAwiAe5,25,2021,progressive-house,0.596,0.559,2,-11.796,0,0.0417,0.0177,0.856,0.35,0.327,125.001,259200,4
+DT8 Project,Hold Me Till The End [ASOT 282] - Truly Deeply Dub,4Tf2z8KhdEVspSDACFP0dm,0,2007,progressive-house,0.571,0.569,2,-13.309,1,0.0429,0.000168,0.457,0.294,0.238,133.03,465518,4
+BT,Surrounded,6ZPftNdSIytXfCMgap30Ip,9,2013,progressive-house,0.633,0.811,5,-5.6,0,0.069,0.000642,0.0447,0.139,0.549,126.991,215433,4
+21street,Pray for God - Jasper Jinx Power Club Remix,2nIPFqNT4T3xVcd6Z5Yuuw,8,2011,progressive-house,0.79,0.961,10,-9.205,0,0.0474,0.000832,0.872,0.177,0.0621,127.977,408750,4
+Way Out West,Muthaf**ka - Mix 1,2ElIQ9NDkplvsa3S9Vuw6W,0,2003,progressive-house,0.639,0.922,4,-7.105,0,0.0954,5.87e-05,0.901,0.0742,0.27,130.983,490053,4
+Universal Solution,You'll See - Micha Mischer Remix,6x67Pw04bQN8lR7AolQIfA,19,2013,progressive-house,0.825,0.692,1,-9.476,0,0.0955,0.0137,0.888,0.382,0.193,121.054,269268,4
+AFROJACK,Bringin It Back,7ceWpqh2FaUnRQmM9ys4es,27,2018,progressive-house,0.743,0.933,11,-3.244,0,0.048,0.00211,0.353,0.122,0.459,128.007,161152,4
+Filo & Peri,Dance with a Devil - DJ Shog Edit,58C31odOriAlLCEd1G5AKe,2,2005,progressive-house,0.627,0.841,7,-7.536,0,0.152,0.0262,0.2,0.882,0.129,136.949,220400,4
+Dosem,Eternal Summer,0MlfXAmNFfukGWTm4eQNU2,27,2020,progressive-house,0.631,0.933,2,-5.366,1,0.0374,0.000639,0.828,0.299,0.0375,122.995,273171,4
+Michael Cassette,David - Original Mix,7M2W1oc9QTKZxFP29j5rRO,4,2007,progressive-house,0.707,0.716,2,-9.036,1,0.065,0.00794,0.766,0.0482,0.208,122.014,477347,4
+Above & Beyond,Group Therapy (Messages Pt. 1) [ABGT514],3Lm282X5wctnQ69tNqW4GL,32,2023,progressive-house,0.736,0.764,11,-8.505,0,0.288,0.00228,0.00289,0.148,0.8,125.507,55483,4
+Calvin Harris,Giant (with Rag'n'Bone Man) - Purple Disco Machine Remix,5BXjoLBmRSivBNCK2jmx8r,43,2019,progressive-house,0.771,0.776,9,-6.161,1,0.0347,0.0374,0.0343,0.0972,0.687,122.007,208525,4
+Bassjackers,Jingle Bells,6PPjylmnJ09VMgcnQRRQkg,29,2020,progressive-house,0.562,0.961,5,-2.278,1,0.067,0.0185,0.223,0.234,0.329,149.939,149100,4
+Marco V,In Charge - Part. 2,21nEJPjqifqrKoOZ1SrGDt,0,2000,progressive-house,0.524,0.944,7,-7.326,1,0.0528,0.000216,0.778,0.301,0.531,137.988,511211,4
+Porter Robinson,Lionhearted - The Alexanders Remix,4drg76btrLdVV5EhEDqZFJ,15,2014,progressive-house,0.799,0.816,5,-5.077,0,0.0556,0.0222,0.575,0.182,0.814,121.01,356453,4
+Johan Vilborg,Stellar,2Pt5gsSy3JnRtAL5EWI9lD,28,2017,progressive-house,0.648,0.738,5,-8.499,0,0.0336,0.0154,0.921,0.0756,0.119,128.024,206509,4
+The Thrillseekers,Affinity [ASOT 067] - Original Mix,0VOeR2PPAuvf6XKgeCqXEA,0,2002,progressive-house,0.278,0.784,2,-12.813,1,0.0389,0.0111,0.921,0.152,0.231,134.428,350312,4
+Kaskade,Dynasty,7gh0H1AeCsU59ZJD27wvCn,12,2014,progressive-house,0.608,0.727,2,-4.529,0,0.0352,0.00441,0.0,0.155,0.73,128.014,195059,4
+Signalrunners,Backfire - Original,6OsayMaPUBZyQhNdqQkQbU,2,2005,progressive-house,0.465,0.958,5,-7.051,0,0.0578,2.21e-05,0.729,0.0769,0.24,140.004,471029,4
+Eelke Kleijn,Deeper Depths - Original Mix,4AF4NEFozKHpqpifInzgd7,1,2005,progressive-house,0.665,0.838,9,-9.203,1,0.0382,0.0008,0.8,0.601,0.473,126.989,570709,4
+Denis Kenzo,Whisper,2XI9Qy1vnq2VHAMmiNZzV9,27,2017,progressive-house,0.446,0.883,6,-6.354,0,0.049,0.00012,0.00625,0.575,0.143,127.961,202500,4
+Armin van Buuren,Waking Up With You,4PdymJ9BsJi4DhnEc4pVmT,29,2019,progressive-house,0.561,0.844,2,-3.635,1,0.0442,0.0421,0.0,0.0991,0.813,172.056,179308,4
+Sunlounger,Lost - Club Mix Edit,5REkRbTYNpW8w1DyBhVChQ,23,2013,progressive-house,0.642,0.652,6,-8.816,0,0.0784,0.296,0.163,0.366,0.247,129.943,316491,4
+David Forbes,Close Your Eyes - DJ Choose Mix,719vwW09hVlYcAsyCtvsfc,0,2006,progressive-house,0.683,0.885,7,-8.969,1,0.272,0.0663,0.911,0.0782,0.04,140.001,476600,4
+Solarstone,Eastern Sea - Woody Van Eyden Mix,1GUmI3o22fm4gQH4BdLqft,0,2005,progressive-house,0.717,0.917,1,-10.696,1,0.073,0.00195,0.787,0.377,0.119,138.016,519336,4
+Dash Berlin,Dragonfly - Original Mix,5dgq9kRUbDwTzsGl2MpmbC,22,2014,progressive-house,0.743,0.704,7,-3.319,0,0.0481,0.0172,0.952,0.434,0.124,127.972,285000,4
+Jerome Isma-Ae,Get On Down - Radio Version,0USLVTVPM6x0FfmCLFVW20,0,2000,progressive-house,0.742,0.672,9,-9.295,0,0.0513,0.00169,0.742,0.0849,0.883,128.009,221627,4
+Marsh,Healer,6oy8gIMUHHHUNqK09zJu5d,24,2020,progressive-house,0.592,0.88,0,-7.326,1,0.0334,0.0101,0.921,0.214,0.359,123.996,253202,4
+Sunny Lax,Out Of This World - Mike Koglin Remix,0ejuB1LDKWGtpbgBoBatIm,10,2011,progressive-house,0.58,0.908,4,-5.973,0,0.0568,0.00459,0.24,0.684,0.0721,132.79,274880,4
+Robbie Rivera,And Now The Filtering,0Bk5AEWRx4nCWFQI1MfsOu,0,2008,progressive-house,0.883,0.958,6,-7.565,0,0.0605,0.000163,0.917,0.0406,0.297,127.993,430307,4
+John O'Callaghan,Chameleon - Blue Mix,6i2IRpQTHuWyKLWPgtZqyA,0,2005,progressive-house,0.555,0.97,11,-8.23,0,0.039,9.88e-05,0.786,0.445,0.42,140.009,551047,4
+Tilt,Control Me - Original,6iIC6zkPgB5Jm7VIrTgeIt,1,2005,progressive-house,0.673,0.941,11,-7.264,0,0.0375,0.00258,0.0566,0.258,0.676,130.003,495147,4
+Oliver Heldens,Somebody (feat. Bright Sparks),1ORAg938DItaLIakaCQXPV,33,2020,progressive-house,0.706,0.807,6,-7.301,1,0.0422,0.00166,0.0159,0.141,0.203,125.948,215777,4
+Rub!k,Love In My Heart,5xMKCncmyhuUQW9agg89sF,38,2022,progressive-house,0.497,0.994,5,-3.251,0,0.0432,0.00821,0.851,0.368,0.462,131.996,198182,4
+Leftfield,Head And Shoulders,6n5fcIgoNI3ernqCGZXn6D,12,2015,progressive-house,0.685,0.663,6,-7.685,1,0.0481,0.0415,0.000883,0.0691,0.296,104.971,324880,4
+Hardwell,Young Again - Dr Phunk Remix,1bXibo8XS3lfmpsA8KUbJB,30,2017,progressive-house,0.527,0.887,4,-3.212,0,0.0379,0.0169,4.71e-06,0.357,0.177,149.947,203200,4
+Sunlounger,Lost [ASOT 384] - Original Mix,3Ky1JGR1bbLNfUapFuA98p,10,2008,progressive-house,0.498,0.744,7,-8.309,1,0.144,0.00119,0.0226,0.408,0.437,133.643,171953,4
+System F,Out Of The Blue - Ilan Bluestone Remix,14b11shPqXwTSV0UhCZFn2,28,2020,progressive-house,0.464,0.899,7,-7.688,1,0.113,0.000831,0.689,0.374,0.184,132.972,194277,4
+Ilan Bluestone,Hypnotized,5ZsrTgKXsK6I71e65kF0WE,29,2020,progressive-house,0.498,0.966,11,-4.671,0,0.139,0.00105,0.0177,0.198,0.301,138.045,224500,4
+Breeder,Tyrantanic - Evolution Dub,4FKRNxPJjW2zHSGuUzcNHd,0,2000,progressive-house,0.615,0.843,5,-13.841,0,0.0403,0.222,0.805,0.0783,0.493,135.968,660700,4
+Morgan Page,Firewalk (Tritonia 418),5wmeJZLKE54NrmGPFnre9o,22,2023,progressive-house,0.62,0.667,0,-4.668,0,0.0371,0.0307,3.63e-06,0.303,0.361,126.055,175218,4
+Armin van Buuren,"A State of Trance (ASOT 1110) - This Week's Service For Dreamers, Pt. 2",6hYzKLx3ZBt9NhYmQBZahq,34,2023,progressive-house,0.625,0.902,0,-7.496,1,0.35,0.0661,0.0,0.462,0.627,126.293,34430,4
+Andy Moor,Trespass - Album Mix,0GwnXfie1exU9m5R5YsCZ5,21,2012,progressive-house,0.62,0.769,1,-5.488,0,0.0329,0.000746,0.154,0.0997,0.186,132.023,367087,4
+Andrew Rayel,Stronger Together (ASOT 1110),5ytoK7hrzTUue7FYqN2dQ8,35,2023,progressive-house,0.729,0.754,0,-9.121,1,0.0733,0.00402,0.0945,0.0583,0.155,125.004,268840,4
+Alesso,Sad Song (feat. TINI) (Alesso Remix),2UJQmwF0yShE7pHcjSzX4X,34,2019,progressive-house,0.541,0.92,7,-3.299,1,0.0937,0.0193,0.000397,0.0911,0.2,123.952,214385,4
+Nicky Romero,Toulouse - Radio Mix,4HQoLFMKdxlpEKhd0JVgtW,26,2020,progressive-house,0.746,0.944,5,-2.958,0,0.095,0.112,0.359,0.343,0.55,127.977,185625,4
+Hardwell,Everybody Is In The Place - Original Mix,2mk3G4J1BrBUouqovHQhPg,21,2014,progressive-house,0.67,0.969,7,-3.564,1,0.0848,0.000574,0.577,0.356,0.125,130.006,352639,4
+Arctic Moon,Revolution - Radio Edit,1qckkBwmJADnkxXPM7GEUC,24,2014,progressive-house,0.459,0.925,9,-5.771,1,0.053,0.0232,0.0142,0.202,0.246,135.95,206298,4
+System 7,Hangar 84 (Carl Cox Mix),3EXMAnatBkzslMPfsGQi7i,0,2003,progressive-house,0.745,0.994,1,-5.528,1,0.0703,0.00868,0.722,0.155,0.392,141.044,182787,4
+Mike Williams,Supernova,6lDWtYf106yyTHH1egFSAg,34,2022,progressive-house,0.554,0.93,1,-4.542,1,0.0412,9.5e-05,0.672,0.135,0.516,132.14,138182,4
+Watermät,Portland - Radio Edit,1MNsq5Q95TQls1XcLiv98S,35,2015,progressive-house,0.644,0.521,11,-7.52,1,0.209,0.0924,0.000163,0.105,0.209,124.156,202917,4
+Morgan Page,Collusion,04fMn3BAwhgH1WKa8mp95h,29,2018,progressive-house,0.561,0.812,1,-4.481,1,0.0407,0.00351,0.973,0.115,0.037,128.045,146250,4
+Paul Keeley,Destination Detour,6gRVKipSMPld7md6c6hyGh,0,2008,progressive-house,0.794,0.664,1,-6.103,0,0.197,0.00151,0.292,0.051,0.371,124.044,187333,4
+Duke Dumont,The Fear,1PYc4yYPtebUNJiXaA4c5k,34,2020,progressive-house,0.619,0.523,5,-7.268,0,0.0282,0.00337,0.0524,0.0692,0.3,124.99,247680,4
+Francesco Diaz,Say A Little Prayer - A Secret Prayer's Club Mix,7gbBhR0MukuMQv5rtJZMvs,2,2005,progressive-house,0.768,0.79,7,-9.43,0,0.0418,0.12,0.0226,0.123,0.498,126.015,474107,4
+Paul Keeley,Wegel - Original Mix,450zOQSkxyADKjFbXFGbuW,6,2009,progressive-house,0.675,0.803,7,-8.306,1,0.0513,0.0025,0.891,0.636,0.381,127.018,453520,4
+AFROJACK,Diamonds,2gCGoSOmtSNQWvoAlo7LmA,27,2017,progressive-house,0.62,0.907,9,-1.895,1,0.0306,0.00333,0.145,0.125,0.367,149.932,184000,4
+tyDi,Half Light,36Vw35PX94uqKPPASqTjAe,10,2011,progressive-house,0.745,0.493,0,-7.923,1,0.0541,0.0868,0.194,0.133,0.271,131.993,219659,4
+Jack Back,Back and Forth,5mSW1ciUfAMWn7Hq7zHQkv,21,2018,progressive-house,0.788,0.751,11,-5.636,1,0.0522,0.00633,0.489,0.162,0.738,124.016,205160,4
+Armin van Buuren,Unlove You,7CVG8gFuFM2OTkUVOkk4iX,43,2019,progressive-house,0.679,0.928,3,-3.66,0,0.0597,0.0303,3.33e-05,0.143,0.663,116.888,150160,4
+Nic Chagall,Monday Bar [ASOT 223] **Tune Of The Week** - Original Mix,3A1UdjKuwLwUj3s7oCnaXo,0,2005,progressive-house,0.448,0.958,6,-11.331,0,0.083,0.000943,0.535,0.352,0.0696,137.522,418812,4
+Blusoul,Airbreak,7oeLBuqh5nDMZEg7cGFQJ4,8,2011,progressive-house,0.574,0.831,11,-9.643,0,0.0398,0.000241,0.908,0.697,0.384,126.007,583285,4
+Shingo Nakamura,Lumen - Sightlok Remix,2xDq5LHlqyrTAyo377caDv,32,2022,progressive-house,0.637,0.747,4,-6.939,0,0.037,0.0937,0.698,0.504,0.32,120.004,261707,4
+Ferry Corsten,Wounded - Kristian Nairn Remix,5QWSHOCCbqBpYhZJYFM06B,36,2022,progressive-house,0.486,0.948,10,-4.656,0,0.063,0.000614,0.00125,0.156,0.379,125.043,149034,4
+Airwave,Hello Sunshine - Remastered Magical Dub,2QcLGzGFXAeh6M80vqZPU0,1,2005,progressive-house,0.445,0.761,6,-10.905,0,0.0329,0.000624,0.24,0.308,0.168,127.991,571880,4
+Tilt,The World Doesn't Know,1crCBKhMzeKAYEhxwbKOyh,1,2004,progressive-house,0.576,0.888,0,-7.666,0,0.0358,0.0122,0.913,0.292,0.553,132.847,491387,4
+Armin van Buuren,Miles Away,2cR9ZvyvBV9z5QIVfxKRIV,31,2019,progressive-house,0.509,0.987,5,-3.57,0,0.0779,0.00137,0.00145,0.11,0.079,139.934,226299,4
+Oliver Heldens,Shades Of Grey - Ephwurd Remix,0C27igErOLZfvglTja7aUv,15,2015,progressive-house,0.753,0.923,1,-2.98,1,0.058,0.0133,5.68e-05,0.0757,0.243,126.009,219964,4
+Robbie Rivera,Closer To The Sun - Album Extended,7oa80vKNjD0ONhnpKVo0C2,0,2009,progressive-house,0.503,0.676,7,-6.183,1,0.0327,0.00574,0.531,0.158,0.274,129.766,281413,4
+Above & Beyond,Always - Tinlicker Remix,67HIUo3sHkcAOE3EgXlASh,35,2019,progressive-house,0.546,0.979,9,-6.749,0,0.0444,0.09,0.507,0.0728,0.138,124.127,294293,4
+Talamanca,Seven Wonders,1DzQgR7WR5c0LVjdZ6LhJh,18,2017,progressive-house,0.68,0.714,0,-8.575,0,0.0411,0.0184,0.837,0.173,0.633,125.999,434500,4
+Aly & Fila,How Long [ASOT 302] - Original Mix,1kaO04djBSbOIvJEmb3zzm,0,2007,progressive-house,0.486,0.87,0,-10.836,0,0.044,7.14e-05,0.35,0.155,0.0725,137.931,319992,4
+God Within,Infinitely Gentle Blows - Aural Hallucination Mix,41WEj71oaf3Z2mes7mqblp,20,2017,progressive-house,0.642,0.67,1,-10.338,1,0.0379,0.245,0.611,0.087,0.48,128.996,567853,4
+Lucas & Steve,Say Something,0c8W8aqdrtM67F3JVIt593,29,2019,progressive-house,0.723,0.706,5,-5.593,0,0.148,0.114,0.0,0.214,0.698,105.004,163200,4
+Airbase,Maya Bay,5qYgXcaupx6ZtZfxeRFA4I,1,2006,progressive-house,0.502,0.955,11,-6.332,1,0.0655,0.00145,0.967,0.093,0.753,137.99,542643,4
+Airbase,Modus Operandi - Radio Edit,5ER0qyVrPwyDZ2dyCidabE,21,2013,progressive-house,0.507,0.923,5,-7.146,0,0.056,0.0125,0.976,0.636,0.539,130.006,206886,4
+Mike Koglin,Antidote - Thomas Radman Remix,4xCvb6JQ0knBwfTauDtvqi,0,2009,progressive-house,0.712,0.826,10,-3.497,0,0.0601,0.000927,0.0608,0.278,0.635,133.003,440512,4
+Marco V,Automanual - Radio Edit,3ybn9NE3NgWWlURdVrLi5b,4,2004,progressive-house,0.46,0.923,2,-11.698,0,0.0414,0.000868,0.854,0.337,0.725,137.001,170600,4
+Dada Life,Vote Yes,7bzh9U0NL52wFCnfjnyrSQ,4,2007,progressive-house,0.834,0.628,1,-7.844,1,0.0659,5.54e-05,0.902,0.0454,0.802,130.011,474800,4
+RAM,Medellin Madness (FYH347) [A Breath Of Aether],6UAlHg8dxZtElTbrI57sLI,15,2023,progressive-house,0.389,0.944,5,-5.947,1,0.212,0.00171,0.00536,0.17,0.184,136.192,237271,4
+Filo & Peri,Jiggle It - Moar Levi Remix,2zRzrL6QB3EUADFZ5HmYYO,0,2007,progressive-house,0.881,0.579,11,-8.13,1,0.178,0.0035,0.712,0.0722,0.711,129.962,478547,4
+Tritonal,"Tritonia (Tritonia 419) - Coming Up, Pt. 2",2UoKfUinotcyItYZVbm99C,16,2023,progressive-house,0.72,0.905,11,-10.257,1,0.052,0.0164,0.00281,0.31,0.727,124.809,30768,4
+Solarstone,Release - Pavliga Remix,4Eq0cWANVT3xJcZGlqklcm,0,2002,progressive-house,0.609,0.887,10,-8.074,0,0.0655,0.0006,0.0974,0.098,0.244,130.976,515262,4
+Gareth Emery,Love You For All Time,2VPK6hOtUvsGWbGgKtKgKq,39,2022,progressive-house,0.476,0.794,5,-6.246,1,0.0427,0.0133,2.79e-05,0.17,0.414,149.85,157804,4
+Daxson,The Only Way,3LiU1IMIbzPR5MpOmo8HDt,44,2022,progressive-house,0.463,0.9,3,-5.477,0,0.0811,0.014,0.00445,0.0958,0.0775,134.973,286222,4
+Madison Mars,Magneto,7zXQBMtWCDPjjYStYbnTaD,24,2017,progressive-house,0.623,0.975,4,-1.629,1,0.181,0.0504,9.68e-06,0.271,0.556,125.982,175000,4
+Andrew Rayel,Lifeline,4tvDQfaM3ZJMrQbLA13RNm,38,2022,progressive-house,0.593,0.958,1,-5.33,1,0.0563,0.0164,0.393,0.315,0.559,128.012,218210,4
+System F,Out Of The Blue (Mixed) - Ilan Bluestone Remix,42BfBxgaKup99w9x7ijEC9,30,2021,progressive-house,0.441,0.939,7,-7.767,1,0.0461,1.47e-06,0.915,0.3,0.312,131.313,80400,4
+3LAU,At Night (ALRT Remix),7qJGN1UkvUlYmZc3HOSdIV,20,2020,progressive-house,0.724,0.936,2,-5.09,1,0.288,0.00159,0.0,0.0667,0.126,75.026,193800,4
+David Forbes,Live Without You - Original Mix,0OWapMI297eCdlt1u15Q2g,0,2007,progressive-house,0.631,0.976,10,-9.781,0,0.0882,0.000182,0.821,0.056,0.268,135.996,459369,4
+Tinlicker,Be Here and Now,3uvfxpOixHqWdwpFfJb48F,43,2021,progressive-house,0.561,0.63,1,-8.019,0,0.0344,0.108,0.178,0.134,0.0378,121.998,209699,4
+Hardwell,Dare You,7KtWZB8pB3RcO0Cv0swpug,22,2013,progressive-house,0.458,0.89,4,-4.304,1,0.0462,0.0165,0.0,0.0964,0.191,127.888,218438,4
+Axwell,Get Dumb - Mark Knights Dex Ray Dub,4pD1DcjFtqQnZDCSoXvGD9,2,2007,progressive-house,0.795,0.66,4,-12.605,0,0.0619,0.000826,0.872,0.0942,0.341,128.002,497396,4
+Above & Beyond,Satellite - Above & Beyond Mix (Edit),05vDouhgLfm8cZgwISi2cR,30,2020,progressive-house,0.504,0.945,9,-5.712,0,0.0705,0.0132,6.87e-05,0.0589,0.207,139.974,209653,4
+Dan Stone,Made In Bahrain - Original Mix,7IicBjvUUtVVSH9wwUTNer,3,2006,progressive-house,0.538,0.863,6,-7.503,0,0.0483,9.99e-05,0.85,0.428,0.385,138.015,461827,4
+Quintino,Brasil Connect,5OvrhWTJTD7pYDKcSxapR6,31,2018,progressive-house,0.764,0.785,4,-6.202,0,0.0579,0.00082,0.0592,0.0415,0.177,127.954,146250,4
+Airbase,Monday A.M.,7CuzfiRyDEQIw6d4qC869I,4,2006,progressive-house,0.526,0.967,11,-7.315,0,0.0525,0.000513,0.941,0.0675,0.582,135.01,504922,4
+Bassjackers,Rampage [Mix Cut] - Original Mix,3lpnoQW656LWPjEZSLrMv6,15,2014,progressive-house,0.324,0.876,5,-5.98,0,0.0594,0.000147,0.967,0.37,0.0492,130.05,250867,4
+BT,Flaming June - Jaytech & James Grant Mix,0MotKiTvsvaIg9IGdO70ZK,9,2010,progressive-house,0.707,0.92,1,-8.009,0,0.0362,0.00819,0.874,0.0817,0.411,126.854,423773,4
+Aly & Fila,Te Espero Aqui,5MVcM0i45H8Ke1oMaHYGD1,28,2020,progressive-house,0.623,0.994,9,-2.958,0,0.0453,0.000854,0.829,0.656,0.194,139.987,216857,4
+Mars Needs Lovers,Twin Brothers - Alfoa Twilight Mix,5uNwG6lwXlnYPT2M0McWaa,8,2011,progressive-house,0.585,0.771,2,-8.68,1,0.0341,3.09e-05,0.821,0.229,0.151,126.003,522517,4
+Sick Individuals,KODI,3iqJucFLvyBLwYglNr6AU2,31,2018,progressive-house,0.599,0.977,7,-3.545,0,0.0448,0.00357,0.212,0.12,0.131,128.032,208125,4
+Rub!k,Voices From Earth,05ESlCD4zwIk8O61n2tRdA,39,2022,progressive-house,0.418,0.987,6,-5.527,0,0.0561,0.0172,0.949,0.255,0.0903,129.98,177231,4
+Ferry Corsten,Sublime [ASOT 122] - Original Mix,78DuiENFkLUMA247qXpdHB,0,2003,progressive-house,0.372,0.953,7,-8.088,0,0.115,0.000231,0.906,0.117,0.0835,136.106,424594,4
+Marco V,Recovered - Mix Cut,4tJ4weUdeRd3cfpxK6QEAU,2,2002,progressive-house,0.57,0.958,1,-9.482,1,0.0689,0.00373,0.857,0.0917,0.508,140.731,259200,4
+Armin van Buuren,Hystereo (Mixed) - Wach Remix,24ILqASR18bxG9qw4u9CAc,21,2017,progressive-house,0.524,0.88,7,-9.65,0,0.188,0.00078,0.262,0.0881,0.0519,137.977,73936,4
+Sander van Doorn,Kangaroo,6iPaltHRZIQ2NrmvmmA8pR,13,2012,progressive-house,0.676,0.794,7,-5.045,0,0.0532,0.000131,0.404,0.255,0.0586,127.996,361875,4
+Dimitri Vegas & Like Mike,Bonzai Channel One,07hm7hRuPbl0kG8hCuQoda,38,2020,progressive-house,0.746,0.983,9,-1.905,1,0.141,0.0213,0.527,0.642,0.241,150.033,174949,4
+Sunscreem,Walk Under Ladders,2W7MEYeKsFNe3pEp8EZeKe,0,2001,progressive-house,0.648,0.954,7,-6.377,1,0.036,0.0174,0.927,0.215,0.812,137.991,306067,4
+Basto,I Rave You,2meyETOdXRk3fPR9W8YNmr,13,2012,progressive-house,0.696,0.941,4,-2.955,1,0.107,0.0383,0.919,0.687,0.598,129.991,325051,4
+Armin van Buuren,The Greater Light To Rule The Night,3cfMvE8xePwTp2L7gZyZqN,34,2021,progressive-house,0.445,0.918,0,-5.849,0,0.0308,0.000441,0.907,0.426,0.156,131.992,213864,4
+Above & Beyond,Chains (Mixed),4YEXfj26zRHqb0BpB5YDM3,33,2022,progressive-house,0.523,0.696,6,-8.378,1,0.0408,0.00147,0.0,0.638,0.568,126.973,60500,4
+deadmau5,Trepid,0BHru0MhAEkNDugjxUy3Ai,9,2012,progressive-house,0.785,0.937,6,-8.689,0,0.0537,0.00108,0.916,0.107,0.0377,128.017,426059,4
+Hel:sløwed,Flashed,21o1FgYwlLqVBf0pagBdQZ,33,2022,progressive-house,0.536,0.951,7,-5.291,1,0.0397,0.00106,0.897,0.374,0.0386,126.014,190476,4
+16B,Escape (Driving To Heaven) - Ignas Main Mix,0GsBflTIBbesfZRtWp8ec6,6,2006,progressive-house,0.792,0.755,10,-10.4,0,0.0693,0.00015,0.88,0.585,0.601,130.007,599667,4
+Nigel Good,Nova,191ngh8NiAKr2HDXhDCvuy,24,2015,progressive-house,0.736,0.873,1,-4.445,1,0.0811,0.0283,0.12,0.104,0.678,127.998,265575,4
+Protoculture,Cobalt - Radio Edit,3Aw8oPmFjmKq65onJRFRzx,13,2012,progressive-house,0.466,0.973,6,-6.272,0,0.0525,0.00117,0.934,0.619,0.354,131.998,241818,4
+Ashley Wallbridge,Still Alive,4lRyDKi6tPsPneyhoT3wo6,27,2020,progressive-house,0.458,0.977,1,-4.453,1,0.122,0.00095,0.000776,0.359,0.202,138.101,203098,4
+Axwell,What a Wonderful World - Dub Mix,4iCUzwvHoteASvV4sK31zY,7,2008,progressive-house,0.8,0.456,9,-9.116,0,0.101,0.0149,0.0158,0.0875,0.489,127.989,390000,4
+Hardwell,Dare You - Extended Mix,0iOuXDBRucdrZUh4tNlT4z,23,2013,progressive-house,0.536,0.907,9,-4.273,1,0.0545,0.00232,8.73e-05,0.0933,0.0797,128.021,326953,4
+John Dahlbäck,If You Need It,28tOyGjOAGXPnch5EcXmUn,35,2023,progressive-house,0.848,0.826,6,-6.054,0,0.147,0.016,0.00539,0.0964,0.666,122.999,189268,4
+BT,Flaming June - Paul Van Dyk Remix,5O6QvIrWnv6WnFZH9B9Yds,17,2012,progressive-house,0.562,0.941,6,-7.483,0,0.0422,0.00174,0.659,0.3,0.191,139.996,433191,4
+MOTi,Mad Love,6P7Qezj2LV5kHc2VihAJWp,28,2018,progressive-house,0.681,0.876,9,-4.592,0,0.0354,0.0984,0.0437,0.318,0.228,128.029,191242,4
+Emma Hewitt,WARRIOR (FYH347) - Sunset Mix,2GlphPBPpUOErR5SuD0x5R,17,2023,progressive-house,0.32,0.756,1,-6.172,1,0.0348,5.12e-05,0.119,0.127,0.128,126.001,197729,4
+Simon Patterson,The One,57RYQgnGK0TmGHIJEbJpE3,12,2013,progressive-house,0.481,0.95,4,-5.391,1,0.0479,0.0373,0.0484,0.0502,0.219,132.026,194545,4
+Andy Moor,Halcyon [ASOT 210] - Alex M.O.R.P.H. Remix,1XhOWCRDl2Ne5X1VehnUfq,1,2005,progressive-house,0.396,0.986,4,-11.258,0,0.0815,3.55e-05,0.883,0.482,0.0439,138.551,284105,4
+Dash Berlin,Locked Out Of Heaven - Dash Berlin 4AM Extended Mix,6gdKCUcK0kckmpEvOcNsxN,31,2019,progressive-house,0.496,0.885,2,-2.282,0,0.0442,0.00569,0.0299,0.0472,0.128,134.992,282667,4
+Federico Monachesi,Midnight Sun - Original Mix,24b9Cj2S3wFUJouaBO4QoU,9,2010,progressive-house,0.801,0.839,5,-9.002,0,0.0645,5.04e-05,0.939,0.045,0.5,127.007,428000,4
+Espen,Risifrutti,0xxoEvCpDyi8vF56yMBUDf,0,2006,progressive-house,0.65,0.979,4,-6.845,0,0.0522,7.19e-05,0.917,0.0935,0.676,128.001,305797,4
+Leftfield,Bilocation - Alan Fitzpatrick Remix,2m54gIDTOEsOpocpHksGky,26,2015,progressive-house,0.49,0.865,0,-6.675,1,0.0323,0.000232,0.0771,0.505,0.274,129.945,357402,4
+Morel,Santa Hugged Me,4pyhYYoIdsIcPBmbvNXd08,0,2004,progressive-house,0.59,0.711,0,-9.127,1,0.03,0.000279,0.527,0.347,0.939,123.614,276907,4
+Alex Sonata & TheRio,Breath Of The Wild,08ikdgOu28YP4bFKAq44wL,35,2022,progressive-house,0.482,0.948,8,-6.203,1,0.0415,0.0105,0.908,0.092,0.323,129.977,210923,4
+Space Manoeuvres,Quadrant Four - Dousk Tricorder Mix,4lPUkQ3EBtb8wmOTxSlVGp,0,2004,progressive-house,0.758,0.862,10,-11.597,0,0.0452,0.00721,0.879,0.356,0.763,129.002,484386,4
+Michael Woods,Close to the Edge (Club Vocal Mix),7y79ZCbIXAdbkR2IQ7bJwF,11,2003,progressive-house,0.561,0.907,6,-7.522,0,0.0467,0.013,0.0013,0.167,0.276,134.949,317227,4
+Silence 'O' Phobia,Chupakabra - Remix,16g6Oel0ELv1bEPbIIdBab,0,2007,progressive-house,0.795,0.768,6,-10.449,1,0.0696,0.0143,0.935,0.0634,0.904,127.988,487547,4
+AFROJACK,No Beef - R3HAB Remix,7JlyO7PxFXc1rV4NJQceHa,29,2022,progressive-house,0.625,0.911,4,-4.958,1,0.0548,0.00869,0.403,0.634,0.334,128.042,168281,4
+Shingo Nakamura,Depict - Original Mix,6a8uOkYXQN3ik9QPksGMuT,16,2014,progressive-house,0.741,0.416,5,-9.834,0,0.0584,0.00269,0.804,0.262,0.159,126.008,466862,4
+Farius,On My Mind,4fbqwJ0bZTMerQtLKdMK9v,34,2022,progressive-house,0.518,0.779,6,-8.081,0,0.0377,0.00163,0.718,0.293,0.171,128.028,298875,4
+The Thrillseekers,Synaesthesia [ASOT 175] - Ferry Corsten Remix,5HQMiDbtcGXSRS11ueBk7m,0,2004,progressive-house,0.419,0.708,8,-12.954,1,0.0408,0.000389,0.562,0.189,0.0684,138.514,284133,4
+Boom Jinx,The Dark - Kevin Wild & Judah Remix,2pKnfSn9kNwJj80niaA1Rw,25,2014,progressive-house,0.615,0.645,9,-6.069,1,0.0662,0.00111,0.055,0.254,0.402,127.967,346903,4
+Sound 5,Future's Bright,599tSVSnAKokmGlZsLSUrU,0,2000,progressive-house,0.631,0.757,0,-8.711,1,0.0286,0.00986,0.0182,0.299,0.905,123.86,290867,4
+Loquai,Bogeyman - Dk Remix,03BHqdmoNQSHv6OlF4ZEm0,8,2009,progressive-house,0.8,0.785,7,-8.853,1,0.0851,0.00723,0.868,0.102,0.134,126.996,404410,4
+Deorro,Si Tú No Estás Aquí (feat. LÚA),33I4AetLHjuwExdTjcDsf9,44,2021,progressive-house,0.744,0.791,8,-4.557,1,0.2,0.0725,7.56e-05,0.171,0.515,114.998,243304,4
+Matt Lange,Anywhere With You Is Home - Vocal Mix,028UPP5fCK2wV7eOmC4aAh,6,2009,progressive-house,0.74,0.655,9,-9.09,0,0.119,0.0525,0.11,0.375,0.426,131.993,515809,4
+Borgeous,Ruin LA,4HFwgLh8Bcdg46CilyuDxz,32,2022,progressive-house,0.573,0.594,1,-8.471,1,0.247,0.041,0.0,0.125,0.174,178.001,226517,4
+Medway,Release - CD Edit,73jXVAJeOk7Fa22lq2CJPw,0,2000,progressive-house,0.669,0.932,11,-5.311,0,0.0553,0.00368,0.588,0.09,0.38,130.996,480013,4
+Fatum,Light & Shade,1YBg8ylGKiTrq4Sniw6UdB,34,2022,progressive-house,0.382,0.903,2,-5.886,0,0.0932,0.00888,0.00734,0.0998,0.0299,127.993,178125,4
+Axwell,It's True - Reprise,0NdUQhHRyZ1gDVjbqeP4Hg,3,2007,progressive-house,0.711,0.831,10,-7.2,0,0.0593,0.000876,0.0138,0.533,0.439,127.414,286296,4
+Mat Zo,Mozart,3tvIrvGdsNJuCZyHiRfdrh,8,2011,progressive-house,0.666,0.937,7,-6.423,1,0.0586,0.000205,0.38,0.104,0.347,130.723,323119,4
+Qulinez,Tutankhamun,3A1adFZ4WxXAadU4ywe7pv,25,2018,progressive-house,0.545,0.929,9,-4.774,1,0.0868,0.00195,0.00199,0.385,0.279,129.971,169846,4
+Funkagenda,San Francisco - Shafunkers Remix,46iKsz70CNnMGZ5apVWEgb,0,2007,progressive-house,0.73,0.918,11,-6.26,0,0.0411,0.000496,0.858,0.161,0.622,125.966,417457,4
+Erick Decks,Cwtw (Communicate With The World) - Dedication Inspiration Mix,4R16ANjW3cVPjkzqiSBHAy,0,2007,progressive-house,0.79,0.887,11,-8.951,1,0.073,0.000301,0.803,0.0612,0.708,129.001,518082,4
+Calvin Harris,Promises (with Sam Smith) - OFFAIAH Remix,50U7Szfrx47ZEu2bYeYkz3,23,2018,progressive-house,0.722,0.985,10,-4.367,0,0.0407,0.0013,0.715,0.217,0.607,123.011,189887,4
+Armin van Buuren,"A State of Trance (ASOT 1111) - Shout Outs, Pt. 2",3dU5TKc6wyxzqBbEvF9SZn,36,2023,progressive-house,0.657,0.783,9,-7.753,1,0.372,0.128,0.0,0.348,0.839,139.96,41090,5
+Pryda,Clapham,4cjboBAUBn646FLoJOdbge,16,2015,progressive-house,0.74,0.813,4,-9.332,0,0.0816,0.00197,0.843,0.142,0.139,125.994,630270,4
+Hardwell,Badam - Chocolate Puma Remix,5nkQoTRiDMpIteUmjvC7s5,29,2020,progressive-house,0.68,0.971,2,-5.274,1,0.0498,0.00496,0.814,0.0468,0.435,126.002,159048,4
+Robbie Rivera,Back To Zero - Agua Sin Gas By Antoine Clamaran Remix,2eXRZdz2g9We2Wk4YW2sAq,0,2008,progressive-house,0.769,0.947,0,-4.045,1,0.0557,0.00163,0.759,0.0416,0.317,126.002,457195,4
+Activa,Release Me [ASOT 187] - Danjo & Rob Styles Remix,62owqOZAK7OWYNc0BftDDP,0,2005,progressive-house,0.443,0.983,4,-10.982,0,0.058,0.000784,0.934,0.322,0.279,136.94,448914,4
+Dimitri Vegas & Like Mike,Instagram - Bassjackers Remix,3FpwEUCh753Vv5u4rrmn4K,45,2019,progressive-house,0.494,0.823,6,-3.877,1,0.0813,0.025,0.00101,0.209,0.291,128.037,217178,4
+Space Manoeuvres,Zone Two - Original Mix,4hPILf2CcgNNlcw51Ke12u,0,2005,progressive-house,0.787,0.902,6,-12.148,1,0.0551,0.00187,0.926,0.0794,0.907,128.993,465827,4
+Michael & Levan,Awakening,0FAX3jrNSXb6iHkS3DYCbn,8,2013,progressive-house,0.627,0.558,5,-10.406,0,0.035,0.117,0.867,0.117,0.271,125.023,514565,4
+Alex Lamb,Freedom - Original,2bg1dpULldCr4F4AUKyfZd,6,2011,progressive-house,0.714,0.578,10,-8.226,0,0.0463,0.000656,0.403,0.668,0.367,127.979,412493,4
+Armin van Buuren,Old Skool,2GhizOuKvp1ERczYqHmhkH,24,2015,progressive-house,0.688,0.946,0,-5.694,1,0.0637,0.000646,0.171,0.35,0.51,131.994,236587,4
+deadmau5,Overdraft,1JIsiXNdK1etlIqP6wnVUX,18,2015,progressive-house,0.711,0.901,5,-11.7,0,0.0482,0.0376,0.882,0.0502,0.861,129.015,269840,4
+Agnelli & Nelson,Slide,0rQX8Z1URZPmTemROiNT7W,5,2000,progressive-house,0.639,0.634,4,-12.089,0,0.0453,0.0678,0.865,0.1,0.377,105.001,304707,4
+Watermät,Bullit - Radio Edit,4rlvA61wV9htmVXEftARoU,41,2014,progressive-house,0.563,0.809,0,-3.97,1,0.0874,0.291,0.175,0.0901,0.366,121.965,194877,4
+Robbie Rivera,Escape - David Solano Remix,357p6Uj1ojYN0yZpb2lRNl,0,2006,progressive-house,0.726,0.531,8,-7.656,0,0.108,0.00678,0.378,0.0786,0.382,127.94,465000,4
+Blue Amazon,Music for Lunch - Dark Star Mix,3CdBtMj6VxNwhIvTeUKzC9,0,2001,progressive-house,0.741,0.916,5,-5.572,0,0.0612,0.0012,0.82,0.0408,0.645,131.978,487680,4
+Dimitri Vegas & Like Mike,Wakanda - WARRIORS Remix,3yPyWF9t1iky0GllMbtxib,20,2018,progressive-house,0.531,0.875,1,-5.765,1,0.0676,0.00039,0.0235,0.216,0.0678,137.06,227737,4
+NERVO,Illusion (feat. KARRA),1oRunfVqS4eeN5faOFGxSQ,26,2019,progressive-house,0.586,0.782,5,-7.08,0,0.0422,0.0195,0.00532,0.0846,0.31,126.087,165714,4
+NERVO,Not Taking This No More (feat. Beverley Knight) - MAKJ Remix,0vr8n45MqXOviijFl4nnY1,10,2013,progressive-house,0.629,0.935,5,-4.379,0,0.0557,0.00192,0.567,0.0854,0.321,128.025,239730,4
+Boom Jinx,Bring Me Back Around,6zBJfXzt5JVlI0AFAOUyoA,13,2015,progressive-house,0.595,0.749,1,-7.223,0,0.047,0.0144,9.02e-05,0.127,0.258,127.796,300413,4
+Modera,Better Place,1mg3K0l3BqRF6kfmfyF9mv,37,2023,progressive-house,0.48,0.841,2,-6.727,1,0.0351,0.00852,0.00402,0.106,0.0509,123.898,282500,4
+Jerome Isma-Ae,Get On Down - Club Mix,0bPu2BvP2roHLuboKSILlQ,0,2000,progressive-house,0.677,0.726,9,-7.762,0,0.0508,0.000102,0.804,0.0551,0.851,127.971,319586,4
+Austin Leeds,Freakshow - Miami Vox Mix,6A8ksPh9P0Pcmrq5tSbEDO,0,2006,progressive-house,0.574,0.976,6,-6.798,1,0.0558,0.00123,0.928,0.595,0.814,130.045,487480,4
+Armin van Buuren,"Sex, Love & Water",6eRd45fvX9mQG6AyHQGCKG,36,2018,progressive-house,0.822,0.661,1,-6.928,0,0.0485,0.221,6.55e-05,0.0554,0.745,109.013,197853,4
+Jaimy & Kenny D.,Vicky,14j7fHhvIWyWV0qcE9FIcs,0,2000,progressive-house,0.566,0.983,8,-4.528,1,0.0417,4.87e-05,0.895,0.0627,0.49,135.008,453813,4
+ANUQRAM,Get On - Mixed,0jpATFPj1ZYKRP9xy207NS,29,2022,progressive-house,0.572,0.89,5,-9.167,1,0.0368,0.000467,0.923,0.108,0.099,122.453,384810,4
+Boom Jinx,When You Loved Me,1EAlVdEDArsB3CpaV3XsIX,12,2013,progressive-house,0.685,0.676,9,-6.878,0,0.082,0.00742,0.107,0.0852,0.28,129.184,267528,4
+Porter Robinson,Hear The Bells - Electric Mantis Remix,1PYuLTOBao0mPcaqyn2e1I,26,2015,progressive-house,0.549,0.877,0,-1.381,1,0.155,0.133,0.00378,0.109,0.0642,74.131,285405,4
+Chris Micali,So Easy,3LY3QfWIirgBBDgY2LKmau,0,2004,progressive-house,0.741,0.513,7,-15.064,1,0.0632,0.018,0.834,0.458,0.388,125.995,584867,4
+Stan Kolev,Shana,5oHH7MXZF7mhhUTEEiVJFf,0,2006,progressive-house,0.72,0.703,4,-9.651,0,0.0544,0.00293,0.883,0.473,0.261,125.793,571020,4
+BT,Superfabulous - Compufonic 12 Inch Remix,4jiwtWfK6hyt1aL6pnzSbo,0,2003,progressive-house,0.742,0.807,8,-8.682,1,0.0769,0.00117,0.847,0.215,0.989,136.003,500720,4
+deadmau5,Digitol,6l8ch6wcYafV522xfEhZ6c,21,2017,progressive-house,0.703,0.912,11,-5.545,1,0.0876,9.95e-05,0.493,0.174,0.769,124.007,235625,4
+Alvaro,Ready for Action,0VGbL4NY4ie0m2dEwIwT3k,26,2014,progressive-house,0.686,0.895,1,-4.741,1,0.0489,0.021,0.691,0.058,0.291,128.044,305551,4
+Dimitri Vegas & Like Mike,We'll Be Dancing Soon,39CyGsoGoW4yayA731IP4s,49,2021,progressive-house,0.763,0.853,9,-4.538,0,0.17,0.0565,2.62e-06,0.149,0.501,119.958,158312,4
+Spencer Brown,Always Do You - Original Mix,1XlkZ6P45kaVUPG0DtnE6f,24,2017,progressive-house,0.635,0.796,11,-6.278,0,0.0421,0.000703,0.846,0.618,0.523,126.0,374709,4
+Ruben de Ronde,What About You - A.Galchenko Remix,0F1ZvGYIS18IbtRF5dEoR7,28,2014,progressive-house,0.6,0.603,11,-8.153,0,0.0456,0.0191,0.0227,0.0808,0.132,130.994,412214,4
+Armin van Buuren,Youtopia,0eOWmY0ARwPB7JvjDH7EiU,18,2014,progressive-house,0.529,0.778,7,-8.592,1,0.0299,0.0386,0.000246,0.0693,0.76,127.059,171290,4
+Solarstone,Jewel - Pure Radio Edit,3B5ML65hEK2M28t5zhqCgW,21,2013,progressive-house,0.435,0.781,6,-5.249,1,0.0552,0.000179,0.00032,0.242,0.236,136.072,217258,4
+Way Out West,Intensify - Radio Edit,6NOU1kQpSxNZJvJ4xl4qLU,0,2001,progressive-house,0.541,0.952,9,-6.954,1,0.0443,0.0152,0.048,0.114,0.336,131.963,197627,4
+John Grand,Midnight Sun,0YAYFl6Nsj6nYrTYKaIj2g,34,2022,progressive-house,0.405,0.951,7,-7.124,1,0.043,0.000487,0.86,0.298,0.25,125.999,206916,4
+Joonas Hahmo,Yámana (Mix Cut),0MufzRldWVXmqXPMvtUkxr,20,2017,progressive-house,0.67,0.787,4,-9.219,0,0.0363,0.0653,0.816,0.673,0.12,130.008,206760,4
+Armin van Buuren,Human Touch,4IOK3PjSHrQm6dgYZdHZkE,44,2022,progressive-house,0.633,0.834,2,-5.316,1,0.0383,0.0029,4.37e-05,0.19,0.599,126.981,145748,4
+Stan Kolev,Emotional Content,5sNrjLgWaLbiNSjEAfbGr2,0,2006,progressive-house,0.726,0.485,7,-13.975,0,0.0426,0.0121,0.883,0.188,0.398,128.01,510003,4
+Lane 8,Stir Me Up - Ryan Murgatroyd Remix,5wKSXp5saMuET3e8L2WHhC,36,2018,progressive-house,0.805,0.447,7,-9.815,1,0.0427,0.173,0.245,0.148,0.385,121.985,255738,4
+Martin Garrix,Scared To Be Lonely - Funkin Matt Remix,29RGtYckmyDIhFa84rD8LN,30,2017,progressive-house,0.698,0.583,1,-6.343,0,0.214,0.0856,0.0,0.0612,0.505,125.011,218880,4
+Pierce Fulton,Old Man & The Sea,416Wu1t2IkEMUS08BB2bMU,14,2014,progressive-house,0.661,0.784,6,-5.817,1,0.108,0.00202,0.886,0.031,0.694,128.007,358608,4
+Quintino,Don't Lose Love (feat. Cher Lloyd),4u70DF9UjLovrtOt6uvx1J,25,2019,progressive-house,0.619,0.603,7,-7.043,1,0.0392,0.0953,2.49e-05,0.244,0.726,145.044,188690,4
+Alpharock,Miracle,5SqBf2tuLQ3tbDCDe3tmFB,30,2018,progressive-house,0.526,0.948,8,-4.055,0,0.108,0.0233,0.000504,0.332,0.323,127.977,180000,4
+Joseph Ray,Cos Of You - Edit,2Qbo6KJqPy6LSNonvjCFIR,37,2023,progressive-house,0.773,0.765,7,-7.746,0,0.0487,0.0812,0.572,0.101,0.553,126.0,240119,4
+Airbase,Gibson,4IQkhzKexZffWhVrNQi5w6,0,2006,progressive-house,0.568,0.967,2,-11.055,1,0.0563,0.00805,0.868,0.115,0.737,138.013,423028,4
+Tritonal,Somnium - Original Mix,46vMtfZkx20GUPEJAxEpQ8,0,2008,progressive-house,0.581,0.988,6,-6.514,1,0.107,0.000944,0.0694,0.533,0.618,137.995,416522,4
+Armin van Buuren,"A State of Trance (ASOT 1111) - This Week's Service For Dreamers, Pt. 1",0ARCxfNv0l2SXkD78MyNW8,35,2023,progressive-house,0.665,0.705,11,-7.384,0,0.309,0.0149,0.0,0.358,0.625,122.613,33189,4
+Universal Solution,Osheen,6SbTdCeKTisYueGPWLKiox,17,2013,progressive-house,0.603,0.626,5,-10.154,0,0.0377,0.000581,0.876,0.108,0.194,123.074,389997,4
+Sunny Lax,The Light,7aAPOnmrpVN6O7BfEAQwSA,24,2023,progressive-house,0.254,0.64,5,-7.447,1,0.0423,0.0358,0.294,0.511,0.0387,187.446,228480,3
+Robbie Rivera,Your Mistake - Radio Edit,5HTOZjXT9EpalTIyJpzq3a,1,2006,progressive-house,0.656,0.79,8,-5.961,1,0.0244,0.000377,0.21,0.0819,0.593,127.981,236240,4
+Robbie Rivera,Keep On Going - Tony Arzadon Remix,3QWlmfix7YWScOIjdH5645,6,2011,progressive-house,0.92,0.841,0,-5.314,1,0.141,0.00986,0.0793,0.599,0.674,126.031,571720,4
+Don Diablo,Make You Pop - Short Reprise,19PB6V6r8m8VErkRI4Q0NZ,12,2012,progressive-house,0.762,0.783,8,-6.839,1,0.0814,0.004,0.00957,0.0742,0.841,126.009,168617,4
+Jaimy & Kenny D.,Keep On Touchin' Me,04nCjheOiwPBsqWWGWFIb1,1,2000,progressive-house,0.759,0.931,11,-6.944,0,0.0959,0.000234,0.899,0.0336,0.36,132.024,392587,4
+Above & Beyond,Peace Of Mind - Myon & Shane 54 Summer Of Love Mix,2Bo16m6bLNbfF1Dh1AoJOc,15,2015,progressive-house,0.716,0.855,5,-5.562,1,0.0781,0.00192,1.1e-05,0.185,0.192,127.99,315000,4
+Michael & Levan,Over the Coast,3wRubahDEafHZOtUx9eFZ6,8,2012,progressive-house,0.546,0.768,10,-11.282,0,0.0351,0.0496,0.964,0.677,0.43,126.005,623661,4
+Third Party,Nation (Rise Again) (feat. Daniel Gidlund) - Radio Edit,3XfLlsAV9QYVREjzCjKFFn,21,2015,progressive-house,0.461,0.947,6,-3.492,0,0.0485,0.000135,7.37e-05,0.315,0.19,128.017,219870,4
+Eelke Kleijn,Woodstock,1Uz6RTu8ytSAgIGBxKzt3V,43,2020,progressive-house,0.658,0.68,1,-8.237,1,0.0312,0.0841,0.917,0.0902,0.176,123.003,287452,4
+Hadi Burpee,Complications - Original,2CuFOk3VXMkRfEQw6Ok4Lj,0,2008,progressive-house,0.564,0.688,9,-8.623,0,0.0349,9.34e-05,0.465,0.0972,0.459,122.975,470246,4
+Morgan Page,Against the World,4rl5XI3w3vBVDGFqcrNBN8,25,2015,progressive-house,0.66,0.632,0,-3.72,1,0.0457,0.00333,0.0,0.214,0.285,127.948,228987,4
+Bobby Burns,From Holland - Sidney Samson xtra Remix,2Wsri1UCj2sa1f8fClfTb2,0,2007,progressive-house,0.854,0.574,9,-6.995,1,0.0856,0.0072,0.139,0.0502,0.764,127.995,350747,4
+Sick Individuals,The Key,1BNzcFpdTMKf6qjyrgvtFq,23,2018,progressive-house,0.563,0.977,7,-3.976,1,0.0784,0.00055,0.647,0.311,0.114,128.037,201162,4
+Shingo Nakamura,Abyss - Original Mix,3HoNQDBGKMyT8KRrId2OrH,18,2014,progressive-house,0.672,0.584,11,-9.545,1,0.0517,0.000979,0.904,0.143,0.249,120.001,455267,4
+Circulation,Opal - Mix B,4B44LIHMZfONizNDxZtDDn,0,2005,progressive-house,0.803,0.918,1,-13.825,1,0.0471,0.0565,0.909,0.0965,0.552,125.081,418961,4
+DNS Project,2Day - Radio Edit,7p6ctMZnNjiCnDLSvSLOjk,0,2007,progressive-house,0.494,0.996,1,-3.597,0,0.0548,0.00398,0.684,0.211,0.287,130.012,185000,4
+Facundo Mohrr,No Love Lost,3JSSZdQSTdl7jclhgi21q6,22,2017,progressive-house,0.808,0.777,5,-9.159,1,0.0627,0.000155,0.917,0.0692,0.356,123.007,597250,4
+Aly & Fila,I Won't Let You Fall - Uplifting Mix,1prFO58Ky5r4yQgYeDU54l,23,2019,progressive-house,0.419,0.995,0,-4.286,1,0.0666,9.31e-05,0.272,0.0921,0.314,139.969,228643,4
+Vinny Troia,Expression - Original Club Dub,1zzKOpfaMvTBrArjqihCR0,0,2005,progressive-house,0.784,0.979,10,-5.95,0,0.0588,0.00578,0.829,0.124,0.517,127.994,449646,4
+Hiroyuki Oda,Injection - Original Mix,6L97JN9emFwadaeYp1past,3,2006,progressive-house,0.542,0.997,6,-5.542,0,0.113,4.96e-05,0.909,0.135,0.547,138.016,468400,4
+Michael Cassette,Magenta Sunset - Original Mix,2bc8AyFw4P4O1vWWBtvZPy,1,2009,progressive-house,0.743,0.596,1,-8.6,1,0.0468,0.000868,0.866,0.0213,0.629,124.001,531030,4
+Andrew Bayer,Open End Resource,1v8kHpgLPBN1mQmfSOy7pX,19,2018,progressive-house,0.663,0.636,11,-8.68,0,0.0377,0.153,0.115,0.0885,0.601,125.024,353280,4
+Bassjackers,Block,3LTP6ngHOwMLIrfJBDzdWp,25,2018,progressive-house,0.756,0.984,4,-3.597,1,0.0725,0.00373,0.472,0.0481,0.57,128.044,166890,4
+Lemon8,Happy Dayz - Jack Russell's NYC mix,4sH9pcv6hhn3DNzzCqbWRr,0,2007,progressive-house,0.639,0.894,2,-9.806,1,0.0401,0.000136,0.864,0.24,0.165,126.983,594853,4
+Passenger 10,Stories - Sons of Maria Remix,6cdC0lhbPzi8FETx01aPTY,12,2013,progressive-house,0.798,0.644,7,-6.305,0,0.0433,0.00459,0.309,0.0898,0.301,123.027,387927,4
+Duderstadt,Mahananda [ASOT 229] - Original Mix,6gYA2ZRbVJbDCsuSFvC2Oa,4,2005,progressive-house,0.398,0.987,0,-12.732,1,0.0742,1.4e-06,0.667,0.266,0.408,138.535,76250,4
+Julian Jordan,Out Of My Mind,2wSudk1Z9HMdPNrWnwu6mc,34,2022,progressive-house,0.701,0.924,1,-4.524,0,0.101,0.0195,0.865,0.358,0.0389,126.012,180048,4
+Mike Williams,I Hope You Know,27LTFjf7B1KHO1SVrPeIws,33,2021,progressive-house,0.696,0.781,7,-4.986,1,0.0399,0.0195,0.00453,0.158,0.409,128.02,199645,4
+Filo & Peri,Elevation [Mix Cut] - Original Mix,5MflXsbk7PnU1pKQ9x5bzm,3,2003,progressive-house,0.451,0.9,1,-8.761,1,0.0322,0.000366,0.808,0.358,0.296,138.666,335747,4
+Lane 8,"What Have You Done To Me? - Jody Wisternoff, James Grant & PROFF Remix (Mixed)",3YmWWE1LpGnDl8yOUVilF4,33,2022,progressive-house,0.711,0.64,11,-8.821,1,0.0313,0.0679,0.694,0.147,0.214,123.01,281067,4
+Lange,Three - Original Mix,4yHuKDgArPHBj0T8HVZfyx,1,2006,progressive-house,0.622,0.836,6,-10.138,0,0.0638,0.00047,0.921,0.402,0.0784,135.975,491891,4
+Trancesetters,The Saga - Drax & Gooding Censored mix,2JIFXZIifWmbo4ZtnzZOcw,0,2001,progressive-house,0.778,0.816,7,-10.991,1,0.0547,0.00176,0.886,0.15,0.279,128.989,491440,4
+Ryos,Hey Child,4tg47COdGaSJH03istpyv5,36,2020,progressive-house,0.471,0.906,8,-4.545,1,0.0588,0.00125,0.0,0.572,0.215,127.957,198750,4
+Luminary,My World - Hydroid Mix,0aUplOldFEMAUFrRW4QKLu,0,2005,progressive-house,0.66,0.705,5,-8.694,0,0.0615,0.000153,0.824,0.647,0.253,132.001,549152,4
+Above & Beyond,Group Therapy (Messages Pt. 2) [ABGT514],625GQel89RcBRPmFC1YzdX,30,2023,progressive-house,0.832,0.756,11,-8.399,0,0.214,0.000844,2.62e-05,0.234,0.639,127.953,52500,4
+Above & Beyond,Waltz,3YvA2RdYdaD6DQU4xSxcBb,19,2019,progressive-house,0.265,0.853,0,-8.003,1,0.0339,0.0211,0.931,0.153,0.0354,127.971,232617,4
+Sander van Doorn,B.A.D. (By Any Demand) - UK Radio Edit,0K0ophOQqrgaycpoDSgq5R,0,2007,progressive-house,0.658,0.833,2,-6.117,1,0.0725,0.0002,0.0361,0.58,0.354,126.005,132347,4
+David Broaders,Evenfall (Tritonia 418),4D6uIRxeWDv3H1yybhLxyn,24,2023,progressive-house,0.556,0.738,8,-8.866,1,0.0392,0.0023,0.699,0.0855,0.319,125.99,228108,4
+X-Cabs,Tango - Original Mix,0sU3EbXR5XlCm6VCns1rIM,0,2002,progressive-house,0.734,0.884,11,-4.621,1,0.0484,0.000992,0.906,0.0932,0.429,131.973,518257,4
+Sebastian Ingrosso,Kidsos - Edit,3ap3gWpnA7D5he9GuIe1y3,17,2011,progressive-house,0.606,0.892,5,-7.707,1,0.042,0.345,0.856,0.0661,0.203,125.02,269719,4
+Paris Blohm,Demons - Original Mix,2AkirekVv1kdUkp6N6VYes,16,2015,progressive-house,0.555,0.808,6,-4.139,0,0.0897,0.000331,0.00151,0.189,0.209,128.093,260635,4
+Airwave,The Promise I Made - Elektro Dub Mix,6wMVVsZymZhKSgAH7jfhmS,0,2006,progressive-house,0.5,0.805,7,-8.696,1,0.0407,0.000125,0.903,0.0491,0.398,130.003,546462,4
+LOOPERS,Deep Inside,6aEhYkBiLvZhMlRDpt2PTh,23,2019,progressive-house,0.783,0.966,7,-2.943,1,0.0513,0.128,0.391,0.092,0.209,125.011,175687,4
+Stan Kolev,Soma Funk,1NWbDkrR4KQe602uQ9EoYD,0,2005,progressive-house,0.794,0.927,4,-9.428,0,0.0597,0.0124,0.87,0.0433,0.921,129.987,432247,4
+Scorz,Fascination,6PBErHoYOd20q39VUoAWDf,40,2023,progressive-house,0.466,0.93,5,-5.178,0,0.0329,0.177,0.925,0.275,0.0698,123.991,160650,4
+Myon,Helpless [Mix Cut] - Monster Mix,5fwnNPmj3ZCQuHkIzGIQv7,12,2009,progressive-house,0.691,0.665,1,-10.17,0,0.0733,0.0454,0.431,0.131,0.203,131.006,263813,4
+Andy Moor,Control Me,1WEwWNXRtLlnmcU5o2ZXFY,1,2006,progressive-house,0.68,0.884,11,-9.546,0,0.036,0.000264,0.133,0.269,0.644,130.006,493385,4
+Matt Fax,Sweet Dream,0ejN1reks6TRZBOrt5avWF,32,2018,progressive-house,0.503,0.685,10,-8.645,1,0.0496,0.0321,0.00756,0.362,0.222,125.967,238315,4
+Calvin Harris,Blame (feat. John Newman) - BURNS Remix,6B84PEKg0cg6neUZNDL8ox,16,2014,progressive-house,0.653,0.933,5,-4.318,0,0.079,0.00377,0.00223,0.0835,0.335,128.007,257560,4
+Wippenberg,Pong [ASOT 437] - Original Mix,00q3yxdW65SBBoLddoDtaQ,9,2009,progressive-house,0.579,0.671,10,-8.674,1,0.0445,0.1,0.939,0.374,0.675,130.026,52609,4
+R3HAB,Creep - R3HAB Chill Mix,27DE85fWqgagUIJ2rj74uH,37,2020,progressive-house,0.674,0.583,6,-9.428,1,0.0546,0.183,0.103,0.132,0.185,118.002,186356,4
+Mikas,Paradise Island - Mixed,59fYfVunJKhAHBJ7q4DVxd,0,2007,progressive-house,0.523,0.936,10,-10.924,1,0.0695,0.000179,0.849,0.17,0.383,125.058,618000,4
+Chris Micali,Out There,4WYCbYYock4mMsjapj5iOX,0,2004,progressive-house,0.777,0.93,6,-9.073,0,0.0636,0.000203,0.811,0.322,0.751,126.995,620707,4
+Breeze & Quadrat,2010 So16,0LpphJbuoPyO9SbzmPNzqc,8,2012,progressive-house,0.796,0.935,10,-5.814,0,0.0543,0.0166,0.899,0.0763,0.0551,124.01,365806,4
+Bassjackers,Flip The Beat,5bcHlqZXPLNZu62cMbaCnU,31,2019,progressive-house,0.688,0.902,5,-5.054,0,0.243,0.00425,0.184,0.902,0.0646,127.943,168750,4
+Armin van Buuren,Lifting You Higher (ASOT 900 Anthem) - Blasterjaxx Remix,32iD965RO5haquFAlq5jhz,30,2019,progressive-house,0.544,0.903,9,-5.965,1,0.0453,0.00215,0.842,0.312,0.0999,130.031,187798,4
+Blusoul,Eat Dust - Coldberg & Repton Remix,1FH9zEqurenZklUMU05B8I,8,2011,progressive-house,0.54,0.81,7,-8.436,1,0.0336,0.000908,0.949,0.93,0.238,126.004,586667,4
+Kryder,Aphrodite,3HzEOo1AkuqutBIGF8DPO0,16,2013,progressive-house,0.704,0.961,2,-4.287,0,0.0549,0.000532,0.912,0.067,0.29,128.003,304083,4
+R3HAB,Ready for the Weekend - Don Diablo Remix Edit,3z29kDljDgY9l9PfKrXbE7,20,2014,progressive-house,0.605,0.977,1,-2.083,0,0.0817,0.0508,0.00294,0.356,0.509,126.001,190476,4
+Kyau & Albert,Always (FYH346),4cFeOHcdbXtCfiQBolM3pU,18,2023,progressive-house,0.243,0.888,10,-6.538,0,0.0425,0.0186,0.702,0.276,0.216,127.996,172521,4
+Helvetic Nerds,You Got to Let Go,2tU2p1LENd2FnOxD5ZSWg0,21,2017,progressive-house,0.84,0.783,1,-5.466,1,0.13,0.0247,0.218,0.774,0.43,124.046,200081,4
+Tinlicker,Soon You'll Be Gone - Extended Mix,6AkbebSkqoVPXEs3mtUzz1,22,2017,progressive-house,0.665,0.836,9,-7.345,0,0.0476,0.00361,0.896,0.0739,0.261,122.997,382939,4
+Mike Williams,Take Me There,4V7vTyGQlxxjSC9n09NW8P,29,2020,progressive-house,0.55,0.984,5,-4.017,0,0.0356,0.000805,0.772,0.042,0.17,128.016,155625,4
+Liluca,Clear Senses - Original Mix,3FfnbZKMCC2X2jRiGU8mhk,9,2009,progressive-house,0.671,0.878,9,-9.226,1,0.0632,0.000538,0.946,0.0792,0.338,128.16,374429,4
+Estiva,Everlasting Memories - Original Mix,4DqiEIqZL9AbQMUvsRl9rB,0,2007,progressive-house,0.655,0.95,6,-5.649,0,0.0672,0.000157,0.836,0.593,0.554,134.99,433782,4
+Cosmic Gate,Emotions of Colour,6eBUO6Nb29FOvkIwkUc5li,44,2023,progressive-house,0.605,0.934,6,-6.802,1,0.0445,0.0154,0.815,0.274,0.0317,124.006,266404,4
+Blue Amazon,Long Way Home - Alex Flatner Remix,6dWPqrGCgLpE4YrDvmRV7H,0,2000,progressive-house,0.755,0.884,1,-8.982,1,0.12,8.08e-05,0.926,0.0973,0.152,138.029,448127,4
+Cold Blue,Uxorious - 2007 Remake,19HqSRhJ54CuUtPZpA2PbA,1,2007,progressive-house,0.684,0.907,4,-8.007,0,0.0504,0.000284,0.813,0.123,0.408,140.006,472256,4
+Norman Doray,Street Sounds,28QKmY7bdrrHigJ8TOg6c0,27,2015,progressive-house,0.592,0.946,7,-1.66,1,0.21,0.000795,2.29e-05,0.317,0.354,126.045,215238,4
+Circulation,Opal - Mix A,2dIvpwT1YEO4sdtScwGHLl,0,2005,progressive-house,0.8,0.875,11,-10.289,0,0.063,0.00271,0.85,0.295,0.501,129.981,492211,4
+Gareth Emery,Saving Light (Mixed),4iTDEjHXxHyWBha4gZVjvo,30,2021,progressive-house,0.598,0.665,11,-8.883,0,0.0365,0.000144,0.116,0.236,0.521,129.975,88578,4
+R3HAB,All Around The World (La La La) - Dimitri Vegas & Like Mike Remix,5tJq0dt8C2aG8XSSmi2j9F,34,2022,progressive-house,0.576,0.909,9,-4.505,0,0.0642,0.00568,0.000139,0.106,0.281,130.189,171120,4
+Jacco@Work,Padlocked (Original Mix),0nGsULVhtR4OMXo92NVmYZ,0,2007,progressive-house,0.741,0.577,7,-9.158,1,0.0524,5.68e-05,0.802,0.064,0.221,128.0,480000,4
+MOTi,Move That Body,6fzT47368VL6jNBWNtFavQ,37,2020,progressive-house,0.685,0.94,5,-4.154,0,0.106,0.0716,0.0044,0.366,0.552,125.991,148571,4
+Vicetone,Tremble - Radio Edit,4Br5TcVQMAl0y3jIGaMzop,19,2013,progressive-house,0.624,0.86,7,-3.005,1,0.0633,0.0435,0.0139,0.139,0.258,124.978,176640,4
+Alexander Popov,Steal You Away - Alexander Popov Remix,1UrLbZ3tsyn9ceOPSErsbc,22,2013,progressive-house,0.359,0.766,6,-4.152,1,0.0548,0.00466,0.0189,0.366,0.106,127.94,217025,4
+Gabriel & Dresden,Tracking Treasure Down Revisited - Edit,3r74ysoSsrzM0XqSyAwDin,6,2011,progressive-house,0.574,0.879,11,-4.488,1,0.0503,0.000668,2.3e-05,0.669,0.207,134.985,248895,4
+Don Diablo,Sail Away,41JMkYGCl35JbOrFqdDwM6,45,2021,progressive-house,0.538,0.746,3,-5.65,1,0.0662,0.186,6.35e-06,0.0983,0.508,94.837,178105,4
+Lane 8,Together - Grigoré Remix,7iCvJbtfwpnnBDa088Ua9j,35,2022,progressive-house,0.638,0.851,10,-7.603,0,0.0367,0.00132,0.765,0.114,0.1,122.006,241229,4
+Kyau & Albert,Changes,0W3SzSQexjSdniog1gSdr6,16,2017,progressive-house,0.676,0.665,1,-6.824,0,0.101,0.0304,0.0362,0.142,0.483,123.989,203950,4
+Paul Kwitek,All The Answers - Paul Kwitek Remix,5Afc57lriTUD7R3eA5kdvT,0,2005,progressive-house,0.827,0.834,7,-9.325,1,0.0934,0.00181,0.724,0.137,0.264,130.018,619669,4
+Talamanca,San Marino,6WwF02MPcfJgeswq0fhXNw,18,2018,progressive-house,0.663,0.776,5,-8.957,0,0.0504,0.0035,0.924,0.142,0.325,125.999,410625,4
+Tujamo,Down,3E7NvHQfe0GNagcVW3fzlm,38,2022,progressive-house,0.605,0.727,11,-6.387,0,0.0348,0.0359,0.0,0.382,0.325,126.101,192470,4
+Modera,To Find You - Paul Thomas pres. Joheja Remix,4p64ryjMehYYlKrUkt06jM,31,2022,progressive-house,0.408,0.868,6,-10.392,0,0.0456,0.00235,0.789,0.384,0.107,123.014,194146,3
+NWYR,Drakaina,0qJkYnXVlPCdi3lgfhMVtW,32,2020,progressive-house,0.299,0.932,1,-3.805,0,0.0979,0.00234,0.0178,0.108,0.153,133.302,186269,4
+Pryda,Axis,4zM0uVfVnpiVxYYuZ0VF1y,24,2014,progressive-house,0.679,0.923,6,-6.496,0,0.0431,1.99e-05,0.925,0.173,0.334,126.011,483600,4
+Jerome Isma-Ae,Miami Essentials - Main Mix,4nrJfx5xR25N7RcQlubzdq,3,2003,progressive-house,0.727,0.983,7,-7.284,1,0.0607,0.0381,0.868,0.115,0.297,128.001,489047,4
+John O'Callaghan,Never Fade Away [ASOT 437] - Andy Duguid Remix,0q6HoIbcCZNWrcqaNKYrI4,9,2009,progressive-house,0.651,0.924,11,-7.759,0,0.0431,0.00255,0.909,0.0773,0.717,131.983,79969,4
+tyDi,So Alone,2WuKxGyvI9kitWLkMRLQru,28,2014,progressive-house,0.529,0.722,10,-5.821,0,0.0373,0.0558,7.58e-06,0.101,0.364,75.024,245404,4
+Marshmello,Tongue Tied (with YUNGBLUD & blackbear) - PatrickReza Remix,3cLZPpfnpZ7YgNpaxaPiQe,24,2020,progressive-house,0.662,0.729,1,-4.718,0,0.0824,0.0517,0.0,0.433,0.397,92.998,189677,4
+Denis Kenzo,Lullaby For Two,4wCZz0qX1dDU6J3pcaebrR,17,2013,progressive-house,0.431,0.74,1,-6.466,0,0.056,0.0193,0.0031,0.218,0.0753,132.002,227733,4
+deadmau5,Drama Free - Chris Lorenzo Remix,2Tw0xJqJeZdpkaISlZqXHZ,22,2018,progressive-house,0.889,0.65,1,-7.112,1,0.0652,0.00413,0.0116,0.0657,0.491,128.006,212109,4
+ARTY,Zara - Oliver Smith Remix,76CwEaAnbB24hx068CUER6,8,2011,progressive-house,0.736,0.673,9,-5.849,1,0.0427,0.00193,0.87,0.0742,0.154,128.011,433863,4
+Marshmello,One Thing Right - KDrew Remix,4rvbcStzi2c3xpi2LGKrd3,31,2019,progressive-house,0.496,0.879,1,-4.441,0,0.0675,0.116,0.000183,0.191,0.275,184.004,174783,4
+Marco V,Echnalava,4QxsMC9lY06tGdrVPQCNUw,0,2004,progressive-house,0.75,0.848,1,-12.598,0,0.0478,0.00859,0.798,0.115,0.186,132.0,523400,4
+Filterheadz,Yimanya [ASOT 309] - Digital Nature Remix,2Bychk9PybyMT8lCe9Gy41,1,2007,progressive-house,0.308,0.939,6,-11.692,0,0.046,1.34e-05,0.872,0.121,0.694,136.992,336352,4
+Sander van Doorn,Love Is Darkness (feat. Carol Lee) - Interlude,6wDAaNv9stQhGCs7e1T6tm,8,2011,progressive-house,0.284,0.696,0,-5.476,1,0.0315,0.0104,0.00072,0.611,0.0491,128.5,382013,4
+Michaël Brun,Rise (Dirty South Edit),1vPF70Q240vmeWRQlJhawX,12,2012,progressive-house,0.54,0.889,8,-7.061,0,0.0427,8.76e-05,0.938,0.0621,0.44,126.001,355774,4
+Solarstone,Destination - Intro Mix,4qrBWjY8tr02mHztpl4hwQ,1,2002,progressive-house,0.529,0.801,0,-9.331,0,0.0353,0.0208,0.93,0.69,0.453,131.993,684315,4
+Jorn Van Deynhoven,Headliner - Radio Edit,0SgWzElNQCKBpSyVhlXdWG,14,2012,progressive-house,0.486,0.985,7,-3.635,0,0.176,0.0011,0.933,0.401,0.0449,135.006,207738,4
+Marco V,Atlanta 02-02-2002 [ASOT 041] - Original Mix,2FIDLRnhyPyXvg9zC0ek3R,0,2002,progressive-house,0.485,0.994,8,-7.871,1,0.101,1.37e-05,0.654,0.0793,0.212,142.649,356656,4
+Kaskade,Fun,0P9dHZkMd4RymuSkYVu6fv,21,2018,progressive-house,0.917,0.84,1,-4.784,1,0.111,0.00342,0.298,0.0937,0.231,124.986,264960,4
+Jochen Miller,Lost Connection [ASOT 384] - Original Mix,2ahJSVDtJlcJg4u5rZ5oBF,8,2008,progressive-house,0.498,0.987,1,-6.842,1,0.0477,8.44e-05,0.666,0.263,0.959,137.9,55687,4
+Above & Beyond,Long Way From Home (ABGT300),3hAI5Rjs3oiqO1bqEjq1d8,24,2018,progressive-house,0.658,0.745,0,-10.653,0,0.0539,0.000364,0.838,0.0729,0.192,126.93,286802,4
+Spooky,New Light - Spooky's Strobelight Mix,624ySma2QKZNr0thTWS4gW,0,2007,progressive-house,0.674,0.617,1,-9.179,1,0.0454,1.92e-05,0.873,0.14,0.285,129.991,541240,4
+Dash Berlin,World Falls Apart,0hSX1Y7p9RHxce6Q9BEPdr,21,2012,progressive-house,0.477,0.776,11,-5.492,0,0.0758,0.00859,0.0,0.193,0.315,132.857,196241,4
+System F,Exhale - Armin van Buuren Remix,68m9CkmscWxPmNkJB8CkVE,4,2000,progressive-house,0.563,0.842,6,-12.732,0,0.0369,0.00128,0.889,0.118,0.683,137.285,463213,4
+Sander van Doorn,B.A.D. (By Any Demand) - Original Mix,3XaGyZgXqHlbMDtBw2dzZJ,0,2007,progressive-house,0.805,0.802,7,-9.024,1,0.19,0.00259,0.835,0.092,0.224,130.046,413773,4
+StereoK,I Don't Want to Be An Astronaut,5nNN6VcbVdIDQTDfH7bRtO,0,2007,progressive-house,0.723,0.721,9,-7.358,1,0.0415,0.000224,0.904,0.061,0.58,126.993,569445,4
+Michael & Levan,Euphoria - Moshic Remix,5AWCvA6TDlce7fJQ2tl23m,9,2012,progressive-house,0.729,0.63,9,-12.625,0,0.0413,0.00864,0.869,0.117,0.211,127.013,476221,4
+Steve Angello,Show Me Love - Dubdogz Remix,5QH3sjtAIJmeUiVuwDOjui,54,2021,progressive-house,0.648,0.804,9,-8.232,0,0.0541,0.00567,0.0033,0.643,0.376,123.971,189677,4
+System F,Together,0fEjkJxNFTmINsPDXIQlaf,17,2011,progressive-house,0.505,0.942,7,-7.484,1,0.0499,0.000194,0.916,0.233,0.709,136.753,200520,4
+Sound 5,Intro,5LdxlmWvC1hZOBzY8abRh1,0,2000,progressive-house,0.385,0.842,2,-14.273,1,0.0833,6.46e-05,0.536,0.804,0.426,136.545,38533,4
+Kaskade,Dancin',2cZUpHmdrca8kuJB40Gbnh,24,2019,progressive-house,0.758,0.716,5,-6.414,1,0.0397,0.000316,0.824,0.0817,0.605,118.011,216851,4
+Maor Levi,Let You Go (ABGT520),5eJvkqfKTSa3Ze77QiwLDV,30,2023,progressive-house,0.643,0.834,8,-9.149,0,0.0553,0.000591,0.696,0.121,0.0904,125.992,274293,4
+Alexander Popov,Control Me,2UPT2TojBm1Q2JHLFXZs5D,29,2021,progressive-house,0.598,0.893,5,-5.677,0,0.0445,0.0103,0.901,0.154,0.31,127.965,184039,4
+Emma Hewitt,These Days Are Ours - Antillas & Dankann Remix,7yfac8AxVbunhU4thXOIVX,16,2012,progressive-house,0.517,0.748,6,-8.226,0,0.0913,0.013,0.0182,0.121,0.373,131.987,243973,4
+Dimitri Vangelis & Wyman,Acid Drop,736WZdexDNUUhVg5bP3bP1,24,2018,progressive-house,0.544,0.97,11,-4.017,0,0.0627,0.000718,0.914,0.279,0.0724,128.004,178643,4
+Farius,Chemical Affair (Tritonia 418),0E9FABBCV2KoQkgnvrrZGH,44,2023,progressive-house,0.504,0.855,3,-5.75,0,0.032,0.0155,0.261,0.324,0.264,126.429,259783,4
+Luke Chable,Sealers Cove,5zt2g6Ton7snCBX2IY7Yqd,0,2002,progressive-house,0.65,0.957,10,-8.12,0,0.0534,0.000665,0.903,0.125,0.343,127.999,672000,4
+Alexander Popov,My World - Radio Edit,1xvlFgxV7Fe7KpUT9BNIFc,15,2012,progressive-house,0.485,0.806,11,-6.606,1,0.0448,0.0254,0.000159,0.354,0.44,130.949,257404,4
+Gareth Emery,California,0o6V0Ij0wf7nZiTxPTiWgQ,37,2022,progressive-house,0.479,0.792,8,-9.519,1,0.0412,0.00164,5.1e-05,0.123,0.183,150.052,191995,4
+MOTi,Who We Are,34kMnPiTlzRU7AZtGn0DVL,19,2018,progressive-house,0.599,0.731,8,-5.784,1,0.0753,0.048,1.79e-06,0.113,0.541,179.944,189333,4
+Morgan Page,Think Of You,6zom0qI16NdBsz9SLU2jeg,14,2015,progressive-house,0.693,0.762,0,-3.337,0,0.0556,0.107,0.0,0.317,0.561,127.989,299267,4
+Craig Connelly,Black Hole - Original Mix,3FfHmdyJUj06FAwtNSqOKL,22,2013,progressive-house,0.533,0.857,6,-6.974,0,0.0504,0.000288,0.323,0.0879,0.254,134.982,420711,4
+BT,The Light In Things,404QL2bWwUvrO9c0xWbXly,7,2010,progressive-house,0.523,0.965,3,-5.394,0,0.0663,0.000914,0.117,0.123,0.122,130.0,647747,4
+Marcel Woods,Time Is Running Out - No-Tech-No-Trance Mix,2IWjejH7HN9qBLM2w0y7yl,0,2003,progressive-house,0.688,0.927,6,-9.612,0,0.0515,7.69e-05,0.889,0.0329,0.47,141.009,447425,4
+Robbie Rivera,Escape - Miami 2017 Mix,4U868M1eMKrJ5PisqWwPkx,0,2006,progressive-house,0.615,0.957,7,-4.657,0,0.117,0.00462,0.0466,0.133,0.238,124.046,251207,4
+Cubicolor,Dead End Thrills - Patrice Bäumel Remix,3MEjDXwQWnDzqwRanBgFzm,32,2017,progressive-house,0.7,0.673,7,-10.217,1,0.0374,0.28,0.24,0.102,0.143,122.008,443661,3
+Airwave,Boredom - Remastered Original Mix,7nmTFuPFi58KZt4AJGcltZ,0,2004,progressive-house,0.592,0.91,11,-9.884,1,0.051,0.00227,0.733,0.358,0.962,132.0,354453,4
+Chuckie,Breaking Up - Bartosz Brenes & Tony Romera Remix,1jVfx76qSGocvAj8HZDELq,12,2012,progressive-house,0.811,0.713,5,-2.649,0,0.138,0.0004,0.108,0.0882,0.18,127.993,390000,4
+Spooky,Strange Addiction - Dub Addiction,6YKJp1LlT3zANBYicWxMQE,6,2006,progressive-house,0.673,0.43,5,-11.155,0,0.0534,0.289,0.758,0.272,0.826,82.011,349000,4
+Kolonie,December,4lNdZ55ayj1kvBVxXJq7QK,23,2017,progressive-house,0.67,0.955,1,-4.081,1,0.0408,0.00554,0.876,0.0699,0.503,121.994,243934,4
+John Askew,The Door (Original Mix),3VYX5EAqQv1DkXOdypSKOU,0,2005,progressive-house,0.722,0.896,0,-6.843,0,0.0445,9.33e-05,0.793,0.398,0.702,139.996,534493,4
+Armin van Buuren,The Sound of Goodbye - Above & Beyond Extended Mix,7JvK7yDXOJTsMGxwJLm7Pv,15,2011,progressive-house,0.749,0.818,6,-8.844,1,0.0823,0.00689,0.728,0.114,0.584,135.962,436107,4
+Tom & Jame,Warrior,3T61x1O2TkB2g21YmnrmUN,27,2019,progressive-house,0.633,0.926,7,-2.614,1,0.0642,0.0211,6.67e-06,0.295,0.186,127.966,161836,4
+Gabriel & Dresden,Flying Blind [Mix Cut] - Mixed For Feet Remix,2rtjFvDfHi93VzNVG2ptGU,7,2011,progressive-house,0.668,0.786,9,-5.724,1,0.0311,0.00185,0.715,0.146,0.286,134.754,363200,4
+Sasha,Haunted,6cm0CsFVU8QTLTVegPgHDm,32,2020,progressive-house,0.577,0.892,0,-6.6,0,0.0321,0.193,0.123,0.222,0.241,125.035,256823,4
+Chocolate Puma,Boom!,0Ng7n50aActg18zyCrDTc9,0,2008,progressive-house,0.834,0.641,0,-10.531,0,0.0549,0.0189,0.714,0.298,0.371,127.016,398827,4
+ATTLAS,Kayla,72bJedqiGbDFATEQuj1eZv,21,2015,progressive-house,0.693,0.644,8,-6.794,0,0.221,0.346,0.00479,0.0879,0.137,95.988,240091,4
+Dezza,Ass Up,2yMnqwKXkgC1pJk84BQfxb,0,2009,progressive-house,0.822,0.738,2,-8.283,1,0.169,0.000812,0.0229,0.0884,0.513,127.996,394113,4
+Arston,Endless - Zeskullz Radio Edit,35dP4dLbX885bJlbPyhJCD,17,2015,progressive-house,0.623,0.878,5,-3.821,0,0.038,0.00263,0.000711,0.12,0.627,118.942,200420,4
+Cold Blue,Streams - Astuni vs. Le Saux Rmx,5XH6nvS3APWIA8u8z50ELg,0,2004,progressive-house,0.556,0.914,1,-8.893,1,0.056,0.00208,0.899,0.361,0.408,139.997,589767,4
+R3HAB,Soundwave - Quintino Remix,4YNmm4qf066GlSJl1IS5rX,12,2014,progressive-house,0.686,0.877,1,-3.491,0,0.0667,0.00141,0.00664,0.04,0.147,128.015,292564,4
+Norman Doray,Jetlag - Original Mix,0XHKCloq3fEE9iORLgDwQI,0,2007,progressive-house,0.657,0.885,9,-4.447,0,0.0461,0.00224,0.916,0.32,0.487,126.013,463910,4
+Steve Angello,Click - Rene Amesz Remix,4CFaInKL4HlmCFPS1Cm1Ju,0,2008,progressive-house,0.837,0.522,4,-10.776,0,0.129,0.00188,0.851,0.0666,0.299,124.98,425533,4
+Aeron Aether,Abandon - Original mix,7pMUDhkRPTEaSDTMMWicWo,0,2008,progressive-house,0.666,0.927,10,-7.305,0,0.0523,0.000494,0.916,0.641,0.705,129.988,407371,4
+Marcel Woods,Ready - Original Mix,5xxtBuUTuKv2ihTj0017nr,9,2012,progressive-house,0.565,0.936,11,-4.651,0,0.0535,0.00107,0.872,0.15,0.464,127.01,371886,4
+Marco V,New Dawn,0Ig6N4OoHwShrTSznOictf,1,2005,progressive-house,0.476,0.79,4,-7.831,0,0.0344,0.00827,0.86,0.112,0.291,131.996,327427,4

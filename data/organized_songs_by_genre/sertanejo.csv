@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Pena Branca E Xavantinho,Casa de Barro,62MmSZlOjkNVi6fl4qKSHm,5,2003,sertanejo,0.421,0.442,9,-4.931,1,0.033,0.894,0.0,0.33,0.346,173.169,179200,4
+Os Parada Dura,Lei do Retorno - Ao Vivo,5qxkvd4ynUoOeqegCE37mC,6,2008,sertanejo,0.628,0.378,11,-7.385,1,0.0281,0.618,0.0,0.73,0.678,117.891,185840,4
+Gusttavo Lima,Cor de Ouro,4mOrOejE51R7n1F0fw3HB2,44,2009,sertanejo,0.68,0.779,11,-5.041,1,0.0352,0.306,0.0,0.971,0.617,140.105,171787,4
+Bruno & Marrone,Você Me Vira a Cabeça (Me Tira do Sério) - Ao Vivo,5Tx5iqo0y7EEAA4U5WsAa8,43,2014,sertanejo,0.735,0.716,5,-5.426,0,0.0299,0.436,0.0,0.924,0.426,108.99,194680,4
+Luan Santana,Multiplica - Ao Vivo,6GpYWL34dfc54GUdlp9A5p,30,2013,sertanejo,0.373,0.849,6,-5.201,1,0.0735,0.447,0.0,0.865,0.488,96.0,185027,4
+Chico Rey & Paraná,Senhorita,4Db0JtsgMrjmvuWHM5HSJM,28,2010,sertanejo,0.675,0.4,7,-5.106,1,0.0306,0.272,0.0,0.102,0.431,110.094,192067,4
+Milionário & José Rico,Homem,65z6od53mCcaMeN08FLTyo,25,2015,sertanejo,0.618,0.371,9,-6.262,1,0.0289,0.676,6.12e-06,0.141,0.642,105.52,231133,3
+Fred Liel,Numa Dessas Luas,55rJ7YYKlinPW9jUulrDvz,6,2015,sertanejo,0.561,0.5,0,-5.464,1,0.0288,0.343,0.0,0.0848,0.244,103.859,187813,3
+Gustavo Mioto,Fuga - Ao Vivo,3ibd4N53rKngebqXFhFM1a,47,2023,sertanejo,0.567,0.817,9,-3.991,0,0.177,0.275,0.0,0.933,0.598,180.112,189417,4
+Daniel & Samuel,Lágrimas,505iC1rwlu7mNasBsANjCw,25,2015,sertanejo,0.498,0.65,5,-6.06,1,0.0338,0.283,0.0,0.254,0.479,143.613,276373,4
+Henrique & Diego,Ciumento Eu (feat. Matheus & Kauan) - Ao Vivo,3LFG5DqNQRK0yL6WNMw99P,31,2017,sertanejo,0.483,0.904,8,-3.794,1,0.0656,0.118,0.0,0.953,0.819,163.901,217573,4
+Gilberto e Gilmar,Música da Saudade - Ao Vivo,5Xc2EekaD0Rk8tfh8fj6ZR,5,2014,sertanejo,0.355,0.659,0,-2.476,1,0.0306,0.564,0.0,0.791,0.472,110.519,100920,4
+Papas Da Língua,Só Se For Agora,2j6QQApFo1nNqFWGchgibo,8,2008,sertanejo,0.714,0.915,9,-5.391,1,0.0285,0.0363,0.0,0.143,0.978,126.99,185213,4
+Zé Neto & Cristiano,Derreter a Aliança - Ao Vivo,5LrxVF7fpZZdbB7zy6MnIg,51,2018,sertanejo,0.682,0.904,11,-3.679,1,0.0779,0.53,0.0,0.206,0.775,132.89,189669,4
+Moreno E Moreninho,O Presépio de Santos Reis,4fervYtCwhn0LgaZmC3cBD,21,2015,sertanejo,0.529,0.545,4,-8.328,1,0.0597,0.27,0.000138,0.0651,0.714,161.42,213613,4
+Israel & Rodolffo,Perdão No Escuro - Ao Vivo,4uhFjsUTIJXruEVx2OSgpL,45,2022,sertanejo,0.555,0.663,4,-5.272,1,0.0382,0.353,1.55e-05,0.376,0.548,88.856,162816,4
+Trio Parada Dura,Brilhante,3WQDUSOUJFwgqyN5ZKx9Az,1,2001,sertanejo,0.412,0.28,0,-14.864,1,0.032,0.0536,0.0,0.12,0.396,174.043,210094,3
+Léo & Raphael,Velho Barreiro,3B3HBXhdVYEHHolhI9rTQs,29,2015,sertanejo,0.671,0.806,7,-4.836,1,0.211,0.255,0.0,0.343,0.743,104.99,193750,4
+Jorge & Mateus,Desisto,4BCk2QOQqu9cGYI9GWLIOz,50,2021,sertanejo,0.556,0.652,7,-4.968,1,0.0611,0.193,0.0,0.0795,0.67,154.064,222733,4
+Raça Negra,Tá Doendo,7G85KAXFIcuyUA89NTAPML,9,2006,sertanejo,0.682,0.739,11,-8.665,0,0.259,0.282,0.0,0.0348,0.789,94.924,184573,4
+KLB,Em Mim Só Dá Você - Ao Vivo,0zuPRYHJxYc8LmmwV3cW4Y,7,2003,sertanejo,0.593,0.686,7,-6.06,1,0.0309,0.704,0.0,0.805,0.82,117.984,135560,4
+Michel Teló,Amanhã Sei Lá - Ao Vivo,1HjvnlGTkukhuxGtJPiDXA,22,2013,sertanejo,0.599,0.963,7,-4.441,1,0.0596,0.144,0.0,0.956,0.625,119.95,188013,4
+Donizeti,A Única,7px2Pnn6YzXZi4eypVHxsD,1,2012,sertanejo,0.673,0.471,9,-11.095,1,0.039,0.231,0.0,0.266,0.616,140.488,210383,4
+Lucas Reis & Thácio,Na Hora H - Ao Vivo Em Ilha Solteira / 2019 / Vol.2,2bDudeGsajuD3UN6tL8ClD,24,2019,sertanejo,0.652,0.802,0,-4.407,1,0.0507,0.132,0.0,0.107,0.389,146.03,195000,4
+Daniel,É tudo o que eu queria,1P5KlzHpN9nDeL0tKPEiMl,2,2011,sertanejo,0.585,0.608,0,-4.322,1,0.0267,0.538,0.0,0.174,0.547,99.036,266280,4
+Divino e Donizete,Seleção de Rasqueados,3RX9eOHf1bxTL97sQWviRA,22,2018,sertanejo,0.741,0.575,9,-8.365,1,0.0735,0.0432,0.0,0.119,0.809,119.959,176536,3
+Zé Neto & Cristiano,Status Que Eu Não Queria - Ao Vivo,43tDjfz9Inw7Soy0jzxowN,61,2018,sertanejo,0.58,0.871,4,-4.052,1,0.209,0.59,0.0,0.564,0.911,117.622,153934,4
+Durval e Davi,Morrendo de Amor (Esperando por Você) - Ao Vivo,1p9oiollEILNMc6wM9jaqq,9,2012,sertanejo,0.376,0.631,7,-4.943,0,0.0364,0.141,0.0,0.95,0.336,95.806,175613,3
+As Galvão,Triste Berrante - Ao Vivo,69ilYhAS4ixBEZ0P3Joa2x,9,2017,sertanejo,0.644,0.682,7,-5.22,1,0.0286,0.603,0.0,0.247,0.483,104.958,223813,3
+Althaír & Alexandre,"Cachiblema (Cachaça, Cifre E Problema)",62ocynUPFUqKkM2dF93G4k,2,2009,sertanejo,0.723,0.932,6,-3.628,1,0.0397,0.338,0.0,0.726,0.9,115.094,180173,4
+Murilo Huff,Pot-Pourri: Ela É Demais / Vem Me Buscar / Você Decide,7fLEEE4VECm1gSVpvavY1e,46,2020,sertanejo,0.474,0.483,0,-7.155,1,0.0466,0.481,0.0,0.114,0.306,139.807,341451,4
+Eduardo Costa,Sem Céu e Sem Chão (feat. Cristiano Araújo) - Acústico,331Fw5SXN7HiQnjwDEpOMG,35,2013,sertanejo,0.667,0.791,9,-3.858,1,0.0366,0.149,0.0,0.277,0.696,130.151,200840,4
+Gaúcho Da Fronteira,Caco Fronteira,3SodXZDEXW1DBUw2yyefv4,14,2006,sertanejo,0.727,0.876,9,-5.323,1,0.192,0.367,0.0,0.331,0.917,144.987,216347,3
+Pedro Sanchez e Thiago,Minta Finja - Ao Vivo,1ZPUFz7CSmFLXCKPTmhEDS,11,2020,sertanejo,0.611,0.763,2,-5.767,1,0.0654,0.538,1.12e-06,0.327,0.714,107.897,275598,4
+Adair Cardoso,Sim Ou Não,79ODXUHdUHzS9sh553chH0,7,2011,sertanejo,0.636,0.934,5,-3.537,1,0.0486,0.0684,0.0,0.579,0.466,149.772,193320,4
+George Henrique & Rodrigo,Se tiver coragem joga fora / Lembranças de Amor,24VCuFkb2Wq43a6x9vJuJs,28,2023,sertanejo,0.525,0.814,2,-4.999,1,0.0687,0.488,0.0,0.269,0.604,155.795,217611,4
+Talis e Welinton,No Baile - Ao Vivo,5p9rBXY0WHWBCr8DkUj5os,37,2022,sertanejo,0.84,0.735,11,-4.82,0,0.194,0.512,0.0,0.346,0.877,129.921,138989,4
+Amado Batista,Amor Meu Louco Amor (Faixa Bônus) - Ao Vivo,1YttnlZ4axPzLOV4mazlnX,16,2019,sertanejo,0.539,0.724,7,-4.658,1,0.0295,0.334,0.00109,0.333,0.746,208.13,176402,4
+PH e Michel,O Mundo É Tão Pequeno / É Fato - Ao Vivo,4Ub9a9U5EXlFfxLnBg7VGG,29,2018,sertanejo,0.824,0.685,7,-5.787,1,0.143,0.811,0.0,0.279,0.808,142.004,175173,4
+João Carreiro,Senhor Renova-me,7p2bnNd9egYOeRiJYxuUbr,4,2014,sertanejo,0.612,0.488,4,-6.621,1,0.0286,0.637,0.0,0.139,0.194,140.006,198624,4
+Gino & Geno,Nóis Enverga Mas Não Quebra - Ao Vivo,053v0WekNUSAqrLY76JFlh,53,2004,sertanejo,0.72,0.885,11,-5.193,1,0.0511,0.297,0.0,0.892,0.957,112.094,181400,4
+Os Dois Mineiros,Manto Sagrado,2Rti2C0eL8ID3RUdqRNmVe,8,2015,sertanejo,0.743,0.654,11,-5.048,1,0.0253,0.801,0.0,0.169,0.88,108.068,252212,3
+Michel Teló,O Tempo Não Espera Ninguém,5Gq1J4Vi18CuaqC5y3ICEZ,45,2020,sertanejo,0.644,0.398,4,-6.886,1,0.031,0.832,0.0,0.123,0.415,115.69,265817,3
+Grupo Tradição,Doido Pirado,2dTUuGmW2TsWj8f3Jg5Z1C,1,2009,sertanejo,0.715,0.939,7,-3.933,1,0.128,0.302,0.0,0.733,0.641,107.017,162038,4
+Peão Carreiro e Zé Paulo,Vem Cá Meu Bem,4qjxx4Snd5R2pIqBM5Lmer,0,2005,sertanejo,0.809,0.742,4,-6.246,1,0.0337,0.248,0.0,0.239,0.896,109.968,170840,4
+Gusttavo Lima,Tudo que Eu Queria - Ao Vivo,2qE0S1LFtf9l2t3lxtxUtX,53,2021,sertanejo,0.654,0.648,4,-4.462,1,0.0443,0.406,0.0,0.104,0.612,143.838,178688,4
+Trio Parada Dura,Bicho Bão É Mulher,5ygsyqWUpUZ4qyna0uJTH7,2,2011,sertanejo,0.746,0.663,0,-2.775,1,0.0354,0.769,0.0,0.257,0.854,106.035,196799,4
+Thiago Makie,Zona de Guerra,1AUtbBZVkL58hc7ziVJZ46,20,2017,sertanejo,0.712,0.886,0,-4.281,1,0.058,0.306,1.29e-06,0.707,0.569,133.913,164533,4
+Paula Fernandes,Mil Carinhos,3j9aulEqNLnXMmLX7DbXy1,35,2022,sertanejo,0.608,0.601,5,-6.896,1,0.0273,0.444,8.38e-06,0.118,0.582,90.013,193501,4
+Chico Lobo,Reisado,7Mrygw49bhtLFi2IlwPPDG,0,2010,sertanejo,0.66,0.816,4,-8.556,1,0.0536,0.0635,0.0,0.0696,0.626,116.956,227056,1
+Michel Teló,Balada Sertaneja - Ao Vivo,3zZHKxRlbRLshCz0ZAcpeU,14,2013,sertanejo,0.652,0.991,4,-4.755,1,0.0875,0.248,6.21e-06,0.926,0.845,126.948,227707,4
+Silveira & Barrinha,No Meu Sertão,2R5ZWqnovkBYQUrOcvkAxO,4,2002,sertanejo,0.593,0.417,4,-11.331,0,0.0351,0.848,0.000402,0.115,0.727,95.174,169705,4
+Hugo & Guilherme,Pra Sempre Seu Homem / Você Virou Saudade - Ao Vivo,3PXkTRSeFeXhvwmBS0ib1O,50,2018,sertanejo,0.598,0.689,2,-3.907,1,0.123,0.567,0.0,0.236,0.732,90.206,215092,4
+Zezé Di Camargo & Luciano,Doy la Vida por un Beso (Dou a Vida por um Beijo),6vQ8T4VGq1yI3w6ImLngVV,20,2001,sertanejo,0.579,0.771,7,-6.742,1,0.0294,0.446,2.61e-06,0.208,0.618,141.8,246760,4
+Jorge & Mateus,A Gente Nem Ficou - Ao Vivo,5lFSi2FA01Kn4k8vaIZiM6,46,2012,sertanejo,0.694,0.798,11,-4.295,1,0.0457,0.613,0.0,0.621,0.782,132.988,193360,4
+Trio Parada Dura,Adeus Solidão (Pickin' Up Pebbles),0bPUcn2tKPCyGPbijVrqEf,0,2001,sertanejo,0.331,0.397,5,-8.133,1,0.0277,0.132,0.0,0.299,0.356,187.634,253147,3
+Marlon & Maicon,Pra sempre,6xdAyVBCxSszapyKMUjvRc,0,2002,sertanejo,0.562,0.675,9,-8.218,1,0.0496,0.406,0.0,0.299,0.633,79.892,233787,4
+Cezar & Paulinho,Você é Tudo Que Pedi Pra Deus (Magia) - AO Vivo,035LVw1DIwhxhOhlHqVKnT,37,2012,sertanejo,0.532,0.725,1,-6.695,1,0.0818,0.576,0.0,0.848,0.832,164.122,188533,4
+Joel & Jonas,Toca em Jesus,0xbotr9Xy5XXNGTPqAjWWn,27,2018,sertanejo,0.353,0.426,2,-13.162,1,0.0286,0.457,0.0,0.38,0.52,98.013,272920,3
+César Menotti & Fabiano,Tô Mal,772C3dUZbjB6qks0oBhW2l,18,2015,sertanejo,0.662,0.827,1,-5.727,1,0.0524,0.398,0.0,0.076,0.887,88.049,177168,4
+Pedro Paulo & Alex,Histórias pra Contar - Ao Vivo,31jpkD4vIBONhzEf94WlIX,24,2014,sertanejo,0.413,0.96,0,-4.957,1,0.139,0.135,0.0,0.649,0.531,93.311,176797,4
+Trio Parada Dura,Paixão e Mágoa,2RZQoJoXHluL4II4XpD57k,14,2006,sertanejo,0.572,0.564,0,-4.532,1,0.0242,0.0611,0.0,0.319,0.705,91.959,146853,3
+Zé Neto & Cristiano,Me Lasquei Bonito - Ao Vivo,4E30M6JU9a2g2MpLVHGpaF,42,2020,sertanejo,0.487,0.852,1,-2.794,1,0.0773,0.537,0.0,0.401,0.689,108.426,158794,4
+Zé Henrique & Gabriel,O Brasil Tá Cheio - Ao Vivo,7IeWrb86RoUfU0EnFvj7Dv,27,2007,sertanejo,0.72,0.825,7,-4.788,1,0.0433,0.694,0.0,0.677,0.821,109.97,234773,4
+Só Pra Contrariar,Recordações - Ao Vivo,0BjmFkZVsiv0sajyyUNt2y,36,2013,sertanejo,0.688,0.645,2,-6.762,1,0.0368,0.604,0.0,0.835,0.393,115.048,197960,4
+Jads & Jadson,Olhos Castanhos de Alguém,4pepH0dG5Cei56hPW3cZVS,18,2012,sertanejo,0.418,0.392,2,-6.515,1,0.0282,0.422,0.0,0.954,0.388,113.086,221613,3
+Os Levitas,Me Entreguei de Coração,09lYd8vRv0jk487ke65W4j,14,2002,sertanejo,0.65,0.655,5,-4.966,1,0.0268,0.333,0.0,0.156,0.531,107.21,238227,4
+Victor & Matheus,Lembranças e Sinais - Ao Vivo,7fTr8u3y3J2YVJbUJ7hNLk,12,2011,sertanejo,0.649,0.676,8,-9.88,1,0.0279,0.31,0.0,0.766,0.662,125.032,208707,4
+Chrystian & Ralf,Você Nao Me Ensinou A Te Esquecer,6zf8ZGOXasTqTCYzQKW5bV,4,2004,sertanejo,0.619,0.553,6,-10.391,0,0.0325,0.456,0.0,0.284,0.546,105.169,252960,4
+João Neto & Frederico,Prisioneiros - Ao Vivo,15gIb6lnjIMcgtbasaeXwq,38,2017,sertanejo,0.534,0.91,1,-2.174,1,0.161,0.504,0.0,0.393,0.568,173.939,206850,4
+Jad & Jefferson,Meu Caminhão Cria Asas,2J2X4CiqZNJm5nLvj5BwyR,0,2009,sertanejo,0.447,0.873,2,-1.901,1,0.119,0.386,0.0,0.225,0.664,178.114,219933,4
+Alexandre Peixe,We Are The World Of Carnaval / Ê Saudade,40tkHwr5EN7ZQyLM9Qreg2,10,2021,sertanejo,0.56,0.92,6,-7.034,0,0.131,0.155,0.00078,0.552,0.58,168.707,299917,4
+Chico Rey & Paraná,Em Algum Lugar Do Passado,1jSQH9ZcZ705kIPou6TCEE,21,2004,sertanejo,0.418,0.594,2,-5.572,1,0.0404,0.506,0.0,0.3,0.512,151.862,216293,4
+Lucas & Luan,Preciso Desse Amor,2mNYayzc8f3KtAooBr0Fxd,3,2000,sertanejo,0.468,0.491,2,-7.025,1,0.0324,0.603,0.0,0.293,0.428,141.845,222987,4
+Os Levitas,É Minha Vez - Playback,1gpHjR4PhVLPmT9x7R3MWr,7,2003,sertanejo,0.597,0.557,0,-11.442,1,0.0367,0.0182,0.456,0.0964,0.577,77.005,298267,4
+Chico Rey & Paraná,Entre Amigos E Whisky,67ifDpesFb301wHabkMtrp,18,2004,sertanejo,0.645,0.559,8,-6.202,1,0.0301,0.381,0.0,0.29,0.639,118.049,198733,4
+Diego & Victor Hugo,Lá Vou Eu - Ao Vivo,5IJCiJvyZ1spGAmaIeQ5bN,33,2023,sertanejo,0.402,0.706,10,-5.148,1,0.0604,0.562,0.0,0.405,0.354,78.285,167025,4
+Felipe e Falcão,Eu Quero Dar Risada,3NBkjaebRX56Qwu53Rvsuo,19,2011,sertanejo,0.671,0.92,2,-3.413,1,0.157,0.446,0.0,0.326,0.924,84.95,153093,4
+Tibagi e Miltinho,Beija-Me Com Ternura,5zF5bQlaEei1Iz6oNbvC1q,0,2001,sertanejo,0.713,0.383,4,-9.889,0,0.0293,0.674,1.41e-06,0.38,0.773,106.707,101254,4
+Adalberto e Adriano,Me Deixe Só,3HeWOuqwSsloVxNCnY2WcW,14,2019,sertanejo,0.608,0.685,11,-5.582,1,0.0265,0.116,0.0,0.176,0.607,102.032,221320,4
+Abel E Caim,Presente De Amor (Regalo De Amor),0slZPJX6rcGcKO9iRTYmDm,0,2000,sertanejo,0.637,0.236,5,-12.124,1,0.0367,0.425,0.0,0.133,0.569,80.634,210400,3
+Pena Branca,Casa Amarela,3Fbcjb0jfRU2Fp1SRVfVmG,0,2007,sertanejo,0.499,0.356,9,-8.907,1,0.0331,0.831,0.0,0.0737,0.461,178.397,201000,4
+Rionegro & Solimões,Eu Quero Fazer Amor,5bM1TI2uGmRT6rQH808Xwl,7,2014,sertanejo,0.626,0.738,7,-11.461,1,0.1,0.172,0.0,0.35,0.862,110.027,184560,4
+Chitãozinho & Xororó,Quem É Você,7sSbACaOznyBoKr2GAQlTn,8,2004,sertanejo,0.516,0.688,5,-7.569,1,0.0355,0.757,0.0,0.425,0.56,91.391,182227,4
+Eli Silva e Zé Goiano,Pagode em Brasilia,5EcExNbmglsYQO60i1vBcV,14,2001,sertanejo,0.776,0.427,2,-11.449,1,0.0376,0.566,0.0,0.05,0.81,108.026,171921,4
+Marcos & Belutti,Amorzin Pernoite - Ao Vivo,6QuPxW1ywhrarqTtKqPPfM,39,2020,sertanejo,0.697,0.871,2,-3.243,1,0.0336,0.225,0.0,0.588,0.671,117.992,158348,4
+Rick & Renner,Uma mulher como você,7465qvdNu4wJQhIriY4kyA,9,2010,sertanejo,0.78,0.713,7,-6.306,1,0.027,0.716,0.0,0.0978,0.854,119.928,215253,4
+Cristiano Neves,Paixão ou Loucura,1AybV2fo1xxTcDgZuZdYKr,6,2014,sertanejo,0.826,0.948,3,-1.046,1,0.0628,0.472,0.0,0.0874,0.891,125.048,190507,4
+José Augusto,De Igual Pra Igual,4gXKYE4qYAWwLP0dkU1MdT,25,2003,sertanejo,0.57,0.526,4,-9.655,1,0.0276,0.247,0.0,0.103,0.521,98.051,235733,4
+Chitãozinho & Xororó,O Direito De Amar,6k0OqBq6ejBIMaqesoal46,2,2000,sertanejo,0.646,0.507,0,-5.971,1,0.0276,0.672,0.0,0.17,0.796,90.051,181400,4
+Latino,Amigo Fura-Olho - Original Radio,3SJQ4jGKWVGinXMNeByBnV,9,2008,sertanejo,0.609,0.9,9,-3.509,0,0.264,0.235,0.0,0.132,0.738,87.884,274640,4
+Cezar & Paulinho,Coração Marcado (Coração Machucado),3Fzc7GC7wSdGMf4GgCx1Kh,7,2013,sertanejo,0.468,0.735,2,-3.315,1,0.0311,0.715,0.0,0.149,0.75,164.848,220267,5
+Kleo Dibah,Por Que? / Espinhos da Vida - Ao Vivo,56ekh6d3ZKaoDHEVjQQKfX,22,2023,sertanejo,0.647,0.596,7,-6.064,1,0.0318,0.841,0.0,0.16,0.615,124.899,219840,3
+Gusttavo Lima,Duas da Manhã - Ao Vivo,7eVlVL1Vcc9Xp1VWpe5On2,47,2021,sertanejo,0.887,0.837,11,-3.638,1,0.0664,0.144,0.0,0.148,0.635,136.949,220233,4
+Chico Rey & Paraná,Memórias,2vRaAFXOqRjTtYbUCssVUm,10,2004,sertanejo,0.516,0.527,7,-6.457,0,0.0304,0.724,0.0,0.199,0.4,74.026,221067,4
+Lourenco & Lourival,Minta Pra Ela,2PGkdbzjFaMKGlKGuto6lz,8,2009,sertanejo,0.722,0.511,7,-5.947,1,0.034,0.24,0.0,0.156,0.848,128.025,174173,4
+Hugo & Guilherme,Meu Número - Ao Vivo,3XF598RmEUF3XW4XKo1lyP,72,2022,sertanejo,0.427,0.834,10,-4.169,1,0.0978,0.434,0.0,0.939,0.32,179.089,208007,3
+Matheus & Kauan,Sofro Tudo De Novo - Live,1lStRaPV75eAECmMSBHqAa,51,2015,sertanejo,0.538,0.918,5,-3.225,1,0.204,0.615,0.0,0.23,0.675,76.908,132920,4
+Rick & Renner,Nos Bares da Cidade - Live,7fGGV0zim8pNjOPbdkuagT,5,2020,sertanejo,0.763,0.325,0,-15.398,1,0.205,0.306,0.0,0.133,0.779,147.801,117841,4
+Murilo Huff,Tatuagem / Temporal de Amor / Ficar por Ficar - Ao Vivo,1MQWAqAsLBtXexMosDevrU,52,2022,sertanejo,0.375,0.646,7,-5.278,1,0.11,0.678,0.0,0.433,0.419,80.79,332472,4
+Gabriel Gava,Delicinha,4Vwr6rNipMxIolYHDDb86L,38,2019,sertanejo,0.755,0.695,9,-2.309,0,0.0362,0.408,0.0,0.214,0.858,136.141,177433,4
+Bruno & Marrone,Favo de Mel,68H1lPCSnr9xohoBzZ5AXx,13,2012,sertanejo,0.495,0.472,4,-8.283,1,0.0392,0.589,0.0,0.133,0.451,81.997,175360,4
+Os Levitas,A Luz do Amor - Playback,6K29xqYcC5qkdQQiiI6dkm,0,2001,sertanejo,0.513,0.639,9,-6.848,1,0.0298,0.308,0.215,0.109,0.318,115.866,263920,4
+Gian & Giovani,Olha Amor/Esta é minha paixão ( Verso) - Ao Vivo,1AIXRf21SzUf5DmlfXHCeR,27,2005,sertanejo,0.651,0.663,4,-7.148,1,0.0639,0.484,0.0,0.747,0.851,130.707,269629,4
+André & Andrade,É Sempre Assim,7hR0lbU0QC4jNBnnsXukti,2,2005,sertanejo,0.603,0.863,11,-5.204,1,0.0466,0.395,0.0,0.0513,0.957,79.197,154462,4
+Marlon & Maicon,É sempre assim,3K3hSVkNBp5IddUjyx6g9b,7,2002,sertanejo,0.47,0.46,4,-8.01,1,0.0253,0.202,0.0,0.0856,0.288,77.072,197000,4
+Zico & Zeca,Minha Rosa,4Ww5mwjkhpS4q0RcBM9UWj,2,2001,sertanejo,0.616,0.249,0,-10.332,1,0.0498,0.854,2.42e-06,0.095,0.487,122.696,180231,3
+Jad & Jefferson,Nóis Capota Mais Num Breca,3NV5tTGhtchgNqhhEwqUia,11,2002,sertanejo,0.79,0.875,9,-5.386,1,0.0589,0.586,6.49e-05,0.322,0.841,102.455,221533,4
+Amado Batista,Solidão Sem Fim,5PdgWfxILOEv4kRkXKsiKr,28,2019,sertanejo,0.577,0.66,4,-4.475,1,0.026,0.69,0.0,0.137,0.531,152.068,208249,4
+Grupo Tradição,Deus É 10,7qhCeGpD0sY7QbHTjWXYzz,4,2007,sertanejo,0.564,0.956,4,-5.348,1,0.0737,0.0682,0.0,0.918,0.543,152.978,223869,4
+Jorge & Mateus,Vale por Dez - Ao Vivo,2bFuWE2oCgdhW5A20V9ILC,45,2018,sertanejo,0.678,0.811,0,-4.576,1,0.0428,0.468,0.0,0.442,0.666,163.955,174188,4
+Daniel,Quer me namorar,0wbbpQ6lIoPocgKGlB3qz5,5,2008,sertanejo,0.832,0.739,7,-4.944,1,0.0366,0.662,0.0,0.134,0.851,128.004,209120,4
+Raça Negra,Só Sei Que Vou - Ao Vivo,6pym5yjpPW2l5YsOoQJQid,23,2004,sertanejo,0.355,0.8,4,-8.856,1,0.048,0.55,0.0,0.813,0.413,78.116,229560,4
+Rick & Renner,Não choro mais / Numa sala de reboco / A vida do viajante - Ao Vivo,46QPGLl0J4fb8c2KvV953I,5,2013,sertanejo,0.671,0.799,5,-6.612,1,0.0392,0.369,0.0,0.345,0.732,80.992,327935,4
+Fred & Victor,Cada Volta Um Recomeço - Ao Vivo,6bEHjde00qABgtU1U6jShd,10,2023,sertanejo,0.552,0.391,9,-5.559,1,0.0311,0.756,0.0,0.931,0.385,136.685,263441,4
+Raça Negra,Cigana - Ao Vivo,4vTI1wFRtzrk4GQNHjG8fx,53,2017,sertanejo,0.655,0.63,0,-6.717,1,0.0353,0.47,0.0,0.589,0.355,141.981,195875,4
+Irmãs Galvão,Manhã sem aurora,38jK3zQ6qTORRyavaaPGOn,0,2008,sertanejo,0.728,0.507,5,-7.394,1,0.0425,0.676,0.0,0.194,0.884,126.111,159760,3
+Chico Rey & Paraná,Um Degrau na Escada,0b7Hj7E0mVnAeD2NZxTTVa,5,2004,sertanejo,0.56,0.602,4,-4.688,1,0.0265,0.663,0.0,0.364,0.358,134.224,223283,4
+Jorge & Mateus,A Hora É Agora - Ao Vivo,69ZsxJHVrQ2VXNk7urPNQC,54,2012,sertanejo,0.519,0.955,10,-4.91,1,0.0983,0.159,0.00514,0.964,0.428,136.993,324093,4
+Edson & Hudson,Ainda Ontem Chorei De Saudade - Live,7FeN7ajOqfAeAjmqPcelqE,29,2007,sertanejo,0.623,0.639,9,-5.295,1,0.033,0.474,0.0,0.528,0.586,118.059,168973,3
+Daniel,Filho do Mato,4ZmJF8bkOSYDWfAUhG6sbG,0,2011,sertanejo,0.544,0.81,9,-4.813,1,0.0531,0.723,0.0,0.158,0.531,149.698,262107,4
+Elias e Eliseu,Sai Fora Que É Laço,5U67KUrVtCNjsXHqumIGef,23,2015,sertanejo,0.683,0.84,1,-4.901,0,0.202,0.132,0.0,0.289,0.676,195.947,152504,4
+Bruno & Barretto,Meu Sorriso É Você,3qccuSeyeSfaIpBvqQ1W8u,38,2017,sertanejo,0.635,0.807,10,-4.731,1,0.0975,0.604,0.0,0.263,0.523,109.847,152301,4
+Zé Mulato & Cassiano,Viagem Penosa,3WBxzd2Y2MpM3aaAglQmrb,5,2014,sertanejo,0.519,0.393,0,-6.897,1,0.106,0.841,0.0,0.178,0.773,198.886,182000,3
+Chitãozinho & Xororó,Vem Ni Mim,7GpqAL4gm6Jx8OuXZJ4mQS,5,2001,sertanejo,0.744,0.9,0,-7.951,1,0.0665,0.215,0.0,0.0525,0.874,119.624,192200,4
+Clayton & Romário,Doutor e o Caipira - Ao Vivo,4afLrX5ZB9g93bfBuizzfZ,11,2009,sertanejo,0.639,0.853,11,-3.654,1,0.0569,0.443,0.0,0.915,0.751,93.931,224953,4
+Grupo Tradição,Vem - Ao Vivo,1foLuBM4FnRhETIdDmrF28,15,2009,sertanejo,0.653,0.964,9,-4.172,1,0.0714,0.372,0.0,0.312,0.815,163.955,154480,4
+Jads & Jadson,O Charme do Violeiro,5GNffi31ckEWdWSiaaFboq,0,2005,sertanejo,0.733,0.728,9,-5.63,1,0.0677,0.0249,0.0,0.454,0.894,103.107,117493,4
+Rionegro & Solimões,Frio Da Madrugada - Ao Vivo Em São Paulo / 2004,22S5WYD40BDOfUaWIF4bw7,40,2004,sertanejo,0.317,0.533,2,-9.328,1,0.0329,0.116,0.0,0.766,0.171,107.192,300533,4
+Victor & Matheus,Mulher de Fases - Ao Vivo,64oqjjTyqsUkFZdKW5SJmc,7,2011,sertanejo,0.659,0.771,7,-10.209,1,0.0578,0.0711,3.57e-06,0.944,0.473,134.985,209053,4
+Adalberto e Adriano,Erros e Acertos,5iQImTI0G2Qh0ECI4A4OTy,0,2003,sertanejo,0.526,0.642,0,-6.712,1,0.0372,0.531,0.0,0.177,0.679,94.45,207267,3
+Papas Da Língua,Viajar,27kIbiEMwqPHqD4zFfqKEo,12,2018,sertanejo,0.822,0.825,11,-8.234,0,0.0456,0.354,0.0,0.26,0.925,104.034,240733,4
+Matheus & Kauan,Que Sorte A Nossa - Live,44pllb9f5QwcrD2kKc0gS0,60,2015,sertanejo,0.566,0.695,7,-3.929,1,0.0284,0.547,0.0,0.923,0.334,95.087,188347,4
+Chico Amado & Xodó,Fazendo um Tendel,5tSQqChlHYl5UveYtEHuIS,0,2012,sertanejo,0.85,0.656,9,-7.479,1,0.0303,0.228,0.0,0.178,0.965,129.962,192027,4
+Sérgio Reis,Comitiva Esperança - Ao Vivo,4IuhG0sOcRpTOizC7doUKl,25,2009,sertanejo,0.548,0.555,2,-5.405,1,0.0512,0.653,0.0,0.441,0.64,84.299,223333,4
+Maurício & Eduardo,Eu Vou Pegar Você,5wp24qIcd4E7HHSUGmMivO,5,2012,sertanejo,0.617,0.913,0,-5.064,0,0.0555,0.324,0.0,0.769,0.656,144.99,152747,4
+Zé Henrique & Gabriel,Corac¦o Que Chora,3FEFkCLGZF3tZ5yc3p2faK,20,2001,sertanejo,0.71,0.788,2,-5.697,1,0.0392,0.448,0.0,0.828,0.942,92.037,178187,4
+Otávio Augusto E Gabriel,Eu a Viola e Ela,3GWnBFOEmnU49oNhMP85hG,21,2004,sertanejo,0.788,0.448,9,-8.006,1,0.0353,0.233,0.0,0.0846,0.703,119.855,158627,4
+Alma Serrana,T§ De Buzão,3O8NmmAwbPctHaeNTomu07,0,2007,sertanejo,0.739,0.988,2,-3.513,1,0.11,0.228,1.61e-05,0.418,0.52,98.202,233267,4
+Nestor E Nestorzinho,Gangorra,09VsHblpxN3TyJJvqVuGIh,16,2000,sertanejo,0.657,0.589,4,-9.273,1,0.0584,0.667,0.0,0.0665,0.959,106.629,134015,4
+Yasmin Santos,Quero Ver se Defender - Ao Vivo,2UrU9un6h0bZXTqCYisLlo,57,2022,sertanejo,0.586,0.749,11,-5.231,0,0.156,0.023,0.0,0.716,0.604,164.107,171453,4
+Daniel,Eu Amo Amar Você,5cgMGwANFtxVq0lna0ld2T,0,2011,sertanejo,0.574,0.721,0,-4.48,1,0.0328,0.42,0.0,0.135,0.417,120.035,223373,4
+Almir Sater,Quando A Gente Chama,70nXAhFHmRPP0vcZV7lmn8,34,2018,sertanejo,0.645,0.511,7,-8.542,1,0.027,0.622,0.0,0.161,0.554,115.032,225421,3
+Mayke & Rodrigo,Delegada / Parece Castigo / Treme Treme - Ao Vivo,47llYg9wpXwOcS8hW0ek1r,8,2019,sertanejo,0.477,0.891,1,-4.694,0,0.191,0.361,0.0,0.431,0.754,107.049,338313,4
+Janaynna,Temporal de amor - Ao vivo,4dJIGPRdOm6DY5SWzT9UPt,13,2009,sertanejo,0.487,0.386,7,-8.558,1,0.0406,0.794,0.0,0.825,0.411,138.34,221080,4
+Eduardo Costa,Olhando Nos Teus Olhos,0qaAoQ7At60PqNbga3Mhdj,44,2003,sertanejo,0.69,0.688,7,-5.285,1,0.0463,0.695,0.0,0.0872,0.728,140.196,228647,4
+Os Serranos,Grudado Nas Crinas,6rhbbMMs8yjQBHXBCkeXpa,12,2007,sertanejo,0.741,0.792,9,-4.55,0,0.0496,0.407,0.0,0.136,0.805,135.129,228453,3
+Mococa & Paraíso,Cesto de Papéis,6H5n5APNO9PakbYBJ4EvbX,8,2012,sertanejo,0.655,0.626,2,-5.808,1,0.0342,0.065,1.87e-06,0.388,0.393,92.996,242733,3
+Paula Fernandes,You're Still The One,1PkzZoOAwHFEmVjTp2Eaiv,36,2014,sertanejo,0.544,0.659,2,-4.406,1,0.0294,0.338,0.0,0.0912,0.414,135.975,214440,4
+Trio Parada Dura,Quebra Topete,1tSX2rcZb0bHjLEgeWdodE,6,2013,sertanejo,0.866,0.804,8,-4.732,1,0.122,0.731,0.0,0.0574,0.955,150.557,125573,4
+Raul Torres & Florêncio,A Mulher e o Trem,1W4tmcTc4SbahAtApBkbB9,0,2000,sertanejo,0.625,0.37,4,-7.221,1,0.0337,0.892,0.0,0.149,0.469,80.902,159160,4
+Grupo Tradição,Bailezito - Ao Vivo,0W2GqahWtIIBKxYtjotIho,6,2015,sertanejo,0.641,0.912,0,-6.165,1,0.0422,0.141,6.54e-06,0.393,0.617,94.465,79752,4
+Hugo e Heitor,Meu Nome No Meio (Ao Vivo),3RyEo1dtQS0pjGP5EQGE42,19,2023,sertanejo,0.702,0.737,6,-6.076,0,0.0473,0.538,0.0,0.684,0.483,114.97,155649,4
+Gilberto e Gilmar,Bebo e Choro,0cxFaQCbyB5PxizTqjlU8E,27,2015,sertanejo,0.675,0.701,9,-4.593,1,0.0246,0.0704,0.0,0.443,0.769,111.907,193608,4
+Ícaro e Gilmar,Sonho por Sonho / Desculpe Mas Eu Vou Chorar (Ao Vivo),6HI2JUfzjgJAsJLPbK5weI,47,2021,sertanejo,0.443,0.606,0,-4.785,1,0.038,0.63,0.0,0.652,0.496,144.118,216122,4
+Lourenco & Lourival,Amando e Brigando,4el4QdhQDIB8xvrjLQi5IL,0,2011,sertanejo,0.791,0.753,7,-2.843,1,0.039,0.562,0.0,0.152,0.911,129.997,150173,4
+Irmãs Galvão,Triste Lembrança,3SpqMhwFY1DsD6zpvCjKtf,19,2000,sertanejo,0.667,0.397,9,-9.329,0,0.0382,0.645,0.0,0.211,0.705,122.205,163320,3
+João Carreiro & Capataz,Faculdade da Pinga - Ao vivo,03dpzC0a35H4Y4zf2zTWsr,20,2009,sertanejo,0.76,0.904,0,-2.492,1,0.148,0.297,0.0,0.279,0.724,109.956,199147,4
+Nechivile,Amor Sem Fim,124qM1bsODcTWBNu4rcXlQ,32,2009,sertanejo,0.546,0.491,5,-5.481,1,0.0256,0.846,0.0,0.715,0.34,149.977,212373,4
+Chico Rey & Paraná,O Que Mata É A Solidão,137afcNZf9b2K6ErUzOilj,3,2000,sertanejo,0.458,0.587,7,-5.343,1,0.0277,0.247,0.0,0.28,0.526,100.432,194480,4
+Alma Serrana,Bailanta do Povoado,3QKUmxwUSXAgeWkp5NNomY,8,2015,sertanejo,0.821,0.814,2,-4.019,1,0.0577,0.662,0.0,0.115,0.966,82.0,178756,4
+Maiara & Maraisa,Tchau - Ao Vivo,2Oi0XEnEqjvxpaWPGXTtfQ,35,2019,sertanejo,0.785,0.885,4,-2.401,1,0.0498,0.574,0.0,0.604,0.625,107.008,153115,4
+Duo Guarujá,Cabecinha No Ombro (Paulo Borges),1pTuIARsZUhXiQxvFEFFUf,12,2001,sertanejo,0.616,0.326,2,-11.446,1,0.0281,0.882,0.0,0.697,0.352,98.708,205562,3
+Michel Teló,Pot-Pourri: Fio de Cabelo / Telefone Mudo - Ao Vivo,4P3ZBDbPkjYvX18PMaSRwK,41,2017,sertanejo,0.318,0.705,5,-6.186,1,0.0276,0.234,0.0,0.951,0.494,98.229,175653,3
+Murilo Huff,Frieza (Ao Vivo),5rM3D9t7d7DlcsDe9RIB3b,50,2020,sertanejo,0.564,0.792,2,-3.297,1,0.0688,0.342,0.0,0.697,0.586,113.742,185761,1
+Luan Santana,Promete - Ao Vivo,7If2xmdJl9cjwXd587yrTz,36,2012,sertanejo,0.348,0.647,9,-5.475,1,0.0399,0.481,0.0,0.0862,0.618,203.087,199933,4
+Trio Parada Dura,Asa Branca,5JnNuVa1T0M2YXtniDVH2k,0,2001,sertanejo,0.688,0.765,6,-6.698,0,0.0542,0.0146,0.0,0.191,0.877,108.005,187480,4
+João Carreiro & Capataz,Prefiro Os Tubarões,17H6yg5AkhGr0YLaOqhsFt,18,2010,sertanejo,0.491,0.886,0,-5.463,1,0.0755,0.147,3.69e-06,0.896,0.633,152.788,195147,4
+Leonardo,A Chuva Não Vai Passar,6dkHUKwgVlWerldErH7dpn,13,2001,sertanejo,0.571,0.796,0,-4.438,1,0.033,0.294,0.0,0.304,0.574,110.867,257507,4
+Marlon & Maicon,A minha história,7hQXNGrpZy5f5Rvx2CiUMs,15,2001,sertanejo,0.653,0.595,0,-9.099,1,0.0329,0.426,2.26e-06,0.146,0.575,79.967,316973,4
+Ronaldo Viola e João Carvalho,Resposta de Poeta Sertanejo,1qvThAYlVtJOj02Xx96ndc,30,2011,sertanejo,0.558,0.384,4,-10.383,1,0.065,0.853,0.0,0.28,0.61,102.763,164232,4
+Bruno & Barretto,Adeus Meu Amor,36ezdpD04V8RPw4OVu0tRz,43,2019,sertanejo,0.558,0.807,2,-4.33,1,0.0385,0.123,2.13e-06,0.128,0.8,130.762,194078,4
+Di Paullo & Paulino,Desatino,1OevTy4wioToH6JoTXDNZb,44,2015,sertanejo,0.628,0.765,2,-2.959,1,0.0304,0.313,0.0,0.935,0.484,114.057,212227,4
+Jads & Jadson,Volta pra Mim,4ttuL2iGr03tvQYWybHQwz,0,2005,sertanejo,0.797,0.494,7,-7.185,1,0.0289,0.354,0.0,0.089,0.644,97.022,216131,4
+Tonico e Tinoco,Cabocla Tereza,5iwnWXgrTLL4QGnUKYyTBo,1,2002,sertanejo,0.653,0.437,9,-10.054,1,0.0266,0.667,0.0,0.0737,0.65,93.455,239187,4
+Daniel,Mágoa de boiadeiro,4EtEIqQC8MqVNuvwqVAwA3,37,2000,sertanejo,0.404,0.638,9,-5.149,1,0.0537,0.414,0.0,0.187,0.588,178.454,236147,4
+Rionegro & Solimões,Pra Sempre Na Memória - Ao Vivo Em São Paulo / 2011,6FMKmORpDdyFsHtarrqU71,5,2011,sertanejo,0.658,0.828,0,-5.478,1,0.0354,0.385,0.0,0.21,0.701,144.99,181840,4
+Matheus & Kauan,Meu Oxigênio - Live,1Rt5YpoljQDlZHTR0YPJZ4,50,2015,sertanejo,0.313,0.757,11,-3.379,1,0.0433,0.375,0.0,0.58,0.37,158.553,174187,4
+Diego & Arnaldo,Receita de Amar / O Amor Não é Paixão - Ao Vivo,0NMpO4LKLv4iYpEc43rmOT,61,2022,sertanejo,0.555,0.613,7,-4.894,1,0.0353,0.745,0.0,0.89,0.603,125.917,250953,4
+Matheus & Kauan,A Nossa Praia - Ao Vivo,7F0JCdobSgSgMLnEKAeBMa,46,2017,sertanejo,0.513,0.784,9,-5.174,1,0.108,0.366,0.0,0.289,0.456,121.466,201656,4
+Miltinho Rodrigues,Amargurado,2K2nWbFSv8pibzyZalky8T,7,2007,sertanejo,0.569,0.307,11,-15.732,1,0.0513,0.589,0.0,0.121,0.375,91.932,179453,3
+Di Paullo & Paulino,O Beijo do Adeus / Sublime Renuncia / O Último Adeus,4XFbBvmO2dekVEDQa77Re1,7,2005,sertanejo,0.442,0.618,3,-3.596,1,0.0278,0.213,0.0,0.863,0.411,100.465,298933,3
+Duduca & Dalvan,Foi Ela,1qdisUtTgDGCL21BkMfJSh,36,2015,sertanejo,0.52,0.706,7,-3.875,1,0.0424,0.64,0.0,0.292,0.968,107.212,172653,4
+Maria Cecília & Rodolfo,Só De Pensar - Ao Vivo,6pAckwQFYJ1QOrPBMLyVjw,35,2012,sertanejo,0.459,0.919,2,-4.189,1,0.0948,0.276,0.0,0.613,0.146,115.855,212045,4
+Trio Alto Astral,Quem Será,1O1t0Xb7IRZeWRQAa85xV5,1,2006,sertanejo,0.532,0.72,9,-3.203,1,0.0308,0.503,0.0,0.0656,0.627,95.909,180733,4
+Rayssa e Ravel,Avivamento,6QFKjFqdeLRwbMZjBhrApN,7,2010,sertanejo,0.506,0.849,1,-3.995,0,0.0928,0.719,0.0,0.254,0.374,139.995,260893,4
+João Carreiro & Capataz,Faculdade da Pinga,04WB3yqGPyRKrsPWNhrlI1,33,2010,sertanejo,0.656,0.95,0,-4.795,1,0.138,0.225,9.35e-06,0.973,0.619,119.914,184480,4
+Rionegro & Solimões,Cavalão Tá Doidão (Bonus Track),2kLBdixtTig213zEq2CQzT,28,2014,sertanejo,0.657,0.987,7,-1.611,1,0.13,0.0937,0.0,0.263,0.87,145.992,168173,4
+Rick & Renner,Linha cruzada,11fVo1lWdwkxEkypRJdW6T,6,2010,sertanejo,0.719,0.85,0,-4.621,1,0.027,0.593,0.0,0.148,0.862,140.003,209893,4
+Teodoro & Sampaio,Vírus da paixão,48l1hA7B3ZdWstk15EfaJh,27,2001,sertanejo,0.759,0.872,11,-5.018,1,0.0484,0.316,9.59e-05,0.161,0.966,168.135,170053,4
+Mariana Fagundes,Problema Dobrado,4Frk6QhjPu5jvT7bNLLNRc,54,2023,sertanejo,0.556,0.726,10,-4.758,1,0.193,0.559,0.0,0.799,0.62,74.457,197205,4
+Rick & Renner,Não Perca Tua Fé,5rVrBIthXeAh0lwPIUefB3,33,2019,sertanejo,0.772,0.72,7,-5.57,1,0.0471,0.578,0.0,0.321,0.57,100.037,222888,4
+Léo Canhoto & Robertinho,Quarenta Quilos De Amor,10E17I2Tk4uQWYt0s0mRlA,0,2000,sertanejo,0.828,0.433,5,-9.243,1,0.264,0.804,0.0,0.378,0.9,117.517,179240,4
+Maiara & Maraisa,Saudadezinha - Ao Vivo,25d9OOcTLUP8jeRSym4cC4,32,2019,sertanejo,0.755,0.857,2,-2.253,1,0.0569,0.387,0.0,0.742,0.76,129.924,159189,4
+Joaquim e Manuel,Cowboy Apaixonado,3JTLicpvvzpgE4b5cWnQmb,0,2004,sertanejo,0.732,0.771,2,-6.75,1,0.0605,0.331,0.0,0.186,0.844,120.172,198670,4
+Rionegro & Solimões,Medo Da Chuva,0YuwY9xvuVDfY1Uw6I1ISs,7,2019,sertanejo,0.375,0.418,4,-8.35,1,0.0478,0.551,0.0,0.134,0.541,207.358,204413,4
+Felipe Araújo,Cama Desocupada - Ao Vivo,0lhY2QQCIxpcW8bLNMtesZ,29,2019,sertanejo,0.73,0.682,11,-3.665,0,0.0382,0.293,0.0,0.226,0.719,121.981,167467,4
+Mococa & Paraíso,Licor De Amor,5xrtqbxbyKUkxXxgVIWNAK,7,2006,sertanejo,0.537,0.504,0,-6.62,1,0.0266,0.0534,0.000205,0.207,0.487,85.443,179089,3
+Gino & Geno,Sufoco,1sPd2KOudsZtBkgk1htt9a,5,2005,sertanejo,0.625,0.623,4,-7.094,1,0.0394,0.696,0.0,0.39,0.909,130.481,136400,3
+Caçula & Marinheiro,Cantinho do céu,6f6aYDG1WgEDwi9pt3JuOc,12,2002,sertanejo,0.392,0.259,5,-8.194,1,0.0296,0.692,0.0,0.122,0.378,147.351,186240,3
+Zé Henrique & Gabriel,Carga Pesada,3mupw45RIj5S1OXXpRDiGz,3,2003,sertanejo,0.68,0.561,9,-9.807,1,0.0292,0.358,0.0,0.311,0.86,121.795,198867,3
+Durval e Davi,Vá pro inferno,0tWdP8FF2rp1yRMCS4aa9W,7,2001,sertanejo,0.515,0.716,7,-5.192,1,0.0771,0.357,0.0,0.118,0.643,174.894,189347,3
+Cristiano Neves,Cicatrizes do Amor,0EOqLkeq8YbbOXZLkuKhAZ,10,2023,sertanejo,0.726,0.738,5,-1.969,1,0.0321,0.203,0.0,0.322,0.947,124.714,68732,4
+Gabi Martins,Story Mentiroso,4GYbzAzZszHhP0tmB7Kwil,31,2021,sertanejo,0.709,0.873,1,-2.423,0,0.032,0.501,0.0,0.15,0.837,145.972,186678,4
+Zé Neto & Cristiano,Ainda Te Amo - Ao Vivo,6k1OrZGhRo3ImkwaCfoZft,24,2012,sertanejo,0.363,0.658,7,-4.282,1,0.0465,0.37,0.0,0.874,0.54,204.7,200013,3
+Bruno & Marrone,Pela Porta da Frente (feat. Jorge & Mateus) - Ao Vivo,2L5o5jxZ9XjCrQ4AFSdMmS,36,2012,sertanejo,0.619,0.91,0,-3.812,1,0.0664,0.211,0.0,0.929,0.816,132.947,177653,4
+Dois A Um,Vem Aí - Ao Vivo,21DVHfibNdYPOddJpQT0u0,0,2006,sertanejo,0.752,0.78,9,-3.304,1,0.0418,0.394,0.0,0.402,0.74,127.975,209141,4
+Gleydson Rodrigues,Funk do Barretão,1lLdjhs8JwhIQgwBc6Bl10,9,2004,sertanejo,0.833,0.922,6,-4.127,0,0.107,0.253,0.0,0.415,0.908,128.953,246667,4
+Chico Rey & Paraná,Canarinho prisioneiro,0ELkCQKmlH0gkGkrVK3d3w,3,2002,sertanejo,0.66,0.719,7,-7.414,1,0.0415,0.0428,3.36e-05,0.255,0.744,123.826,202507,3
+Matheus & Kauan,Imagina A Sentada – Spotify Singles,2iJGrGll9mGg9pJCezwP85,56,2022,sertanejo,0.601,0.779,0,-4.18,1,0.137,0.339,0.0,0.172,0.834,169.893,184054,4
+Roupa Nova,Amo Em Silêncio (Silence Is Golden),6TZFokHqAulNyY0vLdpYtc,10,2003,sertanejo,0.534,0.444,0,-8.528,1,0.03,0.437,2.21e-06,0.188,0.417,115.673,183187,4
+Eduardo Costa,Enamorado - Acústico,7krkgV2JnGpLlsELMXAISa,50,2013,sertanejo,0.535,0.8,11,-3.593,0,0.0442,0.255,0.0,0.45,0.422,159.991,209507,3
+Tião Carreiro & Pardinho,Migalhas de amor,5zi72sxfxU32YwbguGIutw,3,2000,sertanejo,0.524,0.494,4,-6.816,1,0.144,0.75,0.0,0.949,0.751,177.784,145680,3
+Matogrosso & Mathias,Pele de Maçã - Ao Vivo,2VwATwwmUWyLfoIPD4O9pz,41,2014,sertanejo,0.643,0.726,7,-3.74,1,0.0268,0.33,0.0,0.626,0.533,95.784,210867,4
+Teodoro & Sampaio,Aqui Não Pica-Pau - Ao Vivo,0tmGoC0ZNj5rDfKPO8d2Gm,32,2011,sertanejo,0.711,0.888,10,-4.46,0,0.0695,0.459,0.0,0.695,0.941,113.877,187573,4
+Mazinho Quevedo,Chalana,2Jahoxr1AKf3EqTM8cBjjk,2,2006,sertanejo,0.624,0.386,0,-10.349,1,0.0233,0.61,0.0,0.0981,0.565,95.99,205680,3
+Marco Brasil,Aos Olhos Do Coração,2PsIMJrLVjahe852hW6lK9,4,2009,sertanejo,0.482,0.467,2,-8.428,1,0.423,0.814,0.0,0.585,0.669,178.844,142800,5
+Bruninho & Davi,Banheirinho 2x2,3NtwloYm3MG7z6qYCuooND,18,2021,sertanejo,0.795,0.742,11,-6.371,0,0.0365,0.157,0.0,0.0925,0.854,128.049,130500,4
+Alma Serrana,Pérola,4l2mZkLtZsD8mFWc6XHkux,1,2001,sertanejo,0.766,0.7,7,-5.821,1,0.0295,0.363,0.0,0.106,0.743,123.007,222133,4
+Almir Sater,Maneira Simples,5TWoXV2j5rs6jpECr5HnWe,35,2013,sertanejo,0.625,0.53,7,-9.269,1,0.0288,0.893,0.0,0.28,0.365,125.11,225733,4
+Eli Silva e Zé Goiano,Mineiro de Fibra,59SGyKwlHFHt5WJ4YcP0WG,6,2013,sertanejo,0.849,0.419,3,-12.66,1,0.0364,0.861,8.78e-05,0.0749,0.793,103.348,193800,4
+Silvestre Kuhlmann,Rosto em Solo,2ELj4w6Nq66gA6pstp97Pc,0,2000,sertanejo,0.347,0.45,7,-6.386,1,0.0272,0.705,0.0,0.0999,0.125,61.953,212333,4
+Os 4 Gaudérios,Quando Ela Chega,5UBSIlgzLQG8yWJARCnDGu,11,2008,sertanejo,0.782,0.925,5,-5.519,1,0.0977,0.398,0.0,0.0674,0.966,179.269,169280,4
+Fred & Fabrício,Proposta Alcoolizada,3WOB4xympodmTyCZ93T2kF,34,2021,sertanejo,0.464,0.661,6,-5.413,1,0.0388,0.819,1.71e-05,0.352,0.452,102.091,190298,4
+Peão do Valle & Valentin,A Musica da Viola - Ao Vivo,6dZIt3e7lunCpgG6wM1orR,1,2023,sertanejo,0.513,0.762,7,-3.867,1,0.0327,0.78,0.0,0.909,0.748,106.398,230600,3
+Gusttavo Lima,DNA - Ao Vivo,5usCAvnr0cgzr5ywdqmp67,40,2018,sertanejo,0.675,0.553,9,-4.014,1,0.0345,0.427,0.0,0.705,0.428,148.939,202796,4
+Zezé Di Camargo & Luciano,Não dá Pra Esperar,6wGx9GyPJygC7ZRLWsr2Ex,16,2004,sertanejo,0.64,0.668,10,-8.827,1,0.0326,0.114,0.0,0.22,0.451,79.854,190240,4
+Diego & Arnaldo,A Mulher Mais Bonita do Mundo - Ao Vivo,3aWdWUGqn0eQlJiaBWS43s,34,2021,sertanejo,0.523,0.891,6,-4.229,1,0.166,0.261,0.0,0.331,0.539,191.996,205333,4
+Roupa Nova,Amar é...,6QdR5bAMUayYIRjf3x9CMI,42,2013,sertanejo,0.418,0.579,7,-8.883,0,0.0298,0.243,0.0,0.177,0.632,203.458,270480,4
+Ícaro e Gilmar,Aceito Sua Decisão / Liguei Pra Te Dizer Que Te Amo (Ao Vivo),68fnRtLCHumvyBlpCSWXHl,46,2020,sertanejo,0.517,0.474,2,-5.043,1,0.0408,0.783,0.0,0.174,0.693,99.419,211388,3
+Os Monarcas,Bailar Milonga Faz Bem,1fN2BFpvImsAGQm3swxLFq,9,2017,sertanejo,0.633,0.907,2,-6.256,1,0.099,0.386,0.0,0.377,0.764,89.824,161693,4
+Cascatinha & Inhana,Coração Ferido,1aKDmSU24a7LOLAZOeI0lG,8,2001,sertanejo,0.789,0.662,2,-5.791,1,0.0357,0.71,6.66e-06,0.0522,0.963,132.865,133882,3
+Rick Sollo,Queima Queima,69INStZTjl9L0POFautIQ9,8,2011,sertanejo,0.74,0.833,9,-4.553,1,0.0562,0.411,0.0,0.138,0.816,103.962,174667,4
+Rionegro & Solimões,Divergência - Ao Vivo,1xj1z7O2efQBXz2rlPHUBR,37,2022,sertanejo,0.649,0.82,0,-4.295,1,0.0371,0.441,0.0,0.294,0.722,121.558,177461,4
+Victor & Leo,Nós Dois Na Madrugada,6ufnrlRDvcCQuvtbOzFDQv,23,2018,sertanejo,0.66,0.448,7,-9.556,1,0.0258,0.415,1.04e-05,0.664,0.446,96.058,196573,4
+Zezé Di Camargo & Luciano,Fim de Festa,0zKcLXW95JHdD0wkn1HGd6,10,2004,sertanejo,0.645,0.907,6,-3.8,1,0.0279,0.075,2.51e-06,0.284,0.832,134.298,250760,4
+Teodoro & Sampaio,Sou da turma do chapéu,323q1vAOv9JI22Ke415cdZ,7,2001,sertanejo,0.722,0.803,7,-4.11,1,0.0325,0.446,0.0,0.144,0.967,118.08,222013,3
+Léo & Raphael,Rédeas do Possante - Acústico,6q3v8McD7M6gmXUmmXIH78,40,2020,sertanejo,0.638,0.297,5,-10.907,1,0.0325,0.888,0.0,0.133,0.585,118.146,200583,4
+Sorriso Maroto,Ainda Gosto de Você - Me Espera - Coração Deserto,3AnT2b3Jb7mCfxvakHHVdc,43,2005,sertanejo,0.375,0.756,7,-8.026,1,0.0439,0.67,0.0,0.969,0.659,146.513,331867,4
+Matheus & Kauan,Trégua - Ao Vivo,5sKKcIc3fitcF3S9XtxOK1,70,2023,sertanejo,0.616,0.824,11,-3.324,1,0.0946,0.207,0.0,0.701,0.54,119.731,177423,4
+Solevante E Soleny,Casinha Triste,223CuhV9lHS9npFOHHp5Ej,8,2012,sertanejo,0.865,0.398,8,-6.355,1,0.036,0.783,0.0,0.0541,0.934,105.341,171800,4
+Leo & Junior,Pout Pourri: Sábado / Frente A Frente,3chBOuBynoHkL1EKFRQvWa,46,2020,sertanejo,0.538,0.727,2,-4.417,0,0.0355,0.45,0.0,0.118,0.461,144.702,271871,4
+Cleiton E Camargo,Não Posso Ouvir Essa Música,3gjvuSHNfBac3CaJM2wWbv,35,2000,sertanejo,0.494,0.654,7,-4.989,1,0.0281,0.0437,0.0,0.521,0.6,107.9,240733,4
+Durval e Davi,Parece Que Foi Ontem,4t6NwvZx7TdTLjDuUil7TO,0,2008,sertanejo,0.434,0.4,4,-10.672,1,0.0338,0.445,0.0,0.131,0.131,69.475,318947,4
+Gaúcho Da Fronteira,Quando Danço um Vanerão,1EvUD4BndrGKbn4NuWE3zH,1,2006,sertanejo,0.792,0.844,8,-5.82,1,0.0947,0.341,0.0,0.222,0.954,115.031,184733,4
+Lindomar Castilho,Eu Canto O Que O Povo Quer,3l5vtTOcmUnHjY6OcF17VZ,10,2000,sertanejo,0.658,0.785,4,-4.648,1,0.0364,0.156,0.0,0.0806,0.98,98.957,153467,4
+Daniel,Bota pra moer,1W4zcXnv5strUMtvG67H5T,9,2002,sertanejo,0.788,0.906,7,-4.192,1,0.0462,0.334,0.0,0.308,0.966,139.923,175200,4
+Zico & Zeca,Saudade,7KoNDoUNq79sBPHKNm3rzx,5,2001,sertanejo,0.705,0.285,0,-9.358,1,0.0502,0.815,0.0,0.097,0.459,173.957,182141,4
+Hugo & Guilherme,Alguém Me Chama Pra Beber - Ao Vivo,0PKgrNn3ugcQgtNeJOFy2x,60,2022,sertanejo,0.634,0.908,4,-3.953,1,0.0608,0.146,0.0,0.894,0.699,151.046,157271,4
+Dois A Um,Ex-Amor - Ao Vivo,7JhcsDWcXrQG6BUxABsX7o,0,2006,sertanejo,0.647,0.674,9,-5.702,1,0.0288,0.5,0.0,0.399,0.614,115.903,162707,4
+Leonardo,Eu Juro (I Swear) - Ao Vivo,75lT4S1vUHaqoqdCENCMeA,5,2014,sertanejo,0.476,0.54,4,-11.608,1,0.0517,0.769,0.00564,0.946,0.313,87.868,352347,4
+Juliano Cezar,Soltei as Suas Rédeas - Ao Vivo,28cRdY8XCH9CEQpPVrH3BE,2,2002,sertanejo,0.596,0.717,5,-4.167,1,0.0365,0.765,0.0,0.345,0.541,100.041,196947,4
+Gino & Geno,Amor de um Lado Só,2PnISFJJSJbq4s5CjqFKg6,9,2013,sertanejo,0.66,0.66,10,-5.237,1,0.0328,0.378,0.0,0.0644,0.894,126.46,153040,3
+Zezé Di Camargo & Luciano,Noite de Tortura,0xbdA2SPUUrhbrVydCJT8E,21,2010,sertanejo,0.437,0.575,7,-4.59,1,0.0293,0.516,0.0,0.461,0.76,103.584,175907,4
+Jorge & Mateus,Um Dia Eu Te Levo Comigo,2QggnWfD3RoavuaD5QlUJa,45,2013,sertanejo,0.589,0.813,7,-5.761,1,0.0373,0.0717,0.0,0.814,0.601,134.002,203480,4
+Pedro & Thiago,Fala Fala,5rcIbFZ9wuCfkdeJcOLLjb,2,2005,sertanejo,0.777,0.882,5,-4.606,1,0.0372,0.174,1.46e-06,0.322,0.96,135.982,175400,4
+Teodoro & Sampaio,Já fui bom nisso,5E0Sg8zSDq0BocziqpsS9p,8,2001,sertanejo,0.775,0.876,7,-4.155,1,0.0321,0.121,0.0,0.276,0.971,132.534,185387,4
+Marlon & Maicon,Profecia de amor e paixão,5F4IoBdgnqPsg2zeB2G7jC,0,2004,sertanejo,0.572,0.571,0,-7.793,1,0.0293,0.1,0.0,0.0942,0.51,147.987,178573,4
+Trio Parada Dura,Dez Minutos,7s8EASmWGTHJ4CUHcKMwRg,4,2012,sertanejo,0.382,0.578,0,-4.44,1,0.0471,0.683,0.0,0.13,0.711,199.958,174027,4
+Fred & Victor,"Melhor Não, Mas Bora - Ao Vivo",0Ij7JXA3YN28qypGSL8Frq,40,2023,sertanejo,0.536,0.617,11,-3.517,0,0.0423,0.708,0.0,0.506,0.671,157.738,162797,4
+Victor & Leo,Estrela Cadente - Ao Vivo,3KgX2Lm9uzQmQKSorHItSU,34,2009,sertanejo,0.579,0.924,0,-5.366,1,0.0515,0.0338,0.000102,0.797,0.531,97.978,177587,4
+Eduardo Costa,Abandonado,0S9ellcSnjVOmxYUG6brCg,29,2007,sertanejo,0.571,0.336,4,-7.474,1,0.0351,0.713,0.0,0.198,0.324,144.215,256013,4
+Goiano & Paranaense,O Vaqueiro,1pRhWyw5FnVwxz2BvtvM6s,42,2009,sertanejo,0.702,0.69,10,-5.98,1,0.0373,0.447,0.0,0.131,0.764,93.619,228250,4
+Jads & Jadson,Contagiro No Vermelho,0bsQmu56x20Ciu4soWmwML,3,2004,sertanejo,0.724,0.788,7,-7.665,1,0.133,0.325,8.15e-06,0.188,0.877,99.796,184819,4
+André e Felipe,É Milagre (feat. Damares) - Ao Vivo,38dPxKE0tOrddwKiMy7I48,31,2015,sertanejo,0.439,0.88,7,-4.598,1,0.0924,0.466,0.0,0.924,0.437,144.4,363733,4
+Rick & Renner,O cara que viveu contigo,5gR315Qd6NQ9Ok1mDffyNQ,8,2010,sertanejo,0.692,0.726,7,-3.897,1,0.0308,0.437,0.0,0.242,0.749,121.089,210280,4
+Jads & Jadson,Abstinência,6lLJYyceeAheaKe7QN8kSi,40,2018,sertanejo,0.683,0.729,2,-4.935,1,0.0592,0.65,0.0,0.354,0.633,129.985,190895,4
+Mococa E Moraci,Culpado Foram Seus Olhos,5LuIL63ITob7qPzpSQaaGX,13,2002,sertanejo,0.761,0.678,10,-5.453,1,0.0296,0.808,3.05e-06,0.356,0.956,114.575,152483,4
+Fred & Victor,Mistura Esse Choro - Ao Vivo,3ViQQ36ARh3q2uapTRyD49,25,2023,sertanejo,0.498,0.585,7,-4.984,1,0.0405,0.514,0.0,0.534,0.773,79.3,138947,4
+Bruno & Marrone,Essa droga de carinho,4KRfKHUXntJFbgO6DYeujr,13,2010,sertanejo,0.728,0.834,2,-3.964,1,0.114,0.368,0.000176,0.0858,0.834,105.041,220587,4
+Edy Britto & Samuel,Pra Sempre,3b1iaei2Qsk3aaEUsTrhRR,44,2002,sertanejo,0.695,0.516,8,-9.952,1,0.024,0.359,7.48e-05,0.166,0.719,99.962,186227,4
+Trio Parada Dura,Caipirinha - Ao Vivo,574tQlqPnYqUqDLnNAJyyC,37,2019,sertanejo,0.755,0.782,7,-4.974,1,0.067,0.486,0.0,0.697,0.902,135.978,164272,4
+Marlon & Maicon,Sempre amei você,4uHjDPetr6ZuNAFYdMlcgp,4,2003,sertanejo,0.652,0.584,9,-7.003,1,0.0369,0.441,0.0,0.15,0.356,72.52,222427,4
+Rionegro & Solimões,Tô Mal,7dn12jKOdFYWPUsLJVoeq6,54,2005,sertanejo,0.749,0.523,4,-7.779,1,0.0268,0.475,0.0,0.127,0.786,93.014,201600,4
+Chico Amado & Xodó,Feito Espora,1tCZyqvRlp2px131tZJrcS,0,2012,sertanejo,0.692,0.67,2,-7.63,1,0.0406,0.155,0.0,0.255,0.961,166.184,203333,4
+Sorriso Maroto,Vou Embora,6tiTAm9JyGz5wNyxIAeKlS,11,2002,sertanejo,0.703,0.836,10,-5.909,1,0.114,0.546,0.0,0.157,0.938,123.516,203920,4
+Althaír & Alexandre,Um Novo Cara,2NQAlKUh0mjvBhZ9aijXyq,20,2010,sertanejo,0.636,0.517,6,-7.206,1,0.0288,0.626,0.0,0.226,0.55,94.003,223400,4
+Léo Canhoto & Robertinho,"Eu, Você E A Camisola",32l3SqAww9oJN4YsqQoJLV,2,2000,sertanejo,0.446,0.362,3,-8.498,1,0.0421,0.683,0.0,0.0909,0.853,109.456,141933,3
+Gilberto e Gilmar,Isso Não É Amor,0r54l62R9P1WFMc7PWaTPO,23,2015,sertanejo,0.658,0.932,9,-3.678,1,0.05,0.205,0.0,0.0732,0.766,102.073,205032,4
+Victor & Leo,Tanta Solid¦o - Ao Vivo,1HVFgEWbHE9rbLuMtHsMyP,31,2009,sertanejo,0.486,0.943,7,-6.484,1,0.072,0.154,3.94e-05,0.981,0.517,145.094,179280,4
+George Henrique & Rodrigo,Vida pelo avesso / Liguei para dizer que te amo,4IuqrG2Tt73vPu3K1RIf1t,25,2023,sertanejo,0.523,0.675,4,-4.291,1,0.0307,0.25,0.0,0.626,0.763,108.122,192017,4
+Felipe Araújo,Respeita Minha História - Ao Vivo,0u3JFdliYTUNqFA8chcaZm,47,2022,sertanejo,0.503,0.892,2,-5.88,1,0.317,0.548,0.0,0.955,0.546,171.87,212988,4
+Liu & Léu,Garça Branca,1QePKV3p5eoSGdEQjeYO27,1,2004,sertanejo,0.754,0.411,0,-7.233,1,0.0298,0.454,2.04e-06,0.187,0.681,131.949,209440,4
+Althaír & Alexandre,Libera Ai,6UoA6Fpodxh0UN3qyMA0VI,2,2011,sertanejo,0.762,0.865,10,-5.449,1,0.041,0.139,0.0,0.556,0.941,101.952,148733,4
+Lucas Reis & Thácio,Vivendo Recaída - Ao Vivo Em Ilha Solteira / 2019 / Vol.2,1KFklwggdoOhtU3UJaPSDT,33,2019,sertanejo,0.786,0.745,10,-3.698,1,0.0371,0.266,0.0,0.266,0.723,129.93,183231,4
+Clayton & Romário,Na Minha Terra - Ao Vivo,2JDwSEjQpEKwaRHpmeDi4e,45,2023,sertanejo,0.733,0.838,10,-4.196,1,0.0661,0.351,0.0,0.415,0.625,129.838,165125,4
+Gino & Geno,Vou Beber Veneno - Ao Vivo,5hgkBBZ3JQS9lX5BYYbRL3,43,2004,sertanejo,0.739,0.907,4,-3.839,1,0.0303,0.361,0.0,0.703,0.968,113.051,229907,4
+Maiara & Maraisa,Será - Ao Vivo,4FNfgwWmorYTWybbeYCjrJ,56,2023,sertanejo,0.554,0.874,5,-2.788,1,0.0771,0.538,0.0,0.927,0.634,148.106,168731,4
+Trio Chapahall's,Lambança - Ao Vivo,1a8OlpPbjSidoTQ5EDKWOC,10,2000,sertanejo,0.75,0.945,11,-5.743,1,0.0938,0.569,0.000829,0.336,0.95,91.518,168573,4
+Tonico e Tinoco,Pé Da Letra,2G8ZjdoVumIsfzoH7KUeK9,0,2004,sertanejo,0.693,0.319,9,-9.42,1,0.0557,0.775,0.0,0.104,0.466,107.502,166333,3
+Rionegro & Solimões,Vida Sem Qualidade - Ao Vivo Em São Paulo / 2011,3B2dT7Jj0AJBJ3wxkrqzXu,12,2011,sertanejo,0.616,0.78,5,-5.313,1,0.0287,0.431,0.0,0.663,0.874,142.095,196467,4
+João Bosco & Vinicius,Coração só vê você,41IAxFWxEzUNzXD7jHNWEB,28,2008,sertanejo,0.403,0.749,5,-4.036,1,0.044,0.249,0.0,0.627,0.465,172.029,213107,4
+Eli Silva e Zé Goiano,Mineiro do Monte Belo,6WEbXAOFBVQoKHUK2jBAzj,15,2001,sertanejo,0.75,0.482,2,-9.777,1,0.0419,0.697,0.0,0.0638,0.897,106.087,165280,4
+Juliano Cezar,A Turma da Latinha,6Pyuo33hb1AdypWkx9nSpQ,2,2006,sertanejo,0.815,0.736,7,-4.561,1,0.246,0.198,0.0,0.328,0.709,112.003,179467,4
+Daniel,Bem simplesinho,6KWk7VPMPMCDQVDPAgCNAA,26,2004,sertanejo,0.755,0.691,1,-3.909,1,0.0326,0.36,0.0,0.119,0.878,126.031,251240,3
+Fernando & Sorocaba,Aqui a Tristeza Pula de Alegria,7vYKXes1aQXBjqfY2LZKjV,21,2008,sertanejo,0.77,0.843,2,-8.618,1,0.0485,0.369,0.0,0.682,0.822,103.988,193720,4
+Loubet,Só o Bagaço,5MhXbTW4Jey2v0y7Nb80DF,33,2018,sertanejo,0.694,0.911,2,-4.71,1,0.0479,0.567,0.0,0.906,0.855,129.966,164627,4
+Lu & Robertinho,Don't Wanna Know / Fica (Ao Vivo),0diZhYJwWb5Bzs1ZgAf16y,8,2018,sertanejo,0.405,0.82,4,-3.817,0,0.0814,0.509,0.0,0.594,0.549,133.163,172750,5
+Thiago Castelli,Coração Domado,1Dg6F8rFuPI6EY3PPtqNnn,55,2022,sertanejo,0.628,0.545,8,-7.422,0,0.0297,0.652,0.0,0.175,0.434,120.11,172500,4
+João Pedro e Cristiano,"Pé Direito, Pé Esquerdo",5jarWUVE3loa8PGcm4NzH5,8,2004,sertanejo,0.75,0.792,11,-6.185,0,0.0405,0.317,0.0,0.37,0.628,99.004,267655,4
+Roupa Nova,Seguindo No Trem Azul,2Q46g1owigfnrzQZt110aE,45,2013,sertanejo,0.425,0.533,0,-10.65,1,0.0237,0.243,0.0,0.0875,0.438,84.138,221920,4
+Tchê Garotos,Meu Jeito Safado (Ao Vivo),4ayYzdgEXhiMsF4IxxAIY9,28,2014,sertanejo,0.807,0.915,1,-4.471,1,0.101,0.411,0.0,0.326,0.709,90.949,198773,4
+Breno & Caio Cesar,Bem-Vindo Amor - Ao Vivo,6I8xFjzn3ZpoTtqN4Og8KA,11,2017,sertanejo,0.398,0.91,1,-3.96,0,0.185,0.451,0.0,0.462,0.748,88.722,158230,4
+Christian & Cristiano,Moemo Moemo,2Q7XN74o2mn6RwLMhvLtsq,3,2010,sertanejo,0.775,0.803,2,-4.937,1,0.0597,0.41,0.0,0.456,0.841,95.03,196000,4
+Divino & Donizete,A Viola e a Paixão,7HUgHoGgP9RxSlpqTmeDpu,3,2014,sertanejo,0.683,0.605,2,-4.753,1,0.0282,0.349,0.0,0.379,0.755,112.821,160947,4
+Cristiano Araújo,É Com Ela Que Eu Estou,4lfWHeUgvKywoytFoKS1UA,32,2014,sertanejo,0.561,0.813,0,-6.169,1,0.0329,0.671,0.0,0.879,0.44,113.054,226792,4
+Maria Cecília & Rodolfo,Eu Quero Te Levar - Ao Vivo,5lZUe7DgzvXTLpqDrqHuwY,0,2010,sertanejo,0.696,0.899,11,-2.921,0,0.0585,0.667,0.0,0.726,0.743,136.01,170320,4
+Rick Sollo,Me Deixa Outra Hora,0D5ewiWI0BhWY4Ii3YACoO,6,2011,sertanejo,0.63,0.558,7,-6.259,1,0.042,0.369,0.0,0.12,0.5,144.944,219640,4
+Turma do Pagode,Bebida com Carência (Ao Vivo),0xTEw9lich6mVMTQztXh1m,39,2021,sertanejo,0.583,0.482,2,-8.115,1,0.0351,0.657,0.0,0.947,0.769,159.819,182465,4
+Yasmin Santos,Saudade em Gotas (feat. Wesley Safadão) - Ao Vivo,4pnlRYoaaGu24SuC3et5Pv,44,2019,sertanejo,0.693,0.828,11,-4.374,1,0.076,0.162,0.0,0.686,0.81,124.841,190950,4
+Hugo & Guilherme,De Tanto Que Eu Te Amei - Ao Vivo,1mNqfp2gmhNM5h3nvHWByP,39,2018,sertanejo,0.506,0.562,4,-4.35,1,0.0425,0.613,0.0,0.516,0.534,127.798,166922,4
+Michel Teló,Pot-Pourri: Estrada da Vida / Sonhei Com Você - Ao Vivo,34n39QCyI5Ia6foBbmo5pc,28,2017,sertanejo,0.367,0.672,2,-4.763,1,0.0406,0.171,0.0,0.9,0.468,80.734,281987,3
+Rayssa e Ravel,O Amor,6J9eYNZTsN1o5EkR8gbg52,7,2005,sertanejo,0.47,0.765,0,-4.864,1,0.055,0.299,0.0,0.0919,0.529,155.027,173360,4
+Solevante E Soleny,O Sol e a Lua,1f3v7QlCJvJqtST4ChO799,3,2012,sertanejo,0.388,0.444,10,-4.116,1,0.0296,0.795,0.0,0.0704,0.576,180.211,197987,3
+Zé Ricardo & Thiago,Tô Ruim,0KQ9f9sfWVULcxw9lydH3w,23,2015,sertanejo,0.713,0.967,7,-3.416,1,0.0442,0.164,0.000273,0.583,0.892,104.119,172973,4
+Jads & Jadson,Lembranças de um Amor,3e3NwPBoEAUP05BMcWRxCY,10,2015,sertanejo,0.7,0.527,2,-8.897,1,0.0389,0.569,0.0,0.0967,0.265,108.006,208091,4
+Jacó & Jacozinho,A Moda do Genro - Acústico,1Tf22wdJuZWtIvpDjjD7SW,9,2011,sertanejo,0.71,0.47,4,-8.288,1,0.0883,0.611,0.0,0.373,0.475,115.603,163184,4
+Lauana Prado,Fruto Especial,18JWsnJzyzs018RO6bakwY,39,2020,sertanejo,0.713,0.671,5,-5.439,1,0.0252,0.1,0.0,0.316,0.449,100.029,185672,4
+Fred & Pedrito,Mocinhas da cidade,1Jb8fb22Nd7S2erRzbRsG1,19,2001,sertanejo,0.712,0.898,9,-4.782,1,0.037,0.277,0.0,0.336,0.937,100.215,172213,4
+Roberta Miranda,Luar do sertão,5DcvkdMgvocgVDJRD3MCWA,0,2002,sertanejo,0.396,0.459,5,-7.024,1,0.0301,0.489,0.0,0.418,0.466,74.676,274333,4
+Fred & Pedrito,Aula de prazer,0LN89Stpwj4AejYYKKvYSN,0,2001,sertanejo,0.549,0.638,7,-8.154,1,0.0291,0.469,0.0,0.118,0.816,81.634,223587,4
+Trio Alto Astral,Mata de Saudade - Ao Vivo,53IaHDj976acr8o164heyv,6,2008,sertanejo,0.593,0.893,1,-4.845,0,0.0536,0.445,0.0,0.297,0.907,159.955,188267,4
+Pedro Bento & Zé Da Estrada,Vídeo Tape Da Lembrança,5PrSMBKoUFNkuvgMF5Nt3U,0,2007,sertanejo,0.441,0.465,4,-6.148,1,0.0325,0.897,0.0,0.352,0.544,172.685,165600,4
+Cristiano Neves,É Tarde Demais,0sZYDGxICEadVILNTy6Nqg,5,2014,sertanejo,0.65,0.908,1,-3.383,0,0.0326,0.0315,0.0,0.301,0.888,135.01,212867,4
+Manutti,Arredio,0jHUpAK73uf4QqYerZucF6,26,2015,sertanejo,0.461,0.735,7,-4.901,1,0.27,0.561,0.0,0.481,0.662,179.997,156781,4
+Zé do Rancho & Zé do Pinho,Meu Sítio Meu Paraíso,3pkJd0sXbWKE27F6YOJCdt,5,2014,sertanejo,0.538,0.577,4,-6.286,1,0.103,0.789,0.0,0.181,0.807,175.011,194107,4
+Maiara & Maraisa,Haja Chopp,3gUGMHHrvSbtwIjNmJAhm8,40,2021,sertanejo,0.752,0.809,7,-3.079,1,0.0565,0.467,0.0,0.569,0.744,112.045,168000,4
+Murilo Huff,Dois Enganados (Ao Vivo),1cF1ye6w2c1gTOKEtwaaS7,32,2021,sertanejo,0.443,0.831,9,-3.115,0,0.0568,0.124,0.0,0.768,0.35,106.952,223776,4
+Nando Moreno,Choro e Bebo (feat. Rionegro & Solimões),2CYft7RchlVjsWCyLxa209,22,2018,sertanejo,0.658,0.699,5,-4.27,1,0.025,0.131,0.0,0.318,0.581,109.993,233082,4
+Clayton & Romário,Questão De Necessidade - Ao Vivo,2CLFPTF2D3Nu3XIec2VBof,41,2022,sertanejo,0.523,0.888,9,-2.811,1,0.109,0.525,0.0,0.436,0.783,88.137,159291,4
+Fernando & Sorocaba,Isso é Churrasco - Ao Vivo,5XhvRm5kH4Bp6zam8mdi2P,29,2019,sertanejo,0.7,0.951,5,-1.432,1,0.0391,0.106,0.0,0.484,0.773,130.061,202496,4
+João Neto & Frederico,Vou Tomar um Pingão - Ao Vivo,1dcuhNwLTS5bCGH3Qpn3SZ,32,2009,sertanejo,0.63,0.925,7,-2.169,1,0.139,0.612,0.0,0.715,0.849,113.002,196333,4
+João Pedro e Cristiano,Medida Exata - Acústico,488nMitNKuI7xlEr3Yc3RK,14,2020,sertanejo,0.673,0.685,7,-4.548,1,0.0527,0.834,0.0,0.102,0.785,151.808,187863,4
+Garotos de Ouro,Xote do Caminhoneiro,7wquRXjw629sF9MQA7ebQo,7,2017,sertanejo,0.635,0.853,2,-4.883,1,0.138,0.283,0.0,0.206,0.897,152.642,182093,4
+Zé Neto & Cristiano,Esquece o Mundo Lá Fora - Ao Vivo,267GceqVaFxQpcw6JSzRIa,43,2018,sertanejo,0.55,0.922,9,-3.216,1,0.0596,0.105,3.99e-06,0.917,0.355,124.937,257325,4
+Teodoro & Sampaio,Pega pega,74PJWkGaCy5C9jOrk17x1r,5,2003,sertanejo,0.687,0.931,11,-3.994,1,0.0399,0.25,0.0,0.274,0.851,99.975,154960,4
+Antony & Gabriel,Raparigueiro da Roça - Ao Vivo,60KrTXrR8te8z7hUNtUoZa,46,2019,sertanejo,0.728,0.9,9,-2.497,1,0.0815,0.154,0.0,0.391,0.928,94.99,169445,4
+Trio Parada Dura,Bendito Amor,4DPRXgwrauT0S7kJ0SolJa,2,2013,sertanejo,0.377,0.61,0,-7.114,1,0.0375,0.75,0.0,0.473,0.448,174.987,219986,4
+Loubet,Barraco Vira Mansão,79TkTga9GOs6VUkXqK6vSp,45,2017,sertanejo,0.858,0.605,7,-6.813,1,0.064,0.765,1.42e-05,0.124,0.82,125.963,176975,4
+BeatWill,Ô Lá Na Roça,05LX8Egqfw3qRazi9B0D0c,55,2022,sertanejo,0.773,0.799,4,-4.292,1,0.175,0.191,0.0,0.214,0.568,155.125,158074,4
+Gino & Geno,Ela Chorou De Amor,48BFLfjB1rIXL6X5NkILZq,11,2006,sertanejo,0.672,0.817,2,-5.843,1,0.0298,0.481,0.0,0.907,0.961,109.11,215533,4
+Tonico e Tinoco,Chora Morena,70dcXmPgUpJK4YCIMA5e9A,0,2005,sertanejo,0.625,0.244,8,-11.655,1,0.0443,0.942,0.0,0.146,0.686,114.239,129097,3
+Leandro & Leonardo,É por você que canto - The Sound of Silence,1iQZM09StZP8lSAh1Uxf5A,32,2015,sertanejo,0.634,0.315,4,-11.538,0,0.0266,0.554,1.33e-06,0.114,0.317,93.929,232600,4
+Tonico e Tinoco,Chico mineiro,4hP242udctQRn3Jz1y4GqZ,0,2002,sertanejo,0.587,0.322,7,-10.54,1,0.032,0.865,0.0,0.0975,0.375,93.889,194533,4
+Daniel,Só O Amor,3iwLkQXaPZsoVxdB16Jw85,26,2010,sertanejo,0.368,0.666,0,-5.429,1,0.0341,0.598,0.0,0.931,0.341,98.172,250280,4
+Gerson Rufino,O Valor Do Homem - Playback,2jAJghpdjshTcx72RVVjjh,5,2010,sertanejo,0.747,0.529,9,-11.329,1,0.0378,0.126,0.948,0.281,0.539,105.03,227480,4
+Jayne,Por Amor Te Deixo Ir,4LQBRuJuS08CLRtwUfbweY,17,2004,sertanejo,0.634,0.626,9,-5.829,1,0.044,0.242,0.0,0.111,0.641,114.064,193533,4
+Chitãozinho & Xororó,Obras da Poeta,3B132kDDu9sjoioEXibJOo,26,2007,sertanejo,0.536,0.439,9,-9.05,1,0.0265,0.307,0.0,0.31,0.515,85.992,234773,4
+Matheus & Kauan,Caminhão De Amor - Ao Vivo,2TJXks21BnR9sXq3qtsdNJ,38,2018,sertanejo,0.484,0.795,9,-4.201,1,0.208,0.294,0.0,0.435,0.513,186.043,171999,4
+Kleo Dibah,Piloto Automático - Ao Vivo,3C9RnVJesOZnFAL9ZJWNCG,9,2018,sertanejo,0.748,0.704,5,-5.528,1,0.0798,0.258,0.0,0.218,0.775,138.03,181690,4
+Solevante E Soleny,Não Deixo de Te Amar,26EDWWvnWJk18RW6bkMyhH,8,2012,sertanejo,0.488,0.315,5,-8.302,0,0.06,0.722,0.0,0.11,0.764,206.226,155947,3
+Teodoro & Sampaio,Porteiro,7dSkwCdJAjB7aKhAyjytin,9,2015,sertanejo,0.748,0.671,3,-4.533,1,0.0306,0.484,0.0,0.11,0.966,127.058,182596,4
+Só Pra Contrariar,Nosso Sonho Não é Ilusão,7CDISHQGGUd9wWOkopFuEM,25,2005,sertanejo,0.438,0.541,9,-10.622,1,0.0325,0.428,0.0,0.107,0.398,110.469,233373,4
+Mococa & Paraíso,Rimas de Rodeio,2EXT8FuS0fZhFyAdvK5tnW,11,2000,sertanejo,0.805,0.943,6,-2.076,0,0.0586,0.609,1.34e-05,0.0877,0.635,110.026,179053,4
+Di Paullo & Paulino,Estrelinha - Ao Vivo,2wf5rkl0KdC5v2QhOmTCMa,58,2018,sertanejo,0.621,0.467,11,-5.467,1,0.0294,0.76,0.0,0.502,0.373,103.015,206983,3
+Gusttavo Lima,Carreira Solo - Ao Vivo,1MmS7UIy3J1BTxfGCRvVqN,51,2019,sertanejo,0.805,0.932,2,-1.151,1,0.0375,0.41,0.0,0.873,0.916,126.931,215767,4
+Juliano Cezar,Não Vá Pra Califórnia - Ao Vivo,76lUyMVxC703GbTFN0sbfS,9,2008,sertanejo,0.341,0.81,5,-3.83,1,0.0559,0.423,0.0,0.921,0.575,175.557,218773,4
+Peão do Valle & Valentin,Jesus e o Fazendeiro - Ao Vivo,0l32EpzSggmP5a5z7qLAms,0,2023,sertanejo,0.392,0.768,9,-4.438,1,0.145,0.58,0.0,0.415,0.673,89.914,235880,4
+João Bosco & Vinicius,Dedo de Deus,5GApaOoX2suGhfLcoB3xfX,38,2022,sertanejo,0.569,0.73,9,-6.588,1,0.043,0.537,4.63e-05,0.2,0.584,174.093,171844,4
+Jammil E Uma Noites,Tik Tok,2KAuJOoyCwXc8dCI8OFppD,13,2023,sertanejo,0.665,0.917,10,-5.066,0,0.0764,0.177,0.0,0.367,0.823,145.811,140651,4
+Peão Carreiro e Zé Paulo,Funeral do Amor,3Sx1GgDCoUWa7doqtD8cli,9,2001,sertanejo,0.597,0.496,7,-5.678,1,0.026,0.566,1.14e-06,0.055,0.682,101.737,158653,3
+Fernando & Sorocaba,O Palco Caiu / Vida Cigana / Mexe Mexe - Ao Vivo,3BYx8vWZuu06On6bm84FQJ,29,2020,sertanejo,0.573,0.79,8,-4.055,1,0.158,0.417,0.0,0.651,0.833,154.581,201467,4
+Nando Moreno,Descompromissado,5uWUvuaE5475OXmXBEDZ9k,7,2018,sertanejo,0.554,0.947,0,-4.352,1,0.0416,0.15,0.0,0.368,0.908,173.97,149761,4
+Milionário & José Rico,A Garça Pantaneira - Ao Vivo,2jMORGZjDf9MrGGRqVIxLe,36,2021,sertanejo,0.501,0.655,4,-6.285,1,0.0546,0.28,0.0,0.763,0.646,159.914,155800,3
+Calcinha Preta,Louca por Ti - Ao Vivo,59EohlfMvYOO1aVm8F91ZR,42,2003,sertanejo,0.317,0.676,2,-9.865,0,0.0461,0.556,0.0,0.367,0.581,175.993,205839,4
+Daniel,Mundo velho (Participação especial de José Camillo),2Zam4EhKG0doRCK56bFCKT,36,2003,sertanejo,0.712,0.452,8,-5.238,1,0.0583,0.819,0.0,0.129,0.694,87.374,227720,4
+Vieira & Vieirinha,Roubei uma Casada,1muQ0W4yH1Fv7FaJvXMTSQ,19,2002,sertanejo,0.707,0.354,7,-6.156,1,0.0539,0.931,0.0,0.0644,0.59,112.231,194640,5
+Jads & Jadson,Eucalipto (Eu Vou Plantar Uns Eucaliptos) - Ao Vivo,3RwDIfMvWfYJVXOOzLVCxN,38,2013,sertanejo,0.715,0.88,11,-4.799,1,0.0412,0.447,0.0,0.932,0.902,135.074,167840,4
+Maiara & Maraisa,Ligação de Emergência - Ao Vivo,4sFX8HVHURD7jrvflYZaMp,39,2019,sertanejo,0.597,0.857,5,-3.215,0,0.215,0.501,0.0,0.741,0.654,100.158,162731,4
+Cristiano Neves,Ha Se Eu Pudesse,28EecyEiuCpXdqVYpzXG6k,8,2018,sertanejo,0.721,0.778,1,-4.064,1,0.03,0.308,0.0,0.0941,0.839,125.012,179417,4
+Eli Silva e Zé Goiano,Nelore Valente,3xHjoc2vb5FZxSH48OObdm,4,2007,sertanejo,0.601,0.237,8,-10.671,1,0.0558,0.892,0.0,0.0696,0.437,99.812,233667,5
+Daniel,Desatino (Participação especial de Rio Negro & Solimões),2aA4faRu6eFzVBO7cwwZjH,31,2006,sertanejo,0.745,0.488,0,-6.919,1,0.0299,0.538,0.0,0.116,0.587,106.316,248987,4
+Tibagi e Miltinho,Nova Flor,79cmQI97hh4kUTmwgV5MDj,0,2010,sertanejo,0.626,0.191,4,-18.993,1,0.0652,0.785,5.03e-05,0.0847,0.647,97.201,165200,3
+Chitãozinho & Xororó,Mulher Sempre Mulher,4KlK80SeI9BZ1L9PEKdCB7,25,2006,sertanejo,0.765,0.83,8,-5.915,1,0.057,0.114,8.84e-06,0.298,0.905,110.969,168680,4
+Diego & Victor Hugo,Localiza Aí,63h87L9IqHPxTEizRcFuU9,33,2018,sertanejo,0.532,0.778,0,-4.243,1,0.0426,0.433,0.0,0.145,0.563,120.937,155327,4
+Kleo Dibah,Solidão / Rosas Versos e Vinhos - Ao Vivo,0BUhkAyCLdO3WcYoXLANhP,21,2023,sertanejo,0.611,0.477,9,-7.357,1,0.0382,0.77,4.42e-05,0.23,0.66,147.931,225517,4
+Calcinha Preta,Tudo de Novo,59uomAam8ywqBbWulFtt1V,17,2001,sertanejo,0.654,0.76,2,-8.151,1,0.0427,0.0731,1.49e-06,0.0354,0.599,96.019,286798,4
+Amado Batista,Acordei,4iROdu4Q4BEl5ZWWlzHdiP,0,2006,sertanejo,0.707,0.418,4,-10.512,1,0.0273,0.731,1.71e-05,0.135,0.638,92.032,184041,4
+Cezar & Paulinho,Vai de roda,3b3Fpjy7y8ZgJRzjxpfEsD,9,2000,sertanejo,0.763,0.953,6,-4.711,1,0.0308,0.339,0.0,0.0579,0.975,135.079,180427,4
+Eduardo Costa,Só Eu e Você,6gamFmVyGoaWABIUuQ0HoM,24,2020,sertanejo,0.77,0.521,11,-7.433,1,0.0394,0.724,0.0,0.113,0.68,83.063,350738,4
+George Henrique & Rodrigo,De Copo Em Copo - Ao Vivo,6uf6MiMitjd5RMgU8aamcH,52,2017,sertanejo,0.816,0.801,10,-3.338,1,0.0514,0.382,0.0,0.346,0.69,117.93,158865,4
+Pedro Paulo & Alex,Apaixonou é Tchau - Ao Vivo,79fCU61Bq5eNkcsPrtHhIs,26,2023,sertanejo,0.829,0.878,4,-2.809,0,0.0811,0.467,0.0,0.896,0.786,132.988,150100,4
+Grupo Tradição,Cê Agarrô (Ao Vivo),46A1SI912YYQ87HOlUvVn7,10,2000,sertanejo,0.62,0.979,7,-4.625,1,0.0523,0.128,0.0,0.978,0.897,150.973,86425,4
+Tonico e Tinoco,Gaúcho Franco,49dp0ATdfirxaFMzjJ3P3U,0,2005,sertanejo,0.786,0.346,7,-9.791,1,0.0721,0.453,0.0,0.0702,0.898,135.53,128170,4
+João Bosco & Vinicius,Deixaria Tudo (Dejaria Todo) (feat. Leonardo) - Ao Vivo,0wXkwahR6uiRp4l52t1Hps,5,2014,sertanejo,0.525,0.879,10,-5.032,1,0.0407,0.504,5.77e-06,0.93,0.602,154.905,252560,4
+Michel Teló,Eu Te Amo E Open Bar - Ao Vivo,1QAGK5M7AyceXKvGgIz4CW,20,2011,sertanejo,0.728,0.881,9,-4.026,0,0.0497,0.0375,0.000527,0.849,0.773,125.969,202133,4
+Trio Parada Dura,Velho Pai,7Aog3UX4ENgHrmMYJOLLXn,9,2017,sertanejo,0.383,0.459,2,-4.415,1,0.0287,0.655,0.0,0.21,0.652,170.021,208225,4
+João Bosco & Vinicius,Chuva,72s4ckq265uh4SUhox5eO0,5,2014,sertanejo,0.642,0.839,3,-5.466,1,0.0357,0.427,0.0,0.228,0.48,132.123,175227,4
+Victor & Leo,Cavalo Enxuto - Ao Vivo,647lH3Y0YXFnxUW02Sg7wz,23,2009,sertanejo,0.635,0.945,9,-5.406,1,0.11,0.221,5.39e-06,0.996,0.467,113.063,207720,4
+Cezar & Paulinho,Geração de cantador - Músicas incidentais: Casa de mané Pedro / O feijão e a flor,6kXIc6edTJkz9HdmMx9gcs,3,2002,sertanejo,0.371,0.671,0,-4.931,1,0.0292,0.273,0.0,0.842,0.496,94.744,289493,4
+Diego & Arnaldo,Decisão Errada - Ao Vivo,1IGARc5YhGUSomhIk9DRDI,35,2020,sertanejo,0.711,0.913,0,-1.982,1,0.133,0.103,0.0,0.425,0.658,162.205,143233,4
+Latino,Selhinho na Boca,6XlKDjXfGk9VTkA1C0ufV5,27,2008,sertanejo,0.723,0.889,11,-3.956,0,0.053,0.0344,0.0,0.039,0.783,96.986,188733,4
+João de Souza & Bonifacio,Mete o Pé e Vaza,6xsEgCQbbRngiZKTyAxvkQ,41,2017,sertanejo,0.749,0.775,11,-4.689,0,0.155,0.222,0.0,0.177,0.773,163.048,166133,4
+Simone & Simaria,Tá Gostoso Tá? - Ao Vivo,3YbLziwxBUp8CShtzuvh00,52,2022,sertanejo,0.659,0.943,0,-2.778,0,0.0609,0.356,0.0,0.385,0.766,161.992,160251,3
+Luan Santana,ignore - ao vivo,70U7M98hDV4bG9PnpXh0h7,36,2019,sertanejo,0.696,0.786,0,-5.997,0,0.0976,0.313,0.0,0.24,0.587,124.97,188267,4
+Alan e Aladim,Amigos de Bar,0LrtWFo7Nvh5SHmL5aIdDL,11,2021,sertanejo,0.638,0.735,11,-4.499,1,0.0554,0.119,0.0,0.297,0.697,142.994,197172,4
+Marília Mendonça,Supera - Ao Vivo,3GmJxfnUDrIs1iCfKUELFz,67,2019,sertanejo,0.665,0.743,4,-4.434,1,0.0567,0.0604,0.0,0.959,0.658,131.573,147748,4
+Paula Fernandes,Pedaço De Chão,2h8H9k2cjTyeyrDpl34lRY,19,2015,sertanejo,0.5,0.223,7,-12.028,1,0.0318,0.894,0.000185,0.189,0.342,173.554,208573,3
+Dyll & Glenno,Deixa o Bicho Pegar,68XR2bsDSysohuVzL2pJY0,0,2006,sertanejo,0.822,0.805,4,-4.899,1,0.119,0.424,0.0,0.102,0.956,105.864,197893,4
+Althaír & Alexandre,Rosas E Versos,1dGvGSZDUf4NwjRkNMaL8h,25,2003,sertanejo,0.777,0.58,11,-5.368,1,0.0335,0.406,0.0,0.0685,0.673,135.057,203320,4
+Daniel,Caramba,5rO9ZhKKH3lKfeXzQ2odiR,0,2011,sertanejo,0.66,0.576,7,-5.226,0,0.0281,0.673,0.0,0.0987,0.345,108.021,243133,4
+Só Pra Contrariar,Essa Tal Liberdade (feat. Fábio Jr.) - Acústico,3ILo0SKv8QVzFvnD74jNEf,38,2002,sertanejo,0.504,0.692,2,-6.823,1,0.0373,0.301,0.0,0.873,0.446,111.502,260213,4
+Roupa Nova,"Começo, Meio e Fim (Ao Vivo)",2gVciuhTxAZfnrb0FFA9HB,36,2013,sertanejo,0.356,0.407,4,-10.554,1,0.0246,0.524,0.0,0.171,0.262,86.894,287440,4
+Duduca & Dalvan,Maluco Beleza,0tXBW4QDOYZEnvjEXQWeHF,21,2008,sertanejo,0.622,0.762,0,-5.054,1,0.0293,0.223,0.0,0.857,0.58,105.899,254480,4
+Israel & Rodolffo,Bem Apaixonado,1dCaI1ihcs5TG6GPUKFJxG,30,2014,sertanejo,0.662,0.808,2,-4.093,1,0.0282,0.179,0.0,0.144,0.746,134.963,179200,4
+Victor & Leo,Momentos - Ao Vivo,6GX4y6aPkyJmhAhVjFg3dy,40,2015,sertanejo,0.617,0.427,9,-12.731,1,0.0306,0.735,0.000776,0.8,0.507,100.053,207973,4
+Althaír & Alexandre,Dois Passarinhos,3Tm4InNJnKLCpyE7wq2vh7,10,2021,sertanejo,0.429,0.519,5,-7.424,1,0.0528,0.634,0.0,0.342,0.57,184.094,206027,3
+Henrique & Diego,Ressaca de Amor Passa - Ao Vivo,5SdvXQQmQjKecbdK3O2MN1,28,2013,sertanejo,0.665,0.956,0,-2.74,1,0.0735,0.12,0.0,0.491,0.91,136.036,197587,4
+Edson & Hudson,Pagode Em Brasília - Pagode - A Coisa Tá Feia,15W03JTzahsOEaDmVtvYn0,10,2006,sertanejo,0.42,0.723,4,-7.55,1,0.153,0.692,0.0,0.931,0.818,178.531,169280,3
+Trio Parada Dura,Noite Colorida,1frpX7Z3ayJavOjuNGXsnT,10,2012,sertanejo,0.419,0.544,4,-4.302,1,0.0313,0.651,0.0,0.316,0.451,160.449,177213,3
+Matogrosso & Mathias,Conversando Com o Abajur,5lyltDegA44AENqLENhMye,49,2018,sertanejo,0.698,0.666,10,-4.511,1,0.033,0.575,0.0,0.0902,0.714,114.872,183737,4
+João Lucas & Marcelo,Frases de Fogo - Ao Vivo,7xElh9S2PJZnTP9llWPdlf,1,2013,sertanejo,0.567,0.919,0,-2.899,0,0.0448,0.135,0.0,0.0657,0.544,135.958,201053,4
+Brenno Reis & Marco Viola,Louco por Você,5zJmm3Xoab2eME60JqFdqm,7,2015,sertanejo,0.512,0.496,4,-7.836,1,0.123,0.561,0.0,0.111,0.401,145.5,214282,4
+Fernando & Sorocaba,Te Busquei nas Avenidas,4BmF1yc2kwGRcKXEaREwW6,48,2021,sertanejo,0.586,0.761,9,-6.794,1,0.0527,0.488,0.0,0.24,0.508,146.028,229575,4
+George Henrique & Rodrigo,Live,18jL7M24dKm7toiJjG2n7u,30,2019,sertanejo,0.757,0.496,2,-5.202,1,0.0402,0.756,0.0,0.106,0.342,96.019,147747,4
+Emílio & Eduardo,Se Você Voltar,7tayM69MUzumrirOa32I9V,15,2001,sertanejo,0.663,0.537,7,-5.597,1,0.0242,0.69,0.0,0.0862,0.629,105.129,180094,4
+Amado Batista,Minha Rainha,3eTGkWkzzcSp0g4IdTP0Xt,7,2010,sertanejo,0.641,0.61,2,-9.438,1,0.0261,0.128,0.0,0.125,0.796,129.303,187653,4
+Diego & Arnaldo,Chega Chora - Ao Vivo,1SuODOZGvgBtlLeOjds7mi,30,2020,sertanejo,0.854,0.804,7,-2.4,1,0.0437,0.037,0.0,0.312,0.843,124.075,153429,4
+Falcão e Josué,Eu Era Pó (Acústico) - Ao Vivo,3jid1aXjMPFoBh5hC3CWs9,7,2007,sertanejo,0.621,0.727,11,-5.002,1,0.0608,0.105,0.0,0.666,0.85,107.861,169027,4
+Lindomar Castilho,Feiticeira,2ttlMHVsUNT0xywu759nlJ,14,2000,sertanejo,0.728,0.698,0,-5.003,1,0.0287,0.231,0.0,0.224,0.842,113.033,219133,4
+Lucas Lucco,Princesinha,1sJDhDnb9nW6RCFiox0aw3,36,2013,sertanejo,0.628,0.862,11,-2.647,0,0.285,0.242,0.0,0.213,0.563,132.098,199080,4
+Teodoro & Sampaio,Da Àgua Pro Vinho,4IO18Mi52W68OOICLoyxAF,4,2013,sertanejo,0.668,0.425,6,-11.35,1,0.0253,0.0564,0.0,0.317,0.448,97.005,185893,4
+Os 4 Gaudérios,Lá Vem Ela,5VUgS0tPPN4osJlYqAuKYv,6,2005,sertanejo,0.726,0.979,7,-6.35,1,0.0537,0.394,0.0,0.158,0.951,179.439,212867,4
+Rapha & Leo,Quatro e Pouquinho,7x7iKcbgKRlWSjKfRPGFCZ,28,2021,sertanejo,0.716,0.883,7,-7.557,1,0.269,0.341,0.0,0.173,0.723,92.988,172520,4
+Cristiano Neves,Relacionamento Final,4n8EAQv3SzB6v1R0sxQIfu,5,2014,sertanejo,0.685,0.631,4,-7.332,1,0.0258,0.252,0.0,0.118,0.635,116.01,215144,4
+Bruno & Marrone,Vou Desligar - Ao Vivo,7JuSeHTwJeOpzse4PVuWUV,41,2017,sertanejo,0.726,0.667,9,-4.757,1,0.0391,0.206,0.0,0.0893,0.288,82.041,150791,3
+Grupo Tradição,Caixinha de Surpresa,0SzBD3J5mEOGC28Jhfgmqq,4,2009,sertanejo,0.655,0.946,11,-4.113,1,0.0668,0.351,0.0,0.702,0.942,169.433,191190,4
+Hugo & Tiago,É Pra Acabar,5SXPjunhOQl9954vLxTajn,2,2009,sertanejo,0.749,0.845,5,-4.454,1,0.0689,0.681,0.0,0.07,0.953,110.054,194293,4
+Teodoro & Sampaio,Alô mulherada,1jrrhoJEqzVZGL0BndSSBS,21,2003,sertanejo,0.81,0.882,7,-3.811,1,0.0493,0.629,0.0,0.0289,0.926,89.001,185187,4
+Gino & Geno,Dor de cabeça,3AowB9u6R4KLZXdUHUjp37,13,2003,sertanejo,0.812,0.826,4,-5.76,1,0.0264,0.207,3.96e-06,0.259,0.938,105.094,191120,4
+Simone & Simaria,Homem É Tudo Igual - Ao Vivo,0qSISr1KmKmXH4UsQ9t5ip,49,2022,sertanejo,0.556,0.888,5,-2.952,0,0.0916,0.465,0.0,0.893,0.523,167.823,144982,4
+Rionegro & Solimões,Ajeita O Trem Aí,3W3wHa8jBGuTgIm7wS3XlF,39,2005,sertanejo,0.827,0.888,7,-5.14,1,0.0382,0.18,0.0,0.0231,0.986,139.943,189000,4
+César Menotti & Fabiano,Todas As Manhãs - Ao Vivo,0r5DzWgydJ9EacOk9VSCHr,30,2017,sertanejo,0.443,0.724,6,-5.074,1,0.057,0.324,0.0,0.741,0.476,104.004,229493,4
+Brenno Reis & Marco Viola,O Tigrão,6z7pkRrQJX31iaDXYYlhou,8,2004,sertanejo,0.76,0.809,2,-5.55,1,0.055,0.592,0.0,0.183,0.966,131.953,176657,4
+Mariana & Mateus,Que Atire o Primeiro Copo,2uaAAMlJWv4k8ZNZ5RlkCO,9,2018,sertanejo,0.75,0.813,11,-3.825,0,0.0455,0.149,0.0,0.875,0.809,129.938,178207,4
+Henrique & Diego,Água no Fogo,6MmQLkomLXHfLore93Yhd8,50,2022,sertanejo,0.661,0.666,7,-4.8,1,0.0344,0.336,0.0,0.102,0.62,98.041,185865,4
+Juliano Cezar,Bem Aos Olhos da Lua - Ao Vivo,4yA2rBxF64kZ6paSCaXpVb,2,2010,sertanejo,0.378,0.635,2,-5.978,1,0.0317,0.357,1.35e-06,0.695,0.311,116.893,302973,4
+Bruninho & Davi,"Não, Mas Eu Tô Com Vontade - Ao Vivo",1NPZP2VQ3GiHWborKIwK12,20,2017,sertanejo,0.805,0.984,9,-4.641,0,0.0581,0.623,0.0,0.453,0.892,139.998,185387,4
+Nechivile,O Amor e o Tempo,50i90rzzHbJNAH43MyI7Ay,30,2009,sertanejo,0.584,0.687,5,-6.057,1,0.032,0.787,0.0,0.251,0.366,139.93,231587,4
+Calcinha Preta,Quero Ser Seu Namorado / Não Venha Mais Me Ver - Pout-Pourri,0XnzPoLAOXoKMkj6yBnCnu,19,2001,sertanejo,0.49,0.778,0,-7.621,0,0.0414,0.369,1.43e-06,0.0755,0.692,156.1,242991,4
+Sorriso Maroto,Indiferença - Versão Acústica,5ZPMGZlWSqzbEKhhGMvBxq,28,2017,sertanejo,0.679,0.435,5,-7.891,1,0.0372,0.886,0.0,0.0841,0.444,134.248,237296,4
+Turma do Pagode,Pot-Pourri: Nada a Ver / Embaraçado /Toda noite - Ao Vivo,2x05VybMSgxTIyp4NmDERM,26,2010,sertanejo,0.666,0.661,4,-8.184,1,0.0394,0.646,0.0,0.871,0.868,95.984,327267,4
+Sorriso Maroto,Assim Você Mata o Papai,12WDCL0ax4sQ8lVEWMGb7m,9,2020,sertanejo,0.601,0.892,10,-6.475,1,0.0957,0.449,0.0,0.913,0.914,188.067,206000,4
+Silveira e Silveirinha,Moreninha,7i49R5X6RLHUtwp7zVWHWM,9,2017,sertanejo,0.749,0.357,7,-9.504,1,0.037,0.979,0.0,0.375,0.963,119.465,187293,4
+Turma do Pagode,Fala Duvida - Ao Vivo,6RjeBoaTPrMofrYIbfomVb,30,2017,sertanejo,0.663,0.785,7,-7.097,1,0.0395,0.75,0.0,0.899,0.961,87.97,192793,4
+Belmonte & Amaraí,Saudade de Goiás,6U2wb9XjL84PQFZ8en18DD,6,2015,sertanejo,0.509,0.377,5,-8.859,1,0.0372,0.306,0.0,0.084,0.851,200.045,163947,3
+Leôncio e Leonel,Filho do Diabo,4H30g0onWxyEDoHn1GhhmB,7,2003,sertanejo,0.738,0.441,7,-6.849,1,0.0317,0.831,0.000567,0.142,0.96,91.016,185800,4
+Douglas & Vinicius,Marca Evidente / Mercedita - Ao Vivo,6BZrpesVmB4zt0TzNK58IZ,23,2023,sertanejo,0.402,0.72,4,-5.797,0,0.0564,0.721,1.87e-06,0.662,0.388,134.932,284879,3
+Cristiano Neves,Eu Bebo Eu Choro,3kqPwxevMETsXhXVr1jyUE,27,2015,sertanejo,0.631,0.848,6,-2.058,1,0.0557,0.23,0.0,0.409,0.89,132.031,159361,4
+Simone & Simaria,A Rosa E A Espada - Ao Vivo,5QAmWRQi4pauJxB5y6YUgT,28,2019,sertanejo,0.657,0.761,11,-3.383,0,0.0375,0.578,0.0,0.485,0.495,123.963,209327,4
+Lourenco & Lourival,A Vaca Já Foi Pro Brejo,2a7XnM6uNIK3JN5oK7HgeE,20,2013,sertanejo,0.789,0.602,2,-5.039,1,0.0349,0.778,0.0,0.375,0.743,92.038,202384,4
+Fernando & Sorocaba,O Som do Silêncio (feat. Rionegro & Solimões),1YVzBpSZgSuuF34P4lSgUk,5,2015,sertanejo,0.538,0.728,7,-7.155,1,0.0304,0.524,0.0,0.444,0.395,111.938,192960,4
+Raça Negra,Pot-Pourri: Sozinho / Estou Mal / Volta - Ao Vivo,1iwv4D5EHcKtJqPprNf8vT,47,2017,sertanejo,0.726,0.549,9,-8.442,1,0.0289,0.332,4.04e-05,0.881,0.463,137.999,299565,4
+Carreiro & Carreirinho,Oceano Da Vida,1fo6mxTKWdJpeQLMfBmOOE,0,2001,sertanejo,0.776,0.52,7,-9.203,1,0.0337,0.886,2.52e-06,0.109,0.607,111.765,185515,4
+Sorriso Maroto,O Que Tinha Que Dar,1pXxzX9QCJIUD2i9vNxGiv,26,2006,sertanejo,0.694,0.646,9,-8.402,1,0.0535,0.577,0.0,0.127,0.608,151.04,194067,4
+Bruninho & Davi,Vamo Mexe - Ao Vivo,2PpKpEvAt8k5f9cIUFd3tt,23,2014,sertanejo,0.618,0.941,11,-5.602,1,0.058,0.307,0.0,0.689,0.48,101.892,167960,4
+Silvestre Kuhlmann,Refeitura,11F97p9DgS4rFZHIDbfqag,1,2011,sertanejo,0.582,0.442,2,-11.638,1,0.0375,0.713,0.0,0.368,0.864,96.794,165693,4
+André & Andrade,Estrela Que Brilha,5DE7YNwF6RbVsmbL6h9ViS,2,2005,sertanejo,0.576,0.506,7,-5.545,1,0.0255,0.711,0.0,0.102,0.619,77.037,230922,4
+Trio Parada Dura,Lágrimas Sublime,6NISoWQXNbxMtaJAwsyQZS,4,2009,sertanejo,0.647,0.304,0,-10.331,1,0.0302,0.684,0.0,0.0954,0.866,107.272,155240,4
+Jorge & Mateus,Violeiro Feliz De Goiás - Ao Vivo,1Fy2RFOG6cDQ3rQuUouOpf,36,2009,sertanejo,0.703,0.882,9,-4.583,1,0.137,0.694,0.0,0.943,0.904,115.959,211453,4
+Cacio & Marcos,Mais ou Menos - Ao Vivo,1WPq4VG90xbJ3gcKPryUgn,5,2013,sertanejo,0.754,0.803,9,-3.677,1,0.0677,0.159,1.98e-06,0.0543,0.867,140.092,172147,4
+Gerson Rufino,Meu Sonho Reviveu,5AQK85mouJc0Nk6oDDjQ0B,7,2011,sertanejo,0.665,0.66,2,-5.285,1,0.0257,0.278,0.0,0.14,0.437,109.994,290733,4
+Léo & Raphael,Morena - Ao Vivo,0DHAKh7y9gTpq5PW6t4cej,10,2018,sertanejo,0.591,0.798,7,-4.147,1,0.0846,0.61,0.0,0.906,0.815,152.123,187157,4
+Marlon & Maicon,Coração Aventureiro - Ao Vivo,6b6abmEDm0Uewz7WWnHEu2,0,2006,sertanejo,0.679,0.953,11,-4.211,1,0.0478,0.34,0.0,0.871,0.958,134.999,209320,4
+Antonio Marcos,Parcela de Saudade,189JptodiNHIpsY0gdINTg,12,2021,sertanejo,0.827,0.594,10,-6.339,0,0.0386,0.875,0.0,0.152,0.835,124.04,204121,4
+Milionário & José Rico,Escravo do Amor,4MNGYOYLYx0dbYUy8K8XHC,48,2015,sertanejo,0.437,0.494,9,-4.163,1,0.0309,0.732,0.0,0.123,0.564,79.197,201520,4
+Paulo e Nathan,Tanto Faz - Ao Vivo,6BCoJ79R8DiDG5OQlcWzqB,29,2019,sertanejo,0.567,0.754,11,-4.701,1,0.0492,0.633,0.0,0.693,0.48,162.009,184987,4
+Zé Neto & Cristiano,Aí Emociona - Ao Vivo,6kMuVabARnsk25Uo2N8zug,37,2020,sertanejo,0.473,0.939,0,-2.227,1,0.351,0.382,0.0,0.927,0.549,159.45,144890,4
+Di Paullo & Paulino,Sonhei Com Você - Ao Vivo,3w8RbTS3mmxK8YZPTUt9yT,38,2002,sertanejo,0.468,0.693,9,-5.101,1,0.0324,0.411,0.0,0.809,0.275,107.121,235747,4
+Suellen Lima,Impacto,4cAW8tEZOUDlO2M2wDHWCR,27,2012,sertanejo,0.583,0.767,0,-4.327,0,0.0432,0.437,0.0,0.283,0.323,149.897,230429,4
+Donizeti,Voce Virou Saudade,7q9i7kjRl27vhXaD12kVhj,2,2014,sertanejo,0.622,0.66,0,-10.588,1,0.0468,0.706,0.000184,0.206,0.933,167.587,172467,4
+Felipe Duram,Lágrimas Negras,6VKsPYQXG2UEb9RKsbEkNd,23,2014,sertanejo,0.561,0.765,0,-5.384,1,0.0501,0.691,0.0,0.124,0.484,160.002,193525,4
+Marlon & Maicon,Como curar a ferida?,6nrRMRosbXcU3CiMZo0oC0,1,2002,sertanejo,0.487,0.398,4,-8.91,1,0.0273,0.46,0.0,0.105,0.198,150.134,272680,4
+Jayne,Esses meninos cowboys,1rG4IQYBE3bRooKjfYqkyK,0,2001,sertanejo,0.623,0.515,2,-8.638,1,0.0291,0.509,0.0,0.271,0.446,138.085,268200,4
+Zezé Di Camargo & Luciano,Pra Sempre em Mim (You Needed Me),7r8UoHArDyMwKgU9oOt5t9,25,2001,sertanejo,0.41,0.397,10,-8.544,1,0.0282,0.861,0.0,0.253,0.318,128.906,208133,4
+Almir Sater,Serra de Maracajú,5Ih166ZNI41Of56HHwWcWu,34,2013,sertanejo,0.621,0.476,9,-8.611,1,0.0263,0.821,0.0,0.113,0.544,116.076,239920,3
+Roberta Miranda,Lembranças - Ao Vivo,1bPhZgMBQdLm7Kz3daJJ6H,35,2005,sertanejo,0.634,0.434,10,-8.982,0,0.0438,0.8,0.000408,0.614,0.373,72.058,216271,4
+Trio Da Vitória,Dinheiro Não É Problema,4pmcK7UdbGUcpaf133hOQJ,1,2000,sertanejo,0.765,0.386,11,-7.648,1,0.0339,0.777,0.0,0.216,0.829,117.703,188027,3
+Divino e Donizete,Medo da chuva,0voKBoZUVgH2IlMFHwE4k5,21,2018,sertanejo,0.702,0.581,2,-6.604,1,0.0259,0.4,0.0,0.0787,0.586,102.787,196519,4
+Cleiton E Camargo,Luz No Fim Do Tunel,0T5afg2ek6015WN711dIeT,9,2000,sertanejo,0.402,0.724,7,-4.683,1,0.0359,0.189,0.0,0.152,0.561,78.636,228840,4
+Victor & Leo,Bom Tudo Pra Você,7sj9CZPHjZFUg7OW5gCy7j,41,2017,sertanejo,0.704,0.766,2,-6.848,1,0.0274,0.427,0.00189,0.0989,0.742,134.984,192427,4
+As Galvão,Beijinho Doce,2RdgfW1IdvGSi2hye7jsoo,28,2012,sertanejo,0.7,0.406,7,-6.835,1,0.0253,0.436,0.0,0.18,0.73,87.552,168560,3
+Daniel,Estourou um cano,6PV5JuQGsGxFL8Gg7GH8rq,7,2002,sertanejo,0.775,0.777,7,-5.461,1,0.0402,0.0765,0.0,0.299,0.854,110.859,202013,4
+Jorge & Mateus,Não Tem Comparação,20mkbVemhSS5Hboi56b4je,36,2015,sertanejo,0.602,0.651,10,-8.722,1,0.0333,0.679,0.0,0.116,0.662,91.003,188400,4
+Luan Santana,pot-pourri: te vivo / sinais / você não sabe o que é amor / meteoro / amar não é pecado - ao vivo,7qCg3wwGDgwkCtcBNmGxWE,32,2019,sertanejo,0.271,0.804,11,-7.827,1,0.328,0.0554,7.19e-05,0.434,0.281,72.475,441736,4
+Zilo & Zalo,Lindo Cavalo Branco,7hwaVRkKFbqkJQ1RnwjLpQ,2,2010,sertanejo,0.558,0.144,10,-14.167,1,0.062,0.713,0.0,0.0645,0.49,161.819,202533,4
+Tonico e Tinoco,Antiga Viola,33GO9qL0YY4lUKVsmadn9y,0,2005,sertanejo,0.738,0.392,8,-10.607,1,0.0379,0.883,1.01e-05,0.145,0.631,94.794,142472,4
+Maiara & Maraisa,Só Lamento - Ao Vivo,6RGUBt0xdUi4J9cQRTQI2d,57,2022,sertanejo,0.676,0.883,8,-3.058,0,0.0547,0.407,0.0,0.817,0.828,130.064,154357,4
+César Menotti & Fabiano,Não Era Eu,5ks3so6E93CblshNADW6CF,33,2013,sertanejo,0.65,0.922,6,-5.272,1,0.0614,0.649,0.0,0.865,0.695,106.977,205307,4
+Zezé Di Camargo & Luciano,O Futuro é uma Incerteza,0FOjHnIlCt2Vj9hE5mNWWH,14,2004,sertanejo,0.661,0.646,10,-4.95,1,0.0318,0.317,0.0,0.243,0.72,123.933,158307,3
+Pedro Bento & Zé Da Estrada,Mineira De Uberaba - Pagode,6Ou3Dv4QxzGlPWysjkgDk6,11,2005,sertanejo,0.742,0.5,4,-4.801,1,0.0421,0.663,0.0,0.0434,0.475,115.066,179800,4
+Gaúcho Da Fronteira,"Nheco vari, nheco fum",5VD3b8cXPUlEKSHIjZLxud,27,2003,sertanejo,0.724,0.882,3,-4.324,1,0.0679,0.652,2.64e-06,0.0404,0.96,104.036,192120,4
+João Márcio & Fabiano,Sapato 36 - Ao Vivo,6bC2dsTjpq7pfHfcXHSWPg,8,2012,sertanejo,0.414,0.563,9,-8.507,0,0.187,0.12,0.0,0.215,0.561,160.684,185945,3
+Tião Carreiro & Pardinho,Com Deus na frente,012xUEf1EnNFMjfZ5OEpcU,6,2005,sertanejo,0.633,0.712,3,-6.417,1,0.0299,0.879,0.0,0.0601,0.957,114.919,153867,4
+Bruno & Marrone,Deixa,7ERTkm9aa6h4pAuqrhvTbT,51,2003,sertanejo,0.657,0.607,7,-5.437,1,0.0318,0.203,9.91e-06,0.0893,0.315,138.84,224227,4
+Abel E Caim,Paixão e Dor,0CF7ZttdZfUtLbjI9qDUzX,7,2002,sertanejo,0.726,0.577,5,-6.447,1,0.0303,0.353,2.28e-05,0.0754,0.647,111.876,154933,3
+Sérgio Reis,Filho pródigo - Ao Vivo,1VY0BDjBYAtYC16VlQ5F9z,7,2001,sertanejo,0.263,0.599,0,-7.465,1,0.0376,0.545,6.93e-06,0.935,0.358,62.408,213880,4
+Eli Silva e Zé Goiano,Candieiro da Fazenda,6ZdQcgRPeAZw6YBHOErXTS,5,2001,sertanejo,0.808,0.48,7,-10.647,1,0.0331,0.894,0.0,0.0946,0.917,120.154,156410,4
+Milionário & José Rico,Anjo Loiro - Ao Vivo,6IVYgORVE2qCI0BrpYBtRJ,51,2021,sertanejo,0.649,0.65,0,-5.744,1,0.0387,0.465,0.0,0.884,0.711,124.996,198280,3
+Adalberto e Adriano,Se Você Topar,6obgaZyLDeedV9YnJEhjwk,9,2007,sertanejo,0.822,0.697,0,-5.015,1,0.0652,0.621,0.0,0.099,0.687,132.092,162717,4
+Irmãs Galvão,Não Me Abandones,4H06THRwKyoGhIduDh6ivZ,8,2000,sertanejo,0.681,0.216,4,-11.086,0,0.0286,0.667,0.0,0.512,0.526,89.306,176413,3
+Os Monarcas,Prece Telúrica,7GWqVcBnqGAxWv1LISKG5B,24,2017,sertanejo,0.55,0.639,2,-6.248,0,0.0308,0.376,0.0,0.248,0.461,127.027,251800,4
+Chitãozinho & Xororó,Página Virada,2nNKVtNUFkAq5Viet8JRVQ,24,2013,sertanejo,0.625,0.854,2,-2.987,1,0.0487,0.461,0.0,0.669,0.564,109.976,278800,4
+Grupo Tradição,Bailezito (Ao Vivo),03w6Vi1so7An0n3HQFg0lc,19,2000,sertanejo,0.66,0.913,0,-6.068,1,0.0421,0.154,1.7e-05,0.483,0.601,94.208,79830,4
+Raça Negra,Jeito Felino - Ao Vivo,0cJwF8dWrluRYGPahTqOCT,33,2012,sertanejo,0.497,0.792,11,-6.444,0,0.0521,0.335,2.22e-05,0.725,0.603,80.748,172707,4
+Breno & Caio Cesar,Namorar - Ao Vivo,04B02h5vbIbA2FmNo0WIT8,10,2017,sertanejo,0.421,0.556,7,-5.135,1,0.0286,0.737,0.0,0.9,0.385,152.267,185107,4
+Vitor e Luan,Aprende a Terminar - Ao Vivo,5RDjTzDusHA2E4BnpgJn7P,26,2019,sertanejo,0.636,0.709,2,-3.939,1,0.0362,0.664,0.0,0.698,0.585,107.95,164501,4
+Sérgio Reis,Bando De Vagabundo,7Jusb3HTuURlqPmpVo6aka,3,2008,sertanejo,0.762,0.809,4,-6.225,1,0.116,0.754,0.0,0.466,0.948,139.922,186320,4
+Adalberto e Adriano,Eu Te Amo - Acústico,3CMqjDxlr5wSqCJ5fUGh3d,10,2009,sertanejo,0.716,0.441,6,-11.455,0,0.0268,0.475,0.0,0.28,0.427,111.909,181800,4
+Rick & Renner,Fim de semana,0lNJUX1fJqfMd2zQgpbqyE,15,2021,sertanejo,0.776,0.915,0,-5.97,1,0.0301,0.285,0.000193,0.155,0.961,132.079,225827,4
+Cezar & Paulinho,Beijo pega rapaz,2i3dbT73Rf3F6TWe3iMBut,8,2000,sertanejo,0.718,0.903,7,-3.927,1,0.0328,0.214,0.0,0.321,0.965,137.955,158960,4
+Rafa e Junior,Modo Sobrevivência,79UcT90qGRxDxujaCmINka,26,2020,sertanejo,0.732,0.77,5,-4.074,1,0.0284,0.524,0.0,0.145,0.607,110.069,152883,4
+Juliano Cezar,Tesouro do Fundo do Mar,0P1LZYBwfyjCunuMU8BSlx,0,2010,sertanejo,0.535,0.698,7,-3.71,1,0.0314,0.23,4.25e-06,0.122,0.416,144.083,239240,4
+Teodoro & Sampaio,Uma semana de fogo - Ao vivo,3iGXfmznJND5ewbxTzlDcx,4,2002,sertanejo,0.709,0.671,2,-3.637,1,0.0297,0.6,0.0,0.162,0.837,124.995,210373,3
+Chrystian & Ralf,Loucura demais,15gCzuHYCFKZn3KbDiviFr,9,2006,sertanejo,0.587,0.642,11,-8.071,1,0.0299,0.138,0.0,0.268,0.722,75.916,212000,4
+Jeito Moleque,Deixa Eu Tocar O Seu Coração,1iAvTK45bZAgx9LkTGxhW3,14,2007,sertanejo,0.607,0.84,4,-5.242,0,0.0462,0.721,0.0,0.12,0.518,143.868,202840,4
+Althaír & Alexandre,Lado Feminino,6PN8Shudl4HOdoVh2X95Qv,3,2004,sertanejo,0.767,0.854,4,-5.203,1,0.0818,0.505,0.0,0.494,0.965,100.018,141133,4
+Chico Rey & Paraná,Pé de Bode,7hm1LWlOPqE2Dl1InTuqzR,10,2013,sertanejo,0.652,0.884,4,-4.699,1,0.125,0.617,0.0,0.506,0.861,75.911,153900,4
+Lauana Prado,Andorinha Machucada / Você Me Vira A Cabeça (Me Tira Do Sério) - Ao Vivo,4PJjbRDNOKBCybBdIgVrVp,43,2022,sertanejo,0.634,0.667,6,-4.189,1,0.0328,0.281,0.0,0.679,0.685,105.985,217269,4
+Chrystian & Ralf,Amor Bandido,0kD9Ifb3wTeLvUkE7i8tvs,3,2010,sertanejo,0.871,0.778,4,-2.929,1,0.0428,0.543,1.13e-06,0.121,0.929,120.03,199497,4
+Mauricio & Mauri,Bota pra Quebrar (Tropé),2xJmVLWQjyYcKSmGVZqV5g,10,2008,sertanejo,0.766,0.895,2,-4.603,1,0.0396,0.0969,0.0,0.0997,0.973,138.225,171507,4
+Luan Santana,Foi Covardia,6eaYDKm6EqUGgT8gh8UaEY,45,2020,sertanejo,0.495,0.524,2,-6.423,1,0.0376,0.344,0.0,0.511,0.645,155.795,178077,4
+Cristiano Araújo,Amor No Carro,2Ryv71KcwU8XyMNn8y4WYQ,39,2013,sertanejo,0.688,0.918,0,-3.02,1,0.0395,0.558,0.0,0.466,0.867,138.033,157653,4
+Donizeti,Meu Pai,6HlfFy54NH07TFy5dNvIem,2,2014,sertanejo,0.54,0.46,2,-11.439,1,0.0302,0.762,1.08e-05,0.0793,0.613,87.875,201133,4
+Eduardo Costa,Melhor ou Pior,66ne7fVhVe09MJnFAV1dOV,23,2021,sertanejo,0.728,0.711,0,-4.228,1,0.0239,0.364,0.0,0.0861,0.516,104.006,232571,4
+Sérgio Reis,Galopeira,096hcecRQf2UQalBzykN5a,4,2010,sertanejo,0.412,0.36,3,-7.711,1,0.0366,0.549,0.0,0.0775,0.713,155.074,199240,3
+Marcos & Belutti,Coração Está em Pedaços - Ao Vivo,6hw0wguBlVdPxGfq0NkFTj,28,2019,sertanejo,0.488,0.883,2,-3.334,1,0.042,0.171,0.0,0.509,0.783,155.798,211157,4
+Rick & Renner,Sofro e choro,0ny5KeSbWJfWsHQbeMmiJ0,19,2000,sertanejo,0.794,0.878,3,-5.449,1,0.0305,0.377,0.0,0.107,0.974,135.858,179147,4
+Zezé Di Camargo & Luciano,Saudade Bandida - Ao Vivo,7alyZtIuMwlSCNxXDf6pPy,46,2000,sertanejo,0.498,0.618,6,-6.327,1,0.0298,0.442,0.0,0.826,0.387,110.359,258400,4
+João Paulo & Daniel,Apaixonado por você,1tT6hEYEwkYFwrbWlkqXwg,28,2011,sertanejo,0.595,0.531,9,-8.847,1,0.0355,0.586,0.0,0.348,0.596,104.173,233840,4
+Tião Carreiro & Pardinho,Rio Paranapanema,17ak3UF4rUEuXGHnLxg8qq,4,2005,sertanejo,0.604,0.578,0,-8.117,1,0.0358,0.686,0.0,0.151,0.901,98.016,129840,4
+Luan Santana,Amar Não É Pecado - Ao Vivo,0y5tRvDTFOtvzOlfKv57Gv,33,2015,sertanejo,0.665,0.816,11,-7.276,1,0.0349,0.621,5.78e-06,0.885,0.694,131.008,210333,4
+Bruno Rosa,Por Toda Vida / Falando Sério (Acústico) - Ao Vivo,7EUmArbmURRTWn1eNTTkft,29,2019,sertanejo,0.554,0.591,11,-5.485,1,0.0453,0.546,0.0,0.938,0.708,126.987,214690,4
+João Carreiro,Pot-Pourri: Volta pro Meu Coração / O Que Essa Moça Fez Aqui,3MQPWorv8GjT9IPGQqgUsD,30,2020,sertanejo,0.69,0.542,7,-5.73,1,0.0289,0.638,0.0,0.137,0.507,104.915,216668,4
+Gerson Rufino,Te Amei,5ClQJO7wK5N5XD5LAdf4j2,32,2019,sertanejo,0.83,0.811,1,-2.689,0,0.0474,0.0718,0.0,0.177,0.686,139.921,181803,4
+João Bosco & Vinicius,Não Dá pra Continuar - Acústico,3XP5GJdlnPngZNsZpLnzR7,34,2007,sertanejo,0.666,0.714,7,-5.511,1,0.0344,0.349,0.0,0.853,0.664,110.601,206347,4
+Barra Da Saia,Lobo Selvagem (Oração),3mGK0K2bboc8mC8bd8bV7Y,1,2007,sertanejo,0.423,0.205,1,-8.562,0,0.029,0.855,0.0,0.124,0.397,96.991,71107,4
+João Bosco e Gabriel,Se Não Entendeu - Ao Vivo,3lPmAA2nEFeAQgQ9arwG3D,53,2023,sertanejo,0.67,0.767,10,-4.108,1,0.043,0.367,0.0,0.934,0.434,120.838,188777,4
+As Marcianas,Vida de Caminhoneiro - Ao Vivo,2xq7AHfGx4JAnlGoKEy7xV,1,2012,sertanejo,0.536,0.697,4,-6.456,1,0.0341,0.468,0.0,0.986,0.339,146.09,249013,4
+Cristiano Neves,Oi Morena Bonita,2Q3UAwxmHWzydCuQEuAoMN,8,2017,sertanejo,0.721,0.734,7,-5.282,1,0.0415,0.181,0.0,0.29,0.818,120.746,218987,4
+Roupa Nova,Sapato Velho - (Ao Vivo) [Bônus],7BY1IizSnAuJDjBHUavjdo,22,2010,sertanejo,0.273,0.539,9,-11.426,1,0.041,0.111,0.0,0.772,0.289,175.423,201293,3
+Bruno & Marrone,Telefone Mudo,5jH8LpHbqbD0wkR7m4jgSz,39,2003,sertanejo,0.604,0.499,7,-10.052,1,0.024,0.129,0.0,0.3,0.573,95.058,197413,3
+Zezé Di Camargo & Luciano,Estrada da Vida - Ao Vivo,3fTMxiV46Kb136JsD4V46i,34,2019,sertanejo,0.384,0.812,0,-6.944,1,0.041,0.0109,2.61e-05,0.979,0.607,83.972,177483,3
+Henrique & Juliano,É Tudo Emprestado - Ao Vivo,0JzXsO4DDPccdjHdgnI3Zq,31,2014,sertanejo,0.721,0.96,6,-2.507,1,0.138,0.184,0.0,0.337,0.872,112.071,185704,4
+Henrique & Juliano,Rancorosa - Ao Vivo Em Brasília,7CUQQLRMIeSfa4m2uQcRHp,0,2023,sertanejo,0.644,0.872,5,-4.187,1,0.0563,0.308,0.0,0.536,0.507,142.02,181458,4
+Calcinha Preta,Cada Paixão uma Novela,1wzCK6hUtOV3gnN9mydFbD,21,2006,sertanejo,0.571,0.907,9,-4.52,1,0.038,0.064,0.0,0.188,0.494,104.983,237933,4
+Jorge & Mateus,Só Falta Você - Ao Vivo,4toHO2DerHajm3V8DPBh3W,47,2009,sertanejo,0.666,0.913,9,-5.069,1,0.0515,0.537,0.0,0.678,0.895,96.003,198533,4
+Carreiro & Carreirinho,Canário Dourado,6PPVNR1ALeWaRqLpxPJV4u,1,2001,sertanejo,0.514,0.128,4,-13.952,0,0.133,0.917,0.0,0.111,0.425,202.798,184987,4
+José Augusto,Amor Eterno - Ao Vivo,3aMvzDjm531ohiDJGmIbL3,24,2009,sertanejo,0.695,0.689,9,-6.099,1,0.0261,0.294,0.0,0.735,0.622,111.961,184827,4
+Liu & Léu,Velha Querência,0kTBQOAFcBJelqfdpdKejU,0,2013,sertanejo,0.442,0.338,1,-11.302,1,0.0434,0.846,0.0,0.0997,0.444,201.204,153560,4
+As Mineirinhas,Nossas Diferenças,0FO4bJxESgDkJHJRdqcDzy,0,2012,sertanejo,0.784,0.536,5,-14.497,1,0.0585,0.132,0.0,0.304,0.864,115.015,209741,4
+Liu & Léu,Mourão da Porteira,6wlgjaXLosvnFyOiOv7rLX,30,2003,sertanejo,0.655,0.476,2,-4.577,1,0.0284,0.652,0.0,0.0784,0.596,80.015,169840,4
+Luan Pereira,Peão Não Sofre,7n3Qbi9f2GnJCeX41x2hxW,53,2021,sertanejo,0.585,0.837,9,-3.236,1,0.213,0.567,0.0,0.842,0.533,160.097,177808,4
+Lauana Prado,Serasa - Ao Vivo,0RhQZ2vTSv4JTvjXOyN5rc,31,2019,sertanejo,0.526,0.962,1,-2.175,1,0.139,0.22,0.0,0.507,0.557,163.88,176469,4
+Raça Negra,Dou A Vida Por Um Beijo,3FTVsyCmppof2M13QSBUCT,40,2003,sertanejo,0.734,0.808,7,-8.804,1,0.0535,0.441,3.79e-06,0.191,0.67,90.327,191320,4
+Gerson Rufino,Me Perdoa,6fdGqzLCmDCkj1GnBKE7A3,25,2023,sertanejo,0.609,0.737,11,-3.561,1,0.0275,0.286,0.0,0.133,0.482,142.158,225134,4
+Eduardo Costa,Primeiro De Abril,5imFMJhKIjhBnhil0rgldR,31,2008,sertanejo,0.602,0.508,9,-6.897,1,0.0274,0.251,0.0,0.238,0.407,76.003,211200,4
+Sulino & Marrueiro,Festa no Céu,4iloO0nXokNZlLVwaDGWm7,3,2001,sertanejo,0.553,0.141,6,-15.717,1,0.041,0.975,2e-06,0.108,0.837,163.254,186453,4
+Gleydson Rodrigues,Hoje Eu Tô Podendo,78pZATEjKxKHIsojSZgRiI,0,2001,sertanejo,0.776,0.882,7,-3.473,1,0.038,0.369,0.0,0.348,0.879,135.838,160800,4
+Tinoco,Sanfoneiro Só Tocava Isso,4zmIn66rTYDleuniwYtSB8,2,2000,sertanejo,0.794,0.902,9,-6.628,1,0.0488,0.292,0.00227,0.165,0.643,130.066,140867,4
+Gerson Rufino,Voltei pra Ficar,5YTDZ1Y4qMqSIsNa9mG4dL,11,2023,sertanejo,0.606,0.724,9,-3.994,1,0.0659,0.288,0.0,0.142,0.668,76.02,236837,4
+Clayton & Romário,Nem Dormindo Consigo Te Esquecer / Preciso Ser Amado / Fica Comigo - Ao Vivo,6pFrUq1Wwz6RFQU8YkDHwZ,44,2020,sertanejo,0.473,0.645,2,-4.82,1,0.06,0.636,0.0,0.777,0.511,159.672,293584,4
+Daniel,Declaração de amor,6jIrQ4zhEi9pWHOGISmpcW,31,2001,sertanejo,0.397,0.604,2,-6.309,1,0.0288,0.561,0.0,0.725,0.281,72.915,304280,4
+Gian & Giovani,Entre o Beijo e a Boca - Ao Vivo,69bcySXu8aPeGycVL62sq0,6,2019,sertanejo,0.487,0.649,2,-10.222,1,0.064,0.56,0.0,0.882,0.659,81.223,279801,4
+Tonico e Tinoco,Pra Frente Sertão,4fDjRqwSXcG7HVx96lvUeC,1,2005,sertanejo,0.856,0.595,7,-7.441,1,0.0389,0.683,1.9e-06,0.0838,0.995,116.185,140352,4
+Abel E Caim,Doutor Caipira,1wU9RRctH6AgwlCjatWZKj,0,2003,sertanejo,0.368,0.419,10,-8.569,1,0.0466,0.363,0.0,0.335,0.73,185.833,141293,3
+Gian & Giovani,Peão Não Chora,2G3suvugNnFhLRD6e0bmXf,11,2002,sertanejo,0.86,0.965,4,-4.442,1,0.04,0.282,0.0,0.114,0.968,136.129,186507,4
+Joaquim e Manuel,Guarânia de Lua Nova,0EqCtrQDE6que3Wv3SGt3M,0,2004,sertanejo,0.464,0.648,2,-6.033,1,0.0374,0.377,1.93e-06,0.36,0.838,202.171,207547,4
+Ícaro e Gilmar,Vem Me Buscar / por um Minuto (Ao Vivo),4eEj9J3UAZNMKBXG5yXe5v,42,2021,sertanejo,0.437,0.538,7,-4.704,1,0.0339,0.615,0.0,0.321,0.529,146.162,324452,4
+Joel Carlo,Amor Off Line (Buteco a Luz de Velas) - Ao Vivo,2NMTpAAYRxnr1sasg7Du4I,6,2023,sertanejo,0.684,0.646,0,-5.176,1,0.0352,0.286,0.0,0.263,0.631,108.875,156600,4
+Dyogo e Deluca,Mil Adjetivos - Ao Vivo,2YRyefxiOXGZuDmku9zn3E,30,2017,sertanejo,0.628,0.867,4,-4.4,1,0.058,0.584,0.0,0.795,0.404,136.958,199783,4
+Jorge & Mateus,Medida Certa,44mr3ypWNHa0inr3heiOb2,51,2017,sertanejo,0.617,0.872,2,-2.963,1,0.0946,0.58,0.0,0.111,0.837,176.093,186816,4
+Durval e Davi,Morena Cheirosa - Ao Vivo,5pOjs2w9vDMIanG9XhF2r9,27,2014,sertanejo,0.645,0.668,9,-6.492,0,0.0329,0.126,0.0,0.358,0.617,126.865,220000,3
+Silvestre Kuhlmann,Salmo 37,2u50ASkTNRjM2pBAPAuew0,0,2002,sertanejo,0.698,0.486,9,-9.444,1,0.392,0.406,0.0,0.107,0.518,130.258,215933,4
+Gabriel Gava,De Igual pra Igual / 24 Horas de Amor - Ao Vivo,735JbUd1lUJCtwXWjj9eJm,20,2018,sertanejo,0.607,0.714,1,-7.664,0,0.0699,0.67,0.0,0.359,0.61,100.133,216942,4
+Rudã & Raphael,Sofrendo Socialmente - Ao Vivo,4rNIIH9l9kDTsuycC2qdXE,6,2023,sertanejo,0.441,0.838,8,-3.147,1,0.0768,0.596,0.0,0.369,0.583,153.586,185013,4
+Marco Brasil,Agito do Meu Povo,6JtURl2X8Nniuf3GIh0XAw,3,2003,sertanejo,0.659,0.848,7,-2.678,1,0.0533,0.418,0.0,0.501,0.721,83.001,191813,4
+Yasmin Santos,Dói Saber (feat. Hugo & Guilherme) - Ao Vivo,5KTnGjGoVV1w3ZavA5yVUF,50,2022,sertanejo,0.542,0.592,8,-8.072,1,0.1,0.325,0.0,0.92,0.35,159.662,206481,4
+Trio Parada Dura,Avião das Nove,6fxzH55xOIPjwGu8OJKMs5,27,2009,sertanejo,0.536,0.579,11,-4.405,1,0.0333,0.597,0.0,0.114,0.606,187.727,161360,3
+Rionegro & Solimões,Fui - Ao Vivo,72yH4zd6tyvwVCDH3ST7vm,35,2022,sertanejo,0.67,0.82,0,-4.496,1,0.0285,0.579,0.0,0.7,0.829,132.061,158944,4
+Gino & Geno,A Distância,6rJlFGRy2VLDcwIVkM0Ny3,7,2013,sertanejo,0.745,0.551,0,-6.932,1,0.0287,0.603,0.0,0.306,0.786,118.23,170667,4
+Diego & Victor Hugo,Entregador de Flor - Ao Vivo em Brasília,3CrzNxy6e6MiUSBPlzCKFO,37,2019,sertanejo,0.376,0.834,2,-4.303,1,0.08,0.549,0.0,0.412,0.329,125.171,190276,4
+Eli Silva e Zé Goiano,Meu Sitiozinho,3ZZT7Z2WmaE1gxPHsGMoDo,8,2007,sertanejo,0.587,0.197,7,-10.642,1,0.0457,0.91,0.0,0.0964,0.441,115.533,201107,3
+Chico Amado & Xodó,"Quanto Mais Muié, Mió",3JbrZoaS4kqrEHDVwbxqVK,15,2006,sertanejo,0.767,0.708,7,-6.481,1,0.0314,0.613,0.0,0.0887,0.94,102.993,199573,4
+Jads & Jadson,Foi Por Saudade - Ao Vivo,0WJgbQEadtnGaklQXBexEB,13,2006,sertanejo,0.601,0.71,11,-5.951,1,0.0442,0.45,0.0,0.97,0.592,102.632,232613,4
+Cristiano Araújo,Simples Assim - Ao Vivo,2itEc7fbFAxm2GUcLcM1gd,11,2011,sertanejo,0.664,0.741,7,-3.947,1,0.097,0.562,0.0,0.258,0.745,142.022,210911,4
+Tião Carreiro & Pardinho,Filho de araçatuba,5xDR2J53YYnEeLEO5hwXkB,31,2014,sertanejo,0.651,0.36,10,-5.863,1,0.0372,0.823,0.0,0.0786,0.67,104.782,153573,5
+Lucas Reis & Thácio,Desejo De Amar - Ao Vivo,6MVxFhNMnC0BEaoNgFxKZU,29,2019,sertanejo,0.678,0.874,7,-3.907,1,0.03,0.44,0.0,0.885,0.753,138.001,157938,4
+Goiano & Paranaense,"Meu Recanto, Meu Paraíso",0bcUxZsyjbkoQem4ectNyL,50,2009,sertanejo,0.757,0.566,10,-5.455,1,0.0346,0.817,0.0,0.136,0.691,105.079,239053,3

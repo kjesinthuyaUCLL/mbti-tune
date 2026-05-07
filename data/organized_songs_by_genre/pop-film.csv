@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Ilaiyaraaja,Varavelkkumo,6fFLj6oUVeACRlWKmeYbqj,5,2006,pop-film,0.71,0.514,2,-16.937,1,0.0649,0.28,0.0209,0.125,0.717,91.971,286068,4
+Tulsi Kumar,Sab Mili Aarti Ho Utar,28U4rfnbNEZ0wiqZdVGe7f,2,2002,pop-film,0.598,0.346,6,-15.237,1,0.0387,0.336,0.0,0.213,0.891,73.681,451027,4
+Lata Mangeshkar,"Tum Jo Mil Gaye Ho (From ""Hanste Zakhm"")",2fUpfW6NKGbpVO4oSgpX38,25,2018,pop-film,0.339,0.834,2,-8.847,1,0.239,0.769,0.000385,0.0452,0.432,115.13,489091,4
+Sonu Nigam,Mathu Nannavalu,0nURYXS1tw5fOaC7RmcJBK,7,2008,pop-film,0.765,0.831,7,-7.716,1,0.0781,0.466,1.15e-06,0.129,0.812,100.014,307000,4
+Javed Ali,Tu Hoor Pari,0wInJMQFjRa3jdubivr1gb,27,2012,pop-film,0.78,0.82,11,-4.862,1,0.072,0.645,4.88e-05,0.105,0.765,96.98,323408,4
+Suresh Wadkar,Avo Padharo Re,15q5PWwMpQDXdHcxL1382n,13,2017,pop-film,0.327,0.686,6,-8.723,0,0.185,0.7,0.0,0.181,0.755,73.946,742051,4
+Noor Jehan,"Abhi Dhoond Hi Rahi Thi (From ""Bewafa"")",4hlKz2IsRutRSwN6WZvTS7,13,2022,pop-film,0.591,0.656,11,-6.361,1,0.0273,0.943,0.00115,0.152,0.667,111.831,226600,4
+Sunidhi Chauhan,Kaun Mera,6hxjmhCFETJLWAXklh9MOd,36,2013,pop-film,0.354,0.102,2,-16.895,1,0.0522,0.982,1.53e-05,0.0834,0.246,67.098,151394,5
+Chinmayi,Kallallo Kala Varamai,2jaFghJPWZv5YyEIzQHUOu,30,2019,pop-film,0.505,0.613,10,-6.826,0,0.0401,0.597,0.00851,0.119,0.367,133.965,247089,4
+Udit Narayan,Antharanga Aasegala,4sRkv3IjS4GBhBO80Y785G,8,2002,pop-film,0.711,0.417,0,-12.988,1,0.0742,0.36,0.00142,0.292,0.679,100.013,371000,4
+Suresh Wadkar,Shri Gayatri Chalisa,7i1wv2olMBoYafHBEGg3m2,14,2008,pop-film,0.617,0.635,8,-7.262,1,0.034,0.603,0.0,0.0737,0.592,87.011,1311431,4
+Udit Narayan,Aahista Aahista,3xJaxGv8vjhUTop0FnCMSn,32,2004,pop-film,0.431,0.187,0,-14.115,1,0.0383,0.919,1.8e-05,0.112,0.0488,114.815,408027,5
+Javed Ali,Kanwar Ko Mat Samjho,1zUs6g7ciIUHVgyvwdNIdd,0,2000,pop-film,0.754,0.92,0,-10.183,1,0.0563,0.504,1.8e-05,0.351,0.759,102.015,318882,4
+Saindhavi,Radhai Varum Vazhi,7bxtHTghquDVlHIVAuDtfz,0,2008,pop-film,0.416,0.534,4,-10.34,0,0.0657,0.73,1.47e-05,0.3,0.683,94.97,337978,4
+Lata Mangeshkar,Dekha Ek Khwab - Remix,1moyQEi6Nj9m9mTViUWFXG,7,2002,pop-film,0.398,0.539,9,-14.566,1,0.204,0.431,0.00272,0.316,0.589,145.627,349701,3
+Vishal Dadlani,Jee Le Zaraa (Remix By Mikey Mccleary),4ZQJxM2cK7jVFAuhjhLjHO,28,2012,pop-film,0.565,0.674,9,-6.775,0,0.0266,0.0495,0.000742,0.0921,0.519,135.996,235508,4
+Harris Jayaraj,Mazhai Mazhai,5oBrJSGqffcaSdgNUiNPWj,30,2005,pop-film,0.717,0.593,9,-9.262,1,0.0692,0.259,0.0,0.0796,0.631,129.949,295623,4
+Karthik,Sakhi Ennathma Sakhi,0y7UJvgUxlHvHezCIK5Q8Z,0,2014,pop-film,0.57,0.786,0,-4.887,1,0.0774,0.468,2.06e-05,0.115,0.548,79.928,365770,4
+Shankar-Ehsaan-Loy,"Kajra Re (From ""Bunty Aur Babli"")",1Zhd0vU0BOHBNQ5bHfk1vV,61,2021,pop-film,0.484,0.898,5,-4.129,1,0.165,0.366,0.0,0.0871,0.677,91.992,482586,4
+Sathyaprakash,Saadhikkava Penne,28y2bf11LQLlbiLmy3pkQv,0,2017,pop-film,0.615,0.336,5,-12.432,1,0.0381,0.492,0.00194,0.108,0.445,89.96,239333,4
+Shankar-Ehsaan-Loy,Kill Dil,5DqatlowP9JciDW3fgDFaF,40,2014,pop-film,0.584,0.791,9,-6.525,0,0.106,0.21,1.4e-05,0.133,0.27,139.945,349518,4
+Mohammed Rafi,Naam Abdul Hai Mera - Shaan / Soundtrack Version,5Qp6R0x1lQdkgSwkRat9eZ,20,2020,pop-film,0.458,0.592,0,-9.843,0,0.0981,0.747,1.26e-06,0.348,0.815,80.979,308533,4
+Karthik,Manave Ninave,5xucW0p9vGUh6llBYAmLC4,0,2009,pop-film,0.362,0.641,10,-5.542,1,0.0385,0.59,8.24e-05,0.15,0.574,85.839,321283,4
+Sonu Nigam,Lori (Part-2),78W1REk4zSVK10aQOHmrzT,10,2019,pop-film,0.398,0.625,9,-9.762,1,0.0359,0.299,0.00659,0.0994,0.164,169.967,138275,3
+Udit Narayan,Haste Suraj Ki,6lTbwN0aSoK9MRSfOXl1jk,47,2003,pop-film,0.648,0.919,5,-5.784,1,0.0667,0.462,0.0,0.185,0.597,112.998,92000,4
+Alka Yagnik,Gali Mein Aaj Chaand Nikla - Lofi,0vrUtmX4HedyyMueIAD3fX,15,2022,pop-film,0.458,0.399,2,-11.892,1,0.088,0.916,0.00192,0.0605,0.285,207.793,163702,4
+Raj Barman,Amar Aguner Chhai,2Mt11P94MhMODbCL71iKlT,34,2018,pop-film,0.49,0.594,2,-5.08,0,0.0264,0.439,0.0,0.1,0.209,92.893,336774,4
+G. V. Prakash,Yeh Joker,0qSlifFCZzYLUG4ZRALqoW,26,2012,pop-film,0.415,0.909,0,-5.783,1,0.0697,0.305,0.0,0.288,0.68,78.53,280960,4
+Swapnil Bandodkar,Shwaas Ha Tuza,4Eilx3vwOLE2Bwdza6Xu9P,6,2006,pop-film,0.483,0.598,6,-7.488,1,0.0759,0.661,0.0,0.0445,0.385,167.964,355413,4
+Jubin Nautiyal,Meri Jaan,2xZfZR98WKWRGzdEY1t0Rk,31,2021,pop-film,0.6,0.294,5,-10.106,1,0.0309,0.567,0.0,0.124,0.321,94.846,209358,4
+Jatin-Lalit,Aashiq Hoon Main,2gvvRHDJhNxnVBvycJ60yQ,27,2000,pop-film,0.713,0.841,6,-4.383,0,0.0651,0.0519,0.0,0.235,0.951,149.166,320067,4
+Armaan Malik,"Birugali Yondige (From ""Tarak"")",224c8HBbtTtAoscssgC6sx,27,2020,pop-film,0.629,0.262,0,-10.542,1,0.03,0.8,0.000257,0.112,0.24,120.005,226940,4
+Haricharan,Thalachi Thalachi,07n6ZCTDZzYJ3oRsx822tz,41,2017,pop-film,0.652,0.725,2,-7.331,0,0.0428,0.697,0.0,0.127,0.609,79.976,320375,4
+Sonu Nigam,Mouriya Mouriya,3vo3J4Cr3LoCf6Z9cf5lNM,0,2002,pop-film,0.825,0.743,5,-8.559,1,0.0482,0.0522,8.52e-06,0.0571,0.822,121.87,290482,4
+KK,Deewangee,0WdUm8XdWasotADElyxXJv,12,2002,pop-film,0.619,0.335,7,-16.493,1,0.0383,0.459,6.51e-06,0.562,0.325,113.091,429440,4
+Swarnalatha,Suvva Laali,0UybR9lRoumU1MYHiskTU8,1,2002,pop-film,0.739,0.704,11,-8.813,0,0.051,0.556,0.0,0.121,0.748,102.996,290429,4
+Sonu Nigam,Shiqwa Bhi Tumse,5qkJTolgz9QBAQ6bTga0ei,26,2004,pop-film,0.689,0.82,11,-5.235,0,0.058,0.0126,7.95e-05,0.207,0.187,117.996,398813,4
+Gurdas Maan,Nanhi Si Gudiya,1Gp27MC6MDA3gA3clKiVO4,6,2010,pop-film,0.644,0.689,0,-4.612,0,0.0414,0.538,0.0,0.109,0.482,120.017,292226,4
+Sathyaprakash,Elavatara - Mukhari - Adi (2 Kalai),21Pi6T0vACcvV4mCxS19Hx,0,2004,pop-film,0.334,0.518,11,-7.433,0,0.0359,0.611,0.000499,0.39,0.43,148.609,560693,4
+Talat Mahmood,"Chamka Chamka Subha Ka Tarah (From ""Subah Ka Tara"")",30BXYQnP6xa0zMyPzl3LEK,8,2018,pop-film,0.539,0.394,5,-9.971,1,0.104,0.898,0.00232,0.291,0.923,166.86,202493,3
+Madhu Balakrishnan,Pambaanadikkare,5Np7RIUSUxkTRfz9nlzCw0,0,2007,pop-film,0.7,0.489,0,-7.888,1,0.0253,0.556,0.0,0.228,0.605,100.061,269636,1
+Sonu Nigam,Mehki Mehki,1gX2zpQox8clH9ZDxQ1jbS,1,2001,pop-film,0.568,0.71,7,-9.934,1,0.125,0.363,8.27e-06,0.142,0.817,79.972,383360,4
+Bharadwaj,Suthipoda Venamaa,5Dh8AW3ysJQpcyZJ5FDisM,7,2005,pop-film,0.601,0.848,9,-7.155,1,0.109,0.089,0.087,0.107,0.916,131.129,276783,4
+Unnikrishnan,Ayyan Malai Engal Malai,1bP4IbID7bmbzkQiIyI8lB,0,2012,pop-film,0.424,0.54,9,-7.694,0,0.0504,0.666,0.0,0.0823,0.821,199.033,449777,4
+Udit Narayan,Mujhe Kuchu Kuchu,3QlL0ZNmEeg2QTKBzm52UI,9,2003,pop-film,0.606,0.928,0,-8.085,1,0.0413,0.327,0.000434,0.0919,0.437,127.988,314044,4
+Aishwarya Majmudar,Sava Basher Nu Maru Dataradun,5QcqXhi64FUKFt056q1gBP,19,2019,pop-film,0.463,0.688,5,-7.786,0,0.0629,0.54,0.0,0.695,0.94,81.465,125707,3
+Kunal Ganjawala,Bolo Tum Bolo (Chhodo Na Mujhe) - Rules - Pyar Ka Super Hit Formula / Soundtrack Version,0fa4gIlltO0hpViTn0STo8,10,2003,pop-film,0.512,0.301,6,-10.497,1,0.0305,0.756,2.56e-06,0.118,0.573,169.908,318747,4
+Kumar Sanu,"Koi Kya Pehchaane - From ""Saajan Ki Baahon Mein""",3BAO6bwBxQl1h7lgAhhqnv,15,2018,pop-film,0.546,0.872,6,-9.389,0,0.0468,0.17,2.87e-06,0.66,0.816,105.795,296440,4
+Shreya Ghoshal,Inthaku Nuvvevaru,13Z8HS0M1QPZt4BRVjO3EY,38,2009,pop-film,0.629,0.493,7,-6.777,0,0.0548,0.28,1.97e-06,0.29,0.51,173.794,282785,4
+Chinmayi,Prema Thana Dhanamaaye,0Ia9uOl9jCbztLU9hSHbIH,12,2015,pop-film,0.672,0.858,11,-5.724,1,0.0889,0.569,0.0,0.0658,0.575,96.999,319020,4
+Manikka Vinayagam,Jhothumu Thodaoiya,1ON4nOvoRwhlJ9Rma35UiQ,0,2000,pop-film,0.365,0.898,9,-3.142,1,0.071,0.747,0.792,0.207,0.79,179.354,383427,4
+D. Imman,Nenju Vedikuthu,6jQFMeZIaplwyGbHe05eJY,1,2014,pop-film,0.648,0.4,2,-8.001,0,0.0425,0.186,0.0,0.104,0.318,119.935,59500,4
+Noor Jehan,O Wanjhli Valareya,2W0ykRvA7RN92j1n7cw014,15,2012,pop-film,0.637,0.71,6,-4.3,1,0.0359,0.695,7.3e-06,0.261,0.91,158.611,208867,4
+Karthik,Karineela Kannulla Pennu,256h05IGwwKmR9UUQiuUZk,33,2018,pop-film,0.643,0.283,2,-12.139,1,0.159,0.82,1.53e-06,0.0856,0.483,80.115,276759,4
+Ajay-Atul,Jaya Jaya Suravarapoojit Jitdanavkalabh,27LGOofY699JSjsj5vMNYi,16,2001,pop-film,0.606,0.215,10,-17.315,0,0.0635,0.662,0.00169,0.116,0.0657,96.742,221960,4
+Unni Menon,Varadaana Prabhuvaakum,4fB8FoBjM8e2EV8ofmjR7P,0,2007,pop-film,0.594,0.617,1,-8.53,1,0.0319,0.753,3.23e-05,0.199,0.736,150.01,203598,5
+Chinmayi,Thangaradham Yeri,3cdQpje3DizpZt28UEew6V,0,2007,pop-film,0.619,0.716,4,-7.453,0,0.0397,0.362,0.0,0.141,0.893,179.968,306787,3
+Kishore Kumar,"Hum Bewafa Hargiz Na Thay - From ""Shalimar""",190y0s47ckUbFgFpthA4NU,25,2012,pop-film,0.476,0.512,8,-10.679,0,0.0654,0.765,4.82e-06,0.104,0.462,134.559,237893,4
+Harish Raghavendra,Kadhal Kadhal,0dRHfH8Zpjhp2WqaH2G8LZ,0,2007,pop-film,0.745,0.547,0,-10.922,1,0.0534,0.0932,0.0,0.143,0.447,93.024,267427,4
+Harish Raghavendra,"Thozhiya (From ""Kadhalil Vizhundhen"")",4DaR9uc7re3CVfEMNLS8A6,28,2013,pop-film,0.695,0.893,8,-2.09,1,0.051,0.507,0.0,0.103,0.849,96.034,296541,4
+Javed Ali,"Guzarish (From ""Ghajini"")",39bHz64P8EIGXnoPfpYnUE,47,2019,pop-film,0.595,0.624,9,-10.943,0,0.0603,0.0925,0.0,0.114,0.647,170.001,327030,4
+Ali Zafar,Dastan-e-Ishq - Dhol Version,5kpUXqZHHWFraYkJeIdhA9,17,2011,pop-film,0.339,0.59,6,-7.446,0,0.0469,0.521,4.87e-05,0.128,0.384,175.93,425413,4
+Vidyasagar,Ettu Muzha,31GhGJuRQq4Utl18cy5YUU,2,2002,pop-film,0.659,0.449,2,-13.039,0,0.0624,0.186,0.000373,0.106,0.423,149.903,283533,4
+Mohammed Rafi,"Aray Maine Tujhko Chaha - From ""Dharam Veer""",0jgsV02X6yMGAhskB96nNW,12,2014,pop-film,0.491,0.747,8,-5.808,1,0.055,0.753,0.0,0.144,0.619,79.78,327734,4
+Kumar Sanu,Dil Deewana Dhoondta Hai,1pgBbiX4eQgHAPCjgbLJIw,29,2001,pop-film,0.698,0.873,0,-5.804,1,0.163,0.0276,0.00334,0.111,0.657,125.897,309000,4
+Kumar Sanu,Waqt Ne Hum Se,5OA3btphMMrxpTvCard3H5,13,2000,pop-film,0.459,0.411,7,-11.211,1,0.0494,0.678,0.112,0.0626,0.422,73.275,466000,4
+James Vasanthan,Parthadhum,5oSWh29wrBWGIFQ40StXWw,2,2010,pop-film,0.667,0.665,2,-8.669,1,0.0576,0.122,0.00717,0.398,0.883,170.165,324307,4
+Lata Mangeshkar,Aanandache Dohi Aanand Tarang,5LmGZ6TyaPBVOc4NGIqA1z,6,2022,pop-film,0.308,0.601,2,-9.656,0,0.0397,0.824,0.0,0.0641,0.61,97.587,174133,4
+Vijay Yesudas,Mazhakondu Mathram - Male Version,1UaGP10X29DtUqGzRoXbgb,45,2012,pop-film,0.569,0.286,0,-11.541,0,0.0352,0.669,9.49e-06,0.112,0.347,135.861,213480,3
+Sonu Nigam,Kan Kanna Salige,19EnAKTdmQgZATuku1G5rD,41,2008,pop-film,0.832,0.658,9,-6.333,0,0.0303,0.101,0.00121,0.284,0.666,120.044,272175,4
+Armaan Malik,"Padi Padi Leche (From ""Padi Padi Leche Manasu"")",1LzrEBELUtfgvc8pKhL3Ct,51,2018,pop-film,0.506,0.617,2,-6.677,0,0.0355,0.43,0.0,0.0815,0.358,149.931,203778,3
+Meet Bros Anjjan,Hai Yehi Zindagi,4tx1U2Vs1G7Cld6LNz8CMV,24,2014,pop-film,0.474,0.428,1,-7.951,0,0.0257,0.0869,5.93e-05,0.167,0.204,75.062,196258,4
+Unnikrishnan,Idhayathil,4D4de4WbfDnSpyXhSyAqeD,0,2003,pop-film,0.396,0.718,11,-6.434,0,0.0725,0.564,0.0,0.128,0.545,176.062,326818,1
+Arijit Singh,"Bekhayali (Arijit Singh Version) [From ""Kabir Singh""]",6aPMWbbdhDhiJHlknZb9Yx,60,2019,pop-film,0.265,0.58,9,-4.767,0,0.0491,0.491,0.0,0.243,0.345,172.121,370444,3
+Harris Jayaraj,Engeyum Kadhal - Lofi Flip,00ryNOtw2qVkK2TVHg7TGe,43,2022,pop-film,0.595,0.468,8,-11.587,1,0.17,0.532,0.000422,0.149,0.166,125.055,155520,4
+Karthik,Ale Ale Yagi,6qa0Wu7y6sRhwx5Z1osIaO,0,2007,pop-film,0.655,0.809,8,-8.508,0,0.0467,0.326,0.00214,0.339,0.484,124.926,294632,4
+Kishore Kumar,"Kabhi Bekasi Ne Mara (From ""Alag Alag"")",3Qkt6W9Tau0qdgjnjgJIqS,6,2020,pop-film,0.473,0.8,6,-4.659,0,0.0627,0.782,0.0,0.334,0.622,96.438,318810,4
+Vidyasagar,Pala Poovin,59tMNgWkEOBPl7koDre0E3,0,2007,pop-film,0.549,0.404,7,-13.846,1,0.306,0.293,5.81e-05,0.0872,0.593,151.151,254119,3
+Arijit Singh,Aasan Nahin Yahan,06zJUeKU5KFy50Cho6pDcr,61,2013,pop-film,0.549,0.437,10,-7.169,0,0.0263,0.766,0.000407,0.133,0.236,93.976,214470,4
+D. Imman,My Wifeu Romba Beautifulu,43uktpwdtYYybvRfdTSxwI,5,2017,pop-film,0.537,0.764,9,-4.507,0,0.262,0.316,0.0,0.194,0.848,172.469,252522,3
+Benny Dayal,Chal Chakka,1ncAbyTiY07v8jxJ5CUfA6,22,2022,pop-film,0.601,0.721,0,-7.002,1,0.154,0.213,0.000323,0.115,0.801,120.025,229000,4
+Bharadwaj,Annan Thambi,7DPXZc9zr6VWT6585wgQFQ,1,2003,pop-film,0.418,0.308,5,-11.294,1,0.0421,0.616,0.0,0.174,0.313,71.399,45836,4
+Sonu Nigam,Saviyo Saviyo,0cgJKfke5wbHwhFOepaNL8,26,2007,pop-film,0.638,0.685,5,-7.088,0,0.0716,0.744,2.84e-06,0.506,0.657,159.872,333427,4
+Suresh Wadkar,Om Jayanti Mangla Kali Mahakali Mantra,3hfncbKbyBW8g86Ldm3leH,20,2015,pop-film,0.753,0.613,9,-7.653,1,0.0442,0.316,0.0,0.253,0.807,134.995,269653,4
+Deva,Yamini,4Pl3wjkM3DO9MOUypIvtcF,6,2009,pop-film,0.563,0.864,8,-5.145,1,0.0639,0.328,2.18e-05,0.198,0.627,159.951,338480,4
+Rahat Fateh Ali Khan,Sanson Ki Mala,0kT0RwW83Yl0Vrym7moHAo,51,2020,pop-film,0.393,0.66,10,-3.914,0,0.0468,0.581,0.0,0.103,0.465,131.722,285625,3
+Benny Dayal,Love You Soniyo,3ohyD2kOK8JyCccu4qwCPn,25,2013,pop-film,0.701,0.767,2,-5.096,0,0.0306,0.144,3.34e-05,0.248,0.71,134.968,261560,4
+Pamela Jain,Itni Shakti,4Va9DANWGIgCsHoKcpN3xO,23,2003,pop-film,0.302,0.248,11,-15.162,0,0.0291,0.811,1.97e-06,0.564,0.315,58.056,63869,3
+Sean Roldan,Vasundhara - The Empress Arrives,1pNp8436O23QO9MkESoURa,6,2017,pop-film,0.675,0.462,8,-7.982,0,0.0313,0.0145,0.651,0.0814,0.271,125.081,130777,4
+Udit Narayan,Dekhechhi Tumar Chokhe,3M5CBFraB0swUHVBkNvJSL,15,2000,pop-film,0.524,0.699,11,-9.301,1,0.0742,0.722,1.42e-05,0.319,0.568,89.447,315933,4
+Unni Menon,Anthara Sundara,21sZmqJBajAkWo8sSUMZNR,2,2006,pop-film,0.61,0.384,3,-15.694,1,0.0348,0.337,0.0,0.128,0.409,88.677,355067,4
+Karthik,Kalla Thooni,1d5L2gORuG7TURi9pm2UVQ,0,2006,pop-film,0.724,0.782,10,-8.714,0,0.0434,0.0516,6.87e-05,0.0876,0.635,124.018,280079,4
+Unni Menon,Minnalai Pidithu,6Xejo9F1hr17aXInilcKZ7,63,2001,pop-film,0.681,0.515,7,-11.644,1,0.0745,0.638,1.32e-06,0.175,0.757,141.035,291016,3
+Unnikrishnan,Adi Rendu Kallula Naan,4dvtor9iJruEjZ7Ae2lKe0,0,2000,pop-film,0.492,0.521,10,-12.569,0,0.204,0.0498,7.71e-06,0.045,0.592,189.537,302440,4
+Harish Raghavendra,Varungal Swamigale,5EM9NEkIYXWfdiBWFq0ruW,0,2011,pop-film,0.778,0.743,7,-6.013,0,0.0638,0.674,0.0,0.069,0.84,145.526,284134,3
+Madhu Balakrishnan,Ganapathi,4nOUaA5vzS8phdc92N56Ik,0,2005,pop-film,0.763,0.832,0,-6.308,0,0.0482,0.436,0.0,0.0815,0.96,107.952,236133,3
+Sunidhi Chauhan,Dance Like A Chammiya,6pD8zlJXnfDe9FjDt0S48K,39,2014,pop-film,0.804,0.789,7,-6.331,1,0.0912,0.0377,0.0,0.0703,0.625,110.007,211766,4
+Vijay Yesudas,Oru Vazhiyai,6Lk0LXhOxhjuKaIOhIqj8N,12,2012,pop-film,0.814,0.7,2,-7.528,1,0.0976,0.108,2.69e-05,0.123,0.961,94.999,299040,4
+Suresh Wadkar,Ajuni Aahe Chandrama,0GnCK1U6XaBpjLbRN6Wvyo,7,2019,pop-film,0.558,0.479,1,-6.24,1,0.0388,0.592,0.0,0.11,0.481,156.005,379539,1
+Aishwarya Majmudar,Chyam Rahiye Garu Vina,3sujAlMwXL5XuulbFeKSiF,17,2019,pop-film,0.683,0.865,1,-6.304,1,0.103,0.185,0.0,0.836,0.718,139.9,89133,4
+Thaman S,"Ninu Veedani Needanu Nene - From ""Ninu Veedani Needanu Nene""",43nwtZkZqVTz1AMzDOo2bY,20,2019,pop-film,0.623,0.55,0,-8.092,0,0.0298,0.915,0.101,0.143,0.485,95.995,216354,4
+Armaan Malik,Kehta Hai Pal Pal,2t34R5GIi95a9JI1tATTFg,49,2017,pop-film,0.532,0.821,9,-4.434,0,0.0794,0.149,1.55e-05,0.161,0.699,195.962,264625,4
+Harini,Akilaloka Jagannayaki,6XYVlOhawjqsHzpcKE2xQa,0,2012,pop-film,0.811,0.439,9,-10.506,1,0.0349,0.209,0.0261,0.0708,0.541,119.957,374519,1
+Javed Ali,Rehja Re,0bNRJP5ohcR6CAy6b2u2S9,36,2008,pop-film,0.743,0.74,0,-8.906,1,0.0536,0.0128,0.0,0.346,0.568,109.013,306262,4
+Udit Narayan,Kahile Timro Pachhaurima,1e9rjI1gJxBKpFHc3kwTxs,25,2004,pop-film,0.566,0.601,7,-9.824,1,0.0405,0.46,0.0,0.306,0.659,84.032,304298,4
+Unnikrishnan,Brahmanandhamega,5RA9W3JjUFSh5ud70WvCN2,0,2002,pop-film,0.36,0.859,11,-1.821,1,0.0714,0.319,7.23e-06,0.226,0.647,175.668,390008,4
+Unnikrishnan,Panimadi Mukhi Bale,03hiSmIjU7dTb041xwHLPA,0,2009,pop-film,0.398,0.547,5,-11.181,1,0.0459,0.846,8.89e-06,0.0938,0.498,159.893,345173,3
+Karthik,Unakey Enn Aaviyum,2LjxC0evnuiXhxdhDm56G8,0,2001,pop-film,0.548,0.726,7,-8.154,1,0.0365,0.387,0.000219,0.186,0.465,170.027,234289,4
+Sean Roldan,Vellattu Kannazhagi,5McHUo9Z2Yu7vYJFN601Eq,31,2019,pop-film,0.574,0.531,10,-7.533,0,0.0847,0.445,7.07e-06,0.11,0.803,89.517,234212,4
+Anuradha Paudwal,"Dil Diwana (From ""Daag The Fire"")",3ECIJPi0bOX6dxVhotLGpD,40,2017,pop-film,0.628,0.878,7,-7.364,1,0.156,0.683,4.18e-06,0.114,0.581,82.066,378547,4
+Unnikrishnan,Pallikattu,4Ttwo8P4IMaZRzAXHFaIW6,0,2006,pop-film,0.551,0.657,7,-10.771,1,0.106,0.443,4.4e-05,0.908,0.822,95.748,265307,4
+Armaan Malik,Neelambari,2VjkS8hsJDrmx0e9uacKPT,20,2020,pop-film,0.67,0.575,10,-7.974,0,0.224,0.495,0.0,0.161,0.811,169.938,221000,4
+Strings,Mein Tou Dekhoonga,1ocXnpsIglK8jBALPVoI1i,17,2011,pop-film,0.768,0.459,2,-8.985,1,0.0613,0.434,0.0,0.201,0.709,83.973,249340,4
+Unni Menon,Yerumeliyali,098PIwO4RijcHwnPJgtdQA,0,2000,pop-film,0.703,0.588,9,-11.496,0,0.0373,0.621,0.0,0.106,0.845,95.995,297554,4
+Vijay Yesudas,Ningi Chutte,2nCnDh5TvuW6l0SJVYfex8,21,2020,pop-film,0.57,0.389,9,-7.249,0,0.0454,0.732,0.0,0.0865,0.515,170.217,208859,3
+Amit Trivedi,Badla,5IO7klgF354JsZLyNEuFHf,20,2018,pop-film,0.8,0.752,9,-5.777,1,0.0677,0.0253,1.67e-05,0.29,0.19,100.028,220850,4
+Benny Dayal,O Mere Sanam,6uAVRqs8ZkfOYY1P5dx6GU,19,2017,pop-film,0.651,0.432,8,-9.556,1,0.0261,0.305,6.19e-05,0.27,0.389,100.033,391464,4
+Abhijeet,Hasa Gote,6IKoSwGxbNQn4PEJchIps5,17,2006,pop-film,0.443,0.873,7,-3.221,0,0.075,0.547,0.0,0.0374,0.637,175.845,322245,4
+Sujatha,Oh Mane Mane - Female Vocals,3s8dSHiyqrSjvTl9TGRmo1,0,2000,pop-film,0.777,0.523,7,-13.302,1,0.255,0.0888,2.79e-05,0.0769,0.363,144.991,337187,4
+Shaan,Ishq Main,20HZRDI3UDVcNeq5Lgb7DP,20,2004,pop-film,0.542,0.692,7,-9.762,1,0.156,0.344,0.0,0.131,0.679,78.946,297000,4
+Armaan Malik,"Idera Sneham (From ""30 Rojullo Preminchadam Ela"")",5MWcKaftDM3yfqCsFPzQ0I,25,2020,pop-film,0.527,0.599,10,-4.486,0,0.0296,0.72,0.0,0.104,0.755,84.804,233404,4
+G. V. Prakash,Kaattu Payale,3umai3byVVIwSfEZEUY7PJ,51,2020,pop-film,0.708,0.632,9,-8.376,0,0.202,0.33,0.000257,0.36,0.487,78.946,246000,4
+Shreya Ghoshal,"Hume Tumse Pyaar Kitna (From ""Hume Tumse Pyaar Kitna"")",2tGSFJjhyBvzZV3VwpDACj,25,2019,pop-film,0.528,0.534,9,-5.554,0,0.0325,0.48,0.00291,0.0764,0.124,114.629,235304,4
+G. V. Prakash,Vellaikkaari,323rmCRL120Wxwdh8B0S6o,4,2010,pop-film,0.821,0.641,2,-5.771,1,0.0825,0.0937,2.06e-06,0.105,0.564,99.979,247267,4
+Arijit Singh,Khol De Par,5dvrVAG0K6X3ScS6IZ6rXK,13,2019,pop-film,0.771,0.448,9,-10.965,1,0.0306,0.516,0.000423,0.112,0.439,110.0,193178,4
+Yuvan Shankar Raja,"Veera Soora (From ""Naane Varuvean"")",6mPQ3rmFeyjlYUXTnegt9w,39,2022,pop-film,0.518,0.723,2,-8.075,1,0.137,0.157,1.2e-05,0.107,0.363,100.118,207945,4
+Kishore Kumar,Kitne Bhi Tu Karle Sitam - Sanam Teri Kasam / Soundtrack Version,5EA3XvnhxG3llcKloNvYWJ,23,2020,pop-film,0.612,0.711,7,-6.851,1,0.0328,0.423,1.69e-05,0.0838,0.939,128.825,277253,4
+Saindhavi,Vaarungal,4m9wvVNZzMGUGNTEua7DtA,0,2009,pop-film,0.573,0.706,5,-3.583,0,0.19,0.407,0.0,0.152,0.96,146.469,167174,3
+D. Imman,Kathal Illai,6R9lT0452FL4EalqsMuN44,1,2005,pop-film,0.707,0.611,2,-8.629,0,0.0401,0.36,0.0,0.0715,0.896,152.933,272850,3
+Suresh Wadkar,Aga Aga Pori Faslis Ga,1ew5Iexkve3mZKl3sJSvBp,21,2021,pop-film,0.732,0.783,7,-5.426,1,0.0749,0.144,8.65e-06,0.0833,0.728,139.976,272379,4
+Salim–Sulaiman,"O Re Piya (From ""Aaja Nachle"")",4sSjcOaWs1C7BYzsjfdtAN,20,2021,pop-film,0.584,0.533,11,-8.836,0,0.033,0.778,0.000635,0.124,0.487,99.998,379768,4
+Sandhya Mukherjee,Prem Je Knade,7BgeWaiN47eFyu01Zwno9c,0,2000,pop-film,0.307,0.276,3,-11.38,0,0.0338,0.985,0.468,0.37,0.256,113.198,194187,3
+Suresh Wadkar,Kandhei Lo Suna Kandhei,37grILcWxzdaimxxRgu9c8,5,2019,pop-film,0.459,0.713,10,-5.13,0,0.0431,0.618,0.0,0.0878,0.483,75.02,316240,4
+Pankaj,Gangotari Dham Pyara,0u6PdGZO9to42FpXLaoxDd,0,2009,pop-film,0.461,0.833,1,-2.867,1,0.0571,0.703,0.0,0.156,0.944,144.591,338051,3
+Thaman S,Ala Vaikunthapurramuloo Dj Mashup,0sNzofVXGq7mAT3JvKOxy3,35,2022,pop-film,0.458,0.708,2,-6.687,1,0.135,0.511,6.47e-05,0.387,0.376,117.399,186046,4
+Karthik,Poatriyae Thudhi,27rdq67DkAitKdzW0woOEI,0,2011,pop-film,0.477,0.445,5,-7.152,1,0.0505,0.409,0.0,0.105,0.786,103.037,291016,4
+Jagjit Singh,Sab Kahan Kuchhh Lala-O-Gul Mein,5NGSLrUXpOwqiCXIEy7Afx,14,2015,pop-film,0.333,0.114,11,-17.288,1,0.0664,0.991,0.0114,0.105,0.223,136.992,185969,4
+Chinmayi,"O Priyane (From ""Iniennum"")",0YMMsGOkqeggCtuVcXZ1m9,0,2015,pop-film,0.547,0.569,7,-8.003,1,0.0443,0.54,2.49e-06,0.147,0.462,81.101,326168,4
+Anuradha Paudwal,Mahalaxmi Ashtakam,5has4mtdPqBlBUzrq2vo9N,7,2013,pop-film,0.701,0.615,1,-5.187,1,0.0258,0.842,0.0,0.0789,0.602,108.022,817875,4
+Shaan,Rabba Mere,6MRtAHESHTPSyGj6URTYq2,0,2002,pop-film,0.612,0.562,7,-10.936,1,0.0308,0.0514,0.0,0.393,0.648,136.11,508813,4
+Kanika Kapoor,Ambarsariya-Suit Suit,2VdzADGdeTlyqFBeSIFDKt,29,2015,pop-film,0.666,0.857,2,-4.118,0,0.0541,0.181,2.24e-06,0.243,0.653,93.02,200462,4
+Sunidhi Chauhan,Ishq Samundar Remix,5o5xXNGb8jrz0oiAqOMzPP,21,2022,pop-film,0.472,0.9,11,-1.178,0,0.0737,0.167,1.63e-06,0.277,0.594,101.789,236004,4
+Amit Trivedi,Psycho Pilla,2cSJivrNPFUmlWTlEZeTbc,25,2021,pop-film,0.741,0.556,4,-9.949,0,0.0791,0.344,0.000374,0.135,0.403,90.069,164671,4
+Deva,Keechu Kiliye,64prgyIU2FwgYvUnzvDI0f,28,2000,pop-film,0.774,0.669,2,-9.175,1,0.0351,0.00623,0.00149,0.115,0.494,93.989,381533,4
+Ali Zafar,Item Number,102ri7fHThOGIRFsfSojsD,26,2018,pop-film,0.802,0.665,5,-8.805,0,0.0769,0.0303,0.0,0.114,0.673,111.008,167236,4
+G. V. Prakash,Entethaakumo,5ZanOoqRdy79XNM4MXeEpk,0,2009,pop-film,0.695,0.595,7,-5.457,1,0.0761,0.0799,1.9e-06,0.467,0.731,90.059,237140,4
+Thaman S,Feel The Power,1rH9lp7dFPUWLubGhtTCiW,30,2021,pop-film,0.7,0.933,0,-5.928,1,0.0527,0.0347,0.00396,0.1,0.699,105.002,243429,3
+Madhu Balakrishnan,Namah Sivaaya,3QvA0zHkJiBZMuq6BkTqa0,0,2004,pop-film,0.69,0.667,7,-6.955,1,0.0382,0.639,0.0,0.132,0.553,93.991,348447,4
+Udit Narayan,"Diwana Diwana Diwana Ho Gail (From ""Nandu Nikamma"")",27vRK66Nb2K48NwuDQoSGM,7,2020,pop-film,0.558,0.625,8,-5.153,1,0.062,0.603,0.0,0.306,0.868,83.622,350694,4
+D. Imman,Anbulla Appa,2xGnsE5SHFprwNOXs90xBQ,36,2014,pop-film,0.609,0.68,4,-5.85,1,0.0301,0.7,1.12e-06,0.137,0.595,116.838,237907,4
+Vijay Antony,"Karigalan (From ""Vettaikaaran"")",21CcmWfj5S9KYQoJf4nzbO,27,2014,pop-film,0.795,0.832,5,-3.215,0,0.0676,0.294,0.0,0.343,0.773,131.986,255413,4
+Shreya Ghoshal,"Naa Peru Seesa (From ""Ramarao On Duty"")",6L1268cRzB1CgxgfBnXlad,37,2022,pop-film,0.805,0.816,10,-6.311,0,0.228,0.179,0.0,0.113,0.646,99.918,210239,4
+Anuradha Sriram,Pillayar Suzhi,2xFeSNDieeMZYPLVlqv5aB,0,2006,pop-film,0.637,0.515,6,-9.815,1,0.0682,0.824,0.0262,0.182,0.812,142.536,278693,3
+Lata Mangeshkar,Bhool Gaya Sub Kuchh - Julie / Soundtrack Version,3KlhVEjtoX5TVxtqRtmGL6,31,2012,pop-film,0.511,0.395,9,-5.057,0,0.0246,0.916,7.77e-05,0.117,0.235,95.93,301267,4
+Devan Ekambaram,"Oh Maria (From ""Kadhalar Dhinam"")",4X2lkYjeJW5DCf06wDmT2S,32,2013,pop-film,0.683,0.724,2,-12.113,0,0.0911,0.00768,8.84e-06,0.106,0.781,155.933,380029,4
+Sajid-Wajid,Rooth Kar Hum,1ba0949qkxnDmchUfcPmoo,38,2002,pop-film,0.432,0.951,6,-5.299,0,0.204,0.139,0.0,0.372,0.668,82.233,367227,4
+KK,Nazar Nazar,4NDpMLtSUyMCL8yBxN9Kbt,22,2005,pop-film,0.543,0.661,4,-7.764,0,0.0568,0.548,8.19e-06,0.101,0.436,77.023,414267,4
+Jatin-Lalit,Deewano Ko Pata Hai,3YrBe44VeqlWNiz4ufI5C0,30,2002,pop-film,0.747,0.879,7,-3.956,0,0.0391,0.526,4.96e-05,0.126,0.928,102.077,299160,4
+Shweta Mohan,Kalikoottukare,62TV9cWNjoFQdZHyv2G6Hc,0,2009,pop-film,0.557,0.465,11,-6.797,0,0.0289,0.442,0.0,0.3,0.338,135.03,358478,4
+Jassie Gift,Damak Damak,0D8qtos8miU2MUNT9EKTkY,5,2009,pop-film,0.512,0.864,7,-3.576,0,0.0745,0.212,0.0,0.206,0.706,105.018,290964,3
+Madhu Balakrishnan,Mandala Kala,6YAKiEj8MyhHZ7CBJuybJ1,0,2005,pop-film,0.731,0.564,9,-8.041,1,0.0295,0.568,0.000104,0.0661,0.625,95.976,299440,4
+Yasser Desai,Mohabbat Phir Ho Jayegi,7vSyiDvHIOulua7I8Fljq3,34,2021,pop-film,0.534,0.517,9,-5.945,0,0.03,0.772,0.0,0.0939,0.22,111.038,238378,1
+Shaan,Aadat Ho Chuki (Remix),7h3YnlYmFALdv3bQpMp4u9,16,2005,pop-film,0.769,0.913,1,-6.425,1,0.0517,0.00253,0.000299,0.0553,0.928,125.002,294640,4
+Asha Bhosle,Hi Waat Dur Jaate,1RNAmkazCRKEHH7MHyrG7M,3,2000,pop-film,0.365,0.557,2,-5.654,1,0.0372,0.936,0.00547,0.84,0.324,133.941,282293,3
+Anuradha Sriram,Kaya Kaneendha,3G5EP4Kz1YKzLuMw3Q0iXq,0,2006,pop-film,0.816,0.837,6,-6.492,0,0.245,0.686,0.0,0.499,0.835,130.843,268013,4
+Sonu Nigam,Satrangi Re,1qs0TUnY9eTpwqCIJgw3HA,11,2009,pop-film,0.769,0.751,11,-12.696,1,0.095,0.166,0.00149,0.0734,0.742,94.007,303099,4
+D. Imman,Myself Veena,7LqQBpcFsUAka6Ygbcz59n,0,2005,pop-film,0.725,0.72,9,-6.791,0,0.0282,0.0118,0.00162,0.216,0.57,112.031,305393,4
+Shafqat Amanat Ali,Shafqat with Shafqat (Lakh Jatan / Khamaj),4oFTEI6Dmnca8HbpwdXQCL,28,2020,pop-film,0.299,0.437,5,-9.258,1,0.0334,0.88,0.00034,0.11,0.38,160.084,441000,4
+Karthik,Manathe,5INDVaBSUqIVzp394VlZdC,3,2010,pop-film,0.733,0.576,11,-7.864,0,0.0368,0.00583,0.392,0.144,0.518,128.014,270347,4
+Jubin Nautiyal,Ganesha,5cet87CL7mxBnBdnIbdHRy,37,2019,pop-film,0.69,0.941,1,-5.02,0,0.0798,0.135,0.0,0.22,0.52,137.989,160605,4
+Armaan Malik,Love You Till The End (House Mix),5cufKAoyaApuNxJzsJeU3R,26,2013,pop-film,0.577,0.817,8,-6.193,1,0.15,0.0962,0.000501,0.491,0.429,127.909,235556,4
+Haricharan,Rathaley,2rVRhgcgSo1YqC9OnAN9gJ,0,2009,pop-film,0.478,0.572,10,-8.719,0,0.105,0.392,0.0,0.332,0.543,77.75,308307,1
+Krishnaraj,Sridikku Naan,7IEXn4UHTsCkDSnh08teC6,0,2012,pop-film,0.499,0.735,2,-6.289,1,0.0444,0.322,0.0,0.082,0.657,94.147,255451,4
+Vishal Dadlani,"Banjara (From ""Chef"")",0NWcVkctMmFCdZeJQRpr45,18,2017,pop-film,0.633,0.75,1,-6.913,1,0.0308,0.196,2.66e-05,0.145,0.344,111.01,253305,3
+Kumar Sanu,Kis Se Baat Kare,1Jd161DmjubjylDwWGY35Q,15,2000,pop-film,0.496,0.612,6,-9.701,1,0.0353,0.481,8.67e-05,0.427,0.633,88.602,516053,4
+Yuvan Shankar Raja,Endha Vazhi,51kLPJgyCFIQcGiyHeF0vU,7,2014,pop-film,0.38,0.429,8,-6.748,1,0.0535,0.675,1.49e-05,0.112,0.186,179.939,273773,4
+Kishore Kumar,O Meri Sharmilee,7zj5dXb0c2hgq3fGnClYde,10,2013,pop-film,0.617,0.568,2,-8.889,1,0.0901,0.435,0.0,0.233,0.854,117.897,238227,4
+Shweta Mohan,"Unmai Edhu Poy Edhu (From ""Saaho"")",7FxXGcxDUE1mtQVtrRHUE7,30,2019,pop-film,0.622,0.473,6,-7.784,0,0.0417,0.611,0.0,0.428,0.479,129.918,262791,4
+Rahat Fateh Ali Khan,"Tere Bin (From ""Simmba"")",4f5kLqyOJ5ZPnalEVMQrB2,63,2018,pop-film,0.649,0.716,7,-3.936,1,0.0384,0.268,4.51e-06,0.603,0.639,86.949,230948,4
+G. V. Prakash,Aaruyire,1kEBn42BGm8y3nQUjQvUve,46,2010,pop-film,0.537,0.393,5,-14.671,1,0.0406,0.619,0.00928,0.0873,0.26,96.95,370613,4
+Srikanth Deva,Uppumoottai,06PME9TOaAyGTDYXGvx7tY,0,2006,pop-film,0.665,0.933,2,-7.42,1,0.103,0.338,0.000982,0.193,0.88,152.371,275907,4
+Karthik,Kulukki Kulukki,2gVoLTQDoe1MeFucmn2huR,0,2010,pop-film,0.592,0.946,9,-4.393,0,0.162,0.0981,2.61e-05,0.372,0.692,154.937,302271,4
+Sukhwinder Singh,Shabad Gurbani,4UGmF5h4cMJr3rOA8zzbjg,31,2007,pop-film,0.451,0.523,1,-9.694,1,0.0348,0.361,0.0,0.24,0.442,129.556,332133,4
+Karthik,Edamporul Patha,7zWvLTNW867b1i4tyyo8FB,14,2006,pop-film,0.456,0.816,2,-6.49,0,0.0767,0.145,0.00334,0.209,0.558,94.627,261347,4
+Vijay Yesudas,Paattinte Palkadavil,4q0CVqs9zPxc0nQ4xoZ9Ie,1,2011,pop-film,0.794,0.617,5,-8.761,0,0.0343,0.326,0.0,0.191,0.843,102.988,262652,4
+D. Imman,Divyavin Arimugam,2dr4TfbvdfulGpEBXL5Axv,0,2005,pop-film,0.715,0.72,7,-7.937,1,0.159,0.328,0.0,0.307,0.486,152.838,74920,3
+Amit Mishra,Allah Duhai Hai - Jhankar,5IJRTKdB5LGNbRRj9U541p,18,2018,pop-film,0.616,0.871,1,-3.353,1,0.0321,0.0019,5.37e-05,0.087,0.251,114.01,279746,4
+Ilaiyaraaja,Paravaiye Engu Irukkirai,7acN9HaStRBkP2UTOOpQ9q,52,2009,pop-film,0.829,0.622,3,-10.679,0,0.0512,0.424,0.000538,0.209,0.757,129.969,369360,4
+Jubin Nautiyal,"Kaash Tu Mila Hota (From ""Code Blue"")",57S1BP8ir7qUChpbrcLvVW,43,2019,pop-film,0.318,0.536,6,-8.88,1,0.0755,0.669,0.000285,0.304,0.392,76.017,327912,1
+Anuradha Paudwal,Saptashloki Durga,0oBR2xo6rG0ObcKHNvKCu7,3,2014,pop-film,0.478,0.102,1,-12.819,1,0.0569,0.961,0.0,0.102,0.536,67.641,225960,4
+Santhosh Narayanan,Uttradheenga Yeppov,2nPTHbJrhhu4PWjCgrDdoh,31,2021,pop-film,0.762,0.621,2,-8.187,0,0.276,0.279,0.026,0.102,0.518,129.724,289218,4
+Thaman S,Mangalyam,7n5Jcqw85WSfJHrMXsk5N2,61,2021,pop-film,0.837,0.948,9,-5.135,0,0.199,0.447,2.51e-05,0.19,0.825,111.028,260698,4
+Shreya Ghoshal,Kaadiruve Ninagagi,3oJvtJM24Xt6L8v1pa17FP,15,2022,pop-film,0.618,0.625,8,-7.753,1,0.0835,0.28,0.0,0.128,0.49,87.033,244191,4
+Vinod Rathod,Saas Meri Badi Nakhrewali,7Kj6RKzWtgiTtynzgipsss,9,2020,pop-film,0.764,0.86,1,-10.209,0,0.0575,0.226,0.0,0.0423,0.886,122.083,369632,4
+Ranjith Govind,Paavam Paavada,5YgaerWAcOj9BoVUMcknHB,32,2015,pop-film,0.591,0.95,11,-6.766,0,0.0785,0.0535,0.0452,0.309,0.837,170.031,192549,4
+Sujatha,Anthikku - Female Version,4DhBNhch5WTqO5tX4cV7Aj,0,2011,pop-film,0.649,0.352,9,-10.859,0,0.032,0.785,3.46e-05,0.0731,0.444,114.927,309293,3
+Saindhavi,Bhavamulona,149mF0dM62fBGjcX4ENIsf,2,2006,pop-film,0.646,0.567,1,-8.618,1,0.208,0.546,0.0,0.353,0.772,156.042,328438,4
+Karthik,Kabuldrakshi,3WRN8XSF3fJPZvzCjl5oXv,0,2009,pop-film,0.649,0.938,2,-4.055,0,0.055,0.0456,3.45e-06,0.0815,0.526,126.974,306965,4
+Gurdas Maan,Tenu Mangna Na Avey,6B0AhFwMSC9qAVTNtUifRp,33,2017,pop-film,0.746,0.933,10,-3.76,0,0.285,0.176,0.0,0.326,0.89,105.982,316417,4
+Unnikrishnan,Enna Punniyam,7lUBfSKEdH9geUfX2phpZI,0,2009,pop-film,0.582,0.452,5,-7.912,1,0.0347,0.793,0.0,0.0934,0.662,94.751,471400,4
+Diljit Dosanjh,Aar Nanak Paar Nanak,4twL6khW8atNygs4mc4BUy,51,2018,pop-film,0.544,0.673,2,-5.688,0,0.046,0.769,1.57e-05,0.101,0.389,139.803,278786,4
+Bappi Lahiri,Sakhiyan Sakhiyan,4tfZVojpb3YDlI6pTIq0Qg,0,2001,pop-film,0.705,0.597,11,-10.553,0,0.0568,0.006,0.0,0.109,0.446,136.949,228467,4
+Shafqat Amanat Ali,"Saiqa - From ""Saiqa""",5o6k3E6sdJQbyjS2whnYmc,11,2009,pop-film,0.558,0.374,7,-14.25,0,0.0341,0.931,0.00652,0.114,0.412,93.034,244663,4
+Sachin-Jigar,Don't Be Shy Again,09NOgtne4jBlEBKQfF71wD,32,2019,pop-film,0.799,0.906,1,-3.731,1,0.0576,0.0965,4.11e-06,0.306,0.906,104.996,164160,4
+Harris Jayaraj,Pallaakku Devadhaiya,2isMUOfjklSVReQKX9YqJF,27,2014,pop-film,0.641,0.8,1,-5.337,1,0.155,0.0906,4.44e-06,0.0478,0.946,144.546,284640,4
+Madhu Balakrishnan,Kudagadritharavattil,2TfKXuo5VHjiqZJ40dY3qv,0,2011,pop-film,0.553,0.696,2,-3.573,1,0.0379,0.281,0.0,0.101,0.647,150.019,293720,3
+Anuradha Sriram,Sahaya Thaaye,5eKl5rZmEmo4ptKeLz2F2F,0,2008,pop-film,0.61,0.792,9,-2.654,1,0.036,0.36,0.0,0.24,0.636,110.062,379611,4
+Vidyasagar,Angakale,4u5kcCS4jbCh4NyCE8tWdi,26,2000,pop-film,0.642,0.549,2,-8.942,1,0.0317,0.0206,0.0,0.124,0.565,95.11,319296,4
+Lata Mangeshkar,"Mera Saaya Saath Hoga (From ""Mera Saaya"")",4XUPFhs4GiN3Mu1wv0MIcy,20,2018,pop-film,0.557,0.422,2,-10.23,1,0.0285,0.982,0.1,0.229,0.583,95.235,363200,4
+Unni Menon,Thanka Pratheekshagal,4CtT4KGlyeJnZYuSD8AOlB,0,2010,pop-film,0.555,0.589,5,-5.386,1,0.0295,0.63,3.48e-06,0.123,0.558,154.582,270472,4
+Nakash Aziz,Bujji Bangaram,1FTajY5nxYsEK1Ib6DFBRD,48,2019,pop-film,0.67,0.642,3,-8.276,1,0.129,0.592,2.28e-06,0.15,0.88,119.794,208447,4
+Tulsi Kumar,Kajra Kajra Kajraare,0fUd0fWwmOR2nmjsFyzf8T,9,2010,pop-film,0.674,0.478,1,-7.875,1,0.105,0.0731,2.52e-06,0.156,0.555,175.872,177953,4
+Unni Menon,"Nadhiyae Nadhiyae (From ""Rhythm"")",09Aw0CZ5wvFu9rrPuH3qgi,39,2015,pop-film,0.398,0.39,2,-11.848,1,0.097,0.423,0.0,0.942,0.266,74.726,409307,5
+KK,Ishq Hothon Se,3qqKtzjbXAKmmhq4L3lHag,12,2011,pop-film,0.389,0.793,0,-5.296,1,0.11,0.0735,0.0,0.0848,0.618,77.614,307293,4
+G. V. Prakash,Bulle,2AdjREVHdOoPXDzUHcbe4g,39,2010,pop-film,0.827,0.842,0,-7.995,1,0.236,0.493,1.31e-06,0.0263,0.879,146.01,270987,4
+Harini,Pathanpothu,7GZfnKPAI70jyLVEWfzNlz,0,2004,pop-film,0.819,0.689,2,-10.234,1,0.113,0.0718,0.000217,0.0429,0.817,129.968,282733,4
+Tippu,Vennele Veedhiloni,4g1uqExAPWYi0fbhV72ndo,0,2010,pop-film,0.618,0.862,8,-7.72,1,0.0306,0.0519,0.758,0.101,0.654,126.063,308013,4
+Santhosh Narayanan,Karnan Purappadu,1261J7fpPTGJjj4SpZe6YR,26,2021,pop-film,0.458,0.85,2,-4.57,1,0.162,0.375,0.894,0.317,0.778,86.809,241367,4
+D. Imman,Thalaivar Rampage Theme Music - Instrumental,2UyVeBgW9G7NibqtFgZaoX,39,2021,pop-film,0.459,0.835,9,-7.026,1,0.136,0.239,0.049,0.0745,0.44,135.397,118875,4
+Arijit Singh,"Nashe Si Chadh Gayi (Remix) (From ""Befikre"")",2S34numOzxOtbpsgmAdmej,31,2019,pop-film,0.509,0.952,9,-4.291,0,0.0558,0.293,0.0,0.309,0.718,104.797,188421,4
+Jubin Nautiyal,Meri Tarah,68Y2Q0KVgYzDUZx4xZcwbW,46,2022,pop-film,0.536,0.857,11,-4.574,0,0.044,0.354,3.82e-06,0.079,0.568,89.652,290038,4
+Naresh Iyer,Its Your Love,2BtmRrC9Gd6jMziNs8eDxu,43,2012,pop-film,0.648,0.63,8,-7.423,1,0.0283,0.677,0.0799,0.151,0.834,83.014,308900,4
+Gopi Sundar,"Plans For The Rescue Theme, Pt. 2",4yUrGPQzzzM9ZDCzl4ZPgp,6,2017,pop-film,0.593,0.38,8,-11.209,1,0.0264,0.887,0.908,0.101,0.187,90.009,58667,4
+Suresh Wadkar,Aavde He Ruap,0uF7gwuggW7zItTAAnYnZ1,5,2015,pop-film,0.764,0.457,1,-10.593,1,0.0527,0.718,0.00646,0.0811,0.748,136.02,329561,4
+Lata Mangeshkar,Mera Dil Ye Pukare (Rap Version),2PUBKAf3WyFjeCPFF9HpGa,15,2022,pop-film,0.798,0.623,0,-11.09,0,0.33,0.747,0.000881,0.137,0.418,91.954,117452,4
+Shankar-Ehsaan-Loy,Nihaal Ho Gayi,0Zg54aCcYrQA681qE4P7HH,27,2008,pop-film,0.742,0.84,1,-6.6,0,0.169,0.313,0.0,0.106,0.763,104.113,251220,4
+Shaan,Jodi Tare Nai Chini Go,6rauIe3nBPHrh6CHwv48pA,9,2012,pop-film,0.604,0.479,4,-5.883,1,0.0259,0.856,2.32e-06,0.319,0.579,83.511,215224,1
+Falguni Pathak,Jhoom Jhoom,7djIU9MCLHqJe0A7RgQc4s,25,2021,pop-film,0.76,0.782,10,-5.139,0,0.0887,0.601,7.18e-05,0.0687,0.694,104.036,274731,4
+Hemant Kumar,Om Aaksharaya Namaha,7lodq2oxlgNtMoz0SX5KBk,7,2001,pop-film,0.548,0.451,5,-12.978,1,0.0583,0.789,0.000233,0.113,0.651,154.409,374597,5
+Madhu Balakrishnan,Tholi Poddu Kiranaala,19X0BSQSEVS3sMmM8TN0Td,0,2009,pop-film,0.684,0.529,8,-10.075,1,0.0554,0.745,0.0,0.135,0.545,139.889,316674,5
+Rahul Nambiar,"Vasantha Mullai (From ""Pokkiri"")",5yhuupgONNN3fOeZidDODM,25,2013,pop-film,0.728,0.657,2,-7.356,0,0.279,0.156,5.91e-06,0.0681,0.795,82.63,255347,4
+Sukhwinder Singh,"Kar Har Maidaan Fateh (From ""Sanju"")",3FHl1QYu76zguwjqhqcglX,58,2018,pop-film,0.557,0.821,1,-7.794,0,0.0573,0.0189,0.0,0.0863,0.184,170.022,312158,4
+Anu Malik,Moh Moh Ke Dhaage,2h5daJolpRsq0pLiGhr5fD,23,2019,pop-film,0.608,0.29,2,-13.014,1,0.0294,0.928,0.568,0.0876,0.375,128.023,324375,4
+Rahat Fateh Ali Khan,Pilade Saqia Pilade,5KA37uIHSLhAhQesOOrVwO,2,2015,pop-film,0.448,0.744,10,-11.763,0,0.0418,0.425,0.0356,0.0703,0.963,94.615,853998,4
+Aishwarya Majmudar,Odhi Navrang Chundaladi,0gnyckInFyrkHxdzMvS76N,21,2017,pop-film,0.607,0.705,3,-3.516,1,0.0552,0.707,5.84e-06,0.179,0.893,89.76,213613,4
+Vishal-Shekhar,Swag Se Swagat,2AjGLmuZK1fu21n1IpB9RU,52,2017,pop-film,0.825,0.559,1,-7.907,1,0.0722,0.0212,0.000689,0.205,0.207,105.957,235944,4
+Jubin Nautiyal,"Chitthi (From ""Chitthi"")",3u1WznNLqXhceMm6YswzL1,31,2020,pop-film,0.729,0.52,5,-6.586,0,0.0258,0.562,0.000893,0.101,0.458,114.977,229913,4
+Himesh Reshammiya,Photocopy,2AzddAk3sFanRoMRy0IDtF,33,2013,pop-film,0.481,0.828,6,-4.995,0,0.0792,0.00138,0.0,0.301,0.581,105.781,276008,3
+Thaman S,"Tharai Erangiya (From ""Eeram"")",2iNPZYcwkh60NCbOfp9mxL,11,2014,pop-film,0.743,0.502,5,-10.405,1,0.0324,0.215,0.00385,0.129,0.55,138.99,218413,4
+Udit Narayan,"Dil Ne Yeh Kaha Hain Dil Se (With Jhankar Beats) [From ""Dhadkan""]",51eVKTlQ02xQErxA3cBlx2,39,2017,pop-film,0.607,0.954,2,-6.036,1,0.0581,0.291,0.144,0.0924,0.735,81.915,415869,4
+Swarnalatha,Inayilatha Thyaga Pali,5CV9My90KkGplYv19o6bZ7,0,2009,pop-film,0.696,0.702,4,-6.102,0,0.0367,0.614,0.0,0.331,0.941,149.814,286746,3
+Sonu Nigam,Roop Salona Tera Dekh Ke - Jaani Dushman / Soundtrack Version,2OEByqLI1y6qSL4AcPv3Gf,0,2023,pop-film,0.672,0.926,0,-9.938,1,0.101,0.333,0.0,0.303,0.717,91.933,387800,4
+Pamela Jain,Kumkum Kera Pagle Maadi,6tUGoVHbwmW1TXFB0D3GJF,14,2018,pop-film,0.6,0.879,11,-5.127,1,0.064,0.0204,0.0,0.258,0.661,90.027,173320,4
+Sonu Nigam,"Salaam-E-Ishq (From ""Salaam-E-Ishq"")",0bxfFFRjpmV5Qj4v6kHhpD,34,2017,pop-film,0.765,0.796,8,-7.095,1,0.0537,0.0362,5.12e-05,0.249,0.759,103.025,424573,4
+Vijay Yesudas,Vilakkinil Sudarvittu,6FBbLyso2AQ4hmSzPiGyEm,0,2007,pop-film,0.293,0.31,7,-11.899,1,0.0306,0.208,0.00078,0.113,0.0385,95.784,231889,5
+Bharadwaj,Pattam Poochi,2STBz7AohZBDyjJA3nh4GF,0,2008,pop-film,0.814,0.657,7,-10.308,1,0.102,0.0805,0.000131,0.125,0.602,128.583,288173,4
+Jeet Gannguli,"Khamoshiyan (From ""Khamoshiyan"")",5Gy67YHzPZTk9Q0D73LAGH,62,2014,pop-film,0.524,0.52,2,-6.838,0,0.0272,0.643,0.0,0.158,0.259,143.885,335710,3
+Unnikrishnan,Bilvaashtakam,1NQQiwPPGi0OcCsjqOSGfD,0,2006,pop-film,0.48,0.294,2,-10.683,1,0.0432,0.954,0.0,0.351,0.769,101.404,587187,3
+Siddharth Slathia,Mora Saiyaan - Khamaaj,6RZlHCxxyLAEU6jXeg6Wms,37,2020,pop-film,0.339,0.495,5,-5.922,1,0.0339,0.785,0.0,0.172,0.487,111.946,184941,5
+Jagjit Singh,Tu Ambar Ki Aankh Ka Tara,1tboHI8fLe2WeHocm9dHEz,11,2012,pop-film,0.387,0.809,6,-7.45,0,0.245,0.894,0.127,0.968,0.665,108.713,426213,4
+Vishal-Shekhar,Ishq Bulaava,1fkjRQA8wXPPyxqYLbxuqy,63,2014,pop-film,0.579,0.713,7,-7.334,1,0.0318,0.617,3.33e-05,0.118,0.635,159.915,303640,3
+Meet Bros.,"Mujhe Kaise, Pata Na Chala - LoFi Mix",6YGUbHt2aN9ErIfTaXP2kj,33,2022,pop-film,0.434,0.426,6,-13.784,1,0.0439,0.883,3.44e-05,0.103,0.462,79.959,213410,4
+Udit Narayan,Saanwali Si Ek Ladki,6wL6ufct7tTP16hLeCb9xi,44,2002,pop-film,0.755,0.567,5,-12.727,0,0.0529,0.634,0.00115,0.281,0.692,113.978,245629,4
+Srinivas,Koraium Theakkum,4AkvOg6BJxDxRxuPJkUSNK,0,2001,pop-film,0.804,0.704,9,-10.071,1,0.086,0.329,0.000113,0.0621,0.227,105.999,321840,4
+Lata Mangeshkar,Chal Mere Ghode Tik Tik Tik (From ''Chirag Kahan Roshni Kahan'') - 1,2lbZKnEDxPnnnwzpgV89BQ,0,2015,pop-film,0.768,0.265,6,-12.379,1,0.401,0.95,4.78e-06,0.129,0.435,108.292,303878,4
+Kishore Kumar,"O Mere Dil Ke Chain (From ""Mere Jeevan Saathi"")",71hanKncfyBt0Yi66LRUYm,45,2018,pop-film,0.434,0.551,9,-8.396,0,0.0307,0.658,0.0,0.0749,0.582,110.23,273357,4
+Noor Jehan,Sun Ve Balori Akh Waaliya,6qkGIJjeL7zgkRXFgSj68g,6,2010,pop-film,0.592,0.96,7,-3.031,1,0.128,0.826,0.597,0.568,0.919,117.87,213360,4
+Swapnil Bandodkar,Hazar Baar,0ar1NTsj3VPA83uEVoZAYy,0,2003,pop-film,0.731,0.763,2,-4.466,1,0.0489,0.147,0.0,0.149,0.727,149.798,262067,4
+Abhijeet,Aitbaar Nahi Karna (Duet) - Jhankar Beats,6brMdAA0s710MR6Ne994ie,43,2017,pop-film,0.533,0.976,6,-1.876,0,0.131,0.0386,4.34e-05,0.344,0.764,82.773,156843,4
+Shaan,Wanna Wanna,4pD71Oeja9IQ1kWbQE6F23,10,2007,pop-film,0.62,0.907,7,-7.096,1,0.0613,0.0891,1.67e-05,0.0792,0.673,96.009,297500,4
+Diljit Dosanjh,Surma,0fjxdmPuNO05PUQPOUCUif,45,2019,pop-film,0.736,0.793,11,-3.891,0,0.189,0.0433,0.0,0.331,0.544,80.974,205841,4
+Udit Narayan,Chunri,3Hwzkj0pfWoxYQZin78vJK,13,2004,pop-film,0.718,0.935,2,-4.723,1,0.0557,0.0728,6.38e-06,0.0873,0.75,106.013,364922,4
+Mohammed Rafi,Aray Maine Tujhko Chaha - From 'Dharam Veer',3Mz7dcnmMgBsvqUtdwSQ1o,20,2020,pop-film,0.334,0.632,8,-9.591,1,0.0705,0.79,3.7e-06,0.0951,0.605,76.568,327600,4
+Sunidhi Chauhan,Vaddi Sharaban,0evgqvwvayeNJJ6btGuaq5,26,2019,pop-film,0.813,0.931,2,-3.968,1,0.0833,0.222,1.34e-06,0.256,0.765,103.514,266788,4
+Anuradha Paudwal,"Om Namah Shivay Dhun (From ""Om Namah Shivay"")",66FuAUdhni4lHfiBGlKkSF,26,2021,pop-film,0.446,0.623,5,-7.625,1,0.0456,0.777,0.0,0.123,0.647,113.137,3644056,4
+Sonu Nigam,Neeralli Sanna-Duet,5fJQ7wDblgKvevFl4hP6Bf,13,2011,pop-film,0.646,0.587,4,-7.107,0,0.0339,0.63,5.6e-06,0.33,0.386,118.993,280383,4
+Vijay Yesudas,Dandaayudhapaani,03hz0dDeZXJqZ4FY39bydm,0,2004,pop-film,0.643,0.528,7,-10.355,1,0.0333,0.651,4.1e-05,0.368,0.608,92.978,397244,4
+Abida Parveen,Ghoom Charakhra - Coke Studio Season 11,2SxSatUqNsJOOu3mXBTGqn,17,2018,pop-film,0.415,0.882,2,-5.507,1,0.176,0.196,7.53e-05,0.311,0.209,94.974,480958,4
+Unni Menon,Guruvayoorappa Nin,3OkfqbeXgyLiApVch7rTPE,0,2011,pop-film,0.62,0.828,7,-6.422,1,0.124,0.545,0.0,0.091,0.636,163.923,291972,4
+Shreya Ghoshal,"Deewangi (Rainbow Mix)[Remix By Dj Kiran,Dj G]",07RJC58SXjGzBODPOZZq0x,38,2007,pop-film,0.757,0.849,2,-4.026,1,0.041,0.0483,1.9e-06,0.788,0.711,121.992,286496,4
+C. Sathya,"Maalai Saatrinaal - From ""Jasmine""",03GfgC9qnjX462Xe51qPvF,18,2019,pop-film,0.449,0.552,8,-7.133,1,0.0449,0.376,0.0,0.146,0.445,67.685,147135,3
+Unnikrishnan,Ameenthathakuruji,0XetqUAiyDQbfiRPt2EqLQ,0,2009,pop-film,0.505,0.526,7,-7.046,1,0.0922,0.445,0.0,0.111,0.497,130.373,1084082,4
+Rahul Raj,Venal Kaatil,0bnE99lIV6Rz3N2HYKYrzc,29,2009,pop-film,0.677,0.557,4,-9.722,1,0.0298,0.24,0.000164,0.07,0.618,104.996,286840,4
+Unnikrishnan,Siva Om Siva Om,59p4MT6ZM7YE8SD5qYRJUQ,18,2004,pop-film,0.528,0.386,5,-11.475,1,0.026,0.662,0.0,0.196,0.505,94.975,2221381,4
+Harris Jayaraj,Kumari,43r2nT6ZIfCTFKFzLKNdtf,29,2005,pop-film,0.682,0.548,0,-6.768,1,0.029,0.278,0.0,0.0636,0.477,104.014,359013,4
+Anuradha Paudwal,Laxmi Beej Mantra,60dYvJIrP8fsdtbtZFv7kf,24,2018,pop-film,0.709,0.74,9,-7.091,1,0.0512,0.177,0.0,0.0984,0.887,134.99,402493,4
+Yuvan Shankar Raja,Nahna Na Nah - New Jack Swing Mix,7BiNTmcWAz2eYLtthuM8ys,26,2013,pop-film,0.669,0.668,0,-6.601,0,0.163,0.0135,0.048,0.263,0.497,179.972,267187,4
+Lata Mangeshkar,Chand Matla Matla - Umbartha / Soundtrack Version,2i0j5jbBPskszzCZMJx0YZ,18,2007,pop-film,0.432,0.658,8,-7.357,1,0.148,0.599,0.00183,0.333,0.769,150.441,345293,4
+Krishnaraj,Inbathirubnaal,1kXHkdXrXE8JVLdFBHsGdU,0,2008,pop-film,0.76,0.652,7,-8.71,1,0.0367,0.0512,0.000575,0.193,0.951,120.018,303464,4
+Mukesh,Pattade Kettikittu,3As1ZQZmPumA0f95I2FypL,0,2006,pop-film,0.803,0.866,7,-4.41,0,0.089,0.0127,7.13e-05,0.257,0.791,134.002,248840,4
+Lata Mangeshkar,"Chal Dariya Mein Doob Jayen (From ""Prem Kahani"")",61cR1XTBTWW7myzshOy0y1,13,2018,pop-film,0.484,0.377,9,-11.853,1,0.108,0.888,0.0,0.0867,0.683,89.372,295733,4
+Lata Mangeshkar,"Pyar Kiya To Darna Kya, Pt. 2",1PT8XHyH9YcPmbcQNbao92,7,2013,pop-film,0.369,0.619,2,-6.886,1,0.0794,0.817,1.34e-06,0.482,0.675,101.023,381080,3
+Arijit Singh,"Sajna (From ""Bojhena Shey Bojhena"")",5vxZbhW8KIKmKx5CLlGiuD,28,2012,pop-film,0.576,0.269,7,-9.898,1,0.0294,0.827,0.0,0.137,0.463,75.069,174167,4
+Unni Menon,Chinthichal,6llQ7QVKPriBSUd0qHrSfW,0,2011,pop-film,0.542,0.504,5,-6.409,1,0.0333,0.75,0.0,0.335,0.483,82.848,259632,4
+Yuvan Shankar Raja,"Harla Farla (From ""Chakra (Tamil)"")",7ihnsq18gzTGXz3sguJwSK,23,2020,pop-film,0.795,0.738,0,-6.268,1,0.0587,0.193,3.23e-05,0.0684,0.227,97.969,206795,4
+Diljit Dosanjh,Nanak Aadh Jugaadh Jiyo,2hWIib7KA4PeSn8JY2ZK6b,46,2019,pop-film,0.633,0.721,9,-4.648,0,0.0411,0.687,0.0,0.099,0.592,143.893,279207,4
+S.A. Rajkumar,Palayathamma Nee Pasavilakku,7CsKlC6Q5iG6jNcHSjnoQR,24,2000,pop-film,0.592,0.923,8,-9.172,1,0.332,0.715,0.125,0.538,0.769,191.377,259840,3
+Unnikrishnan,Chandirana Hididu,5FoDoR7u7bk3A8Vf8AbQO8,0,2001,pop-film,0.801,0.651,2,-7.216,0,0.0807,0.0951,0.000109,0.0934,0.734,88.953,340976,4
+Palak Muchhal,Navkar Mantra,0FqXXL7Div9hRonWrA3jgF,16,2021,pop-film,0.452,0.517,5,-9.546,0,0.0295,0.686,0.0,0.113,0.438,91.015,382418,4
+Tippu,Thalaku Balaku Thare,7ugXjsex4gQkHbgVOjSYrB,0,2009,pop-film,0.55,0.827,8,-4.699,1,0.142,0.188,0.0,0.105,0.672,134.88,314567,4
+Kishore Kumar,"Ham The Woh Thi (From ""Chalti Ka Naam Gaadi"")",3QWyIqH6Qtf8VEGwyt4rQV,14,2018,pop-film,0.797,0.458,4,-10.843,1,0.438,0.866,0.0,0.134,0.868,114.768,223896,4
+Neeti Mohan,Bheegi Bheegi Baatein,4e5PHF4HoDGMopgGdCjQb8,34,2020,pop-film,0.543,0.63,0,-5.99,1,0.0296,0.575,2.02e-05,0.215,0.185,85.904,293953,4
+Amit Trivedi,Ishaqzaade,74dP5hqakjK6WAs05TqOwb,56,2012,pop-film,0.32,0.337,0,-10.91,1,0.0611,0.709,0.0,0.0662,0.206,79.098,316865,4
+Sujatha,Thiruvullam,3oa0d07dnemGwHEgKyjAVC,0,2008,pop-film,0.343,0.531,6,-6.1,0,0.042,0.393,0.0,0.238,0.526,82.575,364040,4
+Vijay Yesudas,Neermizhiyil Peeythozhiyaa,2GikjV8Y4creYJyVEHbYZr,5,2014,pop-film,0.273,0.532,5,-5.92,0,0.029,0.425,0.0,0.0913,0.429,93.227,327893,4
+Shankar-Ehsaan-Loy,Allah Hi Reham,5s9a6n2FQaufFDUTTcsaXj,41,2010,pop-film,0.566,0.654,3,-7.797,1,0.0716,0.739,0.0,0.103,0.437,80.087,241453,4
+Harris Jayaraj,Yegise' Nadhi,5wWAk4PkxtkM9VTPSH06aY,34,2015,pop-film,0.58,0.589,0,-5.807,0,0.0392,0.232,0.0,0.109,0.285,136.786,313653,4
+Saindhavi,Sri Venkteshwara Karavalamba Stothram,1Ut5OVt1u0K3pkCZhEqAum,3,2006,pop-film,0.551,0.287,1,-10.446,1,0.0391,0.893,0.0,0.0853,0.314,117.082,419743,4
+Vijay,Kandaangi Kandaangi,5qGrY4iAi05Ej1yjfUUhNe,55,2013,pop-film,0.596,0.653,5,-3.817,0,0.0317,0.543,0.0,0.22,0.633,142.52,294316,3
+Anuradha Paudwal,Sri Rudrashtakam,5LCZvNrec2X8qoAyc0msz3,17,2017,pop-film,0.384,0.382,4,-8.012,1,0.0635,0.99,0.0,0.129,0.219,73.369,248197,4
+Udit Narayan,Dholida,0YJooLEHFKKjtwWSEaeHzX,51,2018,pop-film,0.546,0.945,1,-3.031,1,0.213,0.144,0.0,0.0909,0.914,124.524,216251,4
+Sonu Nigam,Ekla Chalo,0CAuVR0J3a6afigsrYinu4,3,2012,pop-film,0.525,0.571,3,-11.188,1,0.0472,0.631,2.35e-06,0.0859,0.53,139.926,364205,3
+Pankaj,Din Gani Gani,06wF0sOezES6JtORqCcdPD,0,2010,pop-film,0.58,0.588,8,-9.626,0,0.253,0.813,0.0,0.896,0.768,151.831,218895,4
+Deva,Merkey,43Gge8hiMWSFb4VYxdVhmR,9,2001,pop-film,0.656,0.679,9,-8.544,0,0.0556,0.085,0.0,0.137,0.465,128.893,371813,4
+Amitabh Bachchan,Karpurgauram,2I8POKVsvLrDi23ZpNG7R0,59,2017,pop-film,0.357,0.0988,3,-13.95,1,0.0375,0.985,0.00135,0.11,0.319,70.517,85500,3
+Lata Mangeshkar,"Mere Pyar Ki Umar Ho Itnee Sanam (From ""Waaris"")",1pd13U7Iafq9urRaK1Z9HV,11,2020,pop-film,0.395,0.599,10,-4.911,1,0.0381,0.866,6.97e-06,0.147,0.673,80.863,378173,4
+Bhupinder Singh,Huzoor Is Kadar,2IZsCjubB3KvB9Hzh7iOhr,20,2006,pop-film,0.593,0.41,10,-13.367,1,0.0337,0.842,0.000157,0.0974,0.547,121.979,235373,3
+Asha Bhosle,Palwan Wala,4QRPz1VgRl4PI2DfEDMTcm,6,2020,pop-film,0.461,0.803,11,-6.188,0,0.162,0.86,0.0552,0.728,0.84,127.125,342063,4
+Sujatha,Varachandraprabha Choozhum,1Y2ww8CRXGIpVibWjv6KhX,0,2003,pop-film,0.614,0.56,5,-8.62,1,0.0294,0.473,0.0,0.0657,0.78,164.004,458502,5
+Unnikrishnan,Ondraam Padi - Padi Paattu,0CxYn9VDxBOqUe63k31quq,2,2007,pop-film,0.654,0.587,9,-7.296,1,0.0984,0.564,0.0,0.385,0.902,129.994,547467,4
+Unnikrishnan,Karthikai Maasam,1tB0ok7o18EXY0qvnZbGDH,4,2005,pop-film,0.553,0.426,2,-13.003,1,0.132,0.437,0.0,0.1,0.789,176.614,305440,3
+Harris Jayaraj,Rangu Rangamma,1KGeu8QVuqwbl46ghIMqed,14,2008,pop-film,0.815,0.647,5,-7.987,0,0.163,0.156,0.0047,0.111,0.547,140.904,364973,4
+Ali Zafar,Aurat - A Poem by Ali Zafar,0aEAzXUDwqvPqdUQhp6SOK,17,2019,pop-film,0.509,0.233,7,-15.764,1,0.339,0.945,5.87e-06,0.262,0.211,88.105,72024,3
+G. V. Prakash,Angnyaade,384x7qDzho8phQt5NoCofh,46,2013,pop-film,0.632,0.482,0,-7.934,0,0.108,0.771,0.00023,0.109,0.746,119.989,218173,4
+Bhupinder Singh,Kobe Je Kothay,14uacDuhJ1Fmsoq5pj3Tll,24,2020,pop-film,0.237,0.443,1,-9.466,1,0.0358,0.874,4.87e-06,0.109,0.391,163.357,263254,4
+Karthik,Padha Malar,23BHLJHthrrbGGccFLfvDq,2,2011,pop-film,0.608,0.635,2,-6.375,1,0.0286,0.0979,1.98e-05,0.109,0.641,100.004,361210,4
+Adnan Sami,Tu Yaad Aya,6459P5qj6xlTGU3qpYndn5,41,2020,pop-film,0.588,0.633,9,-6.287,0,0.0291,0.789,1.55e-06,0.106,0.331,100.007,291376,4
+Karthik,En Chandavo,7nCUZtt7kmQpmP6RgVLjNF,0,2006,pop-film,0.594,0.856,0,-9.167,1,0.218,0.358,9.88e-05,0.0612,0.894,142.971,232653,4
+Sujatha,Priyaneshu,0GrJ79qf4AA3jY0hpGxk1k,0,2008,pop-film,0.544,0.641,6,-5.574,1,0.135,0.656,0.0,0.228,0.771,164.682,187559,3
+Gurdas Maan,Tu Daati Asi Mangte,09pxR0Xly1emvE5xPZvht8,5,2017,pop-film,0.703,0.647,4,-10.793,1,0.162,0.0419,6.05e-06,0.0676,0.936,114.125,321672,4
+Gopi Sundar,Innentesuryan,3hsILb9YyUSmfRQi3Sjhqg,6,2013,pop-film,0.659,0.637,4,-9.208,1,0.0418,0.0477,0.00548,0.284,0.63,101.998,331174,4
+Unni Menon,Ambaadi Kanna Urangu,3mtNYsirijrpEpfBNX2ZlJ,0,2010,pop-film,0.665,0.362,0,-8.827,1,0.025,0.584,0.0403,0.538,0.728,99.446,301453,1
+Arijit Singh,Mere Yaaraa,1jFkjPgBzsIgUyfPiaREx8,45,2021,pop-film,0.324,0.539,2,-8.076,1,0.038,0.713,3.15e-05,0.118,0.486,120.526,285164,4
+Kishore Kumar,Aamar Pujar Phool,6lC4hHELgHG2iQx9RVhZYp,27,2020,pop-film,0.494,0.342,8,-11.762,1,0.028,0.851,0.0,0.599,0.371,90.752,234453,4
+Krishnaraj,Gurusamy Gurusamy,1Oorp5T1X1kOmvkFcXoG4q,0,2003,pop-film,0.733,0.483,11,-11.661,1,0.0518,0.142,0.000129,0.324,0.734,91.823,378802,4
+Vijay Yesudas,Oru Madhura Kinavin - Remix,1o1OVIjl4jbu0c1ZOH2Jfz,26,2011,pop-film,0.625,0.901,8,-5.428,1,0.0755,0.206,0.0462,0.199,0.718,142.058,291806,4
+Rahat Fateh Ali Khan,Tu Hi Rab Tu Hi Dua,1wGSK11huEffPN8rxMxQaJ,43,2012,pop-film,0.649,0.807,10,-5.984,0,0.0732,0.37,0.0,0.119,0.741,86.075,423573,4
+Mohit Chauhan,"Saadda Haq (From ""Rockstar"")",2Sam0Wk9bZ9MIJeVdmStIG,24,2019,pop-film,0.554,0.882,6,-5.018,0,0.0488,0.091,2.8e-06,0.368,0.627,96.958,362662,4
+Diljit Dosanjh,Luna,1Hy2ZRkFGC3P47r6lDX2sy,51,2021,pop-film,0.814,0.684,0,-7.962,0,0.0438,0.0426,1.37e-05,0.0571,0.893,120.038,186000,4
+Farida Khanum,Mere Hum Nafas Mere,07NfMn9bn3oLGOv7dRhqf3,3,2012,pop-film,0.384,0.525,2,-15.18,0,0.0639,0.795,0.0608,0.926,0.831,100.993,402099,3
+Sonu Nigam,Jana Gana Mana,6Ms7IEh2dgYi3i66V407nV,24,2022,pop-film,0.531,0.322,2,-8.093,1,0.0273,0.847,1.63e-06,0.339,0.183,76.163,144614,4
+Unnikrishnan,Neiabhishekam,24cgARhqcyRi35tGCYfvUj,0,2006,pop-film,0.696,0.464,7,-8.98,0,0.0398,0.688,0.0,0.223,0.669,97.029,538373,4
+Kishore Kumar,Dilbar Mere - Satte Pe Satta / Soundtrack Version,78Q81neHOA72CNyWrK4Qlq,8,2020,pop-film,0.389,0.615,5,-6.877,0,0.0428,0.668,0.0,0.15,0.845,180.632,288480,3
+Unnikrishnan,Sneham Thedi,4A70BeggSReszcHCcjMUel,0,2004,pop-film,0.772,0.575,2,-9.105,1,0.0315,0.114,0.0,0.196,0.692,108.98,288311,4
+Udit Narayan,Tera Mera Saath Rahen,02xOYBT1ljCJ1rUqUZnK3T,30,2001,pop-film,0.549,0.707,8,-10.536,1,0.0977,0.484,0.0,0.0689,0.705,90.215,110840,4
+Kumar Sanu,O Yaaron Maaf Karna (Happy) (Chill LoFi),67NrML9cBT0JJExL05y8c9,0,2023,pop-film,0.441,0.756,5,-11.022,1,0.092,0.31,0.293,0.923,0.531,182.002,208620,4
+Saindhavi,Maranthana,6az7W3lvLqjriVQzIa6Rp3,20,2022,pop-film,0.647,0.43,2,-7.935,1,0.0287,0.39,8.1e-05,0.0907,0.335,123.036,240976,4
+Tulsi Kumar,Is Qadar,3Rvdqwgbr3rryZkNRrItt3,59,2021,pop-film,0.671,0.904,6,-2.736,0,0.0506,0.514,3.23e-05,0.0642,0.811,90.971,226313,4
+Amaal Mallik,"Soch Na Sake (From ""Airlift"")",3Y4LaBQv53N0QLnmYYEZNZ,30,2017,pop-film,0.505,0.667,9,-5.797,1,0.0323,0.597,0.0,0.213,0.516,151.728,281323,4
+Krishnaraj,Ulagamellam Enakathayam,1xHKdWxH2QkF9Vk44ykdBw,6,2005,pop-film,0.791,0.655,9,-7.47,1,0.0379,0.033,0.00204,0.0845,0.58,129.927,316239,4
+Tippu,"Thalaku Balaku Thare - From ""Mr. Painter""",46QQ1UuilIaiEoMGFVCv5C,0,2009,pop-film,0.55,0.827,8,-4.702,1,0.142,0.187,0.0,0.105,0.673,134.881,314567,4
+Harish Raghavendra,"Aagaya Suriyanai (From ""Samurai"")",28pcvDto4mvkkTieJLllvr,56,2013,pop-film,0.752,0.595,10,-8.919,0,0.0332,0.232,0.000133,0.0442,0.681,115.509,324127,4
+Ash King,Tumi Aashe Paashe,6FJpKfwdiOwZokGAZzAfkA,36,2015,pop-film,0.759,0.915,7,-3.321,1,0.149,0.216,0.0,0.2,0.911,115.986,261207,4
+Shweta Mohan,Palapoo,0PEpLdgFGObVU2f34lyEGR,26,2008,pop-film,0.687,0.703,7,-6.163,1,0.0274,0.407,3.47e-05,0.132,0.693,126.043,268787,4
+Jubin Nautiyal,"Agar Tum Saath Ho-Maahi Ve (From ""T-Series Mixtape"")",5uy4j6ezHic4TNr8IV4Nd9,41,2018,pop-film,0.623,0.325,1,-9.342,1,0.0334,0.498,1.72e-05,0.0805,0.528,125.077,272869,4
+D. Imman,"Tamizhan Endru Sollada (From ""Bhoomi"")",0ocPf3gWtOLCemJewOvtuK,15,2020,pop-film,0.553,0.959,10,-4.86,0,0.181,0.0378,0.0,0.401,0.711,159.911,267930,4
+Mohit Chauhan,Daak Ticket,04mAPnfQp4QP2rRmxeMMbi,24,2015,pop-film,0.559,0.53,0,-6.23,1,0.0354,0.376,0.0,0.101,0.494,95.106,247791,4
+KK,Khwabon Khwabon,0KUHuAyQV048duExDLXnJb,42,2011,pop-film,0.7,0.767,11,-7.158,0,0.0658,0.345,0.0,0.209,0.836,135.485,319193,4
+Udit Narayan,Aawara Aawara,3NY8VzJ6Fgi9XmPClKAJLr,7,2000,pop-film,0.72,0.514,8,-11.265,0,0.0301,0.313,3.71e-06,0.278,0.606,112.476,332761,4
+Lata Mangeshkar,"Husn Ki Vadiyon Mein (From ""Waaris"")",7dcZWsPLv4BtPwKRFWA2m2,7,2020,pop-film,0.412,0.709,0,-5.348,0,0.0399,0.884,4.6e-05,0.105,0.413,109.48,448401,4
+Srinivas,Sotta Sotta (From “Tajmahal”),4HsRuSR1sZ4r3eOVatwW1h,10,2015,pop-film,0.727,0.388,6,-11.828,1,0.0437,0.133,0.0,0.0698,0.582,95.018,334550,4
+Madhu Balakrishnan,Neelakalebara,39Btc9bqZsKtWrA8Ut8Z1L,0,2007,pop-film,0.569,0.551,0,-7.662,0,0.0336,0.608,0.0,0.0989,0.572,149.944,398629,4
+Devan Ekambaram,Raja Raja Chola - Part 1,7eZoU6aPYsLkHEgAkpXFHl,0,2000,pop-film,0.82,0.793,11,-8.853,0,0.0698,0.0388,0.0,0.364,0.678,133.057,250096,4
+Amit Trivedi,Madhubala (From Songs of Love),1ZMlxEZZaJ7IDYUpr5JXB2,26,2020,pop-film,0.671,0.182,0,-13.321,1,0.0293,0.983,0.0154,0.123,0.336,107.872,243333,4
+Dharan Kumar,"Talku Lessu Worku Moreu (From ""Murungakkai Chips"")",4UtumZ7zifIhHQfbVImwBQ,29,2021,pop-film,0.471,0.902,5,-6.367,0,0.246,0.34,0.000837,0.129,0.723,173.024,255145,4
+Pop Shalini,Us Se Bada Sabhaga Na Duja,7HaIyVKPAJG3Wv5IvyROuA,0,2000,pop-film,0.696,0.353,2,-15.435,1,0.123,0.966,0.000299,0.581,0.894,143.95,1510661,4
+Karthik,Sama Gana Lolane,4xJrnfie55Mca4r7BzAHIg,0,2000,pop-film,0.351,0.717,1,-10.137,1,0.0711,0.888,6.67e-05,0.356,0.835,81.694,364293,4
+Najim Arshad,Naalo Ninnu Nenu Chusukunta,7qsq4baLiLlLLZg6wrf6EJ,10,2021,pop-film,0.614,0.674,5,-6.088,0,0.0964,0.487,0.0,0.207,0.629,167.947,225782,4
+Udit Narayan,Honeymoon Manaib,3Hi1jpE2i8nNrafDffJ96Y,0,2007,pop-film,0.808,0.698,1,-8.897,1,0.15,0.585,1.65e-06,0.502,0.769,92.985,261707,3
+Madhu Balakrishnan,Neerajanayana,6Rf9o16DpAP1RhJDuWWTTx,0,2002,pop-film,0.69,0.397,7,-7.983,0,0.0311,0.755,0.000296,0.104,0.612,132.22,293825,3
+Ankit Tiwari,Koi Aur Hai,5zlsJ5i5bYUWLLJSjTfKIV,22,2020,pop-film,0.234,0.416,7,-8.647,1,0.0464,0.335,0.0,0.303,0.233,80.025,200000,4
+Haricharan,Gundesadilaga,3TYyfPAoRhBmdVd6glc312,30,2020,pop-film,0.568,0.303,0,-9.993,1,0.0355,0.726,0.0,0.105,0.315,179.973,297333,1
+Saindhavi,Kangai Karai Kanna,2BR3dD9Uqg7xGvAtCcoTDb,0,2003,pop-film,0.634,0.563,7,-9.438,0,0.0345,0.738,0.00644,0.149,0.777,151.876,313794,4
+Unni Menon,Sambo Siva Sankara,0WUBa5aSvO74pi6ngKGcxM,0,2004,pop-film,0.54,0.775,7,-9.897,1,0.0356,0.922,0.538,0.164,0.961,169.734,311589,3
+Deva,Poo Pookkum Satham,5qYNY1zRJOG93xslH9mPgt,0,2010,pop-film,0.678,0.742,9,-7.365,0,0.0811,0.524,9.97e-05,0.616,0.588,101.93,320907,4
+Karthik,Nenthukitten,6wqBSBiZQ3tVnEkWqx5rAG,30,2001,pop-film,0.679,0.392,3,-12.495,1,0.0466,0.106,0.0,0.0955,0.684,74.931,388293,4
+Atif Aslam,Bakhuda Tumhi Ho - Remix,6TUhSOLVUVSlnOWhX7lQAL,33,2008,pop-film,0.614,0.732,2,-5.195,1,0.0391,0.318,2.05e-05,0.0839,0.711,127.024,346200,4
+Unnikrishnan,Bhajanshyam Tori,0KX3XCR22BRM5GxB9kQtHQ,0,2008,pop-film,0.467,0.433,9,-10.876,1,0.0852,0.916,0.0018,0.233,0.54,156.455,334124,4
+Lata Mangeshkar,"Pyar Kiya To Darna Kya, Pt. 1",50OxXMdSN75yVf6JhCKWN5,8,2013,pop-film,0.364,0.62,9,-6.89,1,0.0606,0.826,1.11e-06,0.424,0.686,98.799,381080,3
+Srinivas,"Ee Preeti Manasugalu (From ""Preethigagi"")",7iD0v9QZqQQyyOVFvtbY25,13,2018,pop-film,0.56,0.443,9,-11.865,0,0.0972,0.666,9.77e-06,0.0913,0.497,78.109,304804,4
+Mohit Chauhan,Yeh No.1 Yaari Hai #TuMeraNo1Yaar,0pfDl7nv3RuCxgdOqBGTzr,39,2020,pop-film,0.545,0.551,7,-7.535,1,0.0328,0.187,0.0,0.111,0.419,83.941,256000,4
+Kavita Krishnamurthy,Om Namah Shivay,7CSVMBZitLrMYWfLnM8Nxb,14,2010,pop-film,0.482,0.822,1,-5.988,1,0.0578,0.634,5.15e-06,0.0622,0.555,89.833,311099,4
+G. V. Prakash,Kadha Cheputhane,2Re2hOwDVJo5vmdN2Hdkz8,23,2011,pop-film,0.748,0.543,11,-8.11,1,0.311,0.429,0.0,0.282,0.654,114.865,340173,4
+Udit Narayan,Chupke Se Sun,46T6l8oGEm6JxfZe9GsYa2,37,2000,pop-film,0.653,0.536,10,-11.356,0,0.112,0.265,2.45e-06,0.352,0.49,86.036,296133,4
+Saindhavi,Sakthi Manimaalai,18YkVnHyQZNYlp9ABTkOPL,0,2011,pop-film,0.785,0.518,9,-7.713,0,0.0411,0.873,0.0,0.264,0.586,123.902,412588,4
+Sonu Nigam,Kuch Kar Lo,6xhKHdPYgNG2JLEu2XiIc1,6,2008,pop-film,0.384,0.945,5,-6.437,0,0.242,0.713,2.35e-06,0.163,0.213,117.005,155458,4
+Karthik,Jabiliki Vennelavvana,7GQG7q6lUU7LnQpV4s1CZZ,4,2010,pop-film,0.663,0.808,4,-9.212,0,0.0587,0.0054,0.0186,0.102,0.706,163.911,247560,4
+Tippu,Yeppadi Irruntha,3SqFwkThWNoyIiU62aDpTz,47,2008,pop-film,0.819,0.812,7,-3.902,0,0.136,0.3,0.0,0.0749,0.839,105.003,265221,4
+Lata Mangeshkar,Aayegi Zaroor Chitthi - Dulhan / Soundtrack Version,1w2pCacePqigsHRLSTVCHl,26,2006,pop-film,0.39,0.627,8,-7.025,1,0.0472,0.72,3.89e-06,0.11,0.421,120.201,352640,4
+Ajay Gogavale,Mauli Mauli,2wlvvOjuDENy0b7DbdZ6Dr,46,2014,pop-film,0.387,0.752,1,-5.048,1,0.0453,0.169,1.77e-06,0.111,0.183,69.842,305806,4
+Yuvan Shankar Raja,"Venmegam (From ""Yaaradi Nee Mohini"")",1cpsntvfnE7buMmpc2vgLk,21,2014,pop-film,0.803,0.426,3,-11.54,1,0.0746,0.42,2.17e-05,0.11,0.556,114.944,274853,4
+Rahul Nambiar,Ippadiye,4rqsILS4DCWLqmZhkCu2jl,39,2014,pop-film,0.833,0.694,3,-7.058,0,0.0825,0.127,4.15e-05,0.116,0.86,120.016,274019,4
+Ali Zafar,Lab Pay Aati,5zd5bx0iti0uSEy5eiXmpA,22,2019,pop-film,0.406,0.444,3,-9.255,0,0.0309,0.852,0.0,0.105,0.293,168.022,282857,3
+Sean Roldan,The Romance Of Power Paandi - Venpani Malare (Male),30FM1oYLSEOEzDUtXegiUq,45,2017,pop-film,0.644,0.421,0,-11.753,0,0.0571,0.756,0.000311,0.129,0.522,90.016,233333,4
+Arijit Singh,Pranama Na Pranama,48BmH0RwIVdIyC1GJq3UB1,30,2014,pop-film,0.594,0.372,5,-6.803,0,0.0235,0.863,5.01e-05,0.115,0.433,93.993,262973,4
+Lata Mangeshkar,Jai Laxmi Mata,1KmzuBvFXMV6ux3G5apnlj,11,2000,pop-film,0.633,0.707,6,-6.471,1,0.0339,0.745,0.0,0.421,0.856,103.119,316867,4
+Sonu Nigam,Mere Naino Ki Pyas,4lZx5V7mwsAnVOYSrXPKiO,30,2008,pop-film,0.482,0.705,1,-10.256,0,0.059,0.442,0.0,0.236,0.874,87.987,371040,4
+Jassie Gift,Saamba,1C1AsfQp7RjctEAbkg46r3,14,2009,pop-film,0.535,0.829,9,-5.991,0,0.227,0.109,1.18e-06,0.292,0.689,139.873,228573,4
+James Vasanthan,Thellipoyene Manase Paina,5K42adJ3QjoDM17Fczl4KX,1,2010,pop-film,0.471,0.469,9,-10.371,1,0.0473,0.712,2.72e-05,0.0734,0.412,90.411,393173,4
+Sonu Nigam,Janeman Tu Khub Hai - Jaani Dushman / Soundtrack Version,6vvZMA9wiZ3Dpc1wf6KEz3,0,2023,pop-film,0.672,0.911,5,-10.025,0,0.06,0.0912,2.88e-06,0.345,0.828,129.962,338467,4
+T. M. Soundararajan,Kaalai Naeram - AI.Valliappa,4f1VxFTDD8wGqRDRCIMgfU,0,2002,pop-film,0.586,0.673,6,-7.161,1,0.0537,0.723,2.54e-05,0.559,0.961,148.085,288160,3
+Diljit Dosanjh,Balle Jatta,3TMub7U6GmZ9RIaQpQerbZ,59,2022,pop-film,0.778,0.679,2,-6.949,1,0.0433,0.0266,0.0,0.387,0.44,130.042,212462,4
+Sunidhi Chauhan,Main Chandigarh Di Star,3sroe8tLSfkgfCo9UQ11EJ,14,2011,pop-film,0.698,0.822,2,-7.158,1,0.0506,0.0281,0.0396,0.233,0.709,157.928,197100,4
+Unnikrishnan,Mahema Pada Tharama,7JTSQtKVyyZneM0nT4tz1i,0,2004,pop-film,0.54,0.574,10,-9.89,1,0.0321,0.721,0.0,0.197,0.814,97.61,251587,4
+Mohit Chauhan,"Tanha Mera Pyaar (From ""Bypass Road"")",7EstV7pKVSut8TLx7skwK7,21,2019,pop-film,0.54,0.362,1,-12.739,1,0.0275,0.582,3.91e-06,0.119,0.198,101.997,317880,4
+Arijit Singh,Andheron Mein Rishtey,1aVxulerN2EJfEr7fndbpq,7,2018,pop-film,0.615,0.621,2,-7.882,0,0.0498,0.107,0.000268,0.0744,0.418,135.997,299214,4
+Udit Narayan,Aarti,0Cjfyzze23Q2bZpG4Bx3y0,21,2003,pop-film,0.624,0.607,7,-7.092,1,0.0302,0.805,0.0,0.217,0.835,90.787,218733,4
+Pankaj,Harabar Byatha,6bLCfNbXBTuLxeu2sAgxXC,0,2011,pop-film,0.646,0.696,11,-7.47,0,0.15,0.535,1.03e-05,0.272,0.697,91.797,280139,4
+Lata Mangeshkar,Bhannat Ranvara,5NV7x154na4fuj1Bj9Zbzu,20,2002,pop-film,0.568,0.456,1,-10.503,0,0.0416,0.361,0.0,0.328,0.83,96.002,301163,4
+Javed Ali,"Pehli Baar (From ""Pehli Baar"")",1Xcw4CKU7HkbvSsdbCGEq4,28,2022,pop-film,0.626,0.669,6,-5.162,1,0.0455,0.751,0.000325,0.0751,0.771,74.969,224211,4
+Unni Menon,Varaprasaadam Nalkane,1zAUBcsGCnaaA4pfh83jSP,0,2001,pop-film,0.434,0.486,7,-7.524,1,0.0288,0.846,0.0,0.0824,0.561,103.858,289985,4
+Lata Mangeshkar,Rehem Nazar Karo,0GqcqbxSmvofnVeASz4Qe6,5,2008,pop-film,0.583,0.413,2,-8.364,0,0.0326,0.584,0.000175,0.287,0.448,119.797,217496,1
+Anuradha Paudwal,Durga Maa Aarti - Jai Ambe Gauri,3Hg8cAjD5AOMgX6q93n3OZ,18,2019,pop-film,0.481,0.767,6,-3.91,1,0.042,0.815,0.0,0.591,0.815,92.06,535680,3
+Mohammed Rafi,Patta Patta Buta Buta - From Ek Nazar,506Qeus6z1IQspb8uz3aOT,9,2012,pop-film,0.336,0.744,8,-4.03,1,0.0474,0.877,0.000392,0.0747,0.613,138.017,302200,3
+Unni Menon,Neela Vana Veedhikal,5GSy9QGLyp8TA7UbiKZ78S,0,2008,pop-film,0.6,0.577,2,-6.667,0,0.0285,0.174,0.0,0.487,0.704,127.079,215931,4
+Sujatha,Mere To Girdhar Gopala,3TP3YptGz2p8IFiX7PiiJY,0,2004,pop-film,0.459,0.217,6,-13.365,1,0.0369,0.676,5.76e-06,0.105,0.31,150.149,320573,3
+Madhu Balakrishnan,Nanage Neenu,5aWqZa1qtTOGMqCByXWSWH,0,2003,pop-film,0.667,0.713,11,-8.279,0,0.0772,0.533,2.38e-05,0.0944,0.444,99.991,275178,4
+Anuradha Sriram,Lakshmi Maa Lakshmi,48pvmfhX8wNLVds3HXWjLE,0,2011,pop-film,0.764,0.771,1,-6.958,1,0.0331,0.184,0.00445,0.108,0.941,127.941,181893,4
+Unni Menon,Oru Nullu Bhasmamaai,385IFCaBMke9YwjxDWeneC,0,2003,pop-film,0.688,0.613,5,-6.019,0,0.0433,0.865,0.0,0.135,0.583,82.832,305711,4
+Mohammed Rafi,Salamat Rahe Dostana Hamara (Part I) - From 'Dostana' / Soundtrack Version,3YH3jw5N7ZiGOOh1WgVBno,10,2020,pop-film,0.487,0.77,8,-7.196,0,0.0605,0.705,0.0,0.221,0.773,80.942,263093,4
+Shreya Ghoshal,"Slow Motion (From ""Bharat"")",7yEuRloGyxyu1KaWBTPP1Z,51,2019,pop-film,0.574,0.738,10,-5.526,1,0.0958,0.0235,2.03e-06,0.0959,0.307,109.996,247248,4
+Lata Mangeshkar,Main Kaun Hoon - Bandish / Soundtrack Version,6Nj1VBNpLcI6xO4ItjNyMM,0,2023,pop-film,0.398,0.49,8,-6.676,1,0.0307,0.851,0.0136,0.179,0.137,109.771,401413,4
+Vijay,Vijay'S Prediction,4cvOy7ED2tmLIBV77GiQLm,0,2005,pop-film,0.594,0.859,0,-6.527,1,0.588,0.596,0.000492,0.0652,0.185,91.537,105770,4
+Madhu Balakrishnan,Naadave Ninayya,3BkaiMNb2F4Kv80ewoyWkU,0,2001,pop-film,0.71,0.541,2,-11.286,1,0.0548,0.33,1.06e-06,0.426,0.73,103.973,343760,4
+Harris Jayaraj,"Idhayathai Yedho Ondru (From ""Yennai Arindhaal"")",68Q14rFTCorPK5IcYzWJF1,16,2015,pop-film,0.721,0.496,4,-8.063,1,0.0508,0.845,0.0,0.11,0.217,131.969,235392,3
+Shreya Ghoshal,Jaane Hai Woh Kahan,2Cw8bz2WstYq5MBYblub2T,13,2007,pop-film,0.629,0.459,1,-13.464,1,0.0298,0.443,0.00167,0.131,0.481,147.983,237240,4
+Jagjit Singh,Us Mod Se Shuroo Karen,4J5XH3D9mEQR64UMqgCH7j,6,2018,pop-film,0.707,0.431,4,-12.525,1,0.0281,0.904,0.016,0.126,0.766,100.467,339132,4
+Vijay Yesudas,Ethanai Varusham,6wSeYFPjLyykSWk4o7e7xY,0,2006,pop-film,0.615,0.54,1,-9.882,1,0.0552,0.327,1.06e-06,0.0686,0.696,173.782,271080,4
+Naresh Iyer,Nee Thalaputho,30m9L2AR16NWbFlROwJrwS,21,2020,pop-film,0.815,0.426,5,-7.947,0,0.0523,0.446,0.000345,0.292,0.645,91.993,195529,4
+Abida Parveen,Deedar Sohne Data Da,5Sxo3dCMls2Vj6Bi49r60S,14,2019,pop-film,0.739,0.929,8,-3.934,1,0.0602,0.296,2.02e-05,0.154,0.892,143.882,405269,4
+Ranjith Govind,College Ponnungala,72dz2uKWW7wJIwymnaIpUi,0,2012,pop-film,0.541,0.89,2,-6.211,1,0.367,0.0884,0.0,0.34,0.662,149.512,250079,4
+Udit Narayan,O Jaana,5LSjdzHi4gJUmwnIyPIxU5,49,2003,pop-film,0.625,0.876,7,-6.977,1,0.0842,0.207,3.71e-06,0.0402,0.767,92.049,328947,4
+Madhu Balakrishnan,Karale Kanave,7JEjlkSa6HdqWzqCvyYK2a,0,2009,pop-film,0.476,0.688,10,-5.82,1,0.0329,0.661,5.66e-05,0.125,0.555,87.771,319873,4
+Mamta Sharma,Fevicol Se,0wEgK7RKkB1R6sR5Nrwh5g,56,2012,pop-film,0.752,0.822,5,-8.471,0,0.102,0.131,0.0,0.27,0.917,119.966,289866,4
+Madhu Balakrishnan,Gaganamanasam,3dgDqhpvxdgSzwR5NpSCQv,0,2010,pop-film,0.807,0.798,7,-4.58,0,0.0334,0.389,2.83e-05,0.101,0.848,132.466,341211,3
+Karthik,"Tara (From ""Shyam Singha Roy"")",70Pk710eBnoCpmwzvgoYHC,25,2021,pop-film,0.683,0.709,7,-9.466,1,0.0393,0.454,8.01e-05,0.422,0.591,112.946,171362,4
+Naresh Iyer,Nee En Thozhiya,5JOTgHF9YLFuZ0fiFuxgGn,13,2006,pop-film,0.772,0.601,9,-8.127,0,0.0572,0.162,0.0,0.137,0.764,94.973,282427,4
+Farida Khanum,Aaj Jane Ki Zid Na Karo,6XFGKGOjlwXWm12DHV1CWc,46,2015,pop-film,0.297,0.284,2,-6.894,1,0.0354,0.535,0.0,0.31,0.178,35.847,190500,3
+Talat Mahmood,"Mujhe Dekho Hasrat Ki Tasveer Hoon (From ""Baaz"")",4p7H143JZYQerkE6F1lvA3,6,2018,pop-film,0.29,0.462,8,-5.887,1,0.0314,0.922,9.28e-05,0.292,0.446,109.4,251053,1
+Gopi Sundar,Nero Nero,6HDDD7i4DxLKmsC40FLg12,30,2012,pop-film,0.86,0.386,7,-9.573,1,0.0427,0.417,0.00827,0.161,0.585,100.0,220552,4
+Rekha Bhardwaj,Deep Poojanam,7DhiYwLDbsyqNOt3k8lSRX,5,2013,pop-film,0.676,0.329,5,-10.514,1,0.032,0.22,0.0,0.114,0.337,141.971,302322,4
+Gopi Sundar,Ennai Aalum Pennilave,4bVaVgFTrZ835gqwIe1QUL,9,2021,pop-film,0.622,0.314,4,-10.921,1,0.028,0.828,1.95e-06,0.104,0.346,114.371,229782,3
+Madhu Balakrishnan,Subha Karthika,4xBFUEzBtPt7hMX9y38ebs,0,2005,pop-film,0.735,0.8,7,-8.297,1,0.0678,0.0751,0.0,0.183,0.817,94.994,246667,4
+Vijay Yesudas,Devathaye vaa,76dKBpcmwqwjXWF0PeYoxO,26,2007,pop-film,0.803,0.393,5,-8.381,0,0.0431,0.367,1.93e-06,0.369,0.573,95.03,269003,4
+Mithoon,Tu Hi Mera,4lC5Ul4mrELkrMstbignS0,25,2009,pop-film,0.298,0.721,2,-6.011,0,0.0507,0.606,0.00243,0.256,0.307,85.989,389259,4
+Tippu,Puyaladikka Kandomey,2pZY0lvDiTGsTqCigb1PbB,0,2002,pop-film,0.739,0.899,1,-7.859,1,0.225,0.155,0.000711,0.0533,0.809,139.925,295560,4
+Mohammed Irfan,Ishq Paudiyan,72G1ZvRWfzcqEajHZSzsI8,10,2022,pop-film,0.345,0.533,9,-9.788,1,0.0416,0.329,0.0,0.099,0.7,79.788,171220,4
+KK,Pad Gaye Ji,0Aakn8K8vujqvqvUQDtKg4,18,2012,pop-film,0.48,0.449,11,-9.271,0,0.0321,0.773,2.76e-05,0.0825,0.12,129.906,399221,3
+Unni Menon,SIVA SIVAYA,1mDG58QRNJKZAEPZc6gdCX,0,2008,pop-film,0.722,0.487,0,-8.916,1,0.028,0.424,0.0,0.232,0.622,104.922,264867,4
+Sujatha,Utthara Darshanamaai,6XLLUbNlLBEXVNA3biYoPm,0,2009,pop-film,0.341,0.587,7,-10.141,1,0.0466,0.297,1.82e-05,0.0855,0.718,66.201,238160,4
+Abida Parveen,Ali Maula Ali,7jTlzouwzSXHsULhBGVo4H,0,2006,pop-film,0.681,0.953,5,-5.43,0,0.0636,0.135,0.0,0.289,0.963,164.821,314567,3
+Arijit Singh,Aami Tomar Kache Lofi,7ywenjBG9M2L5hu0b8QmIq,27,2022,pop-film,0.367,0.419,4,-13.109,0,0.0378,0.951,0.00895,0.201,0.146,95.129,229928,4
+Kishore Kumar,Main Hoon Diwana Mujhko Sambhalo - Apna Bana Lo / Soundtrack Version,1v5E709sEAexghAh2qPuee,0,2023,pop-film,0.344,0.702,5,-9.359,0,0.161,0.761,3.63e-05,0.368,0.873,169.846,387773,3
+Shafqat Amanat Ali,Khaireyan De Naal,0WxdqHRbdQ1R83ZvZ0qerN,25,2008,pop-film,0.46,0.402,3,-12.184,1,0.0306,0.6,0.000186,0.116,0.576,140.063,276558,4
+Saindhavi,Seermigu Shiradi,1tZ5nRSShsT2jJIzzklw6i,0,2011,pop-film,0.568,0.269,5,-9.249,1,0.0287,0.692,0.0,0.0795,0.234,85.144,351086,3
+Vijay Antony,Aathi Choodi Mini,2YriivN0sVfazJRuibYhUv,26,2021,pop-film,0.533,0.848,7,-7.954,0,0.295,0.62,0.00053,0.153,0.461,97.499,73236,5
+Kishore Kumar,"Chil Chil Chilla Ke (From ""Half Ticket"")",0kc5RzHeH6blGVqUIP2l9b,8,2018,pop-film,0.552,0.64,2,-9.34,1,0.202,0.94,0.0228,0.324,0.771,70.991,256967,4
+Madhu Balakrishnan,Omkareshwaru Ni,5ZaSAGeOjlEcANuJGmRPdH,0,2003,pop-film,0.7,0.568,5,-7.791,1,0.0405,0.363,0.0,0.0957,0.628,81.034,348108,4
+C. Sathya,Vaigai Nathi,7gPNPAZYGwhg1UlUqmfjuN,38,2013,pop-film,0.598,0.114,4,-11.317,0,0.029,0.934,8.26e-05,0.0758,0.356,92.921,192097,3
+Kanika Kapoor,Ik Onkar (Mool Mantra),0CzCsglhr6WJmb7f6Qe7ZP,25,2018,pop-film,0.418,0.0274,0,-16.954,1,0.0378,0.972,0.0,0.0663,0.168,90.235,213333,4
+Job Kurian,Enthavo,16Ijfdrq8MPcCZoky28NVP,42,2017,pop-film,0.656,0.512,7,-7.266,1,0.0384,0.757,0.00055,0.0923,0.504,80.514,219800,4
+Jagjit Singh,Tum Hamare Nahin,4iP1iEC1Mx2Q3u9TbMKxg5,19,2017,pop-film,0.626,0.312,5,-16.189,1,0.0403,0.53,0.00195,0.086,0.398,82.415,354667,4
+Shaan,Yun Hi Dil Ko Agar,0MdBegOn1davpFWLEvKnB9,15,2003,pop-film,0.445,0.557,7,-11.343,0,0.0563,0.0887,2.31e-05,0.217,0.698,178.087,454840,4
+Kumar Sanu,Tera Hi Deewana Dil,1PlNElDntlNjofVRuwhhUI,23,2004,pop-film,0.7,0.928,0,-8.82,1,0.0469,0.402,0.0039,0.834,0.782,116.99,324213,4
+Abida Parveen,Bhala Hua Meri Matki,7CziE0bKrQMSjyCy91XBo9,7,2002,pop-film,0.533,0.502,8,-6.741,1,0.046,0.84,0.00133,0.119,0.562,121.958,969027,4
+Udit Narayan,Shree Hanuman Chalisa Path 1,3gPSBlocgyD4cQr4tkMzWL,37,2002,pop-film,0.766,0.564,2,-10.574,0,0.0544,0.786,1.35e-06,0.162,0.793,130.011,426253,4
+Sunidhi Chauhan,Aaja Khatam Sabr,7kmgrwtQONqnnWqxSHm3rz,21,2011,pop-film,0.471,0.688,6,-4.349,0,0.0526,0.162,0.00167,0.189,0.389,95.988,287709,4
+Sonu Nigam,Kanna Minche,0bol1r2GW4CdGViDCEZxIi,30,2013,pop-film,0.832,0.528,5,-9.282,0,0.0355,0.255,6.19e-05,0.11,0.791,109.953,260019,4
+G. V. Prakash,Oru Murai (Remix),33p7rFOZLAbOZjfeF7jYcY,0,2012,pop-film,0.796,0.803,10,-5.496,0,0.0793,0.0454,0.0036,0.204,0.377,119.987,245264,4
+Abida Parveen,Humko Yaa Dar Dar Phiraya Yaar Ne,4QUfTLdZMHUGHitSExh6dc,0,2004,pop-film,0.778,0.827,7,-4.677,1,0.0502,0.175,1.35e-05,0.343,0.901,120.093,422101,4
+Udit Narayan,Deewana Tera Hai,40bBspJH6lLOfOmiGptbm7,22,2002,pop-film,0.546,0.677,1,-7.746,0,0.141,0.105,0.0,0.0513,0.404,97.994,371000,4
+Gopi Sundar,Hey Madhuchandrike,5XLfK9mIeem00b0xBSvTC3,34,2019,pop-film,0.635,0.177,9,-12.739,1,0.0338,0.915,0.000784,0.0943,0.497,140.003,254076,3
+Sujatha,Vinnil Nakshatram,75UYHSBky6fjThLFQGgS10,0,2009,pop-film,0.517,0.608,2,-8.59,0,0.0463,0.453,7.08e-05,0.324,0.428,159.763,266632,3
+Sachin-Jigar,Faltu,4DKIzK0M2OqWhoLv1J7RpX,42,2011,pop-film,0.791,0.785,2,-3.49,1,0.0504,0.0265,0.000185,0.365,0.809,132.017,283613,4
+Madhu Balakrishnan,Meghadolaginda,4AqNarUZLkj3l5ZzGPqoBt,0,2003,pop-film,0.636,0.382,2,-9.077,0,0.0271,0.842,0.00346,0.473,0.582,107.945,306500,4
+Anuradha Paudwal,Om Gan Ganpate Namo Namah,43VF1vMDe7L85rEYjWUCIg,36,2018,pop-film,0.714,0.694,9,-6.907,1,0.0368,0.207,0.0,0.552,0.925,135.115,2746131,4
+Yuvan Shankar Raja,Oka Sannani Navve Visiresavae,0BJE1vYQv3TwqL2jHnCTrI,7,2010,pop-film,0.736,0.639,5,-5.67,1,0.0342,0.0681,0.00012,0.543,0.507,94.992,281147,4
+KK,"Jaane Ye Kya Hua (From ""Karthik Calling Karthik"")",0g7b6MYZrHuGzw2BtYwbO7,30,2022,pop-film,0.602,0.346,7,-8.023,1,0.0245,0.736,2.2e-05,0.118,0.271,100.963,242463,4
+Job Kurian,Padayatra - Live,2PDaNC5MT6HZYE52HYHyjo,54,2015,pop-film,0.572,0.621,7,-7.192,1,0.0337,0.494,0.00121,0.675,0.425,121.512,290125,4
+Ali Zafar,Aasman,4wkpKq0wNItC55TiTlR9Tm,12,2018,pop-film,0.832,0.635,8,-5.732,1,0.159,0.209,1.25e-05,0.177,0.856,100.037,155873,4
+Madhu Balakrishnan,Oru Killi,55RWsuNN41d1PSt9YIUPZz,24,2006,pop-film,0.578,0.597,10,-7.696,0,0.0695,0.377,0.0,0.138,0.52,85.938,264427,4
+Mohan Rathore,Youtube Pe Mashoor Hai Tu,6zREh3FocIvujOc3Zreuqe,32,2022,pop-film,0.765,0.918,11,-3.962,0,0.0634,0.299,0.0,0.389,0.792,123.962,203122,4
+Arijit Singh,"Woh Subah Hami Se Aayegi (From ""Begum Jaan"")",5KxxcHXFpDNVTfbDTwNShl,9,2017,pop-film,0.388,0.547,1,-6.75,0,0.0298,0.504,0.0,0.159,0.215,121.863,298693,3
+Shweta Mohan,Nanda Kumaraa,02iWHEDHrqQoPInRMYGy3w,0,2011,pop-film,0.616,0.541,9,-9.015,1,0.0664,0.916,0.00197,0.11,0.433,95.629,177413,4
+Harish Raghavendra,Thottu Thottu,75D1UiVMf8wOhNQCCaSU3c,49,2003,pop-film,0.789,0.727,1,-9.534,1,0.0709,0.646,0.000355,0.099,0.581,94.9,315985,4
+Sujatha,Bhayappedenda F,55TXRKQWT3Zk9HDztOjTLu,0,2005,pop-film,0.563,0.496,7,-8.46,1,0.0426,0.557,0.0,0.0767,0.568,130.05,288862,3
+Arijit Singh,"Raaz Aankhein Teri (From ""Raaz Reboot"")",3bfEOwtNn8sr7rUaKCmQXR,45,2019,pop-film,0.562,0.52,9,-6.358,0,0.0249,0.824,4.02e-06,0.117,0.259,109.92,291309,4
+Sonu Nigam,Ellavannu Heluvaase,3N81ovPEIb3BdLfJBHpmri,9,2011,pop-film,0.599,0.529,5,-5.367,0,0.223,0.746,0.0,0.202,0.619,104.78,265884,4
+Srikanth Deva,Priya,2v6M6KO8xnntQnCa7pAN10,10,2008,pop-film,0.633,0.518,9,-8.398,0,0.0414,0.367,3.82e-05,0.0492,0.465,89.072,367747,4
+Kumar Sanu,Dil Mera Churaya Kyun - Recreated Version,4xRlGeVUdLNw2UcwSkx5Jz,35,2020,pop-film,0.633,0.466,8,-6.391,1,0.0291,0.761,0.0,0.129,0.35,98.968,213451,4
+Sujatha,Indra Neela Kallin,52FRQCgldbMdw4xG51DKsN,0,2008,pop-film,0.734,0.364,10,-10.159,0,0.0371,0.546,0.0,0.187,0.754,95.035,316213,1
+Lata Mangeshkar,O Sanam Tere Ho Gaye Hum (Remix),1RGSBNyVFJMfOM2eZ6XK7I,0,2023,pop-film,0.653,0.938,5,-4.773,1,0.042,0.0113,0.243,0.187,0.45,130.0,161143,4
+Shafqat Amanat Ali,"Dildaara (Stand By Me) [From ""Ra-One""]",483U8EAfsAfp9J2r5et2rr,23,2022,pop-film,0.622,0.779,9,-5.801,1,0.0371,0.101,0.000958,0.145,0.777,100.012,249661,4
+Sujatha,Arijirunnilla Njan - Female Vocals,7cjD7suWayUmllTd0WdzHx,5,2015,pop-film,0.57,0.417,0,-12.777,1,0.0326,0.522,0.003,0.121,0.344,149.999,241949,4
+Haricharan,Senganthal,3IpjIVEqXW7yTefTlp65BZ,21,2011,pop-film,0.73,0.567,5,-7.601,1,0.0372,0.134,1.94e-05,0.156,0.709,100.995,302894,4
+Jubin Nautiyal,Tu Banke Hawa Remix,62ZpGZuRgBWDJZ5FgguTSk,30,2022,pop-film,0.649,0.732,1,-6.51,0,0.0293,0.00643,4.72e-05,0.122,0.54,119.994,203129,4
+Unnikrishnan,Angelaa,3wSbqSuKnMZWwHz8IHWCaB,0,2008,pop-film,0.419,0.734,9,-6.818,0,0.0577,0.129,0.0026,0.142,0.238,179.769,264520,3
+Dev Negi,"Badri Ki Dulhania (Title Track) [From ""Badrinath Ki Dulhania""]",3MXUEYNS6LNxb61415AdE3,48,2017,pop-film,0.759,0.952,2,-2.837,1,0.123,0.105,0.0,0.0693,0.812,128.039,206859,4
+Ranjith Govind,Yarivaro Yevaravro,52Uv3Ujuy49IjFBk67N3Y7,0,2014,pop-film,0.561,0.446,8,-7.289,0,0.0292,0.574,0.0,0.129,0.433,120.036,204107,4
+Tippu,Poda Gnokka Makka,5FicpaKXLs1ulokQbq6AY0,0,2010,pop-film,0.58,0.527,9,-17.246,1,0.425,0.563,0.121,0.113,0.691,136.019,265482,4
+Jatin-Lalit,Ladki Badi Anjani Hai,2Z5DhGNklaQ8ghaXR3UQzL,21,2017,pop-film,0.637,0.774,7,-9.327,1,0.056,0.524,9.55e-05,0.0901,0.731,121.104,381707,4
+Shankar-Ehsaan-Loy,"Ishq Di Baajiyaan - Reprise (From ""Soorma"")",5WLidqObeZ9jdH7puCZIBn,35,2018,pop-film,0.523,0.292,11,-7.705,1,0.0301,0.93,9.36e-06,0.0996,0.286,77.775,227806,4
+Amit Trivedi,Lagan Laagi Re - Reprise,0HwuF2kfOgNIkFadxfT37M,48,2021,pop-film,0.461,0.285,10,-14.619,1,0.0423,0.84,0.00068,0.0753,0.335,119.558,199167,5
+Sunidhi Chauhan,"Sye Raa (From ""Syeraa Narasimha Reddy"")",2KcRP70zDrl3EdtoUeh5u0,8,2020,pop-film,0.657,0.874,11,-5.448,0,0.254,0.573,1.7e-06,0.0935,0.234,129.917,328446,4
+Madhu Balakrishnan,Sandhyaniradeepam,2tbhrYiOFI2Su83ticU2VX,0,2007,pop-film,0.683,0.606,7,-7.034,0,0.0406,0.222,0.0,0.263,0.676,89.968,343176,4
+Anuradha Sriram,Nenapugale,3JFPAM9pY6SC4ZE7OixUuV,0,2001,pop-film,0.7,0.475,11,-11.193,1,0.0453,0.52,0.0019,0.143,0.633,124.851,244400,4
+Unni Menon,Lalithasahasranaamam,4DZjrXZRXUzejMTlobJ5ED,0,2009,pop-film,0.722,0.554,0,-5.697,1,0.0383,0.473,6.73e-06,0.146,0.481,139.67,291788,3
+Mohammed Rafi,Tere Naam Ka Diwana - Suraj Aur Chanda / Soundtrack Version,6bRdeUUtJDglrDb85OcB3u,23,2020,pop-film,0.532,0.673,8,-5.694,0,0.0324,0.791,0.000363,0.106,0.797,99.339,305747,4
+Mohammed Rafi,"Yeh Reshmi Zulfen (From ""Do Raaste"")",4fQ22KHxxqHNzEZm7ndGrs,27,2018,pop-film,0.455,0.599,5,-6.865,1,0.0548,0.942,7.8e-05,0.14,0.683,133.581,320080,4
+Anuradha Paudwal,Vishwambhari Stuti,7m8v82VMkxQxUyBkuFpBVf,16,2017,pop-film,0.709,0.434,8,-6.071,0,0.0265,0.872,0.0,0.0736,0.582,95.097,559375,1
+Unni Menon,"Enna Vilai (From ""Kadhalar Dhinam"")",3JrGvIreCAthl7r0hepBOo,27,2013,pop-film,0.567,0.603,7,-13.25,0,0.0589,0.0899,0.0,0.138,0.464,149.995,351086,3
+Shreya Ghoshal,Taron Ki Odhke Jhilmil,3CDsidyPtg5GFkwjHBFVb2,0,2002,pop-film,0.535,0.797,9,-9.985,1,0.294,0.363,0.0,0.122,0.657,119.354,551419,4
+Unni Menon,Bhoomi Prapanchatthil,74QVPSJY8hjqjYTNDcrbeC,0,2001,pop-film,0.596,0.47,0,-7.609,1,0.027,0.758,0.0,0.234,0.59,99.794,327967,4
+Sajid-Wajid,Shayarana,5KgWWdwGv8YPIfyTOHQplr,41,2014,pop-film,0.385,0.596,2,-8.155,1,0.056,0.368,1.24e-06,0.179,0.454,157.546,258638,3
+Harini,Enga Muthumariyamma,0hnG81xThtZ0PL3F2fWcay,0,2012,pop-film,0.781,0.648,0,-7.533,0,0.0329,0.0369,0.000244,0.12,0.963,126.855,353698,4
+Alka Yagnik,Chand Ho - Remix,6x0HBLV6KJC5wrC6JeUTeL,12,2001,pop-film,0.733,0.84,7,-8.348,1,0.0449,0.145,0.00558,0.336,0.913,139.967,322000,4
+Kumar Sanu,Jalwa (Title Song),26NQXw34PeMXxQIK2AJvA6,40,2021,pop-film,0.582,0.858,6,-10.197,0,0.0789,0.0125,0.000168,0.0901,0.483,133.546,380113,4
+Shreya Ghoshal,O Jiji,6IhKQU9SxNt4riFKsSzjqX,45,2006,pop-film,0.662,0.928,10,-3.932,1,0.0708,0.67,0.000828,0.417,0.931,111.932,153783,4
+Diljit Dosanjh,Vibe,44gJjTJwY4eba0jpNnrlld,58,2021,pop-film,0.706,0.632,1,-7.172,1,0.0705,0.00713,0.0,0.129,0.625,87.993,155250,4
+Wajid,Kal Kissne Dekha (Romantic Version),1tDJoTQFECU8w4tfpdDFIP,20,2009,pop-film,0.401,0.72,9,-4.544,0,0.0327,0.422,0.000377,0.232,0.399,109.422,106608,4
+Arijit Singh,"Galti Se Mistake (From ""Jagga Jasoos"")",64i0BDadKSl5cwPKn5ovpy,27,2017,pop-film,0.44,0.797,11,-4.395,0,0.224,0.0173,0.0,0.164,0.708,195.057,203077,3
+Unni Menon,Om Namasivaya Namo,2cm0lvW7aYdXhSunZ59k9l,0,2006,pop-film,0.656,0.442,9,-10.415,1,0.0326,0.624,0.0,0.155,0.642,78.043,1267027,4
+Jatin-Lalit,Saajanji Ghar Aaye,0I0nOTAUWr5p3qBaCeRPgD,15,2017,pop-film,0.704,0.666,7,-8.9,0,0.0353,0.588,5.06e-06,0.0921,0.944,98.206,435800,4
+Shaan,Phir Se Sajaa Do Duniya Saari,66mgyyDKoPswjxiuLtFLAN,28,2021,pop-film,0.575,0.534,11,-8.969,1,0.0396,0.352,0.0,0.0729,0.338,90.057,161904,4
+Sujatha,Ennodulla Ninte Daya,1dfmfYbFFfIjjx97k8Lc0K,11,2011,pop-film,0.586,0.838,5,-1.247,1,0.146,0.118,0.0,0.111,0.759,200.192,331693,4
+Mohammed Irfan,Tu Hi Tu (Remix By Kiran Kamath),5jnx293CRvbPVAZtY7IUjh,18,2014,pop-film,0.713,0.818,9,-7.523,1,0.0442,0.0428,0.000118,0.16,0.542,103.949,244820,4
+G. V. Prakash,04 - Parvaiyile Oru Eakkam,2tOKImCYzFjJIH81Q559Vm,15,2008,pop-film,0.806,0.621,5,-7.884,0,0.0475,0.313,1.3e-05,0.0742,0.842,125.981,339112,4
+Vijay Yesudas,En Kadhal Deiva,4edU1UPVAw04Ha2byNIjK0,0,2007,pop-film,0.637,0.455,9,-11.392,0,0.0276,0.811,3.77e-05,0.142,0.467,134.991,191560,3
+Tippu,Choododde Nannu,24eVDOs6dNSYGMKiU5IzGF,20,2019,pop-film,0.807,0.652,5,-7.451,0,0.0473,0.0477,0.000493,0.0944,0.759,144.958,261139,4
+Krishnaraj,Nallayan,0BrsOq2MIGw2JGQjthte9m,0,2009,pop-film,0.508,0.62,7,-10.028,0,0.104,0.244,0.0,0.0754,0.622,159.976,434416,3
+Swarnalatha,Selvam Tharum Amman,22khubxg79lxkRjn6fup7L,0,2014,pop-film,0.519,0.806,8,-6.131,1,0.113,0.402,0.0075,0.355,0.83,107.125,277547,3
+T. M. Soundararajan,Kundrugal Dhorum,6vfI8MD0eBwqc3fZiDoDR9,0,2004,pop-film,0.59,0.342,7,-12.589,1,0.0458,0.987,0.0282,0.191,0.496,118.976,382395,4
+Bharadwaj,Kolaattam,5qRrSjdgaIh6Filim5MCGR,0,2008,pop-film,0.785,0.933,4,-6.824,1,0.121,0.243,5.52e-05,0.466,0.554,131.938,377707,4
+Sunidhi Chauhan,Bhage Re Mann,2RktkeigsgvhuRNQl0ioGS,54,2003,pop-film,0.693,0.693,5,-8.153,0,0.0388,0.628,2.25e-05,0.178,0.592,117.012,334053,4
+Sean Roldan,"Mattilo Thema Undhi (From ""Jai Bhim (Telugu)"")",1gjLktr6DC1UhxC4Ztskvb,20,2021,pop-film,0.377,0.262,5,-8.733,1,0.0307,0.813,7.28e-06,0.0785,0.165,140.991,142357,3
+Udit Narayan,O Re Gori - Aap Mujhe Achche Lagne Lage / Soundtrack Version,5U3VILjSSmmpWjjekR3sCu,22,2004,pop-film,0.578,0.721,0,-8.309,0,0.19,0.143,0.00015,0.145,0.626,108.779,493187,4
+Shreya Ghoshal,Raja Rani - Female Vocals,0qoXwiSUhii1NK5m4ibABM,29,2014,pop-film,0.686,0.497,0,-7.76,0,0.0333,0.628,6.97e-05,0.308,0.582,90.052,206314,4
+Diljit Dosanjh,Dilaan Diyaan Khotiaan,5nEpTkww1YGMk4YQkts8bW,11,2008,pop-film,0.806,0.848,0,-3.821,1,0.209,0.377,0.0,0.306,0.904,140.09,288833,4
+Sunidhi Chauhan,Aisa Jadoo,3NEW0n3CQRFsmsIOPHcOOK,47,2003,pop-film,0.712,0.919,7,-5.825,1,0.0701,0.0176,0.00692,0.0918,0.7,128.01,203933,4
+Sachin-Jigar,"Fully Faltu (From ""F.A.L.T.U"") - 128 BPM",6DA0mH5lhmEQXM8JZO8P5M,20,2014,pop-film,0.822,0.763,9,-6.256,1,0.0607,0.0512,0.00285,0.291,0.728,128.248,125000,4
+Unni Menon,Nithya Mangalamarulu,1ELW28ycRXF1ZurKuZYa3e,0,2002,pop-film,0.438,0.247,0,-15.642,1,0.0523,0.793,0.0,0.23,0.606,170.712,296717,4
+Amit Trivedi,Tu Kabhi Kabhi,0RHlIDfOIlVSytakD8oSCe,24,2021,pop-film,0.676,0.692,3,-7.761,1,0.0375,0.281,0.0324,0.0837,0.51,97.952,213214,4
+Saindhavi,Kamalakuchachoo,5E6S2qklxaac7B6FVsmM71,11,2011,pop-film,0.72,0.704,0,-12.216,1,0.05,0.21,0.00333,0.0779,0.712,159.972,204227,4
+Lata Mangeshkar,Otho Otho Suryai Re,05S0AsOHIczekTKzF1a90w,25,2020,pop-film,0.498,0.657,7,-5.638,1,0.133,0.659,7.54e-06,0.567,0.714,80.311,301465,4
+Harini,Chambarathi,1nYYU0eHKjUDsJJ6fLh7iK,0,2000,pop-film,0.76,0.569,9,-12.636,0,0.152,0.443,0.0,0.244,0.733,98.942,269537,4
+Srinivas,Vinaayagar Potri - Original,7a0iaZXTRDRBB7HN04cw9R,0,2001,pop-film,0.495,0.229,6,-15.669,1,0.0769,0.891,8.48e-06,0.29,0.305,95.572,778266,4
+Amit Trivedi,Luni Hasi - Male Version,6sphJ6IVN7HrujUiSqJe10,11,2012,pop-film,0.853,0.406,8,-7.534,0,0.0512,0.244,0.0,0.0911,0.413,130.064,224053,4
+Yuvan Shankar Raja,Ek Do Teen Chaar,6UhaAVG85I2Pbocht3FM1a,22,2014,pop-film,0.638,0.646,10,-6.534,0,0.0353,0.15,0.000163,0.0929,0.71,67.526,239333,4
+Unni Menon,Aalankaattil,3QNmZ4NEFcYVsWoWY3EuEj,0,2002,pop-film,0.537,0.448,6,-8.699,1,0.0552,0.433,0.0,0.206,0.402,104.761,230792,4
+Shreya Ghoshal,Neelo Ninnu,43KlnoYHAeWRMxQr1qP2gN,39,2018,pop-film,0.584,0.591,5,-7.269,1,0.121,0.492,1.16e-06,0.111,0.595,174.793,221322,4
+Sujatha,Kadhal,3hTsP59wWqqSQNtBiazZKj,0,2010,pop-film,0.426,0.754,0,-5.72,0,0.119,0.442,0.000154,0.165,0.337,111.904,288222,4
+Udit Narayan,Amar Monta Je Tai,2F5IKy032bbWJWW4AL2B4Z,0,2007,pop-film,0.833,0.549,10,-11.26,1,0.155,0.376,1.53e-06,0.0907,0.925,129.934,248848,4
+Ilaiyaraaja,Marachonnu Pidikkan,2k104w6SfkrsVRpL54qnRe,0,2008,pop-film,0.662,0.944,8,-4.117,1,0.0434,0.167,4.51e-05,0.389,0.684,122.998,299102,4
+Shweta Mohan,"I Love You Mummy - From ""Bhaskar The Rascal""",7hWWsJ31GfeAk3p3jvvIT8,18,2018,pop-film,0.805,0.46,5,-7.628,0,0.0301,0.818,0.000144,0.112,0.678,103.936,221538,4
+Neha Kakkar,Superstar,6OI7K75TZHR9vM3iPsf8SG,38,2020,pop-film,0.796,0.696,3,-4.561,0,0.0482,0.0894,1.73e-06,0.144,0.702,99.963,221400,4
+Lata Mangeshkar,Ham Tum Ek Kamre Mein (Remix),5oOOtwM9aiIRbpekYPxrHW,0,2023,pop-film,0.73,0.91,9,-6.049,0,0.0537,0.0276,0.0269,0.373,0.525,117.942,136732,4
+Aishwarya Majmudar,Hu To Gaiti Mele,1P4yBFbktdTxt6chlTuhml,25,2017,pop-film,0.535,0.907,11,-4.182,1,0.142,0.35,0.0,0.181,0.757,183.924,115433,3
+Haricharan,Gallo Thele,6qCuWpb4xKKiksnh9lBQET,14,2010,pop-film,0.731,0.472,5,-10.761,0,0.0342,0.316,0.0504,0.119,0.425,119.997,260613,4
+Shweta Mohan,Kannaa Kaarmukilvarnna - Female Vocals,6uGWukVLZq6aBcMBrqOGPO,9,2009,pop-film,0.568,0.575,0,-7.138,1,0.0315,0.21,0.0,0.296,0.422,149.846,297091,1
+Kishore Kumar,"Aate Jate Khoobsurat Awara (From ""Anurodh"")",1hjaQ0YjkzCuoSNuCcxtAW,31,2018,pop-film,0.502,0.349,3,-12.922,1,0.0402,0.767,0.0,0.419,0.616,86.055,353480,4
+Arijit Singh,"Uska Hi Banana (From ""1920 Evil Returns"")",3h6Xvd0lISog6GxTk4X6MK,59,2019,pop-film,0.563,0.689,0,-4.294,0,0.0262,0.294,0.0,0.288,0.321,101.94,327030,4
+Shaan,Sajaunga Lutkar Bhi,3PzNjt67SwJuJWKqSBfx3k,29,2022,pop-film,0.573,0.573,11,-9.717,0,0.107,0.0674,0.0,0.0676,0.546,94.929,196105,4
+Sonu Nigam,Radhe Krishna Bol Re,4C2mHHn162YCKe4z1Gh8HU,0,2001,pop-film,0.702,0.217,1,-17.383,1,0.0683,0.71,0.0,0.468,0.796,122.528,207306,3
+Alisha Chinai,Woh Pyaar Mera,668wevhllH6S3cU2pzCl5T,18,2001,pop-film,0.733,0.617,9,-8.516,1,0.0716,0.31,0.0,0.0912,0.85,94.946,287000,4
+Bharadwaj,Success Success,4DuE2j9gAx2Vp9hfxtVunx,0,2005,pop-film,0.787,0.735,5,-9.198,0,0.0821,0.0952,0.0,0.452,0.696,109.988,256367,4
+Sonu Nigam,Chaha Tha Tujhe,44ppyoRZXPgqcCgoTj6BhR,2,2000,pop-film,0.678,0.855,10,-10.442,0,0.0575,0.578,1.33e-06,0.103,0.711,120.045,357747,4
+Saindhavi,Postman,6Dunzac99eSfTgfj0BhqOQ,0,2010,pop-film,0.693,0.807,6,-4.683,0,0.317,0.132,0.0,0.0658,0.964,60.656,59480,4
+Mohit Chauhan,Haafiz Khuda,2HPQUFeRbhuLGSrhZzItNk,19,2009,pop-film,0.457,0.782,0,-11.63,0,0.436,0.644,0.000727,0.148,0.536,80.75,276584,4
+Lata Mangeshkar,Mahamantra - Fast Version,1hZdKuGEjgPXMwqzDhkZ92,26,2006,pop-film,0.536,0.515,1,-7.43,0,0.032,0.825,0.00027,0.057,0.604,154.47,1428067,4
+Alka Yagnik,Chura Ke Dil Mera,58K9iNcgPHUpJfMGHmqX7Y,13,2009,pop-film,0.657,0.792,8,-9.591,0,0.0482,0.000847,0.205,0.0494,0.797,125.972,273633,4
+Lata Mangeshkar,Gali Gali Dhunda - Jawaani / Soundtrack Version,48cN5Yc7ZuK4Gtdx5Gg0mj,0,2023,pop-film,0.512,0.736,6,-5.579,1,0.045,0.215,1.28e-06,0.239,0.708,135.815,322293,4
+Kishore Kumar,"Tere Chehre Mein Woh Jadoo Hai (From ""Dharmatma"")",0QKM0CwYgpgY6jv82ZWjvf,21,2020,pop-film,0.277,0.503,0,-11.596,1,0.0409,0.783,9.77e-05,0.729,0.666,81.346,250773,4
+Thaman S,"Mazhaiye Mazhaiye (From ""Eeram"")",0T6V0zYOaT14dT0YkEwxea,45,2014,pop-film,0.784,0.631,0,-9.952,0,0.0429,0.452,0.0163,0.175,0.729,100.01,249973,4
+Unnikrishnan,Podagantimayya,0jjQ75Qdykbdgn7LuHd8LA,14,2017,pop-film,0.429,0.474,5,-9.341,1,0.0355,0.914,2.59e-05,0.0777,0.312,79.943,331840,4
+Lata Mangeshkar,Zul Zul Vaahe,5eqUo2UOqUXDwuZweI3mBL,5,2015,pop-film,0.797,0.313,6,-9.018,1,0.0413,0.843,4.69e-05,0.144,0.75,101.238,136573,4
+Saindhavi,Sree Annapoorneswary Stothram,3dTzW3dewTfC5uTiIFNQQU,0,2008,pop-film,0.717,0.742,6,-4.601,0,0.0359,0.425,2.77e-05,0.0521,0.858,159.942,409800,4
+Swapnil Bandodkar,Aaudumbarchhaye Dhyani,0kqNnsJ4vAidOEyygi2fYN,8,2002,pop-film,0.572,0.486,8,-14.347,1,0.0483,0.395,0.0,0.135,0.942,120.378,244467,4
+Harini,O Prema,4JKQ1TlysLmqY3dKX2wcCv,13,2006,pop-film,0.62,0.432,2,-9.047,0,0.0445,0.236,4.97e-05,0.0542,0.664,170.058,259925,4
+Sonu Nigam,Ninnanne Nodutha,4ttKc4rMyGdp08yq8b0W0J,0,2012,pop-film,0.628,0.685,3,-10.304,1,0.0262,0.342,0.77,0.0896,0.95,100.0,277902,4
+Dev Negi,Kya Fark Padta Hai,1nkXL9A3qq3grVYhp0xGH7,21,2022,pop-film,0.466,0.599,7,-7.51,0,0.0401,0.289,0.0,0.542,0.361,169.995,312000,4
+Amitabh Bachchan,Kehta Hai Baabul,72RLKPFlwTsLMTHwTWb5Vz,20,2006,pop-film,0.487,0.296,6,-11.985,1,0.0298,0.726,8.62e-06,0.0935,0.172,104.952,481227,4
+Unni Menon,Sree Krishna Leelamrutham,52sjqWeYKTo7Ct5McsiVwi,0,2008,pop-film,0.643,0.398,2,-11.815,1,0.0355,0.248,0.0,0.119,0.602,149.973,804160,3
+Anuradha Paudwal,Shri Ram Chandra Kripalu Bhajman,3r85UkXFe8VE2Zyxva4SRh,23,2017,pop-film,0.649,0.315,6,-11.539,1,0.0418,0.823,0.0,0.169,0.684,145.126,389547,1
+Jagjit Singh,Hey Govind Hey Gopal (Live),4YbnNbl5cCef6NFoTSqvIF,33,2021,pop-film,0.359,0.351,5,-12.777,0,0.0317,0.898,5.69e-05,0.66,0.264,110.364,551255,3
+Aishwarya Majmudar,Humraazi (Original Score),2bwtogkoB9ja1Gvi2QsdYx,29,2022,pop-film,0.5,0.624,3,-5.443,0,0.034,0.735,0.0,0.111,0.48,79.938,162000,4
+Pankaj,Suno Maa Ke Bagto,7BpEgvnAWCBaKGVIyvicRm,0,2011,pop-film,0.535,0.633,8,-5.511,1,0.0291,0.362,0.0,0.109,0.692,144.713,216633,4
+Abhijeet,Main Agar Saamne,42OnkdXwkKo5NzkdOmvE75,58,2002,pop-film,0.449,0.682,7,-9.665,0,0.0596,0.301,0.0,0.354,0.869,84.014,346000,4
+Jubin Nautiyal,Aadhi Kahaani,6fUP9Bphf09ZLERVvGVhYl,36,2022,pop-film,0.319,0.118,1,-17.155,1,0.04,0.866,3.47e-05,0.0866,0.226,89.712,210199,4
+D. Imman,Naangu Kangal,3vTNkDR6povLu4oO3J63xC,14,2009,pop-film,0.579,0.642,2,-4.344,1,0.0519,0.616,0.0,0.371,0.647,84.895,277947,4
+Chinmayi,Devathai Ondru,1yQSUvJ7fma3EE8glPIITp,0,2015,pop-film,0.715,0.921,2,-4.367,1,0.119,0.172,0.0,0.172,0.571,114.929,248413,4
+Udit Narayan,"Ithanundu (From ""Dhol"")",1585z5rdcjV3mE1xKjCEHf,43,2013,pop-film,0.725,0.837,7,-8.398,1,0.161,0.284,0.000139,0.0197,0.961,89.978,267013,4
+Sandhya Mukherjee,Thumaka Thuaka Paga,3tO7oCs9ks1eVymc6ar99h,0,2001,pop-film,0.615,0.401,0,-12.786,1,0.0438,0.38,0.0,0.0477,0.732,82.417,385882,4
+Pankaj Udhas,Sabko Maloom Hai Main Sharabi Nahin,6tddO01PcLqQeGcmaQTqdI,17,2012,pop-film,0.595,0.691,7,-8.151,1,0.0687,0.522,0.00263,0.353,0.72,82.007,377040,4
+Shreya Ghoshal,Kokilamma,5GshvUuD623Em46wpQkuNT,31,2005,pop-film,0.709,0.78,1,-5.529,0,0.061,0.636,5.86e-06,0.0935,0.731,159.87,237477,4
+Vijay Yesudas,Kanneer Sindha,2cRZWEIV33i8nP44sZFABM,40,2022,pop-film,0.315,0.415,5,-9.514,0,0.0272,0.883,0.0152,0.165,0.461,171.022,223158,3
+Jatin-Lalit,Hum Tum - LoFi Mix,5OdxEwNmCqyicUm5kfwKZt,29,2022,pop-film,0.489,0.563,9,-10.6,1,0.0467,0.483,0.601,0.082,0.179,71.964,241667,4
+Harris Jayaraj,"Nenjukkul Peidhidum (From ""Vaaranam Aayiram "")",5O9DJV2hQJmju9yftjwQB4,16,2017,pop-film,0.687,0.43,9,-10.31,1,0.0407,0.6,2.49e-06,0.132,0.241,115.01,369333,4
+Kavita Krishnamurthy,Dil Kya Kare,0E3DIt0AtekSuqJjqqPXLl,19,2002,pop-film,0.732,0.567,7,-10.712,0,0.0328,0.262,6.39e-06,0.0806,0.483,132.883,310227,4
+Kay Kay,Vaartha Onnu,5FQlVbVb0iwde2C8WTTjUF,23,2006,pop-film,0.722,0.794,10,-9.711,0,0.0396,0.107,0.044,0.0846,0.541,94.999,315507,4

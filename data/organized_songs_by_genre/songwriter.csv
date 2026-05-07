@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Woody Guthrie,Columbus Stockade Blues,4iQXnRpVx4L0WbhbcdJT9s,3,2001,songwriter,0.641,0.368,1,-11.023,1,0.0387,0.922,0.00443,0.127,0.588,123.99,145987,4
+John Mellencamp,In Our Lives,5gS01br9fQxwJRP56wIhbx,8,2001,songwriter,0.589,0.889,9,-3.141,1,0.03,0.00755,7.33e-05,0.0767,0.845,113.061,243267,4
+Morten Abel,Music Is Communicating,2duQxpkSO6eGoUBfuFp9Lo,9,2001,songwriter,0.59,0.68,0,-8.897,1,0.0386,0.00708,4.37e-06,0.0504,0.799,90.012,221520,4
+Leonard Cohen,Why Don't You Try - Live,3mSmRIpgrEPPKadtot3EAN,13,2001,songwriter,0.558,0.333,9,-12.787,1,0.134,0.804,2.54e-06,0.338,0.383,77.25,222907,4
+Suzanne Vega,Songs In Red and Gray,2vxOBmgVT3MHvS9zyDJH5t,15,2001,songwriter,0.601,0.483,1,-12.456,0,0.0314,0.825,0.00562,0.105,0.39,99.923,257107,4
+Bruce Springsteen,"My Hometown - Live at Madison Square Garden, New York, NY - June/July 2000",3RlzHhDD8okJio8CT0MHSn,20,2001,songwriter,0.542,0.479,9,-8.117,1,0.0309,0.316,0.000379,0.659,0.353,111.955,308627,4
+Hayden,Bass Song,3MjmzaI11q6IxfHXGA2FUL,11,2001,songwriter,0.622,0.15,6,-13.727,0,0.0345,0.646,0.00406,0.169,0.101,115.774,267773,4
+Záviš,Hurá,7tNjn2y9ajJT0rsSbpzbG5,14,2001,songwriter,0.655,0.452,2,-6.744,1,0.0716,0.469,0.0,0.271,0.96,113.014,127333,4
+Efrat Ben Zur,גם הים נסוג,4QBTVVs5WOytN5FxQX5Xze,20,2001,songwriter,0.406,0.492,5,-5.273,1,0.031,0.000937,0.0019,0.112,0.2,61.858,200707,4
+Laura Nyro,Will You Still Love Me Tomorrow,7bYPmLgLTa26n8Q7IcZjC0,9,2001,songwriter,0.378,0.221,11,-12.285,1,0.0345,0.815,0.1,0.111,0.17,96.62,361773,4
+Luka Bloom,Love Is a Place I Dream Of,1joPd8YJRQx1fJHEqet2XD,12,2001,songwriter,0.244,0.0446,2,-21.46,0,0.0356,0.801,0.00476,0.109,0.0788,198.889,205453,3
+Jeff Buckley,"Kashmir (Led Zeppelin Parody) - Live at Olympia, Paris, France - July 1995",0tZHcXRsPSdxcL5Fof6yjY,22,2001,songwriter,0.58,0.0686,2,-23.208,1,0.74,0.806,0.0,0.849,0.45,101.821,94333,4
+Emmylou Harris,I'm Movin' On - Single Version,3HGd4G8bTtVmNs2eTMWvn0,7,2001,songwriter,0.328,0.746,6,-10.378,0,0.0948,0.019,0.00201,0.961,0.686,199.97,177667,4
+Emmylou Harris,Beneath Still Waters - 2003 Remaster,74xTZxxtCvULJtAlwlOUBc,13,2001,songwriter,0.48,0.347,2,-9.823,1,0.0276,0.694,0.000661,0.122,0.294,73.647,222947,4
+Gemma Hayes,Making Waves,7ivynCR68uWu8IrB0ZWU9D,7,2001,songwriter,0.541,0.328,7,-14.904,1,0.0283,0.141,0.866,0.111,0.139,132.124,216493,4
+David Francey,Lucky Man,786yAv8Lp2PGdSQyNClZiZ,15,2001,songwriter,0.44,0.225,2,-12.415,1,0.0304,0.951,0.0272,0.0931,0.514,150.121,214347,4
+Townes Van Zandt,Two Girls,0TmPTFvLboVzrqahuIehE0,9,2001,songwriter,0.414,0.524,2,-11.275,1,0.0436,0.708,0.0,0.108,0.375,150.415,226267,4
+Neil Finn,Paper Doll - Live,566ji01P7unaFQszuN9Pg2,7,2001,songwriter,0.19,0.435,2,-12.388,1,0.0382,0.801,1.47e-06,0.919,0.146,75.043,176160,4
+Emmylou Harris,Another Pot o' Tea - Single Version,2YYigoo9ZLy9hVJXXFV3tN,7,2001,songwriter,0.523,0.115,1,-17.667,1,0.0323,0.719,4.59e-05,0.116,0.203,125.667,182573,4
+Ani DiFranco,Whatall Is Nice,0jP1cQxloQPzqmf9JZIvW1,8,2001,songwriter,0.347,0.11,8,-15.705,0,0.0385,0.917,0.0766,0.0929,0.0397,160.421,276560,4
+Neil Diamond,Midnight Dream,0upDBgk99z9AzK24OiiweS,8,2001,songwriter,0.568,0.521,4,-9.199,1,0.0259,0.118,2.74e-05,0.105,0.326,113.192,297373,4
+Neil Finn,Down On The Corner - Live,1sjsFbk5L9mHbHQBdhaaVF,11,2001,songwriter,0.471,0.838,0,-6.419,0,0.0293,0.164,2.09e-05,0.783,0.516,101.418,271000,4
+Silence Wang,黑眼圈,56HCr2M7nU75uYCMS04KfP,25,2014,songwriter,0.734,0.555,1,-8.093,1,0.0346,0.464,0.0,0.129,0.496,118.043,249018,4
+Maria Doyle Kennedy,Stars Above,0e4QufYPz7qVCgYEVF4Qhx,7,2001,songwriter,0.606,0.472,11,-9.244,1,0.0549,0.561,7.99e-06,0.152,0.563,157.063,220800,4
+Jimmy LaFave,Emotionally Yours,6nAlvI3BcLLTTVIQwzXB4w,11,2001,songwriter,0.533,0.386,9,-9.64,1,0.0294,0.462,8.53e-06,0.151,0.173,68.416,244173,4
+Randy Newman,Boo Is A Cube,2t4EzKLHKz7EkuC22tQJ6X,21,2001,songwriter,0.341,0.118,7,-14.101,1,0.0394,0.829,0.669,0.0678,0.115,109.815,138307,4
+Randy Newman,Putting Boo Back,7ITB6vhFPoDZaCAwMmb1HK,22,2001,songwriter,0.342,0.11,1,-18.865,1,0.0425,0.908,0.558,0.172,0.0465,162.52,141613,4
+Woody Guthrie,A Picture From Life's Other Side,6RAaXt1sgIsSFMoymNKmwp,7,2009,songwriter,0.761,0.237,7,-12.065,1,0.044,0.991,0.0,0.102,0.425,81.532,188400,4
+Tom Waits,Muriel,09SPlF47uMPiK5zB3HuE8v,12,2001,songwriter,0.39,0.0663,7,-21.107,1,0.0483,0.968,0.00603,0.114,0.162,80.334,213933,3
+John Mayer,Great Indoors,2MCBSxOnkMcVkbaLplGYjX,42,2001,songwriter,0.591,0.617,0,-7.495,1,0.0259,0.0157,4.35e-05,0.146,0.48,109.956,216360,4
+Tsuyoshi Nagabuchi,唄を忘れたカナリア,25ilfsIYhsPSpRt8y0yZFl,11,2001,songwriter,0.594,0.876,4,-4.922,1,0.0415,0.0333,0.113,0.307,0.622,112.991,261093,4
+Neil Finn,She Will Have Her Way - Live,1MrT97SyhKYzjgQvU3niD5,11,2001,songwriter,0.372,0.899,7,-6.653,1,0.045,0.00291,4.89e-05,0.884,0.325,95.208,288733,4
+Woody Guthrie,Hard Ain't It Hard,6ZH8RQgHqystQJpLkA8xL8,7,2009,songwriter,0.595,0.394,1,-11.397,1,0.0452,0.973,0.0,0.308,0.494,116.104,163800,4
+Cocco,焼け野が原,4GCjTYW7bZZ62rj7gPn2Na,34,2001,songwriter,0.33,0.934,4,-3.702,1,0.0858,0.00485,0.0,0.307,0.357,159.781,256770,4
+Jewel,Grey Matter - 2001 Live Version,7j9TiwegadIdBAxsuZJohL,16,2001,songwriter,0.369,0.117,7,-16.078,1,0.0383,0.94,2.74e-05,0.853,0.154,136.381,280867,4
+Willie Nelson,Night Life - 2001 Digital Remaster,3si9tnFzs9xErBR5RFhPGO,6,2001,songwriter,0.596,0.339,5,-11.248,1,0.0364,0.824,0.000811,0.0731,0.488,85.51,149853,4
+Townes Van Zandt,Snowin' on Raton,3aqvdzqsqvwsgdxIwTbVpk,8,2001,songwriter,0.499,0.466,4,-13.052,1,0.032,0.631,1.03e-05,0.129,0.672,153.425,232707,4
+John Mellencamp,Women Seem,3xPTXZqdfLhBwOAVfVVNZM,10,2001,songwriter,0.603,0.794,4,-4.527,1,0.0301,0.183,0.00341,0.321,0.643,117.624,313573,4
+Kaname Kawabata,I'll steal your heart,5fdZYSvohEm65FN0kwN3su,13,2001,songwriter,0.512,0.821,10,-7.096,1,0.0719,0.323,0.0,0.267,0.438,171.924,280400,4
+Jennifer Daniels,Ohio,3mAF6bGpmrYz0xx8jWx7F2,2,2001,songwriter,0.328,0.577,7,-9.38,1,0.0484,0.513,7.18e-05,0.0898,0.591,167.638,237147,4
+Suzanne Vega,Last Years Troubles,4DnT0AaiBd5Sl9O0qvMFBj,12,2001,songwriter,0.722,0.812,9,-7.609,1,0.0322,0.449,9.99e-06,0.0983,0.902,113.001,215293,4
+Stefanie Sun,隨堂測驗,3Q5iXNbJYmWPPC1viqJMJe,14,2001,songwriter,0.705,0.76,9,-4.719,1,0.0281,0.0592,0.0,0.225,0.626,126.998,217850,4
+John Mellencamp,Deep Blue Heart,7sQD7BFA302FzeB8QnzcVF,10,2001,songwriter,0.457,0.774,2,-4.483,1,0.0302,0.0918,0.00266,0.0855,0.388,136.251,207227,4
+Cheer Chen,她說,5UGJzY6djsFOWabxH1OTGA,24,2018,songwriter,0.54,0.265,10,-12.423,0,0.0427,0.94,9.66e-05,0.111,0.301,133.752,209093,4
+Anita Lane,"I Love You, I Am No More",0My1lUJc5YjCof78SMZqfB,2,2001,songwriter,0.624,0.522,5,-11.837,0,0.0314,0.24,0.805,0.0806,0.692,93.033,204333,4
+Neil Diamond,A Mission Of Love,6QdBlA5kkKe3E0PEZDaSZY,5,2001,songwriter,0.438,0.638,9,-7.477,1,0.108,0.387,2.37e-06,0.102,0.484,65.756,255400,4
+Ruby Amanfu,Turn Our Eyes Away,11fbOHNJPDW6lWK1Gq1WP7,28,2015,songwriter,0.555,0.15,0,-15.945,1,0.0349,0.947,0.0,0.0791,0.131,71.937,236733,4
+Richard Hawley,Caned,3Mnze6A8Nj4WzScRH3Vh6V,11,2001,songwriter,0.625,0.374,0,-12.653,1,0.031,0.569,0.409,0.0936,0.194,119.965,115253,4
+Rheostatics,P.I.N.,124njqrCfmE89fyPlORa9p,5,2001,songwriter,0.633,0.574,0,-11.228,1,0.0286,0.226,0.0608,0.114,0.436,118.331,218133,4
+Chihiro Onitsuka,螺旋,6yap7TU0MTrZB753DAmFAp,24,2001,songwriter,0.578,0.334,4,-9.828,1,0.0278,0.94,3.62e-05,0.107,0.379,79.087,243040,4
+Leonard Cohen,Field Commander Cohen - Live,6KOyFQNoewiGj76ediaKBI,16,2001,songwriter,0.447,0.279,7,-13.054,0,0.0567,0.843,0.0,0.695,0.185,98.168,264827,4
+Tobias Trier,Drak af din kop,4rB3T6DEl0ZYKVriH1WdaS,5,2001,songwriter,0.626,0.916,9,-2.881,1,0.357,0.00814,0.0,0.125,0.75,174.043,190200,4
+Randy Newman,Randall's Attack,4I4r9S9Sv4zJXjwuxdHMSe,18,2001,songwriter,0.464,0.158,9,-13.695,0,0.0414,0.727,0.901,0.382,0.117,126.329,141760,4
+Julie Doiron,Le Piano,1S6pi07iidM8l7pWicMJ5c,4,2001,songwriter,0.741,0.18,2,-21.458,1,0.0703,0.631,0.0798,0.0825,0.301,107.251,272773,4
+Jeff Buckley,"That's All I Ask - Live at Olympia, Paris, France - July 1995",4vXUIaN6JPtIbuK8qU7fAX,11,2001,songwriter,0.266,0.423,2,-12.801,1,0.031,0.238,0.205,0.916,0.207,91.606,318800,4
+Anita Lane,The Next Man That I See,4GtEomzwMZt4heel7HNf5W,3,2001,songwriter,0.451,0.627,0,-8.823,1,0.0345,0.00383,0.303,0.0844,0.507,81.934,346240,4
+Neil Finn,Weather With You - Live,4sqOSUKE4bgbLBZyrJ43Fs,17,2001,songwriter,0.557,0.882,4,-7.12,0,0.053,0.0293,1.52e-05,0.975,0.693,98.189,326533,4
+Hikaru Utada,Blow My Whistle,4P2bJoyIeOeUGhQ2YQPYt2,13,2001,songwriter,0.822,0.824,2,-4.456,0,0.0796,0.0695,0.0,0.0396,0.859,105.012,246800,4
+Suzanne Vega,Priscilla,4UFTsNv9mqVeZIiuaax56w,11,2001,songwriter,0.568,0.48,0,-13.012,1,0.0328,0.332,0.0603,0.202,0.424,180.061,254000,3
+David Francey,Mill Towns,1TLlZWzCWmdYZiszJfzZm5,10,2001,songwriter,0.607,0.259,2,-7.524,1,0.0318,0.905,1.62e-05,0.123,0.563,85.818,227653,4
+Hikaru Utada,traveling,1U2eK2hq5rKBWVeyJ3ToV9,32,2001,songwriter,0.669,0.956,4,-4.086,0,0.099,0.032,0.0,0.138,0.699,116.999,314627,4
+Tanya Chua,Day & Night,4hQIsJw5xCtk9gDjUCbD7O,9,2001,songwriter,0.58,0.514,1,-9.872,1,0.0339,0.143,5.1e-06,0.0624,0.653,156.067,252800,4
+Nanci Griffith,Lone Star State Of Mind,6BpTkZGWm7KIGXxv73znFN,5,2001,songwriter,0.466,0.644,2,-9.142,1,0.0305,0.276,0.000592,0.302,0.861,191.435,235200,4
+Randy Newman,The Scare Floor,6miK1DMb1WONHzH1jh5PLk,38,2001,songwriter,0.552,0.365,2,-9.806,0,0.03,0.486,0.338,0.105,0.381,100.034,160187,4
+John Mayer,83,2HIyeqaYp9H3mY21dowQVe,17,2001,songwriter,0.698,0.822,2,-6.358,1,0.0291,0.0563,0.0102,0.111,0.685,121.959,290493,4
+Julie Doiron,Ce Charmant Coeur,5QwMAGWMDadxRmKAGr0qiV,11,2001,songwriter,0.569,0.0517,7,-19.765,1,0.0498,0.959,0.00049,0.101,0.23,126.51,135733,3
+Julie Doiron,La Jeune Amoureuse,1r8frLmpGtQ4eZjMAJPDlw,6,2001,songwriter,0.77,0.0901,4,-15.564,1,0.0344,0.837,0.175,0.111,0.0985,111.129,201067,4
+Tobias Trier,Trine,0eqk7A7hVYbtqDFNxGU19A,9,2001,songwriter,0.625,0.231,2,-11.873,1,0.0371,0.819,0.00667,0.101,0.527,139.82,123507,3
+Yutaka Ozaki,I LOVE YOU,1Y1qIXKhQdJJkim2urA4wp,12,2001,songwriter,0.537,0.312,9,-10.191,1,0.0294,0.155,2.67e-05,0.098,0.162,74.656,261307,4
+Bruce Springsteen,"Badlands - Live at Madison Square Garden, New York, NY - June/July 2000",2M6dHhZ8l1lUjjSRGjfEo4,31,2001,songwriter,0.46,0.934,4,-4.625,1,0.0509,0.0347,1.04e-06,0.771,0.444,118.285,342907,4
+Townes Van Zandt,Ain't Leavin' Your Love,771IqwCCwZw9lSLw6r8geR,5,2001,songwriter,0.694,0.454,0,-11.393,1,0.0934,0.716,1.84e-05,0.69,0.727,84.246,175345,4
+Steve Earle,My Old Friend The Blues,11DJLpBfpLzGZd9x0EWZFn,9,2001,songwriter,0.645,0.287,7,-13.355,1,0.053,0.731,0.000165,0.714,0.566,75.253,183812,4
+Shawn Colvin,Fall Of Rome,7AE6N7K4pfmORyvbdhorLF,2,2001,songwriter,0.452,0.434,0,-10.075,1,0.0444,0.184,0.118,0.11,0.242,114.548,306640,4
+Sertab Erener,Kumsalda,44P48IXl8neXU8K3YAKabd,42,2001,songwriter,0.783,0.889,5,-5.33,1,0.05,0.0725,0.00213,0.0297,0.95,117.02,226400,4
+Alasdair Roberts,As I Came In By Huntly Town,4Fk6AdNmNTJEosRB8ZRAfh,10,2001,songwriter,0.315,0.265,6,-8.602,1,0.0324,0.871,4.9e-06,0.117,0.364,79.882,299733,4
+Willie Nelson,Undo The Right - Digitally Remastered '01,3zBNbWz3MtYXKCm1qbIa2q,4,2001,songwriter,0.607,0.199,2,-12.551,1,0.0496,0.654,0.0,0.126,0.504,116.347,154187,4
+Stefanie Sun,任性,3rOYg79Faxp1IH4iJiAdW2,31,2001,songwriter,0.269,0.248,2,-10.024,1,0.0395,0.89,0.0,0.0892,0.199,183.482,227370,4
+Hikaru Utada,言葉にならない気持ち,4hrlyhH5MLAT2Oqe6FdLgM,30,2001,songwriter,0.665,0.618,5,-3.775,0,0.0576,0.0198,0.0,0.0821,0.507,84.761,303467,4
+Laura Nyro,Gardenia Talk,04CTmyHEoFIgKVvWjB91uk,7,2001,songwriter,0.584,0.653,0,-9.265,1,0.0371,0.0982,0.00308,0.0706,0.801,164.152,166667,4
+Yusuf / Cat Stevens,Trouble,5otl7Sqb75D0c9kghaXXqp,11,2001,songwriter,0.525,0.166,6,-14.713,1,0.044,0.658,0.0,0.081,0.308,140.904,167733,4
+Shawn Colvin,A Matter Of Minutes,4oEMjy8f9NHieJmW56LUgR,6,2001,songwriter,0.587,0.446,8,-11.546,0,0.0327,0.427,0.0371,0.0976,0.333,80.956,307000,3
+Tom Petty,"Like a Diamond - Alternate Version, 2002",3d1MqSokHyf7oQVbmYhSPw,15,2018,songwriter,0.623,0.338,2,-9.011,1,0.0317,0.4,0.000291,0.111,0.092,131.811,255640,4
+Alasdair Roberts,The Wife Of Usher's Well,1T0a1xpsoqSHzKvHxG9DZv,3,2001,songwriter,0.479,0.255,2,-10.066,1,0.0288,0.879,1.82e-05,0.132,0.161,82.083,318640,4
+Ken Hirai,Gaining Through Losing,2dhCJUbWq4Q5jwzq5gNUWC,25,2001,songwriter,0.463,0.732,5,-4.123,1,0.0563,0.736,0.0,0.0944,0.374,136.069,375373,4
+Neil Diamond,Leave A Little Room For God,49DqMoO6ij3qbwBpjY6hz6,9,2001,songwriter,0.702,0.596,4,-8.736,1,0.0472,0.246,0.0,0.0932,0.603,111.467,173267,4
+Neil Finn,Paradise (Wherever You Are) - Live,72byM0VL15Xm27UWxy9tKx,8,2001,songwriter,0.381,0.654,2,-9.792,1,0.0453,0.472,6.43e-06,0.921,0.419,110.18,246840,4
+Suzanne Vega,(I'll Never Be) Your Maggie May,1YJurDQdPYovuBdgTU6gtj,24,2001,songwriter,0.624,0.533,9,-9.725,1,0.03,0.431,1e-05,0.212,0.559,87.015,227000,4
+Richard Thompson,The Ghost Of You Walks - 2001 Digital Remaster / 24 Bit Mastering,4ka83y0V9IOs1jifWEqdpq,6,2001,songwriter,0.595,0.312,8,-14.066,0,0.032,0.831,0.000895,0.11,0.216,113.603,220267,4
+Ani DiFranco,Imagine That,355WWw2IBHz8GBPa0MLKUQ,11,2001,songwriter,0.325,0.111,10,-15.118,0,0.0487,0.929,2.01e-05,0.112,0.0876,171.895,241533,1
+k.d. lang,Wash Me Clean - Live,5Vl6ydPwIAf4dkaqkg7seT,6,2001,songwriter,0.345,0.185,4,-16.912,1,0.0347,0.805,0.000406,0.578,0.0385,115.505,230200,4
+Hayden,I Should Have Been Watching You,15G7DOx5wq7mEHRbw436O0,15,2001,songwriter,0.678,0.239,10,-15.242,1,0.0308,0.129,1.03e-05,0.103,0.431,95.827,102307,4
+汪佩蓉,Never Gonna Let Me Cry,0r2sNwga5g87x8SnXwTnEt,4,2001,songwriter,0.793,0.604,11,-10.342,0,0.0528,0.259,0.0,0.28,0.42,123.994,248467,4
+Tanya Chua,默契,2Nn0sZPEMrY6epVC6ueWVz,12,2001,songwriter,0.675,0.505,7,-8.45,1,0.0261,0.269,0.0,0.0931,0.395,102.914,230907,4
+Emmylou Harris,I Ain't Living Long Like This,0r38nisZ1mr1Pl9ea4BCh1,10,2001,songwriter,0.433,0.768,0,-10.613,1,0.0387,0.0199,7.93e-05,0.0911,0.621,151.896,248407,4
+Burcu Güneş,Çile Bülbülüm,5ASeE2k41QJgR12XS3vADN,40,2001,songwriter,0.673,0.848,7,-5.747,1,0.044,0.0482,0.0074,0.306,0.33,127.963,223707,4
+Emmylou Harris,One of These Days,0ZkmGfojcDIVymdcOPEiW5,11,2001,songwriter,0.663,0.387,10,-9.271,1,0.03,0.447,3.22e-05,0.121,0.682,124.663,183720,4
+Lars Winnerbäck,Nån annan - Live,1IlrzN59GcmGID5PAi11sJ,15,2001,songwriter,0.275,0.773,2,-8.103,1,0.0566,0.0619,5.09e-05,0.369,0.415,82.288,309507,4
+Willie Nelson,Wouldn't Have It Any Other Way,12pO0V4w1oiLAMkmDUOP9F,9,2001,songwriter,0.559,0.303,9,-10.062,1,0.0614,0.951,0.00585,0.111,0.504,112.962,115893,3
+Penny Tai,我有想法,13lWOPMTYehbAwERtmVel8,8,2001,songwriter,0.721,0.762,8,-6.086,1,0.0312,0.293,0.0,0.244,0.962,109.998,241933,4
+Lucinda Williams,Sweet Old World,48Io8QzIy2Iz4RlIirlY4c,16,2017,songwriter,0.612,0.268,2,-12.422,1,0.0322,0.881,0.0411,0.103,0.257,96.888,285853,4
+Yusuf / Cat Stevens,I Want To Live In A Wigwam,7mkMA1V0Z2d14Cq6RWc8vQ,19,2001,songwriter,0.522,0.69,0,-10.211,1,0.0333,0.25,1.71e-05,0.334,0.897,130.951,203493,4
+Záviš,Červený most,2rLyYXgUDUa4Gaast5wIoo,11,2001,songwriter,0.592,0.342,5,-9.017,1,0.0562,0.544,0.0,0.0981,0.635,74.673,282533,4
+Chihiro Onitsuka,イノセンス,2Mayl95dRO8gERV6HSFHWr,17,2001,songwriter,0.413,0.689,2,-5.432,1,0.0743,0.347,0.0,0.0857,0.637,181.883,317307,4
+Lucinda Williams,Cold Cold Heart,5pycIp9N2ILQm84nd5MftV,9,2001,songwriter,0.271,0.161,9,-11.882,1,0.0347,0.895,1.16e-05,0.111,0.275,85.121,308307,4
+Alasdair Roberts,Standing In Yon Flower Garden,4cnyja8raTkqdMzepu4axl,3,2001,songwriter,0.526,0.159,5,-11.326,1,0.0367,0.878,0.0,0.105,0.413,131.217,231347,4
+Emmylou Harris,Hour Of Gold,3PUAVGIjyWRWUGdiu34ViW,7,2001,songwriter,0.384,0.396,2,-13.274,1,0.0301,0.248,1.42e-06,0.185,0.289,59.516,289715,4
+Hikaru Utada,蹴っ飛ばせ!,7fq1zF0iZqidY22aGLvE8X,28,2001,songwriter,0.587,0.98,2,-1.502,0,0.067,0.021,0.00963,0.119,0.746,150.015,271133,4
+John Mellencamp,Crazy Island,6Ssw5c4dC7BQlLHofg5SaT,10,2001,songwriter,0.606,0.871,1,-3.431,1,0.0282,0.0264,7.38e-06,0.214,0.764,125.082,226267,4
+Leonard Cohen,The Window - Live,0U612BXxB2wvUjgkP9n4qK,15,2001,songwriter,0.371,0.338,9,-11.606,1,0.0388,0.914,0.0171,0.713,0.162,127.01,350547,3
+Morten Abel,Stay Crazy,0tZb30jBijLlAkwSFx8LTw,9,2001,songwriter,0.336,0.464,9,-8.514,1,0.0318,0.0471,0.000982,0.578,0.175,180.115,307200,3
+Loudon Wainwright III,Living Alone,0LrkWGpOQpo5ZEWFEYztFQ,7,2001,songwriter,0.708,0.648,2,-7.608,1,0.107,0.311,9.03e-05,0.173,0.546,97.582,157067,1
+Richard Hawley,Time Has Made a Change,6kJM5rLDEjh7DfiyOCLwz3,11,2001,songwriter,0.505,0.643,7,-10.538,1,0.0369,0.271,0.0436,0.274,0.472,141.439,181547,3
+The Sadies,Wasn't Born To Follow,30BHksx9fYCJAJGQir6h8P,13,2001,songwriter,0.387,0.617,7,-10.752,1,0.0651,0.246,0.00636,0.122,0.808,186.847,149240,4
+Luka Bloom,I'm a Bogman,502GINmo2v1f1aFbB5uEKi,6,2001,songwriter,0.705,0.643,8,-13.752,1,0.0625,0.192,0.231,0.0947,0.655,116.234,224267,4
+Lars Winnerbäck,Du hade tid - Live,1Q1Kb10R1x9zRrsTOWr8Up,18,2001,songwriter,0.514,0.395,7,-9.949,1,0.0276,0.0782,0.00592,0.977,0.333,76.818,274600,4
+Ryuichi Kawamura,深愛~only one~,4Ek2MtcdUCMmCENuWrlugR,10,2001,songwriter,0.455,0.576,10,-6.188,1,0.0267,0.124,2.52e-05,0.123,0.218,147.965,357645,4
+Townes Van Zandt,Kathleen,0zenO34KDlYu4a6fDLkygz,8,2001,songwriter,0.555,0.298,0,-15.56,0,0.0287,0.855,0.00366,0.103,0.43,105.453,182293,4
+Jackie Leven,Hidden World of She,5jngt5ZOEkhoG2CgO2nbwm,10,2001,songwriter,0.714,0.435,8,-10.752,0,0.0441,0.0369,0.238,0.126,0.541,79.964,303000,4
+Tom Waits,Tom Traubert's Blues (Four Sheets To The Wind In Copenhagen),12lwfFcTj7laZ0ivUK30hu,18,2001,songwriter,0.311,0.203,5,-16.631,1,0.0322,0.77,0.0,0.174,0.344,133.171,399067,4
+Mỹ Tâm,Hai Mươi,1QhxHoc32Psy5uw6ITjbiP,19,2001,songwriter,0.685,0.735,8,-4.443,1,0.0312,0.379,0.0,0.0768,0.575,110.07,270400,4
+Hawksley Workman,Striptease,7zGxhlNDmw2yMbeybpea1E,27,2001,songwriter,0.576,0.898,7,-6.39,1,0.0476,0.164,5.85e-06,0.0964,0.709,91.046,212174,4
+Alasdair Roberts,Ploughboy Lads,0mf2trDx7LlYfYCrGYBort,7,2001,songwriter,0.454,0.199,3,-11.857,1,0.0438,0.87,0.000403,0.113,0.187,125.551,114867,4
+Richard Hawley,Cry a Tear for the Man on the Moon,0N3hHdNwISajeUm1wzxzQ1,17,2001,songwriter,0.607,0.0378,11,-22.57,1,0.0499,0.915,0.015,0.111,0.0399,107.455,206680,1
+Shawn Colvin,Bonefields,3QmcT3Un2FFTcbaeAznTdk,4,2001,songwriter,0.653,0.462,1,-11.971,0,0.0387,0.838,0.345,0.073,0.359,82.011,269400,4
+Ani DiFranco,Old Old Song,1u4UacqSCcXsbS3m8Jtjjq,8,2001,songwriter,0.585,0.0818,8,-15.667,1,0.0379,0.885,0.000144,0.0951,0.11,90.414,262093,4
+Rodney Crowell,Wandering Boyd,7hXYaBeBOe7LQjd2JUPPFF,11,2001,songwriter,0.586,0.613,9,-10.012,0,0.029,0.311,0.0811,0.131,0.292,84.134,357133,4
+Tom Waits,Mr. Siegal,0M16qCHFICfDQZVitNAfXE,15,2001,songwriter,0.62,0.405,4,-16.272,0,0.0411,0.259,0.0,0.207,0.85,86.207,314707,4
+Hank Snow,"A Good Gal Is Hard To Find - Buddha Remastered - February 5, 2001",4RnKhJcCHlXuhlSAURrPJO,8,2001,songwriter,0.654,0.734,4,-5.943,1,0.0261,0.061,0.0,0.069,0.844,103.379,176267,4
+Suzanne Vega,Penitent,2HYAOSChGcbnHrE1Q1feAc,26,2001,songwriter,0.56,0.545,10,-10.926,0,0.0295,0.309,7.57e-06,0.0862,0.446,95.993,256800,4
+Luka Bloom,I'll Walk Beside You,5yxKRxv0V8MkYqWjbxvLZA,19,2001,songwriter,0.326,0.114,2,-16.176,1,0.0353,0.931,0.000782,0.19,0.319,111.66,194267,4
+Hank Snow,Ninety Miles an Hour (Down a Dead End Street) - Remastered,0iZjxIBRvrQE9XZUmvSnbh,7,2001,songwriter,0.461,0.714,10,-7.899,1,0.0381,0.295,0.0,0.131,0.638,112.87,155093,4
+Suzanne Vega,Widow's Walk,5Wa4PILxXaGY5ykGbGabgp,25,2001,songwriter,0.681,0.646,2,-8.512,1,0.0301,0.195,0.00101,0.161,0.731,97.984,213960,4
+Yusuf / Cat Stevens,Tea For The Tillerman,5fUMqHnQIm1rOxtLAxKGMv,27,2020,songwriter,0.466,0.286,0,-8.703,1,0.131,0.886,0.000764,0.191,0.599,211.315,59800,4
+Záviš,Brambory,4XC68PVydt3k0luW501znN,6,2001,songwriter,0.594,0.408,5,-7.594,1,0.0392,0.758,0.0,0.0715,0.922,116.037,154920,4
+Rodney Crowell,Highway 17,1sxUavV45iUjH6UOE3Hf7h,10,2001,songwriter,0.539,0.179,5,-12.173,1,0.0443,0.802,1.03e-06,0.121,0.249,113.804,294947,3
+Hikaru Utada,ドラマ,2U4fJiSYj0sPedPfmJLN09,26,2001,songwriter,0.428,0.791,7,-4.719,1,0.0304,2.64e-05,0.363,0.373,0.186,80.918,276573,4
+Nanci Griffith,From A Distance,0zIhueX03FptnLtknq0P3d,4,2001,songwriter,0.449,0.209,6,-10.465,1,0.0281,0.548,5.09e-06,0.1,0.27,136.438,252107,4
+Emmylou Harris,Hickory Wind,1mOg6RgpftS19z8wDJ0aFv,15,2001,songwriter,0.321,0.206,4,-13.563,1,0.0312,0.753,6.31e-06,0.413,0.165,88.948,268585,3
+Wu Bai,妳愛我,0gCv3VjzDVAFkW0khAmsBT,14,2001,songwriter,0.792,0.323,11,-14.981,0,0.0592,0.194,0.00149,0.0361,0.895,139.971,275373,4
+Laura Nyro,Animal Grace,5CoD1aUt32BURQU5fICy5G,3,2001,songwriter,0.43,0.158,7,-12.678,0,0.0277,0.897,0.000423,0.102,0.52,75.68,89440,4
+Randy Newman,Walk To Work,1dYcAIkICjPy2iboLdVNWM,34,2001,songwriter,0.389,0.25,8,-13.521,1,0.032,0.76,0.206,0.0911,0.177,104.459,208520,4
+Chris Smither,All We Need To Know,0slEVa7xBQzraaHuJ6TlG6,9,2012,songwriter,0.332,0.443,2,-9.161,0,0.0374,0.677,0.00419,0.109,0.277,77.963,257893,4
+Rodney Crowell,Adam's Song,1ANgu92VdUsafgkm2PZeU7,6,2003,songwriter,0.556,0.171,10,-14.238,1,0.032,0.835,0.000454,0.106,0.573,78.232,294467,4
+John Hiatt,I Know A Place,0F8zaWoeLO9mnO7Sf9vp0X,9,2001,songwriter,0.336,0.605,2,-7.923,1,0.0302,0.00591,0.113,0.26,0.523,164.641,206629,3
+Richard Hawley,Sick Pay,6rH52UScYuwpseuH0pOSBG,12,2001,songwriter,0.545,0.439,2,-10.554,1,0.0246,0.68,0.0153,0.254,0.367,86.981,280467,4
+Peggy Hsu,想念,1ewzLRYtWU3YewyHBtjpZE,12,2001,songwriter,0.583,0.378,0,-8.811,1,0.0293,0.684,3.72e-06,0.0876,0.377,143.822,259600,4
+k.d. lang,The Consequences of Falling - Lenny B Remix,3cQbluxb5OwtC7TnsZXQlR,11,2001,songwriter,0.618,0.737,9,-6.797,0,0.0239,0.0281,0.000764,0.223,0.713,97.992,256333,4
+Jimmy Rankin,We'll Carry On (Prelude),7a6xDvQeH6wyth0Ipm82sS,16,2001,songwriter,0.377,0.473,8,-10.841,0,0.036,0.168,0.399,0.0973,0.512,100.661,90773,4
+Randy Newman,"Monsters, Inc.",5e0O7MjhNHq9G67qDFM8nR,54,2001,songwriter,0.68,0.465,8,-8.353,1,0.029,0.743,0.676,0.136,0.847,109.972,126387,4
+Richard Hawley,Happy Families,6PmNwi4M3I58VsPNVsCE6v,10,2001,songwriter,0.41,0.533,2,-9.716,1,0.0266,0.131,0.00923,0.11,0.414,185.842,189307,3
+Ken Hirai,even if,0HqMJESrXs4bWMOOLy4fFs,19,2001,songwriter,0.334,0.298,0,-7.951,1,0.0356,0.721,0.0,0.243,0.222,60.201,338160,4
+Sarah Slean,Sweet Ones,2ZjN2dU82pxJZPFsRHuUwt,22,2001,songwriter,0.676,0.554,5,-6.392,0,0.0287,0.282,0.0,0.0496,0.526,117.952,193600,4
+Brian Kennedy,Bonny Blue-Eyed Nancy,1CWR5ZopSxBcsZLEmqLa0r,6,2001,songwriter,0.263,0.108,0,-16.718,1,0.0376,0.942,0.00387,0.14,0.286,169.814,343867,5
+Fred Eaglesmith,I Like Trains,6CSqT8tQ6gZwgx3hBbokbR,5,2001,songwriter,0.637,0.561,9,-3.68,0,0.0297,0.756,2.23e-05,0.529,0.54,143.033,208893,4
+安溥,Miss missed Love,353Npsz4g0PKfmlkq0HFur,37,2022,songwriter,0.581,0.421,7,-11.319,0,0.0279,0.866,0.000118,0.341,0.348,116.911,186780,4
+Maarten Van Roozendaal,Red Mij Niet - Live Theater Versie,0Z5XdXJas7AYwn4S99MDDY,14,2001,songwriter,0.451,0.533,4,-9.017,1,0.0387,0.848,0.000601,0.718,0.256,132.762,274000,4
+Ivri Lider,בתי קפה,4qIlOItg6LKbkVwWmul2Jh,22,2001,songwriter,0.747,0.624,2,-9.128,1,0.0807,0.335,0.00055,0.0542,0.589,90.012,226253,4
+Tom Waits,Wrong Side Of The Road,2xXkHoRSrMgkeYQQsCXG3q,15,2001,songwriter,0.585,0.333,4,-14.617,0,0.0473,0.462,2.81e-05,0.0636,0.568,77.05,314227,4
+Laura Nyro,Angel In The Dark,0Ry6xo3hZJpMkTpdLTAzeE,6,2001,songwriter,0.53,0.525,9,-6.364,0,0.0491,0.599,0.000615,0.0643,0.261,72.988,246293,4
+Emmylou Harris,Sweet Dreams - Live,6z3RbDsl485CckqzFXuWHp,12,2001,songwriter,0.407,0.358,10,-10.19,1,0.0293,0.716,0.000146,0.977,0.274,78.892,184760,4
+Tanya Chua,可以愛你真好,6It5lHxyTj67khoXJa7p2V,13,2001,songwriter,0.566,0.573,2,-7.773,1,0.0546,0.51,0.0,0.102,0.68,181.862,186200,4
+Záviš,Já na vojnu nepudu,6fqHAVGLZcDNOxjoYlMo1m,10,2001,songwriter,0.437,0.225,0,-7.941,1,0.0453,0.821,0.0,0.349,0.592,174.706,227413,3
+Chihiro Onitsuka,call,4GSJUxKoSmznAydLFuI5fb,24,2001,songwriter,0.398,0.267,2,-10.432,1,0.032,0.896,0.000188,0.0631,0.291,179.695,316427,4
+David Francey,February Morning Drive,3vDeTx7y5GgDwqFAELCLu8,8,2001,songwriter,0.603,0.496,4,-5.919,1,0.0278,0.82,0.00605,0.112,0.481,102.902,205853,1
+Stina Nordenstam,Sharon & Hope,6OCk2ShDgDgsI6mcz4ifgt,15,2001,songwriter,0.698,0.497,2,-9.719,1,0.0419,0.628,0.00151,0.118,0.245,106.89,151040,4
+Jackie Leven,Exit Wound,1auCkWjoXwTdHdEuHMTFBF,9,2001,songwriter,0.725,0.438,11,-12.022,0,0.0385,0.0614,0.000131,0.354,0.434,106.835,388413,4
+Bruce Springsteen,"American Skin (41 Shots) - Live at Madison Square Garden, New York, NY - June/July 2000",1RMCRSvX4NWcI2ohE5bdNV,30,2001,songwriter,0.476,0.45,9,-7.898,1,0.0269,0.124,5.94e-06,0.636,0.0772,103.014,465000,4
+John Hiatt,Cry Love - Live,1Gn6qDb6orYCF3G65QOGwn,3,2001,songwriter,0.452,0.686,0,-12.936,1,0.0632,0.0478,3.81e-05,0.759,0.927,169.72,256667,3
+Neil Finn,Don't Dream It's Over (Live),7vshsPxjQMTJnBsp1k7g0X,33,2001,songwriter,0.386,0.455,3,-10.071,1,0.039,0.87,0.0024,0.722,0.282,82.129,331160,4
+Hikaru Utada,FINAL DISTANCE,2RRWJlTPRdfvgU6JYiCIIn,24,2001,songwriter,0.304,0.512,3,-4.993,1,0.0296,0.77,0.0,0.102,0.332,164.189,337693,4
+Neil Diamond,I Haven't Played This Song In Years,0VvyxeCzMx2Z7sCPH8xWo8,8,2001,songwriter,0.352,0.397,9,-11.224,0,0.0396,0.716,0.0,0.167,0.163,139.052,265067,4
+Randy Newman,We're Gonna Get Married,329BtlzSpIytv7Gaf6AYZP,17,2001,songwriter,0.642,0.679,7,-10.113,1,0.118,0.288,0.0315,0.159,0.533,138.775,143000,4
+Richard Hawley,Naked in Pitsmoor,31nFc228N0KuH3A3qXCu8Y,20,2001,songwriter,0.434,0.614,0,-8.481,1,0.032,0.182,0.272,0.157,0.367,80.002,204120,4
+Cass McCombs,Buried Alive,3zoaTltsmMpRutYMFlTqEf,7,2011,songwriter,0.581,0.191,11,-12.127,0,0.033,0.824,0.17,0.107,0.0748,116.362,337867,4
+The Sadies,Loved On Look,0xigAtHw1VoBCl0ec2BE39,7,2001,songwriter,0.538,0.843,5,-7.498,1,0.0467,0.0512,0.0,0.052,0.637,121.787,171413,4
+汪佩蓉,瘋狂,7C215mKWWI4IL399RgBbSV,7,2001,songwriter,0.551,0.338,3,-10.853,1,0.0357,0.61,0.000192,0.25,0.238,127.875,242973,4
+The Sadies,Mother of Earth,5Pgte5LXemqK2k6LK4D0nC,9,2001,songwriter,0.416,0.615,2,-11.925,1,0.0453,0.108,0.808,0.18,0.581,168.35,196160,4
+Hayden,Lullaby,1lIfLgpNqkLA26BXrbGVnp,8,2001,songwriter,0.283,0.241,7,-15.887,1,0.0329,0.469,0.515,0.104,0.109,75.798,340497,4
+Gord Downie,Trick Rider,6kPMLRMHRescGyIptdBi9w,13,2001,songwriter,0.492,0.331,3,-10.863,1,0.0252,0.826,0.0451,0.136,0.24,83.073,263627,4
+Naiwen Yang,不得不,7kJgYN5fGpUnt1UMvZVIVm,13,2001,songwriter,0.61,0.682,0,-4.062,1,0.0279,0.111,0.0,0.293,0.364,121.971,217267,4
+Steve Earle,Tom Ames' Prayer,6fTK4JVmOyjsvfA4rCWqYL,8,2001,songwriter,0.559,0.647,0,-10.304,1,0.157,0.354,0.0,0.701,0.883,92.871,202077,4
+Gord Downie,Lofty Pines,1C1MjelfoCIu8kMBjI8yiw,9,2001,songwriter,0.415,0.499,11,-8.862,1,0.0256,0.303,0.000414,0.119,0.344,96.483,291507,4
+Bruce Springsteen,"Born In the U.S.A. - Live at Madison Square Garden, New York, NY - June/July 2000",4MK3A7GAdhIxJjnavcenWj,24,2001,songwriter,0.342,0.374,2,-9.38,1,0.0391,0.764,3.08e-06,0.981,0.139,124.018,345707,5
+Burcu Güneş,Zorba Aşk,5Fz0nAscoTiiZKsCo720Hn,9,2001,songwriter,0.301,0.451,4,-7.221,0,0.0303,0.716,0.0,0.0908,0.166,95.928,353667,4
+Emmylou Harris,Raise The Dead,1K59fEPE6S8QTk9srd5fpM,8,2001,songwriter,0.412,0.475,2,-9.883,1,0.0344,0.39,0.0,0.12,0.271,73.247,192354,4
+Gemma Hayes,Gotta Low,2mmRRlwYBjUzuqf60bIYPw,10,2001,songwriter,0.433,0.0473,7,-18.868,1,0.041,0.928,0.00334,0.111,0.491,78.364,265840,4
+k.d. lang,Constant Craving - Live,1Hh0zS3b9pszJA7wnNeWG0,18,2001,songwriter,0.438,0.869,5,-6.289,0,0.034,0.0151,0.000338,0.928,0.44,131.55,272093,4
+Lyle Lovett,Which Way Does That Old Pony Run,0I4Oz6oskXrF5IK5ry8bNq,9,2001,songwriter,0.408,0.317,9,-9.159,1,0.0302,0.596,7.66e-05,0.143,0.181,110.369,250200,3
+Townes Van Zandt,Katie Belle,2h8V0IPrnAftjdXKijZPCd,8,2001,songwriter,0.584,0.382,0,-18.074,1,0.473,0.8,0.000688,0.539,0.515,117.64,193344,3
+Janis Ian,At Seventeen - Single Version,3SzdBJWMiyUqVSnFiAyrFl,8,2001,songwriter,0.592,0.326,0,-15.436,1,0.0517,0.816,0.0,0.111,0.327,123.927,235973,4
+Ani DiFranco,What How When Where (Why Who),69Vhf1vZKV0yord49HiRi4,10,2001,songwriter,0.747,0.439,8,-12.261,1,0.175,0.596,0.645,0.117,0.673,81.38,358200,4
+Slaid Cleaves,November Skies,5KGU4PDn1vAA5sUPwkNb1J,4,2001,songwriter,0.569,0.316,7,-11.36,1,0.0294,0.705,0.0,0.102,0.404,129.808,235666,4
+Julie Doiron,Don't Ask,3Vu4nafVNyO5R1MSMSdnZ6,4,2001,songwriter,0.809,0.118,9,-14.239,0,0.0352,0.616,0.0136,0.139,0.313,132.808,208227,4
+Willie Nelson,Playin' Dominoes And Shootin' Dice,34czgcQnrxFzugbf4hMP6X,8,2001,songwriter,0.474,0.428,7,-7.862,1,0.0452,0.776,1.13e-05,0.0869,0.715,102.484,165800,4
+Fred Eaglesmith,White Rose,48KOL2ZO1FRPfrL7crfeQc,8,2001,songwriter,0.67,0.454,1,-6.052,0,0.042,0.764,1.1e-05,0.926,0.627,153.213,222667,3
+Guy Clark,Randall Knife,3iX4FNIANHOq2UtkyvtnOJ,6,2001,songwriter,0.541,0.332,2,-18.319,1,0.305,0.769,6.39e-05,0.509,0.313,97.698,286412,5
+Chihiro Onitsuka,We can go,2ichahVt2qkRqiESR5Fb6x,22,2001,songwriter,0.604,0.757,2,-6.431,1,0.0292,0.603,2.44e-05,0.117,0.646,123.908,287107,4
+Leonard Cohen,The Guests - Live,2jkf9evLLQv5hgmxCW5t8v,12,2001,songwriter,0.351,0.314,9,-13.654,1,0.0406,0.874,0.00884,0.704,0.0768,108.998,364373,4
+Danny Sanderson,בדיעבד,69VbeHWEkuDonW5sTyls6q,24,2001,songwriter,0.558,0.815,0,-5.427,0,0.0576,0.0265,0.0,0.95,0.95,164.517,274880,4
+Shawn Colvin,Mr. Levon,60JOqDZ4dWjpdKau9K8luD,3,2001,songwriter,0.576,0.347,11,-12.614,0,0.0385,0.728,0.0195,0.0931,0.337,79.952,248293,4
+Záviš,Líbej,0Tdhv8MDwIb5QTHthl0VAk,10,2001,songwriter,0.431,0.472,7,-7.829,1,0.0354,0.821,4.42e-06,0.115,0.631,82.625,151760,4
+Kim Gun Mo,A Summer's dream,6uFeauO595A2KBjOkQE6dy,5,2001,songwriter,0.431,0.112,0,-13.718,1,0.0348,0.892,0.0,0.096,0.293,136.915,286720,4
+Záviš,Narozeniny,4cRvSnlHaOXnSfcWAzlfMQ,8,2001,songwriter,0.411,0.366,0,-10.452,1,0.0327,0.783,0.0,0.124,0.569,119.955,271813,4
+Tom Waits,Christmas Card From A Hooker In Minneapolis,1geXKG0V8tnsM4KXoErs8C,17,2001,songwriter,0.424,0.0721,6,-16.953,1,0.0568,0.919,2.8e-05,0.11,0.19,170.318,273200,3
+Leonard Cohen,The Gypsy's Wife - Live,6KvrsbOKD0hEjIV9OIQqqH,15,2001,songwriter,0.344,0.304,4,-12.699,1,0.0332,0.955,0.0264,0.681,0.101,146.194,318613,3
+Ani DiFranco,Revelling,2jZm888JZwM0jjArVe4kie,9,2001,songwriter,0.48,0.036,6,-18.735,1,0.0405,0.974,0.00395,0.0876,0.0793,99.767,308160,3
+Emmylou Harris,Wheels,4qqMOeuZf7y9REaB1Qmi4R,8,2001,songwriter,0.415,0.593,4,-10.101,1,0.0361,0.0324,0.0,0.189,0.679,122.194,177972,4
+Hikaru Utada,光 - Ray Of Hope MIX,1Pms8bumJBU7HO9q9RqG5Y,34,2017,songwriter,0.564,0.947,10,-4.704,1,0.041,0.0263,0.122,0.75,0.627,123.679,333467,4
+Záviš,Já jsem tak líný,7uk2HbfBmeFGEfa0OnG58L,7,2001,songwriter,0.398,0.494,7,-7.875,1,0.0273,0.816,0.0,0.0774,0.836,83.437,158733,4
+John Mayer,Why Georgia,1c7UYTut2SBOPq64o2t0uN,63,2001,songwriter,0.608,0.639,7,-7.205,1,0.0246,0.0208,5.94e-05,0.0893,0.369,96.915,268973,4
+Jackie Leven,My Spanish Dad,36cVYnw4ppBOZUo1G3d2xF,14,2001,songwriter,0.447,0.725,8,-8.809,1,0.0591,0.00193,0.0177,0.122,0.365,188.067,343293,4
+Záviš,Nedá se nic dělat,4YdOAiDkLzmHIIPdKIMWQj,7,2001,songwriter,0.383,0.437,2,-8.987,1,0.0464,0.803,0.097,0.0736,0.524,175.916,86280,1
+Burcu Güneş,Biz Aşkı Meleklerden Çaldık,2FFBV5s6bOimItjSlgJC4R,48,2001,songwriter,0.436,0.394,9,-8.05,0,0.0337,0.813,0.0,0.112,0.572,169.891,201973,3
+Penny Tai,簡單,72F7FMs4mXxTuPQatPyFXa,8,2001,songwriter,0.685,0.666,9,-7.355,1,0.0346,0.0571,0.0,0.144,0.734,99.963,184760,4
+Nanci Griffith,Lost Him in the Sun,6K8RSA6vNg4eIUvbUdBJqa,4,2001,songwriter,0.569,0.795,7,-6.893,1,0.0318,0.00593,0.00247,0.107,0.713,129.692,171360,4
+Laura Nyro,Don't Hurt Child,3ySKfiU411a6kH6K6Fo4rD,3,2001,songwriter,0.471,0.219,7,-10.817,0,0.0266,0.722,4.69e-05,0.11,0.189,79.971,204533,3
+Hawksley Workman,You Me and the Weather,12GYlzqWO29RRUnas468Bi,11,2001,songwriter,0.513,0.565,6,-8.025,0,0.0265,0.219,0.0,0.108,0.414,115.374,246681,3
+k.d. lang,Barefoot - Live,7k7QdLn2r5dPLjYfkMV0Ko,8,2001,songwriter,0.383,0.378,6,-10.947,0,0.035,0.595,1.62e-06,0.783,0.329,113.607,260000,4
+Gord Downie,Chancellor,5EwTH6GrBPnEOI45vRNg9i,29,2001,songwriter,0.699,0.404,0,-10.885,1,0.0327,0.47,0.617,0.117,0.449,103.291,265893,4
+Morten Abel,Dude of All Dudes,3dudwLGhPsRV2NgzDDO32d,9,2001,songwriter,0.581,0.505,0,-7.777,1,0.0278,0.654,0.0,0.107,0.431,114.954,223440,4
+John Mayer,St. Patrick's Day,3W93koK957HaoaNHyA3dTm,47,2001,songwriter,0.597,0.439,9,-7.126,1,0.0258,0.0502,0.000129,0.19,0.127,127.89,321093,3
+Randy Newman,You've Got A Friend In Me,3Ggw1V2M4F649MfiT5LX50,3,2001,songwriter,0.746,0.625,2,-5.514,1,0.0332,0.491,4.61e-06,0.0658,0.358,111.98,146693,4
+Willie Nelson,The Thirty-Third Of August,404QRxbkrZoGCQq9rSR7JP,7,2001,songwriter,0.603,0.239,9,-9.964,1,0.0327,0.921,0.00075,0.107,0.323,111.648,273880,4
+Shawn Colvin,One Small Year,2HXieuK9TO9KyqxEioURG1,4,2001,songwriter,0.66,0.331,7,-11.856,1,0.0249,0.679,0.00199,0.0434,0.388,92.0,246507,4
+Alasdair Roberts,The Month Of January,4boHYJ7M9BiezmyJTSrkLU,3,2001,songwriter,0.517,0.158,5,-9.222,0,0.0348,0.84,0.0,0.111,0.328,126.869,214013,3
+Stefanie Sun,逃亡,6330WEbpIOAZ7g2I5N1PAD,36,2001,songwriter,0.492,0.669,3,-5.854,1,0.0274,0.0297,4.77e-05,0.117,0.118,100.012,284305,4
+Emmylou Harris,Easy from Now On - 2003 Remaster,0OY676hKp19sQ2zlEn34oC,8,2001,songwriter,0.475,0.386,3,-11.423,1,0.0297,0.542,0.0,0.0783,0.634,138.228,189240,4
+Hikaru Utada,traveling - Bahiatronic Mix,6B4M78LBeQ05mLjp6xrtOs,11,2001,songwriter,0.597,0.948,4,-4.469,0,0.058,0.0467,1.55e-06,0.174,0.686,116.954,398240,4
+Neil Finn,Loose Tongue - Live,4VOzNIogFOtb75Kow3g09q,8,2001,songwriter,0.418,0.72,9,-7.523,0,0.0448,0.0418,0.000134,0.751,0.303,94.957,262560,4
+Shawn Colvin,Another Plane Went Down,1uKF8Qaqj7LFbc8gX8jho4,5,2001,songwriter,0.611,0.516,11,-11.465,0,0.0284,0.553,0.0678,0.0976,0.304,97.897,335800,4
+Hayden,Looking for You in Me,7Kik9pHRCK1Kepvr5JdiUP,10,2001,songwriter,0.686,0.334,4,-12.402,1,0.0299,0.62,0.00308,0.0877,0.294,131.933,215644,4
+Hayden,Long Way Down,7svPB3ynv4sTSBnHXAKk3h,9,2001,songwriter,0.354,0.213,5,-12.88,1,0.0447,0.678,7.3e-05,0.128,0.103,81.769,250567,3
+Laura Nyro,Be Aware,3cNTGb1K0Hz4i6DkIykaEt,8,2001,songwriter,0.382,0.124,0,-12.073,0,0.0312,0.929,0.000149,0.165,0.3,77.505,183773,1
+Paul Brady,Mary and the Soldier,0AEyazqKLyc1APSzcG4oTi,18,2001,songwriter,0.459,0.372,8,-13.57,1,0.051,0.849,5.82e-05,0.698,0.578,82.643,246320,4
+Yusuf / Cat Stevens,Here Comes My Baby - Stereo Version,7nE0J9OucOaPEim5FHUbzu,10,2001,songwriter,0.417,0.484,7,-12.232,1,0.033,0.245,1.89e-06,0.384,0.887,88.183,174600,4
+David D'Or,כל הכוכבים,4oA77fzDM7JGYBjev0jHWg,20,2001,songwriter,0.504,0.484,10,-6.155,1,0.0253,0.51,0.0,0.096,0.213,75.027,227587,4
+Laura Nyro,Serious Playground,5fOrtT6CrzqjSbKjoOjaRw,3,2001,songwriter,0.442,0.176,2,-11.841,0,0.0322,0.933,0.000554,0.0755,0.348,116.105,258827,3
+Rene Liu,對面男生的房間,3m91v0fvEJDAFbcWmou7YS,18,2001,songwriter,0.611,0.333,3,-10.269,1,0.0302,0.831,0.0,0.13,0.259,115.085,248992,4
+Randy Newman,Boo's Going Home,5H2HoE7EQjHaBbRK05Ezy8,38,2001,songwriter,0.255,0.104,11,-19.761,1,0.0383,0.876,0.399,0.0923,0.0386,138.156,213387,5
+Tom Waits,Eggs And Sausage (In A Cadillac With Susan Michelson),54RMAhm2rMUgnmGVEqWOKJ,17,2001,songwriter,0.539,0.411,2,-14.351,0,0.333,0.868,8.83e-06,0.872,0.388,122.286,259467,4
+John Mayer,My Stupid Mouth,3jFP1e8IUpD9QbltEI1Hcg,51,2001,songwriter,0.608,0.603,2,-6.792,1,0.0271,0.0143,1.22e-05,0.0833,0.49,88.824,223960,4
+Suzanne Vega,It Makes Me Wonder,3W2EwlVeP7MK40vsEIzFB5,15,2001,songwriter,0.65,0.711,7,-9.247,0,0.0266,0.173,0.0926,0.157,0.406,133.976,240040,4
+Emmylou Harris,(Lost His Love) on Our Last Date - Single Version,3bm8eIlXSE4mzof60K43iW,6,2001,songwriter,0.328,0.419,10,-11.501,1,0.0298,0.164,6.6e-05,0.964,0.392,191.093,206800,3
+Nanci Griffith,Late Night Grande Hotel,6J1oV5KykwpfYpj3UbrRX9,6,2001,songwriter,0.631,0.469,0,-8.683,1,0.0342,0.336,3.07e-06,0.155,0.209,123.003,213507,4
+Bruce Springsteen,"The River - Live at Madison Square Garden, New York, NY - June/July 2000",2Mp0ZdhcLGzi8woNimrvNg,30,2001,songwriter,0.182,0.306,4,-13.037,0,0.0444,0.728,0.00578,0.957,0.0842,205.954,675867,4
+Naiwen Yang,放輕點,3kuuiENTVXLpoLAODP5qS5,15,2001,songwriter,0.34,0.419,10,-10.187,1,0.0335,0.797,0.000309,0.167,0.169,203.658,222960,4
+Ani DiFranco,Parameters,2l3fjy401770q9ckLWYo29,8,2001,songwriter,0.332,0.151,8,-22.045,1,0.0463,0.958,0.00142,0.101,0.091,79.172,358920,5
+Emmylou Harris,Pledging My Love,5ofTJVPZn8JvsC65dwBYx3,9,2001,songwriter,0.276,0.317,1,-12.706,1,0.0297,0.257,8.4e-05,0.104,0.356,173.298,181227,3
+John Mayer,3x5,2Knlcf82LF6hp6Bf0gldtN,46,2001,songwriter,0.502,0.785,5,-6.64,0,0.0275,0.0847,0.0337,0.111,0.59,96.994,289227,4
+Jake Cornell,playing yourself,0Vho31ZTpvYiCGlUfNL5PF,31,2022,songwriter,0.68,0.488,0,-7.521,1,0.339,0.191,0.0,0.394,0.688,148.017,131422,4
+John Hiatt,Rock Of Your Love,1fvhSubO9WYpYnANEiFtEE,8,2001,songwriter,0.633,0.592,4,-9.675,1,0.0254,0.25,0.000297,0.283,0.728,108.156,195736,4
+Gemma Hayes,435am,4bJ7wLz7njthJYVpA5dGx5,23,2001,songwriter,0.365,0.15,9,-18.205,1,0.0339,0.751,0.0557,0.0977,0.0769,73.789,181467,3
+Stina Nordenstam,So Lee,0FMSQHEht0EzEDwvEQHYrx,12,2001,songwriter,0.721,0.473,8,-12.218,1,0.03,0.708,0.351,0.128,0.526,111.839,176533,4
+Bruce Cockburn,Northern Lights,0FnjWTk5vaLBiI84NP4d9o,13,2003,songwriter,0.567,0.618,9,-11.41,1,0.033,0.177,0.0179,0.072,0.507,87.095,254200,4
+Loudon Wainwright III,I'm Not Gonna Cry,6rLL6hTZrFduKBz5xWG5DE,7,2001,songwriter,0.647,0.559,8,-7.24,1,0.0454,0.881,8.72e-06,0.223,0.818,114.809,126467,4
+John Hiatt,Something Broken,5Bl1vkhuJIN5941eWxiCf5,10,2001,songwriter,0.577,0.391,0,-11.383,1,0.0279,0.634,0.0514,0.265,0.519,112.426,192340,4
+Záviš,Se mnou na světě si ještě užijou,4P5atfoBme98s5j9PEimXw,5,2001,songwriter,0.526,0.425,4,-8.84,1,0.0437,0.545,0.0,0.0571,0.75,95.922,180000,1
+Emmylou Harris,Born To Run,0Twk3qvFSF81upYsHAfvLU,10,2001,songwriter,0.32,0.719,9,-10.12,1,0.0454,0.0271,7.39e-05,0.132,0.518,89.857,269050,4
+Ken Hirai,Miracles,1oUGOd65XUDI4C9UUZd0J1,15,2001,songwriter,0.564,0.578,0,-4.271,1,0.0321,0.194,3.26e-05,0.095,0.269,142.083,375173,4
+Yusuf / Cat Stevens,How Can I Tell You,6YgslvqHxKmByHQyTq9D3e,10,2001,songwriter,0.534,0.168,2,-18.985,1,0.0449,0.809,0.0946,0.115,0.156,125.434,267760,4
+Richard Hawley,No Way Home,71qNfSVMA83rnfLo05evaT,15,2001,songwriter,0.303,0.385,0,-11.649,1,0.0323,0.641,0.0129,0.0493,0.288,164.939,254920,3
+Bruce Springsteen,"This Hard Land - Live at Madison Square Garden, New York, NY - June/July 2000",3oj5vCZdrHhGJch6kqylgL,18,2001,songwriter,0.484,0.803,7,-5.179,1,0.0479,0.212,0.0,0.884,0.689,122.726,313333,4
+Neil Finn,Anytime - Live,03wFdTor8H73UM8ftnc4Sv,13,2001,songwriter,0.537,0.798,8,-6.855,1,0.0383,0.152,0.0,0.962,0.38,100.18,212427,4
+Willie Nelson,Mr. Record Man - Remastered 2001,7aNFtwbCZMwsRl6i1azTGH,5,2001,songwriter,0.635,0.361,0,-11.909,1,0.0643,0.556,0.000178,0.149,0.788,61.343,165973,4
+Richard Hawley,Sunflower,35gBfmC7X4g92JXc3f92nX,13,2001,songwriter,0.448,0.821,0,-8.173,1,0.0376,0.0167,0.774,0.108,0.554,95.162,145627,3
+Fred Eaglesmith,Drive In Movie,5xtgGr98b6Z94oUjFLS072,8,2001,songwriter,0.578,0.13,4,-11.479,1,0.0483,0.852,1.48e-06,0.115,0.387,79.353,209440,4
+Payung Teduh,Biarkan,5hXISGCrTra65aOIzuhPAr,44,2014,songwriter,0.517,0.564,4,-7.046,1,0.0285,0.862,0.000269,0.141,0.42,166.005,342289,4
+Hikaru Utada,Eternally,7jodXMK1l3lwHLXVHfZS6g,45,2001,songwriter,0.555,0.45,7,-6.178,1,0.025,0.00136,5.65e-05,0.34,0.103,93.247,285400,4
+Anita Lane,Do the Kamasutra,3AeiluY4GYl2M2Lnc5OhJr,3,2001,songwriter,0.721,0.626,10,-10.369,1,0.0267,0.391,0.151,0.0595,0.953,124.136,235867,4
+Steve Earle,Rap About Valentine's Day,4dPEGjZtjMjQrzrabNlx4T,5,2001,songwriter,0.635,0.393,9,-17.62,1,0.926,0.853,1.85e-06,0.217,0.322,75.826,63010,4
+k.d. lang,Big Boned Gal - Live,4Xw7Migb1H5us6TnUQbSy8,7,2001,songwriter,0.478,0.828,4,-7.159,1,0.0598,0.0656,0.0,0.954,0.787,149.133,175973,4
+JORDY,Dressed Up In A T-Shirt,5165q57R4JgaaBW8zTWyGA,23,2021,songwriter,0.653,0.497,9,-9.172,1,0.361,0.314,0.0,0.0993,0.783,79.906,151619,4
+Bruce Springsteen,"Youngstown - Live at Madison Square Garden, New York, NY - June/July 2000",4QmifndIBPJGIezSgI15Ad,31,2001,songwriter,0.188,0.785,5,-5.048,1,0.0461,0.397,4.4e-06,0.442,0.268,82.861,376267,4
+Záviš,Tyrolácká kultrua,17dlzS56iWrISVYf9WiM60,5,2001,songwriter,0.434,0.399,9,-8.017,1,0.042,0.795,0.0,0.0939,0.563,103.819,202053,3
+Wu Bai,一點點,06pADe7MvBlPr3rUEHgtpg,11,2001,songwriter,0.717,0.752,9,-5.036,0,0.0272,0.459,0.000344,0.286,0.718,116.068,209760,4
+Chris Smither,Diplomacy,2MXewGERNcS40qmlEKVuRD,12,2014,songwriter,0.479,0.963,9,-6.2,1,0.0422,0.182,0.000384,0.086,0.96,157.449,157787,4
+Emmylou Harris,Mister Sandman,3iAbzQpqcRUVEzMs450w7H,10,2001,songwriter,0.527,0.473,10,-10.524,1,0.0328,0.56,2.7e-05,0.146,0.496,111.928,141547,4
+k.d. lang,Three Cigarettes in an Ashtray - Live,5S7hPP4qdAy6VIeKUQ9yOE,6,2001,songwriter,0.244,0.318,7,-9.345,1,0.0317,0.713,3.22e-06,0.972,0.221,75.116,172467,3
+Emmylou Harris,Alone And Foresaken,7AS3rHpu2MWmFdCjewnz3R,14,2001,songwriter,0.548,0.107,9,-16.629,0,0.0452,0.897,1.28e-05,0.118,0.355,139.884,212040,3
+Laura Nyro,Embraceable You,5iCvMzCclAQNTYEkTWfgTE,7,2001,songwriter,0.401,0.0956,0,-11.53,1,0.0388,0.922,1.22e-05,0.0842,0.161,140.581,129507,3
+John Mayer,City Love,5O3fUsQQBFxW8SH1kHthDH,45,2001,songwriter,0.651,0.548,5,-6.036,1,0.0304,0.00576,5.58e-05,0.145,0.411,67.604,240200,4
+Emmylou Harris,Blue Kentucky Girl - 2003 Remaster,3Sez5FvH2kcZe8HvJCcu7m,10,2001,songwriter,0.593,0.374,5,-11.453,1,0.0298,0.574,0.0,0.13,0.501,112.468,200933,4
+Randy Newman,Randall Appears,0ny5rfasD5O8ua0h9vZ9bn,25,2001,songwriter,0.435,0.119,5,-17.925,1,0.0376,0.939,0.503,0.172,0.361,118.636,48933,4
+Neil Finn,Take A Walk - Live,5yJ3L8vnjiF9iiSzSg1qTf,13,2001,songwriter,0.457,0.98,11,-4.579,1,0.0817,0.00882,1.72e-06,0.957,0.291,106.225,233640,4
+Randy Newman,If I Didn't Have You,6LYKS8Y4KSaFXxvs55QxMY,30,2001,songwriter,0.682,0.212,5,-12.567,1,0.126,0.952,0.000145,0.167,0.311,116.979,218813,4
+John Mellencamp,Cuttin' Heads,2RM6bUnasngLTvuvAh8Sr0,11,2001,songwriter,0.526,0.883,4,-3.304,0,0.133,0.0681,3.59e-06,0.322,0.83,208.433,303627,3
+Gord Downie,Vancouver Divorce,23tfFCUqnccCvASkQZG6mw,13,2001,songwriter,0.275,0.808,2,-5.526,1,0.0429,0.0666,0.0188,0.347,0.488,167.744,236427,4
+Záviš,Ženy po přechodu,7u5qRsAHSK25RNuP3MzQlb,6,2001,songwriter,0.651,0.618,9,-8.961,0,0.251,0.412,0.0,0.317,0.809,124.497,189547,4
+John Mellencamp,Just Like You,7wOCIeCfftf5er9e1yQtJK,10,2001,songwriter,0.652,0.87,9,-4.016,0,0.0352,0.0128,0.00387,0.147,0.868,131.739,242667,4
+Nanci Griffith,Where Would I Be,62hyiA4Gu4a7bT3bMM0Eg3,4,2001,songwriter,0.46,0.571,0,-10.818,1,0.0352,0.446,0.0163,0.259,0.744,177.812,266587,4
+Roman Horky,Dlouha plaz,0BNNX7wI4AjX5Fi5dA7ClI,9,2001,songwriter,0.498,0.789,9,-8.344,1,0.039,0.0139,0.00443,0.256,0.551,137.751,177533,4
+Ani DiFranco,Memphis,4Nx0hZXFxiZm6zm9V5bssf,8,2001,songwriter,0.653,0.071,11,-18.359,1,0.102,0.921,0.777,0.12,0.55,117.654,47400,4
+Nanci Griffith,Outbound Plane,4FbvwLQloc6h8YoG0pMzuN,4,2001,songwriter,0.682,0.718,4,-8.473,1,0.0497,0.115,5.46e-06,0.34,0.703,128.265,158427,4
+Neil Finn,Edible Flowers - Live,1F9A044x54EM0ZKHKxhXW2,8,2001,songwriter,0.246,0.42,0,-9.873,0,0.0345,0.453,0.000266,0.721,0.0773,182.714,297333,4
+Yusuf / Cat Stevens,Crab Dance,6tnOA9BpqneY2llTX70131,8,2001,songwriter,0.542,0.6,2,-11.442,1,0.0332,0.339,0.896,0.527,0.534,91.035,181560,4
+Bruce Springsteen,"Lost In the Flood - Live at Madison Square Garden, New York, NY - June/July 2000",08IRvRylPsA29UrbTB4TLu,24,2001,songwriter,0.316,0.756,4,-5.582,0,0.0637,0.471,0.0,0.962,0.269,124.712,443533,4
+Penny Tai,醒了兩年睡了兩年,3vIDfI00Zk4ddDevXadrtX,10,2001,songwriter,0.424,0.247,0,-12.932,1,0.0646,0.788,0.0,0.146,0.453,204.091,217240,4
+Richard Hawley,Lonely Night,2HMReUxBgmqxrW7EUNXLMV,20,2001,songwriter,0.563,0.11,5,-18.185,1,0.0331,0.969,0.0665,0.0869,0.27,81.109,166000,4
+Anita Lane,Do That Thing,0p43xygeQqEmsyRjGYIana,2,2001,songwriter,0.78,0.482,5,-10.575,1,0.0356,0.173,3.5e-05,0.113,0.739,99.887,286467,4
+Nanci Griffith,There's A Light Beyond These Woods,6NDePxSZKnPyGnZS2elxOB,4,2001,songwriter,0.475,0.295,11,-12.879,1,0.03,0.164,0.000634,0.367,0.23,71.142,260600,4
+Tom Waits,Blue Valentines,0hH9FQNEp1CV1XYxnqIgTw,15,2001,songwriter,0.475,0.0187,9,-18.758,1,0.0614,0.902,5.4e-05,0.116,0.107,120.736,350067,3
+Laura Nyro,Walk On By,6wmLOC5pX4p2jgqNqHl6Uq,8,2001,songwriter,0.415,0.215,2,-10.144,0,0.0391,0.958,0.000491,0.0652,0.499,169.076,138827,3
+Loudon Wainwright III,Missing You,1sfM5lEq6DCGZvbHsXrSXg,8,2001,songwriter,0.358,0.341,4,-8.44,1,0.0546,0.705,0.000817,0.105,0.217,155.991,209867,3
+Emmylou Harris,I Still Miss Someone,3FQyKiwMI0PKdTRYzL68uG,12,2001,songwriter,0.442,0.296,10,-13.472,1,0.0283,0.751,0.0,0.113,0.363,145.756,173467,4
+Ivri Lider,האנשים החדשים,1JqK8MvYmYIyUvei0N161X,16,2001,songwriter,0.681,0.953,10,-5.686,0,0.0432,0.0538,0.0014,0.0614,0.317,101.019,246440,4
+Laura Nyro,Triple Goddess Twilight,3xrLUU2pVS1uYVgghi4jbt,5,2001,songwriter,0.431,0.108,7,-14.661,0,0.0363,0.946,1.23e-05,0.106,0.265,71.741,241867,4
+Suzanne Vega,St. Clare,5IutuyS9xYszmv11QuUAnk,25,2001,songwriter,0.326,0.274,6,-12.431,0,0.0302,0.801,3.39e-05,0.169,0.393,153.653,149933,3
+k.d. lang,Black Coffee - Live,0o6khmHzYFFd9xxhAa4peh,6,2001,songwriter,0.426,0.395,0,-10.59,1,0.0416,0.594,0.0,0.831,0.109,98.082,224333,4
+Rene Liu,我等你,6zW10q3WAX76iLie2c1yME,30,2001,songwriter,0.444,0.202,0,-12.467,1,0.0285,0.894,1.1e-05,0.118,0.287,154.239,268001,4
+Townes Van Zandt,The Interfaith Dental Clinic,0iY3pd6WLOZV7ARBuGVEoT,5,2001,songwriter,0.501,0.429,1,-17.607,0,0.956,0.884,3.47e-06,0.378,0.424,65.752,269810,4
+Jackie Leven,Friendship Between Men & Women,0DjsOz3z0k1ymfM1tyuc50,5,2001,songwriter,0.745,0.419,11,-10.511,1,0.0412,0.04,0.054,0.0972,0.546,102.839,341493,4
+Laura Nyro,La La Means I Love You,5gLc09As42DdZ9bWVQg6FY,10,2001,songwriter,0.651,0.46,1,-9.527,1,0.0297,0.267,2.5e-05,0.179,0.401,76.786,260533,4
+林強,無聲的所在,0cdWi1zWSth2klgVHDMpAc,19,2001,songwriter,0.677,0.524,11,-7.609,0,0.0464,0.0159,0.0,0.0962,0.194,127.836,249693,4
+Emmylou Harris,Someone Like You,5yfPwuuxru2LRfbOITk96D,11,2001,songwriter,0.508,0.294,10,-14.371,1,0.028,0.615,5.23e-05,0.0804,0.413,99.134,198640,4
+Lyle Lovett,Working Too Hard,08LUgb6FVtCnjyIfEwquW8,7,2003,songwriter,0.635,0.431,2,-10.664,1,0.0299,0.694,0.000132,0.303,0.562,135.808,226853,4
+Neil Diamond,You Are The Best Part Of Me,2N5Hf8TK7XCao0s4POBPaI,12,2001,songwriter,0.6,0.485,2,-10.864,1,0.027,0.762,1.99e-05,0.127,0.309,98.143,242093,4
+Tanya Chua,跟你借的幸褔,13YTP2Qi1ZKUbW1eLQy7UP,20,2001,songwriter,0.534,0.307,6,-10.773,0,0.035,0.774,0.0,0.105,0.204,105.561,300000,4
+Emmylou Harris,Drivin' Wheel,5CCJQQObf4X96PRVTNV2xj,6,2001,songwriter,0.355,0.738,9,-8.208,1,0.0432,0.00913,0.0417,0.123,0.713,177.293,190707,4
+Steve Earle,Valentine's Day,3lhndZpsnHPkNA3pe3uIOV,6,2001,songwriter,0.541,0.315,9,-17.751,1,0.0673,0.895,0.00482,0.691,0.609,79.294,190546,4
+Loudon Wainwright III,Surviving Twin,2CqjrawfYd5ZNMSinhO2UE,6,2001,songwriter,0.654,0.566,2,-6.678,1,0.0374,0.519,0.0,0.054,0.585,97.045,221333,4
+Emmylou Harris,So Sad (to Watch Good Love Go Bad) - Single Version,2iY8OlJqIeQED3OUEoTiJ5,7,2001,songwriter,0.388,0.279,1,-13.109,1,0.0304,0.512,0.00039,0.982,0.262,88.659,206733,4
+Richard Hawley,Troublesome Waters,4JbQL5KzyxBACwH9VrFv0Z,11,2001,songwriter,0.278,0.236,9,-14.986,1,0.0369,0.955,0.00138,0.105,0.239,169.998,197613,3
+Randy Newman,Sulley And Mike,53eoKURfQkzGx6Y3YBgmN0,29,2001,songwriter,0.438,0.348,2,-9.642,1,0.0379,0.735,0.0128,0.0646,0.234,91.52,117693,4
+Willie Nelson,Wise Old Me,7kIlwzyEXeJXKy3C12KfIH,9,2001,songwriter,0.457,0.214,0,-9.137,1,0.0281,0.781,0.000318,0.0917,0.151,78.259,254480,4
+Nick Lowe,Between Dark and Dawn,3XLYpb8GuJlwQvH4uCIbg5,8,2001,songwriter,0.71,0.375,7,-11.326,1,0.0343,0.819,0.000926,0.11,0.622,106.876,151427,4
+Nick Lowe,Let's Stay in and Make Love,4Jo0LBZjEcakrqclPNnTL6,8,2001,songwriter,0.548,0.365,4,-10.398,1,0.0363,0.829,0.0183,0.107,0.286,75.761,230453,4
+Willie Nelson,Half A Man,1eOzNxdoKl5ZyGRicqnI4Z,4,2001,songwriter,0.31,0.22,7,-10.688,1,0.0305,0.633,8.22e-06,0.219,0.24,76.629,146013,3
+Stefanie Sun,風箏,45u0oYDUYN7gZA3a7XjES8,30,2001,songwriter,0.481,0.414,5,-9.549,1,0.0413,0.901,1.86e-05,0.0964,0.125,99.725,276317,4
+Ani DiFranco,Reckoning,1ZC3RGFyWqA4D0rdYghIq5,11,2001,songwriter,0.452,0.084,3,-15.791,1,0.0378,0.945,0.000525,0.108,0.0428,128.548,362227,4
+Laura Nyro,Sweet Dream Fade,1lBeFyLsJyyxAYqz36mz92,5,2001,songwriter,0.651,0.63,10,-7.566,1,0.0393,0.465,0.0559,0.117,0.851,147.673,268907,4
+Emmylou Harris,Tennessee Rose - Single Version,1ItpeX4WWOyVP0anCqgo4p,7,2001,songwriter,0.547,0.451,1,-10.924,1,0.0281,0.0814,1.77e-05,0.0951,0.641,115.653,225800,4
+Ryan Adams,Lovesick Blues,5M2MJo9y3fB6By1wEiY6aJ,8,2001,songwriter,0.57,0.0539,5,-16.354,1,0.0588,0.886,0.0,0.0888,0.223,112.088,203493,4
+Tanya Chua,Two Of Us,7rBhNw1961uKoAfzpZucQP,8,2001,songwriter,0.682,0.466,7,-10.763,1,0.0455,0.0513,1.29e-05,0.117,0.507,149.993,208027,4
+Jimmy LaFave,On a Bus to St. Cloud,3EllATnelvinlH5rNFThgk,8,2001,songwriter,0.501,0.207,9,-12.835,1,0.0337,0.719,0.000468,0.113,0.119,74.143,348587,4
+Laura Nyro,"Ooh Baby, Baby",1RynMUpLjRi22RCLQWdNrI,8,2001,songwriter,0.344,0.322,9,-9.453,0,0.0275,0.641,0.000101,0.0916,0.269,140.297,206933,3
+Emmylou Harris,If I Could Only Win Your Love - Remastered,1W8cVYKQAW8OVL6sFhZBpb,10,2001,songwriter,0.656,0.499,11,-10.307,1,0.0294,0.241,0.0,0.322,0.807,111.148,155813,4
+Emmylou Harris,Fools Thin Air - Single Version,6nX9thj2O5CqX7yQeuJkS4,7,2001,songwriter,0.548,0.516,1,-8.722,1,0.0246,0.277,3.97e-05,0.0344,0.631,111.47,256827,4
+Neil Diamond,Don't Look Down,37Dlbppp0jtKaQzW4Iy9Xi,5,2001,songwriter,0.505,0.595,0,-6.296,1,0.031,0.0804,5.57e-05,0.0783,0.664,172.334,188933,4
+Bruce Springsteen,"Tenth Avenue Freeze-Out - Live at Madison Square Garden, New York, NY - June/July 2000",1iDW9MyDBdvQ6ag2MwBw0X,31,2001,songwriter,0.403,0.871,5,-6.385,1,0.0803,0.235,0.0,0.975,0.417,111.698,968693,4
+Nanci Griffith,Traveling Through This Part of You,0OxaaZPL0EnwbV7FoSl79R,5,2001,songwriter,0.472,0.407,5,-11.139,1,0.0337,0.518,0.0005,0.132,0.291,78.369,242533,4
+Stefanie Sun,我是我 (feat. 孫靖),5ZmEJI9ICvLJxx5VSh1zmh,11,2001,songwriter,0.486,0.913,7,-3.854,1,0.0947,0.01,0.0,0.112,0.374,180.033,226905,4
+Yumi Matsutoya,acacia [アカシア],6CgHT157NTPpgLLCGsnayS,31,2001,songwriter,0.56,0.539,7,-10.145,1,0.0283,0.117,0.00271,0.686,0.445,149.812,254333,4
+Neil Diamond,My Special Someone,762A1Neqruh5kPtqtFLDDJ,8,2001,songwriter,0.58,0.343,2,-12.028,1,0.0288,0.798,6.34e-06,0.111,0.501,92.319,215560,4
+Rodney Crowell,Why Don't We Talk About It,12VosYTfYYBTcLU8Sd4b5C,13,2001,songwriter,0.697,0.609,1,-5.951,1,0.0299,0.0155,0.000482,0.138,0.775,116.286,215880,4
+Guy Clark,Immigrant Eyes,47I4DMLqSwzSXcuNZvXKdD,5,2001,songwriter,0.562,0.179,9,-16.249,1,0.137,0.656,1.22e-05,0.706,0.296,145.162,248050,3
+汪佩蓉,非法入境,5g6IvQdxxdYzCsc3McHfof,16,2001,songwriter,0.562,0.448,6,-10.179,1,0.0254,0.276,2.45e-06,0.186,0.385,84.975,303160,4
+Chihiro Onitsuka,edge,0yNStx2GDvUXs2iBjNcjp8,19,2001,songwriter,0.377,0.519,7,-6.478,1,0.0273,0.713,0.0,0.146,0.241,171.611,271800,4
+Guy Clark,Baby Took A Limo To Memphis,3LiifbVsTdJCkdaNltA2EY,7,2001,songwriter,0.793,0.417,2,-12.803,1,0.414,0.536,1.33e-05,0.884,0.478,103.469,211839,4
+Penny Tai,忽然,2yiyznYsVNkOoJNW15vzzF,10,2001,songwriter,0.243,0.374,11,-10.789,1,0.0311,0.712,0.0208,0.103,0.11,80.026,260933,4
+Burcu Güneş,Yansın Geceler,36hTKOgo5Ra03y0GlpJPd3,41,2001,songwriter,0.29,0.712,4,-5.56,0,0.0478,0.413,0.0,0.112,0.287,169.288,289400,4
+Nanci Griffith,Clock Without Hands,2wh1vLEdIdilb6z3k9hh2d,5,2001,songwriter,0.603,0.443,9,-12.739,1,0.0284,0.714,0.0409,0.146,0.492,104.005,223227,4
+Ken Hirai,KISS OF LIFE,44XPRtWVxzV9F7QcqdF9xU,22,2001,songwriter,0.631,0.973,11,-2.877,0,0.106,0.0803,0.0,0.26,0.493,129.093,272240,4
+Tom Waits,A Sight For Sore Eyes,5XMQX1m3AZ55sczSHIOySm,16,2001,songwriter,0.548,0.0814,0,-21.268,1,0.0347,0.954,0.000178,0.0738,0.26,101.716,280360,3
+Hayden,All in One Move,0mv1jn5hW34GmK6oXwtjQ8,13,2001,songwriter,0.732,0.261,9,-15.818,1,0.0496,0.802,7.94e-06,0.111,0.397,112.106,77926,3
+Hank Snow,Miller's Cave - Remastered,13FLrV329e2qzodiyRf2aC,5,2001,songwriter,0.498,0.6,7,-6.92,1,0.0301,0.531,0.0,0.15,0.584,89.246,159000,4
+Hawksley Workman,Jealous of Your Cigarette,72TUTgcTgjei16kKNBRrcR,23,2001,songwriter,0.68,0.721,7,-7.785,1,0.0327,0.0067,0.0,0.249,0.809,119.308,145467,4
+Nanci Griffith,Midnight in Missoula,7nCfkxc5cWmKntCa8AUcoE,7,2001,songwriter,0.425,0.479,4,-8.757,1,0.0308,0.345,0.00115,0.194,0.266,144.423,239200,4
+Scout Niblett,Dance of Sulphur,0vxim42GdE8zPw60NGgiXJ,11,2001,songwriter,0.496,0.192,3,-11.53,1,0.046,0.778,0.0,0.108,0.158,90.058,167160,4
+Hayden,Carried Away,2mSAJJjeKiNmG0uYVvWMhC,11,2001,songwriter,0.612,0.329,9,-11.574,1,0.037,0.278,3.26e-05,0.104,0.508,116.755,164328,4
+Kohmi Hirose,いとしのエリー,2tMb9jmg1sKyfdHXoGOt7F,23,2001,songwriter,0.654,0.654,6,-8.681,1,0.0464,0.201,0.00066,0.067,0.379,80.124,310000,4
+Hank Snow,My Nova Scotia Home - Remastered,6HL4038EJJsps931MkTo5B,16,2001,songwriter,0.681,0.632,1,-7.578,1,0.0286,0.452,0.00137,0.122,0.727,106.689,149427,4
+Willie Nelson,Funny How Time Slips Away,66XIwoZvMZnKjsCrUSez5f,8,2001,songwriter,0.347,0.281,2,-12.196,1,0.0307,0.748,8.05e-05,0.19,0.566,69.849,183547,3
+Leonard Cohen,"The Stranger Song - Live in UK, 1979",6hSLn2mCU1iSax0l4iYVSD,14,2001,songwriter,0.51,0.228,6,-16.552,0,0.0555,0.91,1.57e-06,0.73,0.554,103.029,294000,4
+Richard Thompson,Waltzing's For Dreamers - 2001 Digital Remaster / 24 Bit Mastering,1IDQG9CeQaZ3T2coPOiNA9,10,2001,songwriter,0.45,0.272,5,-12.02,1,0.0274,0.467,5e-05,0.0964,0.323,103.44,246827,3
+Paul Brady,The Lakes of Pontchartrain,3krvkAkMbbTCqYpbdrpRfm,13,2001,songwriter,0.408,0.267,5,-15.564,1,0.0457,0.856,1.18e-05,0.711,0.321,122.775,421653,3
+Emmylou Harris,I Had My Heart Set on You - Single Version,76ZgyScuEanqiNUcuBh1Ak,23,2001,songwriter,0.455,0.514,1,-10.304,1,0.025,0.133,0.000582,0.236,0.884,171.244,191667,4
+Emmylou Harris,Today I Started Loving You Again - Single Version,6960I65NzcuxOCqLxhPxpj,11,2001,songwriter,0.542,0.2,3,-13.454,1,0.0295,0.748,5.77e-06,0.0993,0.422,83.926,204867,4
+Jimmy Rankin,Midnight Angel,2Vhy7weMi6f15OOd5QAo79,17,2001,songwriter,0.522,0.727,5,-6.811,1,0.0309,0.0234,2.03e-05,0.105,0.662,88.965,239013,4
+Naiwen Yang,Queen,3syHf46DbPExz7bwKcjSSb,11,2001,songwriter,0.445,0.901,9,-2.661,1,0.0569,0.00769,0.0,0.113,0.731,153.842,260800,4
+Steve Earle,Rap About Sirocco's,6BTWhHId6jh4iIpc4KPpkI,4,2001,songwriter,0.613,0.223,11,-17.907,0,0.946,0.785,0.0,0.376,0.153,82.403,102545,4
+Rene Liu,點亮橘子樹,45M3QDuZOJfCUZaRRgf17C,10,2001,songwriter,0.417,0.401,5,-8.415,1,0.0256,0.752,0.0,0.134,0.145,96.031,261202,4
+Randy Newman,"Big Hat, No Cattle",4V4rJMtbSILy8U6iDhVl8N,14,2001,songwriter,0.401,0.512,5,-11.476,1,0.0416,0.421,0.00121,0.115,0.483,116.498,264387,4
+Emmylou Harris,Together Again - 2003 Remaster,501EnPHudQ7NHQ9IoD3xC8,11,2001,songwriter,0.32,0.332,6,-7.617,1,0.0279,0.597,0.000836,0.387,0.37,75.166,233573,4
+Willie Nelson,Hello Walls,3aZm5bDqPjgRcguLGUsykL,8,2001,songwriter,0.578,0.297,0,-11.959,1,0.0312,0.652,5.13e-05,0.096,0.59,102.854,144720,4
+Townes Van Zandt,Pancho And Lefty,1mTFWPhvlROok3RAaJxEMm,6,2001,songwriter,0.53,0.259,2,-19.073,1,0.478,0.865,2.82e-05,0.434,0.658,140.425,322305,4
+Randy Newman,Sulley Scares Boo,6efG0QNd7p1fqqTlfDfuyE,24,2001,songwriter,0.276,0.147,11,-20.967,1,0.0393,0.955,0.05,0.149,0.0382,81.252,68760,4
+Ani DiFranco,Don’t Nobody Know,1GQQyo3TJ3miEV8ZaMsKaZ,7,2001,songwriter,0.374,0.00668,1,-23.325,1,0.0634,0.922,0.44,0.118,0.392,179.003,77173,4
+Ivri Lider,בוא,4tuIrwX6vAVmB45u93EKNI,24,2001,songwriter,0.69,0.587,6,-10.51,1,0.0467,0.632,0.00511,0.111,0.0981,113.024,256467,4
+Anita Lane,The Wildest Dream - Waking Version,2L195TrOwaMbnxedf0uQwZ,2,2001,songwriter,0.555,0.0344,7,-22.592,1,0.0625,0.946,0.538,0.115,0.236,58.327,57251,4
+Jeff Buckley,What Will You Say (feat. Alim Qasimov) - Live at Classic Festival,75lcawxGkKNtDgyVBAfA7x,11,2001,songwriter,0.366,0.121,0,-22.817,1,0.0406,0.725,0.0101,0.547,0.0708,103.848,469173,4
+Neil Finn,Turn And Run - Live,6G8HUihqAi24F057xqjiyb,8,2001,songwriter,0.225,0.709,9,-7.047,1,0.0422,0.0336,2.85e-06,0.724,0.292,143.609,250000,4
+Neil Diamond,Baby Let's Drive,131MLjWWdoknhsBVbHx4Y5,5,2001,songwriter,0.467,0.843,2,-6.099,1,0.0431,0.0277,6.47e-05,0.106,0.75,168.306,275507,4
+Townes Van Zandt,Rap About Lullabies,3YcV8GyELkEir0oefJ4QXo,5,2001,songwriter,0.537,0.255,11,-20.852,0,0.951,0.863,0.000169,0.423,0.604,78.554,104786,4
+Cocco,羽根 ~lay down my arms~,4Me6Dr3YH8QQEEJlHImf9e,11,2001,songwriter,0.332,0.797,7,-4.528,1,0.0403,0.000448,0.00509,0.165,0.184,153.973,309929,4
+Tanya Chua,平凡之歌,5CwZHYsRingC8cIeTGDP55,6,2001,songwriter,0.561,0.148,8,-16.223,1,0.0324,0.901,0.0,0.0987,0.145,115.502,243200,3
+Stina Nordenstam,Clothe Yourself For The Wind,4JKk29GV9HLJrGl4xTaMWd,12,2001,songwriter,0.496,0.116,5,-15.029,1,0.0478,0.995,0.485,0.323,0.314,127.194,95827,3
+汪佩蓉,It's you,0UC3jf4xNDOcClOZUkds2y,5,2001,songwriter,0.435,0.14,9,-15.201,1,0.0361,0.903,0.0,0.18,0.495,160.061,80293,4
+Ryuichi Kawamura,Tomorrow,0smor2vkH4oQrzPP6hcG2Y,8,2001,songwriter,0.524,0.794,11,-4.137,1,0.04,0.0213,0.00354,0.208,0.685,151.952,302600,4
+Emmylou Harris,"Here, There and Everywhere - 2003 Remaster",3IId8HbBC5uxrvSAao0dJn,10,2001,songwriter,0.31,0.0672,10,-15.093,1,0.0359,0.89,0.000154,0.0976,0.33,143.332,225467,4
+Jeff Buckley,"Lover, You Should've Come Over - Live at Olympia, Paris, France - July 1995",5NrWRoGT19BAE3SBS1Lp2B,16,2001,songwriter,0.315,0.28,4,-13.14,0,0.0355,0.714,0.00446,0.991,0.132,109.822,467693,3
+John Hiatt,Come Home To You,6nH7mNWC0e8gPujsCc8V7v,10,2001,songwriter,0.458,0.396,0,-11.356,1,0.0291,0.25,0.0553,0.11,0.294,146.071,232072,3
+Townes Van Zandt,Tecumseh Valley,3YJFDRtOaYGL8gbU4FrwXd,6,2001,songwriter,0.597,0.129,0,-19.906,1,0.043,0.902,0.000871,0.699,0.325,74.427,276317,4
+Scout Niblett,Miss My Lion,2PcAv28N57nh3xAu6OBFZq,8,2001,songwriter,0.425,0.229,4,-11.249,1,0.0719,0.82,0.0355,0.104,0.0533,74.794,239027,3
+Bjørn Eidsvåg,"Fly, barn, fly",6joDwV9RI73SVfppGoD2oa,12,2009,songwriter,0.481,0.15,4,-19.96,0,0.0281,0.572,0.154,0.107,0.0786,85.457,318373,4
+Stina Nordenstam,Trainsurfing,0lAxmNwaUpwNu3JautfjYF,11,2001,songwriter,0.761,0.475,9,-9.396,0,0.0309,0.0733,0.152,0.117,0.847,110.76,190493,4
+Wu Bai,夢的河流,4HnmTmiwPh7tDrGdAtqeU1,13,2001,songwriter,0.308,0.000186,11,-7.094,1,0.0379,0.0606,2.3e-06,0.0621,0.156,144.05,847307,4
+Neil Finn,Stuff And Nonsense - Live,4kT2Kx4VQ89bOXhR9hlWT8,16,2001,songwriter,0.323,0.34,3,-9.634,1,0.0264,0.843,0.0,0.83,0.189,74.336,260840,4
+Alasdair Roberts,Lord Gregory,4qcIKjz37v1xd3aSAwPJdp,5,2001,songwriter,0.592,0.198,0,-8.759,1,0.0314,0.866,0.0,0.111,0.329,114.163,290240,4
+Emmylou Harris,Two More Bottles of Wine - 2003 Remaster,6d6HmFGVeCMxIMUO9vefHA,10,2001,songwriter,0.764,0.735,3,-7.571,1,0.0333,0.253,0.000294,0.121,0.96,134.336,186333,4
+Rene Liu,我曾愛過一個男孩,755O9UPDZ05Jub5CunpET8,14,2001,songwriter,0.419,0.365,7,-11.879,1,0.0428,0.659,2.74e-06,0.0936,0.1,98.861,234423,4
+Alasdair Roberts,Lowlands,25P7UolPy2NLB7lPUWTCQN,3,2001,songwriter,0.418,0.0532,0,-12.222,1,0.0379,0.905,2.98e-05,0.104,0.191,80.379,254467,4
+Lyle Lovett,If You Were To Wake Up,20n5lnZP0VDOePhNTVHncK,9,2001,songwriter,0.532,0.195,5,-10.687,1,0.0313,0.309,1.09e-05,0.173,0.333,122.377,249440,3
+Loudon Wainwright III,Last Man On Earth,4ERrDE6bHPVq0BqXoqU70E,7,2001,songwriter,0.587,0.475,8,-7.639,1,0.0381,0.593,6.11e-06,0.0747,0.45,134.152,301200,4
+Corrinne May,Fly Away,4IC64KyFWMyWVKsZ8jqLEY,25,2001,songwriter,0.359,0.0863,6,-12.995,1,0.0307,0.919,0.0,0.263,0.157,83.768,268373,4
+Hayden,Street Car,7q4l4P4bdBkqpyXM64Dls3,14,2001,songwriter,0.528,0.157,2,-15.109,0,0.0352,0.269,0.222,0.113,0.228,112.606,275110,4
+k.d. lang,Trail of Broken Hearts - Live,7e6L6bOxAE2n7owArsxvdC,5,2001,songwriter,0.463,0.564,9,-8.509,1,0.0363,0.197,4.17e-06,0.923,0.284,111.274,199200,4
+Rodney Crowell,U Don't Know How Much I Hate U,2rb4voKV7thumOFlxJH462,9,2001,songwriter,0.453,0.698,7,-5.599,1,0.0328,0.28,4.17e-05,0.11,0.338,167.679,217600,3
+Emmylou Harris,You Never Can Tell (C'est la Vie) - 2003 Remaster,2BI3Moh2LRbn82yhoV8J2b,15,2001,songwriter,0.7,0.728,10,-8.012,1,0.0294,0.0379,0.0244,0.125,0.915,140.836,208773,4
+Tom Waits,Ol '55,2IyycUsxRFQiWP8D0RqBXz,17,2001,songwriter,0.418,0.301,6,-15.549,1,0.0362,0.87,0.000239,0.135,0.32,110.249,237467,4
+Hikaru Utada,traveling - PLANITb remix,6ZMdjt7mTLKYfPpLrfgqMU,16,2001,songwriter,0.614,0.918,11,-3.606,0,0.0364,0.000954,0.345,0.217,0.782,128.001,632160,4
+Hawksley Workman,No Beginning No End,2PvWwzBNimMsLv9hsBOams,11,2001,songwriter,0.545,0.355,9,-9.704,1,0.0299,0.429,1.28e-05,0.0887,0.138,115.414,287014,4
+The Sadies,Pass The Chutney,3XGpU3GcrPxmp5tZaHnO2N,6,2001,songwriter,0.538,0.638,0,-12.335,1,0.0324,0.0417,0.185,0.111,0.868,164.239,138627,4
+Ken Hirai,LOVE OR LUST,5aqKbl3iAnhgOOD9PjGimG,11,2001,songwriter,0.734,0.89,2,-3.078,1,0.0674,0.0376,0.0,0.127,0.619,101.094,300107,4
+Ani DiFranco,In Here,1hVWSo7eMQzCv9AhS1TVru,7,2001,songwriter,0.552,0.109,1,-19.256,1,0.0307,0.933,0.228,0.123,0.108,113.734,256733,4
+Mango Pirates,Comet,0pZOrcVP7kFc6BTjNQoBDj,1,2001,songwriter,0.355,0.653,7,-6.747,1,0.0404,0.000737,1.47e-06,0.087,0.316,158.22,295760,4
+Laura Nyro,Let It Be Me,0HoufDEgrucOT9Z2L5T2Lr,4,2001,songwriter,0.422,0.0972,0,-11.836,1,0.0326,0.867,7.28e-06,0.0885,0.338,75.822,135360,4
+Hikaru Utada,FINAL DISTANCE - Instrumental,2mCtZt4U5F6yaJcyBstJgG,11,2001,songwriter,0.371,0.443,3,-10.437,1,0.0287,0.655,0.776,0.142,0.169,82.021,337067,4
+Neil Finn,There Is A Light That Never Goes Out - Live,5XcPOALZyrshuAcDxWggiP,15,2001,songwriter,0.451,0.864,0,-7.347,0,0.0388,0.00824,2.8e-05,0.814,0.679,131.371,262440,4
+Pu Shu,傲慢的上校,2KlrihIAmaqbBu1rpDsCMg,21,2003,songwriter,0.574,0.706,4,-6.714,0,0.0544,0.0432,1.79e-05,0.114,0.444,74.476,292427,4
+Townes Van Zandt,Blue Wind Blew,2tkNLLTmx0ScPJn5Qhaqf1,7,2001,songwriter,0.581,0.55,0,-12.63,1,0.0638,0.802,0.0,0.14,0.628,137.975,242800,4
+Anita Lane,I Hate Myself,2oB5ts84VoZ1AEIOb8h3gD,2,2001,songwriter,0.503,0.455,5,-9.922,0,0.0285,0.0307,0.0226,0.0852,0.578,79.753,294160,3
+Hikaru Utada,Addicted To You - UP-IN-HEAVEN MIX,1Aiyn2dFskGDk8NNgxkB1F,44,2001,songwriter,0.732,0.87,5,-3.174,0,0.0557,0.0872,0.00015,0.0698,0.894,98.503,319320,4
+Wu Bai,挪威的森林,1XjK0otSEglU4HOemUbcJV,11,2001,songwriter,0.659,0.668,4,-5.955,0,0.028,0.389,0.0,0.365,0.634,136.605,391467,4
+Richard Thompson,Keep Your Distance - 2001 Digital Remaster / 24 Bit Mastering,5gtjrnx3XxggHyzuiYViSb,6,2001,songwriter,0.5,0.721,4,-7.412,1,0.029,0.0952,0.00964,0.213,0.581,113.385,253133,4
+Suzanne Vega,Machine Ballerina,71erGv8H2MLfuRiiYSrE0E,9,2001,songwriter,0.637,0.4,1,-9.575,1,0.0284,0.416,0.000775,0.132,0.417,124.159,177373,4
+Nanci Griffith,Once In A Very Blue Moon - Live (1988 Anderson Fair),5hzxiwfXFAFjpI6FigkSjJ,10,2001,songwriter,0.426,0.213,5,-13.769,1,0.0502,0.824,0.0,0.697,0.666,206.178,159093,4
+Bruce Springsteen,If I Should Fall Behind - Voice,5hqdSHKWQi8VVI4urvAAqz,4,2001,songwriter,0.389,0.125,1,-18.058,0,0.0314,0.867,0.00447,0.111,0.096,114.101,294933,4
+Randy Newman,"Oh, Celia!",1jAFNfpwOGw8jvEG6CBjdB,27,2001,songwriter,0.454,0.126,0,-15.907,1,0.035,0.86,0.769,0.408,0.406,119.056,67627,4
+Leonard Cohen,"Hey, That's No Way to Say Goodbye - Live",52zBAhx6JJarvfMy520yBb,16,2001,songwriter,0.471,0.375,9,-11.635,1,0.0297,0.861,0.0128,0.964,0.303,74.753,243973,4
+Bruce Springsteen,"Mansion On the Hill - Live at Madison Square Garden, New York, NY - June/July 2000",2xgMw17fDbK1iKBpDN5O5C,26,2001,songwriter,0.306,0.356,4,-12.222,1,0.0348,0.805,0.000273,0.728,0.297,74.051,259267,4
+John Mellencamp,Shy,1nwzEWdudkh0iDcZSAEBkL,7,2001,songwriter,0.711,0.704,4,-5.258,1,0.0527,0.0301,2.82e-06,0.0365,0.768,131.162,204000,4
+Hikaru Utada,Parody,0OkSHcCVkQxir7PJ4kGbmo,26,2001,songwriter,0.693,0.758,5,-3.898,0,0.0457,0.0105,0.0,0.183,0.825,96.802,325467,4
+Steve Earle,I Ain't Ever Satisfied,6oRLGfOc1muNOTZEiEtnu7,8,2001,songwriter,0.607,0.675,0,-9.14,1,0.0796,0.409,6.93e-05,0.736,0.575,134.68,240144,4
+Lyle Lovett,Walk Through The Bottomland,6igSWgCuTjVHDqmxfy0lou,8,2001,songwriter,0.487,0.145,6,-18.219,1,0.0417,0.657,0.0,0.0842,0.296,136.201,253173,3
+Efrat Ben Zur,צוללת,6lrWS0i2QM3VpGJpx2BsxR,20,2001,songwriter,0.337,0.387,9,-8.508,1,0.0342,0.731,2.84e-06,0.488,0.151,115.338,236827,4
+Guy Clark,The Cape,7b1VrQRqiGpwbXkJpZ1hj6,10,2001,songwriter,0.617,0.444,0,-14.126,1,0.109,0.564,6.5e-06,0.447,0.393,82.744,209679,4
+Neil Diamond,I'm A Believer - Live At The Greek Theatre/2012,11Nn8GRhqLhjEHM4ZGcJRa,20,2018,songwriter,0.252,0.777,5,-5.378,1,0.0984,0.0693,2.14e-06,0.74,0.532,78.334,435213,4
+Bruce Springsteen,"Atlantic City - Live at Madison Square Garden, New York, NY - June/July 2000",27DCji1iCCgtgcWWXnqV9U,33,2001,songwriter,0.498,0.851,9,-6.902,1,0.0471,0.0843,5.73e-06,0.719,0.576,97.015,396307,4
+John Mayer,Not Myself,24QhGejjYWG2CfbHRGLmEr,43,2001,songwriter,0.539,0.49,1,-7.258,1,0.0234,0.0274,0.0166,0.102,0.226,89.991,216573,4
+Anita Lane,Home Is Where the Hatred Is,7rhfGD34DfLNbRRJFdH6hR,7,2001,songwriter,0.539,0.544,5,-9.417,1,0.0291,0.244,0.77,0.0917,0.671,92.816,202827,4
+Tom Waits,Burma-Shave,5WjSrZxYzTzWP7qqDSiY9E,16,2001,songwriter,0.482,0.0634,5,-20.964,1,0.0569,0.96,4.34e-06,0.115,0.111,128.941,394800,3
+Scout Niblett,Wide Shoulders,0exXloDL9s4W5ZYeJyk6Ae,10,2001,songwriter,0.546,0.107,1,-13.22,0,0.0428,0.83,0.00542,0.111,0.14,121.497,209840,3
+Tsuyoshi Nagabuchi,すっからぴんのからっけつ,4xKBNzq2ZY85pGHC3QvmUa,8,2001,songwriter,0.607,0.905,11,-5.998,0,0.0523,0.002,0.0158,0.326,0.576,128.051,349133,4
+David Francey,Green Fields,77STZhMF5gqvqjDZiL6cRh,8,2001,songwriter,0.58,0.214,2,-8.666,1,0.0355,0.933,9.11e-06,0.148,0.533,78.495,215880,4
+Willie Nelson,Outskirts of Town,27aYjwTf3up4SMdV2vXKFD,7,2001,songwriter,0.583,0.195,7,-10.991,1,0.0429,0.848,0.389,0.357,0.177,142.783,440787,3
+汪佩蓉,兩個都愛,6vT0H1PmC0Wc00AtF3jS7Z,4,2001,songwriter,0.397,0.192,4,-11.79,1,0.0329,0.576,9.31e-06,0.086,0.121,133.779,277360,4
+Scout Niblett,Wet Road,72AVCLvgBSjk6YgGTwFfiE,20,2001,songwriter,0.452,0.0626,4,-13.795,0,0.0354,0.958,1.94e-06,0.111,0.149,85.32,206440,4
+Stefanie Sun,不是真的愛我,7wz6mHHnJXPVpC64CXwlMh,33,2001,songwriter,0.611,0.329,3,-9.651,1,0.0394,0.783,0.0,0.118,0.194,121.933,239909,4
+Jimmy LaFave,Bad Bad Girl,3b2mMcc3KB87n1p98QhgN2,8,2001,songwriter,0.732,0.572,7,-10.001,1,0.0296,0.627,0.00104,0.222,0.963,123.071,285587,4
+Richard Thompson,Walking The Long Miles Home - 2001 Digital Remaster / 24 Bit Mastering,6nrlLUG5jqZRqhmtpySefA,5,2001,songwriter,0.56,0.646,7,-7.701,1,0.0241,0.00556,2.25e-05,0.245,0.85,82.965,252200,4
+Neil Finn,The Climber - Live,0PLiL7EJyrIor506hN3Mee,9,2001,songwriter,0.47,0.557,9,-9.698,1,0.0327,0.713,0.0,0.651,0.118,112.424,271333,4
+Nanci Griffith,It's A Hard Life Wherever You Go,6jPVzZSHO8RCnHaoLNT12d,4,2001,songwriter,0.491,0.312,0,-12.49,1,0.03,0.677,0.0,0.128,0.402,149.416,241067,3
+John Hiatt,Hangin' Round Here,6gMx3hR3HFwzoBkFNLcMbN,10,2001,songwriter,0.593,0.716,1,-8.499,0,0.0323,0.0277,0.000853,0.0601,0.588,144.009,189936,4
+Yusuf / Cat Stevens,Back To The Good Old Times,5U6QdWfgxsnBTCyuH9loGo,8,2001,songwriter,0.519,0.416,7,-10.418,1,0.032,0.786,1.92e-05,0.122,0.655,114.05,167133,4
+Bruce Springsteen,"Jungleland - Live at Madison Square Garden, New York, NY - June/July 2000",0WD7EMd8ExHXFjaikOaBsj,31,2001,songwriter,0.293,0.708,10,-6.615,1,0.0515,0.531,0.000347,0.955,0.206,122.472,653827,4
+Nimrod Lev,ימים טובים,3O0MIRTFSMi715D4GCUJXt,16,2001,songwriter,0.198,0.7,7,-7.755,1,0.0333,0.0435,0.00167,0.153,0.305,178.844,330160,4
+Morten Abel,Variations On A Dead Swan,6Lpjt9SNgqobpMR1hFKfDZ,8,2001,songwriter,0.614,0.733,5,-8.371,1,0.031,0.312,5.29e-05,0.145,0.898,122.99,168120,4
+Townes Van Zandt,Marie,0nFrFNd1po4nMKSBSd5UWu,11,2001,songwriter,0.507,0.3,11,-16.435,0,0.048,0.642,0.0585,0.0991,0.426,75.348,299493,4
+Emmylou Harris,Precious Love - Single Version,1OfOYkyCMqJQEm8EMqhm1d,11,2001,songwriter,0.596,0.526,7,-10.183,1,0.025,0.0406,4.18e-05,0.0875,0.744,78.876,225973,4
+Steve Earle,Mercenary Song,02HRfHkdGozLLYHwDVgjVI,7,2001,songwriter,0.533,0.384,9,-12.3,1,0.106,0.766,0.000303,0.357,0.803,104.375,182306,4
+Chava Alberstein,Di Krenitse - The Well,2IWzy8r275PmFn3rzVSaFZ,13,2001,songwriter,0.396,0.447,10,-9.073,0,0.0398,0.526,0.000286,0.0532,0.716,98.271,251480,3
+Emmylou Harris,Too Far Gone - 2003 Remaster,6NE3u3GnlLav4WJNMKBybb,9,2001,songwriter,0.427,0.218,9,-13.988,1,0.0277,0.794,0.000719,0.206,0.141,81.269,212733,3
+Leonard Cohen,The Smokey Life - Live,2p9cadBKRw6w966rc506rm,13,2001,songwriter,0.399,0.173,9,-15.956,1,0.0294,0.931,0.0031,0.708,0.103,68.703,334147,4
+Randy Newman,Crazy 'Bout My Baby,6ZYVVggMqHS37rH3scRnew,13,2001,songwriter,0.366,0.736,5,-8.375,1,0.0926,0.0333,0.0216,0.181,0.705,72.283,168600,4
+Mick Flannery,Even Now,1vvHMqS3bwkHDZjdjrf4WZ,23,2014,songwriter,0.37,0.0827,0,-14.435,1,0.0408,0.965,0.0364,0.109,0.0613,147.627,189333,4
+Leonard Cohen,Bird on the Wire - Live,5oFksNJd3Rjl1eGlj7NaY9,13,2001,songwriter,0.47,0.307,9,-11.536,1,0.0385,0.872,0.0114,0.71,0.139,117.337,308680,3
+Anita Lane,The Petrol Wife,6Jnzj6BLcaA16UvffAbgh1,1,2001,songwriter,0.536,0.47,8,-8.268,0,0.028,0.695,4.82e-05,0.0667,0.212,133.294,223573,4
+Neil Diamond,Turn Down The Lights,5k2Gi4lZnLu0LtGsJxCjaL,6,2001,songwriter,0.51,0.3,0,-11.55,1,0.0269,0.698,1.48e-05,0.149,0.175,107.511,263467,3
+Corrinne May,Journey,18zeYK1xyOHDDWqVo1PcKr,14,2001,songwriter,0.412,0.123,9,-12.25,1,0.0327,0.916,0.0,0.101,0.2,107.15,218720,3
+Stefanie Sun,真的,4lT81h9sOfdhpYzd7qHEc3,20,2001,songwriter,0.701,0.365,7,-10.539,1,0.0265,0.689,0.000539,0.114,0.315,100.94,281658,4
+Neil Finn,Angels Heap - Live,0DJUMsVq1a6XF2zQroZwDJ,12,2001,songwriter,0.436,0.546,2,-10.492,1,0.0297,0.439,1.95e-06,0.945,0.475,93.743,230933,4
+Scout Niblett,Sweet Heart Fever,12feBz9jCth3vIWtpN9nCD,5,2001,songwriter,0.462,0.177,2,-10.971,1,0.0407,0.983,0.00011,0.14,0.198,125.063,204507,3
+汪佩蓉,愛情魔力,1zuo6e4Xk0Ls2AZZ9jl3OC,6,2001,songwriter,0.593,0.819,0,-6.633,1,0.0339,0.197,0.0,0.19,0.928,112.013,273533,4
+Shane MacGowan,You're The One,7AwTvlN3xERJ2bU0SIEVHW,13,2001,songwriter,0.247,0.408,2,-12.232,1,0.031,0.545,0.014,0.103,0.0917,91.0,236000,4
+Chava Alberstein,Ikh Shtey Unter A Bokserboym - I Stand Beneath a Carob Tree,1LS0PHmu1BAKgt1aVlBrUM,10,2001,songwriter,0.349,0.0876,9,-14.906,0,0.032,0.926,0.000485,0.0869,0.205,78.386,232040,4
+汪佩蓉,放手,2koSEVH5QXXWHp8GKJ7JWl,16,2001,songwriter,0.563,0.478,10,-10.146,1,0.033,0.81,1.82e-06,0.125,0.386,85.01,288440,4
+Anita Lane,Bella Ciao,4QAIN7eruPb0xngWPNDisD,11,2001,songwriter,0.475,0.298,9,-14.311,0,0.0294,0.259,0.336,0.119,0.129,82.15,307627,4
+Rodney Crowell,Topsy Turvy,74t2WkZRbACAeSS48zdf3f,8,2001,songwriter,0.661,0.69,3,-4.653,1,0.029,0.0802,0.0,0.102,0.642,128.434,227827,4
+David Francey,Saterday Night,050v0lHheh4K8gHVnkK0rJ,12,2001,songwriter,0.437,0.407,2,-6.768,1,0.0289,0.784,1.3e-05,0.301,0.53,177.807,148653,3
+Hikaru Utada,サングラス,0xubFPu2ZnPDfIbB1yhMbG,30,2001,songwriter,0.711,0.582,1,-5.748,1,0.0426,0.0658,3.26e-06,0.141,0.827,93.037,286827,4
+Yusuf / Cat Stevens,I Love My Dog - Stereo Version,70sWrVJMkSKi27noCKD5Dn,11,2001,songwriter,0.367,0.444,9,-13.66,1,0.04,0.228,0.207,0.338,0.504,87.223,139293,4
+Randy Newman,Kitty,6xfJr9soDQtFy1JTBi67Be,26,2001,songwriter,0.283,0.066,7,-20.584,0,0.038,0.516,0.58,0.0771,0.0427,42.775,79080,4
+Randy Newman,Boo's Tired,51T3xqyo06pNvrXPx1WeY8,36,2001,songwriter,0.156,0.246,11,-16.609,1,0.0389,0.932,0.0744,0.278,0.103,82.7,63760,4
+Anita Lane,A Light Possession,7pYoGi3QIOgs3EzwNueGsP,3,2001,songwriter,0.559,0.564,1,-11.386,1,0.0267,0.0646,0.727,0.133,0.503,97.428,299000,4
+Emmylou Harris,Wayfaring Stranger - 2002 Remaster,4z4c6bYMAoBwcgG7KMyRo3,10,2001,songwriter,0.57,0.226,0,-13.055,0,0.0441,0.642,0.000753,0.097,0.669,119.332,206773,4
+Emmylou Harris,Boulder to Birmingham - 2003 Remaster,1P6bgLVsWQ44w98YULytvV,11,2001,songwriter,0.475,0.318,10,-10.949,1,0.0304,0.778,1.96e-06,0.103,0.311,126.517,213027,4
+Leonard Cohen,"So Long, Marianne - Live",5cY3z6ntT07uOM5opExf04,15,2001,songwriter,0.3,0.501,9,-10.722,1,0.0458,0.584,0.000365,0.985,0.216,187.36,404413,3
+Emmylou Harris,Michaelangelo,2kw1328Bud4rtoiiyndPvP,13,2001,songwriter,0.341,0.321,8,-12.833,1,0.0304,0.691,0.0,0.0919,0.249,81.703,268225,4
+John Mayer,Love Song for No One,2L4no3iw54gGX1ZwCNfYSL,44,2001,songwriter,0.528,0.755,2,-4.671,1,0.0311,0.0352,0.0,0.345,0.432,144.024,201560,4
+Yusuf / Cat Stevens,Father And Son - Live,3GgjMXSccqc6aoSsmHPfO5,11,2001,songwriter,0.427,0.437,7,-10.241,1,0.046,0.869,1.67e-06,0.695,0.234,141.984,216373,4
+Emmylou Harris,To Know Him Is to Love Him (with Dolly Parton & Linda Ronstadt),0j9TyV22IzfpqmDxo7o9C8,15,2001,songwriter,0.344,0.246,8,-13.855,1,0.0335,0.75,0.000354,0.0912,0.329,174.515,233973,3
+Nanci Griffith,Pearl's Eye View (The Life of Dickey Chapelle),5J8HZ2ImFC5xAseiIyNWRW,4,2001,songwriter,0.391,0.658,9,-7.146,1,0.0383,0.00859,6.22e-06,0.162,0.789,140.081,207067,4
+Richard Hawley,The Light at the End of the Tunnel (Was a Train Coming the Other Way),3lCxiAo1wbCu4nh75Ml8EM,16,2001,songwriter,0.489,0.215,4,-15.854,0,0.0293,0.922,0.897,0.104,0.268,92.248,294480,3
+Suzanne Vega,Harbor Song,0U1GJ7xX1oHISdqa91eSSE,10,2001,songwriter,0.669,0.373,8,-11.972,1,0.0279,0.392,0.00191,0.0875,0.168,120.071,258667,3
+Sertab Erener,Bahçede,40ilwxRfbc5urI5Wk8G24O,30,2001,songwriter,0.558,0.256,9,-7.123,0,0.0357,0.885,0.0,0.119,0.332,123.141,297987,4
+Roman Horky,Kdyz vlaky jedou,31FYIINjgT8PtNHdWDm9mH,8,2001,songwriter,0.47,0.81,9,-10.069,0,0.0364,0.0969,9.97e-06,0.395,0.405,159.454,228827,4
+Emmylou Harris,Heaven Only Knows,4XGt69jqwcdtUxV6IQiCjT,14,2001,songwriter,0.616,0.543,0,-10.068,1,0.0259,0.317,4.67e-05,0.268,0.702,142.924,223000,4
+Emmylou Harris,Making Believe - 2003 Remaster,4VYP67B3huff9WR5LOLjdK,9,2001,songwriter,0.424,0.386,8,-9.475,1,0.0292,0.654,0.00109,0.451,0.436,103.946,215960,4
+Anita Lane,Like Caesar Needs a Brutus,5luqJAcQ1KLgOATEPzWhOY,1,2001,songwriter,0.614,0.627,5,-9.386,1,0.0404,0.125,0.6,0.262,0.673,75.712,274800,4
+Nanci Griffith,I Knew Love,3U7SeTuLgIa1eHNhvbaLkl,4,2001,songwriter,0.594,0.177,9,-12.313,1,0.0308,0.564,0.021,0.106,0.221,136.588,196400,4
+Townes Van Zandt,No Lonesome Tune,7zqpoHzMAZA5qmJegQCWxL,12,2001,songwriter,0.42,0.432,9,-14.082,1,0.0454,0.456,0.00724,0.0837,0.325,75.387,208733,4
+Stefanie Sun,愛情字典,5jW2i6h8WD3vUinVC1lAqA,31,2001,songwriter,0.478,0.483,4,-7.513,1,0.0319,0.637,2.02e-05,0.11,0.327,139.518,229088,4
+Naiwen Yang,Surrender,7mnG0eCCDyO6TCmvDkXtmq,8,2001,songwriter,0.497,0.445,2,-7.621,1,0.0248,0.0687,2.41e-05,0.112,0.112,80.762,391360,4
+Hikaru Utada,DISTANCE - PLANITb Remix,4YyEQ6oHQl2UUInkRz5NCl,15,2001,songwriter,0.663,0.955,2,-3.858,0,0.0527,0.0087,0.0382,0.535,0.349,128.002,373333,4
+Laura Nyro,Coda,52Yl97xeywrRn6Yuyu8jpE,2,2001,songwriter,0.563,0.000109,7,-10.257,1,0.335,0.79,0.0,0.316,0.204,114.256,332227,4
+Stefanie Sun,練習,7qbverfxJs1dE8WCAgrnLk,15,2001,songwriter,0.605,0.719,0,-5.52,1,0.0268,0.245,0.0,0.0974,0.457,105.018,256255,4
+Tsuji Ayano,君が好きです,7G4o69Vlj478h5rTE5Xjvv,13,2001,songwriter,0.791,0.201,10,-14.43,1,0.0315,0.927,0.0168,0.118,0.751,96.913,192633,4
+Slaid Cleaves,Primer Gray,5bVQqU0lExVgRE6qrfwr9z,13,2017,songwriter,0.496,0.459,4,-10.961,1,0.0328,0.71,0.00166,0.107,0.561,164.042,238613,4
+Emmylou Harris,The Boxer - 2002 Remaster,1t9Ys0EFBjs8RAIT8Iu25j,11,2001,songwriter,0.412,0.398,9,-11.181,1,0.0303,0.481,0.0,0.0863,0.76,178.455,211400,4
+Neil Diamond,Elijah's Song,2CSk1glOk00sdH3SglTRhY,7,2001,songwriter,0.526,0.395,9,-10.027,1,0.0281,0.327,0.000173,0.142,0.313,120.014,176507,4
+Randy Newman,Celia's Mad,1gQUv2qZs7LUWo1IeO7lhq,20,2001,songwriter,0.357,0.0975,1,-17.811,1,0.0391,0.939,0.578,0.374,0.109,126.591,100240,4
+k.d. lang,Don't Smoke in Bed - Live,7kbYUo7FMwskIDjCMSeF4d,7,2001,songwriter,0.373,0.291,7,-10.568,0,0.0541,0.791,2.85e-05,0.756,0.129,121.431,224427,4
+Lady Lamb,Untitled Soul,2Vt0q12UyZABbvF2pDMhHL,14,2019,songwriter,0.485,0.496,7,-6.394,1,0.0311,0.648,0.000232,0.0794,0.239,115.892,277480,3
+Guy Clark,Dublin Blues,10izHSVBnT1KCPa8lX4fdF,10,2001,songwriter,0.617,0.275,4,-15.747,1,0.435,0.554,5.81e-06,0.694,0.332,80.389,269877,4
+Bruce Springsteen,"If I Should Fall Behind - Live at Madison Square Garden, New York, NY - June/July 2000",3zHAF84Jjuy9iEwasyUKUy,33,2001,songwriter,0.35,0.136,4,-14.234,1,0.0317,0.818,1.35e-05,0.87,0.0908,134.792,368427,4
+Willie Nelson,Three Days - Remastered 2001,2Am4omzYkANxnivWia1R1B,4,2001,songwriter,0.638,0.422,10,-10.432,1,0.0339,0.721,1.06e-06,0.149,0.762,135.106,176947,4
+Zhang Zhen Yue,Don`t Give A Damn About Me,21xgAq40WNd8n23d65uQqG,14,2001,songwriter,0.576,0.709,0,-8.446,1,0.0304,0.00136,0.231,0.101,0.317,129.978,459000,4
+Tsuyoshi Nagabuchi,パラシュート,6WCMpDovZvWIbifOB2HWiY,14,2001,songwriter,0.841,0.301,0,-10.475,1,0.0485,0.668,4.86e-05,0.0631,0.784,121.99,255573,4
+Sarah McLachlan,Sweet Surrender - DJ Tiësto Mix,7IJ6EIpj68FYrQXCCBzea6,6,2001,songwriter,0.666,0.722,1,-8.93,1,0.0326,0.00823,0.403,0.0925,0.0362,135.028,428067,4
+Randy Newman,Boo's Adventures In Monstropolis,14FsV2IPdUiiZOptEw6d1z,24,2001,songwriter,0.317,0.234,5,-13.33,1,0.0402,0.883,0.794,0.0811,0.117,143.006,382120,4
+Shawn Colvin,Bound To You,5VpHNxJBOEeIThgdIWmCDV,4,2001,songwriter,0.572,0.817,6,-7.735,0,0.0305,0.0044,0.0168,0.182,0.609,122.025,212467,4
+Hayden,Steps into Miles,0Dmn1EjgCh9jkulLigWKXx,11,2001,songwriter,0.584,0.298,11,-14.226,1,0.0371,0.694,0.226,0.0793,0.165,127.645,176634,3
+Jeff Buckley,"Grace - Live at Olympia, Paris, France - July 1995",6hWp7H6kDFPEHDUurPkwdj,11,2001,songwriter,0.295,0.738,2,-8.881,1,0.0405,0.0456,0.0635,0.665,0.157,138.796,368067,4
+k.d. lang,The Consequences of Falling - Live,0BZwFCGpd8PFGkxlMY9YqC,6,2001,songwriter,0.491,0.723,8,-7.849,0,0.0359,0.175,1.33e-05,0.973,0.474,98.584,235133,4
+k.d. lang,Pullin' Back the Reins - Live,5uC5JNc3z8bITB505Ipqks,5,2001,songwriter,0.295,0.42,10,-8.283,1,0.0343,0.41,1e-05,0.597,0.1,181.222,281640,3
+Todd Snider,Doll Face,51U00PreYkfgXdNq5mWKBr,6,2009,songwriter,0.622,0.365,2,-14.809,1,0.183,0.358,3.3e-05,0.0943,0.479,118.708,154093,4
+Emmylou Harris,Boy From Tupelo,0oDftCUvQPnF19qU3oFEay,9,2001,songwriter,0.524,0.54,1,-12.236,1,0.0293,0.167,2.95e-06,0.242,0.624,136.254,202641,4
+Leonard Cohen,Memories - Live,3fT1SJXOgn33X2woM7b03d,14,2001,songwriter,0.4,0.815,2,-7.797,1,0.182,0.104,0.0,0.656,0.626,126.507,277920,3
+Emmylou Harris,Save the Last Dance for Me - 2003 Remaster,1kPFFTZge6OhqkZF77KY4Q,18,2001,songwriter,0.596,0.366,5,-10.104,1,0.0254,0.462,5.27e-05,0.0874,0.543,107.057,224173,4
+Emmylou Harris,Born to Run,3sQoWZ7YTWp0NEnN3dbU8e,8,2001,songwriter,0.496,0.529,4,-12.383,1,0.0403,0.032,0.000139,0.137,0.553,171.387,227760,4
+Wu Bai,暴雨,5qZb4dk6VBK2YIuX3RDBr9,12,2001,songwriter,0.652,0.932,4,-6.72,0,0.0437,0.0965,0.000644,0.104,0.78,132.018,307240,4
+Sertab Erener,Güle Güle Şekerim,2s2V3jxuNdV1c8SXDLxnzc,46,2001,songwriter,0.818,0.779,2,-5.192,1,0.115,0.0362,4.83e-06,0.364,0.878,102.963,193107,4
+Don McLean,Don't Worry 'Bout Me,4DyCtFwAJoBWNU0gudrz0L,6,2001,songwriter,0.286,0.399,2,-9.983,1,0.0318,0.228,0.000771,0.157,0.424,84.877,298720,4
+Naiwen Yang,我從來不懂你的幽默,2Ba8AMXnZtnBTz62LLbsvn,18,2013,songwriter,0.729,0.704,2,-7.703,0,0.0388,0.417,0.0187,0.362,0.778,122.095,258920,4
+汪佩蓉,天總是會亮的,7Ipaa0RMm6CEXzY8sRD0cj,7,2001,songwriter,0.523,0.37,11,-11.679,1,0.0302,0.769,0.000615,0.138,0.282,84.042,336573,4
+Scout Niblett,So Much Love To Do,63GGxTIWHn9y4meALX2ZG3,24,2001,songwriter,0.611,0.129,11,-12.515,0,0.0795,0.901,0.000534,0.108,0.218,101.145,226467,4
+John Mellencamp,The Same Way I Do,6SXnCMM9zC2Q7LRlzMBdt3,10,2001,songwriter,0.625,0.652,0,-5.059,0,0.0247,0.104,2.75e-06,0.115,0.574,105.166,198800,4
+Hikaru Utada,DISTANCE,41yBLCGKQEFPo46omVkMWY,47,2001,songwriter,0.734,0.71,0,-6.029,1,0.0339,0.0078,9.17e-05,0.244,0.609,104.95,330907,4
+Emmylou Harris,Maybe Tonight - Single Version,3MPQaEHmsR7I5wQ9FEkHBi,6,2001,songwriter,0.605,0.527,5,-12.104,1,0.0328,0.281,4.3e-06,0.11,0.715,129.714,179560,4
+Shawn Colvin,Roger Wilco,09ie3iiaNa4QZxNMhMh4nl,3,2001,songwriter,0.595,0.451,4,-9.775,1,0.0265,0.311,0.0028,0.216,0.704,88.031,235907,4
+Yumi Matsutoya,幸せになるために,74gyyhnBUEP5e0r0fXtcAV,25,2001,songwriter,0.567,0.527,11,-8.789,1,0.0274,0.334,0.0171,0.131,0.0785,77.836,227526,4
+Hayden,Tea Pad,1W03JTHaw8x33AfqtQh17Y,8,2001,songwriter,0.541,0.508,1,-12.523,0,0.0306,0.00378,0.656,0.347,0.473,107.078,117005,4
+Richard Hawley,Love of My Life,6Mk9xkvmYzcEoHeLaZK1df,25,2001,songwriter,0.22,0.113,9,-17.508,1,0.0398,0.928,0.0124,0.106,0.107,97.311,200880,3
+Gemma Hayes,Evening Sun,5s6fSLoHqqiX42KX1ZzXOl,10,2001,songwriter,0.595,0.109,9,-17.571,0,0.0346,0.909,0.0421,0.09,0.345,94.604,227733,4
+Shawn Colvin,Nothing Like You,6tBRdXxHtOcTIRPF2xEDoH,5,2001,songwriter,0.531,0.416,0,-12.402,1,0.0323,0.658,0.00861,0.334,0.421,148.033,192027,4
+Lars Winnerbäck,För dig,0MU5VmOJrg1qbO8ri8GUfQ,43,2001,songwriter,0.201,0.709,7,-5.674,1,0.0317,0.000414,0.000814,0.179,0.496,160.166,225613,4
+John Mellencamp,Teardrops Will Fall,6v8BiD6U5DukVSpC9r1o3M,17,2018,songwriter,0.624,0.826,7,-6.351,1,0.0307,0.0294,7.51e-05,0.376,0.766,115.839,256893,4
+Rodney Crowell,Banks Of The Old Bandera,7DkOxXOmamOyjc3YmLUG4d,8,2001,songwriter,0.438,0.0932,0,-12.433,1,0.0344,0.893,2.27e-05,0.36,0.252,146.143,221413,4
+Richard Thompson,I Feel So Good - 2001 Digital Remaster / 24 Bit Mastering,0oUQq7N94dk4SActIC6xJM,7,2001,songwriter,0.584,0.803,0,-5.794,1,0.0366,0.0272,9.19e-05,0.308,0.596,125.099,203067,4
+Shawn Colvin,Anywhere You Go,0iV9YvxSyRZUJ3kWH2NFzC,5,2001,songwriter,0.64,0.631,5,-7.934,1,0.0267,0.121,0.000383,0.093,0.594,94.035,212707,4
+Lars Winnerbäck,För den som letar,7iKzZ88dtnY9EiDQ9OIqOm,15,2001,songwriter,0.759,0.649,4,-6.12,0,0.0297,0.197,0.077,0.15,0.895,119.03,228667,4
+Bob Dylan,I Feel a Change Comin' On,2R9giNqesA6XkpaNcxoNmI,21,2009,songwriter,0.601,0.649,10,-7.356,1,0.0282,0.073,8.73e-06,0.0656,0.684,142.05,325093,4
+Willie Nelson,Cold War With You - 2001 - Remastered,0YnGPuiLQypJrrOxz1oiM4,3,2001,songwriter,0.771,0.249,3,-13.673,1,0.0523,0.708,0.0024,0.224,0.262,113.21,160973,3
+Penny Tai,Jamie Willson Solo,2Q0N01cDPeLO07az7Azdee,7,2001,songwriter,0.461,0.311,11,-11.755,0,0.0407,0.756,0.897,0.116,0.306,121.179,90693,4
+Emmylou Harris,In My Dreams,36Bj5nd9mHK3qGYmt3ZVmK,8,2001,songwriter,0.557,0.572,11,-9.771,1,0.0353,0.106,4.6e-05,0.192,0.567,146.77,197600,4
+Townes Van Zandt,At My Window,6TQL19FZIyAbUFCPgnhE22,9,2001,songwriter,0.498,0.2,2,-16.113,1,0.0271,0.761,0.000467,0.133,0.355,101.134,258200,4
+Chava Alberstein,Di Goldene Pave - The Golden Peacock,725rCiKMz1x4kHHQwsaN6u,17,2001,songwriter,0.461,0.331,4,-13.141,0,0.0258,0.407,0.00216,0.0866,0.364,99.027,241360,1
+Kristofer Åström,All Lovers Hell,4OD7lG679u4bneYmOzp3dW,32,2001,songwriter,0.276,0.785,10,-9.65,1,0.0281,0.0526,0.00761,0.145,0.467,102.242,304400,4
+Emmylou Harris,Timberline,0dNkXgeBN7PSUWRby7w9RB,7,2001,songwriter,0.554,0.355,10,-13.577,1,0.0287,0.413,5.09e-05,0.0973,0.768,80.823,174600,4
+Jeff Buckley,"Je ne connais pas la fin - Live at Olympia, Paris, France - July 1995",2Lm3UKoBWf1EUySGNazcVB,25,2001,songwriter,0.35,0.0432,2,-25.914,1,0.0407,0.964,0.0241,0.932,0.179,113.219,385693,4
+Rene Liu,年華,7sIzKpZAccYjclOCefuotp,9,2001,songwriter,0.581,0.859,4,-4.225,1,0.0332,0.106,3.25e-06,0.216,0.603,132.029,271054,4
+Hawksley Workman,Dirty and True,74VXtaceYZk6q56rZI9evp,7,2001,songwriter,0.609,0.635,7,-7.547,1,0.0283,0.496,4.75e-06,0.309,0.408,107.307,263401,4
+Jeff Buckley,"Dream Brother - Live at Olympia, Paris, France - July 1995",62tqO39XhSD12JqNmf1Bvr,12,2001,songwriter,0.152,0.475,0,-11.28,1,0.0442,0.366,0.0703,0.98,0.181,196.142,480400,4
+John Mayer,Neon,7Kohy4v3KLWfUXlv9N3feB,58,2001,songwriter,0.699,0.77,5,-7.658,0,0.036,0.0181,0.000138,0.0644,0.589,101.984,262107,4
+Bubbi Morthens,Alltaf einn,1hi7ynh1FafVisWpCrV7Ay,12,2001,songwriter,0.303,0.699,0,-7.129,1,0.0299,0.00122,0.0,0.536,0.353,176.72,278175,4
+Yumi Matsutoya,潮風にちぎれて,1WKNCNYqL6M3jcHiMK13rX,20,2001,songwriter,0.559,0.609,5,-8.146,1,0.0271,0.281,0.00621,0.0869,0.467,128.979,252084,4
+John Hiatt,I'll Never Get Over You,5iwStoRxO12yZngTOB33RD,12,2001,songwriter,0.493,0.523,9,-8.69,1,0.0252,0.0264,0.046,0.0917,0.497,90.113,218749,4
+Hawksley Workman,Your Beauty Must Be Rubbing Off,6lYVLOBDT95LoOjEQjMoDr,18,2001,songwriter,0.712,0.758,4,-7.965,1,0.0325,0.0343,0.0,0.12,0.926,133.617,228067,4
+Tom Waits,I Never Talk To Strangers,3qrWrRewQLhCIaGlRe7igy,16,2001,songwriter,0.338,0.144,3,-17.514,1,0.0345,0.934,0.000224,0.117,0.178,92.685,218467,4
+Nanci Griffith,Love At The Five And Dime - Live (1988 Anderson Fair),4PxxDaq4q08MeHoEiskCKp,5,2001,songwriter,0.43,0.121,10,-16.401,1,0.0369,0.587,1.02e-05,0.986,0.235,142.882,439267,4
+Townes Van Zandt,A Song For,68DK7bfYsZxpW77oXobnCq,5,2001,songwriter,0.61,0.276,4,-17.971,0,0.152,0.906,9.28e-05,0.694,0.457,120.54,209279,3
+Nanci Griffith,Trouble In The Fields,73eEU52UbpSIOy87OIPmrY,4,2001,songwriter,0.536,0.407,7,-10.081,1,0.0269,0.294,0.0,0.209,0.41,145.45,200267,4
+Townes Van Zandt,Brother Flower,5yJWbZ1iEANoGoKPgE9SKn,9,2001,songwriter,0.351,0.283,0,-13.345,1,0.0304,0.798,0.0,0.145,0.576,73.974,176573,4
+Wu Bai,翅膀,48FIHRGpnoTZ2In4FitUcv,16,2001,songwriter,0.498,0.555,4,-5.981,0,0.0258,0.00212,0.0,0.0683,0.556,71.998,281200,4
+Scout Niblett,Lula,6bzoxw7wPPPSfq56PfTn7f,14,2001,songwriter,0.527,0.103,10,-20.805,1,0.0756,0.989,2.47e-06,0.147,0.268,71.852,58093,3
+Suzanne Vega,Soap And Water,2ZvURVqkm5G8apXxsfnZ98,22,2001,songwriter,0.617,0.456,6,-12.032,0,0.0312,0.106,0.00299,0.0973,0.209,140.962,183427,4
+Gord Downie,The Never-Ending Present,2CawP8JcADTqj9b8mZY9W8,8,2001,songwriter,0.543,0.634,2,-7.528,1,0.0239,0.193,0.646,0.134,0.504,98.086,305693,4
+Hikaru Utada,HAYATOCHI-REMIX,6KrqrY4tKz10qZFx1b2xyc,24,2001,songwriter,0.728,0.787,5,-5.813,1,0.0486,0.0244,0.2,0.238,0.709,100.061,250240,4
+Yumi Matsutoya,7 TRUTHS 7 LIES ~ ヴァージンロードの彼方で,25EFVz2UfVa9rZ6knb7Dpf,26,2001,songwriter,0.664,0.797,1,-9.245,1,0.0268,0.00232,0.0412,0.0659,0.585,112.759,288873,4
+Tanya Chua,呼吸,30b7tONybjpNB9QidnoA7s,13,2001,songwriter,0.595,0.502,7,-8.759,1,0.04,0.337,2.55e-05,0.135,0.245,98.096,295893,4
+汪佩蓉,It's Just Love,33FgWqtfjxMNwJaYt5nSUx,13,2001,songwriter,0.656,0.357,0,-11.295,0,0.0306,0.245,0.0,0.0919,0.709,159.974,243960,4
+Penny Tai,日期,11RS2bmAqW9utKnnRnJqCB,10,2001,songwriter,0.61,0.888,1,-6.811,0,0.0359,0.0329,0.0186,0.142,0.88,139.996,198533,4
+Tom Waits,(Looking For) The Heart Of Saturday Night,6yWUGkZfxw9JLPFdRFcaju,16,2001,songwriter,0.627,0.11,2,-18.081,1,0.0395,0.885,6.46e-06,0.152,0.542,94.013,233093,4
+John Mayer,No Such Thing,6Vecwo7AHst9V2CE3kmwr0,61,2001,songwriter,0.668,0.739,4,-4.919,1,0.0308,0.0383,0.0,0.13,0.571,131.918,231467,4
+Chihiro Onitsuka,眩暈,5TK6ya23aqRwlWmk5zUmXA,42,2001,songwriter,0.481,0.456,4,-7.3,1,0.0275,0.86,0.0,0.125,0.417,147.74,306533,4
+Neil Diamond,I Believe In Happy Endings,2fzlXI5jHOdAXksmJXy1CW,17,2001,songwriter,0.259,0.434,10,-8.707,1,0.0278,0.466,2.86e-05,0.154,0.175,80.124,269733,4
+Emmylou Harris,To Daddy - 2003 Remaster,5vP5MTuuKZYNNLNpcR3Ylg,14,2001,songwriter,0.607,0.308,8,-13.003,1,0.047,0.775,0.0,0.102,0.346,80.726,166600,4
+Laura Nyro,He Was Too Good For Me,0YJAFOUfR8W9xLMqrFgMVX,3,2001,songwriter,0.417,0.0846,0,-11.817,1,0.0418,0.878,0.0,0.119,0.383,139.701,158560,3
+Jun In Kwon,사노라면,5YvPkWYSQcpd9yknnIOPuh,23,2001,songwriter,0.504,0.176,7,-12.43,1,0.0353,0.509,0.0,0.098,0.192,119.407,329744,4

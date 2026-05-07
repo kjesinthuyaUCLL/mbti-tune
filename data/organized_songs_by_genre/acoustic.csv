@@ -1,0 +1,590 @@
+artist_name,track_name,track_id,popularity,year,genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Jay Brannan,Body's A Temple,428BwFIE0gVMYFs1SOjAiF,5,2007,acoustic,0.514,0.267,7,-12.371,1,0.0546,0.492,0.000834,0.172,0.329,98.112,229760,4
+NEEDTOBREATHE,Hurricane,4EkyzQTp7rJ88VPKMcNLnV,7,2013,acoustic,0.527,0.799,0,-6.334,1,0.045,0.00413,0.000771,0.113,0.355,122.041,247120,4
+Bailey Pelkman,More Than Words,3qoRrxcprjJI775lvfwNfJ,26,2016,acoustic,0.685,0.137,10,-11.789,1,0.0362,0.857,0.0,0.0956,0.488,117.982,163475,4
+Nora & Will,Valerie,7yCbBBHeHirDMimoUvMBgx,46,2017,acoustic,0.652,0.188,3,-12.284,1,0.216,0.734,0.0,0.109,0.633,92.176,256609,4
+Drew Holcomb & The Neighbors,Tightrope,3bBoIrqHHxO7vvtMJlPMvL,23,2015,acoustic,0.623,0.544,5,-11.667,1,0.0324,0.187,0.489,0.117,0.553,91.007,236730,4
+Jill Andrews,Tell That Devil (Acoustic Version),5lLFQyUsdHB6dkg5UWjBCP,22,2018,acoustic,0.414,0.12,9,-10.898,1,0.0312,0.939,6.75e-06,0.107,0.15,146.274,185625,4
+Guus Dielissen,Make You Feel My Love (Instrumental Guitar),1FgNYoGNWy1WdwbWv5KpNz,34,2020,acoustic,0.499,0.0465,10,-26.604,1,0.0511,0.928,0.88,0.107,0.44,79.109,129288,4
+Dave Barnes,Love Somebody,3ZygXpVJazldl1UbMP1yGM,17,2020,acoustic,0.707,0.608,9,-6.821,1,0.033,0.241,0.0013,0.0893,0.194,85.005,237690,4
+Charley Patton,Tell Me Man Blues,1n6pK3uDzTbXD32ta6Nq3l,0,2002,acoustic,0.575,0.144,0,-20.322,1,0.063,0.995,0.558,0.118,0.655,136.108,195267,4
+Humming House,Great Divide,6NwGGVa1cB6cVuv0xbXlGx,19,2015,acoustic,0.525,0.742,0,-5.384,1,0.0831,0.0273,1.67e-05,0.196,0.573,151.099,209590,4
+Matt Johnson,Say You Won't Let Go - Acoustic,5j5OayPyUCnJSK0RynvqgK,46,2018,acoustic,0.432,0.197,3,-9.251,1,0.0414,0.87,0.0,0.11,0.348,163.985,243725,4
+Aimyon,分かってくれよ,1VYkyV2KfznZ2dg23HNRIN,40,2015,acoustic,0.565,0.667,2,-6.158,1,0.0315,0.0172,0.0,0.0914,0.366,150.052,285413,4
+The Light the Heat,Falling for You,0M5udLEaRZUClgJ9mCkVgD,32,2017,acoustic,0.447,0.724,11,-10.725,1,0.0336,0.569,0.113,0.197,0.304,151.987,206467,4
+Days N Daze,Same Shit,1xiv0SDQCp8nMe678U8N7v,28,2015,acoustic,0.667,0.492,5,-10.759,1,0.176,0.385,2.88e-06,0.0939,0.958,138.046,155013,4
+Will Hoge,Gilded Walls,3alEywuuM3rIDxLKC7y1Ys,26,2018,acoustic,0.618,0.494,7,-6.437,1,0.0384,0.465,0.00657,0.109,0.667,83.033,259156,4
+Bob Schneider,Digging for Icicles,5zinLwgh8MDBoIvvVZVQ7A,7,2013,acoustic,0.544,0.364,0,-12.766,0,0.0273,0.662,0.0692,0.126,0.278,109.977,222213,4
+Joe Purdy,Dead End Kids,7BqJzy8Em4r3I0PVKLbYPy,5,2009,acoustic,0.492,0.0829,2,-17.512,1,0.116,0.824,0.000213,0.326,0.225,50.712,262987,4
+Canyon City,Venice,5geuy0PCGIT0OHjcW8vfsJ,21,2019,acoustic,0.361,0.249,3,-14.194,1,0.0309,0.725,0.00138,0.111,0.323,85.245,314840,4
+Days N Daze,Flurry Rush,3M6NL7PxIDZ3ArfPrBUTUP,36,2020,acoustic,0.371,0.674,9,-3.72,1,0.0488,0.169,0.0,0.0889,0.92,87.603,169319,4
+Muriel Anderson,I'll Never Sing Another Song (Tokyo Lullaby),2SlOHoUgIyN7F8fxVRcfkz,0,2003,acoustic,0.339,0.133,2,-17.572,1,0.0339,0.919,0.122,0.13,0.252,133.679,235987,3
+Sara Farell,Still Falling For You - Acoustic Version,3ZY4t0qK3aQrO7V3YYQPPU,24,2016,acoustic,0.375,0.298,1,-11.928,1,0.0395,0.822,0.0,0.137,0.425,174.03,252567,4
+Alexa Goddard,Angel of Mine,2aztu8dinXIXTurh7Ewy5u,35,2023,acoustic,0.643,0.125,1,-11.876,1,0.0321,0.861,0.0,0.121,0.239,77.386,146956,4
+Five For Fighting,I Just Love You - Live at House of Blues,1V8cxY7DrZu8JNa5mMa8np,4,2007,acoustic,0.478,0.356,10,-9.93,1,0.0541,0.951,2.14e-05,0.939,0.353,109.102,256467,4
+John Frusciante,Ah Yom,1tDByZ67lHp2DAATY5Qzes,23,2009,acoustic,0.535,0.377,7,-10.909,0,0.0296,0.667,0.0304,0.203,0.533,101.995,198202,4
+Tow'rs,Paradox,7cGAhfBv9kdbWrxi3M0VpJ,12,2019,acoustic,0.674,0.294,7,-9.192,1,0.0329,0.904,0.00023,0.0931,0.274,135.946,229520,4
+Karizma Duo,Everybody Wants to Rule the World (Acoustic),5o2MZeIVfrrvUGre2YpJ5O,0,2023,acoustic,0.743,0.159,2,-8.542,1,0.0336,0.872,0.0,0.113,0.396,112.521,150501,4
+Bootstraps,One Day,7wd2cT5OYIVauySPDxnWdi,15,2019,acoustic,0.412,0.538,8,-11.07,1,0.0406,0.559,0.00955,0.0819,0.192,82.948,231155,4
+Frank Turner,I Am Disappeared,5osREcZR3EsHzcmKbjN5zb,35,2011,acoustic,0.455,0.794,9,-6.579,0,0.0552,0.00333,0.0,0.0763,0.516,161.457,287147,4
+Brett Dennen,Can't Keep It Inside,7DUnyslSCb05yeSmGGTJ81,37,2013,acoustic,0.519,0.0646,2,-18.898,1,0.0433,0.982,3.84e-06,0.105,0.395,121.696,77093,4
+Robert Johnson,Terraplane Blues - SA.2586-1,118ZJKGcL17w1suczN8Xf8,16,2011,acoustic,0.714,0.212,6,-15.643,0,0.11,0.958,2.89e-05,0.211,0.457,113.737,180453,4
+Jon Foreman,Come Home,5ym98Fz3mhXViv67KPwekc,26,2015,acoustic,0.383,0.421,7,-9.006,1,0.0282,0.235,6.27e-05,0.11,0.0699,159.66,291840,3
+Tim Schou,Supernova,72GWw8iXxtnQn9QmWviikF,26,2014,acoustic,0.544,0.459,9,-5.813,1,0.03,0.584,0.0,0.295,0.241,132.028,184545,4
+Mark McAdam,Sob Story No. 2,2ctifuQl7rczEccDNxA5Kq,0,2002,acoustic,0.445,0.145,0,-16.76,1,0.038,0.919,0.000148,0.0541,0.167,108.939,222000,4
+Kate York,Never Gonna Change,66itGczd1PDI7441zMYaeI,19,2022,acoustic,0.665,0.294,0,-11.771,1,0.0768,0.59,3.1e-06,0.109,0.222,139.828,209571,4
+Big Bill Broonzy,Make Me A Pallet On The Floor - Live (Remastered),0oVjNLt4MhHxwpWkTkt4UK,8,2023,acoustic,0.649,0.393,0,-11.294,1,0.0345,0.838,0.0664,0.128,0.624,163.958,114160,4
+Marianna Leporace,Wonderwall,2x4Dvn40umwdLVB15iX2DP,5,2003,acoustic,0.565,0.576,9,-8.622,0,0.0241,0.156,0.0,0.1,0.32,86.012,218893,4
+Edy Hafler,Boys Don't Cry - Instrumental,3PUDDiJS1fjRALRODKsVyI,24,2021,acoustic,0.423,0.253,9,-14.962,1,0.0565,0.945,0.941,0.111,0.281,147.215,184926,5
+Chuck Ragan,Live by the Sword,1Nqv1MtGpu4Ee09cJcj3JI,7,2012,acoustic,0.505,0.58,0,-7.478,1,0.0305,0.413,0.0,0.327,0.791,116.821,180541,4
+Shikao Suga,青空 - Shikao & The Family Sugar TOUR '03,0iVdmMRIs2HpP6dTaPwlIh,3,2003,acoustic,0.48,0.801,5,-4.392,1,0.0304,0.155,7.88e-05,0.376,0.268,150.944,314347,4
+Mindy Gledhill,We Go Round,16xeJkqsqXZOfnyI6t9yvP,4,2007,acoustic,0.644,0.674,0,-7.364,1,0.0314,0.283,6.53e-06,0.0723,0.583,104.935,232333,4
+Joe Purdy,Balcony/ Green Eyes,3hw3zChyuRRnr4an8AWhq4,11,2006,acoustic,0.488,0.227,2,-11.777,1,0.0382,0.922,0.000685,0.373,0.119,120.574,318213,3
+Adrienne Pierce,What You're Wishing For,5kdD4WbRrDv6DXBk6xV0ja,0,2004,acoustic,0.676,0.586,6,-8.115,1,0.0293,0.107,0.000165,0.132,0.417,137.905,176600,4
+Hem,Home Again,7dnHcRenXF9QrGliqaQlWy,7,2007,acoustic,0.348,0.588,10,-7.494,1,0.027,0.468,0.156,0.12,0.142,89.243,258080,4
+Josh Ritter,Old Black Magic,5lbgaOjchF4QZLdh2gw2Wl,40,2019,acoustic,0.344,0.821,0,-6.377,1,0.0321,0.0164,0.000468,0.131,0.761,205.418,286440,4
+Ben Rector,Note To Self,3w2Hvc5mh3Dt3QyYIhAHKQ,42,2015,acoustic,0.676,0.372,8,-11.472,1,0.13,0.563,0.0,0.109,0.395,97.945,181587,4
+Bobby's Oar,I Find Comfort,3cElrw5Ikg1osVu7aP6Vmt,17,2015,acoustic,0.657,0.562,10,-7.558,1,0.0302,0.488,3.26e-05,0.0919,0.502,114.814,152213,4
+Eddie van der Meer,Everything Has Changed,2n0ERZbx5bIjcgqV95jO4U,9,2016,acoustic,0.477,0.363,6,-7.631,1,0.0346,0.811,0.882,0.111,0.264,83.883,242000,4
+Ethan Loukas,Para Sa Akin,2LLhziONMWgCyvbMRI7Vo8,33,2018,acoustic,0.664,0.279,9,-10.429,1,0.0288,0.899,0.0,0.117,0.424,111.933,204991,5
+Blind Lemon Jefferson,Sad News Blues / Peach Orchard Mama (Untraced Master),7LlxjhwevL8QWxdJSMNVGr,1,2002,acoustic,0.528,0.0828,6,-16.57,1,0.0523,0.98,0.012,0.173,0.428,102.932,175547,4
+YUZU,Ola!!,6FVJc3JnfLvtpEtQC9FuXX,19,2016,acoustic,0.658,0.901,0,-3.136,1,0.0941,0.515,0.0,0.27,0.821,115.047,207534,4
+Joshua Radin,Away We Go,0Xnh4bYTM5XWS6r0vyKWf9,10,2015,acoustic,0.369,0.533,8,-10.51,1,0.0349,0.159,0.202,0.0991,0.387,84.935,202364,4
+Lee DeWyze,Fight,6CZk7ZZgCWXVkkVpneEL2F,26,2013,acoustic,0.602,0.742,7,-6.561,1,0.0377,0.0362,0.0,0.11,0.355,132.023,189773,4
+Frank Turner,Worse Things Happen at Sea - Truck Sessions,4XlA7uxfzq8tikbYTY9u7x,11,2009,acoustic,0.496,0.349,2,-9.663,0,0.0307,0.793,0.0,0.178,0.416,92.269,240573,4
+Mike Massé,Mad World,2KXJ08fYhVnbTQceDJCMK1,16,2016,acoustic,0.365,0.35,3,-10.257,1,0.0367,0.625,0.0,0.25,0.275,173.381,184723,4
+Kris Allen,Lifetime,1HpTAeW8Pk20SvQzkvw5tl,8,2009,acoustic,0.565,0.761,4,-2.792,1,0.0291,0.0215,0.0,0.332,0.338,97.994,218187,4
+The New Amsterdams,Intelligent Design,65wQES5ly2caR0cI1vST8s,7,2006,acoustic,0.319,0.98,11,-4.302,1,0.0967,0.0024,0.734,0.0982,0.127,172.926,81547,4
+El McMeen,Somewhere Over the Rainbow,56xX3I7LiuwJoLQ5cgpctx,0,2002,acoustic,0.287,0.106,9,-22.257,1,0.0428,0.942,0.881,0.111,0.242,100.696,209480,4
+Humming House,Companion,2YrXLDua2iypHAg5X6VRPG,28,2017,acoustic,0.735,0.765,0,-4.863,1,0.0788,0.0832,0.0,0.32,0.582,111.985,172478,4
+Dan Andriano in the Emergency Room,Wait,3JsaordXXtfAO02mqHi0XW,11,2015,acoustic,0.371,0.951,9,-2.31,1,0.0608,0.00108,0.0133,0.155,0.581,138.166,201266,4
+Will Hoge,Ain't How It Used to Be,3hAbrlI4sOugXvyMa8BPmR,28,2022,acoustic,0.536,0.62,4,-7.214,1,0.0392,0.0915,0.0,0.102,0.352,138.069,215061,4
+"Robert Lockwood, Jr.",Mr. Downchild,1U7c3gXAXBsivYA3HMQoVb,15,2000,acoustic,0.644,0.34,2,-13.735,1,0.0453,0.818,0.0886,0.204,0.764,106.364,209333,4
+Keith McInally,Caledonia,067GSaqgqFi51EC4OOiQm8,34,2023,acoustic,0.728,0.239,5,-13.176,1,0.0325,0.887,1.73e-06,0.102,0.355,97.973,259387,4
+Blind Lemon Jefferson,Chock House Blues,5Eq7ekW7f7zJEn9g0RI91I,0,2002,acoustic,0.568,0.0328,0,-15.263,1,0.11,0.994,0.278,0.132,0.59,140.425,161000,3
+Cary Brothers,Ride (EP Mix),7MHBRlspAKrHlibnKPEELq,15,2005,acoustic,0.567,0.569,7,-9.696,1,0.0289,0.14,0.0185,0.0602,0.33,117.957,193707,4
+Whalebone,Follow the River,3dvjp8a2PzUfgrcLhrtpjy,40,2020,acoustic,0.669,0.276,7,-16.888,1,0.0441,0.977,0.95,0.112,0.515,119.914,138162,3
+Chris Proctor,The Bells of the Harbor,7l3xl5JnOeNGDI4OJPVuz8,7,2003,acoustic,0.35,0.179,0,-17.612,1,0.0391,0.943,0.871,0.114,0.185,129.462,258840,4
+Eddy Tyler,Zombie,19CV2Mzx9j5tZBdYqbxdtQ,32,2020,acoustic,0.585,0.4,4,-11.811,0,0.0347,0.832,0.875,0.116,0.197,82.025,300025,4
+Jason Mraz,Wordplay - Live,4XOlzkTd9JkOFI9BJft5zl,12,2006,acoustic,0.403,0.639,7,-7.083,1,0.0505,0.745,0.0,0.952,0.463,94.862,257053,4
+Amos Lee,Arms Of A Woman,37pK088xTo1ZpR3y23wsFk,58,2005,acoustic,0.54,0.0674,9,-13.778,1,0.0368,0.888,0.000382,0.109,0.12,141.988,251440,3
+Sungha Jung,Billie Jean,3YezCaoxbP3aDRDIImvq7G,19,2010,acoustic,0.675,0.261,6,-14.764,0,0.0676,0.851,0.92,0.096,0.948,122.144,218787,4
+Bob Schneider,Brand New Life,47XA0Az78Ncynj08dn0Tqt,2,2002,acoustic,0.626,0.368,1,-9.871,0,0.0415,0.789,3.27e-06,0.165,0.338,89.89,279373,4
+Mother's Daughter,Hollywood's Bleeding,56twDecxsQon61crfEXrA5,30,2019,acoustic,0.654,0.135,6,-10.535,0,0.033,0.938,0.0,0.0983,0.16,100.027,217777,4
+Ray LaMontagne,Beg Steal or Borrow (with The Pariah Dogs) - Live - Fall 2010,6OP15klZXiO2TTPoNVJ9Sl,10,2010,acoustic,0.417,0.748,6,-8.432,1,0.0401,0.329,0.0167,0.95,0.468,149.526,292427,4
+Priscilla Ahn,Leave The Light On,6R63ujc0R1FWlEdTnHt3Pi,23,2008,acoustic,0.685,0.318,0,-11.107,1,0.0299,0.736,0.000699,0.128,0.352,123.88,195707,4
+Little Walter,Make It Alright,1nnMGDzwGPIGMGZ3xWo9w2,11,2009,acoustic,0.629,0.416,7,-15.94,1,0.0352,0.52,0.0,0.147,0.856,121.187,201853,4
+Jason Mraz,It's So Hard to Say Goodbye to Yesterday,3I9oojmw2NH3yCkVtV3DtV,28,2014,acoustic,0.335,0.194,4,-14.157,1,0.0381,0.772,0.0,0.11,0.117,73.7,178600,3
+Kina Grannis,Re: Stacks,3FnLXcAYQtVRflOL6bnT5u,22,2022,acoustic,0.781,0.196,10,-17.31,1,0.0365,0.944,0.0111,0.142,0.429,124.049,311613,4
+Grace George,Heaven - Acoustic,3Re0unscFRNOkwwEGtxhCO,52,2021,acoustic,0.529,0.24,0,-9.066,1,0.037,0.938,0.0,0.0659,0.487,131.266,188182,4
+Frank Turner,I Really Don't Care What You Did on Your Gap Year,4sFpbF5PviboAITY9wjxs6,17,2006,acoustic,0.56,0.297,2,-8.689,1,0.0351,0.361,0.0,0.0874,0.122,119.142,306653,3
+Joseph Sullinger,Ave Maria,01pCI0UmIFomJ2UBd6jlek,19,2010,acoustic,0.518,0.208,7,-16.512,1,0.0625,0.971,0.924,0.113,0.649,141.714,124040,4
+Johnnyswim,Touching Heaven,6qONjN95Wk5zsOs7pY2Kq3,44,2016,acoustic,0.447,0.247,6,-11.988,1,0.0407,0.787,2.29e-06,0.0983,0.198,139.63,298912,4
+Shannon & Keast,Everybody Wants to Rule the World (Acoustic),1ktKMat3w1ZaKgGDJfJxns,10,2023,acoustic,0.593,0.135,5,-14.245,1,0.0336,0.889,1.37e-06,0.111,0.317,114.024,201324,4
+Whalebone,Blackbird,6kxideskC1GJlrOukxwN1c,19,2009,acoustic,0.48,0.333,7,-13.041,1,0.0377,0.862,0.896,0.116,0.459,95.916,141147,4
+Matt Nathanson,Mercy,1BD7yzxTnnGJvQodWbUthE,20,2011,acoustic,0.668,0.894,11,-4.209,0,0.0386,0.00661,1.14e-06,0.0381,0.82,124.015,188533,4
+Liad Abraham,FarAway,1iTF0MncfmzR7uOcz4lAEG,24,2020,acoustic,0.375,0.178,9,-14.468,0,0.0471,0.901,0.929,0.111,0.101,122.51,139739,1
+The Light the Heat,O Come Emmanuel,0KcqFChGjzT7lN4bGkAf0C,19,2018,acoustic,0.321,0.127,1,-15.817,0,0.0344,0.948,1.27e-06,0.117,0.229,101.249,240518,4
+Drew Holcomb & The Neighbors,White Christmas,1rpwKXARQtsJzIUYk98n6r,9,2012,acoustic,0.604,0.322,9,-10.578,1,0.0351,0.829,8.99e-05,0.107,0.356,133.076,260920,4
+Denis Turbide,Havre-aux-maisons,6UoF4Sgnx5HASl2Hlz3Ooq,15,2008,acoustic,0.422,0.415,2,-13.126,1,0.0394,0.929,0.916,0.139,0.633,133.546,127573,4
+Noah Gundersen,FEAR & LOATHING,4EWDyHl0nzXxRQnbFpBW1u,14,2017,acoustic,0.596,0.275,4,-16.679,1,0.044,0.831,0.104,0.112,0.4,119.955,373359,4
+Tony Sly,Therapy,59ORcDb97XV1a51XisN9Di,18,2011,acoustic,0.537,0.327,4,-8.186,1,0.0256,0.85,0.0,0.0927,0.203,148.707,145013,4
+Emerson Hart,Vanity,2BEeM9AGfTN02roswGnNVl,4,2007,acoustic,0.584,0.606,5,-6.681,1,0.0277,0.0501,0.00018,0.114,0.294,143.979,273787,4
+Justin Nozuka,Be Back Soon,02QLwY7cf3G7oA5t9xMvzZ,21,2008,acoustic,0.593,0.567,0,-6.508,1,0.116,0.4,0.0,0.142,0.548,101.884,255400,4
+Justin Nozuka,summer night o8,2yrhCmYZKJHpOFk8OW2rjU,37,2021,acoustic,0.5,0.431,11,-7.982,1,0.0287,0.719,0.000111,0.348,0.247,121.804,203158,4
+Jon Foreman,She Said,1iSTOToqfKJplo51ZFjFY8,26,2015,acoustic,0.465,0.39,2,-11.294,1,0.0297,0.311,0.0,0.149,0.228,82.034,264013,4
+Frank Turner,Get It Right,3vXg8IhuUsbq3aS4XhkTR3,22,2018,acoustic,0.621,0.135,7,-12.672,1,0.0434,0.886,0.0,0.104,0.339,132.129,206480,4
+Johnnyswim,Big Time,43WuM1pfzxEB4rPr9PL5xb,19,2022,acoustic,0.439,0.532,2,-5.071,1,0.0473,0.618,0.0,0.142,0.437,129.936,198137,4
+Acoustic Guitar Collective,"California Dreamin' (From ""Forrest Gump"")",4xQkr7RnchTM2ocP8tcnRI,23,2019,acoustic,0.589,0.0871,9,-19.566,0,0.0411,0.988,0.941,0.114,0.302,104.459,173659,4
+Joe Purdy,Falling Down,6s5GWP3jTBTySoDsOEKWHA,7,2006,acoustic,0.568,0.178,0,-12.108,1,0.0309,0.851,0.0479,0.0824,0.133,117.742,400173,3
+Mark Joseph,Lady Lady,7LlB26a7FPk3jIlkMinYjl,3,2005,acoustic,0.381,0.469,2,-6.917,0,0.0314,0.022,0.0,0.096,0.198,123.893,168013,4
+Lightnin' Hopkins,75 Highway,2CCEbTxXB05FGG2LzWvsHN,4,2004,acoustic,0.7,0.379,4,-10.191,0,0.058,0.962,2.68e-05,0.28,0.65,129.167,255720,3
+Trevor Hall,31 Flavors - Live,04j1RTHkymB6Kk1o0aJo9U,9,2010,acoustic,0.367,0.793,4,-6.357,1,0.0549,0.359,0.0,0.841,0.75,145.976,224973,4
+Beans on Toast,The War on War,7zOAhTjrq2fDBu60wad4AZ,30,2014,acoustic,0.483,0.402,6,-6.806,1,0.13,0.955,0.0,0.0986,0.904,211.156,148467,4
+Andy Davis,Brown Eyes,52aFgffcd9xc6e3Zwk2vlP,6,2004,acoustic,0.673,0.467,6,-8.501,1,0.0263,0.505,1.19e-06,0.116,0.521,114.007,282307,4
+Elgafar,Solitude,6y09dV5IY5YAlITrY1bBP7,21,2018,acoustic,0.381,0.0899,7,-17.798,1,0.0316,0.967,0.904,0.111,0.122,86.807,118447,4
+The Mayries,Look What You Made Me Do - Acoustic Version,63xPatdpN7ThyiWMPmQkYT,28,2018,acoustic,0.721,0.295,9,-13.161,0,0.0494,0.898,0.0,0.129,0.403,115.986,189748,4
+Anna Nalick,Catalyst,0ZOcliEKHOc9WJySWNYfUx,31,2005,acoustic,0.67,0.379,7,-10.162,1,0.0254,0.588,3.56e-06,0.112,0.172,84.019,219133,3
+Ben Rector,Brand New,07m8PuXxxv5J4qPEDq6ZkK,62,2015,acoustic,0.555,0.934,9,-5.04,1,0.113,0.00268,0.0,0.122,0.422,144.874,243933,4
+Dave Barnes,Carry Me Through,4egBbXegJogVto1kZlLspq,34,2008,acoustic,0.643,0.509,2,-7.347,1,0.0627,0.169,0.0,0.116,0.548,129.995,196960,4
+Boyce Avenue,Hello,29t9ak5Hyx3cqLJPjS6YGe,39,2017,acoustic,0.436,0.27,4,-8.087,1,0.0312,0.692,0.0,0.105,0.395,104.299,297615,5
+"AOKI,hayato",5 – 1:17,6xP5YC5d6q5FHxaOs5XOCs,11,2007,acoustic,0.438,0.0921,2,-16.36,1,0.0696,0.992,0.898,0.109,0.092,83.589,83307,4
+Trevor Hall,Obsidian,4O4PkEJ4hescDZAH3eU3BT,37,2014,acoustic,0.476,0.448,8,-11.77,1,0.0263,0.376,0.00015,0.129,0.337,80.002,355499,4
+Matt White Band,Too Many Lovers,16GfF12NAT1duOZ6hAPuXM,4,2006,acoustic,0.611,0.71,6,-9.242,1,0.0445,0.292,1.47e-06,0.0983,0.705,106.093,211987,4
+Steve Petrunak,Always Remember Us This Way (Instrumental Version),0GrA2Jlf7BhnabG2KPGULs,17,2019,acoustic,0.54,0.295,0,-10.797,1,0.0439,0.865,0.885,0.114,0.206,130.037,208332,4
+Marc Broussard,When Will I Let Her Go,0V9bhCXPYvI1UYZqBuEtoy,33,2023,acoustic,0.469,0.828,4,-3.305,0,0.0979,0.0704,0.0,0.115,0.566,186.001,246307,4
+Eddie van der Meer,"Roaring Tides (From ""Clannad"")",7br728dXfFQESiwGHmMIrL,22,2016,acoustic,0.385,0.505,7,-11.604,0,0.0423,0.621,0.894,0.103,0.417,89.977,92000,4
+Meiko,Walk By,64kY4eek0VVWKZoE8y88ew,10,2008,acoustic,0.549,0.544,4,-9.301,0,0.0723,0.288,0.0178,0.153,0.349,169.883,226013,4
+Rachael Yamagata,Collide,2CqPUTO4Rw8WwCeN9OzRaC,13,2003,acoustic,0.653,0.458,4,-9.258,0,0.0269,0.00865,0.00643,0.13,0.178,83.325,302400,4
+Sleepy John Estes,Need More Blues,4x1bAejn8ZLbs0ty4SKyLl,0,2002,acoustic,0.495,0.27,7,-8.604,1,0.0465,0.477,0.00379,0.114,0.32,123.031,274773,4
+Zak Manley,Kiss Me,1nnEOnBgHPVpAAZIkFknzv,54,2019,acoustic,0.663,0.178,9,-12.252,1,0.0532,0.676,0.0,0.279,0.541,82.372,163913,4
+Celestial Conscience,Evening Mood,4UAA8s7tprm4kPegFL8VJt,27,2020,acoustic,0.515,0.243,3,-18.811,1,0.0477,0.984,0.922,0.109,0.442,131.978,133589,4
+Furry Lewis,Introduction - Paer Lee,0p4WP5P6pRn29r8AnWmdl3,7,2023,acoustic,0.466,0.307,11,-18.824,0,0.285,0.903,0.000461,0.96,0.691,138.42,251000,4
+JJ Heller,Only Love Remains,7E3IlQ2qiB1xeN43ykgtIA,17,2006,acoustic,0.425,0.282,1,-8.809,1,0.0357,0.648,0.0,0.184,0.325,138.028,200800,4
+Steve Petrunak,Make It Sweet (Instrumental Version),50sWFRRbPHNz7n7Nt1N93E,24,2019,acoustic,0.447,0.332,7,-11.319,1,0.0334,0.864,0.798,0.0815,0.67,89.9,184111,4
+The Ditty Bops,Unfortunate Few,1hoNrdR7ktn7kmyRGp9fEs,8,2004,acoustic,0.618,0.348,3,-11.118,1,0.0265,0.852,8.32e-05,0.103,0.348,79.02,242160,3
+Anna Nalick,Breathe (2 AM) - Acoustic Version,59oaowtnqLKFs3vikS0Cn9,46,2008,acoustic,0.449,0.399,9,-8.698,1,0.0295,0.747,0.0,0.122,0.613,81.625,256787,4
+Ray LaMontagne,For the Summer (with The Pariah Dogs) - Live From Avatar Studios,0OPr1aPzMXJc0vL1aBdMTZ,10,2011,acoustic,0.505,0.519,5,-7.467,1,0.0295,0.441,5.12e-06,0.103,0.233,146.405,224027,4
+Ingrid Michaelson,Keep Breathing,6Gx5qN7NIVpYuiEYkgKjaz,11,2007,acoustic,0.516,0.309,7,-11.827,1,0.0324,0.745,0.000697,0.118,0.175,125.914,205747,3
+Boyce Avenue,You Were Meant for Me,2dO3NmPNOa4jMVIU0TtfgV,36,2017,acoustic,0.645,0.234,3,-8.275,1,0.0312,0.781,0.0,0.117,0.349,115.456,230336,4
+John Standefer,Our Love Is Here to Stay,38zv5G59gtcJh18fSldx8p,9,2002,acoustic,0.747,0.19,9,-16.738,1,0.0507,0.944,0.448,0.111,0.21,91.444,204933,4
+Over the Rhine,Little Blue River/In The Garden,5pmuyXFNcQYwTw4bAc5JoF,4,2001,acoustic,0.594,0.479,2,-10.604,1,0.0315,0.0164,0.0149,0.0745,0.176,113.083,493760,4
+Masayoshi Yamazaki,ミスペラーズ・オン・ステージ - 2001. 11. 29 沼津市民文化センター大ホール,3zF450AjVmi5O2IXjwjKi3,0,2002,acoustic,0.327,0.222,7,-22.23,1,0.192,0.831,0.0,0.981,0.185,96.905,736827,4
+Drew Holcomb & The Neighbors,Ain't Nobody Got It Easy,0wOJCPfncoTvzu16xu0E5S,22,2015,acoustic,0.779,0.246,4,-12.996,0,0.0302,0.808,0.00136,0.0861,0.499,134.027,227025,4
+Pete Huttlinger,The 25th Day,3bc43pr5dbijk1FNlztxQv,0,2004,acoustic,0.754,0.422,7,-16.127,1,0.0374,0.677,0.878,0.12,0.502,122.0,262880,4
+Jared Hart,The Runaround,5dnmvLGj0ItZ2Zme6TPMc8,14,2015,acoustic,0.651,0.451,7,-8.145,1,0.0294,0.663,5.56e-06,0.0753,0.59,138.077,285493,4
+Jack Savoretti,Breaking the Rules - Live,5mYUZabU9gwz7zQk5wW8ic,40,2017,acoustic,0.344,0.277,1,-10.596,1,0.0448,0.893,2.28e-05,0.878,0.154,139.016,352147,4
+Get Dead,Safe Places,6vlIPDBhaHQVrylB4OOKkt,28,2022,acoustic,0.532,0.714,11,-15.27,0,0.0446,0.00257,0.2,0.408,0.814,119.026,74622,4
+Five For Fighting,California Justice - Live at House of Blues,73j1VvVebf6ZrPz5EH75px,3,2007,acoustic,0.588,0.908,0,-3.66,1,0.036,0.356,0.0,0.88,0.486,130.051,251440,4
+Charley Patton,Dry Spell Blues: Part 1,5ZBxyc1L1Oj70n27yX7bbi,0,2002,acoustic,0.438,0.322,5,-16.448,0,0.0748,0.993,0.358,0.247,0.833,206.152,193427,4
+Matt Johnson,Wonderful Tonight - Acoustic,00eZSR5v41kejTnud5qK1l,26,2021,acoustic,0.336,0.0369,4,-18.192,1,0.0388,0.895,0.0,0.111,0.2,82.36,199661,4
+Ernie Halter,Love In LA,1fTeoRNtIWkQTNN9mw0Gst,2,2005,acoustic,0.444,0.31,8,-13.539,1,0.035,0.323,1.14e-06,0.114,0.609,86.518,241240,4
+Colin & Caroline,Let It Snow,2Hc6wztzYdZU3HK2bjfhJO,19,2014,acoustic,0.545,0.231,10,-11.53,1,0.0515,0.505,0.0,0.12,0.639,66.738,87752,3
+Over the Rhine,Ohio,0QarcmlkR907zpwnZIvSQR,23,2010,acoustic,0.434,0.155,7,-12.994,1,0.0403,0.979,5.43e-06,0.0907,0.208,124.819,313667,3
+Mike Howe,Meet You There,6RVgKIeqQT7kcHYdXhBvP5,13,2010,acoustic,0.529,0.333,7,-19.908,1,0.0391,0.777,0.827,0.269,0.327,81.78,241547,4
+Raining Jane,Love Is a Battlefield,6U0h8IG0EBpU2SiirhLV3m,31,2011,acoustic,0.592,0.264,4,-13.283,0,0.0372,0.265,0.000289,0.11,0.161,150.1,245667,4
+Landon Pigg,Blue Skies,71EAGaxCuLXX9194mOtiG0,18,2009,acoustic,0.421,0.616,4,-6.534,1,0.0276,0.0697,0.0,0.0724,0.408,77.852,224080,4
+Eric Bibb,Goin Down That Road Feelin´ Bad,22vUpe2F8ShNsJK89sg53f,38,2011,acoustic,0.52,0.228,1,-15.683,1,0.0324,0.945,0.18,0.105,0.532,97.471,187440,4
+Jason Reeves,Habits,1RXACNAv2XwWQs4rSfgBXV,11,2016,acoustic,0.619,0.606,0,-6.172,1,0.0431,0.655,0.0,0.0857,0.342,115.991,260060,4
+Marc Broussard,Dreamer,0wZPMFvHYfK2oFCj6T1JcD,33,2023,acoustic,0.636,0.455,5,-8.372,0,0.0371,0.523,0.027,0.119,0.19,127.955,262533,4
+Boyce Avenue,Chasing Cars,3JKLrIrHpbHtDU1oeYtbYD,47,2020,acoustic,0.659,0.331,10,-8.987,1,0.0321,0.809,0.0,0.0996,0.0877,105.01,246980,4
+Peter Bradley Adams,Teresa,0L7FOjcDvx2qYKfAbNXu3y,6,2006,acoustic,0.514,0.588,7,-10.026,1,0.0314,0.652,0.0033,0.12,0.568,87.973,257347,4
+Mike Howe,Big Sky,4KguVHjCeOFeti8P41HD9D,10,2011,acoustic,0.445,0.171,6,-15.634,1,0.0394,0.944,0.865,0.107,0.0744,109.693,186587,4
+Whalebone,The Colour of the Sky,5ou4OILLmoNGi0axpGkRHD,36,2019,acoustic,0.736,0.294,4,-11.3,0,0.0799,0.786,0.89,0.102,0.315,147.933,160433,4
+Steve Petrunak,Lord I Lift Your Name On High,3ZRmhkiCLwUHlAe9DsrQFT,5,2012,acoustic,0.355,0.211,7,-13.338,1,0.0381,0.845,0.838,0.107,0.527,175.148,151301,4
+Eric Bibb,Maggie Campbell,3rQhLQHeYVyck4X8PPKBh7,10,2004,acoustic,0.656,0.447,4,-7.756,1,0.0427,0.861,2.85e-05,0.184,0.331,116.276,176627,4
+Katie Herzig,Jack And Jill,716yAZFYG21LEGY8w1Ctca,30,2006,acoustic,0.653,0.425,2,-7.614,1,0.0424,0.849,0.0,0.149,0.303,131.073,165160,3
+Sue Foley,Mediterranean Breakfast,11FMm2I3emp1NlSx9Nmv2e,35,2000,acoustic,0.634,0.544,4,-11.59,0,0.0438,0.736,0.871,0.159,0.393,129.479,269200,4
+Anna Nalick,Kiss Them For Me,2KuKNXLB4TRKLETLsv7pWQ,8,2011,acoustic,0.56,0.444,5,-9.472,1,0.0252,0.0272,3.75e-06,0.235,0.181,100.039,245479,4
+JJ Heller,Tomorrow,4eHUt5nwJfqPs9sFvMxApP,26,2022,acoustic,0.407,0.148,2,-8.757,1,0.0315,0.884,0.0,0.109,0.354,138.715,165825,4
+Hem,ROLL STOP,4PxZ0MuTvAhMA4m8iA0eFS,0,2001,acoustic,0.465,0.654,4,-15.542,0,0.49,0.0246,0.00479,0.666,0.299,164.775,310000,5
+Guus Dielissen,Hold On (Instrumental Guitar),0yxHod0FL7710UacXMQA2y,41,2021,acoustic,0.539,0.223,1,-16.999,0,0.0366,0.952,0.92,0.107,0.379,135.925,178178,4
+Humming House,Sign Me Up,4C5FmpPrm5eserucKW2rpR,8,2017,acoustic,0.669,0.858,7,-4.991,1,0.0679,0.0517,0.0,0.233,0.589,119.138,172720,4
+David Gray,Birds Without Wings,4G1jYqyi0Ipi9rcW6jD9cH,7,2001,acoustic,0.415,0.278,7,-9.942,1,0.0306,0.379,1.16e-06,0.12,0.285,142.975,289467,3
+Lee DeWyze,Where You Lie,05xDUtQU4GpKNp1EqvtF7m,2,2010,acoustic,0.624,0.489,10,-7.225,1,0.025,0.831,2.89e-06,0.095,0.286,130.046,248627,4
+Blind Lemon Jefferson,Rabbit Foot Blues,5EQB9fLW4HgoriPF1QeZSr,0,2001,acoustic,0.46,0.403,3,-12.369,1,0.0414,0.564,0.0,0.186,0.468,94.016,176401,4
+Sue Foley,Let My Tears Fall Down,7GykS7rFofe7ZHkXgkpr7t,5,2000,acoustic,0.469,0.291,9,-11.005,0,0.0297,0.674,0.0,0.205,0.315,111.345,192200,3
+NEEDTOBREATHE,Banks - Live From Bridgestone Arena,360I3zPMhrUfdzHaT8Mf5t,28,2022,acoustic,0.424,0.488,7,-8.753,1,0.0632,0.516,5.94e-05,0.592,0.253,142.554,401104,4
+NEEDTOBREATHE,State I'm In,3L8dg4YZ9tUDYBvBbHJ1hm,32,2014,acoustic,0.513,0.935,2,-4.272,1,0.0698,0.123,0.00104,0.187,0.307,123.996,199587,4
+The Weepies,Dating a Porn Star,1UFSH6EcsMRaig1DL3xEGo,19,2003,acoustic,0.461,0.196,0,-12.487,1,0.0337,0.614,0.0,0.118,0.187,109.659,244663,3
+Florez,You Know Me,5rAOwWPUjE9B05hhy0W29K,0,2005,acoustic,0.538,0.889,11,-5.792,0,0.0604,0.0213,1.56e-06,0.103,0.763,77.009,297227,4
+Tyler Hilton,Ain't No Fooling Me,7gTlotTALVlotOmamlhOMn,11,2013,acoustic,0.436,0.821,11,-4.141,1,0.0314,0.00721,0.00036,0.0978,0.431,77.974,228838,4
+Tony Sly,Hey God,7bqc7MY1t3DdJzLPu6FW4j,18,2011,acoustic,0.539,0.503,7,-6.15,1,0.0261,0.64,0.0,0.321,0.583,92.467,123800,4
+She/Her/hers,Gender Is Boring,6bwTLoNvUPS3sdDb0zwhPa,37,2018,acoustic,0.634,0.456,7,-5.6,1,0.0529,0.812,0.0,0.113,0.35,108.411,187164,4
+Sandra McCracken,We Will Feast in the House of Zion (Live),2mI3hwUW7Iljln75I4Dkot,16,2017,acoustic,0.463,0.628,5,-10.744,1,0.154,0.469,0.0,0.0895,0.368,137.883,397227,4
+Steve Petrunak,Animals,3cw8MFvp3k5sOLfCTqV5B3,30,2014,acoustic,0.58,0.482,4,-9.683,0,0.0427,0.979,0.9,0.184,0.448,94.983,228577,4
+Jason Reeves,When Life Was Good - Acoustic Version,0BbfwQao8HO3qaN2yirxHZ,6,2009,acoustic,0.609,0.284,5,-9.294,1,0.0369,0.747,0.0,0.111,0.395,123.615,284880,4
+Greg Laswell,Out Of Line,7r51BhgfEZYgBszCc2hS4W,13,2016,acoustic,0.242,0.41,0,-9.664,0,0.0315,0.00395,0.0,0.166,0.0889,127.759,230880,4
+Ingrid Michaelson,Somebody That I Used To Know,7nSEpcz01jTLlEhmADcAO2,8,2013,acoustic,0.795,0.665,0,-5.177,0,0.0418,0.429,6.49e-05,0.0799,0.923,129.005,244241,4
+August Flendahl,After the Rain,3G2UqAoT802XxgBNNgNrq4,31,2019,acoustic,0.489,0.165,9,-14.893,1,0.0603,0.94,0.891,0.133,0.299,162.238,148787,3
+Trevor Hall,Fire On Your House,7AYvZwW5W3beUA6mLO8MKe,36,2020,acoustic,0.737,0.633,11,-6.845,0,0.0337,0.0383,0.000138,0.2,0.279,115.011,224711,4
+Joe Purdy,Meteor City,4ryLRSZnkOLlClaeyKL3QI,7,2006,acoustic,0.485,0.299,0,-11.497,1,0.0285,0.455,0.0192,0.106,0.304,72.383,390160,4
+Amber Leigh Irish,Bruises - Acoustic,31HY6cfCJwa03qWJSUzAto,43,2019,acoustic,0.782,0.365,11,-9.154,1,0.0616,0.88,0.0,0.293,0.395,112.058,173843,4
+Jürgen Saalmann,Melody To Dream,5RtVBXniyBNqcMJLlwZ5zf,15,2014,acoustic,0.592,0.0704,9,-19.217,1,0.0421,0.965,0.843,0.104,0.22,140.441,218013,3
+Gen Hoshino,Gag,1qr5ewvJ25GNZ84K5R94z8,20,2013,acoustic,0.431,0.898,0,-4.445,1,0.0446,0.0114,0.0,0.131,0.616,163.023,282124,4
+Mat Kearney,Heartbeat,2NECH8o0PDzujirUFh8fRH,34,2015,acoustic,0.707,0.748,0,-6.211,1,0.0385,0.111,5.89e-06,0.143,0.727,116.011,218707,4
+Harley Poe,Monsters,0AQbrJodpQCabOlqTWCFcr,17,2022,acoustic,0.347,0.408,4,-9.302,0,0.0279,0.794,8.73e-05,0.119,0.246,173.984,275392,3
+Hem,A Hunting We Will Go,5vrH2QvkOdFe1btra0G8LH,9,2004,acoustic,0.341,0.153,2,-14.859,1,0.0304,0.852,0.065,0.205,0.202,94.311,257200,3
+Superstitions Of The Sky,Things Said in Passing,3HC0y3HfZKToBe4HU5p2Qv,1,2003,acoustic,0.347,0.515,2,-6.31,1,0.0309,0.706,0.000483,0.117,0.142,106.608,284813,4
+Edy Hafler,Baby Can I Hold You - Instrumental,0xDWWuPkhZ4ZBzN8rNGLyL,41,2021,acoustic,0.564,0.141,5,-15.729,1,0.0834,0.991,0.957,0.12,0.471,138.343,195854,4
+Ingrid Michaelson,"Happy, Happy Christmas",769Li3KU3TcnWxKvVjkl7e,16,2018,acoustic,0.185,0.234,7,-10.1,1,0.0315,0.914,5.86e-06,0.0978,0.209,75.326,205413,1
+Drew Holcomb,Hung the Moon,7Hgn6MVuZTVHL17KlBsoSa,42,2021,acoustic,0.428,0.309,0,-6.888,1,0.0296,0.706,0.000287,0.11,0.35,141.088,190613,4
+Pigeon Pit,Tether,73j8B6yX7Vo4WSCl11ehYa,23,2022,acoustic,0.591,0.4,7,-5.026,1,0.0325,0.494,0.0,0.0846,0.624,126.73,157133,4
+Kate York,Wished For Song,2YyTgnmUTo0TEZaG57CEBs,0,2004,acoustic,0.645,0.683,4,-7.45,1,0.0272,0.255,2.9e-05,0.103,0.77,122.995,190960,4
+Blind Boy Fuller,Somebody's been talkin',1Ao7XEQlXVTo0N1GMmfLEZ,1,2000,acoustic,0.538,0.484,11,-11.452,1,0.0755,0.948,0.795,0.218,0.745,89.359,168587,4
+Ohashi Trio,Be there - feat. BONNIE PINK,4o0rNqArDwOU0Cv5l3pC01,21,2023,acoustic,0.506,0.553,2,-6.921,1,0.0451,0.746,0.0,0.124,0.6,199.903,279034,4
+Champion Jack Dupree,No Future,7hr0lPmbwXGmHQzvjTMWgB,0,2000,acoustic,0.482,0.25,7,-16.846,1,0.0443,0.393,0.0844,0.181,0.502,176.136,268333,3
+Penny and Sparrow,Gumshoe,37o5VbRPNd8vINvJsFBV9d,29,2019,acoustic,0.499,0.126,11,-13.069,1,0.0353,0.828,0.000141,0.103,0.139,98.507,160853,4
+Whalebone,Nebraska,3N1BsheGQsTvcvgevbq6Vs,22,2020,acoustic,0.369,0.325,2,-14.037,1,0.0392,0.923,0.889,0.0999,0.502,146.988,194588,4
+David Ramirez,Coast to Coast,3676ZFFcaeQgvr2VlLtIGk,17,2020,acoustic,0.58,0.561,6,-5.407,0,0.0329,0.182,0.000328,0.409,0.513,139.988,212200,4
+Zach Gill,Poseidon's Navel,69xI0kHkZVKQmvWoHLAin0,8,2008,acoustic,0.588,0.595,0,-7.595,1,0.0242,0.154,0.00424,0.111,0.247,84.639,177013,4
+Get Dead,Disruption,1jrwECJavqR0V9u0MRrDgO,32,2020,acoustic,0.391,0.789,6,-7.966,0,0.12,0.00429,0.0,0.0817,0.373,97.03,216170,4
+Peter Bradley Adams,Feather in Her Crown,0MyAMxCVXic64vn7dkWASu,11,2014,acoustic,0.641,0.389,2,-12.938,0,0.0309,0.756,0.753,0.119,0.634,125.029,239413,4
+Augustana,American Heartbreak,2YAPwPQm1Qx6yzxmH8QWYe,9,2014,acoustic,0.451,0.383,9,-7.415,0,0.0254,0.836,0.0,0.122,0.315,77.088,238079,4
+Son&Dad,Little Bird,2qzMzXobaMKPTgRr1ukemi,0,2023,acoustic,0.52,0.237,3,-11.223,1,0.0295,0.85,0.0,0.116,0.412,95.043,170613,4
+Chuck Ragan,"The Fire, the Steel, the Tread",17ICfTpcwpXIrrBZU4pYjh,13,2013,acoustic,0.491,0.636,4,-10.513,0,0.0308,0.398,5.38e-06,0.343,0.531,157.026,209059,4
+Tyler Hilton,Slide,5v09mT5PzjtoIEyWZKADFy,0,2003,acoustic,0.652,0.869,10,-5.339,1,0.0324,0.00124,8.19e-05,0.125,0.876,124.838,220680,4
+Mindy Smith,On Top Of The World,5OYgDe2XmM5gBFf2j9Y9nZ,14,2015,acoustic,0.458,0.504,3,-11.587,1,0.035,0.572,0.00255,0.0926,0.491,159.914,199133,4
+Zee Avi,Kantoi,4lWTmfcJM1Y9qbq3jdC5WN,37,2009,acoustic,0.78,0.254,2,-10.213,0,0.263,0.971,0.0,0.0859,0.73,113.426,104720,1
+JJ Heller,Small,6OVPlj8LHszmdEQGrmK4pB,14,2007,acoustic,0.503,0.294,0,-7.77,1,0.033,0.509,0.0,0.14,0.296,74.377,199973,4
+Josh Garrels,Always Be,2YRY4VhW7g1kDCt3nAdTR0,29,2015,acoustic,0.485,0.734,5,-8.625,1,0.0596,0.534,0.457,0.0867,0.213,168.008,206520,4
+Matt Nathanson,Pictures,7e8UMxG50XQJR9sRArHPt3,29,2022,acoustic,0.639,0.504,4,-8.627,1,0.0372,0.589,9.88e-05,0.13,0.699,129.936,164920,4
+Filip Nordin,Dancing on my own - Acoustic Covers Versions of Popular Songs,1PjTwCePwCvas5wYJuk2KC,1,2023,acoustic,0.868,0.25,1,-7.027,1,0.0357,0.781,0.0,0.132,0.448,105.089,164571,4
+Robert Johnson,32-20 Blues - SA.2616-2,0Q4ubt0dvVtMcAYwAul0Nl,29,2011,acoustic,0.658,0.182,4,-15.001,0,0.0855,0.946,0.0,0.366,0.742,92.455,170280,4
+TJ McCloud,Take Me As I Am,7oxFZJQt675sglA7GVG9tp,0,2003,acoustic,0.344,0.669,8,-7.899,1,0.0303,0.421,0.0,0.134,0.752,81.647,222733,4
+Mat Kearney,Head Or Your Heart,1n1PcWOnnpQHdOlR0CtuSv,20,2011,acoustic,0.485,0.815,4,-8.895,1,0.0511,0.252,0.277,0.114,0.37,149.087,206333,4
+Dave Barnes,Big Ole Love,2i2ifLGv9NBaMLhCSRF6eM,27,2018,acoustic,0.623,0.753,4,-5.371,1,0.0402,0.119,1.27e-05,0.161,0.713,75.99,230808,4
+Corey Harris,Didn't My Lord Deliver Daniel?,3cKF77FOEV9VuTAiLKT0Ta,2,2000,acoustic,0.692,0.24,4,-11.226,1,0.0479,0.862,0.000151,0.225,0.795,127.385,152933,4
+Sybarite,Identity #2,4WZWeMf0zdlTYppMFVEg1c,0,2001,acoustic,0.491,0.984,5,-7.33,1,0.0472,0.000579,0.133,0.145,0.815,123.955,334813,4
+Jonah Baker,Apologize / Sorry,0rFLHzGU6nJ0jRcIoc0jJc,34,2021,acoustic,0.378,0.207,2,-13.829,1,0.0525,0.937,0.0,0.105,0.246,84.602,172949,4
+The Sunshine,I Get Around,74pP2L3WLf5kzjEUuJgPuJ,0,2005,acoustic,0.54,0.87,9,-5.023,1,0.0427,0.000154,0.0,0.205,0.785,140.926,225040,4
+Aidan Hawken,Walking Blind,5mdjfBsyzl78NQI4sI4IzR,41,2013,acoustic,0.374,0.183,9,-13.225,1,0.0281,0.897,0.0387,0.109,0.134,82.042,201440,4
+Holy Locust,Houses of Fire,3EMsFUjaG51Q2HUZUMixKG,21,2018,acoustic,0.378,0.533,7,-11.425,0,0.0693,0.31,8.11e-06,0.0765,0.704,72.865,258292,4
+NEEDTOBREATHE,NO EXCUSES,3o1OKJvEN5nAnhnHhUnbCx,36,2016,acoustic,0.665,0.314,7,-10.455,0,0.0322,0.8,1.89e-05,0.108,0.207,114.929,165240,3
+Not Half Bad,Thin Crust,3PrbpRxjEExirv7hYZhiph,10,2013,acoustic,0.521,0.986,0,-4.426,1,0.0668,7.04e-05,0.136,0.171,0.409,106.924,149867,4
+Eden Brent,Goodnight Moon,2WHazbY0LlKTwnBUXSGhaT,14,2010,acoustic,0.477,0.174,7,-11.08,1,0.0303,0.938,0.0921,0.118,0.214,73.172,223133,4
+Ingrid Michaelson,(I'll Be Glad When You're Dead) You Rascal You,7rHQbNnI14PTA1HIOM03zp,12,2014,acoustic,0.558,0.741,7,-8.096,0,0.0271,0.0643,0.00062,0.504,0.518,143.038,141440,4
+AJJ,Powerplant,3RtwckMpHZALSHlmql7Wsy,15,2011,acoustic,0.647,0.623,0,-8.272,1,0.0693,0.206,0.0,0.642,0.365,105.5,114147,4
+Griffin House,Only If You Need Me,443G9Qw6hals6iVOwcandV,10,2007,acoustic,0.598,0.49,11,-10.176,1,0.0312,0.025,0.0155,0.136,0.185,86.355,159000,3
+Louisiana Red,Louisiana Blues,46cPflTTgci9J7mdmHAtRb,4,2005,acoustic,0.614,0.289,0,-16.418,1,0.0726,0.886,0.242,0.367,0.583,124.611,329973,4
+Hem,Lazy Eye - Live,0E9uNufMgcvS1EibNfUBLU,3,2006,acoustic,0.501,0.224,7,-12.858,1,0.0293,0.828,0.000774,0.143,0.43,94.386,154000,4
+Pedals On Our Pirate Ships,Reinventing Bryan Adams,0AQ5mCJArbQvg1QtAJx7lo,9,2011,acoustic,0.596,0.937,9,-2.8,1,0.0798,0.0951,0.0,0.445,0.819,106.181,133733,4
+Ron Pope,Porch Light,0BdA7DGIjchRAd1MzFVOSY,11,2010,acoustic,0.454,0.379,5,-7.889,1,0.0383,0.853,3.39e-06,0.612,0.329,103.761,269763,3
+Casper Esmann,The Odyssey,0yHYKQQCXyosmIPcnCWomb,28,2019,acoustic,0.252,0.291,2,-16.362,1,0.0391,0.694,0.951,0.105,0.146,78.662,223424,4
+Charley Patton,You're Gonna Need Somebody When You Die,0e8WaXczAOR2OcjGgDXdka,0,2002,acoustic,0.645,0.241,7,-16.621,0,0.331,0.99,0.00431,0.131,0.554,97.686,172440,4
+Joseph Sullinger,We've Only Just Begun (Instrumental),2HkDCYLa8Yks29CuE1BlGo,40,2022,acoustic,0.749,0.256,9,-15.015,1,0.105,0.982,0.91,0.111,0.605,79.656,132930,4
+Harley Poe,The Worms Crawl In,3pBLHNsdMuqUTLRtcXXgNZ,16,2012,acoustic,0.413,0.515,0,-4.632,0,0.0467,0.339,0.0,0.0796,0.546,203.533,165000,3
+El McMeen,Morgan Magan,41KTPHjONDgbHFFo9TrR3J,11,2011,acoustic,0.366,0.428,4,-10.081,1,0.0415,0.743,0.913,0.193,0.799,164.206,117838,4
+Josh Kelley,You Are The Woman - Original Version,4ErwIx7qArM1SGUApG3nyx,7,2005,acoustic,0.693,0.636,2,-5.747,1,0.0287,0.159,0.0,0.272,0.925,118.514,156400,4
+Hem,Tennessee Waltz - Live,24vrnHnweeUNXfetWJQvuu,7,2006,acoustic,0.438,0.371,6,-9.681,1,0.0426,0.78,0.00493,0.968,0.466,95.175,166760,3
+Whalebone,Romeo and Juliet,3r5IfH15FKrLiu8IhpBgK3,31,2018,acoustic,0.455,0.47,2,-10.168,1,0.0322,0.73,0.905,0.186,0.629,167.844,203368,4
+Magic Sam,"I Don't Want No Woman, Pt. 1",6l427UKDX4U5SMa0gZwu0l,0,2002,acoustic,0.476,0.659,4,-9.744,1,0.0579,0.726,9.78e-05,0.348,0.937,124.911,214569,4
+Penny and Sparrow,Over-Under-Lude,03iaGG9uEpXSvfKHzyeFNb,30,2022,acoustic,0.536,0.674,5,-9.692,1,0.224,0.674,1.35e-05,0.302,0.491,135.711,97509,4
+Devin Davis,Transcendental Sports Anthem,2GMui0WzewFAJZpVkTWNdV,1,2005,acoustic,0.37,0.916,6,-8.868,1,0.0937,0.0147,0.0,0.91,0.606,135.359,228707,4
+Stephen Kellogg and The Sixers,Maria,3YhRLqSNQvfZuHFL7QIoVM,8,2005,acoustic,0.623,0.899,9,-4.668,0,0.0765,0.0605,0.0,0.0801,0.696,136.011,253773,4
+Ramshackle Glory,Homeward Bound,6oHgxVZCwqcBVE47YKEHKJ,19,2016,acoustic,0.497,0.542,9,-7.962,0,0.0321,0.00739,7.25e-06,0.377,0.731,128.154,154840,4
+Joshua Radin,Here We Go,00UQdhlXMdDmQX7IAVHQIi,6,2010,acoustic,0.593,0.839,11,-5.838,1,0.0401,0.00845,0.00403,0.0951,0.243,127.914,240293,4
+Slim Harpo,I'm A King Bee - Single Version,1brLf2EOVKyxgeEHOxVBxZ,14,2003,acoustic,0.729,0.257,5,-14.438,1,0.0329,0.964,0.0465,0.127,0.945,112.261,183360,4
+Beyond The Guitar,"Zelda's Lullaby (From ""The Legend of Zelda: Twilight Princess"")",2ZJGWLHpewzbxPNgiQN6jf,22,2018,acoustic,0.501,0.0397,7,-20.842,1,0.0881,0.976,0.929,0.0995,0.127,90.029,133516,3
+Nora & Will,Big Yellow Taxi (Acoustic),4Q8tqm45ywADimlsmdWhf7,45,2022,acoustic,0.7,0.146,4,-12.801,1,0.043,0.935,0.0,0.0883,0.539,115.785,191948,5
+Haruna Yokota,あなたがいるから,2Uj9QUZn74s0DFeVx6urCA,12,2010,acoustic,0.604,0.351,3,-6.164,1,0.0281,0.799,0.0,0.0922,0.14,101.888,308240,3
+Matt Nathanson,Type / Erase,2DQzhUS1oiO69a2TTzTsLl,25,2022,acoustic,0.665,0.734,9,-7.351,1,0.0596,0.369,1.02e-06,0.335,0.748,159.954,229000,4
+Gail Blanco,Looking Through the Eyes of Love,1WOIs9BvsLoNv4eUnurR1Q,38,2013,acoustic,0.538,0.37,10,-8.519,1,0.0274,0.883,3.09e-05,0.0903,0.246,71.988,251747,4
+Billy-Joe,Wood & Wires,0J9fpBRz4FJ6JeOOCOTDxC,32,2022,acoustic,0.579,0.118,1,-16.388,1,0.0436,0.893,0.943,0.111,0.301,140.307,209288,4
+August Flendahl,Waterfall,0kUvYvrYM7xJnnJJFwNW1r,40,2022,acoustic,0.559,0.0839,4,-15.855,1,0.0747,0.973,0.927,0.0966,0.225,159.135,147434,4
+Corporate Hearts,The Shreds,0UDwfyZ7j7A25DAeXj05qU,16,2014,acoustic,0.354,0.592,8,-8.166,1,0.0313,0.206,0.0,0.145,0.5,104.259,286500,4
+Patty Griffin,Dear Old Friend,5g7fNzhtGiqSWlQxQuIJvU,9,2004,acoustic,0.388,0.0802,6,-12.103,1,0.0368,0.956,0.0,0.35,0.391,136.694,195667,4
+Over the Rhine,Fever,1iDhg8mLxGlBLKlJTvZWeL,2,2002,acoustic,0.588,0.198,4,-12.59,0,0.031,0.911,1.11e-05,0.0805,0.324,89.937,218253,4
+Nora & Will,Pumped up Kicks (Acoustic),1J96OoQgl1NQGyMQb4dGze,4,2023,acoustic,0.608,0.236,4,-11.214,1,0.04,0.853,0.0,0.137,0.345,120.858,181750,4
+Sugarplum Fairies,Void,6HBGZQHu1LJAinSoBIp01L,0,2003,acoustic,0.624,0.239,9,-12.36,1,0.0324,0.864,0.000119,0.0948,0.379,114.895,186533,4
+Florez,All's Well,1AHwha6BHTfpE76MOyicgM,1,2005,acoustic,0.545,0.869,9,-3.512,1,0.0363,0.0114,0.0,0.266,0.785,99.033,148960,4
+Ron Pope,Texas Wildflower Honey,7wKx3Vih8FI8jvODQvttgy,30,2018,acoustic,0.64,0.365,7,-8.417,1,0.0349,0.296,0.000118,0.114,0.227,122.131,301364,3
+Ichiko Aoba,Parfum d'étoiles,1LBtQ5Ce1Oo3UHdfMEQ72n,56,2020,acoustic,0.391,0.0658,9,-25.156,1,0.0358,0.942,0.87,0.147,0.223,77.919,172723,3
+Ray LaMontagne,Burn,3ESjXFvI5GUNFoCCg30u5s,40,2004,acoustic,0.52,0.113,0,-14.894,1,0.0417,0.893,0.0,0.11,0.202,99.539,171640,3
+Ben Rector,Jingle Bells,4KgcQVEWVidFXNW4KmATv0,8,2009,acoustic,0.508,0.756,7,-5.645,1,0.0589,0.623,0.0,0.939,0.673,82.434,179667,4
+Patty Griffin,Crying Over,44XUmH3C7iZiEaeBGBjKEA,16,2007,acoustic,0.428,0.247,7,-8.404,1,0.0317,0.652,0.000239,0.0943,0.422,108.181,277533,3
+NEEDTOBREATHE,Solomon's Ashes - B-Side,6jD0vPIy9xNqbHNbdchEHi,23,2012,acoustic,0.386,0.958,9,-3.384,1,0.0631,0.0107,0.00241,0.127,0.419,187.999,201680,4
+Joy Williams,By Surprise,4pJFTfkfdwb6dapZYWuFGW,10,2002,acoustic,0.706,0.923,7,-3.388,1,0.0303,0.0177,0.0,0.123,0.924,119.874,229733,4
+Mr. Plow,MR. PLOW - Piggy,2qd1AJkOzgtXLKrKuFVhiC,0,2005,acoustic,0.607,0.873,11,-5.957,0,0.155,0.00109,3.54e-05,0.411,0.485,103.746,70080,4
+Lily Frost,Marigold,5Wh7mK0bb7zvlHcJh2DkjY,0,2001,acoustic,0.455,0.484,5,-7.937,1,0.0306,0.122,0.000404,0.336,0.184,118.751,245280,4
+Erin McCarley,What I Needed,2XliH3CK8MJrnpChahc4Mj,16,2012,acoustic,0.682,0.344,1,-7.52,0,0.0292,0.566,7.92e-06,0.112,0.26,97.001,218240,3
+Harley Poe,Whiny Bitch,6ONQ2wKKkjxIUygJbBe7ph,26,2020,acoustic,0.495,0.811,9,-3.1,1,0.0411,0.534,0.000286,0.136,0.9,173.56,272100,4
+Future Of Forestry,On Giant's Shoulders,2LNM2uh13zSHpN7aGgS5QL,25,2016,acoustic,0.462,0.499,2,-13.677,1,0.0624,0.0402,0.00188,0.171,0.117,119.009,262732,4
+Blackbird Raum,Whitebled,6BbvrAkmh6SL56oNLLF10W,12,2015,acoustic,0.26,0.872,0,-3.831,0,0.0836,0.581,0.0854,0.108,0.22,99.702,375307,4
+I Am Kloot,Dark Star - Remastered,5bheqToFfgWuIVhOaDYr3K,15,2000,acoustic,0.583,0.547,7,-8.278,0,0.0339,0.517,3.94e-06,0.145,0.441,115.262,142267,4
+Human Kitten,I Still Don't Want to Be Sad,6340P8HzW6iyzRqbp1jehI,17,2014,acoustic,0.708,0.234,0,-10.171,1,0.084,0.612,0.0,0.119,0.603,82.647,104463,3
+Skip James,22-20 Blues,6ixUR1F2S8GxuB4O36KJne,0,2000,acoustic,0.463,0.253,10,-15.219,1,0.0357,0.986,0.0151,0.198,0.59,81.326,172800,4
+JJ Heller,If You Fall (Bonus Track),3ZDKzHaBAt4mZZB44M2sCX,10,2013,acoustic,0.384,0.21,7,-11.184,1,0.0306,0.874,3.28e-05,0.0937,0.19,73.445,254891,3
+Mysha Didi,Breakeven - Acoustic,2sjhInOE1P5NzuVBUHaQpg,28,2023,acoustic,0.701,0.117,10,-13.08,1,0.0469,0.918,0.0,0.102,0.28,139.706,147345,4
+Corporate Hearts,Drinking Glass Self,5cHntyoYNSkQUHrc1LQ7De,24,2011,acoustic,0.362,0.667,6,-5.338,0,0.05,0.303,0.0,0.0893,0.626,78.757,135576,4
+Matt Johnson,Yesterday - Candlelight Acoustic,7wUH2JBP9AfkoDUwRdh28x,39,2018,acoustic,0.588,0.0714,1,-14.9,1,0.0401,0.867,0.0,0.109,0.358,149.739,158129,4
+Joe Purdy,Runaway Children,5SBwp35bcmfUARC6SsKINr,6,2001,acoustic,0.524,0.135,6,-17.475,1,0.0415,0.952,0.0181,0.109,0.593,121.087,324947,4
+Blind Boy Fuller,(I got a woman crazy for me) She's funny that way,0EcE1Yg03NGj6MjPytZnN7,0,2000,acoustic,0.586,0.359,6,-13.066,0,0.0476,0.993,0.805,0.146,0.755,181.258,192520,4
+Eric Hutchinson,Alcatraz,0549jqJFwJOyZ64O0Ncsnk,14,2016,acoustic,0.671,0.845,7,-4.922,1,0.0334,0.0169,1.98e-06,0.151,0.574,92.987,216573,4
+Joshua Hyslop,Carry On,55TuBe6FbcTt9S25nfU2g0,26,2022,acoustic,0.489,0.381,11,-8.362,1,0.0277,0.469,0.0203,0.131,0.281,139.038,261760,4
+Kina Grannis,In Your Arms,52UUUJnBvaEX4LtEbtJgUI,33,2010,acoustic,0.672,0.396,2,-9.489,0,0.0349,0.474,0.0,0.0921,0.458,130.015,184960,4
+Steve Moakler,Born Ready,2fgEiNITWlsSXM7BavUAi7,25,2018,acoustic,0.714,0.655,2,-6.451,1,0.0308,0.0207,0.002,0.11,0.459,103.968,218693,4
+Mississippi John Hurt,Talkin' Casey,2l4XbnhiHRn1NYdBxiRwiP,11,2009,acoustic,0.423,0.271,8,-14.515,1,0.0374,0.885,0.172,0.721,0.134,90.676,291693,4
+Inara George,Fools in Love,2TeZB9SugFYVFiFWDSyWFK,35,2005,acoustic,0.448,0.207,9,-13.0,0,0.03,0.917,0.00307,0.115,0.339,144.418,282160,3
+Iron & Wine,Miss Bottom of the Hill,35khQ8DbrQ318WSNWqBvtH,15,2017,acoustic,0.76,0.421,2,-11.681,1,0.0372,0.167,3.48e-06,0.234,0.847,120.018,410482,4
+Andy Davis,Please Turn Red,6Y4gzLUwo8Sk9kTi8rX6M5,3,2004,acoustic,0.348,0.316,2,-9.108,1,0.0326,0.607,2.43e-06,0.104,0.277,207.805,269147,3
+Whalebone,Hola Weg,7znMGAPXZPB6LSX5vqSpaj,30,2021,acoustic,0.676,0.427,4,-14.38,1,0.043,0.962,0.967,0.102,0.387,108.069,141035,4
+Kina Grannis,Riptide,09HuxT0xOOKUu1ZowiQSI4,29,2017,acoustic,0.382,0.274,3,-12.407,1,0.0358,0.827,1.38e-05,0.129,0.334,166.738,215481,4
+David Berkeley,Fire Sign,1yAg0QZIsJ5HeykqeCDhAB,8,2003,acoustic,0.486,0.203,5,-13.728,1,0.0355,0.924,9.25e-05,0.11,0.324,129.571,268373,4
+Simon Samaeng,Cold,37JptJg0KDRjjv2oRB0WZ3,44,2019,acoustic,0.611,0.451,9,-9.759,0,0.0345,0.788,0.0,0.32,0.74,127.656,205137,5
+Five For Fighting,Nobody - Live at House of Blues,1Y37Z5WsFlFiumR1YGY4Az,2,2007,acoustic,0.458,0.838,2,-3.38,1,0.0527,0.406,0.0,0.956,0.355,80.975,311333,4
+Drew Holcomb & The Neighbors,Postcard Memories,2mfnNIegMtXIJhNTyuxGVF,28,2017,acoustic,0.614,0.347,0,-12.97,1,0.0577,0.595,9.27e-05,0.0677,0.235,83.919,209594,4
+Blame Jones,Love At First Sight - Acoustic,2WqTeBwSH6buPazP3GNFjY,32,2018,acoustic,0.719,0.172,2,-6.676,0,0.03,0.956,0.0,0.133,0.394,104.931,136458,4
+The Ditty Bops,Breeze Black Night,3jvJSB3sgqXtKGHqfCdorx,8,2004,acoustic,0.652,0.373,6,-12.197,0,0.0295,0.811,0.0695,0.0934,0.113,128.199,179760,4
+Boyce Avenue,Give a Little Bit,3Dm3Y5vA3le4n0UYZ7pv26,38,2017,acoustic,0.53,0.466,1,-4.695,1,0.0267,0.381,0.0,0.102,0.417,94.001,218175,4
+Sara Bareilles,Little Voice,6bbmyaEU6k26teJfCsIKNb,30,2020,acoustic,0.321,0.208,7,-7.583,1,0.0328,0.89,0.000221,0.099,0.134,203.518,264267,4
+Patty Griffin,Made of the Sun,4wfalObaaYsyKF2DGfp7IB,13,2015,acoustic,0.326,0.319,3,-11.634,1,0.0301,0.649,9.56e-05,0.0657,0.349,166.986,235573,4
+Amos Lee,Stranger,5npSXM1AYA6NDfDopMQzre,13,2013,acoustic,0.479,0.883,11,-5.143,1,0.0434,0.00324,0.000181,0.337,0.627,160.018,229375,4
+Lead Belly,Midnight Special,7jUQi6pMXTO9bh0UMD6hSn,3,2005,acoustic,0.636,0.371,10,-8.539,1,0.0531,0.898,0.0481,0.102,0.903,98.339,125893,4
+Jenny & Tyler,Abide,6KCgptqZJV0wec6LATUUcK,10,2012,acoustic,0.639,0.25,1,-12.341,1,0.0338,0.361,2.43e-06,0.0885,0.139,116.015,284307,3
+Mance Lipscomb,Trouble in Mind - Version; Take 1; Remastered,6f8XvSvMAQV3FwowgAcgt4,11,2003,acoustic,0.575,0.126,10,-22.133,0,0.0459,0.938,0.000226,0.11,0.666,136.838,189467,4
+Green River Ordinance,Tallahassee,56IU0nuwzC9IKvVuOy1seD,12,2016,acoustic,0.459,0.865,4,-4.815,1,0.0595,0.193,7.76e-06,0.325,0.48,147.926,270973,4
+Patty Griffin,Icicles,1yY99z2xop8wdZc8XtWfLb,14,2004,acoustic,0.542,0.0385,11,-12.879,1,0.0346,0.883,4.89e-05,0.103,0.105,84.115,198560,4
+A Fine Frenzy,Ashes And Wine,1l9Q5NyhsyodDzIrdtJ6Ub,34,2007,acoustic,0.528,0.494,8,-8.262,1,0.0329,0.128,9.81e-06,0.379,0.201,140.153,260493,4
+Gabrielle Aplin,Miss You - Nick Talos Remix,2qCxI72SE4TLqMg28FklvH,29,2017,acoustic,0.73,0.774,9,-6.012,1,0.0303,0.163,1.94e-05,0.0965,0.311,122.016,205813,4
+NEEDTOBREATHE,I Wanna Remember (feat. Carrie Underwood) - R3HAB Remix,2qiHL4Fr48VywjkOO21Yv8,36,2021,acoustic,0.482,0.768,9,-3.888,1,0.063,0.153,0.0,0.313,0.209,103.344,195146,4
+Burlap To Cashmere,Hey Man,3zFQcxkm6GwS5fgWnj5vWw,11,2011,acoustic,0.615,0.46,9,-12.031,1,0.031,0.562,6.8e-05,0.0953,0.643,82.885,170507,4
+Tony Sandate,We Three Kings,6wqS56035FqQ3ou6TQYcyD,1,2005,acoustic,0.51,0.216,4,-14.985,0,0.0711,0.993,0.937,0.107,0.207,131.063,224133,3
+Just Nick,Bad Dudes,3DNggkxaSQllqUCxoxgtZy,23,2014,acoustic,0.597,0.413,0,-5.54,0,0.0403,0.438,0.0,0.33,0.678,123.2,116428,4
+Mozella,Uh-Uh,4jPydJ9k3CgPuwV6D690tr,4,2009,acoustic,0.522,0.787,1,-4.087,1,0.0333,0.042,0.0,0.0998,0.811,207.881,201613,4
+Zee Avi,Poppy,1bHbvSmwUMv2cnD7dTYyq9,25,2009,acoustic,0.846,0.319,11,-10.969,1,0.0951,0.809,0.0,0.14,0.553,111.957,187400,4
+Frank Turner,To Absent Friend,5KhMyT5NORPs4erS9O01DM,14,2011,acoustic,0.449,0.951,4,-4.272,1,0.0867,0.000784,0.0,0.0851,0.799,90.465,179267,4
+Tim Halperin,Warpath,4XX5oHIHxvfHjFZJXI3mP3,36,2017,acoustic,0.447,0.725,7,-6.18,0,0.0955,0.177,1.51e-05,0.0962,0.263,89.381,205333,4
+Chris Smither,Outside Inside,3qaUNSwKi8MJzQWha4zLDg,9,2023,acoustic,0.665,0.315,2,-10.818,1,0.0243,0.307,9.05e-06,0.312,0.392,81.7,206240,4
+Adam Christopher,Iris - Acoustic,0fUB9bwvKLRpOB18YZHz5N,52,2019,acoustic,0.589,0.249,2,-10.086,1,0.0329,0.717,0.0,0.106,0.363,150.096,184200,3
+Chris Smither,Link Of Chain,16N2lpCidTNYdNq2YZhE98,35,2000,acoustic,0.445,0.471,6,-8.831,1,0.0322,0.883,0.0695,0.697,0.128,146.957,290090,4
+J-Que Beenz,Bodak Yellow,4NP1uXIqS5dEbxpEIELNP8,16,2017,acoustic,0.614,0.376,5,-6.923,1,0.0408,0.778,0.0,0.114,0.585,106.357,152783,4
+Gabe Dixon,Everything's OK,7cLmQCWDYWRx18Q2khs1Vf,5,2002,acoustic,0.521,0.621,9,-6.46,1,0.0597,0.32,0.000532,0.158,0.651,93.753,180813,4
+Corey Harris,There's No Substitute For Love,6BT0AfneqH7EoSUwlg3y6W,1,2000,acoustic,0.622,0.57,5,-9.315,0,0.0252,0.899,0.000678,0.232,0.753,103.084,253800,4
+Days N Daze,Little Blue Pills,6ec5d99OJsyhSG0VMA1oV9,26,2019,acoustic,0.61,0.592,5,-5.482,1,0.0331,0.555,1.18e-05,0.119,0.782,106.949,151118,4
+Mat Kearney,Chasing The Light,3f8mv3hRpFGzWab5QS33DS,28,2011,acoustic,0.603,0.927,1,-4.719,1,0.037,0.0347,0.000961,0.0962,0.694,89.01,266840,4
+Suy Galvez,Baby Now That I Found You,7EtwVYpdklyfCsxYpXbYeW,27,2016,acoustic,0.702,0.523,2,-7.093,1,0.0245,0.869,0.000229,0.169,0.457,107.979,244760,4
+Junior Kimbrough,Release Me,6PSma9xvYhGabJNrbUAE4e,22,2002,acoustic,0.596,0.532,9,-10.372,1,0.0264,0.844,0.00811,0.118,0.42,73.697,321293,4
+Joshua James,Daniel,4p4HHIjYml6EtFE5VuekXO,11,2009,acoustic,0.491,0.324,5,-9.895,1,0.0324,0.114,1.57e-05,0.0794,0.0798,135.965,303586,4
+Ron Pope,Tightrope,7Js3fr7pitL3uNAv3Hl2rs,28,2011,acoustic,0.568,0.474,11,-7.024,0,0.0269,0.225,0.0,0.111,0.358,135.931,267320,4
+Meiko,Stuck On You - Acoustic Version,7dmebDsjpig9JmuozZK39T,6,2013,acoustic,0.522,0.528,2,-6.715,1,0.0338,0.657,0.0,0.204,0.56,98.75,167653,4
+Charlotte Martin,Bones,43QGQ3g90GE1pOv9eNdxMA,12,2005,acoustic,0.451,0.197,1,-10.254,1,0.0312,0.976,0.00637,0.0945,0.109,116.928,236413,4
+Jürg Kindle,Abukenke,1IlVUX8QjAOvnIrh6sdl4Z,0,2000,acoustic,0.308,0.141,7,-27.731,1,0.0487,0.969,0.939,0.0984,0.509,93.915,299428,3
+Bo Carter,You're Biscuits Are Big Enough for Me,74RPP6NBcr74YiwZ46OAEt,8,2012,acoustic,0.666,0.392,9,-8.822,0,0.0466,0.92,0.0,0.203,0.75,91.107,127303,4
+Josh Ritter,Open Doors,6jDLoICoNRyhclI9rDBY4z,17,2007,acoustic,0.708,0.717,1,-8.436,1,0.0402,0.0195,0.0,0.129,0.706,142.06,155907,4
+The New Amsterdams,Your Red Hand (Killed),1GZpikhiodyFhenH9fcHMm,3,2006,acoustic,0.418,0.536,0,-9.23,1,0.035,0.269,3.95e-06,0.108,0.421,203.947,143680,4
+Edy Hafler,Every Breath You Take,2Ytr84dF32QKkeFcwVD5Vn,27,2021,acoustic,0.423,0.222,4,-17.283,1,0.0597,0.978,0.938,0.11,0.379,94.271,205392,4
+Ben Rector,The Beat - Live,2WpY4C1Y6EwnyaJMxkKw5I,16,2014,acoustic,0.69,0.588,0,-9.871,1,0.0577,0.0839,3.6e-05,0.494,0.5,117.026,390960,4
+Noah Gundersen,The First Song,2KwnvEB1omQ5abI3xtpVnP,10,2008,acoustic,0.301,0.143,7,-13.27,1,0.0347,0.604,3.49e-06,0.125,0.263,90.55,293615,4
+Ramshackle Glory,Into the Wind,3UQECX8CQbFWEyLUKmKXpl,17,2016,acoustic,0.381,0.327,0,-8.263,1,0.0297,0.000369,6.54e-05,0.376,0.166,125.148,134747,3
+Noah Gundersen,David,2HMzl1Lgj0fjfFRaC93cB2,38,2011,acoustic,0.396,0.631,4,-8.783,0,0.042,0.637,0.000471,0.186,0.495,125.988,219027,4
+Slim Harpo,Little Queen Bee (Got A Brand New King) - Single Version,3bXlSjNSPvGlZVWLuTQznu,16,2003,acoustic,0.582,0.362,5,-13.073,1,0.0317,0.87,0.0142,0.111,0.792,67.898,158333,4
+Naotaro Moriyama,恋しくて - オーケストラバージョン,4KkFODv9EcO32oir7cnSd7,18,2006,acoustic,0.527,0.396,10,-7.778,1,0.0285,0.832,0.0,0.109,0.31,80.005,333613,4
+Jenny & Tyler,Song for You,6PGx58cvd3Ywycho35d1BI,12,2010,acoustic,0.548,0.61,0,-6.546,1,0.0377,0.0243,0.0,0.106,0.256,126.964,289693,3
+Sybarite,Second Cities,3CqaZjmvmGwhrT9F5XFC9Y,0,2001,acoustic,0.578,0.554,5,-12.034,0,0.0419,0.137,0.945,0.177,0.634,174.013,284400,4
+Andrew Keeping,All the Things You Are,4jPRheK4DvurxiMgkjpeb2,18,2015,acoustic,0.487,0.0131,7,-26.529,1,0.0575,0.99,0.952,0.102,0.163,138.559,152199,4
+Son House,Dry Spell Blues Parti,7liO5klpssjcGRVYW3Yb9h,1,2000,acoustic,0.543,0.256,5,-18.505,0,0.0878,0.994,0.0786,0.231,0.709,106.433,191321,4
+Stephen Speaks,Feet Wet,5GVuQzpB2x0b4stf6Jbtgv,11,2001,acoustic,0.561,0.897,4,-5.566,1,0.0427,0.0113,0.00316,0.244,0.668,123.039,165880,4
+NEEDTOBREATHE,WAITING,3mxITxLXFAVdQI4NaX8OwU,26,2017,acoustic,0.46,0.798,7,-5.855,0,0.0495,0.0103,0.00116,0.109,0.419,105.983,201173,4
+Adam Werner,Prelude to a New Beginning,4Y7ifGro18R1lfx0oUVbl7,13,2017,acoustic,0.527,0.0789,4,-17.842,0,0.0695,0.939,0.975,0.102,0.232,73.44,103640,4
+Aoi Teshima,明日への手紙(ドラマバージョン),3eQvJHeGhhl5GVLWLQUEnK,39,2016,acoustic,0.553,0.315,9,-9.918,1,0.0279,0.792,0.000208,0.0913,0.339,75.98,318427,4
+Joy Williams,Front Porch,5sVyefkGgQeYCgnqr4KslQ,61,2019,acoustic,0.567,0.224,1,-10.024,1,0.0299,0.887,0.0,0.109,0.2,124.44,231813,4
+We The Heathens,Rah Goes the Dragon,1h4NsZKddBHEAi09TMTEwi,7,2014,acoustic,0.372,0.63,3,-3.693,1,0.0542,0.642,1.22e-06,0.352,0.431,92.472,214500,4
+Green River Ordinance,Healing Touch,6Bcum8r3AsDLl4XnliOnPt,11,2012,acoustic,0.439,0.565,9,-6.02,1,0.0284,0.218,0.0,0.305,0.423,160.083,207613,4
+Tyrone Wells,Gravity,3EHUVlLwpKQQY1huXafm8c,21,2015,acoustic,0.559,0.914,11,-4.918,1,0.0696,0.0186,0.0,0.354,0.753,158.062,198933,4
+AJJ,I Wanna Be Your Dog 2,6Szewr1rvRbiTTMK7mfAQe,35,2021,acoustic,0.48,0.396,11,-7.913,1,0.0256,0.039,0.103,0.0912,0.441,76.058,169844,4
+Jeff Wahl,Sledding,2oN1BmSAro4vXHG6yhXULK,6,2009,acoustic,0.521,0.41,7,-14.027,1,0.0283,0.904,0.934,0.125,0.733,101.999,111987,4
+Dylan Ryche,Nevermore,3QI21lNpgGFW5FSeJuViNP,22,2018,acoustic,0.475,0.221,5,-16.514,1,0.0422,0.822,0.837,0.102,0.203,111.475,93659,4
+Jason Mraz,At Last/ Sleep All Day,3CAE5IACqVRPQRCxsl1qFs,22,2008,acoustic,0.562,0.377,11,-11.475,0,0.0791,0.79,0.0,0.703,0.512,104.695,425733,4
+I Can Make A Mess,The Kindler Burns,5tHCQc0vXrt4dTFl4t3Rsf,4,2004,acoustic,0.351,0.36,6,-8.361,1,0.0259,0.346,0.00613,0.11,0.155,82.722,173813,4
+Northern State,Better Already,0V4uF4RpKNaQEN4XtRAwna,6,2007,acoustic,0.664,0.671,11,-5.95,0,0.0342,0.000195,0.00859,0.0431,0.839,131.017,177679,4
+Tony Sandate,Away In A Manger,44lfB2hoX6vP4ZnVWzqtF0,0,2005,acoustic,0.66,0.0422,2,-15.504,1,0.0832,0.967,0.54,0.118,0.293,99.045,303933,4
+Will Moore,Someone You Loved,4eNFKsG45HSE7HP9v2NOW3,30,2019,acoustic,0.582,0.518,1,-8.822,1,0.0375,0.959,0.781,0.102,0.216,109.941,182602,4
+Joe McMahon,Filter,5Q09PHs3fMbBAK6UTfsRGU,8,2010,acoustic,0.574,0.648,2,-4.277,1,0.0364,0.889,0.0406,0.143,0.457,86.599,119080,4
+Alan Shoesmith,Luminous Sunrise,3QziF9UZALA1RzFHnzbzpj,24,2023,acoustic,0.631,0.0656,9,-23.139,1,0.0543,0.995,0.91,0.109,0.44,103.851,126000,4
+Amos Lee,Hold You,1cXhJOnf6n1Ed7kbdFd4hq,31,2022,acoustic,0.39,0.292,11,-10.387,1,0.0309,0.859,7.48e-05,0.0824,0.17,150.089,282507,3
+Trevor Gordon Hall,The Presence of Absence,1irB4qAJA2xV95FRBLL54R,17,2021,acoustic,0.443,0.0644,11,-21.136,0,0.0818,0.986,0.939,0.0949,0.224,113.516,269707,4
+Trevor Hall,Uncle Jo,4LSv86RsxMZi2NxANhRi27,33,2015,acoustic,0.639,0.399,4,-9.814,1,0.0811,0.486,8.3e-05,0.338,0.469,75.006,255333,4
+Josh Ritter,Bonfire,2RUIE0tg4YwMbbKaOC9Wjk,15,2013,acoustic,0.565,0.684,4,-8.459,1,0.0348,0.63,0.0243,0.256,0.492,110.532,171249,4
+Blackbird Raum,William,3ZenIwWk3VbrE54PsoS6jr,9,2009,acoustic,0.543,0.839,9,-4.012,0,0.0876,0.473,0.0,0.353,0.93,175.745,138947,4
+Days N Daze,Rockabilly Impending Deathfuture,17tUYjvHadbPFZCTAaJAve,28,2013,acoustic,0.32,0.638,2,-12.533,0,0.0948,0.229,2.64e-06,0.219,0.655,194.286,155037,4
+Madi Diaz,Rage,5y8oIgPoa6Nd2rWa623gM3,25,2021,acoustic,0.514,0.111,0,-14.545,1,0.0527,0.887,0.0,0.105,0.131,118.371,109267,3
+Lusaint,American Boy - Acoustic,7FpUrxbnixnQ8yT4pLJEzG,35,2017,acoustic,0.674,0.32,2,-8.615,0,0.057,0.684,0.0,0.117,0.358,103.096,159206,4
+Thomas Daniel,drivers license,66V40iz2mphPbYvuJVj13i,53,2021,acoustic,0.439,0.217,2,-13.166,1,0.0413,0.933,0.0,0.126,0.373,144.413,246345,4
+Son House,Walking Blues,5vCMLGO9pMnXgOUCpL3IZ9,13,2013,acoustic,0.646,0.359,11,-11.163,1,0.0606,0.94,0.000641,0.118,0.634,111.779,395157,4
+Donovan Woods,Next Year,5nnIvP82ykJuI60Bov5n3f,32,2018,acoustic,0.552,0.22,5,-15.332,1,0.0504,0.302,1.32e-05,0.102,0.513,77.747,257742,4
+Five For Fighting,Nowhere,6JJFUkGHvijGcbdpLYsXnN,10,2010,acoustic,0.511,0.719,5,-5.578,1,0.0339,0.15,0.0,0.105,0.587,176.059,370033,4
+Ichiko Aoba,hikari no furusato - remastered,6aob3cx3ppWNti336wNCpr,15,2012,acoustic,0.434,0.0498,3,-18.884,1,0.04,0.99,0.163,0.082,0.18,69.868,192145,4
+Joseph Sullinger,The Sound of Silence,0IHE30guMa90mZetZHVbuf,36,2018,acoustic,0.528,0.154,11,-20.521,0,0.0904,0.982,0.881,0.101,0.409,94.091,184022,4
+Eric Bibb,Gratitude,2xupPOAR22A6jZ39CtCAAe,3,2000,acoustic,0.548,0.137,5,-18.531,1,0.0373,0.852,0.0101,0.0961,0.55,147.346,185853,4
+Dave Barnes,Wildflower,6WmLBlA7pfYOhIF3sRIujN,23,2016,acoustic,0.446,0.444,2,-7.389,1,0.0283,0.463,0.0,0.131,0.169,139.816,271387,4
+Sara Bareilles,Love Song,4E6cwWJWZw2zWf7VFbH7wf,71,2007,acoustic,0.583,0.786,2,-3.142,0,0.0301,0.0208,0.0,0.188,0.573,123.055,258827,4
+Burlap To Cashmere,Love Reclaims the Atmosphere,6sDyEtZi9sN3h76lGN4i8A,18,2011,acoustic,0.413,0.179,7,-17.927,1,0.0334,0.874,0.000618,0.121,0.227,82.88,223643,3
+Ken Verheecke,Short Walk,7jCKpJxCcmJ4gROskri41R,0,2004,acoustic,0.406,0.292,2,-14.656,1,0.0475,0.665,0.705,0.101,0.274,142.247,147094,1
+Ichiko Aoba,少女と檻 - remastered,7rkkxyWO2siwG9RB4QQmvT,31,2011,acoustic,0.379,0.057,10,-17.186,1,0.0401,0.985,0.000369,0.0814,0.281,139.958,46532,3
+Boyce Avenue,7 Days,4XwpDJTssLYR1wW3EtwFoM,39,2017,acoustic,0.674,0.631,3,-7.91,0,0.0633,0.616,0.0,0.0988,0.705,83.042,224182,4
+Jonah Baker,Lonely - Acoustic,7JK2FP8droKUPwqzAHE8QY,28,2020,acoustic,0.524,0.142,10,-11.904,0,0.0501,0.947,0.0,0.1,0.358,80.264,167808,4
+Ghost Mice,"Oh Me, Oh Me",3LV9POj9vwpbpSBOqwNVQ7,14,2014,acoustic,0.526,0.226,0,-6.804,1,0.0517,0.403,0.0,0.304,0.268,106.159,117916,4
+Gen Hoshino,Ranshi,2Tg1VOIfnI1w6GZDf7owty,14,2012,acoustic,0.766,0.544,0,-7.942,1,0.0396,0.719,0.0035,0.104,0.87,115.193,208594,4
+AJJ,Truckers Are the Blood,2wlASSZRepwQo10jLrQlE4,24,2009,acoustic,0.459,0.542,7,-6.325,1,0.0336,0.0936,0.0306,0.145,0.319,112.756,181867,5
+Hannah Trigwell,I Will Wait,585rg0DJTRfKYFfj307jZz,15,2012,acoustic,0.347,0.254,5,-9.448,1,0.0324,0.861,0.0,0.392,0.136,120.005,202647,4
+Keith McInally,Fields Of Gold,4v4HIYAB9Vh8j8Gwf9ZNCf,0,2023,acoustic,0.534,0.18,1,-12.943,1,0.0332,0.885,0.00147,0.11,0.0995,82.811,239601,4
+NEEDTOBREATHE,Forever on Your Side - Live From Bridgestone Arena,7nisZjYBbfOd5thLKl7aAG,28,2022,acoustic,0.495,0.903,10,-4.553,1,0.0599,0.033,3.34e-06,0.478,0.325,114.054,204732,4
+Joy Williams,Unafraid,1dGEWzU3rOhhCTLzyBF60d,5,2005,acoustic,0.49,0.826,8,-4.85,1,0.0301,0.0279,0.0,0.0973,0.364,89.97,215947,4
+Brett Dennen,See the World,0YPX6ztcWM4QTbR9tpnHNB,52,2021,acoustic,0.616,0.638,7,-7.981,1,0.0334,0.0245,3.59e-05,0.296,0.507,89.989,257893,4
+Mascott,Worry on Smith,5ECiYh50VM5WU8CoD1qhz1,0,2003,acoustic,0.52,0.578,7,-7.488,1,0.0263,0.000537,0.195,0.103,0.346,130.548,244320,4
+Mat Kearney,Blame,01LnShF8Cwg72L5g4FLEhD,24,2021,acoustic,0.551,0.623,2,-8.542,1,0.0263,0.316,5.92e-05,0.113,0.267,98.041,197440,4
+Ben Woodward,I Ain't Worried (Acoustic),71ebwhC63HAnYiORDIKo63,23,2023,acoustic,0.788,0.293,8,-11.87,1,0.209,0.822,0.0,0.136,0.629,145.925,121783,4
+Virginia Coalition,Come And Go,7MtGh0jpadDBsyX8G4DoL6,4,2004,acoustic,0.439,0.809,3,-4.004,1,0.0427,0.388,0.0,0.243,0.682,176.036,242693,4
+Justin Nozuka,Moonlight,38Owsrgt8OejWKvMMJbcY5,12,2015,acoustic,0.482,0.123,7,-16.527,1,0.0418,0.748,0.0,0.18,0.255,134.3,182020,4
+JJ Heller,A Mother Like You,4Vnbh54MMkRf2uZXcON3Av,43,2019,acoustic,0.489,0.141,10,-9.965,1,0.0313,0.951,2.31e-06,0.156,0.506,135.181,234813,3
+Frank Turner,The Sand In The Gears - Live,1yWXGzQy3k7souxVXWz1AL,13,2017,acoustic,0.404,0.476,7,-12.45,1,0.0485,0.494,0.0,0.416,0.478,134.948,243791,4
+David Mead,Standing Here In Front Of Me,1JwJOBgsL3sswYGOkval5Z,1,2001,acoustic,0.633,0.618,4,-7.572,1,0.0225,0.387,0.0072,0.132,0.339,92.069,202027,4
+Joe Purdy,Last Clock On the Wall,3flR8MHKQ3R74oZvbFvDh2,5,2009,acoustic,0.317,0.462,9,-11.549,1,0.0312,0.692,0.0551,0.0723,0.393,78.656,390147,3
+Peter Bradley Adams,New Orleans,2clsBo9hHe78GvUacvXPmc,16,2014,acoustic,0.568,0.395,2,-10.608,1,0.0283,0.539,0.000209,0.135,0.283,139.916,205867,3
+Steve Petrunak,Drunk Girl (Instrumental Version),7y3sT5pTIzjjRcaE3sZyg2,24,2019,acoustic,0.595,0.305,0,-13.702,1,0.0431,0.945,0.887,0.0974,0.437,102.037,201572,4
+NEEDTOBREATHE,Moving On,2dX5AwxnkxE0UOU1HxwL4P,7,2013,acoustic,0.368,0.816,9,-2.575,1,0.036,0.0767,6.05e-06,0.0732,0.538,177.669,189107,4
+David Gray,Lorelei,0um3NzuubLO57YjRdCjYC7,3,2002,acoustic,0.604,0.314,4,-11.715,1,0.0289,0.259,0.00101,0.27,0.16,99.986,200333,4
+Hem,Cincinnatti Traveler,0AtUnnnzi9zB1JEMz66EVZ,9,2004,acoustic,0.3,0.184,7,-16.157,1,0.0349,0.927,0.00273,0.19,0.533,128.123,62373,4
+Sylvie Lewis,By Heart,00u6y0yV1Ya6cBhaUSjL9Q,12,2003,acoustic,0.566,0.252,6,-12.482,1,0.0331,0.885,0.0158,0.0794,0.422,129.898,154267,4
+John Frusciante,Lever Pulled,0kQNc5bCZqRWCl2Ex2rxqN,25,2005,acoustic,0.31,0.149,5,-13.845,0,0.0361,0.811,5.99e-06,0.133,0.186,146.695,142107,4
+Masayoshi Yamazaki,カルテ - 2001. 12. 22 宇和町文化会館,337hUpRUoHy1qpMIPQFBhZ,0,2002,acoustic,0.479,0.882,9,-6.304,0,0.105,0.107,0.299,0.311,0.345,99.048,469160,4
+Panucci's Pizza,You know when the Trojans got that horse and they were all Yeah this is totally a gift Thats how sure I am,2QPZZs4cDEbxFHPY7MbYV3,31,2014,acoustic,0.521,0.593,9,-6.949,1,0.0439,0.401,0.00639,0.0862,0.199,83.618,179700,4
+Ernie Halter,Love Look At Me Now,6pefUnbpx1XhtUYvTFbEuN,2,2007,acoustic,0.696,0.527,10,-5.988,1,0.0343,0.513,0.0,0.138,0.591,117.049,180787,4
+AJJ,brainbody.mp4,08Dbr5GQhI7zmfOg6YtlIE,15,2018,acoustic,0.328,0.851,9,-7.523,1,0.0419,0.684,1.71e-06,0.13,0.548,134.594,120360,4
+Matt White Band,Bitch Song,2D0Mzc8QqUumnbCsE176jF,2,2006,acoustic,0.669,0.832,7,-6.585,1,0.0274,0.133,6.96e-05,0.116,0.716,104.002,213293,4
+Daniel Robinson,How Long Will I Love You (Piano Version),7xIfkdyatsFusFokZhKunX,14,2023,acoustic,0.516,0.185,5,-12.962,1,0.0651,0.951,0.0,0.0933,0.43,118.781,148591,4
+Tamio Okuda,KYAISUIYOKUMASTER,60wqqAILPweaMNgG784GT2,14,2008,acoustic,0.462,0.937,8,-5.423,1,0.0598,0.0138,0.0028,0.117,0.47,137.373,394827,4
+Frank Turner,You Are My Sunshine,3mZIW3MdYLO5yqOHiIyRpL,3,2006,acoustic,0.252,0.279,4,-15.997,1,0.0356,0.939,0.0568,0.112,0.187,157.479,261627,4
+Gabrielle Aplin,Miss You - Mark McCabe Remix,1lEcCxY73ZomysaqFCTYTU,17,2017,acoustic,0.688,0.718,9,-5.735,1,0.0254,0.191,8.41e-06,0.0624,0.419,104.992,177815,4
+Joshua Hyslop,Falling,2swnibByEKTxUqg3o70FgK,21,2016,acoustic,0.522,0.273,0,-13.56,1,0.0339,0.738,0.0298,0.138,0.214,76.036,224520,4
+Sungha Jung,On a Brisk Day,2OY7hLnrlYnYSeHko4dsut,13,2013,acoustic,0.645,0.623,4,-5.405,1,0.0362,0.361,0.351,0.107,0.447,119.94,267067,4
+Covers Culture,You're Not Sorry - Acoustic Covers Versions of Popular Songs,2JPetpIElWHY2gpUt8ptYG,1,2023,acoustic,0.582,0.181,10,-11.294,0,0.0386,0.821,0.0,0.237,0.172,133.431,149784,4
+Tristan Prettyman,Second Chance,60VmcKKcOAlexnYRiz46uq,13,2012,acoustic,0.529,0.628,10,-8.281,1,0.0479,0.0453,1.67e-05,0.139,0.309,179.91,213133,4
+Tristan Prettyman,Breathe,1lYOYP8oyVF4n3r3IESnUR,14,2005,acoustic,0.735,0.561,4,-6.325,0,0.024,0.595,0.00844,0.0911,0.408,102.508,193453,4
+Trent Dabbs,Goes Without Saying,6m7tOPE5RL83XHhVP3tzfQ,19,2015,acoustic,0.687,0.208,7,-16.595,1,0.0563,0.665,0.274,0.107,0.26,152.025,171733,4
+Nik Davies,Wonderland,6BoVd4CsCvEACBpPJZuFAu,21,2019,acoustic,0.454,0.194,6,-13.474,0,0.0688,0.903,0.884,0.101,0.132,120.167,154568,4
+Iron & Wine,"Flightless Bird, American Mouth - Wedding Version",6iw32k0OUKHildYsQTRnVB,44,2011,acoustic,0.245,0.242,4,-12.963,1,0.0318,0.965,0.00833,0.271,0.138,135.714,267120,3
+Howie Day,Collide - Chris Lord-Alge Mix aka Radio Edit,10tMVFMvd9224Zcq4A5dRL,48,2003,acoustic,0.56,0.761,11,-7.407,1,0.0321,0.264,4.38e-06,0.123,0.514,93.982,247707,4
+Steve Petrunak,All to Myself (Instrumental Version),2FyH876zrtu0hIXoiA4UkU,24,2019,acoustic,0.618,0.214,1,-12.559,1,0.0465,0.934,0.913,0.114,0.618,95.103,168565,4
+Josh Ritter,Snow Is Gone (Hello Starling; Live),77SaghBl5rdvrgA3WGif5P,5,2008,acoustic,0.414,0.873,8,-4.492,1,0.0389,0.0135,0.021,0.939,0.386,122.048,254486,4
+Mat Kearney,Times Like This,5NucO12BR2K4r3EPmobpQj,33,2022,acoustic,0.663,0.732,9,-6.886,1,0.0418,0.167,0.000115,0.216,0.672,95.984,167173,4
+Kazuyoshi Saito,キャンディ,609tSEOEiBh9irsZjjloUN,10,2007,acoustic,0.587,0.155,8,-12.949,0,0.0453,0.834,1.76e-06,0.11,0.451,131.217,211600,4
+Son&Dad,Counting Stars,34NflIYpHSnLw5eBacZPnQ,0,2023,acoustic,0.685,0.5,4,-6.705,0,0.0282,0.458,0.0,0.331,0.596,99.984,212400,4
+Chord Overstreet,Homeland,7AWKPOhCIHxetMXujii1KT,35,2016,acoustic,0.49,0.456,8,-9.767,1,0.0447,0.0156,0.0,0.0825,0.405,154.805,222400,4
+Mike Howe,I Can See for Miles,0APmUnsNUbVO1LtMkbHwXo,9,2013,acoustic,0.549,0.152,9,-23.394,0,0.0496,0.958,0.874,0.0873,0.187,97.132,255760,4
+Eric Bibb,Delta Getaway,5suBKFfUnbSDujh14lmxT0,23,2017,acoustic,0.778,0.281,7,-12.993,1,0.0491,0.874,0.00823,0.106,0.781,99.304,158067,4
+Charley Patton,That's My Man,0mcHY9naL105ThoOuCIUG6,1,2002,acoustic,0.531,0.152,7,-17.145,1,0.0558,0.99,0.778,0.179,0.49,100.157,221200,4
+Shikao Suga,春夏秋冬,6ORosSCX0EWztynDoU7WR9,25,2007,acoustic,0.553,0.448,4,-7.901,1,0.0301,0.0858,0.000177,0.254,0.301,142.092,283427,4
+Madi Diaz,The Other Side,31UwcIW9i9Qi9kweUyC1dn,15,2014,acoustic,0.6,0.372,7,-9.111,1,0.0319,0.0558,0.391,0.109,0.0639,106.148,231000,4
+Jenny & Tyler,Anchored in Love,4YBudif9PrFK2wZbBIMWQO,7,2010,acoustic,0.631,0.279,2,-9.634,1,0.0343,0.411,0.0,0.0558,0.237,131.571,200080,3
+40 Fingers,Wish You Were Here,1Sr7rQh2ESE4DHaYWlQsZY,22,2022,acoustic,0.65,0.33,7,-11.584,1,0.0422,0.958,0.923,0.108,0.339,123.682,234938,4
+Jack Savoretti,Tie Me Down,4KFGqxnLu1wtw5S8hvV40P,28,2015,acoustic,0.609,0.837,1,-6.803,0,0.0513,0.0639,0.0,0.377,0.561,118.046,181441,4
+John Frusciante,Crowded,2woQJFE8Qq3KrFN8bzsUKO,17,2014,acoustic,0.651,0.742,2,-7.986,1,0.0793,0.0277,0.0797,0.0971,0.344,79.855,227884,4
+Dirty Schazmann,Everything you know is wrong,3pe8fj3kgMLtxUlYL3B3io,0,2001,acoustic,0.637,0.721,9,-6.234,0,0.03,0.364,0.0,0.124,0.188,111.101,167400,4
+Amos Lee,Sweet Pea,6vgO12oksjbXlpEJhlpfIm,17,2015,acoustic,0.443,0.938,10,-2.369,1,0.176,0.246,0.0,0.706,0.37,126.535,142213,4
+Patty Griffin,10 Million Miles,3hp4an0aAtetutEV9NTUVN,13,2003,acoustic,0.488,0.136,1,-14.667,1,0.121,0.916,0.0,0.733,0.528,121.972,193827,3
+Kazuyoshi Saito,空に星が綺麗,6gwvfTRthofSfEdHtEVyLH,31,2010,acoustic,0.592,0.624,11,-8.387,0,0.0326,0.85,0.0,0.707,0.588,117.162,166533,4
+Jon Bryant,I Shall Not Fear,4WiVNOO9P1OHzspfd6UhVD,47,2020,acoustic,0.468,0.214,11,-12.448,0,0.0311,0.912,7.99e-05,0.103,0.287,129.631,209098,3
+Joe Brooks,Kaleidoscope,3u3osxaiw0X4UVUP6XDrmW,13,2010,acoustic,0.488,0.604,0,-7.691,1,0.0517,0.234,0.0,0.108,0.479,155.856,257787,4
+Matt Nathanson,I Hope That Something Better Comes Along,3z1FnebPRNO6YrIzbHiDg5,19,2011,acoustic,0.418,0.211,5,-13.36,1,0.0624,0.934,0.000579,0.11,0.198,141.286,162827,3
+Penny and Sparrow,We've Got Something (OurVinyl Sessions),5AmvLrRIaj2TSzBKBs3XuB,20,2020,acoustic,0.484,0.105,5,-16.063,1,0.0341,0.856,0.00125,0.0817,0.244,115.896,211264,4
+Hem,All That I'm Good For,1TIvsdZJ1bK367e6YaLyuN,24,2001,acoustic,0.596,0.358,10,-10.878,1,0.0305,0.868,0.038,0.121,0.5,110.24,204467,4
+Corey Gray,Lego House,0OSox3UmWel3WzSfN4JTnA,16,2012,acoustic,0.608,0.449,5,-6.365,1,0.04,0.672,0.0,0.0996,0.281,75.921,205364,1
+Blind Lemon Jefferson,Hangman's Blues,7uaulcphYtOSz1sfxA6yUc,0,2001,acoustic,0.542,0.186,8,-13.829,1,0.0493,0.725,0.0,0.401,0.82,112.501,199249,4
+Drew Holcomb,What Would I Do Without You,0iZYeyRrqF0RhiyqozR5NN,25,2014,acoustic,0.482,0.137,3,-17.123,1,0.0357,0.882,0.000246,0.117,0.558,172.265,181281,4
+Mountain Mirrors,Afterlife,6AcpSsjJXXcGNr9VUIWWsU,0,2004,acoustic,0.46,0.222,9,-15.853,0,0.033,0.738,0.924,0.0888,0.0625,103.005,250800,4
+Forest Pooky,If I Get Sick Of It,4LrExArlJTeQfgc8wqffpH,6,2023,acoustic,0.625,0.365,8,-13.632,1,0.0311,0.232,0.000148,0.109,0.606,109.501,272725,3
+Landon Pigg,On The Other Side,4GeNGmveutcGkGqRMIO0Vr,4,2006,acoustic,0.498,0.896,7,-5.046,1,0.0356,0.00152,1.01e-05,0.141,0.38,135.001,221733,4
+Teddy Geiger,Living For The First Time,49uzfFlXaJeyJua23T6Tvh,14,2008,acoustic,0.503,0.841,4,-4.261,1,0.0309,0.00457,0.0,0.101,0.482,109.973,207107,4
+Eric Hutchinson,You Don't Have to Believe Me - Live,25MTazb2nSM4UAOTBCNPX2,7,2007,acoustic,0.585,0.757,5,-5.298,1,0.152,0.221,0.0,0.189,0.835,195.912,210973,4
+Beyond The Guitar,"Davy Jones (From ""Pirates of the Caribbean: Dead Man's Chest"")",4QUjeaoXgMCTbiBO8laP1y,19,2021,acoustic,0.447,0.0491,4,-16.683,0,0.0971,0.97,0.932,0.0941,0.12,73.946,180930,3
+Sandra McCracken,Close Of The Day,1e9XXGb3IjpNqCbzjHjQOc,0,2001,acoustic,0.427,0.347,4,-13.374,1,0.0299,0.664,0.0189,0.344,0.155,98.232,376200,4
+Matt Pless,Ashtray,0KcccRUqYy478HhdaKPqg2,11,2013,acoustic,0.524,0.522,11,-10.891,1,0.0531,0.283,0.0,0.0878,0.895,120.048,176000,4
+Pigeon Pit,Black Metal,6wRn5jq47MI069KEtIB0VW,23,2017,acoustic,0.554,0.193,9,-11.6,1,0.0402,0.933,0.000781,0.121,0.373,144.122,137560,4
+Agustín Amigó,Jump - Solo Acoustic Guitar,1vIxXkP7gVTudgcBsFIJKO,37,2018,acoustic,0.577,0.282,4,-15.506,1,0.0551,0.839,0.896,0.096,0.593,130.15,205125,4
+Bootstraps,Haywire,7aiNvPw9grBjBoSnrycwFo,25,2014,acoustic,0.39,0.491,7,-7.393,1,0.0267,0.611,0.00883,0.111,0.227,83.048,259638,4
+Corporate Hearts,Gun to My Head,2vIVa8uFN1op2fbpK2jmBe,26,2014,acoustic,0.382,0.594,2,-6.615,1,0.0446,0.233,0.0,0.106,0.694,80.207,101053,4
+Get Dead,Here's Your Song,5TXytlsfrniHOsUU8REsdb,18,2013,acoustic,0.731,0.697,8,-7.265,1,0.0931,0.0857,0.0,0.107,0.627,118.46,152427,4
+Marianna Leporace,Don't Look Back in Anger,7aa1qkYnR51UJx7XGFAVmB,4,2004,acoustic,0.691,0.495,2,-7.053,1,0.0256,0.135,0.0,0.158,0.365,81.978,211480,4
+Bob Schneider,The Sons of Ralph,69h3SZLkBmErkYSOQuxgDs,4,2006,acoustic,0.387,0.374,11,-17.352,1,0.136,0.991,0.000319,0.233,0.61,96.942,136813,4
+Jürg Kindle,12 Préludes N°11,7j6GTf6GtQ64ZmFIzD7J8O,0,2000,acoustic,0.329,0.0547,2,-26.095,0,0.041,0.97,0.91,0.107,0.774,83.143,74282,4
+Bukka White,Bukka Jitterburg Swing,2UTJToIKC8AsEVmLMLi0Gl,33,2018,acoustic,0.68,0.255,2,-17.024,1,0.0681,0.963,0.205,0.105,0.524,117.893,155400,4
+Randal L Meek,Aurora,62YMj50OtdcxjK17rVtKpL,21,2020,acoustic,0.387,0.0659,7,-23.984,1,0.0499,0.965,0.951,0.0913,0.0534,173.904,140250,4
+Marc Scibilia,Smile,2AHGHX3SIsBUmSXAbBhWHb,40,2022,acoustic,0.544,0.615,0,-9.147,1,0.0507,0.0985,0.077,0.38,0.527,91.677,170720,4
+Jay Brannan,A Death Waltz,7sAADNWfv6pjLrKY1mHmxH,7,2008,acoustic,0.598,0.308,9,-9.741,1,0.0374,0.707,0.0,0.118,0.543,171.753,235533,3
+Tony Sandate,Passion Song,1njvv8USMGZEZQq7cel7V1,2,2004,acoustic,0.357,0.0316,4,-23.332,0,0.0501,0.993,0.928,0.111,0.169,72.236,271267,3
+Josh Ritter,The Temptation of Adam,45IWFHuReTKymsYTLkDshI,33,2007,acoustic,0.431,0.302,4,-14.51,1,0.0311,0.541,2.17e-05,0.0556,0.357,101.361,252493,4
+Penny and Sparrow,Slaves,40egzQ6rELBze16SaxFEih,24,2011,acoustic,0.441,0.182,1,-13.3,1,0.0292,0.575,0.0369,0.0978,0.148,78.541,324295,4
+Tyler Ward,Shallow - Acoustic,1XW1lKfocLOAUdp8rUQoNC,52,2019,acoustic,0.332,0.282,7,-7.257,1,0.044,0.825,0.0,0.104,0.234,187.057,182553,4
+Frank Turner,A Wave Across A Bay,5ootST1aWLOmjcLHIIQCeU,35,2022,acoustic,0.57,0.717,2,-7.683,1,0.0436,0.00389,0.0,0.13,0.527,123.996,223627,4
+Denis Turbide,Home Cooking,0NTRdLZ3WbV8KlsoVVZyIk,36,2023,acoustic,0.352,0.189,2,-21.906,1,0.0441,0.942,0.864,0.123,0.492,138.585,130287,4
+Trent Dabbs,Brick,23IuCk07dSCJFDfrnVFD4b,11,2023,acoustic,0.637,0.412,1,-10.372,1,0.029,0.365,0.0401,0.114,0.335,124.039,208533,4
+Kris Allen,Parachute,3jeUnDLbNRNc9mKKLyGayu,11,2014,acoustic,0.633,0.507,0,-7.325,1,0.0413,0.337,0.0,0.0861,0.589,78.993,197880,4
+Lúc,Hungry Heart,0E7xdpw1IuxK7NnfSbbvlx,39,2022,acoustic,0.766,0.102,0,-15.916,1,0.0396,0.817,1.62e-06,0.11,0.509,94.899,187071,4
+David Ramirez,Stone Age,21S24fbTJIF8iOsYsv6ztf,25,2017,acoustic,0.289,0.711,9,-4.959,0,0.0518,0.158,0.000375,0.126,0.526,166.278,306707,4
+Peter Bradley Adams,On the Other Side,2L6IMA7EhfboZlJacXYFHj,15,2014,acoustic,0.473,0.398,8,-14.219,1,0.0349,0.77,0.131,0.103,0.233,169.993,236430,4
+Kitri,傘,3tnvtrKp719KqwclPDi0hK,26,2017,acoustic,0.622,0.129,3,-15.091,1,0.0338,0.987,5.64e-05,0.119,0.174,75.997,256107,4
+Steve Moakler,Finally Friday,03NpqU6K78in1RuqSVIzXj,15,2017,acoustic,0.595,0.931,6,-3.613,1,0.042,0.0176,0.0,0.151,0.833,136.01,168240,4
+Jason Mraz,I'm Yours - Bass Over Babylon Mix,33JdTAGHrD2zuU1tcm2Ld2,10,2009,acoustic,0.726,0.673,11,-5.657,1,0.0302,0.0403,0.0,0.0636,0.83,151.036,252654,4
+Otis Taylor,Stick on You,1EUMgZKqs7tXJqUF07RaL7,11,2001,acoustic,0.562,0.743,8,-7.192,1,0.0426,0.753,0.238,0.0813,0.791,141.038,210653,4
+Agustín Amigó,A Quiet Summer Night,2vHMcaJfqFlUr0pkN5oYbU,24,2021,acoustic,0.345,0.161,4,-16.957,1,0.0486,0.964,0.936,0.111,0.134,88.461,176531,3
+JJ Heller,You Can Fly! You Can Fly! You Can Fly!,5IemJiTuUHu3bGBg944JDU,29,2021,acoustic,0.394,0.217,10,-11.722,1,0.0316,0.935,0.0,0.132,0.322,118.794,209427,4
+Joshua Hyslop,I'm on Fire,6W8Z909hMhFDwxBXGcmMs2,21,2017,acoustic,0.479,0.13,0,-17.949,1,0.0334,0.959,0.272,0.111,0.0951,75.176,172733,4
+The Freed,Thunder - Acoustic,5dVImTfSnIx8SzhXDmRhB2,34,2020,acoustic,0.711,0.156,9,-16.928,1,0.0402,0.881,0.0801,0.11,0.408,130.01,208674,4
+Tim Schou,Novocaine,0ZqV7xw4vlLboxmSaQwmVh,25,2017,acoustic,0.552,0.3,4,-9.635,1,0.0522,0.587,0.0,0.233,0.116,110.04,195381,4
+Mathew Joseph,Samiotisa - Guitar Version,1YGm22XXTmTQADWuFRWI9o,21,2021,acoustic,0.6,0.277,7,-14.131,1,0.0444,0.963,0.946,0.109,0.368,127.378,108609,4
+Marc Broussard,Rosé All Day,5aRy6qhI7uoaiuVfnnW2Zs,31,2017,acoustic,0.554,0.819,11,-6.122,1,0.0609,0.16,0.0,0.307,0.848,165.917,219133,4
+Daphne Willis,I Will Be Waiting,1oMhSsecKt8cOl5opQj4gD,11,2011,acoustic,0.702,0.754,9,-6.309,1,0.029,0.144,6.19e-06,0.0846,0.748,137.965,166208,4
+Jon McLaughlin,Lost,3DJlTyIY5c2BHbT4kIZfZM,16,2018,acoustic,0.492,0.736,2,-7.318,1,0.0638,0.105,0.00621,0.141,0.347,81.965,212415,4
+Andrea Sinceri,Luce,3CaJFeQhxwKQ564NNZRObK,26,2020,acoustic,0.133,0.022,0,-28.187,1,0.0378,0.828,0.91,0.0752,0.231,78.814,85000,4
+I Am Kloot,Cinders,4tqrC0FggEvDoBSvxENx0F,0,2003,acoustic,0.632,0.187,8,-13.145,1,0.0325,0.842,0.00396,0.0872,0.476,94.53,113067,4
+Chris Smither,Don't It Drag On,0sJZv05zbnAbp2p90VNsSB,23,2014,acoustic,0.649,0.394,9,-10.167,1,0.0239,0.742,0.000275,0.118,0.433,105.604,192373,4
+JJ Heller,When You Come Back (Reprise),4qYMcUZzsIYRNi7LnVV90v,5,2007,acoustic,0.326,0.0341,0,-11.863,1,0.269,0.0784,0.0066,0.38,0.97,213.258,194427,3
+Trevor Hall,monsoon cloud - East Forest remix,52zQwF5H0jVB7kb2WRp6Ai,30,2021,acoustic,0.393,0.239,1,-14.282,0,0.0329,0.739,0.00145,0.25,0.0897,115.666,237909,4
+Gen Hoshino,Kokoni Inai Anatahe,1plEsqK09kXS5RRja71Mrz,25,2018,acoustic,0.571,0.333,9,-7.856,1,0.0266,0.257,0.0,0.0973,0.258,70.046,296600,4
+Jason Mraz,The World as I See It,2ORU4XRGqFjPB2mTft0VPj,32,2012,acoustic,0.573,0.747,10,-7.011,1,0.0316,0.164,0.0,0.144,0.464,119.012,239156,4
+Ernie Halter,Moving Along,5DDrW7fNF1pLhfPXVMvhQf,2,2007,acoustic,0.642,0.631,0,-5.217,1,0.0541,0.276,0.0,0.175,0.699,126.609,174653,4
+Marc Scibilia,Already Miss You (Acoustic),1f30s7FJbAMtNvpMIeV6ci,25,2021,acoustic,0.525,0.195,9,-14.72,1,0.0301,0.739,0.0,0.119,0.22,143.256,199925,4
+Callum J Wright,Suspicious Minds - Acoustic,4CXYiBvEaZTo1ty27Jr6Zj,34,2022,acoustic,0.614,0.286,3,-11.781,1,0.0825,0.92,2.28e-05,0.126,0.331,115.498,183425,4
+Get Set Go,So You're Gonna Die,6u1ksLO16tDWyDj3ZJRWeN,6,2006,acoustic,0.7,0.685,2,-5.142,1,0.0255,0.472,1.53e-05,0.0986,0.801,87.595,206467,4
+Blackbird Raum,Path of Raven,0IcaGnLeFDhke9OjdyHhbq,8,2009,acoustic,0.331,0.539,0,-4.914,1,0.0318,0.748,3.35e-06,0.0569,0.365,170.898,203400,3
+Greg Laswell,What A Day,4vaGAI9Ee2jtdacpIW5aQc,24,2008,acoustic,0.63,0.338,4,-10.695,0,0.0256,0.761,0.000283,0.107,0.226,140.052,309427,4
+Gail Blanco,I Won't Last a Day Without You,27tLzAnnHS7BKMxXnWJ06s,24,2008,acoustic,0.592,0.362,3,-9.082,1,0.0359,0.85,0.0,0.0989,0.373,80.053,231320,4
+Retreat,"Forever and Ever, Amen - Acoustic",3hzTVBPjwWgK2WgO8uNaRG,31,2022,acoustic,0.417,0.135,11,-9.971,1,0.0407,0.912,0.0,0.137,0.306,77.157,173623,4
+The Mayries,wish you were gay - acoustic,5fnFcby5yxUodS7loPSufH,35,2019,acoustic,0.589,0.233,4,-10.749,0,0.0302,0.72,0.0,0.158,0.175,109.934,219932,4
+Ohashi Trio,そんなことがすてきです。,3oDEZNiMHOqw1GraiiQuXh,28,2008,acoustic,0.646,0.544,4,-10.116,1,0.0271,0.601,3.67e-05,0.173,0.815,150.08,214427,4
+Pat Monahan,Queen Of Hearts - Live,256k7iRwmF7EjB8EfzQtgI,14,2014,acoustic,0.301,0.704,10,-7.021,1,0.0532,0.296,0.000122,0.73,0.331,147.936,322960,3
+Gabe Dixon,My Favorite,2vbRxLBg1Ur1nLibvaFjiU,8,2011,acoustic,0.518,0.894,4,-5.185,1,0.0372,0.264,0.000134,0.149,0.377,142.008,246253,4
+Drew Holcomb & The Neighbors,Love Will Bring You Home,3Ha1b77bdJFs0T7E2JrOG8,12,2009,acoustic,0.535,0.182,0,-10.84,1,0.0359,0.785,0.0,0.0925,0.14,119.958,273853,3
+Ben Rector,Living My Best Life,0R7EWhquaAICmyE5MZqt3q,56,2022,acoustic,0.566,0.733,4,-5.302,1,0.0699,0.083,1.55e-06,0.362,0.636,178.828,215213,4
+Bread & Roses,The Whale,6IwkOL5VR3AiMO0JM2l9fU,3,2007,acoustic,0.415,0.664,7,-7.88,1,0.0512,0.508,0.0,0.124,0.6,145.604,275920,4
+Brett Dennen,Just Like the Moon,2gUffR5ZqyKw7smbTQgbab,23,2005,acoustic,0.538,0.396,7,-9.122,1,0.0448,0.636,2.75e-05,0.119,0.476,174.998,296020,4
+Ray LaMontagne,Be Here Now (Live),2gl6frcaWZ4QqdGqqf2zve,18,2008,acoustic,0.485,0.28,9,-15.509,1,0.0302,0.793,0.762,0.979,0.119,118.096,376080,4
+NEEDTOBREATHE,Don't Throw All the Good Things Away,76YfWMrcxlHJtdXkYB9GI7,0,2023,acoustic,0.284,0.37,0,-7.519,1,0.0311,0.179,7.72e-06,0.131,0.222,104.194,250811,4
+Chris Cresswell,Arrythmic Palpitations,3k6s9QkAZfENWHO3NhAQOn,23,2014,acoustic,0.51,0.485,9,-4.432,0,0.0334,0.612,5.08e-06,0.126,0.451,154.97,169000,4
+Steve Petrunak,Maps,2630AwEnW4Aq0WRv6qWZ0D,35,2014,acoustic,0.742,0.514,1,-8.486,0,0.0728,0.98,0.879,0.196,0.711,119.936,190573,4
+Tyler Ward,ME! - Acoustic,3Mn2gxTF8OGsJXHc72lxyK,44,2019,acoustic,0.35,0.353,9,-11.372,1,0.0354,0.799,0.0,0.155,0.326,83.079,127711,4
+Harley Poe,Hollow Man,75i8nGJoT6Q2znZNNhUmk3,22,2022,acoustic,0.448,0.821,7,-6.405,1,0.0328,0.566,0.0,0.339,0.618,104.687,191552,4
+Aslyn,Be The Girl - Remix,4zJEKvXFVs87QN6rcJq8yJ,16,2005,acoustic,0.571,0.899,2,-2.873,1,0.0647,0.022,0.0,0.145,0.834,148.026,180520,4
+Aidan Hawken,If Something's Wrong,1vJ2jMTsLjBlI9JdejTORj,16,2008,acoustic,0.665,0.317,2,-11.785,1,0.03,0.415,0.000745,0.134,0.151,115.045,318320,4
+Mark Kroos,Come Together (Instrumental Guitar),6Ir3NLzttg8ZBwJcuTfqAo,21,2019,acoustic,0.571,0.435,2,-11.685,1,0.0485,0.307,0.785,0.1,0.645,171.845,210092,4
+Frank Turner,Hits & Mrs. - Demo Version,59CAoZM5plFsQJSPadmQz1,13,2015,acoustic,0.609,0.761,8,-8.156,1,0.0321,0.00251,0.0,0.212,0.753,127.931,210031,4
+Lightnin' Hopkins,Please Settle in Vietnam,4YgCTXBPXs9ASNFngFgkSJ,1,2001,acoustic,0.619,0.255,3,-13.042,1,0.0447,0.893,0.00713,0.104,0.291,116.211,253040,4
+Corey Crowder,Heres Looking At You Kid,6MV4An4S93WmSKeXY3sze2,5,2005,acoustic,0.432,0.382,7,-6.691,1,0.0308,0.755,4.21e-05,0.109,0.287,133.368,208987,3
+Trevor Hall,Holy Country,47Ir4KRspuYUfUKWRZnqIS,30,2014,acoustic,0.319,0.157,7,-14.861,1,0.0317,0.738,0.000239,0.0904,0.203,77.468,351931,4
+Stephen Kellogg and The Sixers,"See you later, See you soon",4qk1RNWElYzSIsNeZH6HOm,5,2004,acoustic,0.568,0.591,4,-8.994,1,0.0322,0.648,0.000532,0.127,0.669,171.106,235493,4
+NEEDTOBREATHE,The Reckoning,0hCvj3cXuynvnNM2jgNI8g,8,2013,acoustic,0.457,0.771,9,-4.382,1,0.0349,0.0145,6.94e-05,0.17,0.157,154.024,224053,4
+Even In Blackouts,The Devils Deed or No Noose Is Good Noose,46zAOVXA1rTrgjoenwdgXP,1,2003,acoustic,0.633,0.929,2,-5.449,1,0.0362,0.0589,1.62e-06,0.0785,0.517,106.894,145400,4
+Aqualung,Time Moves Slow,3Pu6jR0jsJH2WWwI1Eybi4,6,2010,acoustic,0.215,0.443,7,-10.767,1,0.0318,0.66,0.0119,0.268,0.114,83.05,256235,4
+AJJ,When I'm a Dead Boy,4cI0G9y7F1CgZbru8BUz8a,27,2016,acoustic,0.51,0.47,7,-9.171,1,0.0255,0.93,2.64e-05,0.163,0.297,82.176,93909,4
+Porcelain Heart,Slide - Acoustic Version,0QSpX88FigdeGYsrAQZj9C,46,2017,acoustic,0.658,0.336,3,-8.935,0,0.0624,0.751,0.0,0.11,0.49,91.676,171611,4
+Steve Pulvers,Wistful Thinking,0gSYVscKg3RmzrDokVgJZB,19,2019,acoustic,0.391,0.25,0,-19.07,1,0.0825,0.806,0.74,0.103,0.267,147.03,144000,4
+Rory Block,Rock Island Line,2d8lxY0YSOnKI6mp0XjxAQ,1,2002,acoustic,0.644,0.629,1,-6.477,1,0.347,0.749,0.0,0.23,0.767,136.832,142800,4
+Get Set Go,Go to the Mattress,72VaeN9lJacEPU3c1XJo2M,2,2003,acoustic,0.616,0.9,9,-3.811,1,0.0433,0.0488,0.0,0.0701,0.748,153.095,190907,4
+Son House,Grinnin' in Your Face,13HhfdVVNXyXnENEKnUp2L,13,2003,acoustic,0.752,0.135,7,-12.544,1,0.419,0.698,0.0,0.336,0.523,70.384,126467,4
+Jill Andrews,Rust or Gold,1Y1fvW8WgCDGvSW7ve3Oqm,25,2013,acoustic,0.463,0.256,1,-13.815,1,0.0347,0.653,0.000315,0.0623,0.0734,133.888,273237,4
+Hem,The Pills Stopped Working,1t0HJcyEznqyhVM5iTu8st,8,2006,acoustic,0.462,0.72,8,-6.252,1,0.0427,0.678,0.000184,0.1,0.456,96.659,289933,4
+Ingrid Michaelson,Stick,4rMVoBuyAMbG6bQbwMCfit,20,2014,acoustic,0.459,0.77,8,-6.717,0,0.0562,0.0417,0.00664,0.119,0.341,177.047,215867,4
+Bob Schneider,You May Want to Take Some Time,1m7CZByMcPNdPutZsSYIzm,8,2017,acoustic,0.369,0.496,8,-9.234,1,0.0328,0.388,0.132,0.0844,0.198,126.581,273773,5
+The Lyndsay Diaries,The 20th Year,1rqJOAs8mNmfq8DZknKVFx,0,2003,acoustic,0.45,0.324,2,-11.183,1,0.0292,0.678,0.0242,0.0677,0.502,170.031,257227,4
+Steve Moakler,Riser,0XwtRSgIrreuqDB719dB9t,18,2014,acoustic,0.426,0.404,1,-10.063,1,0.0313,0.43,0.00582,0.0986,0.0816,88.061,250665,4
+Howie Day,Standing In The Sun,0OUspB6qaY7QRDWXCocTZs,17,2003,acoustic,0.578,0.637,9,-8.256,1,0.0236,0.29,0.0942,0.541,0.476,97.996,339387,4
+Willie Dixon,Spoonful,2iGmxoewlElfzTrjy7J49p,9,2023,acoustic,0.705,0.423,11,-11.399,0,0.0424,0.744,0.000168,0.074,0.665,119.018,166648,4
+Blind Lemon Jefferson,Lock Step Blues,4nvGIxzah1HZ9ngfvmgQnt,0,2001,acoustic,0.566,0.231,8,-12.416,1,0.0614,0.786,0.0,0.362,0.487,109.965,196138,4
+The Reddmen,Sofiya,1CsTBGt6g5MDsr35RjF9zg,0,2003,acoustic,0.383,0.937,2,-3.232,1,0.0533,0.197,0.526,0.112,0.65,134.872,138533,4
+Sandra McCracken,We Will Feast in the House of Zion,5NmoTlfakwip7oDOn4AvQZ,37,2015,acoustic,0.437,0.422,4,-7.353,1,0.0256,0.773,4.8e-06,0.109,0.171,141.838,272440,4
+Amos Lee,Crooked,5Mh37FkJFbpTS9LduQBRxK,40,2018,acoustic,0.722,0.451,7,-9.035,1,0.052,0.646,1.23e-05,0.348,0.458,137.875,162547,4
+Eddie van der Meer,Sincerely (Violet Evergarden),3iEsEmTkhfYFkkA72RqCxg,23,2018,acoustic,0.328,0.42,7,-10.405,1,0.0442,0.764,0.931,0.111,0.8,137.039,93000,4
+Tamio Okuda,車カー,7775S7Kg79lRMfVL83vfHq,7,2001,acoustic,0.626,0.665,4,-6.942,0,0.0418,0.0532,0.000414,0.0484,0.456,137.899,342400,4
+Trent Dabbs,Backyard Dreams,32A1NMjCXkyHqEVVQlmk6G,19,2023,acoustic,0.592,0.664,7,-8.038,0,0.0258,0.0456,0.00826,0.116,0.657,77.511,244933,4
+Greg Steinfeld,You Take My Blues Away,71MwcDlzYgYX7epk7nNFOn,15,2023,acoustic,0.558,0.585,7,-7.099,1,0.0293,0.621,1.97e-06,0.323,0.587,111.874,185033,4
+Imani Coppola,Satisfied,4deoPBPX21zGjf5Rk8e1wV,0,2004,acoustic,0.727,0.821,5,-7.876,1,0.052,0.00985,0.00308,0.352,0.861,100.911,218427,4
+Bailey Rushlow,In My Life - Acoustic,3Clcwl6vzkxZC3YIPmeajf,25,2019,acoustic,0.387,0.141,0,-13.242,1,0.0686,0.947,0.0,0.128,0.392,50.21,147863,4
+Tyler Ward,I Knew You Were Trouble,3nAGDrB26ardCDKxy63MI9,21,2013,acoustic,0.483,0.382,11,-6.812,1,0.0285,0.439,0.0,0.101,0.361,141.803,191197,4
+Axel Flóvent,Nightlife,4xCWHPYN4IVVjWrLXMPOpT,29,2015,acoustic,0.389,0.118,8,-15.056,1,0.0376,0.873,0.0763,0.101,0.0736,120.116,312993,4
+AJJ,Psychic Warfare,5oIMfOVhmbnBKCjxGJmFRT,26,2020,acoustic,0.573,0.481,9,-9.486,1,0.0512,0.688,0.00026,0.246,0.682,85.372,102387,4
+Allman Brown,Fields of England,1iXxWUDwWhLO1jNCwyGde6,13,2014,acoustic,0.574,0.281,2,-12.099,1,0.0284,0.862,4.47e-06,0.189,0.158,89.967,188906,4
+Sara Bareilles,When He Sees Me,6GxexyfupoH665lm63C0zs,48,2015,acoustic,0.706,0.493,3,-6.779,1,0.0623,0.32,0.0,0.189,0.356,119.925,230973,4
+Jaymay,You Are The Only One I Love,33CHr18qIpVjIkEsr0GY8y,18,2007,acoustic,0.477,0.299,0,-12.524,1,0.0252,0.904,0.00103,0.278,0.173,77.429,295520,4
+Dave Barnes,Very Merry Christmas,2sbGnW9yB2Z8hTEHyCJChK,15,2010,acoustic,0.59,0.423,11,-10.08,1,0.0396,0.242,7.57e-06,0.139,0.62,62.056,229853,4
+Jeff Wahl,When The Sun Rises,7mmFz7zw7ZdNsApkRPWbdQ,7,2009,acoustic,0.595,0.189,0,-16.955,1,0.0405,0.786,0.695,0.121,0.0776,118.816,208000,4
+Jürg Kindle,Back To The Roots II. Adagio ( steets i Truure),5XVuzxTfL1KcGlHwanF1U9,0,2000,acoustic,0.424,0.0337,7,-25.736,1,0.0413,0.986,0.95,0.0915,0.121,73.691,192684,4
+NEEDTOBREATHE,Difference Maker - Live Room Version,2FeZEB1JmGm99RAYHUaULV,19,2014,acoustic,0.643,0.336,0,-8.476,1,0.0322,0.509,0.0,0.082,0.158,104.523,296667,4
+Harley Poe,I Can't Stand Myself,53BA0ZcWvgJZxGyjo7ahJQ,32,2017,acoustic,0.455,0.886,7,-5.934,1,0.0549,0.201,0.0,0.281,0.693,104.201,164518,4
+Celestial Conscience,In The End - Acoustic Guitar,66w9fvqZyZIzpelteTbGvM,28,2022,acoustic,0.637,0.143,3,-17.337,0,0.0376,0.913,0.906,0.105,0.116,105.011,99422,4
+Tim Myers,Technicolor,4ktLEBOh6xMkrvXwjdrUFL,7,2012,acoustic,0.664,0.869,7,-3.532,1,0.0427,0.243,0.0,0.0993,0.918,92.538,198677,4
+Pete Droge,She Got the Potion,7HkqKr8hbP8jXN3Vpq3T24,2,2003,acoustic,0.604,0.665,7,-8.87,1,0.028,0.216,0.000113,0.313,0.927,110.314,210973,4
+Chris Proctor,Dream and Variations,0IRTRtHwGiS6E60rZo6xc5,6,2007,acoustic,0.324,0.131,6,-19.499,0,0.0345,0.972,0.87,0.0942,0.21,94.895,259027,4
+Sara Farell,Promises,1sJaXDUlF4lz35ee4jUs6J,39,2018,acoustic,0.572,0.229,6,-13.671,0,0.0292,0.899,0.0,0.139,0.239,101.009,183000,4
+Masaharu Fukuyama,HEY! - original karaoke,0PhtglpsEsOmSHFDapVC19,0,2000,acoustic,0.528,0.86,0,-7.401,1,0.0254,0.00444,0.00329,0.355,0.837,95.254,347200,4
+Blind Willie Johnson,Let Your Light Shine on Me,6juxvt1ZS3O5dBJQdFQT56,4,2023,acoustic,0.692,0.219,7,-10.789,1,0.0693,0.992,0.00104,0.157,0.551,82.522,190983,4
+Liad Abraham,Dedication,3kBprIJxV2HMaLmhTjajrz,19,2022,acoustic,0.569,0.186,0,-15.49,0,0.0439,0.914,0.928,0.0886,0.187,140.413,187936,4
+Marianna Leporace,If,0NEs8G8lDW8b0VyzU7jDSf,22,2003,acoustic,0.526,0.0782,9,-16.452,1,0.0293,0.879,0.0,0.108,0.239,91.598,153067,4
+JJ Heller,The Very Thought Of You,51MUOLgodEcnDZY5Xx95MD,10,2011,acoustic,0.431,0.113,4,-12.233,1,0.036,0.929,0.0,0.0766,0.132,121.781,168240,1
+Mindy Smith,Surface,1yvgzEvL9QzmNvKTJDFIK2,4,2009,acoustic,0.635,0.443,2,-7.369,1,0.0289,0.486,0.000258,0.111,0.193,121.919,242707,4
+Jon McLaughlin,My Girl Tonight,7JeMyMZfYUrcau7HLhJEoR,16,2012,acoustic,0.573,0.284,1,-13.486,1,0.0316,0.926,9.29e-06,0.0975,0.352,122.144,235333,4
+Carey Ott,Shelf Life,0uaI4Be5nBWE4eWXVlQ4vK,0,2005,acoustic,0.527,0.73,7,-5.96,1,0.0317,0.00219,3.91e-05,0.156,0.285,113.51,213840,4
+Masayoshi Yamazaki,ミスペラーズ・オン・ステージ - 2001. 11. 14 新潟県民会館,2YEcTqWwoFLbeY5AifrsTp,0,2002,acoustic,0.316,0.232,1,-20.904,0,0.181,0.804,1.93e-06,0.975,0.154,93.928,720853,4
+David Ramirez,Good Heart,75XnkEpTVJ752jyVqNLjFJ,28,2017,acoustic,0.492,0.507,0,-7.98,1,0.0371,0.857,0.00607,0.0591,0.553,137.979,199107,4
+Rodrigo y Gabriela,Megalopolis,7mDL4Anwnh3iA1Da77a96j,15,2014,acoustic,0.672,0.209,0,-17.294,1,0.0602,0.983,0.93,0.102,0.553,152.979,301240,4
