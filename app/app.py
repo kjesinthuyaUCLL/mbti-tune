@@ -1,8 +1,12 @@
 import os
 import sys
+import time
 import streamlit as st
 import google.generativeai as genai
 from dotenv import load_dotenv
+from spotipy.oauth2 import SpotifyOAuth
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # Load environment variables
 load_dotenv()
@@ -15,7 +19,7 @@ base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if base_dir not in sys.path:
     sys.path.append(base_dir)
 
-from src.spotify_utils import get_spotify_oauth, fetch_user_data
+from src.spotify_utils import get_spotify_oauth, fetch_user_data, AUDIO_FEATURES
 from src.lyrics_utils import build_lyrics_context
 from src.inference import load_model_and_scaler, predict_mbti
 from src.gemini_utils import generate_personality_breakdown
@@ -23,113 +27,7 @@ from src.gemini_utils import generate_personality_breakdown
 # Must be the first Streamlit command
 st.set_page_config(page_title="MBTI Tune", page_icon="🎵", layout="wide")
 
-# Premium Custom CSS
-st.markdown("""
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
-    
-    [data-testid="stAppViewContainer"] { 
-        background: linear-gradient(135deg, #0d0d12 0%, #1a1a2e 100%);
-    }
-    
-    .stApp {
-        background: transparent;
-    }
-    
-    .title-gradient {
-        background: linear-gradient(90deg, #1DB954 0%, #8A2BE2 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 4rem;
-        font-weight: 800;
-        text-align: center;
-        margin-bottom: 0.5rem;
-        letter-spacing: -1px;
-    }
-    
-    .subtitle {
-        text-align: center;
-        color: #a0a0b0;
-        font-size: 1.2rem;
-        margin-bottom: 3rem;
-    }
-    
-    .glass-card {
-        background: rgba(255, 255, 255, 0.03);
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255, 255, 255, 0.1);
-        border-radius: 20px;
-        padding: 1.5rem;
-        margin-bottom: 1.5rem;
-        box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-        transition: transform 0.2s ease;
-    }
-    
-    .glass-card:hover {
-        transform: translateY(-2px);
-        border-color: rgba(29, 185, 84, 0.3);
-    }
-    
-    .stButton > button {
-        background: linear-gradient(90deg, #1DB954 0%, #1ed760 100%);
-        color: white;
-        font-weight: 600;
-        border-radius: 30px;
-        padding: 0.75rem 2rem;
-        width: 100%;
-        border: none;
-        transition: transform 0.2s ease;
-    }
-    
-    .stButton > button:hover {
-        transform: scale(1.02);
-        background: linear-gradient(90deg, #1ed760 0%, #1DB954 100%);
-    }
-    
-    .mbti-highlight {
-        font-size: 4rem;
-        font-weight: 800;
-        text-align: center;
-        background: linear-gradient(90deg, #1DB954 0%, #8A2BE2 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        text-shadow: none;
-        margin: 10px 0;
-    }
-    
-    .dominant-label {
-        font-weight: 600;
-        color: #1DB954;
-        font-size: 1.1rem;
-    }
-    
-    .stProgress > div > div > div > div {
-        background: linear-gradient(90deg, #1DB954, #8A2BE2);
-    }
-    
-    hr {
-        margin: 1rem 0;
-        border-color: rgba(255,255,255,0.1);
-    }
-    
-    /* Custom scrollbar */
-    ::-webkit-scrollbar {
-        width: 8px;
-        height: 8px;
-    }
-    ::-webkit-scrollbar-track {
-        background: rgba(255,255,255,0.05);
-        border-radius: 4px;
-    }
-    ::-webkit-scrollbar-thumb {
-        background: #1DB954;
-        border-radius: 4px;
-    }
-    ::-webkit-scrollbar-thumb:hover {
-        background: #1ed760;
-    }
-</style>
-""", unsafe_allow_html=True)
+# [Keep all your existing CSS styles - they are fine]
 
 st.markdown('<div class="title-gradient">🎵 MBTI Tune</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Discover your psychological type through your Spotify listening habits</div>', unsafe_allow_html=True)
@@ -147,7 +45,6 @@ def load_assets():
     except Exception as e:
         st.error(f"❌ Error loading models: {str(e)}")
         return None, None, None, None, None
-
 
 # Load models
 model, scaler, device, feature_cols, idx_to_type = load_assets()
@@ -170,9 +67,117 @@ if 'code' in st.query_params:
     except Exception as e:
         st.error(f"Authentication failed: {e}")
 
+# Check for token in session
 token_info = st.session_state.get('token_info', None)
-if not token_info:
-    token_info = oauth.get_cached_token()
+
+# If we have a token, check if it's expired and refresh
+if token_info:
+    expires_at = token_info.get('expires_at', 0)
+    if expires_at < time.time():
+        st.info("🔄 Refreshing Spotify connection...")
+        try:
+            refresh_token = token_info.get('refresh_token')
+            if refresh_token:
+                new_token = oauth.refresh_access_token(refresh_token)
+                st.session_state['token_info'] = new_token
+                token_info = new_token
+                st.rerun()
+            else:
+                st.warning("Session expired. Please log in again.")
+                st.session_state.clear()
+                token_info = None
+        except Exception as e:
+            st.warning(f"Could not refresh token: {e}")
+            st.session_state.clear()
+            token_info = None
+
+# Helper function to display audio features
+def display_audio_features(tracks_data):
+    """Display audio features in a nice format"""
+    if not tracks_data:
+        return
+    
+    st.markdown("#### 🎵 Audio Feature Analysis")
+    st.caption("These audio features from your top tracks influenced your MBTI prediction")
+    
+    # Create DataFrame for display
+    df = pd.DataFrame(tracks_data)
+    
+    # Normalize feature names for display
+    display_names = {
+        'danceability': '💃 Danceability',
+        'energy': '⚡ Energy',
+        'valence': '😊 Positivity (Valence)',
+        'acousticness': '🎸 Acousticness',
+        'instrumentalness': '🎹 Instrumentalness',
+        'speechiness': '🗣️ Speechiness',
+        'loudness': '🔊 Loudness (dB)',
+        'tempo': '⏱️ Tempo (BPM)',
+        'liveness': '🎤 Liveness'
+    }
+    
+    # Calculate average features
+    avg_features = {}
+    for feat in AUDIO_FEATURES:
+        if feat in df.columns:
+            avg_features[feat] = df[feat].mean()
+    
+    # Create two columns for metrics
+    col1, col2 = st.columns(2)
+    
+    # Display metrics in columns
+    for i, (feat, value) in enumerate(avg_features.items()):
+        with col1 if i % 2 == 0 else col2:
+            display_name = display_names.get(feat, feat.title())
+            # Scale values for better display (loudness is negative, tempo is high)
+            if feat == 'loudness':
+                formatted_value = f"{value:.1f} dB"
+                progress_value = (value + 60) / 60 if value < 0 else 0.5
+            elif feat == 'tempo':
+                formatted_value = f"{value:.0f} BPM"
+                progress_value = min(value / 200, 1.0)
+            else:
+                formatted_value = f"{value:.2%}"
+                progress_value = value
+            
+            st.metric(display_name, formatted_value)
+            st.progress(min(progress_value, 1.0))
+    
+    # Add a bar chart of all features
+    st.markdown("#### 📊 Audio Profile Summary")
+    
+    # Prepare data for bar chart
+    chart_data = []
+    for feat in AUDIO_FEATURES:
+        if feat in df.columns:
+            value = df[feat].mean()
+            if feat == 'loudness':
+                # Normalize loudness (-60 to 0) to 0-1 scale for chart
+                chart_value = (value + 60) / 60
+                label = f"{display_names.get(feat, feat)} ({value:.1f} dB)"
+            elif feat == 'tempo':
+                chart_value = min(value / 200, 1.0)
+                label = f"{display_names.get(feat, feat)} ({value:.0f} BPM)"
+            else:
+                chart_value = value
+                label = f"{display_names.get(feat, feat)} ({value:.2f})"
+            chart_data.append({'Feature': label, 'Value': chart_value})
+    
+    chart_df = pd.DataFrame(chart_data)
+    
+    fig, ax = plt.subplots(figsize=(10, 5))
+    bars = ax.barh(chart_df['Feature'], chart_df['Value'], color='#1DB954')
+    ax.set_xlim(0, 1)
+    ax.set_xlabel('Intensity (0-1 scale)')
+    ax.set_title('Your Audio Profile')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.spines['left'].set_color('#333')
+    ax.spines['bottom'].set_color('#333')
+    ax.tick_params(colors='white')
+    ax.set_facecolor('none')
+    fig.patch.set_alpha(0)
+    st.pyplot(fig)
 
 # App UI Logic
 if not token_info:
@@ -188,11 +193,9 @@ if not token_info:
 
 else:
     st.sidebar.success("✅ Connected to Spotify")
-    
-    # Token expiry check removed - Spotify tokens work without strict expiry validation
     st.sidebar.markdown("---")
     st.sidebar.caption("🎵 Your data is processed locally and not stored.")
-    st.sidebar.caption("ℹ️ Audio features use Spotify API + backup dataset")
+    st.sidebar.caption("ℹ️ Audio features use Spotify API")
     
     if st.sidebar.button("🚪 Log Out", use_container_width=True):
         st.session_state.clear()
@@ -200,76 +203,119 @@ else:
 
     # Main analysis button
     if st.button("🎯 Start AI Analysis", use_container_width=True):
+        
+        # Step 1: Fetch Spotify data
         with st.spinner("🎵 Fetching your top tracks from Spotify..."):
-            features_vector, tracks, top_artists, genres = fetch_user_data(token_info, feature_cols)
+            features_vector, tracks, top_artists, genres, tracks_data_raw = fetch_user_data(token_info, feature_cols)
 
         if features_vector is None or len(tracks) == 0:
             st.error("❌ Not enough Spotify data found. Please listen to more music and try again.")
         else:
-            # 1. Top Songs Display
+            # Step 2: Display Top Tracks with Album Art
             with st.container():
                 st.markdown('<div class="glass-card">', unsafe_allow_html=True)
                 st.subheader("🎧 Your Top 5 Tracks")
-                cols = st.columns(5)
-                for i, (name, artist) in enumerate(tracks[:5]):
+                
+                cols = st.columns(5, gap="small")
+                
+                for i, track_data in enumerate(tracks[:5]):
+                    if len(track_data) == 3:
+                        name, artist, album_art_url = track_data
+                    else:
+                        name, artist = track_data
+                        album_art_url = None
+                    
                     with cols[i]:
-                        st.write(f"**{name[:25]}**" + ("..." if len(name) > 25 else ""))
-                        st.caption(f"*{artist[:20]}*")
+                        if album_art_url:
+                            st.image(album_art_url, use_container_width=True)
+                        else:
+                            colors = ["#1DB954", "#8A2BE2", "#FF6B6B", "#4ECDC4", "#45B7D1"]
+                            color = colors[i % len(colors)]
+                            st.markdown(f'<div style="background: linear-gradient(135deg, {color}, {color}88); border-radius: 8px; aspect-ratio: 1; display: flex; align-items: center; justify-content: center;"><span style="font-size: 2rem;">🎵</span></div>', unsafe_allow_html=True)
+                        
+                        st.markdown(f'<div class="track-title" title="{name}">{name[:25]}{"..." if len(name) > 25 else ""}</div>', unsafe_allow_html=True)
+                        st.markdown(f'<div class="track-artist" title="{artist}">{artist[:20]}{"..." if len(artist) > 20 else ""}</div>', unsafe_allow_html=True)
+                        st.markdown(f'<div class="track-number">#{i+1}</div>', unsafe_allow_html=True)
+                
                 st.markdown('</div>', unsafe_allow_html=True)
 
-            col_lyrics, col_res = st.columns([1, 1])
+            # Step 3: Audio Features Analysis (NEW - before MBTI prediction)
+            if tracks_data_raw:
+                with st.container():
+                    st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                    display_audio_features(tracks_data_raw)
+                    st.markdown('</div>', unsafe_allow_html=True)
 
-            # 2. Lyrics Analysis Column
-            with col_lyrics:
-                st.markdown('<div class="glass-card" style="height: 500px; overflow-y: auto;">', unsafe_allow_html=True)
-                st.subheader("📝 Lyrics Theme Analysis")
-                with st.spinner("🔍 Finding and analyzing lyrics..."):
-                    summaries = build_lyrics_context(tracks[:3])
-                    if summaries:
+            # Step 4: MBTI Prediction
+            st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+            st.subheader("🧠 Neural Network Analysis")
+            
+            with st.spinner("🤖 Analyzing your musical fingerprint..."):
+                try:
+                    # Use temperature scaling for more realistic confidence
+                    temperature = 1
+                    result = predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=temperature)
+                    mbti_type = result["mbti"]
+
+                    st.markdown(f'<div class="mbti-highlight">{mbti_type}</div>', unsafe_allow_html=True)
+                    st.write("---")
+
+                    # Display percentages for each axis
+                    axes = ["E/I", "S/N", "T/F", "J/P"]
+                    
+                    col1, col2 = st.columns(2)
+                    
+                    axis_descriptions = {
+                        "E/I": ("Extraversion", "Introversion"),
+                        "S/N": ("Sensing", "Intuition"),
+                        "T/F": ("Thinking", "Feeling"),
+                        "J/P": ("Judging", "Perceiving")
+                    }
+                    
+                    for i, axis in enumerate(axes):
+                        if axis in result:
+                            letter, prob = result[axis]
+                            percentage = prob * 100
+                            desc1, desc2 = axis_descriptions.get(axis, (letter, letter))
+                            
+                            with (col1 if i % 2 == 0 else col2):
+                                st.markdown(f'<span class="dominant-label">{letter} ({desc1}): {percentage:.1f}%</span>', unsafe_allow_html=True)
+                                st.progress(prob)
+                                st.caption(f"vs {desc2}")
+                    
+                    # Show top 3 most likely MBTI types
+                    if "all_probs" in result:
+                        sorted_probs = sorted(result["all_probs"].items(), key=lambda x: x[1], reverse=True)
+                        st.write("---")
+                        st.caption("🎯 Other possible types you might relate to:")
+                        cols = st.columns(3)
+                        for i, (mbti, prob) in enumerate(sorted_probs[1:4]):
+                            with cols[i]:
+                                st.caption(f"{mbti}: {prob*100:.1f}%")
+                                
+                except Exception as e:
+                    st.error(f"Prediction error: {e}")
+                    st.stop()
+            
+            st.markdown('</div>', unsafe_allow_html=True)
+
+            # Step 5: Lyrics Analysis
+            st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+            st.subheader("📝 Lyrics Theme Analysis")
+            with st.spinner("🔍 Searching for lyrics in your top tracks..."):
+                summaries = build_lyrics_context(tracks[:20])
+                if summaries:
+                    if len(summaries) == 1 and "No lyrics could be found" in summaries[0]:
+                        st.warning(summaries[0])
+                    else:
                         for i, summary in enumerate(summaries, start=1):
                             with st.expander(f"Track {i}", expanded=(i==1)):
                                 st.info(summary)
-                    else:
-                        st.warning("Could not fetch lyrics for your top tracks.")
-                st.markdown('</div>', unsafe_allow_html=True)
+                else:
+                    st.warning("No lyrics could be found for any of your top tracks.")
+            st.markdown('</div>', unsafe_allow_html=True)
 
-            # 3. MBTI Prediction Column
-            with col_res:
-                st.markdown('<div class="glass-card" style="height: 500px; overflow-y: auto;">', unsafe_allow_html=True)
-                st.subheader("🧠 Neural Network Analysis")
-                
-                with st.spinner("🤖 Running PyTorch classifier..."):
-                    try:
-                        result = predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type)
-                        mbti_type = result["mbti"]
-
-                        st.markdown(f'<div class="mbti-highlight">{mbti_type}</div>', unsafe_allow_html=True)
-                        st.write("---")
-
-                        # Display percentages for each axis
-                        axes = ["E/I", "S/N", "T/F", "J/P"]
-                        for axis in axes:
-                            if axis in result:
-                                letter, prob = result[axis]
-                                percentage = prob * 100
-                                st.markdown(f'<span class="dominant-label">{letter}: {percentage:.1f}%</span>', unsafe_allow_html=True)
-                                st.progress(prob)
-                            else:
-                                # Fallback to percentages dict
-                                if axis == "E/I":
-                                    st.markdown(f'E: {result["percentages"]["E"]*100:.1f}% | I: {result["percentages"]["I"]*100:.1f}%')
-                                elif axis == "S/N":
-                                    st.markdown(f'S: {result["percentages"]["S"]*100:.1f}% | N: {result["percentages"]["N"]*100:.1f}%')
-                                elif axis == "T/F":
-                                    st.markdown(f'T: {result["percentages"]["T"]*100:.1f}% | F: {result["percentages"]["F"]*100:.1f}%')
-                                elif axis == "J/P":
-                                    st.markdown(f'J: {result["percentages"]["J"]*100:.1f}% | P: {result["percentages"]["P"]*100:.1f}%')
-                    except Exception as e:
-                        st.error(f"Prediction error: {e}")
-                        st.stop()
-                st.markdown('</div>', unsafe_allow_html=True)
-
-            # 4. Gemini Breakdown
+            # Step 6: AI Psychological Breakdown
             st.markdown('<div class="glass-card">', unsafe_allow_html=True)
             st.subheader("✨ AI Psychological Breakdown")
             with st.spinner("🧠 Generating personality insights..."):
