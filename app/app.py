@@ -14,6 +14,31 @@ st.set_page_config(page_title="MBTI Tune", page_icon="🎵", layout="wide")
 # Custom CSS Styling
 st.markdown("""
 <style>
+.gradient-container {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    position: relative;
+}
+
+.gradient-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 20px;
+    padding: 2px;
+    background: linear-gradient(135deg, #1DB954, #8A2BE2);
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+}
+
 /* Center the title and subtitle */
 .title-gradient {
     text-align: center !important;
@@ -75,16 +100,6 @@ st.markdown("""
 .dominant-label {
     font-size: 1.2rem !important;
     font-weight: 500 !important;
-}
-
-/* Glass card styling */
-.glass-card {
-    background: rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(10px);
-    border-radius: 15px;
-    padding: 1.5rem;
-    margin: 1rem 0;
-    border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Audio Feature Metrics */
@@ -326,7 +341,7 @@ if not token_info:
     # Center the login card
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.markdown('<div class="glass-card" style="text-align:center;">', unsafe_allow_html=True)
+        st.markdown('<div class="gradient-container" style="text-align:center;">', unsafe_allow_html=True)
         st.write("🎧 Connect your Spotify account to let our AI analyze your music taste and reveal your personality.")
         st.write("We analyze your top 20 tracks using a PyTorch neural network trained on 4,000+ playlists.")
         auth_url = oauth.get_authorize_url()
@@ -363,7 +378,7 @@ else:
             else:
                 # Step 2: Display Top Tracks with Album Art
                 with st.container():
-                    st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                    st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
                     st.subheader("🎧 Your Top 5 Tracks")
                     
                     cols = st.columns(5, gap="small")
@@ -390,7 +405,7 @@ else:
                     st.markdown('</div>', unsafe_allow_html=True)
 
                 # Step 3: MBTI Prediction
-                st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
                 st.subheader("🧠 Neural Network Analysis")
                 
                 with st.spinner("🤖 Analyzing your musical fingerprint..."):
@@ -445,12 +460,12 @@ else:
                 # Step 4: Audio Features Analysis
                 if tracks_data_raw:
                     with st.container():
-                        st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                        st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
                         display_audio_features(tracks_data_raw)
                         st.markdown('</div>', unsafe_allow_html=True)
 
                 # Step 5: Lyrics Analysis
-                st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
                 st.subheader("📝 Lyrics Theme Analysis")
                 with st.spinner("🔍 Searching for lyrics in your top tracks..."):
                     summaries = build_lyrics_context(tracks[:20])
@@ -466,7 +481,7 @@ else:
                 st.markdown('</div>', unsafe_allow_html=True)
 
                 # Step 6: AI Psychological Breakdown
-                st.markdown('<div class="glass-card">', unsafe_allow_html=True)
+                st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
                 st.subheader("✨ AI Psychological Breakdown")
                 with st.spinner("🧠 Generating personality insights..."):
                     try:
