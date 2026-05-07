@@ -233,9 +233,9 @@ else:
                             color = colors[i % len(colors)]
                             st.markdown(f'<div style="background: linear-gradient(135deg, {color}, {color}88); border-radius: 8px; aspect-ratio: 1; display: flex; align-items: center; justify-content: center;"><span style="font-size: 2rem;">🎵</span></div>', unsafe_allow_html=True)
                         
+                        st.markdown(f'<div class="track-number">#{i+1}</div>', unsafe_allow_html=True)
                         st.markdown(f'<div class="track-title" title="{name}">{name[:25]}{"..." if len(name) > 25 else ""}</div>', unsafe_allow_html=True)
                         st.markdown(f'<div class="track-artist" title="{artist}">{artist[:20]}{"..." if len(artist) > 20 else ""}</div>', unsafe_allow_html=True)
-                        st.markdown(f'<div class="track-number">#{i+1}</div>', unsafe_allow_html=True)
                 
                 st.markdown('</div>', unsafe_allow_html=True)
 
