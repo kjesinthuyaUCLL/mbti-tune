@@ -52,11 +52,14 @@ Lyrics Themes:
 {summaries_text}
 
 Write a 3-paragraph analysis with this structure:
-1. **Musical Fingerprint** (2 sentences): What their artist choices and lyrics preferences reveal about their {mbti_type} personality
-2. **The Playful Roast** (2 sentences): Lightheartedly call out their listening patterns with humor
-3. **The Insight** (2 sentences): One actionable observation about how their music taste reflects their MBTI type
+1. <b>Musical Fingerprint</b> (2 sentences): What their artist choices and lyrics preferences reveal about their {mbti_type} personality
+2. <b>The Playful Roast</b> (2 sentences): Lightheartedly call out their listening patterns with humor
+3. <b>The Insight</b> (2 sentences): One actionable observation about how their music taste reflects their MBTI type
 
-Keep the tone fun, engaging, and slightly witty. Be conversational. Do not use markdown headers - just write paragraphs separated by blank lines.
+CRITICAL INSTRUCTIONS:
+- DO NOT use ANY emojis.
+- DO NOT use asterisks (**) for bolding. Use HTML <b> tags instead.
+- Do not use markdown headers. Just write paragraphs separated by blank lines.
 """
     
     # Try Groq FIRST (more reliable, higher limits)
@@ -121,20 +124,17 @@ def _generate_fallback_analysis(mbti_type, result, top_artists, summaries):
     music_desc = _get_mbti_music_description(mbti_type)
     value_desc = _get_mbti_value_description(mbti_type)
     
-    return f"""🎵 **Your Musical Personality: {mbti_type}**
+    return f"""<b>Your Musical Personality: {mbti_type}</b>
 
-Based on your listening habits, our AI has identified you as an **{mbti_type}** - {personality_desc}.
+Based on your listening habits, our AI has identified you as an <b>{mbti_type}</b> - {personality_desc}.
 
-**Your Listening Profile:**
-{stats_text}
+<b>Your Listening Profile:</b><br>{stats_text.replace(chr(10), '<br>')}
 
-**What This Means:**
+<b>What This Means:</b>
 People with your personality type tend to gravitate towards music that {music_desc}. Your top artists include {artists_text}, which aligns with these preferences.
 
-**The Insight:**
-Your music taste suggests you value {value_desc}. Consider exploring artists outside your comfort zone - you might discover new dimensions of your personality!
-
-*Note: Full AI analysis temporarily unavailable. This is a fallback analysis.*"""
+<b>The Insight:</b>
+Your music taste suggests you value {value_desc}. Consider exploring artists outside your comfort zone - you might discover new dimensions of your personality!"""
 
 
 def _get_mbti_music_description(mbti_type):

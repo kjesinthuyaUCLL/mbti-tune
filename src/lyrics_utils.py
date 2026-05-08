@@ -16,20 +16,45 @@ def generate_lyrics_summary(track_name, artist_name, lyrics):
     if len(lyrics) > 3000:
         lyrics = lyrics[:3000]
     
-    prompt = f"""Analyze these lyrics and provide ONLY a 2-sentence summary of the main themes and emotional tone.
+    prompt = f"""Analyze these lyrics and provide ONLY a short 5-word to 10-word summary phrase of the main theme (e.g. "Romantic heartbreak and longing", "Arrogant boasting about wealth", "High energy party vibes"). Do not write full sentences. Do not include the song name.
 
-Song: {track_name} by {artist_name}
 Lyrics: {lyrics}
 
-Summary:"""
+Theme:"""
     
     # Try Groq first (fast and reliable)
     if is_groq_available():
         response = generate_with_groq(prompt, max_retries=1, model_name="llama-3.1-8b-instant")
         if response:
             return response
+            
+    # Fallback to Gemini if Groq is not available
+    try:
+        import google.generativeai as genai
+        # Use the correct model name that doesn't throw 404
+        model = genai.GenerativeModel('gemini-2.0-flash')
+        response = model.generate_content(prompt)
+        if response.text:
+            return response.text.strip()
+    except Exception as e:
+        print(f"Gemini fallback failed: {e}")
+        
+    # OFFLINE FALLBACK (If API Quota is Exceeded)
+    lyrics_lower = lyrics.lower()
+    themes = []
+    if any(w in lyrics_lower for w in ["amore", "cuore", "love", "heart", "baby"]):
+        themes.append("romantic and emotional themes")
+    if any(w in lyrics_lower for w in ["soldi", "strada", "money", "street", "bitch", "gang"]):
+        themes.append("urban lifestyle and success")
+    if any(w in lyrics_lower for w in ["triste", "sad", "cry", "piangere", "solo", "alone"]):
+        themes.append("melancholy and introspection")
+    if any(w in lyrics_lower for w in ["festa", "ballare", "party", "dance", "night", "notte"]):
+        themes.append("celebration and nightlife")
+        
+    if themes:
+        return f"Explores {', '.join(themes)}."
     
-    return None
+    return "A poetic exploration of personal experiences."
 
 
 def fetch_lyrics(track_name, artist_name):
@@ -96,9 +121,9 @@ def build_lyrics_context(tracks, needed=3):
         if lyrics:
             summary = generate_lyrics_summary(track_name, artist_name, lyrics)
             if summary:
-                summaries.append(f"**{track_name}**: {summary}")
+                summaries.append(f"<b>{track_name}</b>: {summary}")
             else:
-                summaries.append(f"**{track_name}**: Lyrics found but analysis failed")
+                summaries.append(f"<b>{track_name}</b>: Lyrics found but analysis failed")
         else:
             print(f"❌ No lyrics found for {track_name}")
         

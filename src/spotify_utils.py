@@ -163,8 +163,10 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
 
 def generate_simulated_features(track_name, artist_name):
     """Generate realistic simulated audio features when track not found"""
-    # Use track/artist name to seed deterministic but varied features
-    seed = hash(f"{track_name}_{artist_name}") % 10000
+    import hashlib
+    # Use hashlib to create a deterministic seed across Python runs (built-in hash() is randomized)
+    seed_str = f"{track_name}_{artist_name}".encode('utf-8')
+    seed = int(hashlib.md5(seed_str).hexdigest()[:8], 16)
     random.seed(seed)
     
     features = {

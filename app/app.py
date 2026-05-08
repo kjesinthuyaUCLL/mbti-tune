@@ -6,174 +6,263 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
-# Must be the first Streamlit command
-st.set_page_config(page_title="MBTI Tune", page_icon="🎵", layout="wide")
+st.set_page_config(page_title="MBTI Tune", layout="centered", initial_sidebar_state="expanded")
 
-# Custom CSS Styling
+# --- CUSTOM CSS ---
 st.markdown("""
 <style>
-.gradient-container {
-    background: rgba(0, 0, 0, 0.2);
-    border-radius: 20px;
-    padding: 1.5rem;
-    margin: 1rem 0;
-    position: relative;
+/* Background and Base */
+.stApp {
+    background-color: #fcfafc;
+    color: #4a4a4a;
+    font-family: 'Inter', -apple-system, sans-serif;
+    /* Soft decorative background blobs */
+    background-image: 
+        radial-gradient(circle at 10% 20%, rgba(255, 182, 193, 0.15) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(161, 140, 209, 0.15) 0%, transparent 40%);
+    background-attachment: fixed;
 }
 
-.gradient-container::before {
+/* Typography */
+h1, h2, h3 {
+    color: #333 !important;
+    font-weight: 800 !important;
+}
+
+/* Main Title Area */
+.header-container {
+    text-align: center;
+    padding: 3rem 0 2rem 0;
+}
+
+.main-title {
+    font-size: 4rem !important;
+    font-weight: 900 !important;
+    background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0px !important;
+    letter-spacing: -1px;
+}
+
+.sub-title {
+    font-size: 1.2rem !important;
+    color: #888 !important;
+    margin-top: 0.5rem !important;
+}
+
+/* Login Card Decorations */
+.login-card {
+    background: white;
+    border-radius: 20px;
+    padding: 3rem 2rem;
+    box-shadow: 0 10px 40px rgba(255, 154, 158, 0.15);
+    border: 1px solid #fff0f5;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    margin-top: 2rem;
+}
+.login-card::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    border-radius: 20px;
-    padding: 2px;
-    background: linear-gradient(135deg, #1DB954, #8A2BE2);
-    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    pointer-events: none;
+    top: -50px; right: -50px;
+    width: 100px; height: 100px;
+    background: linear-gradient(135deg, #ff9a9e, #fbc2eb);
+    border-radius: 50%;
+    opacity: 0.2;
+}
+.login-card::after {
+    content: '';
+    position: absolute;
+    bottom: -30px; left: -30px;
+    width: 80px; height: 80px;
+    background: linear-gradient(135deg, #a18cd1, #fbc2eb);
+    border-radius: 50%;
+    opacity: 0.2;
 }
 
-/* Center the title and subtitle */
-.title-gradient {
-    text-align: center !important;
-    font-size: 3rem !important;
-    font-weight: bold !important;
-    background: linear-gradient(135deg, #1DB954, #8A2BE2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    margin-bottom: 0.5rem !important;
-}
-
-.subtitle {
-    text-align: center !important;
-    font-size: 1.1rem !important;
-    color: #aaa !important;
-    margin-bottom: 3rem !important;
-}
-
-/* Gradient green button - centered and shorter */
-.stButton {
-    display: flex !important;
-    justify-content: center !important;
-}
-
-.stButton > button {
-    background: linear-gradient(135deg, #1DB954, #0d8c3f) !important;
+/* Buttons */
+.spotify-login-btn {
+    background: #1DB954;
     color: white !important;
-    border: none !important;
-    padding: 12px 28px !important;
-    font-size: 1.1rem !important;
-    font-weight: bold !important;
-    border-radius: 30px !important;
-    transition: transform 0.2s, box-shadow 0.2s !important;
-    width: auto !important;
-    min-width: 200px !important;
-    max-width: 280px !important;
+    border: none;
+    padding: 16px 45px;
+    border-radius: 30px;
+    font-weight: 800;
+    font-size: 1.2rem;
+    text-decoration: none !important;
+    display: inline-block;
+    box-shadow: 0 8px 25px rgba(29, 185, 84, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+    margin-top: 1.5rem;
+    z-index: 2;
+    position: relative;
+}
+.spotify-login-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(29, 185, 84, 0.4);
+    text-decoration: none !important;
 }
 
-.stButton > button:hover {
-    transform: translateY(-2px) !important;
-    box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3) !important;
-    background: linear-gradient(135deg, #1ed760, #0d8c3f) !important;
+/* Sections */
+.section-title {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #4a4a4a;
+    display: flex;
+    align-items: center;
+    margin: 3rem 0 1.5rem 0;
+}
+.section-title::before {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 24px;
+    background: linear-gradient(to bottom, #ff9a9e, #fbc2eb);
+    border-radius: 4px;
+    margin-right: 12px;
 }
 
-/* MBTI Type Styling */
-.mbti-highlight {
-    font-size: 3.5rem !important;
-    font-weight: bold !important;
-    text-align: center !important;
-    background: linear-gradient(135deg, #1DB954, #8A2BE2);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    padding: 20px 0;
+/* Top Tracks grid */
+.track-card {
+    background: white;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+    border: 1px solid #f8f8f8;
+    text-align: center;
+    transition: transform 0.2s;
 }
-
-/* MBTI percentage labels */
-.dominant-label {
-    font-size: 1.2rem !important;
-    font-weight: 500 !important;
+.track-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(255, 154, 158, 0.15);
 }
-
-/* Audio Feature Metrics */
-[data-testid="stMetricLabel"] {
-    font-size: 1.1rem !important;
-    font-weight: 500 !important;
+.track-img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 8px;
 }
-
-[data-testid="stMetricValue"] {
-    font-size: 1.5rem !important;
-    font-weight: bold !important;
-}
-
-/* Progress bar styling */
-.stProgress > div > div {
-    background-color: #1DB954 !important;
-}
-
-/* Track styling */
-.track-number {
-    font-size: 0.8rem;
-    color: #1DB954;
-    margin-top: 0.5rem;
-    font-weight: bold;
-}
-
 .track-title {
+    font-weight: 800;
     font-size: 0.9rem;
-    font-weight: 500;
-    margin: 0.3rem 0;
+    color: #333;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
-
 .track-artist {
     font-size: 0.8rem;
-    color: #aaa;
+    color: #888;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+
+/* MBTI Beautiful Custom Bars (No Overlap!) */
+.mbti-result-box {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.mbti-highlight {
+    font-size: 6rem;
+    font-weight: 900;
+    background: linear-gradient(135deg, #a18cd1, #ff9a9e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 1;
+    text-shadow: 2px 2px 20px rgba(255, 154, 158, 0.2);
+}
+
+.mbti-bar-container {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+    border: 1px solid #fef0f2;
+    margin-bottom: 12px;
+}
+.mbti-labels {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 800;
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 8px;
+}
+.mbti-track {
+    width: 100%;
+    height: 16px;
+    background: #f0f0f0;
+    border-radius: 10px;
+    display: flex;
+    overflow: hidden;
+}
+
+/* Custom Audio Badges (Fixes truncated text) */
+.audio-badge {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+    border: 1px solid #f8f8f8;
+    margin-bottom: 10px;
+}
+.badge-value {
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #ff9a9e;
+}
+.badge-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Lyrics Theme Cards */
+.lyrics-theme-card {
+    background: linear-gradient(145deg, #ffffff, #fdfbfd);
+    border-left: 4px solid #fbc2eb;
+    padding: 16px 40px 16px 20px; /* Added right padding to prevent quote overlap */
+    border-radius: 0 12px 12px 0;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 15px rgba(251, 194, 235, 0.1);
+    font-size: 0.95rem;
+    color: #444;
+    line-height: 1.5;
+    position: relative;
+}
+.lyrics-theme-card::before {
+    content: '❝';
+    position: absolute;
+    top: -10px; right: 10px;
+    font-size: 3rem;
+    color: rgba(251, 194, 235, 0.3);
+    font-family: serif;
+    z-index: 0;
+}
+
+.nlp-card {
+    background: white;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(161, 140, 209, 0.1);
+    border: 1px solid #f3f0f8;
+    color: #444;
+    line-height: 1.7;
 }
 
 /* Sidebar styling */
 .css-1d391kg, .css-12oz5g7 {
-    background: rgba(0, 0, 0, 0.5);
-}
-
-/* Spotify login button */
-.spotify-login-btn {
-    cursor: pointer;
-    background: linear-gradient(135deg, #1DB954, #0d8c3f);
-    color: white;
-    border: none;
-    padding: 12px 28px;
-    border-radius: 30px;
-    font-weight: bold;
-    width: auto;
-    min-width: 200px;
-    transition: all 0.3s ease;
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-}
-
-.spotify-login-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 15px rgba(29, 185, 84, 0.3);
-    background: linear-gradient(135deg, #1ed760, #0d8c3f);
+    background-color: white;
 }
 </style>
 """, unsafe_allow_html=True)
 
-# Load environment variables
 load_dotenv()
-
-# Configure Gemini
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-# Ensure src is in path for custom imports
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if base_dir not in sys.path:
     sys.path.append(base_dir)
@@ -183,35 +272,21 @@ from src.lyrics_utils import build_lyrics_context
 from src.inference import load_model_and_scaler, predict_mbti
 from src.gemini_utils import generate_personality_breakdown
 
-# Title and Subtitle
-st.markdown('<div class="title-gradient">🎵 MBTI Tune</div>', unsafe_allow_html=True)
-st.markdown('<div class="subtitle">Discover your psychological type through your Spotify listening habits</div>', unsafe_allow_html=True)
-
-# Load AI assets
 @st.cache_resource
 def load_assets():
-    """Load model and scaler with caching"""
     try:
         return load_model_and_scaler()
-    except FileNotFoundError as e:
-        st.error(f"❌ {str(e)}")
-        st.info("Please ensure all models are trained and saved in `data/processed/`")
-        return None, None, None, None, None
     except Exception as e:
-        st.error(f"❌ Error loading models: {str(e)}")
         return None, None, None, None, None
 
-# Load models
 model, scaler, device, feature_cols, idx_to_type = load_assets()
 
-# Stop if models failed to load
 if model is None:
+    st.error("Model files not found.")
     st.stop()
 
-# Spotify OAuth Setup
 oauth = get_spotify_oauth()
 
-# Handle OAuth redirect
 if 'code' in st.query_params:
     code = st.query_params['code']
     try:
@@ -219,17 +294,14 @@ if 'code' in st.query_params:
         st.session_state['token_info'] = token_info
         st.query_params.clear()
         st.rerun()
-    except Exception as e:
-        st.error(f"Authentication failed: {e}")
+    except Exception:
+        pass
 
-# Check for token in session
 token_info = st.session_state.get('token_info', None)
 
-# If we have a token, check if it's expired and refresh
 if token_info:
     expires_at = token_info.get('expires_at', 0)
     if expires_at < time.time():
-        st.info("🔄 Refreshing Spotify connection...")
         try:
             refresh_token = token_info.get('refresh_token')
             if refresh_token:
@@ -238,258 +310,199 @@ if token_info:
                 token_info = new_token
                 st.rerun()
             else:
-                st.warning("Session expired. Please log in again.")
                 st.session_state.clear()
                 token_info = None
-        except Exception as e:
-            st.warning(f"Could not refresh token: {e}")
+        except Exception:
             st.session_state.clear()
             token_info = None
 
-# Helper function to display audio features
-def display_audio_features(tracks_data):
-    """Display audio features in a nice format"""
-    if not tracks_data:
-        return
-    
-    st.markdown("#### 🎵 Audio Feature Analysis")
-    st.caption("These audio features from your top tracks influenced your MBTI prediction")
-    
-    # Create DataFrame for display
-    df = pd.DataFrame(tracks_data)
-    
-    # Normalize feature names for display
-    display_names = {
-        'danceability': '💃 Danceability',
-        'energy': '⚡ Energy',
-        'valence': '😊 Positivity (Valence)',
-        'acousticness': '🎸 Acousticness',
-        'instrumentalness': '🎹 Instrumentalness',
-        'speechiness': '🗣️ Speechiness',
-        'loudness': '🔊 Loudness (dB)',
-        'tempo': '⏱️ Tempo (BPM)',
-        'liveness': '🎤 Liveness'
-    }
-    
-    # Calculate average features
-    avg_features = {}
-    for feat in AUDIO_FEATURES:
-        if feat in df.columns:
-            avg_features[feat] = df[feat].mean()
-    
-    # Create three columns for metrics
-    col1, col2, col3 = st.columns(3)
-    
-    # Display metrics in columns
-    for i, (feat, value) in enumerate(avg_features.items()):
-        with col1 if i % 3 == 0 else col2 if i % 3 == 1 else col3:
-            display_name = display_names.get(feat, feat.title())
-            # Scale values for better display (loudness is negative, tempo is high)
-            if feat == 'loudness':
-                formatted_value = f"{value:.1f} dB"
-                progress_value = (value + 60) / 60 if value < 0 else 0.5
-            elif feat == 'tempo':
-                formatted_value = f"{value:.0f} BPM"
-                progress_value = min(value / 200, 1.0)
-            else:
-                formatted_value = f"{value:.2%}"
-                progress_value = value
-            
-            st.metric(display_name, formatted_value)
-            st.progress(min(progress_value, 1.0))
-    
-    # Add a bar chart of all features
-    st.markdown("\n")
-    st.markdown("#### 📊 Audio Profile Summary")
-    
-    # Prepare data for bar chart
-    chart_data = []
-    for feat in AUDIO_FEATURES:
-        if feat in df.columns:
-            value = df[feat].mean()
-            if feat == 'loudness':
-                # Normalize loudness (-60 to 0) to 0-1 scale for chart
-                chart_value = (value + 60) / 60
-                label = f"{display_names.get(feat, feat)} ({value:.1f} dB)"
-            elif feat == 'tempo':
-                chart_value = min(value / 200, 1.0)
-                label = f"{display_names.get(feat, feat)} ({value:.0f} BPM)"
-            else:
-                chart_value = value
-                label = f"{display_names.get(feat, feat)} ({value:.2f})"
-            chart_data.append({'Feature': label, 'Value': chart_value})
-    
-    chart_df = pd.DataFrame(chart_data)
-    
-    fig, ax = plt.subplots(figsize=(10, 5))
-    bars = ax.barh(chart_df['Feature'], chart_df['Value'], color='#1DB954')
-    ax.set_xlim(0, 1)
-    ax.set_xlabel('Intensity (0-1 scale)', fontsize=12)
-    ax.set_title('Your Audio Profile', fontsize=14, fontweight='bold')
-    ax.tick_params(axis='y', labelsize=11)
-    ax.spines['top'].set_visible(False)
-    ax.spines['right'].set_visible(False)
-    ax.spines['left'].set_color('#333')
-    ax.spines['bottom'].set_color('#333')
-    ax.tick_params(colors='white')
-    ax.set_facecolor('none')
-    fig.patch.set_alpha(0)
-    st.pyplot(fig)
+# --- HEADER (Always visible) ---
+st.markdown("""
+<div class="header-container">
+    <div class="main-title">MBTI Tune</div>
+    <div class="sub-title">Discover your psychological archetype through music</div>
+</div>
+""", unsafe_allow_html=True)
 
-# App UI Logic
+# --- LOGIN SCREEN ---
 if not token_info:
-    # Center the login card
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
-        st.markdown('<div class="gradient-container" style="text-align:center;">', unsafe_allow_html=True)
-        st.write("🎧 Connect your Spotify account to let our AI analyze your music taste and reveal your personality.")
-        st.write("We analyze your top 20 tracks using a PyTorch neural network trained on 4,000+ playlists.")
+        st.markdown("""
+        <div class="login-card">
+            <h3 style="color:#555; margin-bottom: 10px;">Ready to explore?</h3>
+            <p style="color:#888; margin-bottom: 20px;">Connect your Spotify account to extract your audio DNA and lyric semantics.</p>
+        """, unsafe_allow_html=True)
+        
         auth_url = oauth.get_authorize_url()
-        
-        # Center the login button
-        btn_col1, btn_col2, btn_col3 = st.columns([1, 2, 1])
-        with btn_col2:
-            st.markdown(f'<a href="{auth_url}" target="_self"><button class="spotify-login-btn" style="width: 100%;">🔗 Log in with Spotify</button></a>', unsafe_allow_html=True)
-        
-        st.caption("We only access your top tracks - no playlist modification or sharing.")
-        st.markdown('</div>', unsafe_allow_html=True)
+        # Wrapped in a center div to ensure explicit centering
+        st.markdown(f'<div style="text-align: center;"><a href="{auth_url}" target="_self" class="spotify-login-btn">Connect Spotify</a></div></div>', unsafe_allow_html=True)
 
+# --- MAIN DASHBOARD (Auto-runs when logged in) ---
 else:
-    st.sidebar.success("✅ Connected to Spotify")
-    st.sidebar.markdown("---")
-    st.sidebar.caption("🎵 Your data is processed locally and not stored.")
-    st.sidebar.caption("ℹ️ Audio features use Spotify API")
-    
-    if st.sidebar.button("🚪 Log Out", use_container_width=True):
-        st.session_state.clear()
-        st.rerun()
+    with st.sidebar:
+        st.markdown("### Profile")
+        st.success("Connected to Spotify")
+        if st.button("Logout"):
+            st.session_state.clear()
+            st.rerun()
 
-    # Main analysis button - centered with limited width
-    col1, col2, col3 = st.columns([1, 2, 1])
-    with col2:
-        if st.button("🎯 Start AI Analysis", use_container_width=True):
-            
-            # Step 1: Fetch Spotify data
-            with st.spinner("🎵 Fetching your top tracks from Spotify..."):
-                features_vector, tracks, top_artists, genres, tracks_data_raw = fetch_user_data(token_info, feature_cols)
+    # Automatically fetch data
+    with st.spinner("Extracting audio features and running neural models..."):
+        features_vector, tracks, top_artists, genres, tracks_data_raw = fetch_user_data(token_info, feature_cols)
 
-            if features_vector is None or len(tracks) == 0:
-                st.error("❌ Not enough Spotify data found. Please listen to more music and try again.")
+    if features_vector is None or len(tracks) == 0:
+        st.error("Insufficient data found on your Spotify profile.")
+    else:
+        
+        # 1. NEURAL PREDICTION
+        st.markdown('<div class="section-title">Your Neural Prediction</div>', unsafe_allow_html=True)
+        
+        result = predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=4.0)
+        mbti_type = result["mbti"]
+        
+        st.markdown(f'''
+        <div class="mbti-result-box">
+            <div class="mbti-highlight">{mbti_type}</div>
+            <div class="mbti-subtext">Dominant Psychological Archetype</div>
+        </div>
+        ''', unsafe_allow_html=True)
+        
+        axes_data = [
+            ("Introversion", "Extraversion", "I", "E", result.get("E/I", ("E", 0.5))),
+            ("Sensing", "Intuition", "S", "N", result.get("S/N", ("S", 0.5))),
+            ("Thinking", "Feeling", "T", "F", result.get("T/F", ("T", 0.5))),
+            ("Judging", "Perceiving", "J", "P", result.get("J/P", ("J", 0.5)))
+        ]
+        
+        for left_label, right_label, left_char, right_char, axis_res in axes_data:
+            dom_letter, dom_prob = axis_res
+            if dom_letter == right_char:
+                right_val = dom_prob * 100
+                left_val = 100 - right_val
             else:
-                # Step 2: Display Top Tracks with Album Art
-                with st.container():
-                    st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
-                    st.subheader("🎧 Your Top 5 Tracks")
-                    
-                    cols = st.columns(5, gap="small")
-                    
-                    for i, track_data in enumerate(tracks[:5]):
-                        if len(track_data) == 3:
-                            name, artist, album_art_url = track_data
-                        else:
-                            name, artist = track_data
-                            album_art_url = None
-                        
-                        with cols[i]:
-                            if album_art_url:
-                                st.image(album_art_url, use_container_width=True)
-                            else:
-                                colors = ["#1DB954", "#8A2BE2", "#FF6B6B", "#4ECDC4", "#45B7D1"]
-                                color = colors[i % len(colors)]
-                                st.markdown(f'<div style="background: linear-gradient(135deg, {color}, {color}88); border-radius: 8px; aspect-ratio: 1; display: flex; align-items: center; justify-content: center;"><span style="font-size: 2rem;">🎵</span></div>', unsafe_allow_html=True)
-                            
-                            st.markdown(f'<div class="track-number">#{i+1}</div>', unsafe_allow_html=True)
-                            st.markdown(f'<div class="track-title" title="{name}">{name[:25]}{"..." if len(name) > 25 else ""}</div>', unsafe_allow_html=True)
-                            st.markdown(f'<div class="track-artist" title="{artist}">{artist[:20]}{"..." if len(artist) > 20 else ""}</div>', unsafe_allow_html=True)
-                    
-                    st.markdown('</div>', unsafe_allow_html=True)
+                left_val = dom_prob * 100
+                right_val = 100 - left_val
+            
+            # Left vs Right colors
+            left_color = "linear-gradient(90deg, #ff9a9e, #fbc2eb)" if left_val > 50 else "transparent"
+            right_color = "linear-gradient(90deg, #a18cd1, #fbc2eb)" if right_val > 50 else "transparent"
+            
+            st.markdown(f'''
+            <div class="mbti-bar-container">
+                <div class="mbti-labels">
+                    <span style="color:{'#ff9a9e' if left_val > 50 else '#888'}">{left_label} ({left_val:.0f}%)</span>
+                    <span style="color:{'#a18cd1' if right_val > 50 else '#888'}">({right_val:.0f}%) {right_label}</span>
+                </div>
+                <div class="mbti-track">
+                    <div style="width: {left_val}%; background: {left_color}; border-right: 2px solid white;"></div>
+                    <div style="width: {right_val}%; background: {right_color};"></div>
+                </div>
+            </div>
+            ''', unsafe_allow_html=True)
 
-                # Step 3: MBTI Prediction
-                st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
-                st.subheader("🧠 Neural Network Analysis")
+
+        # 2. AUDIO DNA
+        st.markdown('<div class="section-title">Your Audio DNA</div>', unsafe_allow_html=True)
+        
+        col_radar, col_metrics = st.columns([1.5, 1])
+        
+        with col_radar:
+            if tracks_data_raw:
+                df = pd.DataFrame(tracks_data_raw)
+                # Radar Chart
+                avg_features = {}
+                for feat in ['danceability', 'energy', 'valence', 'acousticness', 'liveness']:
+                    if feat in df.columns:
+                        avg_features[feat.capitalize()] = df[feat].mean()
                 
-                with st.spinner("🤖 Analyzing your musical fingerprint..."):
-                    try:
-                        # Use temperature scaling to soften overconfident predictions
-                        temperature = 1.5
-                        result = predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=temperature)
-                        mbti_type = result["mbti"]
-
-                        st.markdown(f'<div class="mbti-highlight">{mbti_type}</div>', unsafe_allow_html=True)
-                        st.write("---")
-
-                        # Display percentages for each axis
-                        axes = ["E/I", "S/N", "T/F", "J/P"]
-                        
-                        col1, col2 = st.columns(2)
-                        
-                        axis_descriptions = {
-                            "E/I": ("Extraversion", "Introversion"),
-                            "S/N": ("Sensing", "Intuition"),
-                            "T/F": ("Thinking", "Feeling"),
-                            "J/P": ("Judging", "Perceiving")
-                        }
-                        
-                        for i, axis in enumerate(axes):
-                            if axis in result:
-                                letter, prob = result[axis]
-                                percentage = prob * 100
-                                desc1, desc2 = axis_descriptions.get(axis, (letter, letter))
-                                
-                                with (col1 if i % 2 == 0 else col2):
-                                    st.markdown(f'<span class="dominant-label">{letter} ({desc1}): {percentage:.1f}%</span>', unsafe_allow_html=True)
-                                    st.progress(prob)
-                                    st.caption(f"vs {desc2}")
-                        
-                        # Show top 3 most likely MBTI types
-                        if "all_probs" in result:
-                            sorted_probs = sorted(result["all_probs"].items(), key=lambda x: x[1], reverse=True)
-                            st.write("---")
-                            st.caption("🎯 Other possible types you might relate to:")
-                            cols = st.columns(3)
-                            for i, (mbti, prob) in enumerate(sorted_probs[1:4]):
-                                with cols[i]:
-                                    st.caption(f"{mbti}: {prob*100:.1f}%")
-                                    
-                    except Exception as e:
-                        st.error(f"Prediction error: {e}")
-                        st.stop()
+                categories = list(avg_features.keys())
+                values = list(avg_features.values())
+                categories.append(categories[0])
+                values.append(values[0])
                 
-                st.markdown('</div>', unsafe_allow_html=True)
+                fig = go.Figure()
+                fig.add_trace(go.Scatterpolar(
+                    r=values, theta=categories, fill='toself',
+                    fillcolor='rgba(255, 154, 158, 0.4)',
+                    line=dict(color='#ff9a9e', width=3),
+                    marker=dict(size=6, color='#a18cd1')
+                ))
+                fig.update_layout(
+                    polar=dict(
+                        radialaxis=dict(visible=True, range=[0, 1], showticklabels=False, linecolor='#eee', gridcolor='#eee'),
+                        angularaxis=dict(tickfont=dict(size=12, color='#666'), linecolor='#ddd', gridcolor='#ddd')
+                    ),
+                    showlegend=False, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)',
+                    margin=dict(l=30, r=30, t=20, b=20), height=320
+                )
+                st.plotly_chart(fig, use_container_width=True)
 
-                # Step 4: Audio Features Analysis
-                if tracks_data_raw:
-                    with st.container():
-                        st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
-                        display_audio_features(tracks_data_raw)
-                        st.markdown('</div>', unsafe_allow_html=True)
+        with col_metrics:
+            # Custom Badges so text never truncates
+            st.write("")
+            loudness = df.get('loudness', pd.Series([-5])).mean()
+            tempo = df.get('tempo', pd.Series([120])).mean()
+            speech = df.get('speechiness', pd.Series([0.1])).mean() * 100
+            
+            st.markdown(f'''
+            <div class="audio-badge">
+                <div class="badge-value">{loudness:.1f} dB</div>
+                <div class="badge-label">Avg Loudness</div>
+            </div>
+            <div class="audio-badge">
+                <div class="badge-value">{tempo:.0f} BPM</div>
+                <div class="badge-label">Avg Tempo</div>
+            </div>
+            <div class="audio-badge">
+                <div class="badge-value">{speech:.1f}%</div>
+                <div class="badge-label">Speechiness</div>
+            </div>
+            ''', unsafe_allow_html=True)
 
-                # Step 5: Lyrics Analysis
-                st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
-                st.subheader("📝 Lyrics Theme Analysis")
-                with st.spinner("🔍 Searching for lyrics in your top tracks..."):
-                    summaries = build_lyrics_context(tracks[:20])
-                    if summaries:
-                        if len(summaries) == 1 and "No lyrics could be found" in summaries[0]:
-                            st.warning(summaries[0])
-                        else:
-                            for i, summary in enumerate(summaries, start=1):
-                                with st.expander(f"Track {i}", expanded=(i==1)):
-                                    st.info(summary)
-                    else:
-                        st.warning("No lyrics could be found for any of your top tracks.")
-                st.markdown('</div>', unsafe_allow_html=True)
 
-                # Step 6: AI Psychological Breakdown
-                st.markdown('<div class="gradient-container">', unsafe_allow_html=True)
-                st.subheader("✨ AI Psychological Breakdown")
-                with st.spinner("🧠 Generating personality insights..."):
-                    try:
-                        full_analysis = generate_personality_breakdown(
-                            mbti_type, result, top_artists, summaries
-                        )
-                        st.markdown(full_analysis)
-                    except Exception as e:
-                        st.warning(f"Could not generate analysis: {e}")
-                        st.info(f"Based on your music, you appear to be an **{mbti_type}**. This type is characterized by {mbti_type[0] if mbti_type else 'introverted/extroverted'} tendencies.")
-                st.markdown('</div>', unsafe_allow_html=True)
+        # 3. TOP TRACKS
+        st.markdown('<div class="section-title">Source Tracks</div>', unsafe_allow_html=True)
+        cols = st.columns(5, gap="small")
+        for i, track_data in enumerate(tracks[:5]):
+            name = track_data[0]
+            artist = track_data[1]
+            img = track_data[2] if len(track_data) == 3 else "https://via.placeholder.com/150"
+            with cols[i]:
+                st.markdown(f'''
+                <div class="track-card">
+                    <img src="{img}" class="track-img">
+                    <div class="track-title">{name}</div>
+                    <div class="track-artist">{artist}</div>
+                </div>
+                ''', unsafe_allow_html=True)
+
+
+        # 4. LYRICS & NLP SYNTHESIS
+        st.markdown('<div class="section-title">Lyrical Semantics & Synthesis</div>', unsafe_allow_html=True)
+        
+        with st.spinner("Fetching lyrics and executing LLM synthesis..."):
+            summaries = build_lyrics_context(tracks[:20])
+            
+        col_lyr, col_nlp = st.columns([1, 1.2])
+        
+        with col_lyr:
+            st.markdown("<h4 style='color:#a18cd1;'>Extracted Themes</h4>", unsafe_allow_html=True)
+            valid_summaries = [s for s in summaries if "no lyrics could be found" not in s.lower()]
+            
+            if not valid_summaries:
+                st.info("No lyrics found to extract semantics.")
+            else:
+                for summary in valid_summaries:
+                    st.markdown(f'<div class="lyrics-theme-card">{summary}</div>', unsafe_allow_html=True)
+
+        with col_nlp:
+            st.markdown("<h4 style='color:#a18cd1;'>Psychological Profile</h4>", unsafe_allow_html=True)
+            with st.spinner("Generating synthesis..."):
+                try:
+                    full_analysis = generate_personality_breakdown(
+                        mbti_type, result, top_artists, summaries
+                    )
+                    st.markdown(f'<div class="nlp-card">{full_analysis}</div>', unsafe_allow_html=True)
+                except Exception as e:
+                    st.error("Failed to generate psychological synthesis.")
