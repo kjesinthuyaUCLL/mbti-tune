@@ -4,10 +4,15 @@ import pandas as pd
 import numpy as np
 import os
 import random
+import joblib
 from dotenv import load_dotenv
 from pathlib import Path
 
 load_dotenv()
+
+# Module-level cache for the song encoder (loaded once)
+_SONG_ENCODER = None
+_SONG_SCALER = None
 
 # Audio features order (must match Notebook 3)
 AUDIO_FEATURES = [
@@ -36,6 +41,124 @@ def get_spotify_oauth():
         cache_path=None,
         show_dialog=True
     )
+
+
+def load_song_encoder():
+    """
+    Load the pretrained SongAutoencoder encoder (from Notebook 1/2) and its
+    song-level StandardScaler. These are used to generate the 128-dim transfer
+    embeddings required by the MBTIClassifier.
+
+    Since the PlaylistLSTMEncoder weights were never saved, we approximate
+    the 128 transfer features as:
+        [mean(32-dim), std(32-dim), min(32-dim), max(32-dim)]
+    of all per-song latent encodings. This exactly fills the 128 slots and
+    preserves distributional information.
+
+    Returns: (encoder_net, song_scaler) or (None, None) on failure.
+    """
+    global _SONG_ENCODER, _SONG_SCALER
+
+    if _SONG_ENCODER is not None:
+        return _SONG_ENCODER, _SONG_SCALER
+
+    import torch
+    import torch.nn as nn
+    from src.model import SongAutoencoder
+
+    base_dir = Path(__file__).parent.parent
+    autoencoder_path = base_dir / "data" / "processed" / "autoencoder_model.pth"
+    song_scaler_path = base_dir / "data" / "processed" / "song_scaler.pkl"
+
+    if not autoencoder_path.exists():
+        print(f"WARNING: Autoencoder not found at {autoencoder_path}. Transfer embeddings will be zeros.")
+        return None, None
+
+    try:
+        device = torch.device("cpu")  # Always CPU for inference
+        state_dict = torch.load(autoencoder_path, map_location=device, weights_only=False)
+
+        # SongAutoencoder was trained with input_dim=9, latent_dim=32
+        autoencoder = SongAutoencoder(input_dim=9, latent_dim=32)
+        autoencoder.load_state_dict(state_dict)
+        autoencoder.eval()
+
+        # We only need the encoder half
+        encoder = autoencoder.encoder
+
+        # Load song-level scaler if it exists
+        song_scaler = None
+        if song_scaler_path.exists():
+            song_scaler = joblib.load(song_scaler_path)
+            print(f"Loaded song scaler (expects {song_scaler.mean_.shape[0]} features)")
+        else:
+            print("Song scaler not found - will normalise audio features manually.")
+
+        _SONG_ENCODER = encoder
+        _SONG_SCALER = song_scaler
+        print("Loaded SongAutoencoder encoder for transfer embeddings.")
+        return encoder, song_scaler
+
+    except Exception as e:
+        print(f"WARNING: Could not load SongAutoencoder: {e}. Transfer embeddings will be zeros.")
+        return None, None
+
+
+def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
+    """
+    Encodes a list of track feature dicts using the SongAutoencoder encoder.
+    Produces a 128-dim transfer embedding vector by computing
+    [mean, std, min, max] of the per-song 32-dim latent vectors.
+
+    Falls back to zeros if encoder is None or if encoding fails.
+    """
+    import torch
+
+    TRANSFER_DIM = 128
+    fallback = {f"transfer_emb_{i}": 0.0 for i in range(TRANSFER_DIM)}
+
+    if encoder is None or not tracks_data:
+        return fallback
+
+    try:
+        # Build matrix of 9 audio features per song
+        feat_matrix = []
+        for t in tracks_data:
+            row = [float(t.get(f, 0.0)) for f in AUDIO_FEATURES]
+            feat_matrix.append(row)
+
+        feat_np = np.array(feat_matrix, dtype=np.float32)  # (N, 9)
+
+        # Normalise with song_scaler if available
+        if song_scaler is not None and song_scaler.mean_.shape[0] == 9:
+            feat_np = song_scaler.transform(feat_np).astype(np.float32)
+
+        # BatchNorm1d needs batch_size >= 2 — pad if necessary
+        needs_pad = feat_np.shape[0] < 2
+        if needs_pad:
+            feat_np = np.vstack([feat_np, feat_np])  # duplicate
+
+        x = torch.tensor(feat_np, dtype=torch.float32)
+
+        with torch.no_grad():
+            latents = encoder(x).cpu().numpy()  # (N, 32)
+
+        if needs_pad:
+            latents = latents[:1]  # keep only the original
+
+        # Compute distributional statistics: mean, std, min, max  (4 × 32 = 128)
+        emb_mean = latents.mean(axis=0)          # (32,)
+        emb_std  = latents.std(axis=0)           # (32,)
+        emb_min  = latents.min(axis=0)           # (32,)
+        emb_max  = latents.max(axis=0)           # (32,)
+
+        transfer_128 = np.concatenate([emb_mean, emb_std, emb_min, emb_max])  # (128,)
+
+        return {f"transfer_emb_{i}": float(v) for i, v in enumerate(transfer_128)}
+
+    except Exception as e:
+        print(f"WARNING: Could not generate transfer embeddings: {e}. Using zeros.")
+        return fallback
 
 
 def generate_simulated_features(track_name, artist_name):
@@ -127,13 +250,15 @@ def build_features_from_tracks(tracks_data):
     res["track_count"] = float(len(df))
     
     # 4. Transfer Learning Embedding Features (128 features)
+    # Filled by the caller via encode_songs_to_transfer_emb() if an encoder is available.
+    # Defaulting to zeros here; callers should override with real embeddings.
     for i in range(128):
         res[f"transfer_emb_{i}"] = 0.0
-    
+
     # Debug: Verify feature count
     if len(res) != 171:
-        print(f"⚠️ Warning: Generated {len(res)} features, expected 171")
-    
+        print(f"WARNING: Generated {len(res)} features, expected 171")
+
     return res
 
 
@@ -199,18 +324,25 @@ def fetch_user_data(token_info, feature_cols):
         if len(tracks_data) < 3:
             print(f"Only {len(tracks_data)} tracks have features - need at least 3")
             return None, None, None, None
-        
-        # Aggregate features
+
+        # Aggregate statistical features (43 features)
         agg = build_features_from_tracks(tracks_data)
-        
+
         if agg is None:
             return None, None, None, None
-        
-        # Create feature vector
+
+        # Generate the 128-dim transfer embeddings using the SongAutoencoder
+        encoder, song_scaler = load_song_encoder()
+        transfer_emb_dict = encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler)
+        agg.update(transfer_emb_dict)  # Override the zero placeholders with real embeddings
+
+        print(f"Transfer embeddings non-zero count: {sum(1 for v in transfer_emb_dict.values() if v != 0.0)}/128")
+
+        # Create feature vector in exact order of feature_cols (171 total)
         raw_vector = np.zeros((1, len(feature_cols)), dtype=np.float32)
         for i, col in enumerate(feature_cols):
             raw_vector[0, i] = agg.get(col, 0.0)
-        
+
         # Load and apply scaler
         base_dir = Path(__file__).parent.parent
         scaler_path = base_dir / "data" / "processed" / "mbti_scaler.pkl"

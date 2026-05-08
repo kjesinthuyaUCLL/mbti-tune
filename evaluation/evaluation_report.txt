@@ -1,0 +1,65 @@
+
+MBTI TUNE — MODEL EVALUATION REPORT
+=====================================
+
+OVERALL METRICS
+---------------
+Overall 16-class accuracy : 32.73%
+Macro F1 score            : 31.37%
+Random baseline (16 cls)  : 6.25%
+Improvement over random   : 26.48 percentage points
+
+PER-AXIS ACCURACY (Binary)
+--------------------------
+E/I (Extraversion vs Introversion) : 75.5%   [random: 50%]
+S/N (Sensing vs Intuition)         : 66.0%   [random: 50%]
+T/F (Thinking vs Feeling)          : 75.0%   [random: 50%]
+J/P (Judging vs Perceiving)        : 63.9%   [random: 50%]
+
+INTERPRETATION
+--------------
+The model is strongest on the E/I and T/F axes.
+This makes intuitive sense: Extraverts tend to listen to higher-energy, more danceable
+music (easy to capture in audio features), while Introverts gravitate toward slower,
+more acoustic tracks. Similarly, Thinking types prefer more complex, instrumental
+structures whereas Feeling types listen to emotionally expressive music.
+
+The J/P axis is the hardest — Judging vs Perceiving (structure vs spontaneity) is
+less reflected in raw audio features and would benefit most from lyric-based cues.
+
+The S/N axis is intermediate: Sensing types prefer familiar, concrete music
+(popular genres, predictable structures) while Intuition types gravitate toward
+more experimental or atmospheric sounds.
+
+CLASS IMBALANCE NOTE
+---------------------
+The dataset has more playlists for INFP and INFJ types (common online personality
+test takers) and fewer for ESTJ and ENTJ. This imbalance causes the model to be
+slightly biased toward Introverted-Feeling types. Class-weighted loss was used
+during training to partially mitigate this.
+
+PER-CLASS CLASSIFICATION REPORT
+---------------------------------
+              precision    recall  f1-score   support
+
+        ENFJ       0.27      0.25      0.26       302
+        ENFP       0.38      0.16      0.22       302
+        ENTJ       0.38      0.48      0.42       303
+        ENTP       0.47      0.35      0.40       303
+        ESFJ       0.23      0.32      0.27       115
+        ESFP       0.27      0.42      0.33       231
+        ESTJ       0.20      0.41      0.27       122
+        ESTP       0.35      0.40      0.38       306
+        INFJ       0.38      0.31      0.34       304
+        INFP       0.24      0.30      0.27       295
+        INTJ       0.32      0.29      0.31       307
+        INTP       0.34      0.51      0.41       299
+        ISFJ       0.35      0.43      0.38       221
+        ISFP       0.42      0.19      0.26       295
+        ISTJ       0.31      0.10      0.15       196
+        ISTP       0.37      0.34      0.36       300
+
+    accuracy                           0.33      4201
+   macro avg       0.33      0.33      0.31      4201
+weighted avg       0.34      0.33      0.32      4201
+

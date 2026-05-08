@@ -410,8 +410,8 @@ else:
                 
                 with st.spinner("🤖 Analyzing your musical fingerprint..."):
                     try:
-                        # Use temperature scaling for more realistic confidence
-                        temperature = 1
+                        # Use temperature scaling to soften overconfident predictions
+                        temperature = 1.5
                         result = predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=temperature)
                         mbti_type = result["mbti"]
 

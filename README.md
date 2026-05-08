@@ -309,7 +309,7 @@ mbti-tune/
 | Limitation | Explanation |
 |------------|-------------|
 | **Spotify API deprecated** | Audio features endpoint returns 403 errors. App uses simulated features as fallback. |
-| **Transfer learning complexity** | The 128 embedding features are set to zero for individual users (no pre-computed playlist embeddings). |
+| **Transfer learning** | 128 transfer embeddings computed live via the SongAutoencoder encoder (mean/std/min/max of 32-dim latent vectors). |
 | **Limited training data** | 4,200 playlists is small for 16-class classification |
 | **Chinese/non-English tracks** | Lyrics availability is limited |
 | **Groq/Gemini rate limits** | Free tier has request limits (handled with fallbacks) |
