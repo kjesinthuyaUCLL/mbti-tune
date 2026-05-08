@@ -51,15 +51,30 @@ Top Artists: {artists_text}
 Lyrics Themes:
 {summaries_text}
 
-Write a 3-paragraph analysis with this structure:
-1. <b>Musical Fingerprint</b> (2 sentences): What their artist choices and lyrics preferences reveal about their {mbti_type} personality
-2. <b>The Playful Roast</b> (2 sentences): Lightheartedly call out their listening patterns with humor
-3. <b>The Insight</b> (2 sentences): One actionable observation about how their music taste reflects their MBTI type
+Write a structured HTML psychological profile that looks like a clean UI dashboard component. Use EXACTLY this structure:
+
+<div style="margin-bottom: 20px;">
+  <p>Based on your Spotify listening habits and lyrical themes, our neural networks have identified your primary psychological archetype as <b>{mbti_type}</b> ({personality_desc}).</p>
+</div>
+
+<h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase;">1. Your Cognitive Breakdown</h4>
+<ul>
+  <li><b>[Dominant Axis 1]</b>: (Mention the percentage here) - Short explanation of what this means generally.</li>
+  <li><b>[Dominant Axis 2]</b>: (Mention the percentage here) - Short explanation of what this means generally.</li>
+  <li><b>[Dominant Axis 3]</b>: (Mention the percentage here) - Short explanation of what this means generally.</li>
+  <li><b>[Dominant Axis 4]</b>: (Mention the percentage here) - Short explanation of what this means generally.</li>
+</ul>
+
+<h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase; margin-top: 20px;">2. The Musical Connection</h4>
+<p>Explain in 2-3 sentences how their specific top artists and specific lyrical themes perfectly align with the personality breakdown above.</p>
+
+<h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase; margin-top: 20px;">3. The Playful Roast</h4>
+<p>Lightheartedly call out their listening patterns with humor in 1-2 sentences.</p>
 
 CRITICAL INSTRUCTIONS:
 - DO NOT use ANY emojis.
-- DO NOT use asterisks (**) for bolding. Use HTML <b> tags instead.
-- Do not use markdown headers. Just write paragraphs separated by blank lines.
+- DO NOT use markdown format (like ** or #). ONLY use the exact HTML tags provided above.
+- Make the text flow nicely but keep the structure intact.
 """
     
     # Try Groq FIRST (more reliable, higher limits)
@@ -124,17 +139,20 @@ def _generate_fallback_analysis(mbti_type, result, top_artists, summaries):
     music_desc = _get_mbti_music_description(mbti_type)
     value_desc = _get_mbti_value_description(mbti_type)
     
-    return f"""<b>Your Musical Personality: {mbti_type}</b>
+    return f"""<div style="margin-bottom: 20px;">
+  <p>Based on your Spotify listening habits, our offline fallback model has identified your primary psychological archetype as <b>{mbti_type}</b> ({personality_desc}).</p>
+</div>
 
-Based on your listening habits, our AI has identified you as an <b>{mbti_type}</b> - {personality_desc}.
+<h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase;">1. Your Cognitive Breakdown</h4>
+<ul>
+  <li>{stats_text.replace(chr(10), '</li><li>')}</li>
+</ul>
 
-<b>Your Listening Profile:</b><br>{stats_text.replace(chr(10), '<br>')}
+<h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase; margin-top: 20px;">2. The Musical Connection</h4>
+<p>People with your personality type tend to gravitate towards music that {music_desc}. Your top artists include {artists_text}, which perfectly aligns with these preferences.</p>
 
-<b>What This Means:</b>
-People with your personality type tend to gravitate towards music that {music_desc}. Your top artists include {artists_text}, which aligns with these preferences.
-
-<b>The Insight:</b>
-Your music taste suggests you value {value_desc}. Consider exploring artists outside your comfort zone - you might discover new dimensions of your personality!"""
+<h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase; margin-top: 20px;">3. The Insight</h4>
+<p>Your music taste suggests you deeply value {value_desc}. Consider exploring artists outside your comfort zone to discover new dimensions of your personality!</p>"""
 
 
 def _get_mbti_music_description(mbti_type):

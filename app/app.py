@@ -351,8 +351,11 @@ else:
     with st.spinner("Extracting audio features and running neural models..."):
         features_vector, tracks, top_artists, genres, tracks_data_raw = fetch_user_data(token_info, feature_cols)
 
-    if features_vector is None or len(tracks) == 0:
-        st.error("Insufficient data found on your Spotify profile.")
+    if features_vector is None or tracks is None:
+        st.error("Data loading error. Ensure your account is registered in the Spotify Developer Dashboard and you have listened to at least 3 tracks.")
+        if st.button("Force Logout & Try Again"):
+            st.session_state.clear()
+            st.rerun()
     else:
         
         # 1. NEURAL PREDICTION

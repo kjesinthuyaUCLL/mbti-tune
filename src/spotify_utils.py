@@ -38,7 +38,7 @@ def get_spotify_oauth():
     
     return SpotifyOAuth(
         scope="user-top-read user-read-recently-played",
-        cache_path=None,
+        cache_handler=spotipy.cache_handler.MemoryCacheHandler(),
         show_dialog=True
     )
 
@@ -274,7 +274,7 @@ def fetch_user_data(token_info, feature_cols):
     
     if not access_token:
         print("No access token found")
-        return None, None, None, None
+        return None, None, None, None, None
     
     try:
         sp = spotipy.Spotify(auth=access_token)
@@ -286,14 +286,14 @@ def fetch_user_data(token_info, feature_cols):
         except spotipy.exceptions.SpotifyException as e:
             if e.http_status == 401 or e.http_status == 403:
                 print("❌ Token expired or invalid. Please log out and log in again.")
-                return None, None, None, None
+                return None, None, None, None, None
             else:
                 print(f"❌ Spotify error: {e.http_status}")
-                return None, None, None, None
+                return None, None, None, None, None
             
     except Exception as e:
         print(f"Error creating Spotify client: {e}")
-        return None, None, None, None
+        return None, None, None, None, None
     
     try:
         # Get top 20 tracks (medium_term = last 6 months)
@@ -301,7 +301,7 @@ def fetch_user_data(token_info, feature_cols):
         
         if not top or not top['items']:
             print("No top tracks found")
-            return None, None, None, None
+            return None, None, None, None, None
         
         items = top['items']
         track_info = []
@@ -325,13 +325,13 @@ def fetch_user_data(token_info, feature_cols):
         
         if len(tracks_data) < 3:
             print(f"Only {len(tracks_data)} tracks have features - need at least 3")
-            return None, None, None, None
+            return None, None, None, None, None
 
         # Aggregate statistical features (43 features)
         agg = build_features_from_tracks(tracks_data)
 
         if agg is None:
-            return None, None, None, None
+            return None, None, None, None, None
 
         # Generate the 128-dim transfer embeddings using the SongAutoencoder
         encoder, song_scaler = load_song_encoder()
@@ -386,4 +386,4 @@ def fetch_user_data(token_info, feature_cols):
         print(f"Error in fetch_user_data: {e}")
         import traceback
         traceback.print_exc()
-        return None, None, None, None
+        return None, None, None, None, None
