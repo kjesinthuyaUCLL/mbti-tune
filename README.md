@@ -6,6 +6,38 @@ An AI-powered web application that predicts MBTI personality types from Spotify 
 
 ---
 
+## Setup Instructions
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/kjesinthuyaUCLL/mbti-tune.git
+cd mbti-tune
+```
+
+2. **Create a virtual environment (optional but recommended)**
+```bash
+python -m venv venv
+# On Windows:
+venv\Scripts\activate
+# On Mac/Linux:
+source venv/bin/activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+4. **Set up Environment Variables**
+Create a `.env` file in the root directory (see the Environment Variables section below for required keys).
+
+5. **Run the Application**
+```bash
+streamlit run app/app.py
+```
+
+---
+
 ## Notebooks
 
 ### 1. `MBTI_Tracks_Autoencoder.ipynb`
