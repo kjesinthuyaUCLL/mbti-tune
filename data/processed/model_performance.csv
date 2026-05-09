@@ -1,0 +1,6 @@
+Metric,Score,vs_Random
+Overall Accuracy,0.3312202852614897,5.9x
+E/I Axis,0.767,1.53x
+S/N Axis,0.697,1.39x
+T/F Axis,0.75,1.50x
+J/P Axis,0.658,1.32x

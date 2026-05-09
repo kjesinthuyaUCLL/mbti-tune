@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large model files (exceed GitHub limit)
+data/processed/genre_classifier.pkl
+data/processed/genre_scaler.pkl

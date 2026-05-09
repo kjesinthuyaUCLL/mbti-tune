@@ -162,25 +162,55 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
 
 
 def generate_simulated_features(track_name, artist_name):
-    """Generate realistic simulated audio features when track not found"""
+    """Generate realistic simulated audio features with realistic variance."""
     import hashlib
-    # Use hashlib to create a deterministic seed across Python runs (built-in hash() is randomized)
+    import numpy as np
+    
+    # Deterministic seed
     seed_str = f"{track_name}_{artist_name}".encode('utf-8')
     seed = int(hashlib.md5(seed_str).hexdigest()[:8], 16)
-    random.seed(seed)
+    np.random.seed(seed)
     
+    # Use Beta distribution instead of Uniform (creates more realistic clustering)
+    # Beta(2,5) skews toward lower values, Beta(5,2) skews toward higher
+    def bounded_beta(a, b, low, high):
+        return low + (high - low) * np.random.beta(a, b)
+    
+    # Realistic ranges with moderate variance (not extreme)
     features = {
-        'danceability': random.uniform(0.2, 0.9),
-        'energy': random.uniform(0.2, 0.95),
-        'valence': random.uniform(0.1, 0.9),
-        'acousticness': random.uniform(0.0, 0.9),
-        'instrumentalness': random.uniform(0.0, 0.3),
-        'speechiness': random.uniform(0.03, 0.3),
-        'loudness': random.uniform(-15, -3),
-        'tempo': random.uniform(70, 160),
-        'liveness': random.uniform(0.08, 0.4),
-        'key': random.randint(0, 11),
-        'mode': random.randint(0, 1)
+        # Danceability: most songs 0.3-0.8 (Beta distribution centered ~0.55)
+        'danceability': bounded_beta(3, 3, 0.25, 0.85),
+        
+        # Energy: most songs 0.3-0.9 (slightly skewed toward higher)
+        'energy': bounded_beta(2.5, 3, 0.2, 0.92),
+        
+        # Valence: most songs 0.2-0.8 (centered)
+        'valence': bounded_beta(3, 3, 0.15, 0.85),
+        
+        # Acousticness: bimodal (either very acoustic or not)
+        # 40% chance acoustic, 60% chance not
+        'acousticness': bounded_beta(1.5, 4, 0, 0.5) if np.random.random() < 0.4 else bounded_beta(4, 1.5, 0.5, 0.95),
+        
+        # Instrumentalness: most songs have very low (near 0)
+        'instrumentalness': bounded_beta(0.8, 5, 0, 0.15) if np.random.random() < 0.9 else bounded_beta(3, 3, 0.15, 0.8),
+        
+        # Speechiness: most songs low (0.03-0.15), rap higher
+        'speechiness': bounded_beta(1.2, 6, 0.025, 0.12) if np.random.random() < 0.7 else bounded_beta(3, 2, 0.12, 0.35),
+        
+        # Loudness: typical range -15 to -3 dB
+        'loudness': bounded_beta(2.5, 2.5, -14, -4),
+        
+        # Tempo: typical songs 70-160 BPM, cluster around 90-120
+        'tempo': bounded_beta(2, 2, 65, 155),
+        
+        # Liveness: most songs low (0.05-0.3)
+        'liveness': bounded_beta(1.5, 5, 0.04, 0.35),
+        
+        # Key: uniform distribution (12 keys equally likely)
+        'key': np.random.randint(0, 12),
+        
+        # Mode: 70% major, 30% minor (typical distribution)
+        'mode': 1 if np.random.random() < 0.7 else 0
     }
     
     return features
