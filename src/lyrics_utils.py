@@ -9,7 +9,6 @@ load_dotenv()
 
 
 def generate_lyrics_summary(track_name, artist_name, lyrics):
-    """Generate summary using Groq (fast) or fallback"""
     if not lyrics or len(lyrics.strip()) < 50:
         return None
     
@@ -22,13 +21,13 @@ Lyrics: {lyrics}
 
 Theme:"""
     
-    # Try Groq first (fast and reliable)
+    # Try Groq first
     if is_groq_available():
         response = generate_with_groq(prompt, max_retries=1, model_name="llama-3.1-8b-instant")
         if response:
             return response
             
-    # Fallback to Gemini if Groq is not available
+    # Fallback to Gemini
     try:
         import google.generativeai as genai
         # Use the correct model name that doesn't throw 404
@@ -39,7 +38,7 @@ Theme:"""
     except Exception as e:
         print(f"Gemini fallback failed: {e}")
         
-    # OFFLINE FALLBACK (If API Quota is Exceeded)
+    # OFFLINE FALLBACK
     lyrics_lower = lyrics.lower()
     themes = []
     if any(w in lyrics_lower for w in ["amore", "cuore", "love", "heart", "baby"]):
@@ -58,10 +57,9 @@ Theme:"""
 
 
 def fetch_lyrics(track_name, artist_name):
-    """Fetch lyrics from APIs, return lyrics string or None"""
     lyrics = None
     
-    # Try LRCLIB first
+    # LRCLIB
     try:
         encoded_name = urllib.parse.quote(track_name)
         encoded_artist = urllib.parse.quote(artist_name)
@@ -77,7 +75,7 @@ def fetch_lyrics(track_name, artist_name):
     except Exception as e:
         print(f"LRCLIB error for {track_name}: {e}")
     
-    # Try Lyrics.ovh as fallback
+    # Lyrics.ovh as fallback
     if not lyrics:
         try:
             url = f"https://api.lyrics.ovh/v1/{urllib.parse.quote(artist_name)}/{urllib.parse.quote(track_name)}"
@@ -95,17 +93,7 @@ def fetch_lyrics(track_name, artist_name):
 
 
 def build_lyrics_context(tracks, needed=3):
-    """
-    Fetch lyrics from top tracks, searching through all until we find 'needed' songs with lyrics.
-    Only show error if no lyrics found after checking all tracks.
-    
-    Args:
-        tracks: List of (track_name, artist_name, album_art_url) tuples
-        needed: Number of tracks with lyrics needed (default 3)
-    
-    Returns:
-        List of summary strings
-    """
+
     summaries = []
     
     # Search through all tracks until we find enough with lyrics

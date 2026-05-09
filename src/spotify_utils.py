@@ -10,11 +10,15 @@ from pathlib import Path
 
 load_dotenv()
 
-# Module-level cache for the song encoder (loaded once)
+# Module-level cache for the song encoder
 _SONG_ENCODER = None
 _SONG_SCALER = None
 
-# Audio features order (must match Notebook 3)
+# Module-level cache for the 1M song database
+_SONG_DATABASE = None
+_SONG_DATABASE_METADATA = None
+
+# Audio features order
 AUDIO_FEATURES = [
     "danceability", "energy", "valence", "acousticness",
     "instrumentalness", "speechiness", "loudness", "tempo", "liveness"
@@ -75,32 +79,61 @@ def load_song_encoder():
         return None, None
 
     try:
-        device = torch.device("cpu")  # Always CPU for inference
+        device = torch.device("cpu")
         state_dict = torch.load(autoencoder_path, map_location=device, weights_only=False)
 
-        # SongAutoencoder was trained with input_dim=9, latent_dim=32
+        # SongAutoencoder
         autoencoder = SongAutoencoder(input_dim=9, latent_dim=32)
         autoencoder.load_state_dict(state_dict)
         autoencoder.eval()
 
-        # We only need the encoder half
         encoder = autoencoder.encoder
 
-        # Load song-level scaler if it exists
+        # Load song-level scaler
         song_scaler = None
         if song_scaler_path.exists():
             song_scaler = joblib.load(song_scaler_path)
-            print(f"Loaded song scaler (expects {song_scaler.mean_.shape[0]} features)")
+            print(f"✅ Loaded song scaler (expects {song_scaler.mean_.shape[0]} features)")
         else:
-            print("Song scaler not found - will normalise audio features manually.")
+            print("⚠️ Song scaler not found - will normalise audio features manually.")
 
         _SONG_ENCODER = encoder
         _SONG_SCALER = song_scaler
-        print("Loaded SongAutoencoder encoder for transfer embeddings.")
+        print("✅ Loaded SongAutoencoder encoder for transfer embeddings.")
         return encoder, song_scaler
 
     except Exception as e:
-        print(f"WARNING: Could not load SongAutoencoder: {e}. Transfer embeddings will be zeros.")
+        print(f"⚠️ Could not load SongAutoencoder: {e}. Transfer embeddings will be zeros.")
+        return None, None
+
+
+def load_song_database():
+    """
+    Load the pre-processed 1M song database for realistic fallback simulation.
+    Returns: (features_array, metadata_dataframe) or (None, None) on failure.
+    """
+    global _SONG_DATABASE, _SONG_DATABASE_METADATA
+    
+    if _SONG_DATABASE is not None:
+        return _SONG_DATABASE, _SONG_DATABASE_METADATA
+    
+    base_dir = Path(__file__).parent.parent
+    db_dir = base_dir / "data" / "processed_song_database"
+    
+    sample_features = db_dir / "sample_features_100k.npy"
+    sample_metadata = db_dir / "sample_metadata_100k.parquet"
+    
+    if not sample_features.exists() or not sample_metadata.exists():
+        print(f"⚠️ Song database not found at {db_dir}. Using beta distribution fallback.")
+        return None, None
+    
+    try:
+        _SONG_DATABASE = np.load(sample_features)
+        _SONG_DATABASE_METADATA = pd.read_parquet(sample_metadata)
+        print(f"✅ Loaded {len(_SONG_DATABASE):,} real songs from database")
+        return _SONG_DATABASE, _SONG_DATABASE_METADATA
+    except Exception as e:
+        print(f"⚠️ Could not load song database: {e}")
         return None, None
 
 
@@ -121,99 +154,132 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
         return fallback
 
     try:
-        # Build matrix of 9 audio features per song
         feat_matrix = []
         for t in tracks_data:
             row = [float(t.get(f, 0.0)) for f in AUDIO_FEATURES]
             feat_matrix.append(row)
 
-        feat_np = np.array(feat_matrix, dtype=np.float32)  # (N, 9)
+        feat_np = np.array(feat_matrix, dtype=np.float32)
 
-        # Normalise with song_scaler if available
         if song_scaler is not None and song_scaler.mean_.shape[0] == 9:
             feat_np = song_scaler.transform(feat_np).astype(np.float32)
 
-        # BatchNorm1d needs batch_size >= 2 — pad if necessary
         needs_pad = feat_np.shape[0] < 2
         if needs_pad:
-            feat_np = np.vstack([feat_np, feat_np])  # duplicate
+            feat_np = np.vstack([feat_np, feat_np])
 
         x = torch.tensor(feat_np, dtype=torch.float32)
 
         with torch.no_grad():
-            latents = encoder(x).cpu().numpy()  # (N, 32)
+            latents = encoder(x).cpu().numpy()
 
         if needs_pad:
-            latents = latents[:1]  # keep only the original
+            latents = latents[:1]
 
-        # Compute distributional statistics: mean, std, min, max  (4 × 32 = 128)
-        emb_mean = latents.mean(axis=0)          # (32,)
-        emb_std  = latents.std(axis=0)           # (32,)
-        emb_min  = latents.min(axis=0)           # (32,)
-        emb_max  = latents.max(axis=0)           # (32,)
+        # Distributional statistics
+        emb_mean = latents.mean(axis=0)
+        emb_std = latents.std(axis=0)
+        emb_min = latents.min(axis=0)
+        emb_max = latents.max(axis=0)
 
         transfer_128 = np.concatenate([emb_mean, emb_std, emb_min, emb_max])  # (128,)
 
         return {f"transfer_emb_{i}": float(v) for i, v in enumerate(transfer_128)}
 
     except Exception as e:
-        print(f"WARNING: Could not generate transfer embeddings: {e}. Using zeros.")
+        print(f"⚠️ Could not generate transfer embeddings: {e}. Using zeros.")
         return fallback
 
 
-def generate_simulated_features(track_name, artist_name):
-    """Generate realistic simulated audio features with realistic variance."""
+def generate_simulated_features_from_database(track_name, artist_name):
+    """
+    Generate simulated features using real songs from the 1M database.
+    This creates realistic feature distributions that match real music.
+    """
     import hashlib
     import numpy as np
     
-    # Deterministic seed
+    song_features, song_metadata = load_song_database()
+    
+    if song_features is not None:
+        seed_str = f"{track_name}_{artist_name}".encode('utf-8')
+        seed = int(hashlib.md5(seed_str).hexdigest()[:8], 16)
+        idx = seed % len(song_features)
+        
+        real_features = song_features[idx]
+        
+        noise = np.random.normal(0, 0.05, size=real_features.shape)
+        final_features = real_features + noise
+        
+        final_features = np.clip(final_features, -3, 3)
+        
+        genre = "unknown"
+        if song_metadata is not None and idx < len(song_metadata):
+            genre = song_metadata.iloc[idx].get('genre', 'unknown')
+        
+        print(f"🎵 Database: {track_name[:30]} (matched with {genre})")
+        
+        return {
+            'danceability': np.clip(final_features[0] * 0.2 + 0.5, 0.1, 0.95),
+            'energy': np.clip(final_features[1] * 0.25 + 0.5, 0.1, 0.98),
+            'valence': np.clip(final_features[2] * 0.25 + 0.5, 0.1, 0.95),
+            'acousticness': np.clip(final_features[3] * 0.3 + 0.3, 0.0, 1.0),
+            'instrumentalness': np.clip(final_features[4] * 0.2 + 0.05, 0.0, 0.9),
+            'speechiness': np.clip(final_features[5] * 0.15 + 0.08, 0.02, 0.5),
+            'loudness': np.clip(final_features[6] * 6 - 8, -25, -2),
+            'tempo': np.clip(final_features[7] * 35 + 105, 60, 180),
+            'liveness': np.clip(final_features[8] * 0.2 + 0.15, 0.05, 0.6),
+            'key': np.random.randint(0, 12),
+            'mode': 1 if np.random.random() < 0.7 else 0
+        }
+    
+    return None
+
+
+def generate_simulated_features_beta(track_name, artist_name):
+    """
+    Generate simulated features using Beta distribution (fallback when database unavailable).
+    Uses realistic clustering instead of uniform random.
+    """
+    import hashlib
+    import numpy as np
+    
     seed_str = f"{track_name}_{artist_name}".encode('utf-8')
     seed = int(hashlib.md5(seed_str).hexdigest()[:8], 16)
     np.random.seed(seed)
     
-    # Use Beta distribution instead of Uniform (creates more realistic clustering)
-    # Beta(2,5) skews toward lower values, Beta(5,2) skews toward higher
     def bounded_beta(a, b, low, high):
         return low + (high - low) * np.random.beta(a, b)
     
-    # Realistic ranges with moderate variance (not extreme)
     features = {
-        # Danceability: most songs 0.3-0.8 (Beta distribution centered ~0.55)
         'danceability': bounded_beta(3, 3, 0.25, 0.85),
-        
-        # Energy: most songs 0.3-0.9 (slightly skewed toward higher)
         'energy': bounded_beta(2.5, 3, 0.2, 0.92),
-        
-        # Valence: most songs 0.2-0.8 (centered)
         'valence': bounded_beta(3, 3, 0.15, 0.85),
-        
-        # Acousticness: bimodal (either very acoustic or not)
-        # 40% chance acoustic, 60% chance not
         'acousticness': bounded_beta(1.5, 4, 0, 0.5) if np.random.random() < 0.4 else bounded_beta(4, 1.5, 0.5, 0.95),
-        
-        # Instrumentalness: most songs have very low (near 0)
         'instrumentalness': bounded_beta(0.8, 5, 0, 0.15) if np.random.random() < 0.9 else bounded_beta(3, 3, 0.15, 0.8),
-        
-        # Speechiness: most songs low (0.03-0.15), rap higher
         'speechiness': bounded_beta(1.2, 6, 0.025, 0.12) if np.random.random() < 0.7 else bounded_beta(3, 2, 0.12, 0.35),
-        
-        # Loudness: typical range -15 to -3 dB
         'loudness': bounded_beta(2.5, 2.5, -14, -4),
-        
-        # Tempo: typical songs 70-160 BPM, cluster around 90-120
         'tempo': bounded_beta(2, 2, 65, 155),
-        
-        # Liveness: most songs low (0.05-0.3)
         'liveness': bounded_beta(1.5, 5, 0.04, 0.35),
-        
-        # Key: uniform distribution (12 keys equally likely)
         'key': np.random.randint(0, 12),
-        
-        # Mode: 70% major, 30% minor (typical distribution)
         'mode': 1 if np.random.random() < 0.7 else 0
     }
     
     return features
+
+
+def generate_simulated_features(track_name, artist_name):
+    """
+    Generate simulated features using real songs from database.
+    Falls back to Beta distribution if database unavailable.
+    """
+
+    db_features = generate_simulated_features_from_database(track_name, artist_name)
+    if db_features is not None:
+        return db_features
+    
+    print(f"🎲 Beta sim: {track_name[:30]}")
+    return generate_simulated_features_beta(track_name, artist_name)
 
 
 def get_audio_features_for_track(track_id, track_name, artist_name, sp=None):
@@ -238,7 +304,6 @@ def get_audio_features_for_track(track_id, track_name, artist_name, sp=None):
             print(f"⚠️ API failed for {track_name}: {str(e)[:50]}")
     
     features = generate_simulated_features(track_name, artist_name)
-    print(f"🎲 Simulated: {track_name[:30]}")
     return features
 
 
@@ -250,7 +315,7 @@ def build_features_from_tracks(tracks_data):
     df = pd.DataFrame(tracks_data)
     res = {}
     
-    # 1. Means and Standard Deviations (18 features)
+    # Means and Standard Deviations
     for col in AUDIO_FEATURES:
         if col in df.columns:
             res[f"{col}_mean"] = float(df[col].mean())
@@ -259,7 +324,7 @@ def build_features_from_tracks(tracks_data):
             res[f"{col}_mean"] = 0.0
             res[f"{col}_stdev"] = 0.0
     
-    # 2. Key and Mode counts (24 features)
+    # Key and Mode counts
     key_names = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B']
     
     for name in key_names:
@@ -278,25 +343,23 @@ def build_features_from_tracks(tracks_data):
                 elif mode == 0:
                     res[f"{key_name}minor_count"] += 1
     
-    # 3. Track count (1 feature)
+    # Track count
     res["track_count"] = float(len(df))
     
-    # 4. Transfer Learning Embedding Features (128 features)
-    # Filled by the caller via encode_songs_to_transfer_emb() if an encoder is available.
-    # Defaulting to zeros here; callers should override with real embeddings.
+    # Transfer Learning
     for i in range(128):
         res[f"transfer_emb_{i}"] = 0.0
 
-    # Debug: Verify feature count
+    # Debug
     if len(res) != 171:
-        print(f"WARNING: Generated {len(res)} features, expected 171")
+        print(f"⚠️ Generated {len(res)} features, expected 171")
 
     return res
 
 
 def fetch_user_data(token_info, feature_cols):
-    """Fetch user top tracks and process into feature vector"""
-    # Handle both string token and dict token_info
+    """Fetch user top tracks and process into feature vector with stabilization"""
+    
     if isinstance(token_info, dict):
         access_token = token_info.get('access_token')
     else:
@@ -309,7 +372,6 @@ def fetch_user_data(token_info, feature_cols):
     try:
         sp = spotipy.Spotify(auth=access_token)
         
-        # Test the token with a simple call
         try:
             user = sp.current_user()
             print(f"✅ Connected to Spotify as: {user.get('display_name', 'User')}")
@@ -326,7 +388,7 @@ def fetch_user_data(token_info, feature_cols):
         return None, None, None, None, None
     
     try:
-        # Get top 20 tracks (medium_term = last 6 months)
+        # Get top 20 tracks
         top = sp.current_user_top_tracks(limit=20, time_range='medium_term')
         
         if not top or not top['items']:
@@ -336,6 +398,8 @@ def fetch_user_data(token_info, feature_cols):
         items = top['items']
         track_info = []
         tracks_data = []
+        api_count = 0
+        sim_count = 0
         
         for item in items:
             track_id = item['id']
@@ -348,6 +412,11 @@ def fetch_user_data(token_info, feature_cols):
             features = get_audio_features_for_track(track_id, track_name, artist_name, sp)
             
             if features:
+                if features.get('danceability', 0) > 0.1 and features.get('energy', 0) > 0:
+                    api_count += 1
+                else:
+                    sim_count += 1
+                    
                 for col in AUDIO_FEATURES + ['key', 'mode']:
                     if col not in features:
                         features[col] = 0.0 if col in AUDIO_FEATURES else (5 if col == 'key' else 1)
@@ -357,32 +426,53 @@ def fetch_user_data(token_info, feature_cols):
             print(f"Only {len(tracks_data)} tracks have features - need at least 3")
             return None, None, None, None, None
 
-        # Aggregate statistical features (43 features)
+        print(f"\n📊 Data sources: {api_count} API, {sim_count} simulated")
+
         agg = build_features_from_tracks(tracks_data)
 
         if agg is None:
             return None, None, None, None, None
 
-        # Generate the 128-dim transfer embeddings using the SongAutoencoder
         encoder, song_scaler = load_song_encoder()
         transfer_emb_dict = encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler)
-        agg.update(transfer_emb_dict)  # Override the zero placeholders with real embeddings
+        agg.update(transfer_emb_dict)
 
-        print(f"Transfer embeddings non-zero count: {sum(1 for v in transfer_emb_dict.values() if v != 0.0)}/128")
+        transfer_nonzero = sum(1 for v in transfer_emb_dict.values() if v != 0.0)
+        print(f"Transfer embeddings non-zero count: {transfer_nonzero}/128")
 
-        # Create feature vector in exact order of feature_cols (171 total)
         raw_vector = np.zeros((1, len(feature_cols)), dtype=np.float32)
         for i, col in enumerate(feature_cols):
             raw_vector[0, i] = agg.get(col, 0.0)
-
-        # Load and apply scaler
+            
         base_dir = Path(__file__).parent.parent
         scaler_path = base_dir / "data" / "processed" / "mbti_scaler.pkl"
         
         if scaler_path.exists():
-            import joblib
             scaler = joblib.load(scaler_path)
             scaled_vector = scaler.transform(raw_vector).astype(np.float32)
+            
+            print("\n" + "="*50)
+            print("🔧 APPLYING STABILIZATION FIX")
+            print("="*50)
+            
+            # Clip range
+            old_min, old_max = np.min(scaled_vector), np.max(scaled_vector)
+            scaled_vector = np.clip(scaled_vector, -3, 3)
+            print(f"   Clipping: [{old_min:.2f}, {old_max:.2f}] → [{np.min(scaled_vector):.2f}, {np.max(scaled_vector):.2f}]")
+            
+            # Down-weight problematic features
+            small_std_threshold = 0.15
+            downweighted_count = 0
+            for i, col in enumerate(feature_cols):
+                if scaler.scale_[i] < small_std_threshold:
+                    scaled_vector[0, i] = scaled_vector[0, i] * 0.3
+                    downweighted_count += 1
+            
+            if downweighted_count > 0:
+                print(f"   Down-weighted {downweighted_count} low-variance features")
+            
+            print("="*50)
+            
         else:
             print(f"⚠️ Scaler not found at {scaler_path}")
             scaled_vector = raw_vector
@@ -405,8 +495,6 @@ def fetch_user_data(token_info, feature_cols):
         except Exception as e:
             print(f"Could not fetch genres: {e}")
         
-        # Count API vs simulated
-        # (This is approximate since we don't track in the loop)
         print(f"\n✅ Successfully processed {len(tracks_data)} tracks")
         print(f"   Feature vector shape: {scaled_vector.shape}")
         

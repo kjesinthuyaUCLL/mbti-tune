@@ -3,7 +3,6 @@ import torch.nn as nn
 
 
 class SongAutoencoder(nn.Module):
-    """Matches Architecture from Notebook 1"""
     def __init__(self, input_dim: int = 9, latent_dim: int = 32):
         super().__init__()
         self.encoder = nn.Sequential(
@@ -32,7 +31,6 @@ class SongAutoencoder(nn.Module):
 
 
 class PlaylistLSTMEncoder(nn.Module):
-    """Matches Architecture from Notebook 2"""
     def __init__(self, input_dim: int = 12, hidden_dim: int = 128, latent_dim: int = 64):
         super().__init__()
         self.lstm = nn.LSTM(input_size=input_dim, hidden_size=hidden_dim, 
@@ -50,10 +48,6 @@ class PlaylistLSTMEncoder(nn.Module):
 
 
 class MBTIClassifier(nn.Module):
-    """
-    MBTI Classifier - Matches the trained model from Notebook 3
-    Architecture: input_dim → 64 → 32 → 16 → 16
-    """
     def __init__(self, input_dim: int, num_classes: int = 16):
         super().__init__()
         self.net = nn.Sequential(

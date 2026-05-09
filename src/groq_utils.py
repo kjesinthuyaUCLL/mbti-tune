@@ -12,7 +12,6 @@ _groq_client = None
 
 
 def get_groq_client():
-    """Get Groq client instance (singleton)"""
     global _groq_client
     if _groq_client is None and GROQ_API_KEY:
         try:
@@ -25,17 +24,7 @@ def get_groq_client():
 
 
 def generate_with_groq(prompt, model_name="llama-3.3-70b-versatile", max_retries=2):
-    """
-    Generate text using Groq API
-    
-    Args:
-        prompt: The prompt text
-        model_name: Groq model (options: "llama-3.3-70b-versatile", "llama-3.1-8b-instant")
-        max_retries: Number of retries on failure
-    
-    Returns:
-        Generated text or None if failed
-    """
+
     client = get_groq_client()
     if not client:
         print("⚠️ Groq client not available")
@@ -70,12 +59,10 @@ def generate_with_groq(prompt, model_name="llama-3.3-70b-versatile", max_retries
 
 
 def generate_with_groq_short(prompt, max_retries=2):
-    """Generate using faster model for simple tasks"""
     return generate_with_groq(prompt, model_name="llama-3.1-8b-instant", max_retries=max_retries)
 
 
 def is_groq_available():
-    """Check if Groq API is configured and working"""
     if not GROQ_API_KEY:
         return False
     client = get_groq_client()
@@ -83,7 +70,6 @@ def is_groq_available():
 
 
 def test_groq_connection():
-    """Test if Groq API is working"""
     try:
         result = generate_with_groq("Say 'OK' in one word.", max_retries=1)
         return result is not None and "OK" in str(result).upper()

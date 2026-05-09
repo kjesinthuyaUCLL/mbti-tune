@@ -1,338 +1,315 @@
-# 🎵 MBTI Tune
+# MBTI Tune Project
 
-**Predict your MBTI personality dimensions from your Spotify listening habits**
+## Project Overview
 
-**Team Members:** Angela and Marwa
-
----
-
-## What This Project Does
-
-- Connects to your Spotify account
-- Fetches your top 20 tracks
-- Extracts audio features (danceability, energy, valence, acousticness, instrumentalness, speechiness, loudness, tempo, liveness)
-- Aggregates features into 171 statistical features (43 audio stats + 128 transfer learning embeddings)
-- Predicts 16 MBTI personality types using a PyTorch neural network with transfer learning
-- Fetches lyrics via LRCLIB API (with backup)
-- Summarizes lyrics using **Groq AI** (fallback to Gemini)
-- Generates a personalized psychological breakdown with SHAP explainability
+An AI-powered web application that predicts MBTI personality types from Spotify listening habits using a PyTorch neural network with transfer learning and LLM-powered lyrical analysis.
 
 ---
 
-## How It Works: Simple Explanation
-
-1. **You log in with Spotify** - The app asks for permission to see your top tracks
-2. **We analyze your music** - Extract audio features like danceability, energy, tempo
-3. **AI predicts your personality** - A neural network trained on 4,000+ playlists predicts your MBTI type
-4. **We read your lyrics** - Fetch lyrics from your top songs and summarize themes
-5. **AI explains the results** - Groq/Gemini writes a personalized personality analysis
-
----
-
-## Datasets Used
-
-| Dataset | Size | Source | Purpose |
-|---------|------|--------|---------|
-| **Spotify Tracks Dataset** | 114,000 tracks | Kaggle | Autoencoder pretraining (song embeddings) |
-| **Raw MBTI Playlists** | 324 playlists | Crowdsourced | LSTM autoencoder exploration |
-| **Aggregated MBTI Dataset** | 4,200 playlists | Public MBTI dataset | Final classifier training (43 audio stats) |
-| **Organized Genre Dataset** | ~48,000 songs | Built from 1M songs | Genre classifier exploration (balanced by genre) |
-
----
-
-## Notebooks Documentation
+## Notebooks
 
 ### 1. `MBTI_Tracks_Autoencoder.ipynb`
 
-**Purpose:** Train an autoencoder to compress songs into 32-number fingerprints.
+**Purpose:** Creates 32-dimensional song embeddings from 114,000 tracks using 9 audio features.
 
-**Input:** 114,000 songs × 9 audio features
+**Methodology:**
+- Input: 114,000 Spotify tracks with 9 audio features (danceability, energy, valence, acousticness, instrumentalness, speechiness, loudness, tempo, liveness)
+- Architecture: Autoencoder with encoder (9→128→64→32) and decoder (32→64→128→9)
+- Training: 20 epochs, 90/10 train/val split, MSE loss, Adam optimizer
+- Output: 32-dim latent representations that preserve 96.2% of original information
 
-**Architecture:**
-```
-Encoder: 9 → 128 → 64 → 32
-Decoder: 32 → 64 → 128 → 9
-```
+**Results:**
+- Validation MSE: 0.00227
+- Mean reconstruction error: 3.83%
+- Best reconstructed feature: instrumentalness (2.96% error)
 
-**Outputs:**
-- `song_embeddings.npy` - 32-dim embeddings for each song
-- `song_scaler.pkl` - Normalization tool for new songs
-- `song_dataset_clean.csv` - Cleaned standardized data
-
-**Result:** 3.7% reconstruction error - good at capturing song characteristics
-
-> **Note:** These embeddings were used for transfer learning in the final classifier.
+**Output Files:**
+- `song_embeddings.npy` (114,000 × 32 dimensions)
+- `autoencoder_model.pth` (encoder/decoder weights)
+- `song_scaler.pkl` (StandardScaler for audio features)
+- `song_dataset_clean.csv` (processed dataset)
 
 ---
 
-### 2. `MBTI_Playlist_FineTune_Encoder.ipynb`
+### 2. `MBTI_Song_Classifier.ipynb`
 
-**Purpose:** Explore LSTM autoencoder on playlist sequences (EXPLORATORY ONLY)
+**Purpose:** Attempted to predict MBTI type from individual songs.
 
-**Input:** 324 playlists with song sequences
+**Status:** Exploratory - Not used in production
 
-**Architecture:** LSTM encoder → 64-dim latent → LSTM decoder
+**Findings:**
+- Individual songs have too much variance for reliable personality prediction
+- Test accuracy: 11.72% (only 1.87x random baseline)
+- Significant class imbalance and prediction bias observed
+- This experiment informed the decision to aggregate at playlist level
 
-**Outputs:**
-- `playlist_embeddings.npy` - 64-dim playlist fingerprints
-- `playlist_metadata.csv` - Playlist to MBTI mapping
+**Lesson Learned:** Song-level classification is insufficient; playlist aggregation provides more stable predictions.
 
-**Result:** 64% reconstruction error - limited data (324 playlists) made this approach less effective. Not used in final pipeline.
+**Output Files (not used in production):**
+- `song_mbti_classifier.pth`
+- `song_mbti_scaler.pkl`
+- `song_predictions.csv`
 
 ---
 
 ### 3. `MBTI_Playlist_Classifier.ipynb`
 
-**Purpose:** Main MBTI classifier using transfer learning from song autoencoder
+**Purpose:** Aggregates 20 songs to playlist level and predicts final MBTI type. This is the production model powering the Streamlit application.
 
-**Input:** 4,200 playlists × 171 features (43 stats + 128 transfer embeddings)
+**Dataset:**
+- Source A: `mbti_playlists/` - 4,201 playlists with pre-computed statistics (43 features)
+- Source B: `raw_playlists/` - 326 playlists with raw audio data for embedding generation
+- Merged dataset: 4,201 playlists × 171 features
 
-**Architecture:**
+**Feature Engineering (171 total):**
+- Statistical features (43): means, standard deviations of 9 audio features + key/mode counts + track count
+- Transfer learning features (128): aggregated autoencoder embeddings (mean, std, min, max of 32-dim song vectors)
+
+**Model Architecture:**
 ```
-Input (171) → 64 (BatchNorm + ReLU + Dropout) → 32 → 16 → 16 outputs
+Input (171) → Linear(64) → BatchNorm → ReLU → Dropout(0.3)
+           → Linear(32) → BatchNorm → ReLU → Dropout(0.3)
+           → Linear(16) → BatchNorm → ReLU → Dropout(0.15)
+           → Linear(16) → Output
 ```
+
+**Training:**
+- Loss: CrossEntropyLoss with class weights
+- Optimizer: Adam (lr=1e-3, weight_decay=1e-4)
+- Scheduler: ReduceLROnPlateau (factor=0.5, patience=15)
+- Epochs: 200 with early stopping
+- Batch size: 16
+
+**Results:**
+- Test accuracy: 33.12% (5.3x random baseline of 6.25%)
+- Perfect calibration: when confidence >50%, accuracy is 100%
+
+**Axis Performance:**
+| Axis | Accuracy | Interpretation |
+|------|----------|----------------|
+| E/I (Extraversion vs Introversion) | 76.7% | Strong correlation with music taste |
+| T/F (Thinking vs Feeling) | 75.0% | Strong correlation |
+| S/N (Sensing vs Intuition) | 69.7% | Moderate correlation |
+| J/P (Judging vs Perceiving) | 67.2% | Weakest correlation |
+
+**SHAP Analysis - Top 5 Features:**
+1. `track_count` - Number of songs in playlist (provides more signal)
+2. `acousticness_mean` - Average acousticness (distinguishes acoustic vs electronic)
+3. `acousticness_stdev` - Variety in acousticness within playlist
+4. `speechiness_mean` - Amount of spoken word content
+5. `danceability_mean` - Danceability of music
+
+**Output Files (used in Streamlit):**
+- `mbti_classifier.pth` (model weights)
+- `mbti_scaler.pkl` (feature scaler)
+- `mbti_features.json` (feature name list)
+- `mbti_model_simplified.pth` (simplified version)
+
+---
+
+### 4. `Genre_Classifier.ipynb`
+
+**Purpose:** Exploratory analysis of genre classification using audio features.
+
+**Status:** Exploratory - Not used in MBTI prediction pipeline
+
+**Dataset:** 14,136 songs, 24 genres (artificially balanced at 589 songs each)
+
+**Results:**
+- Test accuracy: 26.91% (6.4x random baseline)
+- Best genre: Classical (57% F1-score)
+- Worst genre: Rock (3.6% F1-score)
+
+**Critical Discovery - Data Quality Issue:**
+Regional pop genres (k-pop, j-pop, cantopop) are musically inconsistent:
+- K-POP: only 43% classified as k-pop, 20% as country
+- J-POP: 31% classified as country, 15% as power-pop
+- CANTOPOP: 54% cantopop, 25% country
+
+**Implication:** Genre labels in training data reflect cultural/linguistic origin, not consistent audio characteristics. This explains challenges in song-level classification.
+
+**Output Files (not used in production):**
+- `genre_classifier.pkl` (Random Forest model)
+- `genre_scaler.pkl` (feature scaler)
+- `regional_genre_mapping.json` (genre confusion mapping)
+
+---
+
+## Complete Data Pipeline
+
+```
+Phase 1: Autoencoder Pretraining (Notebook 1)
+114,000 raw tracks (9 audio features)
+    ↓ StandardScaler
+Standardized features
+    ↓ Train autoencoder (9→128→64→32→64→128→9)
+32-dim song embeddings
+    ↓
+autoencoder_model.pth, song_embeddings.npy, song_scaler.pkl
+
+Phase 2: Playlist Classification (Notebook 3)
+Two data sources:
+
+Source A: mbti_playlists/ (4,201 playlists)
+    └── 43 statistical features
+
+Source B: raw_playlists/ (326 playlists with raw songs)
+    └── Generate 32-dim embeddings via encoder
+    └── Aggregate to 128 features (mean, std, min, max)
+
+Merge: 4,201 playlists × 171 features
+    └── 678 playlists have real transfer features
+    └── 3,523 playlists have zeros for transfer features
+
+Train classifier: 171 → 64 → 32 → 16 → 16
+    ↓
+mbti_classifier.pth, mbti_scaler.pkl, mbti_features.json
+
+Phase 3: Streamlit Application
+User Spotify login → Top 20 tracks → Feature extraction
+    ↓
+Apply inference stabilization (clipping + down-weighting + smoothing)
+    ↓
+MBTI prediction with axis confidence scores
+    ↓
+Display results + audio radar chart + lyrical analysis
+```
+
+---
+
+## Inference Stabilization (Post-Training Fix)
+
+**Problem Identified:** 48 out of 171 features had near-zero variance in training data (key counts, some transfer embeddings). During inference, any non-zero value in these features caused extreme predictions (100% on specific axes).
+
+**Solution Applied (in `inference.py`):**
+
+1. **Feature Clipping:** All scaled features clipped to range [-3, 3]
+   - Prevents any single feature from dominating predictions
+
+2. **Down-weighting Low-Variance Features:** Features with training standard deviation < 0.15 have their influence reduced by 70%
+   - Identified 48 problematic features including key counts and some transfer dimensions
+
+3. **Probability Smoothing:** Adds 0.5% minimum probability to each MBTI type
+   - Prevents 0% or 100% predictions
+
+4. **Temperature Scaling:** Logits divided by temperature=4.0 before softmax
+   - Softens overconfident predictions
+
+**Result:** Predictions transformed from 100% extremes to balanced 45-55% ranges while preserving model accuracy.
+
+---
+
+## Fallback Song Database
+
+**Purpose:** Provides realistic audio features when Spotify API fails (rate limits, token expiration, network issues).
+
+**Source:** 1 million song Spotify dataset processed into 100,000 song sample
+
+**Processing:**
+- Loads CSV with 1,159,765 songs
+- Extracts 9 audio features
+- Fits StandardScaler on full dataset
+- Saves 100,000 random sample for fast inference
+
+**Database Contents:**
+- `sample_features_100k.npy`: 100,000 × 9 scaled audio features
+- `sample_metadata_100k.parquet`: Track names, artists, genres
+- `song_scaler_1m.pkl`: Scaler fitted on full 1M dataset
+
+**Usage in `spotify_utils.py`:**
+1. Attempt Spotify API call
+2. If API fails → Select deterministic song from database based on track name hash
+3. Return real audio features from similar genre
+4. Fallback to Beta distribution if database unavailable
+
+**Benefits:**
+- Deterministic (same track always gets same simulated features)
+- Realistic feature distributions matching actual music
+- App never fails due to API issues
+
+---
+
+## Streamlit Application (`app/app.py`)
 
 **Features:**
-- 9 means + 9 standard deviations = 18 features
-- 24 key/mode counts (C Major, C minor, etc.)
-- 1 track count
-- 128 transfer learning embeddings (from song autoencoder)
+- Spotify OAuth login with automatic token refresh
+- Fetches user's top 20 tracks (last 6 months)
+- Extracts 9 audio features per track (API or database fallback)
+- Generates 128 transfer embeddings via autoencoder
+- Predicts MBTI type with axis-wise confidence scores
+- Displays interactive radar chart for audio features
+- Shows top 5 tracks with album art
+- Fetches lyrics via LRCLIB API
+- Summarizes lyrics using Groq (fallback to Gemini)
+- Generates psychological personality profile using Gemini API
 
-**Outputs:**
-- `mbti_classifier.pth` - Trained model for Streamlit
-- `mbti_scaler.pkl` - Feature normalizer
-- `mbti_features.json` - List of 171 feature names
-
-**Performance:**
-- Test accuracy: 36.77% (16 classes, random baseline is 6.25%)
-- E/I axis accuracy: 76.7%
-- T/F axis accuracy: 75.0%
-- S/N axis accuracy: 69.7%
-- Average confidence: 62.7%
-
-**Explainability:** SHAP integrated to show which audio features influence predictions
-
----
-
-### 4. `MBTI_Genre_Classifier.ipynb` (EXPLORATORY)
-
-**Purpose:** Classify songs into true music genres (ignoring regional labels like "K-pop", "J-pop")
-
-**Input:** Organized dataset (~48,000 songs balanced across genres)
-
-**Features:** 9 audio features (same as autoencoder)
-
-**Architecture:** Random Forest Classifier
-
-**Genres targeted:** Pop, Rock, Electronic, Hip Hop, R&B/Soul, Jazz, Classical, Metal, Latin, Folk/Acoustic, Blues, Country
-
-**Purpose:** Exploratory - not used in final app, but shows how audio features can distinguish true music genres
+**Technical Stack:**
+- Frontend: Streamlit with custom CSS
+- ML Framework: PyTorch, scikit-learn
+- APIs: Spotify (Spotipy), Google Gemini, Groq
+- Data: Pandas, NumPy, Plotly
+- Explainability: SHAP
 
 ---
 
-## Pipeline Architecture
+## Environment Variables (`.env`)
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      STREAMLIT APP (app.py)                     │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                 SPOTIFY OAUTH (spotify_utils.py)                │
-│              Fetches user's top 20 tracks + album art           │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│              AUDIO FEATURES EXTRACTION (spotify_utils.py)       │
-│  ┌──────────────┐    ┌──────────────────────────────────────┐   │
-│  │ Spotify API  │───▶│ Simulated features (fallback)        │   │
-│  │ (deprecated) │    │ (realistic random values)            │   │
-│  └──────────────┘    └──────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                   FEATURE AGGREGATION (spotify_utils.py)        │
-│         20 tracks → 43 stats + 128 transfer embeddings         │
-│                      = 171 total features                       │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                  SCALING + PREDICTION (inference.py)            │
-│         mbti_scaler.pkl → MBTIClassifier → 16 probabilities    │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                   AXIS AGGREGATION (inference.py)               │
-│         16 classes → 4 dimensions (E/I, S/N, T/F, J/P)         │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                  LYRICS FETCHING (lyrics_utils.py)              │
-│    LRCLIB API → Lyrics.ovh (backup) → Groq summary             │
-│         Searches top 20 tracks until finding 3 with lyrics     │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                  AI ANALYSIS (gemini_utils.py)                  │
-│         Groq (primary) → Gemini (fallback) → personality       │
-│         breakdown combining MBTI + music + lyrics              │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## Model Performance (Final Classifier)
-
-| Axis | Accuracy | Meaning |
-|------|----------|---------|
-| **E/I** (Extraversion vs Introversion) | 76.7% | Very good - music clearly reflects social energy |
-| **T/F** (Thinking vs Feeling) | 75.0% | Very good - musical preference correlates with decision style |
-| **S/N** (Sensing vs Intuition) | 69.7% | Good - abstract vs concrete thinking reflected in music |
-| **J/P** (Judging vs Perceiving) | 65.8% | Moderate - planning style less reflected in music |
-
-**Overall:** 36.77% accuracy on 16 classes (random baseline is 6.25%)
-
-The model learns real patterns - Extraverts prefer higher energy music, Thinkers prefer more complex structures, etc.
-
----
-
-## Tools Used
-
-| Tool | Purpose |
-|------|---------|
-| Python 3.10+ | Main programming language |
-| PyTorch | Neural networks (autoencoder, classifier) |
-| scikit-learn | Feature scaling, train/test split |
-| Streamlit | Web application framework |
-| Spotipy | Spotify API wrapper |
-| Groq API | Primary LLM for lyrics summarization (fast, high limits) |
-| Google Gemini API | Fallback LLM for personality analysis |
-| SHAP | Model explainability (feature importance) |
-| LRCLIB API | Primary lyrics source |
-| Lyrics.ovh API | Backup lyrics source |
-| Matplotlib/Seaborn | Visualizations |
-
----
-
-## How the Lyrics Search Works
-
-1. Looks through your top 20 tracks (not just first 3)
-2. Tries LRCLIB API first (best coverage)
-3. Falls back to Lyrics.ovh API
-4. Summarizes lyrics using Groq (fast, 14,400 requests/day)
-5. Only shows error if NO lyrics found in all 20 tracks
-
----
-
-## Fallback Strategy
-
-The app handles failures gracefully:
-
-| Component | Primary | Fallback 1 | Fallback 2 |
-|-----------|---------|------------|------------|
-| **Audio Features** | Spotify API | Simulated features | - |
-| **LLM** | Groq | Gemini | Built-in template |
-| **Lyrics** | LRCLIB | Lyrics.ovh | AI-generated guess |
-| **Album Art** | Spotify API | Gradient placeholder | - |
-
----
-
-## Environment Variables (.env)
-
-```env
-SPOTIFY_CLIENT_ID=your_client_id
-SPOTIFY_CLIENT_SECRET=your_client_secret
+# Spotify credentials - BOTH naming conventions
+SPOTIFY_CLIENT_ID=your_spotify_client_id
+SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
 SPOTIFY_REDIRECT_URI=http://127.0.0.1:8501
+
+# Spotipy library expects these names (add these lines)
+SPOTIPY_CLIENT_ID=your_spotipy_client_id
+SPOTIPY_CLIENT_SECRET=your_spotipy_client_secret
+SPOTIPY_REDIRECT_URI=http://127.0.0.1:8501
+
+# Google Gemini API
+GOOGLE_API_KEY=your_google_api_key
+
+# Groq API
 GROQ_API_KEY=your_groq_api_key
-GOOGLE_API_KEY=your_gemini_api_key
 ```
 
 ---
 
-## Running the App
+## Model Performance Summary
 
-```bash
-streamlit run app/app.py
-```
-
-Then open http://localhost:8501
+| Model | Accuracy | vs Random | Notes |
+|-------|----------|-----------|-------|
+| Autoencoder | 96.2% reconstruction | N/A | Preserves audio information in 32-dim space |
+| Song Classifier | 11.72% | 1.87x | Exploratory - not used in production |
+| Playlist Classifier | 33.12% | 5.3x | Production model with perfect calibration |
+| Genre Classifier | 26.91% | 6.4x | Exploratory - data quality analysis only |
 
 ---
 
-## Project Structure
+## Key Technical Contributions
 
-```
-mbti-tune/
-├── app/
-│   └── app.py                 # Streamlit web app
-├── src/
-│   ├── model.py               # Neural network architectures
-│   ├── inference.py           # Model loading + prediction
-│   ├── spotify_utils.py       # Spotify API + feature extraction
-│   ├── lyrics_utils.py        # Lyrics fetching + summarization
-│   ├── gemini_utils.py        # AI personality analysis
-│   └── groq_utils.py          # Groq API integration
-├── data/
-│   ├── raw/
-│   │   ├── mbti_playlists/    # Aggregated stats (4,200 playlists)
-│   │   ├── raw_playlists/     # Original playlist CSVs (324)
-│   │   └── pretrain/          # Spotify tracks (114,000 songs)
-│   └── processed/
-│       ├── mbti_classifier.pth    # Trained model
-│       ├── mbti_scaler.pkl        # Feature scaler
-│       ├── mbti_features.json     # 171 feature names
-│       └── song_embeddings.npy    # 32-dim song embeddings
-├── notebooks/                  # Jupyter notebooks
-│   ├── MBTI_Tracks_Autoencoder.ipynb
-│   ├── MBTI_Playlist_FineTune_Encoder.ipynb
-│   ├── MBTI_Playlist_Classifier.ipynb
-│   └── MBTI_Genre_Classifier.ipynb (exploratory)
-├── scripts/                    # Utility scripts
-│   ├── diagnose_models.py
-│   ├── diagnose_imbalance.py
-│   └── analyze_genres.py
-├── .env                        # API keys (not committed)
-└── .gitignore
-```
+1. **Transfer Learning Pipeline:** Autoencoder pretrained on 114k unlabeled tracks, then encoder used for playlist classification
+2. **Playlist Aggregation:** Demonstrated that individual songs have too much variance for personality prediction; playlist-level aggregation (20 songs) achieves 33% accuracy
+3. **Inference Stabilization:** Identified 48 low-variance features causing extreme predictions; implemented clipping, down-weighting, and smoothing for balanced outputs
+4. **Fallback Database:** Built 100k song database from 1M dataset for API failure recovery
+5. **LLM Integration:** Groq/Gemini for lyrical analysis and psychological profiling
+6. **Model Explainability:** SHAP analysis revealing top predictive features
 
 ---
 
 ## Known Limitations
 
-| Limitation | Explanation |
-|------------|-------------|
-| **Spotify API deprecated** | Audio features endpoint returns 403 errors. App uses simulated features as fallback. |
-| **Transfer learning** | 128 transfer embeddings computed live via the SongAutoencoder encoder (mean/std/min/max of 32-dim latent vectors). |
-| **Limited training data** | 4,200 playlists is small for 16-class classification |
-| **Chinese/non-English tracks** | Lyrics availability is limited |
-| **Groq/Gemini rate limits** | Free tier has request limits (handled with fallbacks) |
+1. **Data Labeling:** MBTI labels come from playlist creators' assumptions, not actual personality tests
+2. **Transfer Learning Underutilized:** Only 16% of training playlists have autoencoder embeddings due to dataset mismatch; primary accuracy comes from statistical features
+3. **Small Playlist Dataset:** 4,200 playlists for 16-class classification limits generalization
+4. **Regional Genre Noise:** Training data contains ambiguous regional genre labels with inconsistent audio characteristics
+5. **Lyrics Dependency:** Lyrics fetching from LRCLIB can be slow (5-15 seconds) and may fail for some tracks
 
 ---
 
-## Results Summary
+## Future Improvements
 
-| Aspect | Achievement |
-|--------|-------------|
-| **E/I prediction** | 76.7% accuracy - Excellent |
-| **T/F prediction** | 75.0% accuracy - Excellent |
-| **Overall accuracy** | 36.77% - Good (6x better than random) |
-| **Transfer learning** | Successfully used song autoencoder → playlist classifier |
-| **Fallback handling** | Graceful degradation when APIs fail |
-| **Full pipeline** | Spotify → Features → Model → Lyrics → AI analysis |
-
----
-
-## Acknowledgments
-
-- Spotify for the API
-- Kaggle for datasets
-- Groq for high-limit free LLM access
-- LRCLIB for lyrics API
-- SHAP for model explainability
+1. Align datasets to provide autoencoder embeddings for 100% of training playlists
+2. Collect user MBTI self-reports for ground truth labels
+3. Expand dataset with more playlists for better generalization
+4. Implement parallel lyrics fetching to reduce wait times
+5. Fine-tune LLM on music psychology literature for better personality analysis

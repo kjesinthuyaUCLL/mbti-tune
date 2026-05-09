@@ -13,7 +13,6 @@ if API_KEY:
 
 
 def get_gemini_model():
-    """Get available Gemini model"""
     try:
         return genai.GenerativeModel("gemini-2.0-flash")
     except Exception:
@@ -24,10 +23,6 @@ def get_gemini_model():
 
 
 def generate_personality_breakdown(mbti_type, result, top_artists, summaries):
-    """
-    Generate personality analysis - tries Groq first (more reliable),
-    then falls back to Gemini, then built-in fallback.
-    """
     # Extract axis preferences safely
     axis_stats = []
     for axis in ["E/I", "S/N", "T/F", "J/P"]:
@@ -125,7 +120,7 @@ def _get_mbti_description(mbti_type):
 
 
 def _generate_fallback_analysis(mbti_type, result, top_artists, summaries):
-    """Generate fallback analysis when both APIs fail"""
+    
     axis_stats = []
     for axis in ["E/I", "S/N", "T/F", "J/P"]:
         if axis in result:
