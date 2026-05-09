@@ -7,7 +7,6 @@ from src.model import MBTIClassifier
 
 
 def load_model_and_scaler():
-    """Load MBTI classifier, scaler, and metadata from processed directory"""
     base_dir = Path(__file__).parent.parent
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
@@ -66,24 +65,15 @@ def load_model_and_scaler():
 
 
 def stabilize_features(features_vector, scaler, feature_cols, clip_range=(-3, 3)):
-    """
-    Apply stabilization to feature vector:
-    1. Identify problematic features (near-zero variance in training)
-    2. Clip extreme values
-    3. Down-weight problematic features
-    """
     
     stabilized = features_vector.copy()
     
-    # Clip extreme values
     old_min, old_max = np.min(stabilized), np.max(stabilized)
     stabilized = np.clip(stabilized, clip_range[0], clip_range[1])
     
-    # Down-weight problematic features
     small_std_threshold = 0.15
     downweighted_count = 0
     
-    # Get scaler parameters
     if hasattr(scaler, 'scale_'):
         for i in range(len(feature_cols)):
             if i < len(scaler.scale_):
@@ -91,7 +81,6 @@ def stabilize_features(features_vector, scaler, feature_cols, clip_range=(-3, 3)
                     stabilized[i] = stabilized[i] * 0.3
                     downweighted_count += 1
     
-    # Print diagnostic info
     if not hasattr(stabilize_features, '_printed'):
         print(f"🔧 Stabilization active: clipping to {clip_range}, down-weighting {downweighted_count} low-variance features")
         stabilize_features._printed = True
@@ -100,16 +89,13 @@ def stabilize_features(features_vector, scaler, feature_cols, clip_range=(-3, 3)
 
 
 def predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=4.0):
-    """
-    Predict MBTI type with stabilization and temperature scaling.
-    """
     if features_vector.ndim == 1:
         features_vector = features_vector.reshape(1, -1)
     
     if features_vector.shape[1] != len(feature_cols):
         raise ValueError(f"Expected {len(feature_cols)} features, got {features_vector.shape[1]}")
     
-    # Apply stabilization
+
     raw_vector = features_vector[0].copy()
     stabilized_vector = stabilize_features(raw_vector, scaler, feature_cols, clip_range=(-3, 3))
     
@@ -117,18 +103,18 @@ def predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_ty
     
     with torch.no_grad():
         logits = model(x)
-        # Apply temperature scaling
+
         logits = logits / temperature
         probs = torch.softmax(logits, dim=1).cpu().numpy()[0]
     
-    # Add small smoothing to prevent extreme percentages
+
     smoothing = 0.005
     probs = (1 - smoothing) * probs + smoothing / len(probs)
     probs = probs / probs.sum()
     
     idx_to_type_int = {int(k): v for k, v in idx_to_type.items()}
     
-    # Aggregate 16 classes into 4 MBTI axes
+
     lp = {"E": 0.0, "I": 0.0, "S": 0.0, "N": 0.0,
           "T": 0.0, "F": 0.0, "J": 0.0, "P": 0.0}
     
@@ -145,7 +131,7 @@ def predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_ty
         if len(mbti_type) >= 4:
             lp[mbti_type[3]] += prob
     
-    # Normalize each axis
+
     for axis in [('E', 'I'), ('S', 'N'), ('T', 'F'), ('J', 'P')]:
         total = lp[axis[0]] + lp[axis[1]]
         if total > 0:
@@ -155,7 +141,7 @@ def predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_ty
             lp[axis[0]] = 0.5
             lp[axis[1]] = 0.5
     
-    # Build result
+
     result = {"mbti": "", "percentages": {}}
     
     axes = [(("E", "I"), 0), (("S", "N"), 1), (("T", "F"), 2), (("J", "P"), 3)]

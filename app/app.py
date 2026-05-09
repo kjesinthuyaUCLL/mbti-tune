@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 
 st.set_page_config(page_title="MBTI Tune", layout="centered", initial_sidebar_state="expanded")
 
-# --- CUSTOM CSS ---
+
 st.markdown("""
 <style>
 /* Background and Base */
@@ -316,7 +316,7 @@ if token_info:
             st.session_state.clear()
             token_info = None
 
-# --- HEADER (Always visible) ---
+
 st.markdown("""
 <div class="header-container">
     <div class="main-title">MBTI Tune</div>
@@ -324,7 +324,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# --- LOGIN SCREEN ---
 if not token_info:
     col1, col2, col3 = st.columns([1, 2, 1])
     with col2:
@@ -338,7 +337,6 @@ if not token_info:
         # Wrapped in a center div to ensure explicit centering
         st.markdown(f'<div style="text-align: center;"><a href="{auth_url}" target="_self" class="spotify-login-btn">Connect Spotify</a></div></div>', unsafe_allow_html=True)
 
-# --- MAIN DASHBOARD (Auto-runs when logged in) ---
 else:
     with st.sidebar:
         st.markdown("### Profile")
@@ -358,7 +356,6 @@ else:
             st.rerun()
     else:
         
-        # 1. NEURAL PREDICTION
         st.markdown('<div class="section-title">Your Neural Prediction</div>', unsafe_allow_html=True)
         
         result = predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=4.0)
@@ -387,7 +384,6 @@ else:
                 left_val = dom_prob * 100
                 right_val = 100 - left_val
             
-            # Left vs Right colors
             left_color = "linear-gradient(90deg, #ff9a9e, #fbc2eb)" if left_val > 50 else "transparent"
             right_color = "linear-gradient(90deg, #a18cd1, #fbc2eb)" if right_val > 50 else "transparent"
             
@@ -405,7 +401,6 @@ else:
             ''', unsafe_allow_html=True)
 
 
-        # 2. AUDIO DNA
         st.markdown('<div class="section-title">Your Audio DNA</div>', unsafe_allow_html=True)
         
         col_radar, col_metrics = st.columns([1.5, 1])
@@ -464,7 +459,6 @@ else:
             ''', unsafe_allow_html=True)
 
 
-        # 3. TOP TRACKS
         st.markdown('<div class="section-title">Source Tracks</div>', unsafe_allow_html=True)
         cols = st.columns(5, gap="small")
         for i, track_data in enumerate(tracks[:5]):
@@ -481,7 +475,6 @@ else:
                 ''', unsafe_allow_html=True)
 
 
-        # 4. LYRICS & NLP SYNTHESIS
         st.markdown('<div class="section-title">Lyrical Semantics & Synthesis</div>', unsafe_allow_html=True)
         
         with st.spinner("Fetching lyrics and executing LLM synthesis..."):

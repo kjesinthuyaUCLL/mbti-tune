@@ -1,4 +1,3 @@
-# src/groq_utils.py
 from groq import Groq
 import os
 import time
@@ -6,7 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# Initialize Groq client
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 _groq_client = None
 
@@ -77,7 +75,6 @@ def test_groq_connection():
         return False
 
 
-# Quick test when module loads
 if __name__ == "__main__":
     print("Testing Groq connection...")
     if test_groq_connection():

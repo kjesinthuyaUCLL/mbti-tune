@@ -10,15 +10,12 @@ from pathlib import Path
 
 load_dotenv()
 
-# Module-level cache for the song encoder
 _SONG_ENCODER = None
 _SONG_SCALER = None
 
-# Module-level cache for the 1M song database
 _SONG_DATABASE = None
 _SONG_DATABASE_METADATA = None
 
-# Audio features order
 AUDIO_FEATURES = [
     "danceability", "energy", "valence", "acousticness",
     "instrumentalness", "speechiness", "loudness", "tempo", "liveness"
@@ -26,7 +23,6 @@ AUDIO_FEATURES = [
 
 
 def get_spotify_oauth():
-    """Configure SpotifyOAuth for Streamlit"""
     client_id = os.getenv('SPOTIPY_CLIENT_ID') or os.getenv('SPOTIFY_CLIENT_ID')
     client_secret = os.getenv('SPOTIPY_CLIENT_SECRET') or os.getenv('SPOTIFY_CLIENT_SECRET')
     redirect_uri = "http://127.0.0.1:8501"
@@ -35,7 +31,7 @@ def get_spotify_oauth():
         print("ERROR: Spotify credentials not found!")
         return None
     
-    # Set environment variables for spotipy
+
     os.environ['SPOTIPY_CLIENT_ID'] = client_id
     os.environ['SPOTIPY_CLIENT_SECRET'] = client_secret
     os.environ['SPOTIPY_REDIRECT_URI'] = redirect_uri
@@ -48,19 +44,6 @@ def get_spotify_oauth():
 
 
 def load_song_encoder():
-    """
-    Load the pretrained SongAutoencoder encoder (from Notebook 1/2) and its
-    song-level StandardScaler. These are used to generate the 128-dim transfer
-    embeddings required by the MBTIClassifier.
-
-    Since the PlaylistLSTMEncoder weights were never saved, we approximate
-    the 128 transfer features as:
-        [mean(32-dim), std(32-dim), min(32-dim), max(32-dim)]
-    of all per-song latent encodings. This exactly fills the 128 slots and
-    preserves distributional information.
-
-    Returns: (encoder_net, song_scaler) or (None, None) on failure.
-    """
     global _SONG_ENCODER, _SONG_SCALER
 
     if _SONG_ENCODER is not None:
@@ -82,14 +65,14 @@ def load_song_encoder():
         device = torch.device("cpu")
         state_dict = torch.load(autoencoder_path, map_location=device, weights_only=False)
 
-        # SongAutoencoder
+
         autoencoder = SongAutoencoder(input_dim=9, latent_dim=32)
         autoencoder.load_state_dict(state_dict)
         autoencoder.eval()
 
         encoder = autoencoder.encoder
 
-        # Load song-level scaler
+
         song_scaler = None
         if song_scaler_path.exists():
             song_scaler = joblib.load(song_scaler_path)
@@ -108,10 +91,6 @@ def load_song_encoder():
 
 
 def load_song_database():
-    """
-    Load the pre-processed 1M song database for realistic fallback simulation.
-    Returns: (features_array, metadata_dataframe) or (None, None) on failure.
-    """
     global _SONG_DATABASE, _SONG_DATABASE_METADATA
     
     if _SONG_DATABASE is not None:
@@ -138,13 +117,6 @@ def load_song_database():
 
 
 def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
-    """
-    Encodes a list of track feature dicts using the SongAutoencoder encoder.
-    Produces a 128-dim transfer embedding vector by computing
-    [mean, std, min, max] of the per-song 32-dim latent vectors.
-
-    Falls back to zeros if encoder is None or if encoding fails.
-    """
     import torch
 
     TRANSFER_DIM = 128
@@ -176,7 +148,7 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
         if needs_pad:
             latents = latents[:1]
 
-        # Distributional statistics
+
         emb_mean = latents.mean(axis=0)
         emb_std = latents.std(axis=0)
         emb_min = latents.min(axis=0)
@@ -192,10 +164,6 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
 
 
 def generate_simulated_features_from_database(track_name, artist_name):
-    """
-    Generate simulated features using real songs from the 1M database.
-    This creates realistic feature distributions that match real music.
-    """
     import hashlib
     import numpy as np
     
@@ -237,10 +205,6 @@ def generate_simulated_features_from_database(track_name, artist_name):
 
 
 def generate_simulated_features_beta(track_name, artist_name):
-    """
-    Generate simulated features using Beta distribution (fallback when database unavailable).
-    Uses realistic clustering instead of uniform random.
-    """
     import hashlib
     import numpy as np
     
@@ -269,10 +233,6 @@ def generate_simulated_features_beta(track_name, artist_name):
 
 
 def generate_simulated_features(track_name, artist_name):
-    """
-    Generate simulated features using real songs from database.
-    Falls back to Beta distribution if database unavailable.
-    """
 
     db_features = generate_simulated_features_from_database(track_name, artist_name)
     if db_features is not None:
@@ -283,13 +243,12 @@ def generate_simulated_features(track_name, artist_name):
 
 
 def get_audio_features_for_track(track_id, track_name, artist_name, sp=None):
-    """Get audio features with fallback to simulation"""
     if sp is not None:
         try:
             result = sp.audio_features([track_id])
             if result and result[0] is not None:
                 features = result[0]
-                # Verify we got valid data
+
                 if features.get('danceability', 0) > 0:
                     print(f"✅ API: {track_name[:30]}")
                     return features
@@ -308,7 +267,6 @@ def get_audio_features_for_track(track_id, track_name, artist_name, sp=None):
 
 
 def build_features_from_tracks(tracks_data):
-    """Aggregates individual track data into the 171-feature format."""
     if not tracks_data:
         return None
     
@@ -350,7 +308,7 @@ def build_features_from_tracks(tracks_data):
     for i in range(128):
         res[f"transfer_emb_{i}"] = 0.0
 
-    # Debug
+
     if len(res) != 171:
         print(f"⚠️ Generated {len(res)} features, expected 171")
 
@@ -358,7 +316,6 @@ def build_features_from_tracks(tracks_data):
 
 
 def fetch_user_data(token_info, feature_cols):
-    """Fetch user top tracks and process into feature vector with stabilization"""
     
     if isinstance(token_info, dict):
         access_token = token_info.get('access_token')
@@ -388,7 +345,7 @@ def fetch_user_data(token_info, feature_cols):
         return None, None, None, None, None
     
     try:
-        # Get top 20 tracks
+
         top = sp.current_user_top_tracks(limit=20, time_range='medium_term')
         
         if not top or not top['items']:
@@ -460,7 +417,7 @@ def fetch_user_data(token_info, feature_cols):
             scaled_vector = np.clip(scaled_vector, -3, 3)
             print(f"   Clipping: [{old_min:.2f}, {old_max:.2f}] → [{np.min(scaled_vector):.2f}, {np.max(scaled_vector):.2f}]")
             
-            # Down-weight problematic features
+
             small_std_threshold = 0.15
             downweighted_count = 0
             for i, col in enumerate(feature_cols):
@@ -477,11 +434,11 @@ def fetch_user_data(token_info, feature_cols):
             print(f"⚠️ Scaler not found at {scaler_path}")
             scaled_vector = raw_vector
         
-        # Get top artists
+
         artists_list = [t[1] for t in track_info]
         top_artists = list(pd.Series(artists_list).value_counts().head(5).index)
         
-        # Get genres
+
         genres = []
         try:
             unique_artists = list(set(artists_list[:3]))
