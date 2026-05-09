@@ -1,3 +1,4 @@
+import streamlit as st
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
@@ -9,6 +10,13 @@ from dotenv import load_dotenv
 from pathlib import Path
 
 load_dotenv()
+
+def get_secret(key):
+    """Get secret from st.secrets (HF) or environment variable (local)"""
+    try:
+        return st.secrets[key]
+    except (FileNotFoundError, KeyError, AttributeError):
+        return os.getenv(key)
 
 _SONG_ENCODER = None
 _SONG_SCALER = None
@@ -23,15 +31,18 @@ AUDIO_FEATURES = [
 
 
 def get_spotify_oauth():
-    client_id = os.getenv('SPOTIPY_CLIENT_ID') or os.getenv('SPOTIFY_CLIENT_ID')
-    client_secret = os.getenv('SPOTIPY_CLIENT_SECRET') or os.getenv('SPOTIFY_CLIENT_SECRET')
-    redirect_uri = "http://127.0.0.1:8501"
+    client_id = get_secret('SPOTIPY_CLIENT_ID') or get_secret('SPOTIFY_CLIENT_ID')
+    client_secret = get_secret('SPOTIPY_CLIENT_SECRET') or get_secret('SPOTIFY_CLIENT_SECRET')
+    
+    try:
+        redirect_uri = "https://angela-ksty-mbti-tune.hf.space/"
+    except:
+        redirect_uri = "http://127.0.0.1:8501"
     
     if not client_id or not client_secret:
         print("ERROR: Spotify credentials not found!")
         return None
     
-
     os.environ['SPOTIPY_CLIENT_ID'] = client_id
     os.environ['SPOTIPY_CLIENT_SECRET'] = client_secret
     os.environ['SPOTIPY_REDIRECT_URI'] = redirect_uri
@@ -65,13 +76,11 @@ def load_song_encoder():
         device = torch.device("cpu")
         state_dict = torch.load(autoencoder_path, map_location=device, weights_only=False)
 
-
         autoencoder = SongAutoencoder(input_dim=9, latent_dim=32)
         autoencoder.load_state_dict(state_dict)
         autoencoder.eval()
 
         encoder = autoencoder.encoder
-
 
         song_scaler = None
         if song_scaler_path.exists():
@@ -147,7 +156,6 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
 
         if needs_pad:
             latents = latents[:1]
-
 
         emb_mean = latents.mean(axis=0)
         emb_std = latents.std(axis=0)
@@ -233,7 +241,6 @@ def generate_simulated_features_beta(track_name, artist_name):
 
 
 def generate_simulated_features(track_name, artist_name):
-
     db_features = generate_simulated_features_from_database(track_name, artist_name)
     if db_features is not None:
         return db_features
@@ -308,7 +315,6 @@ def build_features_from_tracks(tracks_data):
     for i in range(128):
         res[f"transfer_emb_{i}"] = 0.0
 
-
     if len(res) != 171:
         print(f"⚠️ Generated {len(res)} features, expected 171")
 
@@ -345,7 +351,6 @@ def fetch_user_data(token_info, feature_cols):
         return None, None, None, None, None
     
     try:
-
         top = sp.current_user_top_tracks(limit=20, time_range='medium_term')
         
         if not top or not top['items']:
@@ -417,7 +422,6 @@ def fetch_user_data(token_info, feature_cols):
             scaled_vector = np.clip(scaled_vector, -3, 3)
             print(f"   Clipping: [{old_min:.2f}, {old_max:.2f}] → [{np.min(scaled_vector):.2f}, {np.max(scaled_vector):.2f}]")
             
-
             small_std_threshold = 0.15
             downweighted_count = 0
             for i, col in enumerate(feature_cols):
@@ -434,11 +438,9 @@ def fetch_user_data(token_info, feature_cols):
             print(f"⚠️ Scaler not found at {scaler_path}")
             scaled_vector = raw_vector
         
-
         artists_list = [t[1] for t in track_info]
         top_artists = list(pd.Series(artists_list).value_counts().head(5).index)
         
-
         genres = []
         try:
             unique_artists = list(set(artists_list[:3]))

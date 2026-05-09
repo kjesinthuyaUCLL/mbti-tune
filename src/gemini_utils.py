@@ -1,3 +1,4 @@
+import streamlit as st
 import google.generativeai as genai
 import os
 import time
@@ -6,11 +7,16 @@ from src.groq_utils import generate_with_groq, is_groq_available
 
 load_dotenv()
 
-# Configure Gemini
-API_KEY = os.getenv("GOOGLE_API_KEY")
+def get_secret(key):
+    """Get secret from st.secrets (HF) or environment variable (local)"""
+    try:
+        return st.secrets[key]
+    except (FileNotFoundError, KeyError, AttributeError):
+        return os.getenv(key)
+
+API_KEY = get_secret("GOOGLE_API_KEY")
 if API_KEY:
     genai.configure(api_key=API_KEY)
-
 
 def get_gemini_model():
     try:
@@ -21,9 +27,7 @@ def get_gemini_model():
         except Exception:
             return None
 
-
 def generate_personality_breakdown(mbti_type, result, top_artists, summaries):
-    # Extract axis preferences safely
     axis_stats = []
     for axis in ["E/I", "S/N", "T/F", "J/P"]:
         if axis in result:
@@ -72,7 +76,6 @@ CRITICAL INSTRUCTIONS:
 - Make the text flow nicely but keep the structure intact.
 """
     
-    # Try Groq FIRST (more reliable, higher limits)
     if is_groq_available():
         print("📡 Using Groq API...")
         response = generate_with_groq(prompt)
@@ -80,7 +83,6 @@ CRITICAL INSTRUCTIONS:
             return response
         print("Groq failed, trying Gemini...")
     
-    # Try Gemini as fallback
     gemini_model = get_gemini_model()
     if gemini_model:
         print("📡 Trying Gemini API...")
@@ -91,12 +93,9 @@ CRITICAL INSTRUCTIONS:
         except Exception as e:
             print(f"Gemini error: {e}")
     
-    # Final fallback
     print("⚠️ All APIs failed, using fallback analysis")
     return _generate_fallback_analysis(mbti_type, result, top_artists, summaries)
 
-
-# Rest of the helper functions remain the same...
 def _get_mbti_description(mbti_type):
     descriptions = {
         "INTJ": "The Architect - strategic, analytical, and innovative",
@@ -117,7 +116,6 @@ def _get_mbti_description(mbti_type):
         "ESFP": "The Entertainer - spontaneous, energetic, and enthusiastic"
     }
     return descriptions.get(mbti_type, "unique personality type")
-
 
 def _generate_fallback_analysis(mbti_type, result, top_artists, summaries):
     
@@ -149,7 +147,6 @@ def _generate_fallback_analysis(mbti_type, result, top_artists, summaries):
 <h4 style="color: #9b59b6; font-size: 14px; text-transform: uppercase; margin-top: 20px;">3. The Insight</h4>
 <p>Your music taste suggests you deeply value {value_desc}. Consider exploring artists outside your comfort zone to discover new dimensions of your personality!</p>"""
 
-
 def _get_mbti_music_description(mbti_type):
     if not mbti_type or len(mbti_type) < 2:
         return "matches your unique personality"
@@ -164,7 +161,6 @@ def _get_mbti_music_description(mbti_type):
     else:
         creativity = "grounded, relatable, and emotionally direct content"
     return f"{energy} with {creativity}"
-
 
 def _get_mbti_value_description(mbti_type):
     if not mbti_type or len(mbti_type) < 4:

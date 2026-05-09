@@ -261,6 +261,15 @@ h1, h2, h3 {
 """, unsafe_allow_html=True)
 
 load_dotenv()
+
+
+def get_secret(key):
+    """Get secret from st.secrets (HF) or environment variable (local)"""
+    try:
+        return st.secrets[key]
+    except (FileNotFoundError, KeyError, AttributeError):
+        return os.getenv(key)
+    
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -271,7 +280,7 @@ from src.spotify_utils import get_spotify_oauth, fetch_user_data, AUDIO_FEATURES
 from src.lyrics_utils import build_lyrics_context
 from src.inference import load_model_and_scaler, predict_mbti
 from src.gemini_utils import generate_personality_breakdown
-
+    
 @st.cache_resource
 def load_assets():
     try:

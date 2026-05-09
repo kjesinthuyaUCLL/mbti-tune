@@ -1,3 +1,4 @@
+import streamlit as st
 from groq import Groq
 import os
 import time
@@ -5,7 +6,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+def get_secret(key):
+    """Get secret from st.secrets (HF) or environment variable (local)"""
+    try:
+        return st.secrets[key]
+    except (FileNotFoundError, KeyError, AttributeError):
+        return os.getenv(key)
+
+GROQ_API_KEY = get_secret("GROQ_API_KEY")
 _groq_client = None
 
 
