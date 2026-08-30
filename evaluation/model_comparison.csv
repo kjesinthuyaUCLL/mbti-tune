@@ -1,0 +1,13 @@
+Dataset_Balancing,Architecture,Balanced_Accuracy,Macro_F1
+Base (Imbalanced),FNN (Tabular),0.2946,0.2835
+Base (Imbalanced),1D CNN (Pattern),0.2832,0.2771
+Base (Imbalanced),Self-Attention (Transformer),0.2622,0.2632
+Random Oversampling,FNN (Tabular),0.3504,0.3453
+Random Oversampling,1D CNN (Pattern),0.3259,0.3195
+Random Oversampling,Self-Attention (Transformer),0.3524,0.3493
+SMOTE,FNN (Tabular),0.3556,0.3505
+SMOTE,1D CNN (Pattern),0.3424,0.3418
+SMOTE,Self-Attention (Transformer),0.3495,0.3461
+VAE,FNN (Tabular),0.2601,0.2529
+VAE,1D CNN (Pattern),0.0635,0.0093
+VAE,Self-Attention (Transformer),0.2046,0.1957

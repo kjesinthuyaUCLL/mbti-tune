@@ -14,18 +14,18 @@ def get_groq_client():
     if _groq_client is None and GROQ_API_KEY:
         try:
             _groq_client = Groq(api_key=GROQ_API_KEY)
-            print("✅ Groq client initialized")
+            print("Groq client initialized")
         except Exception as e:
-            print(f"❌ Failed to initialize Groq client: {e}")
+            print(f"Failed to initialize Groq client: {e}")
             return None
     return _groq_client
 
 
-def generate_with_groq(prompt, model_name="llama-3.3-70b-versatile", max_retries=2):
+def generate_with_groq(prompt, model_name="mixtral-8x7b-32768", max_retries=2):
 
     client = get_groq_client()
     if not client:
-        print("⚠️ Groq client not available")
+        print("Groq client not available")
         return None
     
     for attempt in range(max_retries):
@@ -57,7 +57,7 @@ def generate_with_groq(prompt, model_name="llama-3.3-70b-versatile", max_retries
 
 
 def generate_with_groq_short(prompt, max_retries=2):
-    return generate_with_groq(prompt, model_name="llama-3.1-8b-instant", max_retries=max_retries)
+    return generate_with_groq(prompt, model_name="mixtral-8x7b-32768", max_retries=max_retries)
 
 
 def is_groq_available():
@@ -78,6 +78,6 @@ def test_groq_connection():
 if __name__ == "__main__":
     print("Testing Groq connection...")
     if test_groq_connection():
-        print("✅ Groq API is working!")
+        print("Groq API is working!")
     else:
-        print("❌ Groq API test failed. Check your API key.")
+        print("Groq API test failed. Check your API key.")

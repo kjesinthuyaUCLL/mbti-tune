@@ -14,12 +14,9 @@ if API_KEY:
 
 def get_gemini_model():
     try:
-        return genai.GenerativeModel("gemini-2.0-flash")
+        return genai.GenerativeModel("gemini-3.6-flash")
     except Exception:
-        try:
-            return genai.GenerativeModel("gemini-2.5-flash")
-        except Exception:
-            return None
+        return None
 
 
 def generate_personality_breakdown(mbti_type, result, top_artists, summaries):
@@ -74,7 +71,7 @@ CRITICAL INSTRUCTIONS:
     
     # Try Groq FIRST (more reliable, higher limits)
     if is_groq_available():
-        print("📡 Using Groq API...")
+        print("Using Groq API...")
         response = generate_with_groq(prompt)
         if response:
             return response
@@ -83,7 +80,7 @@ CRITICAL INSTRUCTIONS:
     # Try Gemini as fallback
     gemini_model = get_gemini_model()
     if gemini_model:
-        print("📡 Trying Gemini API...")
+        print("Trying Gemini API...")
         try:
             response = gemini_model.generate_content(prompt)
             if response and response.text:
@@ -92,7 +89,7 @@ CRITICAL INSTRUCTIONS:
             print(f"Gemini error: {e}")
     
     # Final fallback
-    print("⚠️ All APIs failed, using fallback analysis")
+    print("All APIs failed, using fallback analysis")
     return _generate_fallback_analysis(mbti_type, result, top_artists, summaries)
 
 

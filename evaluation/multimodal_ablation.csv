@@ -1,0 +1,8 @@
+Config,Macro_F1_mean,Macro_F1_std,Balanced_Acc,Input_Dims
+Audio only,0.1601,0.0224,0.1962,18
+Genres only,0.1969,0.0247,0.1987,384
+Lyrics only,0.1067,0.0377,0.1494,6
+Audio + Genres,0.2273,0.0349,0.2331,402
+Audio + Lyrics,0.2303,0.0153,0.28,24
+Genres + Lyrics,0.2574,0.0432,0.2631,390
+Audio + Genres + Lyrics,0.2712,0.0432,0.2706,408

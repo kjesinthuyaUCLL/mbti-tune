@@ -76,17 +76,17 @@ def load_song_encoder():
         song_scaler = None
         if song_scaler_path.exists():
             song_scaler = joblib.load(song_scaler_path)
-            print(f"✅ Loaded song scaler (expects {song_scaler.mean_.shape[0]} features)")
+            print(f"Loaded song scaler (expects {song_scaler.mean_.shape[0]} features)")
         else:
-            print("⚠️ Song scaler not found - will normalise audio features manually.")
+            print("Song scaler not found - will normalise audio features manually.")
 
         _SONG_ENCODER = encoder
         _SONG_SCALER = song_scaler
-        print("✅ Loaded SongAutoencoder encoder for transfer embeddings.")
+        print("Loaded SongAutoencoder encoder for transfer embeddings.")
         return encoder, song_scaler
 
     except Exception as e:
-        print(f"⚠️ Could not load SongAutoencoder: {e}. Transfer embeddings will be zeros.")
+        print(f"Could not load SongAutoencoder: {e}. Transfer embeddings will be zeros.")
         return None, None
 
 
@@ -103,16 +103,16 @@ def load_song_database():
     sample_metadata = db_dir / "sample_metadata_100k.parquet"
     
     if not sample_features.exists() or not sample_metadata.exists():
-        print(f"⚠️ Song database not found at {db_dir}. Using beta distribution fallback.")
+        print(f"Song database not found at {db_dir}. Using beta distribution fallback.")
         return None, None
     
     try:
         _SONG_DATABASE = np.load(sample_features)
         _SONG_DATABASE_METADATA = pd.read_parquet(sample_metadata)
-        print(f"✅ Loaded {len(_SONG_DATABASE):,} real songs from database")
+        print(f"Loaded {len(_SONG_DATABASE):,} real songs from database")
         return _SONG_DATABASE, _SONG_DATABASE_METADATA
     except Exception as e:
-        print(f"⚠️ Could not load song database: {e}")
+        print(f"Could not load song database: {e}")
         return None, None
 
 
@@ -159,7 +159,7 @@ def encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler):
         return {f"transfer_emb_{i}": float(v) for i, v in enumerate(transfer_128)}
 
     except Exception as e:
-        print(f"⚠️ Could not generate transfer embeddings: {e}. Using zeros.")
+        print(f"Could not generate transfer embeddings: {e}. Using zeros.")
         return fallback
 
 
@@ -185,7 +185,7 @@ def generate_simulated_features_from_database(track_name, artist_name):
         if song_metadata is not None and idx < len(song_metadata):
             genre = song_metadata.iloc[idx].get('genre', 'unknown')
         
-        print(f"🎵 Database: {track_name[:30]} (matched with {genre})")
+        print(f"Database: {track_name[:30]} (matched with {genre})")
         
         return {
             'danceability': np.clip(final_features[0] * 0.2 + 0.5, 0.1, 0.95),
@@ -238,7 +238,7 @@ def generate_simulated_features(track_name, artist_name):
     if db_features is not None:
         return db_features
     
-    print(f"🎲 Beta sim: {track_name[:30]}")
+    print(f"Beta sim: {track_name[:30]}")
     return generate_simulated_features_beta(track_name, artist_name)
 
 
@@ -250,17 +250,17 @@ def get_audio_features_for_track(track_id, track_name, artist_name, sp=None):
                 features = result[0]
 
                 if features.get('danceability', 0) > 0:
-                    print(f"✅ API: {track_name[:30]}")
+                    print(f"API: {track_name[:30]}")
                     return features
                 else:
-                    print(f"⚠️ API returned zeros for {track_name}")
+                    print(f"API returned zeros for {track_name}")
         except spotipy.exceptions.SpotifyException as e:
             if e.http_status == 403:
-                print(f"⚠️ Token expired for {track_name}, need re-auth")
+                print(f"Token expired for {track_name}, need re-auth")
             else:
-                print(f"⚠️ API error for {track_name}: {e.http_status}")
+                print(f"API error for {track_name}: {e.http_status}")
         except Exception as e:
-            print(f"⚠️ API failed for {track_name}: {str(e)[:50]}")
+            print(f"API failed for {track_name}: {str(e)[:50]}")
     
     features = generate_simulated_features(track_name, artist_name)
     return features
@@ -310,7 +310,7 @@ def build_features_from_tracks(tracks_data):
 
 
     if len(res) != 171:
-        print(f"⚠️ Generated {len(res)} features, expected 171")
+        print(f"Generated {len(res)} features, expected 171")
 
     return res
 
@@ -331,13 +331,13 @@ def fetch_user_data(token_info, feature_cols):
         
         try:
             user = sp.current_user()
-            print(f"✅ Connected to Spotify as: {user.get('display_name', 'User')}")
+            print(f"Connected to Spotify as: {user.get('display_name', 'User')}")
         except spotipy.exceptions.SpotifyException as e:
             if e.http_status == 401 or e.http_status == 403:
-                print("❌ Token expired or invalid. Please log out and log in again.")
+                print("Token expired or invalid. Please log out and log in again.")
                 return None, None, None, None, None
             else:
-                print(f"❌ Spotify error: {e.http_status}")
+                print(f"Spotify error: {e.http_status}")
                 return None, None, None, None, None
             
     except Exception as e:
@@ -383,56 +383,22 @@ def fetch_user_data(token_info, feature_cols):
             print(f"Only {len(tracks_data)} tracks have features - need at least 3")
             return None, None, None, None, None
 
-        print(f"\n📊 Data sources: {api_count} API, {sim_count} simulated")
+        print(f"\nData sources: {api_count} API, {sim_count} simulated")
 
         agg = build_features_from_tracks(tracks_data)
 
         if agg is None:
             return None, None, None, None, None
 
-        encoder, song_scaler = load_song_encoder()
-        transfer_emb_dict = encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler)
-        agg.update(transfer_emb_dict)
-
-        transfer_nonzero = sum(1 for v in transfer_emb_dict.values() if v != 0.0)
-        print(f"Transfer embeddings non-zero count: {transfer_nonzero}/128")
+        # 
+        # transfer_emb_dict = encode_songs_to_transfer_emb(tracks_data, encoder, song_scaler)
 
         raw_vector = np.zeros((1, len(feature_cols)), dtype=np.float32)
         for i, col in enumerate(feature_cols):
             raw_vector[0, i] = agg.get(col, 0.0)
             
-        base_dir = Path(__file__).parent.parent
-        scaler_path = base_dir / "data" / "processed" / "mbti_scaler.pkl"
-        
-        if scaler_path.exists():
-            scaler = joblib.load(scaler_path)
-            scaled_vector = scaler.transform(raw_vector).astype(np.float32)
-            
-            print("\n" + "="*50)
-            print("🔧 APPLYING STABILIZATION FIX")
-            print("="*50)
-            
-            # Clip range
-            old_min, old_max = np.min(scaled_vector), np.max(scaled_vector)
-            scaled_vector = np.clip(scaled_vector, -3, 3)
-            print(f"   Clipping: [{old_min:.2f}, {old_max:.2f}] → [{np.min(scaled_vector):.2f}, {np.max(scaled_vector):.2f}]")
-            
-
-            small_std_threshold = 0.15
-            downweighted_count = 0
-            for i, col in enumerate(feature_cols):
-                if scaler.scale_[i] < small_std_threshold:
-                    scaled_vector[0, i] = scaled_vector[0, i] * 0.3
-                    downweighted_count += 1
-            
-            if downweighted_count > 0:
-                print(f"   Down-weighted {downweighted_count} low-variance features")
-            
-            print("="*50)
-            
-        else:
-            print(f"⚠️ Scaler not found at {scaler_path}")
-            scaled_vector = raw_vector
+        # 
+        scaled_vector = raw_vector
         
 
         artists_list = [t[1] for t in track_info]
@@ -452,7 +418,7 @@ def fetch_user_data(token_info, feature_cols):
         except Exception as e:
             print(f"Could not fetch genres: {e}")
         
-        print(f"\n✅ Successfully processed {len(tracks_data)} tracks")
+        print(f"\nSuccessfully processed {len(tracks_data)} tracks")
         print(f"   Feature vector shape: {scaled_vector.shape}")
         
         return scaled_vector, track_info, top_artists, genres, tracks_data

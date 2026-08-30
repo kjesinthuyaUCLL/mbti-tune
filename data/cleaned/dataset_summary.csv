@@ -1,0 +1,5 @@
+Dataset,Type,Samples,Features,Scaled_File
+1M,Autoencoder,1159764,10,X_1m_scaled.npy
+110K,Autoencoder,114000,10,X_110k_scaled.npy
+MBTI_Playlists,Classifier,4201,10,X_mbti_scaled.npy
+Raw_Playlists,Classifier,54343,10,X_raw_scaled.npy

@@ -21,17 +21,15 @@ Lyrics: {lyrics}
 
 Theme:"""
     
-    # Try Groq first
     if is_groq_available():
-        response = generate_with_groq(prompt, max_retries=1, model_name="llama-3.1-8b-instant")
+        response = generate_with_groq(prompt, max_retries=1, model_name="mixtral-8x7b-32768")
         if response:
             return response
             
     # Fallback to Gemini
     try:
         import google.generativeai as genai
-        # Use the correct model name that doesn't throw 404
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel('gemini-3.6-flash')
         response = model.generate_content(prompt)
         if response.text:
             return response.text.strip()
@@ -70,7 +68,7 @@ def fetch_lyrics(track_name, artist_name):
             data = response.json()
             if data and len(data) > 0 and data[0].get('plainLyrics'):
                 lyrics = data[0]['plainLyrics']
-                print(f"✅ Lyrics found for {track_name}")
+                print(f"Lyrics found for {track_name}")
                 return lyrics
     except Exception as e:
         print(f"LRCLIB error for {track_name}: {e}")
@@ -84,7 +82,7 @@ def fetch_lyrics(track_name, artist_name):
                 data = response.json()
                 if data.get('lyrics'):
                     lyrics = data['lyrics']
-                    print(f"✅ Lyrics found for {track_name} via Lyrics.ovh")
+                    print(f"Lyrics found for {track_name} via Lyrics.ovh")
                     return lyrics
         except Exception as e:
             print(f"Lyrics.ovh error for {track_name}: {e}")
@@ -101,7 +99,7 @@ def build_lyrics_context(tracks, needed=3):
         if len(summaries) >= needed:
             break
         
-        print(f"🔍 Searching for lyrics: {track_name} by {artist_name}")
+        print(f"Searching for lyrics: {track_name} by {artist_name}")
         
         # Fetch lyrics
         lyrics = fetch_lyrics(track_name, artist_name)
@@ -113,7 +111,7 @@ def build_lyrics_context(tracks, needed=3):
             else:
                 summaries.append(f"<b>{track_name}</b>: Lyrics found but analysis failed")
         else:
-            print(f"❌ No lyrics found for {track_name}")
+            print(f"No lyrics found for {track_name}")
         
         # Small delay to avoid rate limiting
         time.sleep(0.5)

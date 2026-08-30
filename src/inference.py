@@ -3,18 +3,19 @@ import numpy as np
 import json
 import joblib
 from pathlib import Path
-from src.model import MBTIClassifier
+from src.model import PolynomialFNN
 
 
 def load_model_and_scaler():
     base_dir = Path(__file__).parent.parent
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     
-    features_path = base_dir / "data" / "processed" / "mbti_features.json"
-    scaler_path = base_dir / "data" / "processed" / "mbti_scaler.pkl"
-    model_path = base_dir / "data" / "processed" / "mbti_classifier.pth"
+    features_path = base_dir / "models" / "feature_columns.json"
+    scaler_path = base_dir / "models" / "scaler.pkl"
+    poly_path = base_dir / "models" / "poly_transformer.pkl"
+    model_path = base_dir / "models" / "best_poly_fnn.pth"
     
-    for path in [features_path, scaler_path, model_path]:
+    for path in [features_path, scaler_path, poly_path, model_path]:
         if not path.exists():
             raise FileNotFoundError(f"Required file not found: {path}")
     
@@ -22,6 +23,7 @@ def load_model_and_scaler():
         feature_cols = json.load(f)
     
     scaler = joblib.load(scaler_path)
+    poly = joblib.load(poly_path)
     
     try:
         checkpoint = torch.load(model_path, map_location=device, weights_only=False)
@@ -39,29 +41,33 @@ def load_model_and_scaler():
         state_dict = checkpoint
         idx_to_type = None
     
-    if idx_to_type is not None:
-        if all(isinstance(k, str) for k in idx_to_type.keys()):
-            idx_to_type = {int(k): v for k, v in idx_to_type.items()}
-    else:
-        idx_to_type = {
-            0: "ENFJ", 1: "ENFP", 2: "ENTJ", 3: "ENTP",
-            4: "ESFJ", 5: "ESFP", 6: "ESTJ", 7: "ESTP",
-            8: "INFJ", 9: "INFP", 10: "INTJ", 11: "INTP",
-            12: "ISFJ", 13: "ISFP", 14: "ISTJ", 15: "ISTP"
-        }
+    try:
+        with open(base_dir / 'models' / 'label_mapping.json', 'r') as f:
+            idx_to_type = {int(v): k for k, v in json.load(f).items()}
+    except FileNotFoundError:
+        if idx_to_type is not None:
+            if all(isinstance(k, str) for k in idx_to_type.keys()):
+                idx_to_type = {int(k): v for k, v in idx_to_type.items()}
+        else:
+            idx_to_type = {
+                0: "ENFJ", 1: "ENFP", 2: "ENTJ", 3: "ENTP",
+                4: "ESFJ", 5: "ESFP", 6: "ESTJ", 7: "ESTP",
+                8: "INFJ", 9: "INFP", 10: "INTJ", 11: "INTP",
+                12: "ISFJ", 13: "ISFP", 14: "ISTJ", 15: "ISTP"
+            }
     
-    model = MBTIClassifier(input_dim=len(feature_cols))
+    # Use 1035 features or derived dynamically from poly
+    input_dim = len(poly.get_feature_names_out(feature_cols)) if feature_cols else 1035
+    model = PolynomialFNN(input_dim=input_dim)
     model_keys = set(model.state_dict().keys())
     filtered_state_dict = {k: v for k, v in state_dict.items() if k in model_keys}
     model.load_state_dict(filtered_state_dict, strict=False)
     model.to(device)
     model.eval()
     
-    print(f"✅ Loaded model with {len(feature_cols)} features on {device}")
-    print(f"✅ Loaded scaler with {scaler.mean_.shape[0]} features")
-    print(f"✅ MBTI types: {len(idx_to_type)}")
+    print(f"Loaded Polynomial model with {input_dim} features on {device}")
     
-    return model, scaler, device, feature_cols, idx_to_type
+    return model, poly, scaler, device, feature_cols, idx_to_type
 
 
 def stabilize_features(features_vector, scaler, feature_cols, clip_range=(-3, 3)):
@@ -82,13 +88,13 @@ def stabilize_features(features_vector, scaler, feature_cols, clip_range=(-3, 3)
                     downweighted_count += 1
     
     if not hasattr(stabilize_features, '_printed'):
-        print(f"🔧 Stabilization active: clipping to {clip_range}, down-weighting {downweighted_count} low-variance features")
+        print(f"Stabilization active: clipping to {clip_range}, down-weighting {downweighted_count} low-variance features")
         stabilize_features._printed = True
     
     return stabilized.astype(np.float32)
 
 
-def predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_type, temperature=4.0):
+def predict_mbti(features_vector, model, poly, scaler, device, feature_cols, idx_to_type, temperature=4.0):
     if features_vector.ndim == 1:
         features_vector = features_vector.reshape(1, -1)
     
@@ -99,7 +105,9 @@ def predict_mbti(features_vector, model, scaler, device, feature_cols, idx_to_ty
     raw_vector = features_vector[0].copy()
     stabilized_vector = stabilize_features(raw_vector, scaler, feature_cols, clip_range=(-3, 3))
     
-    x = torch.tensor(stabilized_vector.reshape(1, -1), dtype=torch.float32).to(device)
+    input_poly = poly.transform(stabilized_vector.reshape(1, -1))
+    input_scaled = scaler.transform(input_poly)
+    x = torch.tensor(input_scaled, dtype=torch.float32).to(device)
     
     with torch.no_grad():
         logits = model(x)
